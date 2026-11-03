@@ -1,0 +1,33 @@
+replicaCount: 1
+image:
+  repository: english-words
+  tag: local
+  pullPolicy: IfNotPresent
+service:
+  type: ClusterIP
+  port: 80
+  targetPort: 3000
+env:
+  PORT: "3000"
+  # Real HTTPS origin (Compose named Cloudflare Tunnel + WEBAPP_URL). Not created by this chart.
+  WEBAPP_URL: https://example.com
+  BOT_USERNAME: YOUR_BOT_USERNAME
+  SUPPORT_TELEGRAM_USERNAME: YOUR_SUPPORT_USERNAME
+  TRIBUTE_PRODUCT_MONTHLY_ID: "1001"
+  TRIBUTE_PRODUCT_YEARLY_ID: "1002"
+  TRIBUTE_SUBSCRIBE_URL: "https://web.tribute.tg/p/YOUR_MONTHLY_PRODUCT"
+  TRIBUTE_SUBSCRIBE_YEARLY_URL: "https://web.tribute.tg/p/YOUR_YEARLY_PRODUCT"
+  ALLOW_DEV_AUTH: "false"
+  DICTIONARY_DIR: /app/data/themes
+  MIGRATIONS_DIR: /app/migrations
+  WEB_DIST: /app/packages/web/dist
+  PET_SUFFER_HOURS: "72"
+  GEMINI_MODEL: gemini-3.1-flash-lite
+  FACT_CHANNEL_ID: "@YOUR_CHANNEL_USERNAME"
+secret:
+  create: true
+  DATABASE_URL: postgres://english:english@postgres:5432/english
+  BOT_TOKEN: 123456:replace-me
+  TRIBUTE_API_KEY: replace-me
+  GEMINI_API_KEY: ""
+resources: {}

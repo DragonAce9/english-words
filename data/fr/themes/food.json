@@ -1,0 +1,6778 @@
+{
+  "id": "food",
+  "title": "Еда",
+  "paid": false,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "alcool",
+      "word": "alcool",
+      "en": "alcool",
+      "sourceId": "alcohol",
+      "sourceIds": [
+        "alcohol"
+      ],
+      "ru": [
+        "спирт",
+        "алкоголь",
+        "алкогольный напиток"
+      ],
+      "gender": "m",
+      "example": "Il ne boit jamais d'alcool.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sans-alcool",
+      "word": "sans alcool",
+      "en": "sans alcool",
+      "sourceId": "alcohol-free",
+      "sourceIds": [
+        "alcohol-free"
+      ],
+      "ru": [
+        "безалкогольный"
+      ],
+      "gender": null,
+      "example": "Je voudrais une bière sans alcool, s'il vous plaît.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "amande",
+      "word": "amande",
+      "en": "amande",
+      "sourceId": "almond",
+      "sourceIds": [
+        "almond"
+      ],
+      "ru": [
+        "миндаль"
+      ],
+      "gender": "f",
+      "example": "J'aime manger une amande chaque matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "appetit",
+      "word": "appétit",
+      "en": "appétit",
+      "sourceId": "appetite",
+      "sourceIds": [
+        "appetite"
+      ],
+      "ru": [
+        "аппетит"
+      ],
+      "gender": "m",
+      "example": "Il a un bon appétit.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "pomme",
+      "word": "pomme",
+      "en": "pomme",
+      "sourceId": "apple",
+      "sourceIds": [
+        "apple"
+      ],
+      "ru": [
+        "яблоко"
+      ],
+      "gender": "f",
+      "example": "Je mange une pomme rouge.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "lard",
+      "word": "lard",
+      "en": "lard",
+      "sourceId": "bacon",
+      "sourceIds": [
+        "bacon"
+      ],
+      "ru": [
+        "бекон",
+        "ветчина"
+      ],
+      "gender": "m",
+      "example": "J'aime manger des œufs avec du lard au petit-déjeuner.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "cuisson",
+      "word": "cuisson",
+      "en": "cuisson",
+      "sourceId": "bake",
+      "sourceIds": [
+        "bake"
+      ],
+      "ru": [
+        "печь",
+        "выпекание",
+        "запекание"
+      ],
+      "gender": "f",
+      "example": "La cuisson du pain prend une heure.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cuit-au-four",
+      "word": "cuit au four",
+      "en": "cuit au four",
+      "sourceId": "baked",
+      "sourceIds": [
+        "baked"
+      ],
+      "ru": [
+        "запечённый",
+        "печёный"
+      ],
+      "gender": null,
+      "example": "J'aime manger du poisson cuit au four.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "patisserie",
+      "word": "pâtisserie",
+      "en": "pâtisserie",
+      "sourceId": "baking",
+      "sourceIds": [
+        "baking"
+      ],
+      "ru": [
+        "выпечка",
+        "выпекание"
+      ],
+      "gender": "f",
+      "example": "J'adore l'odeur de la pâtisserie fraîche le matin.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "banane",
+      "word": "banane",
+      "en": "banane",
+      "sourceId": "banana",
+      "sourceIds": [
+        "banana"
+      ],
+      "ru": [
+        "банан",
+        "банановое дерево"
+      ],
+      "gender": "f",
+      "example": "J'aime manger une banane au petit-déjeuner.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "barre",
+      "word": "barre",
+      "en": "barre",
+      "sourceId": "bars",
+      "sourceIds": [
+        "bars"
+      ],
+      "ru": [
+        "брусья",
+        "решётка"
+      ],
+      "gender": "f",
+      "example": "Il s'est accroché aux barres pour faire des tractions.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "haricot",
+      "word": "haricot",
+      "en": "haricot",
+      "sourceId": "bean",
+      "sourceIds": [
+        "bean"
+      ],
+      "ru": [
+        "боб",
+        "фасоль"
+      ],
+      "gender": "m",
+      "example": "J'ai cuisiné une salade de haricots verts.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "haricot",
+      "word": "haricot",
+      "en": "haricot",
+      "sourceId": "beans",
+      "sourceIds": [
+        "beans"
+      ],
+      "ru": [
+        "бобы",
+        "фасоль"
+      ],
+      "gender": "m",
+      "example": "J'ai mangé des haricots verts pour le dîner.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "b-uf",
+      "word": "bœuf",
+      "en": "bœuf",
+      "sourceId": "beef",
+      "sourceIds": [
+        "beef"
+      ],
+      "ru": [
+        "говяжий",
+        "говядина",
+        "телятина"
+      ],
+      "gender": "m",
+      "example": "Je préfère manger du bœuf plutôt que du poulet.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "biere",
+      "word": "bière",
+      "en": "bière",
+      "sourceId": "beer",
+      "sourceIds": [
+        "beer"
+      ],
+      "ru": [
+        "пиво"
+      ],
+      "gender": "f",
+      "example": "Je voudrais une bière fraîche, s'il vous plaît.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "baie",
+      "word": "baie",
+      "en": "baie",
+      "sourceId": "berry",
+      "sourceIds": [
+        "berry"
+      ],
+      "ru": [
+        "ягода"
+      ],
+      "gender": "f",
+      "example": "La fraise est techniquement une baie.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "amer",
+      "word": "amer",
+      "en": "amer",
+      "sourceId": "bitter",
+      "sourceIds": [
+        "bitter"
+      ],
+      "ru": [
+        "горький",
+        "мучительный",
+        "суровый"
+      ],
+      "gender": null,
+      "example": "Ce café est trop amer.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "amerement",
+      "word": "amèrement",
+      "en": "amèrement",
+      "sourceId": "bitterly",
+      "sourceIds": [
+        "bitterly"
+      ],
+      "ru": [
+        "горько"
+      ],
+      "gender": null,
+      "example": "Il a pleuré amèrement après la nouvelle.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "furoncle",
+      "word": "furoncle",
+      "en": "furoncle",
+      "sourceId": "boil",
+      "sourceIds": [
+        "boil"
+      ],
+      "ru": [
+        "нарыв",
+        "фурункул",
+        "чирей"
+      ],
+      "gender": "m",
+      "example": "Il a un furoncle douloureux sur le bras.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bouilli",
+      "word": "bouilli",
+      "en": "bouilli",
+      "sourceId": "boiled",
+      "sourceIds": [
+        "boiled"
+      ],
+      "ru": [
+        "варёный",
+        "отварной",
+        "кипячёный"
+      ],
+      "gender": null,
+      "example": "J'ai mangé un œuf bouilli ce matin.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "ebullition",
+      "word": "ébullition",
+      "en": "ébullition",
+      "sourceId": "boiling",
+      "sourceIds": [
+        "boiling"
+      ],
+      "ru": [
+        "кипение"
+      ],
+      "gender": "f",
+      "example": "L'eau est en ébullition.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bouteille",
+      "word": "bouteille",
+      "en": "bouteille",
+      "sourceId": "bottle",
+      "sourceIds": [
+        "bottle"
+      ],
+      "ru": [
+        "бутылка",
+        "охапка (сена)",
+        "сноп"
+      ],
+      "gender": "f",
+      "example": "Elle a acheté une bouteille de vin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bol",
+      "word": "bol",
+      "en": "bol",
+      "sourceId": "bowl",
+      "sourceIds": [
+        "bowl"
+      ],
+      "ru": [
+        "миска",
+        "пиала",
+        "плошка"
+      ],
+      "gender": "m",
+      "example": "Il mange ses céréales dans un grand bol.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pain",
+      "word": "pain",
+      "en": "pain",
+      "sourceId": "bread",
+      "sourceIds": [
+        "bread"
+      ],
+      "ru": [
+        "хлеб",
+        "панировать"
+      ],
+      "gender": "m",
+      "example": "Le pain frais sent merveilleusement bon.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "dejeuner",
+      "word": "déjeuner",
+      "en": "déjeuner",
+      "sourceId": "breakfast",
+      "sourceIds": [
+        "breakfast"
+      ],
+      "ru": [
+        "завтрак",
+        "завтракать",
+        "позавтракать"
+      ],
+      "gender": null,
+      "example": "Je déjeune à huit heures.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "burger",
+      "word": "burger",
+      "en": "burger",
+      "sourceId": "burger",
+      "sourceIds": [
+        "burger"
+      ],
+      "ru": [
+        "бургер",
+        "бутерброд",
+        "гамбургер"
+      ],
+      "gender": "m",
+      "example": "J'ai mangé un burger délicieux.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "beurre",
+      "word": "beurre",
+      "en": "beurre",
+      "sourceId": "butter",
+      "sourceIds": [
+        "butter"
+      ],
+      "ru": [
+        "масло",
+        "сливочное масло",
+        "намазать маслом"
+      ],
+      "gender": "m",
+      "example": "J'aime mettre du beurre sur mon pain.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chou",
+      "word": "chou",
+      "en": "chou",
+      "sourceId": "cabbage",
+      "sourceIds": [
+        "cabbage"
+      ],
+      "ru": [
+        "капуста",
+        "кочанная капуста"
+      ],
+      "gender": "m",
+      "example": "J'ai préparé une soupe au chou pour le dîner.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cafeteria",
+      "word": "cafétéria",
+      "en": "cafétéria",
+      "sourceId": "cafeteria",
+      "sourceIds": [
+        "cafeteria"
+      ],
+      "ru": [
+        "буфет",
+        "закусочная",
+        "кафетерий"
+      ],
+      "gender": "f",
+      "example": "Les étudiants mangent à la cafétéria.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "gateau",
+      "word": "gâteau",
+      "en": "gâteau",
+      "sourceId": "cake",
+      "sourceIds": [
+        "cake"
+      ],
+      "ru": [
+        "торт",
+        "кекс",
+        "пирожное"
+      ],
+      "gender": "m",
+      "example": "J'ai préparé un gâteau au chocolat pour son anniversaire.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "boite-de-conserve",
+      "word": "boîte de conserve",
+      "en": "boîte de conserve",
+      "sourceId": "can",
+      "sourceIds": [
+        "can",
+        "tin"
+      ],
+      "ru": [
+        "жестяная банка"
+      ],
+      "gender": "f",
+      "example": "Elle a ouvert une boîte de conserve pour le dîner.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "bonbon",
+      "word": "bonbon",
+      "en": "bonbon",
+      "sourceId": "candy",
+      "sourceIds": [
+        "candy"
+      ],
+      "ru": [
+        "конфета",
+        "сласть"
+      ],
+      "gender": "m",
+      "example": "Il a mangé un bonbon au chocolat.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "carotte",
+      "word": "carotte",
+      "en": "carotte",
+      "sourceId": "carrot",
+      "sourceIds": [
+        "carrot"
+      ],
+      "ru": [
+        "морковь",
+        "морковка",
+        "морква"
+      ],
+      "gender": "f",
+      "example": "J'aime manger une carotte crue.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "caviar",
+      "word": "caviar",
+      "en": "caviar",
+      "sourceId": "caviar",
+      "sourceIds": [
+        "caviar"
+      ],
+      "ru": [
+        "икра"
+      ],
+      "gender": "m",
+      "example": "Il a mangé du caviar pour son anniversaire.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cereale",
+      "word": "céréale",
+      "en": "céréale",
+      "sourceId": "cereal",
+      "sourceIds": [
+        "cereal"
+      ],
+      "ru": [
+        "злак",
+        "зерновая культура",
+        "крупа"
+      ],
+      "gender": "f",
+      "example": "Le blé est une céréale très cultivée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "champagne",
+      "word": "champagne",
+      "en": "champagne",
+      "sourceId": "champagne",
+      "sourceIds": [
+        "champagne"
+      ],
+      "ru": [
+        "шампанское",
+        "игристое вино"
+      ],
+      "gender": "m",
+      "example": "Nous avons bu une coupe de champagne pour fêter son anniversaire.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "charlotte",
+      "word": "charlotte",
+      "en": "charlotte",
+      "sourceId": "charlotte",
+      "sourceIds": [
+        "charlotte"
+      ],
+      "ru": [
+        "шарлотка"
+      ],
+      "gender": "f",
+      "example": "Elle a préparé une charlotte aux fraises pour le dessert.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fromage",
+      "word": "fromage",
+      "en": "fromage",
+      "sourceId": "cheese",
+      "sourceIds": [
+        "cheese"
+      ],
+      "ru": [
+        "сыр",
+        "творог"
+      ],
+      "gender": "m",
+      "example": "Voulez-vous du fromage avec ça ?",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chef",
+      "word": "chef",
+      "en": "chef",
+      "sourceId": "chef",
+      "sourceIds": [
+        "chef"
+      ],
+      "ru": [
+        "повар",
+        "старший кок",
+        "шеф-повар"
+      ],
+      "gender": "m",
+      "example": "Le chef prépare un délicieux repas.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "cerise",
+      "word": "cerise",
+      "en": "cerise",
+      "sourceId": "cherry",
+      "sourceIds": [
+        "cherry"
+      ],
+      "ru": [
+        "вишнёвый",
+        "вишня",
+        "черешня"
+      ],
+      "gender": "f",
+      "example": "Elle a mangé une cerise.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "poulet",
+      "word": "poulet",
+      "en": "poulet",
+      "sourceId": "chicken",
+      "sourceIds": [
+        "chicken"
+      ],
+      "ru": [
+        "курица",
+        "цыплёнок",
+        "курятина"
+      ],
+      "gender": "m",
+      "example": "Nous mangeons du poulet pour le dîner.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chocolat",
+      "word": "chocolat",
+      "en": "chocolat",
+      "sourceId": "chocolate",
+      "sourceIds": [
+        "chocolate"
+      ],
+      "ru": [
+        "шоколадный",
+        "шоколад",
+        "шоколадная конфета"
+      ],
+      "gender": null,
+      "example": "J'adore ce gâteau au chocolat.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "cocktail",
+      "word": "cocktail",
+      "en": "cocktail",
+      "sourceId": "cocktail",
+      "sourceIds": [
+        "cocktail"
+      ],
+      "ru": [
+        "коктейль",
+        "коктель"
+      ],
+      "gender": "m",
+      "example": "Il a préparé un cocktail délicieux pour ses invités.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "a-cafe",
+      "word": "à café",
+      "en": "à café",
+      "sourceId": "coffee",
+      "sourceIds": [
+        "coffee"
+      ],
+      "ru": [
+        "кофе",
+        "кофейный",
+        "кофейное зерно"
+      ],
+      "gender": null,
+      "example": "C'est une tasse à café.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "cola",
+      "word": "cola",
+      "en": "cola",
+      "sourceId": "coke",
+      "sourceIds": [
+        "coke",
+        "cola"
+      ],
+      "ru": [
+        "кола"
+      ],
+      "gender": "m",
+      "example": "Je voudrais un verre de cola, s'il vous plaît.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cuisiner",
+      "word": "cuisiner",
+      "en": "cuisiner",
+      "sourceId": "cook",
+      "sourceIds": [
+        "cook"
+      ],
+      "ru": [
+        "готовить"
+      ],
+      "gender": null,
+      "example": "Je cuisine le dîner.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "cuit",
+      "word": "cuit",
+      "en": "cuit",
+      "sourceId": "cooked",
+      "sourceIds": [
+        "cooked"
+      ],
+      "ru": [
+        "варёный",
+        "приготовленный",
+        "сваренный"
+      ],
+      "gender": null,
+      "example": "Le riz est déjà cuit.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "biscuit",
+      "word": "biscuit",
+      "en": "biscuit",
+      "sourceId": "cookie",
+      "sourceIds": [
+        "cookie",
+        "biscuit"
+      ],
+      "ru": [
+        "печенье"
+      ],
+      "gender": "m",
+      "example": "J'aime manger un biscuit avec mon café.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "cuisine",
+      "word": "cuisine",
+      "en": "cuisine",
+      "sourceId": "cooking",
+      "sourceIds": [
+        "cooking"
+      ],
+      "ru": [
+        "готовка",
+        "кулинария",
+        "стряпня"
+      ],
+      "gender": "f",
+      "example": "Elle adore la cuisine italienne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mais",
+      "word": "maïs",
+      "en": "maïs",
+      "sourceId": "corn",
+      "sourceIds": [
+        "corn"
+      ],
+      "ru": [
+        "кукуруза"
+      ],
+      "gender": "m",
+      "example": "Le maïs est une céréale très cultivée.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "creme",
+      "word": "crème",
+      "en": "crème",
+      "sourceId": "cream",
+      "sourceIds": [
+        "cream"
+      ],
+      "ru": [
+        "кремовый",
+        "сметана",
+        "сливки"
+      ],
+      "gender": "f",
+      "example": "J'aime mettre de la crème dans mon café.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "creme-a-cafe",
+      "word": "crème à café",
+      "en": "crème à café",
+      "sourceId": "creamer",
+      "sourceIds": [
+        "creamer"
+      ],
+      "ru": [
+        "сливки для кофе",
+        "заменитель сливок"
+      ],
+      "gender": "f",
+      "example": "J'ajoute un peu de crème à café dans mon expresso.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "crouton",
+      "word": "croûton",
+      "en": "croûton",
+      "sourceId": "croutons",
+      "sourceIds": [
+        "croutons"
+      ],
+      "ru": [
+        "гренки",
+        "сухарики"
+      ],
+      "gender": "m",
+      "example": "J'ajoute des croûtons à ma soupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "concombre",
+      "word": "concombre",
+      "en": "concombre",
+      "sourceId": "cucumber",
+      "sourceIds": [
+        "cucumber"
+      ],
+      "ru": [
+        "огурец"
+      ],
+      "gender": "m",
+      "example": "J'ai ajouté du concombre dans la salade.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "tasse",
+      "word": "tasse",
+      "en": "tasse",
+      "sourceId": "cup",
+      "sourceIds": [
+        "cup"
+      ],
+      "ru": [
+        "чашка",
+        "чаша",
+        "кубок"
+      ],
+      "gender": "f",
+      "example": "Elle boit une tasse de thé.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "delicieux",
+      "word": "délicieux",
+      "en": "délicieux",
+      "sourceId": "delicious",
+      "sourceIds": [
+        "delicious"
+      ],
+      "ru": [
+        "вкусный",
+        "вкусно",
+        "лакомый"
+      ],
+      "gender": null,
+      "example": "Le gâteau était délicieux.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "delicatesse",
+      "word": "délicatesse",
+      "en": "délicatesse",
+      "sourceId": "deliciousness",
+      "sourceIds": [
+        "deliciousness"
+      ],
+      "ru": [
+        "вкуснота"
+      ],
+      "gender": "f",
+      "example": "La délicatesse de ce plat est incroyable.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "dessert",
+      "word": "dessert",
+      "en": "dessert",
+      "sourceId": "dessert",
+      "sourceIds": [
+        "dessert"
+      ],
+      "ru": [
+        "десерт",
+        "сладкое"
+      ],
+      "gender": "m",
+      "example": "La glace est mon dessert préféré.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cuillere-a-dessert",
+      "word": "cuillère à dessert",
+      "en": "cuillère à dessert",
+      "sourceId": "dessertspoon",
+      "sourceIds": [
+        "dessertspoon"
+      ],
+      "ru": [
+        "десертная ложка"
+      ],
+      "gender": "f",
+      "example": "Il a mangé sa mousse au chocolat avec une cuillère à dessert.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "diner",
+      "word": "dîner",
+      "en": "dîner",
+      "sourceId": "dinner",
+      "sourceIds": [
+        "dinner"
+      ],
+      "ru": [
+        "ужин",
+        "обед",
+        "ужинать"
+      ],
+      "gender": "m",
+      "example": "Le dîner est à sept heures ce soir.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "plat",
+      "word": "plat",
+      "en": "plat",
+      "sourceId": "dish",
+      "sourceIds": [
+        "dish"
+      ],
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "миска"
+      ],
+      "gender": "m",
+      "example": "Ce plat est délicieux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vaisselle",
+      "word": "vaisselle",
+      "en": "vaisselle",
+      "sourceId": "dishes",
+      "sourceIds": [
+        "dishes"
+      ],
+      "ru": [
+        "посуда",
+        "блюда"
+      ],
+      "gender": "f",
+      "example": "Comment faire la vaisselle ?",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "boisson",
+      "word": "boisson",
+      "en": "boisson",
+      "sourceId": "drink",
+      "sourceIds": [
+        "drink"
+      ],
+      "ru": [
+        "пить"
+      ],
+      "gender": "f",
+      "example": "Buvez plus d'eau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "boisson",
+      "word": "boisson",
+      "en": "boisson",
+      "sourceId": "drinking",
+      "sourceIds": [
+        "drinking"
+      ],
+      "ru": [
+        "питьё"
+      ],
+      "gender": "f",
+      "example": "Il a besoin d'une boisson fraîche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "manger",
+      "word": "manger",
+      "en": "manger",
+      "sourceId": "eat",
+      "sourceIds": [
+        "eat"
+      ],
+      "ru": [
+        "есть"
+      ],
+      "gender": null,
+      "example": "Mangez plus de légumes.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "alimentation",
+      "word": "alimentation",
+      "en": "alimentation",
+      "sourceId": "eating",
+      "sourceIds": [
+        "eating"
+      ],
+      "ru": [
+        "еда",
+        "принятие пищи",
+        "пища"
+      ],
+      "gender": "f",
+      "example": "Une alimentation saine est importante pour la santé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "uf",
+      "word": "œuf",
+      "en": "œuf",
+      "sourceId": "egg",
+      "sourceIds": [
+        "egg"
+      ],
+      "ru": [
+        "яйцо"
+      ],
+      "gender": "m",
+      "example": "Je mange un œuf au petit-déjeuner.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "coquille-d-uf",
+      "word": "coquille d'œuf",
+      "en": "coquille d'œuf",
+      "sourceId": "egg-shells",
+      "sourceIds": [
+        "egg-shells"
+      ],
+      "ru": [
+        "яичная скорлупа"
+      ],
+      "gender": "f",
+      "example": "Il a jeté les coquilles d'œuf à la poubelle.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "fourrage",
+      "word": "fourrage",
+      "en": "fourrage",
+      "sourceId": "feed",
+      "sourceIds": [
+        "feed"
+      ],
+      "ru": [
+        "кормить"
+      ],
+      "gender": "m",
+      "example": "Il faut donner du fourrage aux animaux.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "plombage",
+      "word": "plombage",
+      "en": "plombage",
+      "sourceId": "filling",
+      "sourceIds": [
+        "filling"
+      ],
+      "ru": [
+        "сытный",
+        "наполнение",
+        "пломба"
+      ],
+      "gender": "m",
+      "example": "Le dentiste a posé un plombage.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "poisson",
+      "word": "poisson",
+      "en": "poisson",
+      "sourceId": "fish",
+      "sourceIds": [
+        "fish"
+      ],
+      "ru": [
+        "рыба"
+      ],
+      "gender": "m",
+      "example": "Le poisson nage dans la rivière.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "saveur",
+      "word": "saveur",
+      "en": "saveur",
+      "sourceId": "flavor",
+      "sourceIds": [
+        "flavor"
+      ],
+      "ru": [
+        "вкус",
+        "аромат",
+        "букет"
+      ],
+      "gender": "f",
+      "example": "Cette glace a une saveur délicieuse.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "assaisonnement",
+      "word": "assaisonnement",
+      "en": "assaisonnement",
+      "sourceId": "flavoring",
+      "sourceIds": [
+        "flavoring"
+      ],
+      "ru": [
+        "приправа"
+      ],
+      "gender": "m",
+      "example": "Cet assaisonnement relève le goût de la soupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "farine",
+      "word": "farine",
+      "en": "farine",
+      "sourceId": "flour",
+      "sourceIds": [
+        "flour"
+      ],
+      "ru": [
+        "мука"
+      ],
+      "gender": "f",
+      "example": "Il faut ajouter de la farine pour épaissir la sauce.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "nourriture",
+      "word": "nourriture",
+      "en": "nourriture",
+      "sourceId": "food",
+      "sourceIds": [
+        "food"
+      ],
+      "ru": [
+        "пища",
+        "еда",
+        "корм"
+      ],
+      "gender": "f",
+      "example": "Il faut manger une nourriture saine pour rester en bonne santé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "fourchette",
+      "word": "fourchette",
+      "en": "fourchette",
+      "sourceId": "fork",
+      "sourceIds": [
+        "fork"
+      ],
+      "ru": [
+        "вилка"
+      ],
+      "gender": "f",
+      "example": "Elle mange avec une fourchette.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "frais",
+      "word": "frais",
+      "en": "frais",
+      "sourceId": "fresh",
+      "sourceIds": [
+        "fresh"
+      ],
+      "ru": [
+        "свежий"
+      ],
+      "gender": null,
+      "example": "J'aime manger des fruits frais le matin.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "frit",
+      "word": "frit",
+      "en": "frit",
+      "sourceId": "fried",
+      "sourceIds": [
+        "fried"
+      ],
+      "ru": [
+        "жареный"
+      ],
+      "gender": null,
+      "example": "J'aime manger du poisson frit.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "fruit",
+      "word": "fruit",
+      "en": "fruit",
+      "sourceId": "fruit",
+      "sourceIds": [
+        "fruit"
+      ],
+      "ru": [
+        "фрукт",
+        "плод",
+        "фрукты"
+      ],
+      "gender": "m",
+      "example": "Il mange un fruit chaque matin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "frire",
+      "word": "frire",
+      "en": "frire",
+      "sourceId": "fry",
+      "sourceIds": [
+        "fry"
+      ],
+      "ru": [
+        "жарить"
+      ],
+      "gender": null,
+      "example": "Il faut frire les pommes de terre dans de l'huile chaude.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "ail",
+      "word": "ail",
+      "en": "ail",
+      "sourceId": "garlic",
+      "sourceIds": [
+        "garlic"
+      ],
+      "ru": [
+        "чеснок"
+      ],
+      "gender": "m",
+      "example": "J'ajoute une gousse d'ail dans la sauce.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "verre",
+      "word": "verre",
+      "en": "verre",
+      "sourceId": "glass",
+      "sourceIds": [
+        "glass"
+      ],
+      "ru": [
+        "стекло",
+        "бокал",
+        "стакан"
+      ],
+      "gender": "m",
+      "example": "Il boit de l'eau dans un verre.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "gourmet",
+      "word": "gourmet",
+      "en": "gourmet",
+      "sourceId": "gourmet",
+      "sourceIds": [
+        "gourmet"
+      ],
+      "ru": [
+        "гастроном",
+        "гурман",
+        "лакомка"
+      ],
+      "gender": "m",
+      "example": "C'est un vrai gourmet qui apprécie les plats raffinés.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "raisin",
+      "word": "raisin",
+      "en": "raisin",
+      "sourceId": "grape",
+      "sourceIds": [
+        "grape"
+      ],
+      "ru": [
+        "виноград",
+        "виноградина"
+      ],
+      "gender": "m",
+      "example": "J'ai mangé une grappe de raisin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "legumes",
+      "word": "légumes",
+      "en": "légumes",
+      "sourceId": "greens",
+      "sourceIds": [
+        "greens"
+      ],
+      "ru": [
+        "овощ",
+        "зелень"
+      ],
+      "gender": "m",
+      "example": "Il faut manger beaucoup de légumes verts pour rester en bonne santé.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "gril",
+      "word": "gril",
+      "en": "gril",
+      "sourceId": "grill",
+      "sourceIds": [
+        "grill"
+      ],
+      "ru": [
+        "решётка",
+        "барбекю",
+        "барбекюшница"
+      ],
+      "gender": "m",
+      "example": "Il fait cuire la viande sur le gril.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "grille",
+      "word": "grillé",
+      "en": "grillé",
+      "sourceId": "grilled",
+      "sourceIds": [
+        "grilled"
+      ],
+      "ru": [
+        "жареный"
+      ],
+      "gender": null,
+      "example": "J'ai mangé un poulet grillé pour le déjeuner.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "viande-hachee",
+      "word": "viande hachée",
+      "en": "viande hachée",
+      "sourceId": "ground-meat",
+      "sourceIds": [
+        "ground-meat"
+      ],
+      "ru": [
+        "фарш"
+      ],
+      "gender": "f",
+      "example": "J'ai besoin de viande hachée pour préparer des spaghettis bolognaise.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "jambon",
+      "word": "jambon",
+      "en": "jambon",
+      "sourceId": "ham",
+      "sourceIds": [
+        "ham"
+      ],
+      "ru": [
+        "ветчина"
+      ],
+      "gender": "m",
+      "example": "Je voudrais un sandwich au jambon.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "poule",
+      "word": "poule",
+      "en": "poule",
+      "sourceId": "hen",
+      "sourceIds": [
+        "hen"
+      ],
+      "ru": [
+        "курица",
+        "курочка",
+        "самка"
+      ],
+      "gender": "f",
+      "example": "La poule picore des graines dans la cour.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "herbe",
+      "word": "herbe",
+      "en": "herbe",
+      "sourceId": "herb",
+      "sourceIds": [
+        "herb"
+      ],
+      "ru": [
+        "пряная трава",
+        "зелень"
+      ],
+      "gender": "f",
+      "example": "J'ai ajouté des herbes fraîches à la sauce.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "hareng",
+      "word": "hareng",
+      "en": "hareng",
+      "sourceId": "herring",
+      "sourceIds": [
+        "herring"
+      ],
+      "ru": [
+        "сельдь",
+        "селёдка"
+      ],
+      "gender": "m",
+      "example": "Le hareng est un poisson très consommé en Europe du Nord.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "miel",
+      "word": "miel",
+      "en": "miel",
+      "sourceId": "honey",
+      "sourceIds": [
+        "honey"
+      ],
+      "ru": [
+        "мёд"
+      ],
+      "gender": "m",
+      "example": "J'aime mettre du miel dans mon thé.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "affame",
+      "word": "affamé",
+      "en": "affamé",
+      "sourceId": "hungry",
+      "sourceIds": [
+        "hungry"
+      ],
+      "ru": [
+        "голодный",
+        "алчущий",
+        "жаждущий"
+      ],
+      "gender": null,
+      "example": "Je suis affamé après la promenade.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "ingredient",
+      "word": "ingrédient",
+      "en": "ingrédient",
+      "sourceId": "ingredient",
+      "sourceIds": [
+        "ingredient"
+      ],
+      "ru": [
+        "ингредиент",
+        "компонент",
+        "составная часть"
+      ],
+      "gender": "m",
+      "example": "La liste des ingrédients est indiquée sur l'emballage.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "confiture",
+      "word": "confiture",
+      "en": "confiture",
+      "sourceId": "jam",
+      "sourceIds": [
+        "jam"
+      ],
+      "ru": [
+        "джем",
+        "варенье",
+        "конфитюр"
+      ],
+      "gender": "f",
+      "example": "J'aime manger de la confiture sur mes tartines le matin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "jus",
+      "word": "jus",
+      "en": "jus",
+      "sourceId": "juice",
+      "sourceIds": [
+        "juice"
+      ],
+      "ru": [
+        "сок"
+      ],
+      "gender": "m",
+      "example": "Je bois un jus d'orange le matin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "presse-fruits",
+      "word": "presse-fruits",
+      "en": "presse-fruits",
+      "sourceId": "juicer",
+      "sourceIds": [
+        "juicer"
+      ],
+      "ru": [
+        "соковыжималка"
+      ],
+      "gender": "m",
+      "example": "J'utilise mon presse-fruits tous les matins pour faire du jus d'orange frais.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "agneau",
+      "word": "agneau",
+      "en": "agneau",
+      "sourceId": "lamb",
+      "sourceIds": [
+        "lamb"
+      ],
+      "ru": [
+        "ягнёнок",
+        "агнец",
+        "барашек"
+      ],
+      "gender": "m",
+      "example": "L'agneau broute dans le pré.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "citron",
+      "word": "citron",
+      "en": "citron",
+      "sourceId": "lemon",
+      "sourceIds": [
+        "lemon"
+      ],
+      "ru": [
+        "лимон"
+      ],
+      "gender": "m",
+      "example": "J'aime ajouter du citron dans mon thé.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "dejeuner",
+      "word": "déjeuner",
+      "en": "déjeuner",
+      "sourceId": "lunch",
+      "sourceIds": [
+        "lunch"
+      ],
+      "ru": [
+        "обед",
+        "ленч",
+        "второй завтрак"
+      ],
+      "gender": "m",
+      "example": "Nous avons déjeuné dans un petit café.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "mangue",
+      "word": "mangue",
+      "en": "mangue",
+      "sourceId": "mango",
+      "sourceIds": [
+        "mango"
+      ],
+      "ru": [
+        "манго"
+      ],
+      "gender": "f",
+      "example": "J'adore manger une mangue bien mûre.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "repas",
+      "word": "repas",
+      "en": "repas",
+      "sourceId": "meal",
+      "sourceIds": [
+        "meal"
+      ],
+      "ru": [
+        "еда",
+        "снедь",
+        "пища"
+      ],
+      "gender": "m",
+      "example": "Nous prenons le repas ensemble.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "viande",
+      "word": "viande",
+      "en": "viande",
+      "sourceId": "meat",
+      "sourceIds": [
+        "meat"
+      ],
+      "ru": [
+        "мясо",
+        "мякоть"
+      ],
+      "gender": "f",
+      "example": "Je ne mange pas beaucoup de viande.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "melon",
+      "word": "melon",
+      "en": "melon",
+      "sourceId": "melon",
+      "sourceIds": [
+        "melon"
+      ],
+      "ru": [
+        "дыня"
+      ],
+      "gender": "m",
+      "example": "J'aime manger du melon en été.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "menu",
+      "word": "menu",
+      "en": "menu",
+      "sourceId": "menu",
+      "sourceIds": [
+        "menu"
+      ],
+      "ru": [
+        "меню"
+      ],
+      "gender": "m",
+      "example": "Pourrais-je voir le menu, s'il vous plaît ?",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "lait",
+      "word": "lait",
+      "en": "lait",
+      "sourceId": "milk",
+      "sourceIds": [
+        "milk"
+      ],
+      "ru": [
+        "молоко"
+      ],
+      "gender": null,
+      "example": "Je bois un verre de lait chaque matin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "traite",
+      "word": "traite",
+      "en": "traite",
+      "sourceId": "milking",
+      "sourceIds": [
+        "milking"
+      ],
+      "ru": [
+        "дойка",
+        "доение"
+      ],
+      "gender": "f",
+      "example": "La traite des vaches a lieu deux fois par jour.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "champignon",
+      "word": "champignon",
+      "en": "champignon",
+      "sourceId": "mushroom",
+      "sourceIds": [
+        "mushroom"
+      ],
+      "ru": [
+        "грибовидный",
+        "гриб",
+        "грибница"
+      ],
+      "gender": "m",
+      "example": "J'ai trouvé un gros champignon dans la forêt.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "moule",
+      "word": "moule",
+      "en": "moule",
+      "sourceId": "mussels",
+      "sourceIds": [
+        "mussels"
+      ],
+      "ru": [
+        "мидии"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des moules frites au bord de la mer.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "serviette",
+      "word": "serviette",
+      "en": "serviette",
+      "sourceId": "napkin",
+      "sourceIds": [
+        "napkin",
+        "serviette"
+      ],
+      "ru": [
+        "салфетка"
+      ],
+      "gender": "f",
+      "example": "Il s'est essuyé la bouche avec une serviette.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "nouille",
+      "word": "nouille",
+      "en": "nouille",
+      "sourceId": "noodle",
+      "sourceIds": [
+        "noodle"
+      ],
+      "ru": [
+        "лапша",
+        "макароны"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des nouilles sautées avec des légumes.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "noix",
+      "word": "noix",
+      "en": "noix",
+      "sourceId": "nut",
+      "sourceIds": [
+        "nut"
+      ],
+      "ru": [
+        "орех",
+        "гайка"
+      ],
+      "gender": "f",
+      "example": "Elle a cassé la noix avec un casse-noix.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "nutrition",
+      "word": "nutrition",
+      "en": "nutrition",
+      "sourceId": "nutrition",
+      "sourceIds": [
+        "nutrition"
+      ],
+      "ru": [
+        "питание"
+      ],
+      "gender": "f",
+      "example": "Une bonne nutrition est essentielle pour la santé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nutritif",
+      "word": "nutritif",
+      "en": "nutritif",
+      "sourceId": "nutritional",
+      "sourceIds": [
+        "nutritional"
+      ],
+      "ru": [
+        "питательный"
+      ],
+      "gender": null,
+      "example": "Ce repas est très nutritif.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "nutritionniste",
+      "word": "nutritionniste",
+      "en": "nutritionniste",
+      "sourceId": "nutritionist",
+      "sourceIds": [
+        "nutritionist"
+      ],
+      "ru": [
+        "диетврач",
+        "диетолог"
+      ],
+      "gender": "m",
+      "example": "Le nutritionniste m'a conseillé de manger plus de légumes.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "huile",
+      "word": "huile",
+      "en": "huile",
+      "sourceId": "oil",
+      "sourceIds": [
+        "oil"
+      ],
+      "ru": [
+        "масло",
+        "нефть",
+        "петролеум"
+      ],
+      "gender": "f",
+      "example": "Il faut ajouter un peu d'huile dans la poêle.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "oignon",
+      "word": "oignon",
+      "en": "oignon",
+      "sourceId": "onion",
+      "sourceIds": [
+        "onion"
+      ],
+      "ru": [
+        "лук",
+        "головка",
+        "луковица"
+      ],
+      "gender": "m",
+      "example": "J'ai besoin d'un oignon pour cette recette.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "orange",
+      "word": "orange",
+      "en": "orange",
+      "sourceId": "orange",
+      "sourceIds": [
+        "orange"
+      ],
+      "ru": [
+        "оранжевый",
+        "апельсин",
+        "апельсиновое дерево"
+      ],
+      "gender": "f",
+      "example": "J'ai mangé une orange ce matin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "organique",
+      "word": "organique",
+      "en": "organique",
+      "sourceId": "organic",
+      "sourceIds": [
+        "organic"
+      ],
+      "ru": [
+        "органический"
+      ],
+      "gender": null,
+      "example": "Il préfère manger des produits issus de l'agriculture biologique.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "huitre",
+      "word": "huître",
+      "en": "huître",
+      "sourceId": "oysters",
+      "sourceIds": [
+        "oysters"
+      ],
+      "ru": [
+        "устрицы"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des huîtres avec un filet de citron.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "crepe",
+      "word": "crêpe",
+      "en": "crêpe",
+      "sourceId": "pancake",
+      "sourceIds": [
+        "pancake"
+      ],
+      "ru": [
+        "блин",
+        "блинчик",
+        "налистник"
+      ],
+      "gender": "f",
+      "example": "J'aime manger une crêpe au sucre.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pates",
+      "word": "pâtes",
+      "en": "pâtes",
+      "sourceId": "pasta",
+      "sourceIds": [
+        "pasta"
+      ],
+      "ru": [
+        "макаронные изделия",
+        "макароны",
+        "паста"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des pâtes avec de la sauce tomate.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "petit-pois",
+      "word": "petit pois",
+      "en": "petit pois",
+      "sourceId": "pea",
+      "sourceIds": [
+        "pea"
+      ],
+      "ru": [
+        "горох",
+        "горошек",
+        "горошина"
+      ],
+      "gender": "m",
+      "example": "J'aime manger des petits pois avec du poulet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "peche",
+      "word": "pêche",
+      "en": "pêche",
+      "sourceId": "peach",
+      "sourceIds": [
+        "peach"
+      ],
+      "ru": [
+        "персик",
+        "персиковое дерево",
+        "персиковый"
+      ],
+      "gender": "f",
+      "example": "J'ai mangé une pêche juteuse ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "arachide",
+      "word": "arachide",
+      "en": "arachide",
+      "sourceId": "peanut",
+      "sourceIds": [
+        "peanut"
+      ],
+      "ru": [
+        "арахис",
+        "земляной орех",
+        "китайский орех"
+      ],
+      "gender": "f",
+      "example": "J'aime manger des arachides grillées.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cacahuetes",
+      "word": "cacahuètes",
+      "en": "cacahuètes",
+      "sourceId": "peanuts",
+      "sourceIds": [
+        "peanuts"
+      ],
+      "ru": [
+        "грош",
+        "копейка"
+      ],
+      "gender": "f",
+      "example": "Il travaille pour des cacahuètes.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "poire",
+      "word": "poire",
+      "en": "poire",
+      "sourceId": "pear",
+      "sourceIds": [
+        "pear"
+      ],
+      "ru": [
+        "груша"
+      ],
+      "gender": "f",
+      "example": "J'aime manger une poire en dessert.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "poivre",
+      "word": "poivre",
+      "en": "poivre",
+      "sourceId": "pepper",
+      "sourceIds": [
+        "pepper"
+      ],
+      "ru": [
+        "перец",
+        "чёрный перец",
+        "перчить"
+      ],
+      "gender": "m",
+      "example": "Ajoutez une pincée de poivre dans la soupe.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "tarte",
+      "word": "tarte",
+      "en": "tarte",
+      "sourceId": "pie",
+      "sourceIds": [
+        "pie"
+      ],
+      "ru": [
+        "пирог",
+        "пирожок"
+      ],
+      "gender": "f",
+      "example": "Elle a préparé une délicieuse tarte aux pommes.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "pizza",
+      "word": "pizza",
+      "en": "pizza",
+      "sourceId": "pizza",
+      "sourceIds": [
+        "pizza"
+      ],
+      "ru": [
+        "пицца"
+      ],
+      "gender": "f",
+      "example": "Je mange une pizza délicieuse.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "assiette",
+      "word": "assiette",
+      "en": "assiette",
+      "sourceId": "plate",
+      "sourceIds": [
+        "plate"
+      ],
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "блюдце"
+      ],
+      "gender": "f",
+      "example": "Elle pose l'assiette sur la table.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "porc",
+      "word": "porc",
+      "en": "porc",
+      "sourceId": "pork",
+      "sourceIds": [
+        "pork"
+      ],
+      "ru": [
+        "свинина"
+      ],
+      "gender": "m",
+      "example": "Je ne mange pas de porc.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bouillie",
+      "word": "bouillie",
+      "en": "bouillie",
+      "sourceId": "porridge",
+      "sourceIds": [
+        "porridge"
+      ],
+      "ru": [
+        "каша",
+        "овсянка"
+      ],
+      "gender": "f",
+      "example": "Elle mange de la bouillie d'avoine au petit-déjeuner.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pomme-de-terre",
+      "word": "pomme de terre",
+      "en": "pomme de terre",
+      "sourceId": "potato",
+      "sourceIds": [
+        "potato"
+      ],
+      "ru": [
+        "картофель",
+        "картофелина",
+        "картоха"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté un sac de pommes de terre au marché.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cru",
+      "word": "cru",
+      "en": "cru",
+      "sourceId": "raw",
+      "sourceIds": [
+        "raw"
+      ],
+      "ru": [
+        "сырой",
+        "необработанный"
+      ],
+      "gender": null,
+      "example": "Il ne faut pas manger de la viande crue.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "recette",
+      "word": "recette",
+      "en": "recette",
+      "sourceId": "recipe",
+      "sourceIds": [
+        "recipe"
+      ],
+      "ru": [
+        "рецепт"
+      ],
+      "gender": "f",
+      "example": "J'ai trouvé une excellente recette de gâteau au chocolat.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "riz",
+      "word": "riz",
+      "en": "riz",
+      "sourceId": "rice",
+      "sourceIds": [
+        "rice"
+      ],
+      "ru": [
+        "рис"
+      ],
+      "gender": "m",
+      "example": "Je mange du riz avec du poulet.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "roti",
+      "word": "rôti",
+      "en": "rôti",
+      "sourceId": "roast",
+      "sourceIds": [
+        "roast"
+      ],
+      "ru": [
+        "жарить",
+        "жареный",
+        "жаркое"
+      ],
+      "gender": null,
+      "example": "J'aime manger du poulet rôti.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "salade",
+      "word": "salade",
+      "en": "salade",
+      "sourceId": "salad",
+      "sourceIds": [
+        "salad"
+      ],
+      "ru": [
+        "салат"
+      ],
+      "gender": "f",
+      "example": "J'ai commandé une salade verte.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sale",
+      "word": "salé",
+      "en": "salé",
+      "sourceId": "salt",
+      "sourceIds": [
+        "salt"
+      ],
+      "ru": [
+        "соль",
+        "солить"
+      ],
+      "gender": null,
+      "example": "Ce plat est trop salé.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "sale",
+      "word": "salé",
+      "en": "salé",
+      "sourceId": "salted",
+      "sourceIds": [
+        "salted"
+      ],
+      "ru": [
+        "солёный"
+      ],
+      "gender": null,
+      "example": "J'aime manger du beurre salé.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "sale",
+      "word": "salé",
+      "en": "salé",
+      "sourceId": "salty",
+      "sourceIds": [
+        "salty"
+      ],
+      "ru": [
+        "солёный",
+        "соляной"
+      ],
+      "gender": null,
+      "example": "Cette soupe est trop salée.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "sandwich",
+      "word": "sandwich",
+      "en": "sandwich",
+      "sourceId": "sandwich",
+      "sourceIds": [
+        "sandwich"
+      ],
+      "ru": [
+        "сандвич",
+        "сэндвич",
+        "бутерброд"
+      ],
+      "gender": "m",
+      "example": "Je mange un sandwich au jambon pour le déjeuner.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sauce",
+      "word": "sauce",
+      "en": "sauce",
+      "sourceId": "sauce",
+      "sourceIds": [
+        "sauce",
+        "gravy"
+      ],
+      "ru": [
+        "соус",
+        "подливка"
+      ],
+      "gender": "f",
+      "example": "Cette sauce est délicieuse avec le poisson.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "soucoupe",
+      "word": "soucoupe",
+      "en": "soucoupe",
+      "sourceId": "saucer",
+      "sourceIds": [
+        "saucer"
+      ],
+      "ru": [
+        "блюдце"
+      ],
+      "gender": "f",
+      "example": "Elle a posé sa tasse sur la soucoupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "saucisse",
+      "word": "saucisse",
+      "en": "saucisse",
+      "sourceId": "sausage",
+      "sourceIds": [
+        "sausage"
+      ],
+      "ru": [
+        "колбаса",
+        "сосиска",
+        "сарделька"
+      ],
+      "gender": "f",
+      "example": "J'ai mangé une saucisse avec de la purée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "en-cas",
+      "word": "en-cas",
+      "en": "en-cas",
+      "sourceId": "snack",
+      "sourceIds": [
+        "snack"
+      ],
+      "ru": [
+        "закуска",
+        "лёгкая закуска",
+        "перекус"
+      ],
+      "gender": "m",
+      "example": "J'ai pris un petit en-cas avant de partir.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "soda",
+      "word": "soda",
+      "en": "soda",
+      "sourceId": "soda",
+      "sourceIds": [
+        "soda"
+      ],
+      "ru": [
+        "газировка",
+        "содовая"
+      ],
+      "gender": "m",
+      "example": "Il a commandé un soda avec des glaçons.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "soupe",
+      "word": "soupe",
+      "en": "soupe",
+      "sourceId": "soup",
+      "sourceIds": [
+        "soup"
+      ],
+      "ru": [
+        "суп",
+        "похлёбка",
+        "уха"
+      ],
+      "gender": "f",
+      "example": "La soupe est chaude et savoureuse.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "acide",
+      "word": "acide",
+      "en": "acide",
+      "sourceId": "sour",
+      "sourceIds": [
+        "sour"
+      ],
+      "ru": [
+        "кислый",
+        "прокисший"
+      ],
+      "gender": null,
+      "example": "Ce citron est très acide.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "epice",
+      "word": "épice",
+      "en": "épice",
+      "sourceId": "spice",
+      "sourceIds": [
+        "spice"
+      ],
+      "ru": [
+        "пряность",
+        "приправа",
+        "специя"
+      ],
+      "gender": "f",
+      "example": "Cette épice donne un goût délicieux au plat.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "epice-spicy",
+      "word": "épicé",
+      "en": "épicé",
+      "sourceId": "spicy",
+      "sourceIds": [
+        "spicy"
+      ],
+      "ru": [
+        "острый",
+        "пряный"
+      ],
+      "gender": null,
+      "example": "J'adore manger des plats épicés.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "alcool",
+      "word": "alcool",
+      "en": "alcool",
+      "sourceId": "spirits",
+      "sourceIds": [
+        "spirits"
+      ],
+      "ru": [
+        "спирт"
+      ],
+      "gender": "m",
+      "example": "Il ne boit jamais d'alcool fort.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "cuillere",
+      "word": "cuillère",
+      "en": "cuillère",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "ru": [
+        "ложка",
+        "ложечка"
+      ],
+      "gender": "f",
+      "example": "Elle mange sa soupe avec une cuillère.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "entree",
+      "word": "entrée",
+      "en": "entrée",
+      "sourceId": "starter",
+      "sourceIds": [
+        "starter"
+      ],
+      "ru": [
+        "стартер",
+        "стартёр",
+        "первое блюдо"
+      ],
+      "gender": "f",
+      "example": "En entrée, je prendrai la salade composée.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "steak",
+      "word": "steak",
+      "en": "steak",
+      "sourceId": "steak",
+      "sourceIds": [
+        "steak"
+      ],
+      "ru": [
+        "стейк",
+        "бифштекс"
+      ],
+      "gender": "m",
+      "example": "Je voudrais un steak bien cuit, s'il vous plaît.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fraise",
+      "word": "fraise",
+      "en": "fraise",
+      "sourceId": "strawberry",
+      "sourceIds": [
+        "strawberry"
+      ],
+      "ru": [
+        "клубника",
+        "земляника"
+      ],
+      "gender": null,
+      "example": "J'adore manger une fraise fraîche en été.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "sucre",
+      "word": "sucre",
+      "en": "sucre",
+      "sourceId": "sugar",
+      "sourceIds": [
+        "sugar"
+      ],
+      "ru": [
+        "сахар",
+        "сахарить"
+      ],
+      "gender": "m",
+      "example": "Il met deux morceaux de sucre dans son café.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "epilation-au-sucre",
+      "word": "épilation au sucre",
+      "en": "épilation au sucre",
+      "sourceId": "sugaring",
+      "sourceIds": [
+        "sugaring"
+      ],
+      "ru": [
+        "шугаринг"
+      ],
+      "gender": "f",
+      "example": "Elle préfère l'épilation au sucre pour sa peau sensible.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "diner",
+      "word": "dîner",
+      "en": "dîner",
+      "sourceId": "supper",
+      "sourceIds": [
+        "supper"
+      ],
+      "ru": [
+        "ужин",
+        "вечеря",
+        "ужинать"
+      ],
+      "gender": "m",
+      "example": "Nous avons préparé un dîner léger.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sucre-sweet",
+      "word": "sucré",
+      "en": "sucré",
+      "sourceId": "sweet",
+      "sourceIds": [
+        "sweet"
+      ],
+      "ru": [
+        "сладкий",
+        "конфета"
+      ],
+      "gender": null,
+      "example": "Ce dessert est très sucré.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "doucement",
+      "word": "doucement",
+      "en": "doucement",
+      "sourceId": "sweetly",
+      "sourceIds": [
+        "sweetly"
+      ],
+      "ru": [
+        "сладко"
+      ],
+      "gender": null,
+      "example": "Elle chante doucement.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "bonbon",
+      "word": "bonbon",
+      "en": "bonbon",
+      "sourceId": "sweets",
+      "sourceIds": [
+        "sweets"
+      ],
+      "ru": [
+        "конфета",
+        "кондитерские изделия",
+        "сладость"
+      ],
+      "gender": "m",
+      "example": "Les enfants adorent manger des bonbons.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "gout",
+      "word": "goût",
+      "en": "goût",
+      "sourceId": "taste",
+      "sourceIds": [
+        "taste"
+      ],
+      "ru": [
+        "вкус",
+        "склонность",
+        "пробовать"
+      ],
+      "gender": "m",
+      "example": "Je veux imposer des goûts, pas seulement les satisfaire.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "degustation",
+      "word": "dégustation",
+      "en": "dégustation",
+      "sourceId": "tasting",
+      "sourceIds": [
+        "tasting"
+      ],
+      "ru": [
+        "дегустация",
+        "пробование"
+      ],
+      "gender": "f",
+      "example": "La dégustation de vin commence par l'observation de la robe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "the",
+      "word": "thé",
+      "en": "thé",
+      "sourceId": "tea",
+      "sourceIds": [
+        "tea"
+      ],
+      "ru": [
+        "чай",
+        "чашка чаю",
+        "чашка чая"
+      ],
+      "gender": "m",
+      "example": "Je bois une tasse de thé chaque matin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "toast",
+      "word": "toast",
+      "en": "toast",
+      "sourceId": "toast",
+      "sourceIds": [
+        "toast"
+      ],
+      "ru": [
+        "тост",
+        "здравица",
+        "поджаривать"
+      ],
+      "gender": "m",
+      "example": "Il a porté un toast en l'honneur des mariés.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "grille-pain",
+      "word": "grille-pain",
+      "en": "grille-pain",
+      "sourceId": "toaster",
+      "sourceIds": [
+        "toaster"
+      ],
+      "ru": [
+        "тостер"
+      ],
+      "gender": "m",
+      "example": "J'ai acheté un nouveau grille-pain ce matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "tomate",
+      "word": "tomate",
+      "en": "tomate",
+      "sourceId": "tomato",
+      "sourceIds": [
+        "tomato"
+      ],
+      "ru": [
+        "помидор",
+        "томат"
+      ],
+      "gender": "f",
+      "example": "La tomate est un fruit rouge.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "garniture",
+      "word": "garniture",
+      "en": "garniture",
+      "sourceId": "topping",
+      "sourceIds": [
+        "topping"
+      ],
+      "ru": [
+        "верхушка",
+        "начинка",
+        "топпинг"
+      ],
+      "gender": "f",
+      "example": "Il a ajouté une garniture au chocolat sur sa glace.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "friandise",
+      "word": "friandise",
+      "en": "friandise",
+      "sourceId": "treat",
+      "sourceIds": [
+        "treat"
+      ],
+      "ru": [
+        "развлечение",
+        "угощение",
+        "подарок"
+      ],
+      "gender": "f",
+      "example": "Il a acheté une petite friandise pour son chien.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "legume",
+      "word": "légume",
+      "en": "légume",
+      "sourceId": "vegetable",
+      "sourceIds": [
+        "vegetable"
+      ],
+      "ru": [
+        "овощ"
+      ],
+      "gender": "m",
+      "example": "Il faut manger beaucoup de légumes pour rester en bonne santé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "vodka",
+      "word": "vodka",
+      "en": "vodka",
+      "sourceId": "vodka",
+      "sourceIds": [
+        "vodka"
+      ],
+      "ru": [
+        "водка"
+      ],
+      "gender": "f",
+      "example": "Elle a commandé une vodka avec du jus d'orange.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "gaufre",
+      "word": "gaufre",
+      "en": "gaufre",
+      "sourceId": "waffle",
+      "sourceIds": [
+        "waffle"
+      ],
+      "ru": [
+        "вафля"
+      ],
+      "gender": null,
+      "example": "J'aime manger une gaufre avec du chocolat.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "serveur",
+      "word": "serveur",
+      "en": "serveur",
+      "sourceId": "waiter",
+      "sourceIds": [
+        "waiter"
+      ],
+      "ru": [
+        "кельнер",
+        "официант",
+        "официантка"
+      ],
+      "gender": "m",
+      "example": "Le serveur apporte la carte des vins.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "serveuse",
+      "word": "serveuse",
+      "en": "serveuse",
+      "sourceId": "waitress",
+      "sourceIds": [
+        "waitress"
+      ],
+      "ru": [
+        "кельнерша",
+        "официантка"
+      ],
+      "gender": "f",
+      "example": "La serveuse nous a apporté la carte.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "noix",
+      "word": "noix",
+      "en": "noix",
+      "sourceId": "walnut",
+      "sourceIds": [
+        "walnut"
+      ],
+      "ru": [
+        "грецкий орех"
+      ],
+      "gender": "f",
+      "example": "J'aime manger une noix après le repas.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "eau",
+      "word": "eau",
+      "en": "eau",
+      "sourceId": "water",
+      "sourceIds": [
+        "water"
+      ],
+      "ru": [
+        "вода",
+        "воды",
+        "поливать"
+      ],
+      "gender": "f",
+      "example": "Je bois un verre d'eau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "pasteque",
+      "word": "pastèque",
+      "en": "pastèque",
+      "sourceId": "watermelon",
+      "sourceIds": [
+        "watermelon"
+      ],
+      "ru": [
+        "арбуз"
+      ],
+      "gender": "f",
+      "example": "J'aime manger de la pastèque en été.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ble",
+      "word": "blé",
+      "en": "blé",
+      "sourceId": "wheat",
+      "sourceIds": [
+        "wheat"
+      ],
+      "ru": [
+        "пшеница"
+      ],
+      "gender": "m",
+      "example": "Le pain est fait avec de la farine de blé.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "vin",
+      "word": "vin",
+      "en": "vin",
+      "sourceId": "wine",
+      "sourceIds": [
+        "wine"
+      ],
+      "ru": [
+        "вино",
+        "бордо"
+      ],
+      "gender": "m",
+      "example": "Il boit un verre de vin rouge.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "yaourt",
+      "word": "yaourt",
+      "en": "yaourt",
+      "sourceId": "yogurt",
+      "sourceIds": [
+        "yogurt"
+      ],
+      "ru": [
+        "йогурт",
+        "простокваша"
+      ],
+      "gender": "m",
+      "example": "Je mange un yaourt nature au petit-déjeuner.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "plateau",
+      "word": "plateau",
+      "en": "plateau",
+      "sourceId": "platter",
+      "sourceIds": [
+        "platter"
+      ],
+      "ru": [
+        "большое блюдо",
+        "поднос"
+      ],
+      "gender": "m",
+      "example": "Sur un plateau en argent.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "macher",
+      "word": "mâcher",
+      "en": "mâcher",
+      "sourceId": "chew",
+      "sourceIds": [
+        "chew"
+      ],
+      "ru": [
+        "жевать"
+      ],
+      "gender": null,
+      "example": "Ils vont mâcher vos foies.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "deca",
+      "word": "déca",
+      "en": "déca",
+      "sourceId": "decaf",
+      "sourceIds": [
+        "decaf"
+      ],
+      "ru": [
+        "декаф",
+        "кофе без кофеина"
+      ],
+      "gender": "m",
+      "example": "Je prendrai un déca, s'il vous plaît.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "thon",
+      "word": "thon",
+      "en": "thon",
+      "sourceId": "tuna",
+      "sourceIds": [
+        "tuna"
+      ],
+      "ru": [
+        "тунец"
+      ],
+      "gender": "m",
+      "example": "Une salade au thon ou aux œufs !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vanille",
+      "word": "vanille",
+      "en": "vanille",
+      "sourceId": "vanilla",
+      "sourceIds": [
+        "vanilla"
+      ],
+      "ru": [
+        "ваниль"
+      ],
+      "gender": "f",
+      "example": "et cerise noire à la vanille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "omelette",
+      "word": "omelette",
+      "en": "omelette",
+      "sourceId": "omelet",
+      "sourceIds": [
+        "omelet"
+      ],
+      "ru": [
+        "омлет"
+      ],
+      "gender": "f",
+      "example": "Je prépare une omelette aux fines herbes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gelee",
+      "word": "gelée",
+      "en": "gelée",
+      "sourceId": "jelly",
+      "sourceIds": [
+        "jelly"
+      ],
+      "ru": [
+        "желе"
+      ],
+      "gender": "f",
+      "example": "Essuie la gelée qui est dans tes yeux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "en-conserve",
+      "word": "en conserve",
+      "en": "en conserve",
+      "sourceId": "canned",
+      "sourceIds": [
+        "canned"
+      ],
+      "ru": [
+        "консервированный"
+      ],
+      "gender": null,
+      "example": "J'ai acheté des tomates en conserve.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "sushi",
+      "word": "sushi",
+      "en": "sushi",
+      "sourceId": "sushi",
+      "sourceIds": [
+        "sushi"
+      ],
+      "ru": [
+        "суши"
+      ],
+      "gender": "m",
+      "example": "Elle aime les sushis et le jacuzzi à tout moment.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pain-d-epices",
+      "word": "pain d'épices",
+      "en": "pain d'épices",
+      "sourceId": "gingerbread",
+      "sourceIds": [
+        "gingerbread"
+      ],
+      "ru": [
+        "имбирный пряник"
+      ],
+      "gender": "m",
+      "example": "Je suis le bonhomme en pain d'épices.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gomme",
+      "word": "gomme",
+      "en": "gomme",
+      "sourceId": "gumdrop",
+      "sourceIds": [
+        "gumdrop"
+      ],
+      "ru": [
+        "мармеладка"
+      ],
+      "gender": "f",
+      "example": "Ce ne sont pas des boutons en gomme.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pinte",
+      "word": "pinte",
+      "en": "pinte",
+      "sourceId": "pint",
+      "sourceIds": [
+        "pint"
+      ],
+      "ru": [
+        "пинта"
+      ],
+      "gender": "f",
+      "example": "On ne pourrait pas régler ça autour d'une pinte ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "strudel",
+      "word": "strudel",
+      "en": "strudel",
+      "sourceId": "strudel",
+      "sourceIds": [
+        "strudel"
+      ],
+      "ru": [
+        "штрудель"
+      ],
+      "gender": "m",
+      "example": "J'ai préparé un strudel aux pommes pour le dessert.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-emporter",
+      "word": "à emporter",
+      "en": "à emporter",
+      "sourceId": "takeout",
+      "sourceIds": [
+        "takeout"
+      ],
+      "ru": [
+        "еда навынос"
+      ],
+      "gender": null,
+      "example": "Mais il s'est avéré que c'était un menu à emporter.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "beignet",
+      "word": "beignet",
+      "en": "beignet",
+      "sourceId": "cruller",
+      "sourceIds": [
+        "cruller",
+        "doughnut",
+        "donut"
+      ],
+      "ru": [
+        "пончик"
+      ],
+      "gender": "m",
+      "example": "J'ai acheté un beignet à la boulangerie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aperitif",
+      "word": "apéritif",
+      "en": "apéritif",
+      "sourceId": "premeal",
+      "sourceIds": [
+        "premeal"
+      ],
+      "ru": [
+        "перед едой"
+      ],
+      "gender": "m",
+      "example": "où le pain servi en apéritif n'est pas gratuit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "calorie",
+      "word": "calorie",
+      "en": "calorie",
+      "sourceId": "calorie",
+      "sourceIds": [
+        "calorie"
+      ],
+      "ru": [
+        "калория"
+      ],
+      "gender": "f",
+      "example": "Mes calories ne sont pas métabolisées.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "salsa",
+      "word": "salsa",
+      "en": "salsa",
+      "sourceId": "salsa",
+      "sourceIds": [
+        "salsa"
+      ],
+      "ru": [
+        "сальса"
+      ],
+      "gender": "f",
+      "example": "C'était une blague sur la salsa, les amis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "muffin",
+      "word": "muffin",
+      "en": "muffin",
+      "sourceId": "muffin",
+      "sourceIds": [
+        "muffin"
+      ],
+      "ru": [
+        "маффин",
+        "кекс"
+      ],
+      "gender": "m",
+      "example": "Ce sont mes muffins.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hamburger",
+      "word": "hamburger",
+      "en": "hamburger",
+      "sourceId": "hamburger",
+      "sourceIds": [
+        "hamburger"
+      ],
+      "ru": [
+        "гамбургер"
+      ],
+      "gender": "m",
+      "example": "Il y a des pains à hamburger rassis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "petit-pain",
+      "word": "petit pain",
+      "en": "petit pain",
+      "sourceId": "bun",
+      "sourceIds": [
+        "bun"
+      ],
+      "ru": [
+        "булочка"
+      ],
+      "gender": "m",
+      "example": "Il y a des petits pains à burger rassis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "copieux",
+      "word": "copieux",
+      "en": "copieux",
+      "sourceId": "hearty",
+      "sourceIds": [
+        "hearty"
+      ],
+      "ru": [
+        "сытный",
+        "сердечный"
+      ],
+      "gender": null,
+      "example": "Il a pris un repas copieux.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "son",
+      "word": "son",
+      "en": "son",
+      "sourceId": "bran",
+      "sourceIds": [
+        "bran"
+      ],
+      "ru": [
+        "отруби"
+      ],
+      "gender": "m",
+      "example": "Il mange du son de blé froid pour le sport.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lasagne",
+      "word": "lasagne",
+      "en": "lasagne",
+      "sourceId": "lasagna",
+      "sourceIds": [
+        "lasagna"
+      ],
+      "ru": [
+        "лазанья"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des lasagnes le dimanche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "satisfaire",
+      "word": "satisfaire",
+      "en": "satisfaire",
+      "sourceId": "cater",
+      "sourceIds": [
+        "cater"
+      ],
+      "ru": [
+        "обслуживать",
+        "угождать"
+      ],
+      "gender": null,
+      "example": "Il cherche à satisfaire le regard masculin.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "gin",
+      "word": "gin",
+      "en": "gin",
+      "sourceId": "gin",
+      "sourceIds": [
+        "gin"
+      ],
+      "ru": [
+        "джин"
+      ],
+      "gender": "m",
+      "example": "Il a bu un gin tonic.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "noix-de-muscade",
+      "word": "noix de muscade",
+      "en": "noix de muscade",
+      "sourceId": "nutmeg",
+      "sourceIds": [
+        "nutmeg"
+      ],
+      "ru": [
+        "мускатный орех"
+      ],
+      "gender": "f",
+      "example": "Un gin à la noix de muscade, exactement comme tu l'as demandé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "orge",
+      "word": "orge",
+      "en": "orge",
+      "sourceId": "barley",
+      "sourceIds": [
+        "barley"
+      ],
+      "ru": [
+        "ячмень"
+      ],
+      "gender": "m",
+      "example": "Planter du blé et de l'orge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cheddar",
+      "word": "cheddar",
+      "en": "cheddar",
+      "sourceId": "cheddar",
+      "sourceIds": [
+        "cheddar"
+      ],
+      "ru": [
+        "чеддер"
+      ],
+      "gender": "m",
+      "example": "J'aime manger du cheddar.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "piccalilli",
+      "word": "piccalilli",
+      "en": "piccalilli",
+      "sourceId": "piccalilli",
+      "sourceIds": [
+        "piccalilli"
+      ],
+      "ru": [
+        "пиккалилли"
+      ],
+      "gender": "m",
+      "example": "Veux-tu un peu de piccalilli ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "engraisser",
+      "word": "engraisser",
+      "en": "engraisser",
+      "sourceId": "fatten",
+      "sourceIds": [
+        "fatten"
+      ],
+      "ru": [
+        "откармливать"
+      ],
+      "gender": null,
+      "example": "Il faut engraisser les porcs avant l'hiver.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "friterie",
+      "word": "friterie",
+      "en": "friterie",
+      "sourceId": "chippy",
+      "sourceIds": [
+        "chippy"
+      ],
+      "ru": [
+        "закусочная с рыбой и картошкой"
+      ],
+      "gender": "f",
+      "example": "Nous avons acheté des frites à la friterie du coin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pique-nique",
+      "word": "pique-nique",
+      "en": "pique-nique",
+      "sourceId": "picnic",
+      "sourceIds": [
+        "picnic"
+      ],
+      "ru": [
+        "пикник"
+      ],
+      "gender": "m",
+      "example": "Nous faisons un autre pique-nique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "oleagineux",
+      "word": "oléagineux",
+      "en": "oléagineux",
+      "sourceId": "oilseed",
+      "sourceIds": [
+        "oilseed"
+      ],
+      "ru": [
+        "масличная культура"
+      ],
+      "gender": null,
+      "example": "La plupart des champs de colza sont des oléagineux.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "expresso",
+      "word": "expresso",
+      "en": "expresso",
+      "sourceId": "espresso",
+      "sourceIds": [
+        "espresso"
+      ],
+      "ru": [
+        "эспрессо"
+      ],
+      "gender": "m",
+      "example": "Qui veut un expresso ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "martini",
+      "word": "martini",
+      "en": "martini",
+      "sourceId": "martini",
+      "sourceIds": [
+        "martini"
+      ],
+      "ru": [
+        "мартини"
+      ],
+      "gender": "m",
+      "example": "Qui veut un espresso martini ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "abattoir",
+      "word": "abattoir",
+      "en": "abattoir",
+      "sourceId": "abattoir",
+      "sourceIds": [
+        "abattoir"
+      ],
+      "ru": [
+        "бойня"
+      ],
+      "gender": "m",
+      "example": "Ils les emmènent à l'abattoir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mouton",
+      "word": "mouton",
+      "en": "mouton",
+      "sourceId": "mutton",
+      "sourceIds": [
+        "mutton"
+      ],
+      "ru": [
+        "баранина"
+      ],
+      "gender": "m",
+      "example": "Est-ce que tout ceci est du mouton ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "diner",
+      "word": "dîner",
+      "en": "dîner",
+      "sourceId": "dine",
+      "sourceIds": [
+        "dine"
+      ],
+      "ru": [
+        "обедать",
+        "ужинать"
+      ],
+      "gender": null,
+      "example": "Les crabes vont bientôt dîner de nous tous.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "wasabi",
+      "word": "wasabi",
+      "en": "wasabi",
+      "sourceId": "wasabi",
+      "sourceIds": [
+        "wasabi"
+      ],
+      "ru": [
+        "васаби"
+      ],
+      "gender": "m",
+      "example": "Ce que j'ai ici est un plant de wasabi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "comestible",
+      "word": "comestible",
+      "en": "comestible",
+      "sourceId": "edible",
+      "sourceIds": [
+        "edible"
+      ],
+      "ru": [
+        "съедобный"
+      ],
+      "gender": null,
+      "example": "Alors, pour atteindre la partie comestible.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "moutarde",
+      "word": "moutarde",
+      "en": "moutarde",
+      "sourceId": "mustard",
+      "sourceIds": [
+        "mustard"
+      ],
+      "ru": [
+        "горчица"
+      ],
+      "gender": "f",
+      "example": "C'est en fait de la moutarde et du raifort.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "raifort",
+      "word": "raifort",
+      "en": "raifort",
+      "sourceId": "horseradish",
+      "sourceIds": [
+        "horseradish"
+      ],
+      "ru": [
+        "хрен"
+      ],
+      "gender": "m",
+      "example": "C'est en fait de la moutarde et du raifort.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "edulcorant",
+      "word": "édulcorant",
+      "en": "édulcorant",
+      "sourceId": "sweetener",
+      "sourceIds": [
+        "sweetener"
+      ],
+      "ru": [
+        "подсластитель"
+      ],
+      "gender": "m",
+      "example": "Des édulcorants et des colorants.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pomme-de-terre",
+      "word": "pomme de terre",
+      "en": "pomme de terre",
+      "sourceId": "spud",
+      "sourceIds": [
+        "spud",
+        "tater"
+      ],
+      "ru": [
+        "картофелина"
+      ],
+      "gender": "f",
+      "example": "là où personne ne cultive de pommes de terre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "potable",
+      "word": "potable",
+      "en": "potable",
+      "sourceId": "drinkable",
+      "sourceIds": [
+        "drinkable"
+      ],
+      "ru": [
+        "питьевой",
+        "пригодный для питья"
+      ],
+      "gender": null,
+      "example": "Combien d'entre eux sont potables ?",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "vegetarien",
+      "word": "végétarien",
+      "en": "végétarien",
+      "sourceId": "vegetarian",
+      "sourceIds": [
+        "vegetarian"
+      ],
+      "ru": [
+        "вегетарианец"
+      ],
+      "gender": "m",
+      "example": "Hé, mais c'est tout végétarien, n'est-ce pas ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vegane",
+      "word": "végane",
+      "en": "végane",
+      "sourceId": "vegan",
+      "sourceIds": [
+        "vegan"
+      ],
+      "ru": [
+        "веган"
+      ],
+      "gender": "f",
+      "example": "Tout devient végane.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vegetal",
+      "word": "végétal",
+      "en": "végétal",
+      "sourceId": "plant-based",
+      "sourceIds": [
+        "plant-based"
+      ],
+      "ru": [
+        "растительный"
+      ],
+      "gender": null,
+      "example": "C'est à base de plantes, peut-être.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "celeri",
+      "word": "céleri",
+      "en": "céleri",
+      "sourceId": "celery",
+      "sourceIds": [
+        "celery"
+      ],
+      "ru": [
+        "сельдерей"
+      ],
+      "gender": "m",
+      "example": "Le céleri est un légume croquant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sans-sucre",
+      "word": "sans sucre",
+      "en": "sans sucre",
+      "sourceId": "sugarless",
+      "sourceIds": [
+        "sugarless"
+      ],
+      "ru": [
+        "без сахара"
+      ],
+      "gender": null,
+      "example": "Mâchez du chewing-gum sans sucre.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "ramen",
+      "word": "ramen",
+      "en": "ramen",
+      "sourceId": "ramen",
+      "sourceIds": [
+        "ramen"
+      ],
+      "ru": [
+        "рамен"
+      ],
+      "gender": null,
+      "example": "Cela fait des burritos au ramen.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "burrito",
+      "word": "burrito",
+      "en": "burrito",
+      "sourceId": "burrito",
+      "sourceIds": [
+        "burrito"
+      ],
+      "ru": [
+        "буррито"
+      ],
+      "gender": "m",
+      "example": "Il prépare des burritos au ramen.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fibre",
+      "word": "fibre",
+      "en": "fibre",
+      "sourceId": "fiber",
+      "sourceIds": [
+        "fiber"
+      ],
+      "ru": [
+        "клетчатка",
+        "волокно"
+      ],
+      "gender": "f",
+      "example": "La fibre brute et les protéines sont essentielles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chou-kale",
+      "word": "chou kale",
+      "en": "chou kale",
+      "sourceId": "kale",
+      "sourceIds": [
+        "kale"
+      ],
+      "ru": [
+        "капуста кейл"
+      ],
+      "gender": "m",
+      "example": "Le chou kale est très riche en vitamines.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "varech",
+      "word": "varech",
+      "en": "varech",
+      "sourceId": "kelp",
+      "sourceIds": [
+        "kelp"
+      ],
+      "ru": [
+        "морская капуста"
+      ],
+      "gender": "m",
+      "example": "Le varech est riche en iode.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "soja",
+      "word": "soja",
+      "en": "soja",
+      "sourceId": "soybean",
+      "sourceIds": [
+        "soybean"
+      ],
+      "ru": [
+        "соевый боб"
+      ],
+      "gender": "m",
+      "example": "et un peu de tourteau de soja,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "filet",
+      "word": "filet",
+      "en": "filet",
+      "sourceId": "filet",
+      "sourceIds": [
+        "filet"
+      ],
+      "ru": [
+        "филе"
+      ],
+      "gender": "m",
+      "example": "Je prends un filet mignon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "filet-mignon",
+      "word": "filet mignon",
+      "en": "filet mignon",
+      "sourceId": "mignon",
+      "sourceIds": [
+        "mignon"
+      ],
+      "ru": [
+        "миньон"
+      ],
+      "gender": "m",
+      "example": "Je mange un filet mignon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "galette-de-pommes-de-terre",
+      "word": "galette de pommes de terre",
+      "en": "galette de pommes de terre",
+      "sourceId": "hashbrown",
+      "sourceIds": [
+        "hashbrown"
+      ],
+      "ru": [
+        "хашбраун"
+      ],
+      "gender": "f",
+      "example": "Il y a des frites et des galettes de pommes de terre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "laitue",
+      "word": "laitue",
+      "en": "laitue",
+      "sourceId": "lettuce",
+      "sourceIds": [
+        "lettuce"
+      ],
+      "ru": [
+        "салат-латук"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une laitue fraîche au marché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "olive",
+      "word": "olive",
+      "en": "olive",
+      "sourceId": "olive",
+      "sourceIds": [
+        "olive"
+      ],
+      "ru": [
+        "оливка"
+      ],
+      "gender": "f",
+      "example": "Un martini avec des olives.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "blanc-d-uf",
+      "word": "blanc d'œuf",
+      "en": "blanc d'œuf",
+      "sourceId": "egg-white",
+      "sourceIds": [
+        "egg-white"
+      ],
+      "ru": [
+        "яичный белок"
+      ],
+      "gender": "m",
+      "example": "tes trois omelettes aux blancs d'œufs",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "encre-de-seiche",
+      "word": "encre de seiche",
+      "en": "encre de seiche",
+      "sourceId": "squid-ink",
+      "sourceIds": [
+        "squid-ink"
+      ],
+      "ru": [
+        "чернила каракатицы"
+      ],
+      "gender": "f",
+      "example": "De cette mousse à l'encre de seiche ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "biere",
+      "word": "bière",
+      "en": "bière",
+      "sourceId": "ale",
+      "sourceIds": [
+        "ale"
+      ],
+      "ru": [
+        "эль",
+        "пиво"
+      ],
+      "gender": "f",
+      "example": "Huit tonneaux de bière provenant de la cave.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "festin",
+      "word": "festin",
+      "en": "festin",
+      "sourceId": "feast",
+      "sourceIds": [
+        "feast"
+      ],
+      "ru": [
+        "пир",
+        "праздник"
+      ],
+      "gender": "m",
+      "example": "Ils nous ont offert un festin au coucher du soleil.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chope",
+      "word": "chope",
+      "en": "chope",
+      "sourceId": "mug",
+      "sourceIds": [
+        "mug"
+      ],
+      "ru": [
+        "кружка"
+      ],
+      "gender": "f",
+      "example": "Et une chope de bière brune.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hachis",
+      "word": "hachis",
+      "en": "hachis",
+      "sourceId": "hash",
+      "sourceIds": [
+        "hash"
+      ],
+      "ru": [
+        "рубленое мясо",
+        "мешанина"
+      ],
+      "gender": "m",
+      "example": "Il a préparé un hachis parmentier pour le dîner.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "macheux",
+      "word": "caoutchouteux",
+      "en": "caoutchouteux",
+      "sourceId": "chewy",
+      "sourceIds": [
+        "chewy"
+      ],
+      "ru": [
+        "жевательный",
+        "вязкий"
+      ],
+      "gender": null,
+      "example": "Ce steak est un peu caoutchouteux.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "au-gout-de-bacon",
+      "word": "au goût de bacon",
+      "en": "au goût de bacon",
+      "sourceId": "bacon-flavored",
+      "sourceIds": [
+        "bacon-flavored"
+      ],
+      "ru": [
+        "со вкусом бекона"
+      ],
+      "gender": null,
+      "example": "Ensuite, vous pourrez manger autant de produits au soja au goût de bacon que vous voudrez.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "soja",
+      "word": "soja",
+      "en": "soja",
+      "sourceId": "soy",
+      "sourceIds": [
+        "soy"
+      ],
+      "ru": [
+        "соя"
+      ],
+      "gender": "m",
+      "example": "Et, après ça, tu pourras manger autant de produits au soja goût bacon que tu voudras.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "glacer",
+      "word": "glacer",
+      "en": "glacer",
+      "sourceId": "iced",
+      "sourceIds": [
+        "iced"
+      ],
+      "ru": [
+        "ледяной",
+        "со льдом"
+      ],
+      "gender": null,
+      "example": "Elle s'est levée, a glacé sa cheville, et tout allait bien.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "gluant",
+      "word": "gluant",
+      "en": "gluant",
+      "sourceId": "gooey",
+      "sourceIds": [
+        "gooey"
+      ],
+      "ru": [
+        "липкий",
+        "вязкий"
+      ],
+      "gender": null,
+      "example": "Cela te donne juste une sensation désagréable au fond de tes entrailles gluantes.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "tequila",
+      "word": "tequila",
+      "en": "tequila",
+      "sourceId": "tequila",
+      "sourceIds": [
+        "tequila"
+      ],
+      "ru": [
+        "текила"
+      ],
+      "gender": "f",
+      "example": "Tu prends des shots de tequila ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pulpe",
+      "word": "pulpe",
+      "en": "pulpe",
+      "sourceId": "pulp",
+      "sourceIds": [
+        "pulp"
+      ],
+      "ru": [
+        "мякоть"
+      ],
+      "gender": "f",
+      "example": "Laisse-la te réduire en pulpe avec ses petits poings inefficaces.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "reste",
+      "word": "reste",
+      "en": "reste",
+      "sourceId": "leftover",
+      "sourceIds": [
+        "leftover"
+      ],
+      "ru": [
+        "остаток"
+      ],
+      "gender": "m",
+      "example": "Il a mangé les restes du dîner.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rassasier",
+      "word": "rassasier",
+      "en": "rassasier",
+      "sourceId": "sate",
+      "sourceIds": [
+        "sate"
+      ],
+      "ru": [
+        "насыщать"
+      ],
+      "gender": null,
+      "example": "Tu es rassasié et prêt pour la chasse.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mur",
+      "word": "mûr",
+      "en": "mûr",
+      "sourceId": "ripe",
+      "sourceIds": [
+        "ripe"
+      ],
+      "ru": [
+        "спелый"
+      ],
+      "gender": null,
+      "example": "Il a vu une terre riche mûre pour la conquête.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "cidre",
+      "word": "cidre",
+      "en": "cidre",
+      "sourceId": "cider",
+      "sourceIds": [
+        "cider"
+      ],
+      "ru": [
+        "сидр"
+      ],
+      "gender": "m",
+      "example": "Le gagnant de la mêlée au Hall du Cidre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "juteux",
+      "word": "juteux",
+      "en": "juteux",
+      "sourceId": "juicy",
+      "sourceIds": [
+        "juicy"
+      ],
+      "ru": [
+        "сочный"
+      ],
+      "gender": null,
+      "example": "Oh, et c'est vraiment, vraiment juteux aussi.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "kitsch",
+      "word": "kitsch",
+      "en": "kitsch",
+      "sourceId": "cheeseball",
+      "sourceIds": [
+        "cheeseball"
+      ],
+      "ru": [
+        "сырный шарик",
+        "пошляк"
+      ],
+      "gender": "m",
+      "example": "Elle est la reine de la science-fiction kitsch des années 80.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "devorer",
+      "word": "dévorer",
+      "en": "dévorer",
+      "sourceId": "devour",
+      "sourceIds": [
+        "devour"
+      ],
+      "ru": [
+        "пожирать",
+        "жадно есть"
+      ],
+      "gender": null,
+      "example": "On dirait que tu as dévoré une antilope.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "saindoux",
+      "word": "saindoux",
+      "en": "saindoux",
+      "sourceId": "lard",
+      "sourceIds": [
+        "lard"
+      ],
+      "ru": [
+        "сало",
+        "смалец"
+      ],
+      "gender": "m",
+      "example": "Il utilise du saindoux pour faire ses pâtisseries.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "creme",
+      "word": "crème",
+      "en": "crème",
+      "sourceId": "creme",
+      "sourceIds": [
+        "creme"
+      ],
+      "ru": [
+        "крем"
+      ],
+      "gender": "f",
+      "example": "C'était la crème de la crème.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "souffle",
+      "word": "soufflé",
+      "en": "soufflé",
+      "sourceId": "souffle",
+      "sourceIds": [
+        "souffle"
+      ],
+      "ru": [
+        "суфле"
+      ],
+      "gender": "m",
+      "example": "Il a préparé un délicieux soufflé au fromage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "saumon",
+      "word": "saumon",
+      "en": "saumon",
+      "sourceId": "salmon",
+      "sourceIds": [
+        "salmon"
+      ],
+      "ru": [
+        "лосось"
+      ],
+      "gender": "m",
+      "example": "J'aime manger du saumon grillé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gaver",
+      "word": "gaver",
+      "en": "gaver",
+      "sourceId": "force-feed",
+      "sourceIds": [
+        "force-feed"
+      ],
+      "ru": [
+        "кормить насильно"
+      ],
+      "gender": null,
+      "example": "Je veux la gaver de saindoux, mais c'est impossible.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "croquant",
+      "word": "croquant",
+      "en": "croquant",
+      "sourceId": "crunch",
+      "sourceIds": [
+        "crunch"
+      ],
+      "ru": [
+        "хруст",
+        "хрустеть"
+      ],
+      "gender": "m",
+      "example": "Ce biscuit a un croquant délicieux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "potin",
+      "word": "potin",
+      "en": "potin",
+      "sourceId": "tidbit",
+      "sourceIds": [
+        "tidbit"
+      ],
+      "ru": [
+        "лакомый кусочек",
+        "интересная новость"
+      ],
+      "gender": "m",
+      "example": "Ils échangeaient des potins sur leurs aventures amoureuses.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tiramisu",
+      "word": "tiramisu",
+      "en": "tiramisu",
+      "sourceId": "tiramisu",
+      "sourceIds": [
+        "tiramisu"
+      ],
+      "ru": [
+        "тирамису"
+      ],
+      "gender": "m",
+      "example": "et un tiramisu plus tard...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brunch",
+      "word": "brunch",
+      "en": "brunch",
+      "sourceId": "brunch",
+      "sourceIds": [
+        "brunch"
+      ],
+      "ru": [
+        "бранч",
+        "поздний завтрак"
+      ],
+      "gender": "m",
+      "example": "Un brunch par-ci, un concert par-là.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "alcool",
+      "word": "alcool",
+      "en": "alcool",
+      "sourceId": "booze",
+      "sourceIds": [
+        "booze"
+      ],
+      "ru": [
+        "выпивать"
+      ],
+      "gender": "m",
+      "example": "Des bouteilles d'alcool vides ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "menthe",
+      "word": "menthe",
+      "en": "menthe",
+      "sourceId": "mint",
+      "sourceIds": [
+        "mint"
+      ],
+      "ru": [
+        "мята",
+        "монетный двор"
+      ],
+      "gender": "f",
+      "example": "J'aime le thé à la menthe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "schnaps",
+      "word": "schnaps",
+      "en": "schnaps",
+      "sourceId": "schnapps",
+      "sourceIds": [
+        "schnapps"
+      ],
+      "ru": [
+        "шнапс"
+      ],
+      "gender": "m",
+      "example": "Il a bu un schnaps à la pêche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "casher",
+      "word": "casher",
+      "en": "casher",
+      "sourceId": "kosher",
+      "sourceIds": [
+        "kosher"
+      ],
+      "ru": [
+        "кошерный"
+      ],
+      "gender": null,
+      "example": "La viande humaine n'est pas casher.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "venaison",
+      "word": "venaison",
+      "en": "venaison",
+      "sourceId": "venison",
+      "sourceIds": [
+        "venison"
+      ],
+      "ru": [
+        "оленина"
+      ],
+      "gender": "f",
+      "example": "Aimes-tu la venaison ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cuilleree",
+      "word": "cuillerée",
+      "en": "cuillerée",
+      "sourceId": "dollop",
+      "sourceIds": [
+        "dollop"
+      ],
+      "ru": [
+        "порция",
+        "кучка"
+      ],
+      "gender": "f",
+      "example": "Ajoutez une cuillerée de crème fraîche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rhum",
+      "word": "rhum",
+      "en": "rhum",
+      "sourceId": "rum",
+      "sourceIds": [
+        "rum"
+      ],
+      "ru": [
+        "ром"
+      ],
+      "gender": "m",
+      "example": "Un rhum-coca, s'il vous plaît.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "granola",
+      "word": "granola",
+      "en": "granola",
+      "sourceId": "granola",
+      "sourceIds": [
+        "granola"
+      ],
+      "ru": [
+        "гранола"
+      ],
+      "gender": "m",
+      "example": "Et des barres de granola.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tarte-aux-pommes",
+      "word": "tarte aux pommes",
+      "en": "tarte aux pommes",
+      "sourceId": "apple-pie",
+      "sourceIds": [
+        "apple-pie"
+      ],
+      "ru": [
+        "яблочный пирог"
+      ],
+      "gender": "f",
+      "example": "Est-ce que tu vas juste mener une vie normale et sans histoire ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "diner",
+      "word": "dîner",
+      "en": "dîner",
+      "sourceId": "diner",
+      "sourceIds": [
+        "diner"
+      ],
+      "ru": [
+        "закусочная"
+      ],
+      "gender": "m",
+      "example": "Il y a un petit restaurant au bout de la rue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fut",
+      "word": "fût",
+      "en": "fût",
+      "sourceId": "keg",
+      "sourceIds": [
+        "keg"
+      ],
+      "ru": [
+        "кег",
+        "бочонок"
+      ],
+      "gender": "m",
+      "example": "Tu es comme une poudrière, mec.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "miette",
+      "word": "miette",
+      "en": "miette",
+      "sourceId": "crumb",
+      "sourceIds": [
+        "crumb"
+      ],
+      "ru": [
+        "крошка"
+      ],
+      "gender": "f",
+      "example": "C'est mieux que de la chapelure.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bouffe",
+      "word": "bouffe",
+      "en": "bouffe",
+      "sourceId": "chow",
+      "sourceIds": [
+        "chow"
+      ],
+      "ru": [
+        "еда",
+        "корм"
+      ],
+      "gender": "f",
+      "example": "C'est l'heure de la bouffe, espèce d'abruti !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nourrir",
+      "word": "nourrir",
+      "en": "nourrir",
+      "sourceId": "fed",
+      "sourceIds": [
+        "fed"
+      ],
+      "ru": [
+        "кормить"
+      ],
+      "gender": null,
+      "example": "Il faut nourrir les animaux chaque matin.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "raisin-sec",
+      "word": "raisin sec",
+      "en": "raisin sec",
+      "sourceId": "raisin",
+      "sourceIds": [
+        "raisin"
+      ],
+      "ru": [
+        "изюм"
+      ],
+      "gender": "m",
+      "example": "Rien avec des raisins secs dedans, s'il vous plaît.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cafeine",
+      "word": "caféine",
+      "en": "caféine",
+      "sourceId": "caffeine",
+      "sourceIds": [
+        "caffeine"
+      ],
+      "ru": [
+        "кофеин"
+      ],
+      "gender": "f",
+      "example": "un petit coup de caféine",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mocaccino",
+      "word": "mocaccino",
+      "en": "mocaccino",
+      "sourceId": "mochaccino",
+      "sourceIds": [
+        "mochaccino"
+      ],
+      "ru": [
+        "моккачино"
+      ],
+      "gender": null,
+      "example": "Tu sais, un mocaccino, un Frappuccino...",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "frappuccino",
+      "word": "frappuccino",
+      "en": "frappuccino",
+      "sourceId": "frappuccino",
+      "sourceIds": [
+        "frappuccino"
+      ],
+      "ru": [
+        "фраппучино"
+      ],
+      "gender": "m",
+      "example": "Tu connais, mochaccino, frappuccino...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gazeux",
+      "word": "gazeux",
+      "en": "gazeux",
+      "sourceId": "fizzy",
+      "sourceIds": [
+        "fizzy"
+      ],
+      "ru": [
+        "шипучий"
+      ],
+      "gender": null,
+      "example": "Je ne m'attendais pas à trouver de l'eau gazeuse ici.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "grignoter",
+      "word": "grignoter",
+      "en": "grignoter",
+      "sourceId": "nibble",
+      "sourceIds": [
+        "nibble"
+      ],
+      "ru": [
+        "откусывать понемногу"
+      ],
+      "gender": null,
+      "example": "Il aime grignoter un morceau de fromage.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "savoureux",
+      "word": "savoureux",
+      "en": "savoureux",
+      "sourceId": "tasty",
+      "sourceIds": [
+        "tasty"
+      ],
+      "ru": [
+        "вкусный"
+      ],
+      "gender": null,
+      "example": "Ce repas est vraiment savoureux.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "delicieux",
+      "word": "délicieux",
+      "en": "délicieux",
+      "sourceId": "yummy",
+      "sourceIds": [
+        "yummy"
+      ],
+      "ru": [
+        "вкусный"
+      ],
+      "gender": null,
+      "example": "C'est délicieux pour toi.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "menthe-verte",
+      "word": "menthe verte",
+      "en": "menthe verte",
+      "sourceId": "spearmint",
+      "sourceIds": [
+        "spearmint"
+      ],
+      "ru": [
+        "мята колосистая"
+      ],
+      "gender": "f",
+      "example": "C'est de la menthe verte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fait-maison",
+      "word": "fait maison",
+      "en": "fait maison",
+      "sourceId": "homemade",
+      "sourceIds": [
+        "homemade"
+      ],
+      "ru": [
+        "домашнего приготовления"
+      ],
+      "gender": null,
+      "example": "Un kazoo fait maison.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "barbecue",
+      "word": "barbecue",
+      "en": "barbecue",
+      "sourceId": "barbecue",
+      "sourceIds": [
+        "barbecue"
+      ],
+      "ru": [
+        "барбекю"
+      ],
+      "gender": "m",
+      "example": "C'est la meilleure sauce barbecue de Kansas City.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cafeine-caffeinated",
+      "word": "caféiné",
+      "en": "caféiné",
+      "sourceId": "caffeinated",
+      "sourceIds": [
+        "caffeinated"
+      ],
+      "ru": [
+        "содержащий кофеин"
+      ],
+      "gender": null,
+      "example": "Ils vendent de la vodka caféinée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ketchup",
+      "word": "ketchup",
+      "en": "ketchup",
+      "sourceId": "ketchup",
+      "sourceIds": [
+        "ketchup"
+      ],
+      "ru": [
+        "кетчуп"
+      ],
+      "gender": "m",
+      "example": "Tu as du ketchup là.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fruite",
+      "word": "fruité",
+      "en": "fruité",
+      "sourceId": "fruity",
+      "sourceIds": [
+        "fruity"
+      ],
+      "ru": [
+        "фруктовый"
+      ],
+      "gender": null,
+      "example": "Ce vin a un goût fruité.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "tarte",
+      "word": "tarte",
+      "en": "tarte",
+      "sourceId": "tart",
+      "sourceIds": [
+        "tart"
+      ],
+      "ru": [
+        "фруктовый пирог"
+      ],
+      "gender": "f",
+      "example": "Elle a préparé une délicieuse tarte aux pommes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "guimauve",
+      "word": "guimauve",
+      "en": "guimauve",
+      "sourceId": "marshmallow",
+      "sourceIds": [
+        "marshmallow"
+      ],
+      "ru": [
+        "зефир",
+        "маршмэллоу"
+      ],
+      "gender": "f",
+      "example": "marcher sur une guimauve.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "veau",
+      "word": "veau",
+      "en": "veau",
+      "sourceId": "veal",
+      "sourceIds": [
+        "veal"
+      ],
+      "ru": [
+        "телятина"
+      ],
+      "gender": "m",
+      "example": "en un petit veau timide ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "saveur",
+      "word": "saveur",
+      "en": "saveur",
+      "sourceId": "flavour",
+      "sourceIds": [
+        "flavour"
+      ],
+      "ru": [
+        "вкус",
+        "аромат"
+      ],
+      "gender": "f",
+      "example": "Laissez-moi vous donner un avant-goût de ce projet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "citrouille",
+      "word": "citrouille",
+      "en": "citrouille",
+      "sourceId": "pumpkin",
+      "sourceIds": [
+        "pumpkin"
+      ],
+      "ru": [
+        "тыква"
+      ],
+      "gender": "f",
+      "example": "Nous avons commencé à vendre de la soupe à la citrouille et à la ricotta.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ricotta",
+      "word": "ricotta",
+      "en": "ricotta",
+      "sourceId": "ricotta",
+      "sourceIds": [
+        "ricotta"
+      ],
+      "ru": [
+        "рикотта"
+      ],
+      "gender": "f",
+      "example": "Nous avons commencé à vendre de la soupe au potiron et à la ricotta.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cafe-au-lait",
+      "word": "café au lait",
+      "en": "café au lait",
+      "sourceId": "latte",
+      "sourceIds": [
+        "latte"
+      ],
+      "ru": [
+        "латте"
+      ],
+      "gender": "m",
+      "example": "Je prends un café au lait tous les matins.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cannelle",
+      "word": "cannelle",
+      "en": "cannelle",
+      "sourceId": "cinnamon",
+      "sourceIds": [
+        "cinnamon"
+      ],
+      "ru": [
+        "корица"
+      ],
+      "gender": "f",
+      "example": "un mélange de fruits et de cannelle",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "spaghetti",
+      "word": "spaghetti",
+      "en": "spaghetti",
+      "sourceId": "spaghetti",
+      "sourceIds": [
+        "spaghetti"
+      ],
+      "ru": [
+        "спагетти"
+      ],
+      "gender": "m",
+      "example": "Un monstre en spaghetti aux oreilles vertes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cheeseburger",
+      "word": "cheeseburger",
+      "en": "cheeseburger",
+      "sourceId": "cheeseburger",
+      "sourceIds": [
+        "cheeseburger"
+      ],
+      "ru": [
+        "чизбургер"
+      ],
+      "gender": "m",
+      "example": "Tu m'achètes un cheeseburger.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brocoli",
+      "word": "brocoli",
+      "en": "brocoli",
+      "sourceId": "broccoli",
+      "sourceIds": [
+        "broccoli"
+      ],
+      "ru": [
+        "брокколи"
+      ],
+      "gender": "m",
+      "example": "Je n'aime pas ce brocoli.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "etouffee",
+      "word": "étouffée",
+      "en": "étouffée",
+      "sourceId": "etouffee",
+      "sourceIds": [
+        "etouffee"
+      ],
+      "ru": [
+        "этуфе (блюдо)"
+      ],
+      "gender": "f",
+      "example": "Nous avons mangé une étouffée aux écrevisses.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faim",
+      "word": "faim",
+      "en": "faim",
+      "sourceId": "hunger",
+      "sourceIds": [
+        "hunger"
+      ],
+      "ru": [
+        "голод"
+      ],
+      "gender": "f",
+      "example": "Tout le monde porte sa faim.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "caramel",
+      "word": "caramel",
+      "en": "caramel",
+      "sourceId": "fudge",
+      "sourceIds": [
+        "fudge"
+      ],
+      "ru": [
+        "помадка",
+        "чепуха"
+      ],
+      "gender": "m",
+      "example": "Oh, zut alors.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chewing-gum",
+      "word": "chewing-gum",
+      "en": "chewing-gum",
+      "sourceId": "bubblegum",
+      "sourceIds": [
+        "bubblegum"
+      ],
+      "ru": [
+        "жевательная резинка"
+      ],
+      "gender": "m",
+      "example": "Elle mâche du chewing-gum.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "amidonne",
+      "word": "amidonné",
+      "en": "amidonné",
+      "sourceId": "starchy",
+      "sourceIds": [
+        "starchy"
+      ],
+      "ru": [
+        "крахмалистый"
+      ],
+      "gender": null,
+      "example": "Il a un col amidonné.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "cupcake",
+      "word": "cupcake",
+      "en": "cupcake",
+      "sourceId": "cupcake",
+      "sourceIds": [
+        "cupcake"
+      ],
+      "ru": [
+        "кекс"
+      ],
+      "gender": "m",
+      "example": "J'ai préparé un délicieux cupcake au chocolat.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "caramel",
+      "word": "caramel",
+      "en": "caramel",
+      "sourceId": "taffy",
+      "sourceIds": [
+        "taffy"
+      ],
+      "ru": [
+        "ириска"
+      ],
+      "gender": "m",
+      "example": "J'adore manger du caramel mou.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boule-de-gomme",
+      "word": "boule de gomme",
+      "en": "boule de gomme",
+      "sourceId": "gumball",
+      "sourceIds": [
+        "gumball"
+      ],
+      "ru": [
+        "жевательная резинка в форме шарика"
+      ],
+      "gender": "m/f",
+      "example": "Les gardiens des boules de gomme.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tranchoir",
+      "word": "tranchoir",
+      "en": "tranchoir",
+      "sourceId": "trencher",
+      "sourceIds": [
+        "trencher"
+      ],
+      "ru": [
+        "деревянная тарелка"
+      ],
+      "gender": "m",
+      "example": "Le pain servait autrefois de tranchoir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "consommer",
+      "word": "consommer",
+      "en": "consommer",
+      "sourceId": "consume",
+      "sourceIds": [
+        "consume"
+      ],
+      "ru": [
+        "потреблять",
+        "поглощать"
+      ],
+      "gender": null,
+      "example": "Cela corrompt, cela consomme.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bourbon",
+      "word": "bourbon",
+      "en": "bourbon",
+      "sourceId": "bourbon",
+      "sourceIds": [
+        "bourbon"
+      ],
+      "ru": [
+        "бурбон"
+      ],
+      "gender": "m",
+      "example": "Il boit un verre de bourbon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "conserverie",
+      "word": "conserverie",
+      "en": "conserverie",
+      "sourceId": "cannery",
+      "sourceIds": [
+        "cannery"
+      ],
+      "ru": [
+        "консервный завод"
+      ],
+      "gender": "f",
+      "example": "L'ancienne conserverie près des quais.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "alcool",
+      "word": "alcool",
+      "en": "alcool",
+      "sourceId": "liquor",
+      "sourceIds": [
+        "liquor"
+      ],
+      "ru": [
+        "спиртной напиток",
+        "крепкий алкоголь"
+      ],
+      "gender": "m",
+      "example": "Un point pour l'alcool et le manque de jugement.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vegetal",
+      "word": "végétal",
+      "en": "végétal",
+      "sourceId": "veggie",
+      "sourceIds": [
+        "veggie"
+      ],
+      "ru": [
+        "овощ"
+      ],
+      "gender": "m",
+      "example": "C'est du bacon végétal.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sauge",
+      "word": "sauge",
+      "en": "sauge",
+      "sourceId": "sage",
+      "sourceIds": [
+        "sage"
+      ],
+      "ru": [
+        "шалфей",
+        "мудрец"
+      ],
+      "gender": "f",
+      "example": "J'ai ajouté une feuille de sauge dans la sauce.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "piment",
+      "word": "piment",
+      "en": "piment",
+      "sourceId": "chilli",
+      "sourceIds": [
+        "chilli",
+        "chili"
+      ],
+      "ru": [
+        "чили",
+        "острый перец"
+      ],
+      "gender": "m",
+      "example": "Une pincée de poudre de piment.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "croute",
+      "word": "croûte",
+      "en": "croûte",
+      "sourceId": "crust",
+      "sourceIds": [
+        "crust"
+      ],
+      "ru": [
+        "корка",
+        "корочка"
+      ],
+      "gender": "f",
+      "example": "Tu n'aimes pas la croûte ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cremerie",
+      "word": "crèmerie",
+      "en": "crèmerie",
+      "sourceId": "creamery",
+      "sourceIds": [
+        "creamery"
+      ],
+      "ru": [
+        "маслозавод",
+        "молочная лавка"
+      ],
+      "gender": "f",
+      "example": "Nous allons à la crèmerie pour acheter des glaces.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parmigiana",
+      "word": "parmigiana",
+      "en": "parmigiana",
+      "sourceId": "parmigiana",
+      "sourceIds": [
+        "parmigiana"
+      ],
+      "ru": [
+        "пармиджано"
+      ],
+      "gender": "f",
+      "example": "Il a préparé le meilleur poulet à la parmigiana.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "xeres",
+      "word": "xérès",
+      "en": "xérès",
+      "sourceId": "sherry",
+      "sourceIds": [
+        "sherry"
+      ],
+      "ru": [
+        "херес"
+      ],
+      "gender": "m",
+      "example": "Il a commandé un verre de xérès.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "scotch",
+      "word": "scotch",
+      "en": "scotch",
+      "sourceId": "scotch",
+      "sourceIds": [
+        "scotch"
+      ],
+      "ru": [
+        "шотландский виски"
+      ],
+      "gender": "m",
+      "example": "Il boit un scotch tout seul.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "macallan",
+      "word": "Macallan",
+      "en": "Macallan",
+      "sourceId": "macallan",
+      "sourceIds": [
+        "macallan"
+      ],
+      "ru": [
+        "Макаллан"
+      ],
+      "gender": "m",
+      "example": "Il a commandé un verre de Macallan.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boulette-de-viande",
+      "word": "boulette de viande",
+      "en": "boulette de viande",
+      "sourceId": "meatball",
+      "sourceIds": [
+        "meatball"
+      ],
+      "ru": [
+        "тефтеля"
+      ],
+      "gender": "f",
+      "example": "Remuez les boulettes de viande.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "curry",
+      "word": "curry",
+      "en": "curry",
+      "sourceId": "curry",
+      "sourceIds": [
+        "curry"
+      ],
+      "ru": [
+        "карри"
+      ],
+      "gender": "m",
+      "example": "De plus, le curry est un laxatif naturel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "moka",
+      "word": "moka",
+      "en": "moka",
+      "sourceId": "mocha",
+      "sourceIds": [
+        "mocha"
+      ],
+      "ru": [
+        "мокко"
+      ],
+      "gender": "m",
+      "example": "C'est un café moka.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bistrot",
+      "word": "bistrot",
+      "en": "bistrot",
+      "sourceId": "bistro",
+      "sourceIds": [
+        "bistro"
+      ],
+      "ru": [
+        "бистро"
+      ],
+      "gender": "m",
+      "example": "Nous allons dans ce petit bistrot à Brooklyn.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vermouth",
+      "word": "vermouth",
+      "en": "vermouth",
+      "sourceId": "vermouth",
+      "sourceIds": [
+        "vermouth"
+      ],
+      "ru": [
+        "вермут"
+      ],
+      "gender": "m",
+      "example": "Avec un peu de gin et de vermouth ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cheesecake",
+      "word": "cheesecake",
+      "en": "cheesecake",
+      "sourceId": "cheesecake",
+      "sourceIds": [
+        "cheesecake"
+      ],
+      "ru": [
+        "чизкейк"
+      ],
+      "gender": "m",
+      "example": "J'ai mangé un délicieux cheesecake au dessert.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "limonade",
+      "word": "limonade",
+      "en": "limonade",
+      "sourceId": "lemonade",
+      "sourceIds": [
+        "lemonade"
+      ],
+      "ru": [
+        "лимонад"
+      ],
+      "gender": "f",
+      "example": "Qui veut de la limonade alcoolisée ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grignoter",
+      "word": "grignoter",
+      "en": "grignoter",
+      "sourceId": "munch",
+      "sourceIds": [
+        "munch"
+      ],
+      "ru": [
+        "жевать"
+      ],
+      "gender": null,
+      "example": "Il aime grignoter des biscuits devant la télévision.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "saucisse",
+      "word": "saucisse",
+      "en": "saucisse",
+      "sourceId": "wienie",
+      "sourceIds": [
+        "wienie"
+      ],
+      "ru": [
+        "сосиска"
+      ],
+      "gender": "f",
+      "example": "Elle mange une saucisse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "seigle",
+      "word": "seigle",
+      "en": "seigle",
+      "sourceId": "rye",
+      "sourceIds": [
+        "rye"
+      ],
+      "ru": [
+        "рожь"
+      ],
+      "gender": "m",
+      "example": "J'ai demandé du pain de seigle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boire",
+      "word": "boire",
+      "en": "boire",
+      "sourceId": "imbibe",
+      "sourceIds": [
+        "imbibe"
+      ],
+      "ru": [
+        "пить",
+        "впитывать"
+      ],
+      "gender": null,
+      "example": "une invitation à boire ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "roux",
+      "word": "roux",
+      "en": "roux",
+      "sourceId": "ginger",
+      "sourceIds": [
+        "ginger"
+      ],
+      "ru": [
+        "имбирь",
+        "рыжий"
+      ],
+      "gender": null,
+      "example": "Oh, le garçon roux.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "mojito",
+      "word": "mojito",
+      "en": "mojito",
+      "sourceId": "mojito",
+      "sourceIds": [
+        "mojito"
+      ],
+      "ru": [
+        "мохито"
+      ],
+      "gender": "m",
+      "example": "Juste pour lui acheter un mojito.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "yaourt-glace",
+      "word": "yaourt glacé",
+      "en": "yaourt glacé",
+      "sourceId": "froyo",
+      "sourceIds": [
+        "froyo"
+      ],
+      "ru": [
+        "замороженный йогурт"
+      ],
+      "gender": "m",
+      "example": "Une boutique de yaourt glacé ouverte toute la nuit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hors-menu",
+      "word": "hors menu",
+      "en": "hors menu",
+      "sourceId": "off-menu",
+      "sourceIds": [
+        "off-menu"
+      ],
+      "ru": [
+        "вне меню"
+      ],
+      "gender": null,
+      "example": "Rien n'est hors menu.",
+      "level": "B1",
+      "pos": "preposition"
+    },
+    {
+      "id": "engloutir",
+      "word": "engloutir",
+      "en": "engloutir",
+      "sourceId": "gobble",
+      "sourceIds": [
+        "gobble"
+      ],
+      "ru": [
+        "жадно глотать"
+      ],
+      "gender": null,
+      "example": "Tu n'as qu'à l'engloutir.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "pop-corn",
+      "word": "pop-corn",
+      "en": "pop-corn",
+      "sourceId": "popcorn",
+      "sourceIds": [
+        "popcorn"
+      ],
+      "ru": [
+        "попкорн"
+      ],
+      "gender": "m",
+      "example": "J'aime manger du pop-corn au cinéma.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pistache",
+      "word": "pistache",
+      "en": "pistache",
+      "sourceId": "pistachio",
+      "sourceIds": [
+        "pistachio"
+      ],
+      "ru": [
+        "фисташка"
+      ],
+      "gender": "f",
+      "example": "Tu veux une glace à la pistache ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "menthe-poivree",
+      "word": "menthe poivrée",
+      "en": "menthe poivrée",
+      "sourceId": "peppermint",
+      "sourceIds": [
+        "peppermint"
+      ],
+      "ru": [
+        "мята перечная"
+      ],
+      "gender": "f",
+      "example": "J'aime le goût de la menthe poivrée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bouffe",
+      "word": "bouffe",
+      "en": "bouffe",
+      "sourceId": "grub",
+      "sourceIds": [
+        "grub"
+      ],
+      "ru": [
+        "еда",
+        "личинка"
+      ],
+      "gender": "f",
+      "example": "Je vais aller manger un morceau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fruits-de-mer",
+      "word": "fruits de mer",
+      "en": "fruits de mer",
+      "sourceId": "shellfish",
+      "sourceIds": [
+        "shellfish"
+      ],
+      "ru": [
+        "моллюски",
+        "ракообразные"
+      ],
+      "gender": "m",
+      "example": "Ma première supposition serait les fruits de mer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "yaourt",
+      "word": "yaourt",
+      "en": "yaourt",
+      "sourceId": "yoghurt",
+      "sourceIds": [
+        "yoghurt"
+      ],
+      "ru": [
+        "йогурт"
+      ],
+      "gender": "m",
+      "example": "Nous avons travaillé chez Penguins Yaourt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bretzel",
+      "word": "bretzel",
+      "en": "bretzel",
+      "sourceId": "pretzel",
+      "sourceIds": [
+        "pretzel"
+      ],
+      "ru": [
+        "крендель"
+      ],
+      "gender": "m",
+      "example": "Tu veux un bretzel ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tasse-de-the",
+      "word": "tasse de thé",
+      "en": "tasse de thé",
+      "sourceId": "cup-of-tea",
+      "sourceIds": [
+        "cup-of-tea"
+      ],
+      "ru": [
+        "чашка чая"
+      ],
+      "gender": "f",
+      "example": "Je vais te préparer une tasse de thé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aux-herbes",
+      "word": "aux herbes",
+      "en": "aux herbes",
+      "sourceId": "herbal",
+      "sourceIds": [
+        "herbal"
+      ],
+      "ru": [
+        "травяной"
+      ],
+      "gender": null,
+      "example": "Ce sont des apaisants aux herbes.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "avoir-un-petit-creux",
+      "word": "avoir un petit creux",
+      "en": "avoir un petit creux",
+      "sourceId": "peckish",
+      "sourceIds": [
+        "peckish"
+      ],
+      "ru": [
+        "голодный"
+      ],
+      "gender": null,
+      "example": "Il a eu un petit creux.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "avaler",
+      "word": "avaler",
+      "en": "avaler",
+      "sourceId": "gulp",
+      "sourceIds": [
+        "gulp"
+      ],
+      "ru": [
+        "глотать",
+        "сглатывать"
+      ],
+      "gender": null,
+      "example": "Il avale son café d'un trait.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "plat-a-emporter",
+      "word": "plat à emporter",
+      "en": "plat à emporter",
+      "sourceId": "takeaway",
+      "sourceIds": [
+        "takeaway"
+      ],
+      "ru": [
+        "еда навынос"
+      ],
+      "gender": "m",
+      "example": "On commande un plat à emporter ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "petillement",
+      "word": "pétillement",
+      "en": "pétillement",
+      "sourceId": "fizz",
+      "sourceIds": [
+        "fizz"
+      ],
+      "ru": [
+        "шипение",
+        "шипучий напиток"
+      ],
+      "gender": "m",
+      "example": "Le pétillement de cette boisson est très agréable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pepin",
+      "word": "pépin",
+      "en": "pépin",
+      "sourceId": "pip",
+      "sourceIds": [
+        "pip"
+      ],
+      "ru": [
+        "зернышко",
+        "косточка"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de pépins dans cette pomme.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "huitre",
+      "word": "huître",
+      "en": "huître",
+      "sourceId": "oyster",
+      "sourceIds": [
+        "oyster"
+      ],
+      "ru": [
+        "устрица"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des huîtres avec un filet de citron.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "reglisse",
+      "word": "réglisse",
+      "en": "réglisse",
+      "sourceId": "liquorice",
+      "sourceIds": [
+        "liquorice"
+      ],
+      "ru": [
+        "лакрица"
+      ],
+      "gender": "f",
+      "example": "Il adore manger des bonbons à la réglisse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "assortiment",
+      "word": "assortiment",
+      "en": "assortiment",
+      "sourceId": "allsort",
+      "sourceIds": [
+        "allsort"
+      ],
+      "ru": [
+        "ассорти"
+      ],
+      "gender": "m",
+      "example": "Il mangeait un assortiment de réglisses.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "risotto",
+      "word": "risotto",
+      "en": "risotto",
+      "sourceId": "risotto",
+      "sourceIds": [
+        "risotto"
+      ],
+      "ru": [
+        "ризотто"
+      ],
+      "gender": "m",
+      "example": "Il reste du risotto dans le réfrigérateur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gratin",
+      "word": "gratin",
+      "en": "gratin",
+      "sourceId": "casserole",
+      "sourceIds": [
+        "casserole"
+      ],
+      "ru": [
+        "запеканка"
+      ],
+      "gender": "m",
+      "example": "J'ai préparé un gratin de légumes pour le dîner.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brownie",
+      "word": "brownie",
+      "en": "brownie",
+      "sourceId": "brownie",
+      "sourceIds": [
+        "brownie"
+      ],
+      "ru": [
+        "брауни"
+      ],
+      "gender": "m",
+      "example": "Quelqu'un prépare des brownies.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tourte",
+      "word": "tourte",
+      "en": "tourte",
+      "sourceId": "potpie",
+      "sourceIds": [
+        "potpie"
+      ],
+      "ru": [
+        "пирог в горшочке"
+      ],
+      "gender": "f",
+      "example": "Que dirais-tu d'une bonne tourte au poulet alors ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cuisine",
+      "word": "cuisine",
+      "en": "cuisine",
+      "sourceId": "cuisine",
+      "sourceIds": [
+        "cuisine"
+      ],
+      "ru": [
+        "кухня"
+      ],
+      "gender": "f",
+      "example": "Ils nous ont offert le cadeau de notre cuisine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dejeuner",
+      "word": "déjeuner",
+      "en": "déjeuner",
+      "sourceId": "luncheon",
+      "sourceIds": [
+        "luncheon"
+      ],
+      "ru": [
+        "ланч",
+        "обед"
+      ],
+      "gender": "m",
+      "example": "Nous avons reçu une invitation pour le déjeuner.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "au-curry",
+      "word": "au curry",
+      "en": "au curry",
+      "sourceId": "curry-based",
+      "sourceIds": [
+        "curry-based"
+      ],
+      "ru": [
+        "на основе карри"
+      ],
+      "gender": null,
+      "example": "Ces deux cuisines sont au curry.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "gastronomiquement",
+      "word": "gastronomiquement",
+      "en": "gastronomiquement",
+      "sourceId": "gastronomically",
+      "sourceIds": [
+        "gastronomically"
+      ],
+      "ru": [
+        "гастрономически"
+      ],
+      "gender": null,
+      "example": "Ce serait gastronomiquement redondant.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "baguette",
+      "word": "baguette",
+      "en": "baguette",
+      "sourceId": "chopstick",
+      "sourceIds": [
+        "chopstick"
+      ],
+      "ru": [
+        "палочка для еды"
+      ],
+      "gender": "f",
+      "example": "Est-ce qu'il y a des baguettes ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "glucide",
+      "word": "glucide",
+      "en": "glucide",
+      "sourceId": "carbohydrate",
+      "sourceIds": [
+        "carbohydrate"
+      ],
+      "ru": [
+        "углевод"
+      ],
+      "gender": "m",
+      "example": "Un système d'apport en glucides.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hydromel",
+      "word": "hydromel",
+      "en": "hydromel",
+      "sourceId": "mead",
+      "sourceIds": [
+        "mead"
+      ],
+      "ru": [
+        "медовуха"
+      ],
+      "gender": "m",
+      "example": "De l'hydromel au sang de gobelin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "minestrone",
+      "word": "minestrone",
+      "en": "minestrone",
+      "sourceId": "minestrone",
+      "sourceIds": [
+        "minestrone"
+      ],
+      "ru": [
+        "минестроне"
+      ],
+      "gender": "m",
+      "example": "Il y a six personnes pour le minestrone.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "carbonara",
+      "word": "carbonara",
+      "en": "carbonara",
+      "sourceId": "carbonara",
+      "sourceIds": [
+        "carbonara"
+      ],
+      "ru": [
+        "карбонара"
+      ],
+      "gender": "f",
+      "example": "J'ai mangé des pâtes à la carbonara hier soir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "absinthe",
+      "word": "absinthe",
+      "en": "absinthe",
+      "sourceId": "absinthe",
+      "sourceIds": [
+        "absinthe"
+      ],
+      "ru": [
+        "абсент"
+      ],
+      "gender": "f",
+      "example": "Il a bu un verre d'absinthe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "persil",
+      "word": "persil",
+      "en": "persil",
+      "sourceId": "parsley",
+      "sourceIds": [
+        "parsley"
+      ],
+      "ru": [
+        "петрушка"
+      ],
+      "gender": "m",
+      "example": "et un peu de persil,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gras",
+      "word": "gras",
+      "en": "gras",
+      "sourceId": "greasy",
+      "sourceIds": [
+        "greasy"
+      ],
+      "ru": [
+        "жирный",
+        "засаленный"
+      ],
+      "gender": null,
+      "example": "une ficelle grasse",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "net",
+      "word": "net",
+      "en": "net",
+      "sourceId": "crisp",
+      "sourceIds": [
+        "crisp"
+      ],
+      "ru": [
+        "хрустящий",
+        "свежий",
+        "четкий"
+      ],
+      "gender": null,
+      "example": "Il a fait un saut plus net.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "prune",
+      "word": "prune",
+      "en": "prune",
+      "sourceId": "plum",
+      "sourceIds": [
+        "plum"
+      ],
+      "ru": [
+        "слива"
+      ],
+      "gender": "f",
+      "example": "Dans les prunes !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "flan",
+      "word": "flan",
+      "en": "flan",
+      "sourceId": "flan",
+      "sourceIds": [
+        "flan"
+      ],
+      "ru": [
+        "флан",
+        "открытый пирог"
+      ],
+      "gender": "m",
+      "example": "Ton plus grand flan.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cremeux",
+      "word": "crémeux",
+      "en": "crémeux",
+      "sourceId": "custardy",
+      "sourceIds": [
+        "custardy"
+      ],
+      "ru": [
+        "напоминающий заварной крем"
+      ],
+      "gender": null,
+      "example": "La texture de ce dessert est très crémeuse.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "pouding",
+      "word": "pouding",
+      "en": "pouding",
+      "sourceId": "pudding",
+      "sourceIds": [
+        "pudding"
+      ],
+      "ru": [
+        "пудинг"
+      ],
+      "gender": "m",
+      "example": "Il a préparé un délicieux pouding au chocolat.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "steak-hache",
+      "word": "steak haché",
+      "en": "steak haché",
+      "sourceId": "patty",
+      "sourceIds": [
+        "patty"
+      ],
+      "ru": [
+        "котлета",
+        "пирожок"
+      ],
+      "gender": "m",
+      "example": "Il mange un steak haché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "moisi",
+      "word": "moisi",
+      "en": "moisi",
+      "sourceId": "moldy",
+      "sourceIds": [
+        "moldy"
+      ],
+      "ru": [
+        "плесневелый"
+      ],
+      "gender": null,
+      "example": "Ce pain est moisi.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "canneberge",
+      "word": "canneberge",
+      "en": "canneberge",
+      "sourceId": "cranberry",
+      "sourceIds": [
+        "cranberry"
+      ],
+      "ru": [
+        "клюква"
+      ],
+      "gender": "f",
+      "example": "Il ne s'agit pas seulement de jus de canneberge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aubergine",
+      "word": "aubergine",
+      "en": "aubergine",
+      "sourceId": "eggplant",
+      "sourceIds": [
+        "eggplant"
+      ],
+      "ru": [
+        "баклажан"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une aubergine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ziti",
+      "word": "ziti",
+      "en": "ziti",
+      "sourceId": "ziti",
+      "sourceIds": [
+        "ziti"
+      ],
+      "ru": [
+        "зити (вид пасты)"
+      ],
+      "gender": "m",
+      "example": "Avec vos ziti au four.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "scone",
+      "word": "scone",
+      "en": "scone",
+      "sourceId": "scone",
+      "sourceIds": [
+        "scone"
+      ],
+      "ru": [
+        "скон (булочка)"
+      ],
+      "gender": "m",
+      "example": "J'aime prendre le thé avec des scones.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cappuccino",
+      "word": "cappuccino",
+      "en": "cappuccino",
+      "sourceId": "cappuccino",
+      "sourceIds": [
+        "cappuccino"
+      ],
+      "ru": [
+        "капучино"
+      ],
+      "gender": "m",
+      "example": "Je voudrais un cappuccino, s'il vous plaît.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ecreme",
+      "word": "écrémé",
+      "en": "écrémé",
+      "sourceId": "nonfat",
+      "sourceIds": [
+        "nonfat"
+      ],
+      "ru": [
+        "обезжиренный"
+      ],
+      "gender": null,
+      "example": "Je préfère boire du lait écrémé.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "cafe",
+      "word": "café",
+      "en": "café",
+      "sourceId": "cafe",
+      "sourceIds": [
+        "cafe"
+      ],
+      "ru": [
+        "кафе"
+      ],
+      "gender": "m",
+      "example": "Nous allons au café pour prendre un thé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grain-de-cafe-perle",
+      "word": "grain de café perle",
+      "en": "grain de café perle",
+      "sourceId": "peaberry",
+      "sourceIds": [
+        "peaberry"
+      ],
+      "ru": [
+        "пиберри"
+      ],
+      "gender": "m",
+      "example": "C'est un grain de café perle de Nouvelle-Zélande.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "calzone",
+      "word": "calzone",
+      "en": "calzone",
+      "sourceId": "calzone",
+      "sourceIds": [
+        "calzone"
+      ],
+      "ru": [
+        "кальцоне"
+      ],
+      "gender": "f",
+      "example": "J'ai commandé une calzone au restaurant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mozzarella",
+      "word": "mozzarella",
+      "en": "mozzarella",
+      "sourceId": "mozzarella",
+      "sourceIds": [
+        "mozzarella"
+      ],
+      "ru": [
+        "моцарелла"
+      ],
+      "gender": "f",
+      "example": "La mozzarella de bufflonne est délicieuse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "baguette",
+      "word": "baguette",
+      "en": "baguette",
+      "sourceId": "filone",
+      "sourceIds": [
+        "filone"
+      ],
+      "ru": [
+        "багет"
+      ],
+      "gender": "f",
+      "example": "Il a acheté une baguette fraîche à la boulangerie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "antipasto",
+      "word": "antipasto",
+      "en": "antipasto",
+      "sourceId": "antipasto",
+      "sourceIds": [
+        "antipasto"
+      ],
+      "ru": [
+        "антипасто"
+      ],
+      "gender": "m",
+      "example": "Nous avons commandé un antipasto avant le plat principal.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "braciole",
+      "word": "braciole",
+      "en": "braciole",
+      "sourceId": "braciole",
+      "sourceIds": [
+        "braciole"
+      ],
+      "ru": [
+        "брачоле"
+      ],
+      "gender": "f",
+      "example": "J'ai préparé des braciole pour le dîner.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grappa",
+      "word": "grappa",
+      "en": "grappa",
+      "sourceId": "grappa",
+      "sourceIds": [
+        "grappa"
+      ],
+      "ru": [
+        "граппа"
+      ],
+      "gender": "f",
+      "example": "Ils ont pris de la grappa.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nourriture",
+      "word": "nourriture",
+      "en": "nourriture",
+      "sourceId": "nourishment",
+      "sourceIds": [
+        "nourishment"
+      ],
+      "ru": [
+        "питание",
+        "пища"
+      ],
+      "gender": "f",
+      "example": "La nourriture de nos corps.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "poitrine",
+      "word": "poitrine",
+      "en": "poitrine",
+      "sourceId": "brisket",
+      "sourceIds": [
+        "brisket"
+      ],
+      "ru": [
+        "грудинка"
+      ],
+      "gender": "f",
+      "example": "Du poulet barbecue et de la poitrine de bœuf.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "produits-laitiers",
+      "word": "produits laitiers",
+      "en": "produits laitiers",
+      "sourceId": "dairy",
+      "sourceIds": [
+        "dairy"
+      ],
+      "ru": [
+        "молочные продукты"
+      ],
+      "gender": "f",
+      "example": "Il achète ses produits laitiers au marché.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

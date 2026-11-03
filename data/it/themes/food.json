@@ -1,0 +1,7407 @@
+{
+  "id": "food",
+  "title": "Еда",
+  "paid": false,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "alcol",
+      "word": "alcol",
+      "en": "alcol",
+      "ru": [
+        "спирт",
+        "алкоголь",
+        "алкогольный напиток"
+      ],
+      "example": "Il consumo di alcol aumenta ogni anno.",
+      "level": "B1",
+      "sourceId": "alcohol",
+      "sourceIds": [
+        "alcohol"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "analcolico",
+      "word": "analcolico",
+      "en": "analcolico",
+      "ru": [
+        "безалкогольный"
+      ],
+      "example": "Qual è la bibita analcolica che preferisci?",
+      "level": "C2",
+      "sourceId": "alcohol-free",
+      "sourceIds": [
+        "alcohol-free"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mandorla",
+      "word": "mandorla",
+      "en": "mandorla",
+      "ru": [
+        "миндаль"
+      ],
+      "example": "A me piace il latte di mandorle.",
+      "level": "C2",
+      "sourceId": "almond",
+      "sourceIds": [
+        "almond"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "appetito",
+      "word": "appetito",
+      "en": "appetito",
+      "ru": [
+        "аппетит"
+      ],
+      "example": "Ho dimenticato cosa voglia dire avere appetito.",
+      "level": "C2",
+      "sourceId": "appetite",
+      "sourceIds": [
+        "appetite"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mela",
+      "word": "mela",
+      "en": "mela",
+      "ru": [
+        "яблоко"
+      ],
+      "example": "A Mary non piacciono le mele, vero?",
+      "level": "A1",
+      "sourceId": "apple",
+      "sourceIds": [
+        "apple"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pancetta",
+      "word": "pancetta",
+      "en": "pancetta",
+      "ru": [
+        "бекон",
+        "ветчина"
+      ],
+      "example": "Ama la pancetta sui suoi hot dog.",
+      "level": "C1",
+      "sourceId": "bacon",
+      "sourceIds": [
+        "bacon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuocere-al-forno",
+      "word": "cuocere al forno",
+      "en": "cuocere al forno",
+      "ru": [
+        "печь",
+        "выпекание",
+        "запекание"
+      ],
+      "example": "A Tom piace cuocere al forno il pane.",
+      "level": "C2",
+      "sourceId": "bake",
+      "sourceIds": [
+        "bake"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "al-forno",
+      "word": "al forno",
+      "en": "al forno",
+      "ru": [
+        "запечённый",
+        "печёный"
+      ],
+      "example": "Avete mai cotto al forno una pizza?",
+      "level": "C2",
+      "sourceId": "baked",
+      "sourceIds": [
+        "baked"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cottura-al-forno",
+      "word": "cottura al forno",
+      "en": "cottura al forno",
+      "ru": [
+        "выпечка",
+        "выпекание"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "baking",
+      "sourceIds": [
+        "baking"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "banana",
+      "word": "banana",
+      "en": "banana",
+      "ru": [
+        "банан",
+        "банановое дерево"
+      ],
+      "example": "A chi non piace l'odore delle banane?",
+      "level": "A1",
+      "sourceId": "banana",
+      "sourceIds": [
+        "banana"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sbarre",
+      "word": "sbarre",
+      "en": "sbarre",
+      "ru": [
+        "брусья",
+        "решётка"
+      ],
+      "example": "Allora, com'è la vita dietro le sbarre?",
+      "level": "B1",
+      "sourceId": "bars",
+      "sourceIds": [
+        "bars"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fagiolo",
+      "word": "fagiolo",
+      "en": "fagiolo",
+      "ru": [
+        "боб",
+        "фасоль"
+      ],
+      "example": "A me piace mangiare fagioli e riso.",
+      "level": "B2",
+      "sourceId": "bean",
+      "sourceIds": [
+        "bean"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fagioli",
+      "word": "fagioli",
+      "en": "fagioli",
+      "ru": [
+        "бобы",
+        "фасоль"
+      ],
+      "example": "A me piace mangiare fagioli e riso.",
+      "level": "C1",
+      "sourceId": "beans",
+      "sourceIds": [
+        "beans"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carne-bovina",
+      "word": "carne bovina",
+      "en": "carne bovina",
+      "ru": [
+        "говяжий",
+        "говядина",
+        "телятина"
+      ],
+      "example": "Ho una predilezione per le carni bovine.",
+      "level": "B2",
+      "sourceId": "beef",
+      "sourceIds": [
+        "beef"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "birra",
+      "word": "birra",
+      "en": "birra",
+      "ru": [
+        "пиво"
+      ],
+      "example": "\"Vorremmo una birra.\" \"Una birra e basta?\"",
+      "level": "B1",
+      "sourceId": "beer",
+      "sourceIds": [
+        "beer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bacca",
+      "word": "bacca",
+      "en": "bacca",
+      "ru": [
+        "ягода"
+      ],
+      "example": "Il tordo si nutre di bacche.",
+      "level": "C1",
+      "sourceId": "berry",
+      "sourceIds": [
+        "berry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "amara",
+      "word": "amara",
+      "en": "amara",
+      "ru": [
+        "горький",
+        "мучительный",
+        "суровый"
+      ],
+      "example": "Improvvisamente la vita è diventata più amara.",
+      "level": "C2",
+      "sourceId": "bitter",
+      "sourceIds": [
+        "bitter"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "amaramente",
+      "word": "amaramente",
+      "en": "amaramente",
+      "ru": [
+        "горько"
+      ],
+      "example": "Ieri ho visto un uomo che piangeva amaramente.",
+      "level": "C2",
+      "sourceId": "bitterly",
+      "sourceIds": [
+        "bitterly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "foruncolo",
+      "word": "foruncolo",
+      "en": "foruncolo",
+      "ru": [
+        "нарыв",
+        "фурункул",
+        "чирей"
+      ],
+      "example": "Hai un foruncolo sul naso.",
+      "level": "C2",
+      "sourceId": "boil",
+      "sourceIds": [
+        "boil"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bollito",
+      "word": "bollito",
+      "en": "bollito",
+      "ru": [
+        "варёный",
+        "отварной",
+        "кипячёный"
+      ],
+      "example": "A me non piacciono le uova bollite.",
+      "level": "C2",
+      "sourceId": "boiled",
+      "sourceIds": [
+        "boiled"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ebollizione",
+      "word": "ebollizione",
+      "en": "ebollizione",
+      "ru": [
+        "кипение"
+      ],
+      "example": "Il bollitore è in ebollizione.",
+      "level": "C2",
+      "sourceId": "boiling",
+      "sourceIds": [
+        "boiling"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bottiglia",
+      "word": "bottiglia",
+      "en": "bottiglia",
+      "ru": [
+        "бутылка",
+        "охапка (сена)",
+        "сноп"
+      ],
+      "example": "\"Mi dia un'altra bottiglia\", mi ha detto.",
+      "level": "B1",
+      "sourceId": "bottle",
+      "sourceIds": [
+        "bottle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciotola",
+      "word": "ciotola",
+      "en": "ciotola",
+      "ru": [
+        "миска",
+        "пиала",
+        "плошка"
+      ],
+      "example": "Ha versato il latte in una ciotola.",
+      "level": "B1",
+      "sourceId": "bowl",
+      "sourceIds": [
+        "bowl"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pane",
+      "word": "pane",
+      "en": "pane",
+      "ru": [
+        "хлеб",
+        "панировать"
+      ],
+      "example": "\"Banh mi\" vuol dire pane in vietnamita.",
+      "level": "A1",
+      "sourceId": "bread",
+      "sourceIds": [
+        "bread"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fare-colazione",
+      "word": "fare colazione",
+      "en": "fare colazione",
+      "ru": [
+        "завтрак",
+        "завтракать",
+        "позавтракать"
+      ],
+      "example": "Domani a quest'ora faremo colazione ad Atene.",
+      "level": "A1",
+      "sourceId": "breakfast",
+      "sourceIds": [
+        "breakfast"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hamburger",
+      "word": "hamburger",
+      "en": "hamburger",
+      "ru": [
+        "бургер",
+        "бутерброд",
+        "гамбургер"
+      ],
+      "example": "Andiamo a prendere un hamburger o qualcosa.",
+      "level": "C2",
+      "sourceId": "burger",
+      "sourceIds": [
+        "burger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "burro",
+      "word": "burro",
+      "en": "burro",
+      "ru": [
+        "масло",
+        "сливочное масло",
+        "намазать маслом"
+      ],
+      "example": "A lei piace il burro di mele?",
+      "level": "A1",
+      "sourceId": "butter",
+      "sourceIds": [
+        "butter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cavolo",
+      "word": "cavolo",
+      "en": "cavolo",
+      "ru": [
+        "капуста",
+        "кочанная капуста"
+      ],
+      "example": "Dove avrò messo quel cavolo di valigia?",
+      "level": "C2",
+      "sourceId": "cabbage",
+      "sourceIds": [
+        "cabbage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mensa",
+      "word": "mensa",
+      "en": "mensa",
+      "ru": [
+        "буфет",
+        "закусочная",
+        "кафетерий"
+      ],
+      "example": "Ci sono elencate tutte le mense convenzionate.",
+      "level": "C2",
+      "sourceId": "cafeteria",
+      "sourceIds": [
+        "cafeteria"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torta",
+      "word": "torta",
+      "en": "torta",
+      "ru": [
+        "торт",
+        "кекс",
+        "пирожное"
+      ],
+      "example": "\"Chi cuoce le torte?\" \"Alessandra le cuoce.\"",
+      "level": "A1",
+      "sourceId": "cake",
+      "sourceIds": [
+        "cake"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barattolo",
+      "word": "barattolo",
+      "en": "barattolo",
+      "ru": [
+        "жестяная банка"
+      ],
+      "example": "Vorrei un barattolo di passata di pomodoro.",
+      "level": "A1",
+      "sourceId": "can",
+      "sourceIds": [
+        "can",
+        "tin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caramella",
+      "word": "caramella",
+      "en": "caramella",
+      "ru": [
+        "конфета",
+        "сласть"
+      ],
+      "example": "A mia figlia piacerebbe mangiare qualche caramella.",
+      "level": "B2",
+      "sourceId": "candy",
+      "sourceIds": [
+        "candy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carota",
+      "word": "carota",
+      "en": "carota",
+      "ru": [
+        "морковь",
+        "морковка",
+        "морква"
+      ],
+      "example": "A Tom piace mangiare le carote crude.",
+      "level": "C2",
+      "sourceId": "carrot",
+      "sourceIds": [
+        "carrot"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caviale",
+      "word": "caviale",
+      "en": "caviale",
+      "ru": [
+        "икра"
+      ],
+      "example": "\"Che cosa ordineranno al ristorante?\" \"Penso del caviale.\"",
+      "level": "C2",
+      "sourceId": "caviar",
+      "sourceIds": [
+        "caviar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cereale",
+      "word": "cereale",
+      "en": "cereale",
+      "ru": [
+        "злак",
+        "зерновая культура",
+        "крупа"
+      ],
+      "example": "Ha versato del latte sui suoi cereali.",
+      "level": "C2",
+      "sourceId": "cereal",
+      "sourceIds": [
+        "cereal"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "champagne",
+      "word": "champagne",
+      "en": "champagne",
+      "ru": [
+        "шампанское",
+        "игристое вино"
+      ],
+      "example": "Abbiamo intenzione di bere champagne a mezzanotte.",
+      "level": "C1",
+      "sourceId": "champagne",
+      "sourceIds": [
+        "champagne"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "charlotte",
+      "word": "charlotte",
+      "en": "charlotte",
+      "ru": [
+        "шарлотка"
+      ],
+      "example": "Mi piace tradurre le frasi di Charlotte.",
+      "level": "B1",
+      "sourceId": "charlotte",
+      "sourceIds": [
+        "charlotte"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "formaggio",
+      "word": "formaggio",
+      "en": "formaggio",
+      "ru": [
+        "сыр",
+        "творог"
+      ],
+      "example": "A Tom non piace molto il formaggio.",
+      "level": "A1",
+      "sourceId": "cheese",
+      "sourceIds": [
+        "cheese"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chef",
+      "word": "chef",
+      "en": "chef",
+      "ru": [
+        "повар",
+        "старший кок",
+        "шеф-повар"
+      ],
+      "example": "Chi è il suo chef televisivo preferito?",
+      "level": "B2",
+      "sourceId": "chef",
+      "sourceIds": [
+        "chef"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciliegia",
+      "word": "ciliegia",
+      "en": "ciliegia",
+      "ru": [
+        "вишнёвый",
+        "вишня",
+        "черешня"
+      ],
+      "example": "Abbiamo snocciolato delle ciliegie per la torta.",
+      "level": "B2",
+      "sourceId": "cherry",
+      "sourceIds": [
+        "cherry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pollo",
+      "word": "pollo",
+      "en": "pollo",
+      "ru": [
+        "курица",
+        "цыплёнок",
+        "курятина"
+      ],
+      "example": "A Tom piacciono i nugget di pollo.",
+      "level": "A1",
+      "sourceId": "chicken",
+      "sourceIds": [
+        "chicken"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cioccolato",
+      "word": "cioccolato",
+      "en": "cioccolato",
+      "ru": [
+        "шоколадный",
+        "шоколад",
+        "шоколадная конфета"
+      ],
+      "example": "A Sami piace il gelato al cioccolato.",
+      "level": "B1",
+      "sourceId": "chocolate",
+      "sourceIds": [
+        "chocolate"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cocktail",
+      "word": "cocktail",
+      "en": "cocktail",
+      "ru": [
+        "коктейль",
+        "коктель"
+      ],
+      "example": "A lei piacciono i cocktail di gamberetti?",
+      "level": "C1",
+      "sourceId": "cocktail",
+      "sourceIds": [
+        "cocktail"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caffe",
+      "word": "caffè",
+      "en": "caffè",
+      "ru": [
+        "кофе",
+        "кофейный",
+        "кофейное зерно"
+      ],
+      "example": "\"Tu vuoi un caffè?\" \"Ma per carità!\"",
+      "level": "A1",
+      "sourceId": "coffee",
+      "sourceIds": [
+        "coffee"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "coca",
+      "word": "coca",
+      "en": "coca",
+      "ru": [
+        "кола"
+      ],
+      "example": "Delle patatine grandi e due coche medie.",
+      "level": "C2",
+      "sourceId": "coke",
+      "sourceIds": [
+        "coke",
+        "cola"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucinare",
+      "word": "cucinare",
+      "en": "cucinare",
+      "ru": [
+        "готовить"
+      ],
+      "example": "A Gregorio piace cucinare i fichi d'India.",
+      "level": "A1",
+      "sourceId": "cook",
+      "sourceIds": [
+        "cook"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucinato",
+      "word": "cucinato",
+      "en": "cucinato",
+      "ru": [
+        "варёный",
+        "приготовленный",
+        "сваренный"
+      ],
+      "example": "Abbiamo cucinato piatti a base di uova.",
+      "level": "C1",
+      "sourceId": "cooked",
+      "sourceIds": [
+        "cooked"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "biscotto",
+      "word": "biscotto",
+      "en": "biscotto",
+      "ru": [
+        "печенье"
+      ],
+      "example": "A me manca il mio gatto Biscotto.",
+      "level": "B2",
+      "sourceId": "cookie",
+      "sourceIds": [
+        "cookie",
+        "biscuit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucina",
+      "word": "cucina",
+      "en": "cucina",
+      "ru": [
+        "готовка",
+        "кулинария",
+        "стряпня"
+      ],
+      "example": "\"Dov'è il mio sandwich?\" \"È in cucina.\"",
+      "level": "B1",
+      "sourceId": "cooking",
+      "sourceIds": [
+        "cooking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grano",
+      "word": "grano",
+      "en": "grano",
+      "ru": [
+        "кукуруза"
+      ],
+      "example": "Di contorno ci sarà del grano saraceno.",
+      "level": "B2",
+      "sourceId": "corn",
+      "sourceIds": [
+        "corn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crema",
+      "word": "crema",
+      "en": "crema",
+      "ru": [
+        "кремовый",
+        "сметана",
+        "сливки"
+      ],
+      "example": "Avete mai mangiato una pizza alla crema?",
+      "level": "B1",
+      "sourceId": "cream",
+      "sourceIds": [
+        "cream"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panna-per-caffe",
+      "word": "panna per caffè",
+      "en": "panna per caffè",
+      "ru": [
+        "сливки для кофе",
+        "заменитель сливок"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "creamer",
+      "sourceIds": [
+        "creamer"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "crostini",
+      "word": "crostini",
+      "en": "crostini",
+      "ru": [
+        "гренки",
+        "сухарики"
+      ],
+      "example": "I crostini con formaggio e prosciutto sono deliziosi stuzzichini.",
+      "level": "C2",
+      "sourceId": "croutons",
+      "sourceIds": [
+        "croutons"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cetriolo",
+      "word": "cetriolo",
+      "en": "cetriolo",
+      "ru": [
+        "огурец"
+      ],
+      "example": "Coltivi cetrioli e ne faccia buon uso.",
+      "level": "C2",
+      "sourceId": "cucumber",
+      "sourceIds": [
+        "cucumber"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tazza",
+      "word": "tazza",
+      "en": "tazza",
+      "ru": [
+        "чашка",
+        "чаша",
+        "кубок"
+      ],
+      "example": "A Tom serve una tazza di zucchero.",
+      "level": "A2",
+      "sourceId": "cup",
+      "sourceIds": [
+        "cup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "delizioso",
+      "word": "delizioso",
+      "en": "delizioso",
+      "ru": [
+        "вкусный",
+        "вкусно",
+        "лакомый"
+      ],
+      "example": "Ciò che ha mangiato Tom era delizioso.",
+      "level": "A1",
+      "sourceId": "delicious",
+      "sourceIds": [
+        "delicious"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prelibatezza",
+      "word": "prelibatezza",
+      "en": "prelibatezza",
+      "ru": [
+        "вкуснота"
+      ],
+      "example": "Prova solo a vedere che prelibatezza.",
+      "level": "C2",
+      "sourceId": "deliciousness",
+      "sourceIds": [
+        "deliciousness"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dessert",
+      "word": "dessert",
+      "en": "dessert",
+      "ru": [
+        "десерт",
+        "сладкое"
+      ],
+      "example": "Abbandonare il suo dessert è un crimine.",
+      "level": "C2",
+      "sourceId": "dessert",
+      "sourceIds": [
+        "dessert"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucchiaio-da-dessert",
+      "word": "cucchiaio da dessert",
+      "en": "cucchiaio da dessert",
+      "ru": [
+        "десертная ложка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "dessertspoon",
+      "sourceIds": [
+        "dessertspoon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cena",
+      "word": "cena",
+      "en": "cena",
+      "ru": [
+        "ужин",
+        "обед",
+        "ужинать"
+      ],
+      "example": "\"Cosa vuoi mangiare per cena?\" \"Dei broccoli.\"",
+      "level": "A1",
+      "sourceId": "dinner",
+      "sourceIds": [
+        "dinner"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piatto",
+      "word": "piatto",
+      "en": "piatto",
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "миска"
+      ],
+      "example": "\"Com'è quel piatto?\" \"Da leccarsi i baffi!\"",
+      "level": "B1",
+      "sourceId": "dish",
+      "sourceIds": [
+        "dish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piatti",
+      "word": "piatti",
+      "en": "piatti",
+      "ru": [
+        "посуда",
+        "блюда"
+      ],
+      "example": "A Tom non piace lavare i piatti.",
+      "level": "C1",
+      "sourceId": "dishes",
+      "sourceIds": [
+        "dishes"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bere",
+      "word": "bere",
+      "en": "bere",
+      "ru": [
+        "пить"
+      ],
+      "example": "A chi pensano di darla a bere?",
+      "level": "A1",
+      "sourceId": "drink",
+      "sourceIds": [
+        "drink"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bere",
+      "word": "bere",
+      "en": "bere",
+      "ru": [
+        "питьё"
+      ],
+      "example": "A chi pensano di darla a bere?",
+      "level": "B1",
+      "sourceId": "drinking",
+      "sourceIds": [
+        "drinking"
+      ],
+      "pos": "v",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mangiare",
+      "word": "mangiare",
+      "en": "mangiare",
+      "ru": [
+        "есть"
+      ],
+      "example": "\"Cosa vuoi mangiare per cena?\" \"Dei broccoli.\"",
+      "level": "A1",
+      "sourceId": "eat",
+      "sourceIds": [
+        "eat"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimentazione",
+      "word": "alimentazione",
+      "en": "alimentazione",
+      "ru": [
+        "еда",
+        "принятие пищи",
+        "пища"
+      ],
+      "example": "Da oggi si riprende con un'alimentazione corretta.",
+      "level": "B1",
+      "sourceId": "eating",
+      "sourceIds": [
+        "eating"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "uovo",
+      "word": "uovo",
+      "en": "uovo",
+      "ru": [
+        "яйцо"
+      ],
+      "example": "A Mary serve una dozzina di uova.",
+      "level": "A1",
+      "sourceId": "egg",
+      "sourceIds": [
+        "egg"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gusci-d-uovo",
+      "word": "gusci d'uovo",
+      "en": "gusci d'uovo",
+      "ru": [
+        "яичная скорлупа"
+      ],
+      "example": "Dove posso buttare questi gusci d'uovo?",
+      "level": "A1",
+      "sourceId": "egg-shells",
+      "sourceIds": [
+        "egg-shells"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimentare",
+      "word": "alimentare",
+      "en": "alimentare",
+      "ru": [
+        "кормить"
+      ],
+      "example": "I dietisti sono degli esperti nell'industria alimentare.",
+      "level": "A2",
+      "sourceId": "feed",
+      "sourceIds": [
+        "feed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ripieno",
+      "word": "ripieno",
+      "en": "ripieno",
+      "ru": [
+        "сытный",
+        "наполнение",
+        "пломба"
+      ],
+      "example": "I tortelli sono un tipo pasta ripiena.",
+      "level": "B2",
+      "sourceId": "filling",
+      "sourceIds": [
+        "filling"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pesce",
+      "word": "pesce",
+      "en": "pesce",
+      "ru": [
+        "рыба"
+      ],
+      "example": "A Tom non piace mangiare il pesce.",
+      "level": "A1",
+      "sourceId": "fish",
+      "sourceIds": [
+        "fish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sapore",
+      "word": "sapore",
+      "en": "sapore",
+      "ru": [
+        "вкус",
+        "аромат",
+        "букет"
+      ],
+      "example": "A Rodrigo piaceva il sapore del sangue.",
+      "level": "C1",
+      "sourceId": "flavor",
+      "sourceIds": [
+        "flavor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aroma",
+      "word": "aroma",
+      "en": "aroma",
+      "ru": [
+        "приправа"
+      ],
+      "example": "I fiori d'arancio hanno un aroma piacevole.",
+      "level": "C2",
+      "sourceId": "flavoring",
+      "sourceIds": [
+        "flavoring"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "farina",
+      "word": "farina",
+      "en": "farina",
+      "ru": [
+        "мука"
+      ],
+      "example": "A Tom serve un po' di farina.",
+      "level": "C1",
+      "sourceId": "flour",
+      "sourceIds": [
+        "flour"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cibo",
+      "word": "cibo",
+      "en": "cibo",
+      "ru": [
+        "пища",
+        "еда",
+        "корм"
+      ],
+      "example": "A Londra ho preferito il cibo indiano.",
+      "level": "A1",
+      "sourceId": "food",
+      "sourceIds": [
+        "food"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "forchetta",
+      "word": "forchetta",
+      "en": "forchetta",
+      "ru": [
+        "вилка"
+      ],
+      "example": "Come farò a setacciare con una forchetta?",
+      "level": "C1",
+      "sourceId": "fork",
+      "sourceIds": [
+        "fork"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fresco",
+      "word": "fresco",
+      "en": "fresco",
+      "ru": [
+        "свежий"
+      ],
+      "example": "A me piace l'odore del pane fresco.",
+      "level": "B1",
+      "sourceId": "fresh",
+      "sourceIds": [
+        "fresh"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fritto",
+      "word": "fritto",
+      "en": "fritto",
+      "ru": [
+        "жареный"
+      ],
+      "example": "A me non piace il fritto misto.",
+      "level": "C2",
+      "sourceId": "fried",
+      "sourceIds": [
+        "fried"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frutto",
+      "word": "frutto",
+      "en": "frutto",
+      "ru": [
+        "фрукт",
+        "плод",
+        "фрукты"
+      ],
+      "example": "A Tom piacciono i frutti di mare.",
+      "level": "A1",
+      "sourceId": "fruit",
+      "sourceIds": [
+        "fruit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "friggere",
+      "word": "friggere",
+      "en": "friggere",
+      "ru": [
+        "жарить"
+      ],
+      "example": "Aggiunga del sale prima di friggere l'uovo.",
+      "level": "C2",
+      "sourceId": "fry",
+      "sourceIds": [
+        "fry"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aglio",
+      "word": "aglio",
+      "en": "aglio",
+      "ru": [
+        "чеснок"
+      ],
+      "example": "A Tom non piace il pane all'aglio.",
+      "level": "C1",
+      "sourceId": "garlic",
+      "sourceIds": [
+        "garlic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vetro",
+      "word": "vetro",
+      "en": "vetro",
+      "ru": [
+        "стекло",
+        "бокал",
+        "стакан"
+      ],
+      "example": "C'è una scultura di vetro in giardino.",
+      "level": "A2",
+      "sourceId": "glass",
+      "sourceIds": [
+        "glass"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "buongustaio",
+      "word": "buongustaio",
+      "en": "buongustaio",
+      "ru": [
+        "гастроном",
+        "гурман",
+        "лакомка"
+      ],
+      "example": "Questa specialità è apprezzata dai buongustai.",
+      "level": "B1",
+      "sourceId": "gourmet",
+      "sourceIds": [
+        "gourmet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "uva",
+      "word": "uva",
+      "en": "uva",
+      "ru": [
+        "виноград",
+        "виноградина"
+      ],
+      "example": "Il vino viene prodotto a partire dall'uva.",
+      "level": "C2",
+      "sourceId": "grape",
+      "sourceIds": [
+        "grape"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verdura",
+      "word": "verdura",
+      "en": "verdura",
+      "ru": [
+        "овощ",
+        "зелень"
+      ],
+      "example": "Abbiamo imbustato la frutta e la verdura.",
+      "level": "C2",
+      "sourceId": "greens",
+      "sourceIds": [
+        "greens"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "griglia",
+      "word": "griglia",
+      "en": "griglia",
+      "ru": [
+        "решётка",
+        "барбекю",
+        "барбекюшница"
+      ],
+      "example": "Mi piace il pesce cucinato alla griglia.",
+      "level": "B2",
+      "sourceId": "grill",
+      "sourceIds": [
+        "grill"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alla-griglia",
+      "word": "alla griglia",
+      "en": "alla griglia",
+      "ru": [
+        "жареный"
+      ],
+      "example": "Mi piace il pesce cucinato alla griglia.",
+      "level": "C2",
+      "sourceId": "grilled",
+      "sourceIds": [
+        "grilled"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carne-macinata",
+      "word": "carne macinata",
+      "en": "carne macinata",
+      "ru": [
+        "фарш"
+      ],
+      "example": "Mi piacciono molto le polpette di carne macinata.",
+      "level": "A2",
+      "sourceId": "ground-meat",
+      "sourceIds": [
+        "ground-meat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prosciutto",
+      "word": "prosciutto",
+      "en": "prosciutto",
+      "ru": [
+        "ветчина"
+      ],
+      "example": "A Tom piacciono le uova al prosciutto.",
+      "level": "C1",
+      "sourceId": "ham",
+      "sourceIds": [
+        "ham"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gallina",
+      "word": "gallina",
+      "en": "gallina",
+      "ru": [
+        "курица",
+        "курочка",
+        "самка"
+      ],
+      "example": "A me piace la carne di gallo.",
+      "level": "C2",
+      "sourceId": "hen",
+      "sourceIds": [
+        "hen"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "erba-aromatica",
+      "word": "erba aromatica",
+      "en": "erba aromatica",
+      "ru": [
+        "пряная трава",
+        "зелень"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "herb",
+      "sourceIds": [
+        "herb"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "aringa",
+      "word": "aringa",
+      "en": "aringa",
+      "ru": [
+        "сельдь",
+        "селёдка"
+      ],
+      "example": "Oggi ho mangiato un po' di aringa affumicata per colazione.",
+      "level": "C2",
+      "sourceId": "herring",
+      "sourceIds": [
+        "herring"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miele",
+      "word": "miele",
+      "en": "miele",
+      "ru": [
+        "мёд"
+      ],
+      "example": "\"Sono fatta di miele.\" \"Aww, sei dolce.\"",
+      "level": "B2",
+      "sourceId": "honey",
+      "sourceIds": [
+        "honey"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "affamato",
+      "word": "affamato",
+      "en": "affamato",
+      "ru": [
+        "голодный",
+        "алчущий",
+        "жаждущий"
+      ],
+      "example": "\"Non sei affamata?\" \"Sì, sono molto affamata.\"",
+      "level": "A1",
+      "sourceId": "hungry",
+      "sourceIds": [
+        "hungry"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ingrediente",
+      "word": "ingrediente",
+      "en": "ingrediente",
+      "ru": [
+        "ингредиент",
+        "компонент",
+        "составная часть"
+      ],
+      "example": "Che ingredienti usate per il vostro gelato?",
+      "level": "A2",
+      "sourceId": "ingredient",
+      "sourceIds": [
+        "ingredient"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "marmellata",
+      "word": "marmellata",
+      "en": "marmellata",
+      "ru": [
+        "джем",
+        "варенье",
+        "конфитюр"
+      ],
+      "example": "Questa è della marmellata fatta in casa.",
+      "level": "B2",
+      "sourceId": "jam",
+      "sourceIds": [
+        "jam"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "succo",
+      "word": "succo",
+      "en": "succo",
+      "ru": [
+        "сок"
+      ],
+      "example": "A me piacerebbe del succo di frutta.",
+      "level": "B2",
+      "sourceId": "juice",
+      "sourceIds": [
+        "juice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spremifrutta",
+      "word": "spremifrutta",
+      "en": "spremifrutta",
+      "ru": [
+        "соковыжималка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "juicer",
+      "sourceIds": [
+        "juicer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "agnello",
+      "word": "agnello",
+      "en": "agnello",
+      "ru": [
+        "ягнёнок",
+        "агнец",
+        "барашек"
+      ],
+      "example": "A lei piace giocare con questo agnello.",
+      "level": "C1",
+      "sourceId": "lamb",
+      "sourceIds": [
+        "lamb"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limone",
+      "word": "limone",
+      "en": "limone",
+      "ru": [
+        "лимон"
+      ],
+      "example": "A lei piace il sapore del limone?",
+      "level": "B2",
+      "sourceId": "lemon",
+      "sourceIds": [
+        "lemon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pranzo",
+      "word": "pranzo",
+      "en": "pranzo",
+      "ru": [
+        "обед",
+        "ленч",
+        "второй завтрак"
+      ],
+      "example": "A me mancheranno i nostri pranzi assieme.",
+      "level": "A1",
+      "sourceId": "lunch",
+      "sourceIds": [
+        "lunch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mango",
+      "word": "mango",
+      "en": "mango",
+      "ru": [
+        "манго"
+      ],
+      "example": "Daniel sta facendo della torta al mango.",
+      "level": "A2",
+      "sourceId": "mango",
+      "sourceIds": [
+        "mango"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasto",
+      "word": "pasto",
+      "en": "pasto",
+      "ru": [
+        "еда",
+        "снедь",
+        "пища"
+      ],
+      "example": "A Mary piacque davvero il suo pasto.",
+      "level": "A1",
+      "sourceId": "meal",
+      "sourceIds": [
+        "meal"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carne",
+      "word": "carne",
+      "en": "carne",
+      "ru": [
+        "мясо",
+        "мякоть"
+      ],
+      "example": "A Rima mancava la carne di Ziri.",
+      "level": "A1",
+      "sourceId": "meat",
+      "sourceIds": [
+        "meat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "melone",
+      "word": "melone",
+      "en": "melone",
+      "ru": [
+        "дыня"
+      ],
+      "example": "A Mary piace più l'anguria del melone.",
+      "level": "A2",
+      "sourceId": "melon",
+      "sourceIds": [
+        "melon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menu",
+      "word": "menù",
+      "en": "menù",
+      "ru": [
+        "меню"
+      ],
+      "example": "Chiaramente ci sarà anche il menù normale.",
+      "level": "A1",
+      "sourceId": "menu",
+      "sourceIds": [
+        "menu"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "latte",
+      "word": "latte",
+      "en": "latte",
+      "ru": [
+        "молоко"
+      ],
+      "example": "A Tom non piace il latte scremato.",
+      "level": "A1",
+      "sourceId": "milk",
+      "sourceIds": [
+        "milk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mungitura",
+      "word": "mungitura",
+      "en": "mungitura",
+      "ru": [
+        "дойка",
+        "доение"
+      ],
+      "example": "Quando è la prossima sessione di mungitura?",
+      "level": "C2",
+      "sourceId": "milking",
+      "sourceIds": [
+        "milking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fungo",
+      "word": "fungo",
+      "en": "fungo",
+      "ru": [
+        "грибовидный",
+        "гриб",
+        "грибница"
+      ],
+      "example": "A me piacciono rocce, rose e funghi.",
+      "level": "A2",
+      "sourceId": "mushroom",
+      "sourceIds": [
+        "mushroom"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cozze",
+      "word": "cozze",
+      "en": "cozze",
+      "ru": [
+        "мидии"
+      ],
+      "example": "Preferisce le cozze o le ostriche?",
+      "level": "C2",
+      "sourceId": "mussels",
+      "sourceIds": [
+        "mussels"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tovagliolo",
+      "word": "tovagliolo",
+      "en": "tovagliolo",
+      "ru": [
+        "салфетка"
+      ],
+      "example": "Cameriere, ho bisogno di un tovagliolo.",
+      "level": "A2",
+      "sourceId": "napkin",
+      "sourceIds": [
+        "napkin",
+        "serviette"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noodle",
+      "word": "noodle",
+      "en": "noodle",
+      "ru": [
+        "лапша",
+        "макароны"
+      ],
+      "example": "Io amo i noodles.",
+      "level": "A2",
+      "sourceId": "noodle",
+      "sourceIds": [
+        "noodle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noce",
+      "word": "noce",
+      "en": "noce",
+      "ru": [
+        "орех",
+        "гайка"
+      ],
+      "example": "A me piacciono le noci di macadamia.",
+      "level": "C1",
+      "sourceId": "nut",
+      "sourceIds": [
+        "nut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nutrizione",
+      "word": "nutrizione",
+      "en": "nutrizione",
+      "ru": [
+        "питание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nutrition",
+      "sourceIds": [
+        "nutrition"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nutrizionale",
+      "word": "nutrizionale",
+      "en": "nutrizionale",
+      "ru": [
+        "питательный"
+      ],
+      "example": "Deve considerare il suo apporto nutrizionale.",
+      "level": "C1",
+      "sourceId": "nutritional",
+      "sourceIds": [
+        "nutritional"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nutrizionista",
+      "word": "nutrizionista",
+      "en": "nutrizionista",
+      "ru": [
+        "диетврач",
+        "диетолог"
+      ],
+      "example": "Chiederò al mio nutrizionista.",
+      "level": "C2",
+      "sourceId": "nutritionist",
+      "sourceIds": [
+        "nutritionist"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "olio",
+      "word": "olio",
+      "en": "olio",
+      "ru": [
+        "масло",
+        "нефть",
+        "петролеум"
+      ],
+      "example": "Aggiungere un cucchiaio di olio di oliva.",
+      "level": "A2",
+      "sourceId": "oil",
+      "sourceIds": [
+        "oil"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cipolla",
+      "word": "cipolla",
+      "en": "cipolla",
+      "ru": [
+        "лук",
+        "головка",
+        "луковица"
+      ],
+      "example": "A lei non piacciono le cipolle, vero?",
+      "level": "A2",
+      "sourceId": "onion",
+      "sourceIds": [
+        "onion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arancione",
+      "word": "arancione",
+      "en": "arancione",
+      "ru": [
+        "оранжевый",
+        "апельсин",
+        "апельсиновое дерево"
+      ],
+      "example": "Il loro colore preferito non è l'arancione.",
+      "level": "A1",
+      "sourceId": "orange",
+      "sourceIds": [
+        "orange"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "organico",
+      "word": "organico",
+      "en": "organico",
+      "ru": [
+        "органический"
+      ],
+      "example": "I distretti di polizia sono cronicamente sotto organico.",
+      "level": "B1",
+      "sourceId": "organic",
+      "sourceIds": [
+        "organic"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ostriche",
+      "word": "ostriche",
+      "en": "ostriche",
+      "ru": [
+        "устрицы"
+      ],
+      "example": "Le ostriche non sono d'accordo con me.",
+      "level": "C2",
+      "sourceId": "oysters",
+      "sourceIds": [
+        "oysters"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frittella",
+      "word": "frittella",
+      "en": "frittella",
+      "ru": [
+        "блин",
+        "блинчик",
+        "налистник"
+      ],
+      "example": "Noi abbiamo preparato delle frittelle per colazione.",
+      "level": "A2",
+      "sourceId": "pancake",
+      "sourceIds": [
+        "pancake"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasta",
+      "word": "pasta",
+      "en": "pasta",
+      "ru": [
+        "макаронные изделия",
+        "макароны",
+        "паста"
+      ],
+      "example": "A Rima e Skura piace la pasta.",
+      "level": "A2",
+      "sourceId": "pasta",
+      "sourceIds": [
+        "pasta"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pisello",
+      "word": "pisello",
+      "en": "pisello",
+      "ru": [
+        "горох",
+        "горошек",
+        "горошина"
+      ],
+      "example": "C'è un pisello nella mia narice destra.",
+      "level": "A2",
+      "sourceId": "pea",
+      "sourceIds": [
+        "pea"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pesca",
+      "word": "pesca",
+      "en": "pesca",
+      "ru": [
+        "персик",
+        "персиковое дерево",
+        "персиковый"
+      ],
+      "example": "Devo comprare una nuova canna da pesca.",
+      "level": "A2",
+      "sourceId": "peach",
+      "sourceIds": [
+        "peach"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arachide",
+      "word": "arachide",
+      "en": "arachide",
+      "ru": [
+        "арахис",
+        "земляной орех",
+        "китайский орех"
+      ],
+      "example": "Dicono che le arachidi siano un afrodisiaco.",
+      "level": "A2",
+      "sourceId": "peanut",
+      "sourceIds": [
+        "peanut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noccioline",
+      "word": "noccioline",
+      "en": "noccioline",
+      "ru": [
+        "грош",
+        "копейка"
+      ],
+      "example": "Lo scoiattolo ha mangiato tutte le noccioline.",
+      "level": "C2",
+      "sourceId": "peanuts",
+      "sourceIds": [
+        "peanuts"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pera",
+      "word": "pera",
+      "en": "pera",
+      "ru": [
+        "груша"
+      ],
+      "example": "Ci sono cascato come una pera cotta!",
+      "level": "A2",
+      "sourceId": "pear",
+      "sourceIds": [
+        "pear"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pepe",
+      "word": "pepe",
+      "en": "pepe",
+      "ru": [
+        "перец",
+        "чёрный перец",
+        "перчить"
+      ],
+      "example": "Aggiunga sale e pepe a suo piacere.",
+      "level": "B2",
+      "sourceId": "pepper",
+      "sourceIds": [
+        "pepper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torta",
+      "word": "torta",
+      "en": "torta",
+      "ru": [
+        "пирог",
+        "пирожок"
+      ],
+      "example": "\"Chi cuoce le torte?\" \"Alessandra le cuoce.\"",
+      "level": "B2",
+      "sourceId": "pie",
+      "sourceIds": [
+        "pie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pizza",
+      "word": "pizza",
+      "en": "pizza",
+      "ru": [
+        "пицца"
+      ],
+      "example": "A Rima e Skura piace la pizza.",
+      "level": "B2",
+      "sourceId": "pizza",
+      "sourceIds": [
+        "pizza"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piatto",
+      "word": "piatto",
+      "en": "piatto",
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "блюдце"
+      ],
+      "example": "\"Com'è quel piatto?\" \"Da leccarsi i baffi!\"",
+      "level": "B1",
+      "sourceId": "plate",
+      "sourceIds": [
+        "plate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maiale",
+      "word": "maiale",
+      "en": "maiale",
+      "ru": [
+        "свинина"
+      ],
+      "example": "Avete mangiato carne di maiale questa settimana?",
+      "level": "A2",
+      "sourceId": "pork",
+      "sourceIds": [
+        "pork"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porridge",
+      "word": "porridge",
+      "en": "porridge",
+      "ru": [
+        "каша",
+        "овсянка"
+      ],
+      "example": "A lei piace il porridge di mais?",
+      "level": "A2",
+      "sourceId": "porridge",
+      "sourceIds": [
+        "porridge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patata",
+      "word": "patata",
+      "en": "patata",
+      "ru": [
+        "картофель",
+        "картофелина",
+        "картоха"
+      ],
+      "example": "A Tom non piace l'insalata di patate.",
+      "level": "A1",
+      "sourceId": "potato",
+      "sourceIds": [
+        "potato"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crudo",
+      "word": "crudo",
+      "en": "crudo",
+      "ru": [
+        "сырой",
+        "необработанный"
+      ],
+      "example": "A Tom piace mangiare le carote crude.",
+      "level": "B1",
+      "sourceId": "raw",
+      "sourceIds": [
+        "raw"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ricetta",
+      "word": "ricetta",
+      "en": "ricetta",
+      "ru": [
+        "рецепт"
+      ],
+      "example": "Avete visto il mio libro di ricette?",
+      "level": "B1",
+      "sourceId": "recipe",
+      "sourceIds": [
+        "recipe"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "riso",
+      "word": "riso",
+      "en": "riso",
+      "ru": [
+        "рис"
+      ],
+      "example": "A Tom non piace il riso istantaneo.",
+      "level": "A1",
+      "sourceId": "rice",
+      "sourceIds": [
+        "rice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arrosto",
+      "word": "arrosto",
+      "en": "arrosto",
+      "ru": [
+        "жарить",
+        "жареный",
+        "жаркое"
+      ],
+      "example": "Tom è tutto fumo e niente arrosto.",
+      "level": "C2",
+      "sourceId": "roast",
+      "sourceIds": [
+        "roast"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "insalata",
+      "word": "insalata",
+      "en": "insalata",
+      "ru": [
+        "салат"
+      ],
+      "example": "A Tom non piace l'insalata di patate.",
+      "level": "A1",
+      "sourceId": "salad",
+      "sourceIds": [
+        "salad"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salato",
+      "word": "salato",
+      "en": "salato",
+      "ru": [
+        "соль",
+        "солить"
+      ],
+      "example": "Ho cotto la pasta in acqua salata.",
+      "level": "B1",
+      "sourceId": "salt",
+      "sourceIds": [
+        "salt"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salato",
+      "word": "salato",
+      "en": "salato",
+      "ru": [
+        "солёный"
+      ],
+      "example": "Ho cotto la pasta in acqua salata.",
+      "level": "C2",
+      "sourceId": "salted",
+      "sourceIds": [
+        "salted"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salato",
+      "word": "salato",
+      "en": "salato",
+      "ru": [
+        "солёный",
+        "соляной"
+      ],
+      "example": "Ho cotto la pasta in acqua salata.",
+      "level": "A2",
+      "sourceId": "salty",
+      "sourceIds": [
+        "salty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panino",
+      "word": "panino",
+      "en": "panino",
+      "ru": [
+        "сандвич",
+        "сэндвич",
+        "бутерброд"
+      ],
+      "example": "Ilona ha fatto colazione con dei panini.",
+      "level": "A1",
+      "sourceId": "sandwich",
+      "sourceIds": [
+        "sandwich"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salsa",
+      "word": "salsa",
+      "en": "salsa",
+      "ru": [
+        "соус",
+        "подливка"
+      ],
+      "example": "Che cosa c'è dentro la salsa segreta?",
+      "level": "B2",
+      "sourceId": "sauce",
+      "sourceIds": [
+        "sauce",
+        "gravy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piattino",
+      "word": "piattino",
+      "en": "piattino",
+      "ru": [
+        "блюдце"
+      ],
+      "example": "A noi il piattino del pane non serve.",
+      "level": "C2",
+      "sourceId": "saucer",
+      "sourceIds": [
+        "saucer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salsiccia",
+      "word": "salsiccia",
+      "en": "salsiccia",
+      "ru": [
+        "колбаса",
+        "сосиска",
+        "сарделька"
+      ],
+      "example": "A me piacciono le salsicce di cavallo.",
+      "level": "A2",
+      "sourceId": "sausage",
+      "sourceIds": [
+        "sausage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spuntino",
+      "word": "spuntino",
+      "en": "spuntino",
+      "ru": [
+        "закуска",
+        "лёгкая закуска",
+        "перекус"
+      ],
+      "example": "Ha dimenticato di portarsi dietro uno spuntino.",
+      "level": "A2",
+      "sourceId": "snack",
+      "sourceIds": [
+        "snack"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "soda",
+      "word": "soda",
+      "en": "soda",
+      "ru": [
+        "газировка",
+        "содовая"
+      ],
+      "example": "A me non piacciono le uova sode.",
+      "level": "A2",
+      "sourceId": "soda",
+      "sourceIds": [
+        "soda"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zuppa",
+      "word": "zuppa",
+      "en": "zuppa",
+      "ru": [
+        "суп",
+        "похлёбка",
+        "уха"
+      ],
+      "example": "A Sami piacerà la zuppa di Layla.",
+      "level": "B2",
+      "sourceId": "soup",
+      "sourceIds": [
+        "soup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acido",
+      "word": "acido",
+      "en": "acido",
+      "ru": [
+        "кислый",
+        "прокисший"
+      ],
+      "example": "Il latte diventa acido con il calore.",
+      "level": "A2",
+      "sourceId": "sour",
+      "sourceIds": [
+        "sour"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spezia",
+      "word": "spezia",
+      "en": "spezia",
+      "ru": [
+        "пряность",
+        "приправа",
+        "специя"
+      ],
+      "example": "Il curry è la spezia di Satana!",
+      "level": "A2",
+      "sourceId": "spice",
+      "sourceIds": [
+        "spice"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piccante",
+      "word": "piccante",
+      "en": "piccante",
+      "ru": [
+        "острый",
+        "пряный"
+      ],
+      "example": "A lei piace ancora il cibo piccante?",
+      "level": "A2",
+      "sourceId": "spicy",
+      "sourceIds": [
+        "spicy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alcolici",
+      "word": "alcolici",
+      "en": "alcolici",
+      "ru": [
+        "спирт"
+      ],
+      "example": "Non bere alcolici quando guardi eventi sportivi.",
+      "level": "B2",
+      "sourceId": "spirits",
+      "sourceIds": [
+        "spirits"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucchiaio",
+      "word": "cucchiaio",
+      "en": "cucchiaio",
+      "ru": [
+        "ложка",
+        "ложечка"
+      ],
+      "example": "Aggiungere un cucchiaio di olio di oliva.",
+      "level": "A2",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "antipasto",
+      "word": "antipasto",
+      "en": "antipasto",
+      "ru": [
+        "стартер",
+        "стартёр",
+        "первое блюдо"
+      ],
+      "example": "Che cosa le posso servire come antipasto?",
+      "level": "B2",
+      "sourceId": "starter",
+      "sourceIds": [
+        "starter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bistecca",
+      "word": "bistecca",
+      "en": "bistecca",
+      "ru": [
+        "стейк",
+        "бифштекс"
+      ],
+      "example": "Avete cucinato la bistecca troppo a lungo.",
+      "level": "A2",
+      "sourceId": "steak",
+      "sourceIds": [
+        "steak"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fragola",
+      "word": "fragola",
+      "en": "fragola",
+      "ru": [
+        "клубника",
+        "земляника"
+      ],
+      "example": "A lei piace il vino alla fragola?",
+      "level": "A2",
+      "sourceId": "strawberry",
+      "sourceIds": [
+        "strawberry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zucchero",
+      "word": "zucchero",
+      "en": "zucchero",
+      "ru": [
+        "сахар",
+        "сахарить"
+      ],
+      "example": "A Tom piace il caffè senza zucchero.",
+      "level": "A1",
+      "sourceId": "sugar",
+      "sourceIds": [
+        "sugar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ceretta-allo-zucchero",
+      "word": "ceretta allo zucchero",
+      "en": "ceretta allo zucchero",
+      "ru": [
+        "шугаринг"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sugaring",
+      "sourceIds": [
+        "sugaring"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cena",
+      "word": "cena",
+      "en": "cena",
+      "ru": [
+        "ужин",
+        "вечеря",
+        "ужинать"
+      ],
+      "example": "\"Cosa vuoi mangiare per cena?\" \"Dei broccoli.\"",
+      "level": "C2",
+      "sourceId": "supper",
+      "sourceIds": [
+        "supper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dolce",
+      "word": "dolce",
+      "en": "dolce",
+      "ru": [
+        "сладкий",
+        "конфета"
+      ],
+      "example": "\"Sono fatta di miele.\" \"Aww, sei dolce.\"",
+      "level": "B1",
+      "sourceId": "sweet",
+      "sourceIds": [
+        "sweet"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dolcemente",
+      "word": "dolcemente",
+      "en": "dolcemente",
+      "ru": [
+        "сладко"
+      ],
+      "example": "La pioggia cade dolcemente come un sonno.",
+      "level": "C2",
+      "sourceId": "sweetly",
+      "sourceIds": [
+        "sweetly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dolciumi",
+      "word": "dolciumi",
+      "en": "dolciumi",
+      "ru": [
+        "конфета",
+        "кондитерские изделия",
+        "сладость"
+      ],
+      "example": "La ciotola contiene molti tipi di dolciumi.",
+      "level": "A2",
+      "sourceId": "sweets",
+      "sourceIds": [
+        "sweets"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "assaggiare",
+      "word": "assaggiare",
+      "en": "assaggiare",
+      "ru": [
+        "вкус",
+        "склонность",
+        "пробовать"
+      ],
+      "example": "Carletto, fai assaggiare il ghiacciolo alla mamma.",
+      "level": "B2",
+      "sourceId": "taste",
+      "sourceIds": [
+        "taste"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "degustazione",
+      "word": "degustazione",
+      "en": "degustazione",
+      "ru": [
+        "дегустация",
+        "пробование"
+      ],
+      "example": "Comincia la degustazione!",
+      "level": "C2",
+      "sourceId": "tasting",
+      "sourceIds": [
+        "tasting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "te",
+      "word": "tè",
+      "en": "tè",
+      "ru": [
+        "чай",
+        "чашка чаю",
+        "чашка чая"
+      ],
+      "example": "\"Cosa stai bevendo?\" \"Sto bevendo del tè.\"",
+      "level": "A1",
+      "sourceId": "tea",
+      "sourceIds": [
+        "tea"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brindisi",
+      "word": "brindisi",
+      "en": "brindisi",
+      "ru": [
+        "тост",
+        "здравица",
+        "поджаривать"
+      ],
+      "example": "Adesso faremo un brindisi a questo affare.",
+      "level": "A2",
+      "sourceId": "toast",
+      "sourceIds": [
+        "toast"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tostapane",
+      "word": "tostapane",
+      "en": "tostapane",
+      "ru": [
+        "тостер"
+      ],
+      "example": "Mi si è fulminato il tostapane.",
+      "level": "C2",
+      "sourceId": "toaster",
+      "sourceIds": [
+        "toaster"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pomodoro",
+      "word": "pomodoro",
+      "en": "pomodoro",
+      "ru": [
+        "помидор",
+        "томат"
+      ],
+      "example": "A Tom e Mary piacciono i pomodori?",
+      "level": "A1",
+      "sourceId": "tomato",
+      "sourceIds": [
+        "tomato"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "guarnizione",
+      "word": "guarnizione",
+      "en": "guarnizione",
+      "ru": [
+        "верхушка",
+        "начинка",
+        "топпинг"
+      ],
+      "example": "Si è rotta una guarnizione del lavandino nella notte.",
+      "level": "C2",
+      "sourceId": "topping",
+      "sourceIds": [
+        "topping"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "regalo",
+      "word": "regalo",
+      "en": "regalo",
+      "ru": [
+        "развлечение",
+        "угощение",
+        "подарок"
+      ],
+      "example": "A Rodrigo sono stati dati dei regali.",
+      "level": "B1",
+      "sourceId": "treat",
+      "sourceIds": [
+        "treat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegetale",
+      "word": "vegetale",
+      "en": "vegetale",
+      "ru": [
+        "овощ"
+      ],
+      "example": "E i vegetali che mangiamo noi come sono?",
+      "level": "A1",
+      "sourceId": "vegetable",
+      "sourceIds": [
+        "vegetable"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vodka",
+      "word": "vodka",
+      "en": "vodka",
+      "ru": [
+        "водка"
+      ],
+      "example": "A me non va di bere vodka.",
+      "level": "C2",
+      "sourceId": "vodka",
+      "sourceIds": [
+        "vodka"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cialda",
+      "word": "cialda",
+      "en": "cialda",
+      "ru": [
+        "вафля"
+      ],
+      "example": "C'è solo una cialda di caffè in casa.",
+      "level": "A2",
+      "sourceId": "waffle",
+      "sourceIds": [
+        "waffle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cameriere",
+      "word": "cameriere",
+      "en": "cameriere",
+      "ru": [
+        "кельнер",
+        "официант",
+        "официантка"
+      ],
+      "example": "Cameriere, questo piatto di pastasciutta è freddo.",
+      "level": "A2",
+      "sourceId": "waiter",
+      "sourceIds": [
+        "waiter"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cameriera",
+      "word": "cameriera",
+      "en": "cameriera",
+      "ru": [
+        "кельнерша",
+        "официантка"
+      ],
+      "example": "Cameriere, questo piatto di pastasciutta è freddo.",
+      "level": "A2",
+      "sourceId": "waitress",
+      "sourceIds": [
+        "waitress"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noce",
+      "word": "noce",
+      "en": "noce",
+      "ru": [
+        "грецкий орех"
+      ],
+      "example": "A me piacciono le noci di macadamia.",
+      "level": "C1",
+      "sourceId": "walnut",
+      "sourceIds": [
+        "walnut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acqua",
+      "word": "acqua",
+      "en": "acqua",
+      "ru": [
+        "вода",
+        "воды",
+        "поливать"
+      ],
+      "example": "\"Che cosa ordineranno al ristorante?\" \"Penso dell'acqua.\"",
+      "level": "A1",
+      "sourceId": "water",
+      "sourceIds": [
+        "water"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "anguria",
+      "word": "anguria",
+      "en": "anguria",
+      "ru": [
+        "арбуз"
+      ],
+      "example": "A Mary piace più l'anguria del melone.",
+      "level": "A2",
+      "sourceId": "watermelon",
+      "sourceIds": [
+        "watermelon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frumento",
+      "word": "frumento",
+      "en": "frumento",
+      "ru": [
+        "пшеница"
+      ],
+      "example": "Il console donò del frumento al popolo.",
+      "level": "B2",
+      "sourceId": "wheat",
+      "sourceIds": [
+        "wheat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vino",
+      "word": "vino",
+      "en": "vino",
+      "ru": [
+        "вино",
+        "бордо"
+      ],
+      "example": "\"Che cosa c'è in quel bicchiere?\" \"Vino.\"",
+      "level": "A2",
+      "sourceId": "wine",
+      "sourceIds": [
+        "wine"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yogurt",
+      "word": "yogurt",
+      "en": "yogurt",
+      "ru": [
+        "йогурт",
+        "простокваша"
+      ],
+      "example": "A me piace lo yogurt senza conservanti.",
+      "level": "A2",
+      "sourceId": "yogurt",
+      "sourceIds": [
+        "yogurt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piatto",
+      "word": "piatto",
+      "en": "piatto",
+      "ru": [
+        "большое блюдо",
+        "поднос"
+      ],
+      "example": "\"Com'è quel piatto?\" \"Da leccarsi i baffi!\"",
+      "level": "B1",
+      "sourceId": "platter",
+      "sourceIds": [
+        "platter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "masticare",
+      "word": "masticare",
+      "en": "masticare",
+      "ru": [
+        "жевать"
+      ],
+      "example": "Bisogna masticare il cibo prima di inghiottirlo.",
+      "level": "B1",
+      "sourceId": "chew",
+      "sourceIds": [
+        "chew"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "decaffeinato",
+      "word": "decaffeinato",
+      "en": "decaffeinato",
+      "ru": [
+        "декаф",
+        "кофе без кофеина"
+      ],
+      "example": "Il caffè decaffeinato è un surrogato del caffè tradizionale.",
+      "level": "B1",
+      "sourceId": "decaf",
+      "sourceIds": [
+        "decaf"
+      ],
+      "pos": "adj",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tonno",
+      "word": "tonno",
+      "en": "tonno",
+      "ru": [
+        "тунец"
+      ],
+      "example": "Non compro mai il tonno al mercato.",
+      "level": "B1",
+      "sourceId": "tuna",
+      "sourceIds": [
+        "tuna"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaniglia",
+      "word": "vaniglia",
+      "en": "vaniglia",
+      "ru": [
+        "ваниль"
+      ],
+      "example": "A Tom piace il gelato alla vaniglia.",
+      "level": "B1",
+      "sourceId": "vanilla",
+      "sourceIds": [
+        "vanilla"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "omelette",
+      "word": "omelette",
+      "en": "omelette",
+      "ru": [
+        "омлет"
+      ],
+      "example": "Anche a me piacciono le omelette spagnole!",
+      "level": "B1",
+      "sourceId": "omelet",
+      "sourceIds": [
+        "omelet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gelatina",
+      "word": "gelatina",
+      "en": "gelatina",
+      "ru": [
+        "желе"
+      ],
+      "example": "Ciò che gli piace è la gelatina.",
+      "level": "B1",
+      "sourceId": "jelly",
+      "sourceIds": [
+        "jelly"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "in-scatola",
+      "word": "in scatola",
+      "en": "in scatola",
+      "ru": [
+        "консервированный"
+      ],
+      "example": "A me piace la frutta in scatola.",
+      "level": "C2",
+      "sourceId": "canned",
+      "sourceIds": [
+        "canned"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sushi",
+      "word": "sushi",
+      "en": "sushi",
+      "ru": [
+        "суши"
+      ],
+      "example": "A Tom piace il riso del sushi.",
+      "level": "B1",
+      "sourceId": "sushi",
+      "sourceIds": [
+        "sushi"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pan-di-spezie",
+      "word": "pan di spezie",
+      "en": "pan di spezie",
+      "ru": [
+        "имбирный пряник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gingerbread",
+      "sourceIds": [
+        "gingerbread"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "caramella-gommosa",
+      "word": "caramella gommosa",
+      "en": "caramella gommosa",
+      "ru": [
+        "мармеладка"
+      ],
+      "example": "Tom vuole le caramelle gommose.",
+      "level": "B1",
+      "sourceId": "gumdrop",
+      "sourceIds": [
+        "gumdrop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pinta",
+      "word": "pinta",
+      "en": "pinta",
+      "ru": [
+        "пинта"
+      ],
+      "example": "Comprai a Tom una pinta di birra.",
+      "level": "B1",
+      "sourceId": "pint",
+      "sourceIds": [
+        "pint"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "strudel",
+      "word": "strudel",
+      "en": "strudel",
+      "ru": [
+        "штрудель"
+      ],
+      "example": "Dopo devo assolutamente mangiare lo strudel.",
+      "level": "B1",
+      "sourceId": "strudel",
+      "sourceIds": [
+        "strudel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cibo-da-asporto",
+      "word": "cibo da asporto",
+      "en": "cibo da asporto",
+      "ru": [
+        "еда навынос"
+      ],
+      "example": "Sono tentato di ordinare del cibo da asporto.",
+      "level": "B1",
+      "sourceId": "takeout",
+      "sourceIds": [
+        "takeout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciambella",
+      "word": "ciambella",
+      "en": "ciambella",
+      "ru": [
+        "пончик"
+      ],
+      "example": "Ha portato delle ciambelle per il dessert.",
+      "level": "B1",
+      "sourceId": "cruller",
+      "sourceIds": [
+        "cruller",
+        "doughnut",
+        "donut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prima-del-pasto",
+      "word": "prima del pasto",
+      "en": "prima del pasto",
+      "ru": [
+        "перед едой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "premeal",
+      "sourceIds": [
+        "premeal"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "caloria",
+      "word": "caloria",
+      "en": "caloria",
+      "ru": [
+        "калория"
+      ],
+      "example": "Assumi più calorie di quanto sia necessario.",
+      "level": "B1",
+      "sourceId": "calorie",
+      "sourceIds": [
+        "calorie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salsa",
+      "word": "salsa",
+      "en": "salsa",
+      "ru": [
+        "сальса"
+      ],
+      "example": "Che cosa c'è dentro la salsa segreta?",
+      "level": "B1",
+      "sourceId": "salsa",
+      "sourceIds": [
+        "salsa"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muffin",
+      "word": "muffin",
+      "en": "muffin",
+      "ru": [
+        "маффин",
+        "кекс"
+      ],
+      "example": "Abbiamo ordinato un muffin ai mirtilli da condividere.",
+      "level": "B1",
+      "sourceId": "muffin",
+      "sourceIds": [
+        "muffin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hamburger",
+      "word": "hamburger",
+      "en": "hamburger",
+      "ru": [
+        "гамбургер"
+      ],
+      "example": "Andiamo a prendere un hamburger o qualcosa.",
+      "level": "B1",
+      "sourceId": "hamburger",
+      "sourceIds": [
+        "hamburger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panino",
+      "word": "panino",
+      "en": "panino",
+      "ru": [
+        "булочка"
+      ],
+      "example": "Ilona ha fatto colazione con dei panini.",
+      "level": "B1",
+      "sourceId": "bun",
+      "sourceIds": [
+        "bun"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "di-cuore",
+      "word": "di cuore",
+      "en": "di cuore",
+      "ru": [
+        "сытный",
+        "сердечный"
+      ],
+      "example": "Alcune persone buone di cuore esistono ancora!",
+      "level": "B1",
+      "sourceId": "hearty",
+      "sourceIds": [
+        "hearty"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crusca",
+      "word": "crusca",
+      "en": "crusca",
+      "ru": [
+        "отруби"
+      ],
+      "example": "La farina del diavolo va tutta in crusca.",
+      "level": "B1",
+      "sourceId": "bran",
+      "sourceIds": [
+        "bran"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lasagna",
+      "word": "lasagna",
+      "en": "lasagna",
+      "ru": [
+        "лазанья"
+      ],
+      "example": "Dispongo il formaggio a strati nella lasagna.",
+      "level": "B1",
+      "sourceId": "lasagna",
+      "sourceIds": [
+        "lasagna"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fornire-il-catering",
+      "word": "fornire il catering",
+      "en": "fornire il catering",
+      "ru": [
+        "обслуживать",
+        "угождать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cater",
+      "sourceIds": [
+        "cater"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "gin",
+      "word": "gin",
+      "en": "gin",
+      "ru": [
+        "джин"
+      ],
+      "example": "Preferisce la vodka o il gin nei suoi drink miscelati?",
+      "level": "B1",
+      "sourceId": "gin",
+      "sourceIds": [
+        "gin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noce-moscata",
+      "word": "noce moscata",
+      "en": "noce moscata",
+      "ru": [
+        "мускатный орех"
+      ],
+      "example": "Mi serve un po' di noce moscata.",
+      "level": "B1",
+      "sourceId": "nutmeg",
+      "sourceIds": [
+        "nutmeg"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "orzo",
+      "word": "orzo",
+      "en": "orzo",
+      "ru": [
+        "ячмень"
+      ],
+      "example": "L'orzo è uno degli ingredienti della birra.",
+      "level": "B1",
+      "sourceId": "barley",
+      "sourceIds": [
+        "barley"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cheddar",
+      "word": "cheddar",
+      "en": "cheddar",
+      "ru": [
+        "чеддер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheddar",
+      "sourceIds": [
+        "cheddar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "piccalilli",
+      "word": "piccalilli",
+      "en": "piccalilli",
+      "ru": [
+        "пиккалилли"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "piccalilli",
+      "sourceIds": [
+        "piccalilli"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ingrassare",
+      "word": "ingrassare",
+      "en": "ingrassare",
+      "ru": [
+        "откармливать"
+      ],
+      "example": "Finirai per ingrassare se mangi così tanto.",
+      "level": "B1",
+      "sourceId": "fatten",
+      "sourceIds": [
+        "fatten"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "friggitoria",
+      "word": "friggitoria",
+      "en": "friggitoria",
+      "ru": [
+        "закусочная с рыбой и картошкой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chippy",
+      "sourceIds": [
+        "chippy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "picnic",
+      "word": "picnic",
+      "en": "picnic",
+      "ru": [
+        "пикник"
+      ],
+      "example": "A Tom non è piaciuto il picnic.",
+      "level": "B1",
+      "sourceId": "picnic",
+      "sourceIds": [
+        "picnic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oleaginosa",
+      "word": "oleaginosa",
+      "en": "oleaginosa",
+      "ru": [
+        "масличная культура"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "oilseed",
+      "sourceIds": [
+        "oilseed"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "espresso",
+      "word": "espresso",
+      "en": "espresso",
+      "ru": [
+        "эспрессо"
+      ],
+      "example": "Ha espresso soddisfazione per la sua vita.",
+      "level": "B1",
+      "sourceId": "espresso",
+      "sourceIds": [
+        "espresso"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "martini",
+      "word": "martini",
+      "en": "martini",
+      "ru": [
+        "мартини"
+      ],
+      "example": "Ho acquistato una cinta di Alviero Martini.",
+      "level": "B1",
+      "sourceId": "martini",
+      "sourceIds": [
+        "martini"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "macello",
+      "word": "macello",
+      "en": "macello",
+      "ru": [
+        "бойня"
+      ],
+      "example": "Ai macelli van più bovi che vitelli.",
+      "level": "B1",
+      "sourceId": "abattoir",
+      "sourceIds": [
+        "abattoir"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carne-di-montone",
+      "word": "carne di montone",
+      "en": "carne di montone",
+      "ru": [
+        "баранина"
+      ],
+      "example": "Gli algerini amano la carne di montone.",
+      "level": "B1",
+      "sourceId": "mutton",
+      "sourceIds": [
+        "mutton"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cenare",
+      "word": "cenare",
+      "en": "cenare",
+      "ru": [
+        "обедать",
+        "ужинать"
+      ],
+      "example": "Abbiamo appena fatto in tempo a cenare.",
+      "level": "B1",
+      "sourceId": "dine",
+      "sourceIds": [
+        "dine"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wasabi",
+      "word": "wasabi",
+      "en": "wasabi",
+      "ru": [
+        "васаби"
+      ],
+      "example": "Scusami, puoi fare il sushi senza wasabi?",
+      "level": "B1",
+      "sourceId": "wasabi",
+      "sourceIds": [
+        "wasabi"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "commestibile",
+      "word": "commestibile",
+      "en": "commestibile",
+      "ru": [
+        "съедобный"
+      ],
+      "example": "Abbiamo bisogno di qualcosa di commestibile.",
+      "level": "B1",
+      "sourceId": "edible",
+      "sourceIds": [
+        "edible"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "senape",
+      "word": "senape",
+      "en": "senape",
+      "ru": [
+        "горчица"
+      ],
+      "example": "Il ketchup e la senape sono condimenti.",
+      "level": "B1",
+      "sourceId": "mustard",
+      "sourceIds": [
+        "mustard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rafano",
+      "word": "rafano",
+      "en": "rafano",
+      "ru": [
+        "хрен"
+      ],
+      "example": "Io amo il rafano.",
+      "level": "B1",
+      "sourceId": "horseradish",
+      "sourceIds": [
+        "horseradish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dolcificante",
+      "word": "dolcificante",
+      "en": "dolcificante",
+      "ru": [
+        "подсластитель"
+      ],
+      "example": "Hai un dolcificante per il mio caffè?",
+      "level": "B1",
+      "sourceId": "sweetener",
+      "sourceIds": [
+        "sweetener"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patata",
+      "word": "patata",
+      "en": "patata",
+      "ru": [
+        "картофелина"
+      ],
+      "example": "A Tom non piace l'insalata di patate.",
+      "level": "B1",
+      "sourceId": "spud",
+      "sourceIds": [
+        "spud",
+        "tater"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potabile",
+      "word": "potabile",
+      "en": "potabile",
+      "ru": [
+        "питьевой",
+        "пригодный для питья"
+      ],
+      "example": "Abbiamo un rubinetto speciale per l'acqua potabile.",
+      "level": "B1",
+      "sourceId": "drinkable",
+      "sourceIds": [
+        "drinkable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegetariano",
+      "word": "vegetariano",
+      "en": "vegetariano",
+      "ru": [
+        "вегетарианец"
+      ],
+      "example": "A lei piace mangiare la pizza vegetariana?",
+      "level": "B1",
+      "sourceId": "vegetarian",
+      "sourceIds": [
+        "vegetarian"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegano",
+      "word": "vegano",
+      "en": "vegano",
+      "ru": [
+        "веган"
+      ],
+      "example": "A me non piace il cibo vegano.",
+      "level": "B1",
+      "sourceId": "vegan",
+      "sourceIds": [
+        "vegan"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegetale",
+      "word": "vegetale",
+      "en": "vegetale",
+      "ru": [
+        "растительный"
+      ],
+      "example": "E i vegetali che mangiamo noi come sono?",
+      "level": "B1",
+      "sourceId": "plant-based",
+      "sourceIds": [
+        "plant-based"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sedano",
+      "word": "sedano",
+      "en": "sedano",
+      "ru": [
+        "сельдерей"
+      ],
+      "example": "Questa zuppa contiene carote, cipolle, prezzemolo, sedano e patate.",
+      "level": "B1",
+      "sourceId": "celery",
+      "sourceIds": [
+        "celery"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "senza-zucchero",
+      "word": "senza zucchero",
+      "en": "senza zucchero",
+      "ru": [
+        "без сахара"
+      ],
+      "example": "A Tom piace il caffè senza zucchero.",
+      "level": "B1",
+      "sourceId": "sugarless",
+      "sourceIds": [
+        "sugarless"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ramen",
+      "word": "ramen",
+      "en": "ramen",
+      "ru": [
+        "рамен"
+      ],
+      "example": "Andiamo a prendere un po' di ramen.",
+      "level": "B1",
+      "sourceId": "ramen",
+      "sourceIds": [
+        "ramen"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "burrito",
+      "word": "burrito",
+      "en": "burrito",
+      "ru": [
+        "буррито"
+      ],
+      "example": "Non toccare il mio burrito.",
+      "level": "B1",
+      "sourceId": "burrito",
+      "sourceIds": [
+        "burrito"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fibra",
+      "word": "fibra",
+      "en": "fibra",
+      "ru": [
+        "клетчатка",
+        "волокно"
+      ],
+      "example": "Le fibre alimentari sono efficaci per dimagrire.",
+      "level": "B1",
+      "sourceId": "fiber",
+      "sourceIds": [
+        "fiber"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cavolo-nero",
+      "word": "cavolo nero",
+      "en": "cavolo nero",
+      "ru": [
+        "капуста кейл"
+      ],
+      "example": "Io odio il cavolo nero.",
+      "level": "B1",
+      "sourceId": "kale",
+      "sourceIds": [
+        "kale"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alga",
+      "word": "alga",
+      "en": "alga",
+      "ru": [
+        "морская капуста"
+      ],
+      "example": "Ho visto un'interessante alga marina sulla spiaggia.",
+      "level": "B1",
+      "sourceId": "kelp",
+      "sourceIds": [
+        "kelp"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "soia",
+      "word": "soia",
+      "en": "soia",
+      "ru": [
+        "соевый боб"
+      ],
+      "example": "Beve il latte di soia?",
+      "level": "B1",
+      "sourceId": "soybean",
+      "sourceIds": [
+        "soybean"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "filetto",
+      "word": "filetto",
+      "en": "filetto",
+      "ru": [
+        "филе"
+      ],
+      "example": "Adesso dobbiamo infarinare il filetto.",
+      "level": "B1",
+      "sourceId": "filet",
+      "sourceIds": [
+        "filet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "filetto-mignon",
+      "word": "filetto mignon",
+      "en": "filetto mignon",
+      "ru": [
+        "миньон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mignon",
+      "sourceIds": [
+        "mignon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "frittella-di-patate",
+      "word": "frittella di patate",
+      "en": "frittella di patate",
+      "ru": [
+        "хашбраун"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hashbrown",
+      "sourceIds": [
+        "hashbrown"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lattuga",
+      "word": "lattuga",
+      "en": "lattuga",
+      "ru": [
+        "салат-латук"
+      ],
+      "example": "Io vorrei aver piantato più lattuga quest'anno.",
+      "level": "B1",
+      "sourceId": "lettuce",
+      "sourceIds": [
+        "lettuce"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oliva",
+      "word": "oliva",
+      "en": "oliva",
+      "ru": [
+        "оливка"
+      ],
+      "example": "A me piace ogni tipo di oliva.",
+      "level": "B1",
+      "sourceId": "olive",
+      "sourceIds": [
+        "olive"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chiara",
+      "word": "chiara",
+      "en": "chiara",
+      "ru": [
+        "яичный белок"
+      ],
+      "example": "Almeno hai le idee chiare sul futuro.",
+      "level": "B1",
+      "sourceId": "egg-white",
+      "sourceIds": [
+        "egg-white"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nero-di-seppia",
+      "word": "nero di seppia",
+      "en": "nero di seppia",
+      "ru": [
+        "чернила каракатицы"
+      ],
+      "example": "Mangio gli spaghetti al nero di seppia.",
+      "level": "B1",
+      "sourceId": "squid-ink",
+      "sourceIds": [
+        "squid-ink"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "birra-ale",
+      "word": "birra ale",
+      "en": "birra ale",
+      "ru": [
+        "эль",
+        "пиво"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ale",
+      "sourceIds": [
+        "ale"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "festa",
+      "word": "festa",
+      "en": "festa",
+      "ru": [
+        "пир",
+        "праздник"
+      ],
+      "example": "A Sami non è piaciuta la festa.",
+      "level": "B1",
+      "sourceId": "feast",
+      "sourceIds": [
+        "feast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tazza",
+      "word": "tazza",
+      "en": "tazza",
+      "ru": [
+        "кружка"
+      ],
+      "example": "A Tom serve una tazza di zucchero.",
+      "level": "B1",
+      "sourceId": "mug",
+      "sourceIds": [
+        "mug"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spezzatino",
+      "word": "spezzatino",
+      "en": "spezzatino",
+      "ru": [
+        "рубленое мясо",
+        "мешанина"
+      ],
+      "example": "Mangiai dello spezzatino di manzo a pranzo.",
+      "level": "B1",
+      "sourceId": "hash",
+      "sourceIds": [
+        "hash"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gommoso",
+      "word": "gommoso",
+      "en": "gommoso",
+      "ru": [
+        "жевательный",
+        "вязкий"
+      ],
+      "example": "Spero che le piacciano i vermi gommosi.",
+      "level": "B1",
+      "sourceId": "chewy",
+      "sourceIds": [
+        "chewy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "al-gusto-di-pancetta",
+      "word": "al gusto di pancetta",
+      "en": "al gusto di pancetta",
+      "ru": [
+        "со вкусом бекона"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bacon-flavored",
+      "sourceIds": [
+        "bacon-flavored"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "soia",
+      "word": "soia",
+      "en": "soia",
+      "ru": [
+        "соя"
+      ],
+      "example": "Beve il latte di soia?",
+      "level": "B1",
+      "sourceId": "soy",
+      "sourceIds": [
+        "soy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ghiacciato",
+      "word": "ghiacciato",
+      "en": "ghiacciato",
+      "ru": [
+        "ледяной",
+        "со льдом"
+      ],
+      "example": "Il lago si è ghiacciato del tutto.",
+      "level": "B1",
+      "sourceId": "iced",
+      "sourceIds": [
+        "iced"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "appiccicoso",
+      "word": "appiccicoso",
+      "en": "appiccicoso",
+      "ru": [
+        "липкий",
+        "вязкий"
+      ],
+      "example": "La linfa degli alberi è appiccicosa.",
+      "level": "B1",
+      "sourceId": "gooey",
+      "sourceIds": [
+        "gooey"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tequila",
+      "word": "tequila",
+      "en": "tequila",
+      "ru": [
+        "текила"
+      ],
+      "example": "Benvenuta su Tatoeba, tequila, sesso e marijuana.",
+      "level": "B1",
+      "sourceId": "tequila",
+      "sourceIds": [
+        "tequila"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polpa",
+      "word": "polpa",
+      "en": "polpa",
+      "ru": [
+        "мякоть"
+      ],
+      "example": "I fichi maturi hanno la polpa dolce e morbida.",
+      "level": "B1",
+      "sourceId": "pulp",
+      "sourceIds": [
+        "pulp"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "avanzo",
+      "word": "avanzo",
+      "en": "avanzo",
+      "ru": [
+        "остаток"
+      ],
+      "example": "Mi chiedo se ci siano degli avanzi.",
+      "level": "B1",
+      "sourceId": "leftover",
+      "sourceIds": [
+        "leftover"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saziare",
+      "word": "saziare",
+      "en": "saziare",
+      "ru": [
+        "насыщать"
+      ],
+      "example": "Per saziare gli avari nessun oro è sufficiente.",
+      "level": "B1",
+      "sourceId": "sate",
+      "sourceIds": [
+        "sate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maturo",
+      "word": "maturo",
+      "en": "maturo",
+      "ru": [
+        "спелый"
+      ],
+      "example": "I pomodori del nostro orto sono maturi.",
+      "level": "B1",
+      "sourceId": "ripe",
+      "sourceIds": [
+        "ripe"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sidro",
+      "word": "sidro",
+      "en": "sidro",
+      "ru": [
+        "сидр"
+      ],
+      "example": "Le mele Damelot producono un ottimo sidro.",
+      "level": "B1",
+      "sourceId": "cider",
+      "sourceIds": [
+        "cider"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sugoso",
+      "word": "sugoso",
+      "en": "sugoso",
+      "ru": [
+        "сочный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "juicy",
+      "sourceIds": [
+        "juicy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "polpetta-di-formaggio",
+      "word": "polpetta di formaggio",
+      "en": "polpetta di formaggio",
+      "ru": [
+        "сырный шарик",
+        "пошляк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheeseball",
+      "sourceIds": [
+        "cheeseball"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "divorare",
+      "word": "divorare",
+      "en": "divorare",
+      "ru": [
+        "пожирать",
+        "жадно есть"
+      ],
+      "example": "Qual è il prossimo libro che vorresti divorare?",
+      "level": "B1",
+      "sourceId": "devour",
+      "sourceIds": [
+        "devour"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "strutto",
+      "word": "strutto",
+      "en": "strutto",
+      "ru": [
+        "сало",
+        "смалец"
+      ],
+      "example": "Questa crema è strutto, non è burro!",
+      "level": "B1",
+      "sourceId": "lard",
+      "sourceIds": [
+        "lard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crema",
+      "word": "crema",
+      "en": "crema",
+      "ru": [
+        "крем"
+      ],
+      "example": "Avete mai mangiato una pizza alla crema?",
+      "level": "B1",
+      "sourceId": "creme",
+      "sourceIds": [
+        "creme"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "souffle",
+      "word": "soufflé",
+      "en": "soufflé",
+      "ru": [
+        "суфле"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "souffle",
+      "sourceIds": [
+        "souffle"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "salmone",
+      "word": "salmone",
+      "en": "salmone",
+      "ru": [
+        "лосось"
+      ],
+      "example": "Il mio pesce preferito è il salmone.",
+      "level": "B1",
+      "sourceId": "salmon",
+      "sourceIds": [
+        "salmon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimentare-a-forza",
+      "word": "alimentare a forza",
+      "en": "alimentare a forza",
+      "ru": [
+        "кормить насильно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "force-feed",
+      "sourceIds": [
+        "force-feed"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "scricchiolio",
+      "word": "scricchiolio",
+      "en": "scricchiolio",
+      "ru": [
+        "хруст",
+        "хрустеть"
+      ],
+      "example": "Ho appena sentito uno strano scricchiolio.",
+      "level": "B1",
+      "sourceId": "crunch",
+      "sourceIds": [
+        "crunch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bocconcino",
+      "word": "bocconcino",
+      "en": "bocconcino",
+      "ru": [
+        "лакомый кусочек",
+        "интересная новость"
+      ],
+      "example": "Durante l'aperitivo, abbiamo gustato un bocconcino di prosciutto crudo.",
+      "level": "B1",
+      "sourceId": "tidbit",
+      "sourceIds": [
+        "tidbit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tiramisu",
+      "word": "tiramisù",
+      "en": "tiramisù",
+      "ru": [
+        "тирамису"
+      ],
+      "example": "Il tiramisù è un dessert italiano irresistibile.",
+      "level": "B1",
+      "sourceId": "tiramisu",
+      "sourceIds": [
+        "tiramisu"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brunch",
+      "word": "brunch",
+      "en": "brunch",
+      "ru": [
+        "бранч",
+        "поздний завтрак"
+      ],
+      "example": "Durante il brunch, abbiamo gustato deliziosi cornetti alla crema sfogliata.",
+      "level": "B1",
+      "sourceId": "brunch",
+      "sourceIds": [
+        "brunch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sbevazzare",
+      "word": "sbevazzare",
+      "en": "sbevazzare",
+      "ru": [
+        "выпивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "booze",
+      "sourceIds": [
+        "booze"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "menta",
+      "word": "menta",
+      "en": "menta",
+      "ru": [
+        "мята",
+        "монетный двор"
+      ],
+      "example": "A chi è venuto solo in mente?",
+      "level": "B1",
+      "sourceId": "mint",
+      "sourceIds": [
+        "mint"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schnapps",
+      "word": "schnapps",
+      "en": "schnapps",
+      "ru": [
+        "шнапс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "schnapps",
+      "sourceIds": [
+        "schnapps"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kasher",
+      "word": "kasher",
+      "en": "kasher",
+      "ru": [
+        "кошерный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kosher",
+      "sourceIds": [
+        "kosher"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "carne-di-cervo",
+      "word": "carne di cervo",
+      "en": "carne di cervo",
+      "ru": [
+        "оленина"
+      ],
+      "example": "Ho cucinato carne di cervo.",
+      "level": "B1",
+      "sourceId": "venison",
+      "sourceIds": [
+        "venison"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucchiaiata",
+      "word": "cucchiaiata",
+      "en": "cucchiaiata",
+      "ru": [
+        "порция",
+        "кучка"
+      ],
+      "example": "Tom mangiò una cucchiaiata di burro d'arachidi.",
+      "level": "B1",
+      "sourceId": "dollop",
+      "sourceIds": [
+        "dollop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rum",
+      "word": "rum",
+      "en": "rum",
+      "ru": [
+        "ром"
+      ],
+      "example": "Mennad ha ordinato un'altra bottiglia di rum.",
+      "level": "B1",
+      "sourceId": "rum",
+      "sourceIds": [
+        "rum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muesli-croccante",
+      "word": "muesli croccante",
+      "en": "muesli croccante",
+      "ru": [
+        "гранола"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "granola",
+      "sourceIds": [
+        "granola"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "torta-di-mele",
+      "word": "torta di mele",
+      "en": "torta di mele",
+      "ru": [
+        "яблочный пирог"
+      ],
+      "example": "A Tom piace la torta di mele?",
+      "level": "B1",
+      "sourceId": "apple-pie",
+      "sourceIds": [
+        "apple-pie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tavola-calda",
+      "word": "tavola calda",
+      "en": "tavola calda",
+      "ru": [
+        "закусочная"
+      ],
+      "example": "Karl è andato ad una tavola calda.",
+      "level": "B1",
+      "sourceId": "diner",
+      "sourceIds": [
+        "diner"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barile",
+      "word": "barile",
+      "en": "barile",
+      "ru": [
+        "кег",
+        "бочонок"
+      ],
+      "example": "Quanti litri d'olio ci sono nel barile?",
+      "level": "B1",
+      "sourceId": "keg",
+      "sourceIds": [
+        "keg"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "briciola",
+      "word": "briciola",
+      "en": "briciola",
+      "ru": [
+        "крошка"
+      ],
+      "example": "Scusa se mi sniffo briciole di pane.",
+      "level": "B1",
+      "sourceId": "crumb",
+      "sourceIds": [
+        "crumb"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cibo",
+      "word": "cibo",
+      "en": "cibo",
+      "ru": [
+        "еда",
+        "корм"
+      ],
+      "example": "A Londra ho preferito il cibo indiano.",
+      "level": "B1",
+      "sourceId": "chow",
+      "sourceIds": [
+        "chow"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimentare",
+      "word": "alimentare",
+      "en": "alimentare",
+      "ru": [
+        "кормить"
+      ],
+      "example": "I dietisti sono degli esperti nell'industria alimentare.",
+      "level": "B1",
+      "sourceId": "fed",
+      "sourceIds": [
+        "fed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "uva-passa",
+      "word": "uva passa",
+      "en": "uva passa",
+      "ru": [
+        "изюм"
+      ],
+      "example": "Tom mangiò una manciata di uva passa.",
+      "level": "B1",
+      "sourceId": "raisin",
+      "sourceIds": [
+        "raisin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caffeina",
+      "word": "caffeina",
+      "en": "caffeina",
+      "ru": [
+        "кофеин"
+      ],
+      "example": "Io ho bisogno di più caffeina.",
+      "level": "B1",
+      "sourceId": "caffeine",
+      "sourceIds": [
+        "caffeine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "marocchino",
+      "word": "marocchino",
+      "en": "marocchino",
+      "ru": [
+        "моккачино"
+      ],
+      "example": "A me non piace il cibo marocchino.",
+      "level": "B1",
+      "sourceId": "mochaccino",
+      "sourceIds": [
+        "mochaccino"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frappuccino",
+      "word": "frappuccino",
+      "en": "frappuccino",
+      "ru": [
+        "фраппучино"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frappuccino",
+      "sourceIds": [
+        "frappuccino"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "frizzante",
+      "word": "frizzante",
+      "en": "frizzante",
+      "ru": [
+        "шипучий"
+      ],
+      "example": "Mi piace l'aria frizzante del clima freddo.",
+      "level": "B1",
+      "sourceId": "fizzy",
+      "sourceIds": [
+        "fizzy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rosicchiare",
+      "word": "rosicchiare",
+      "en": "rosicchiare",
+      "ru": [
+        "откусывать понемногу"
+      ],
+      "example": "Perché vuoi rosicchiare tutto quello che trovi?",
+      "level": "B1",
+      "sourceId": "nibble",
+      "sourceIds": [
+        "nibble"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gustoso",
+      "word": "gustoso",
+      "en": "gustoso",
+      "ru": [
+        "вкусный"
+      ],
+      "example": "I gamberetti grigliati sono leggeri e gustosi.",
+      "level": "B1",
+      "sourceId": "tasty",
+      "sourceIds": [
+        "tasty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "delizioso",
+      "word": "delizioso",
+      "en": "delizioso",
+      "ru": [
+        "вкусный"
+      ],
+      "example": "Ciò che ha mangiato Tom era delizioso.",
+      "level": "B1",
+      "sourceId": "yummy",
+      "sourceIds": [
+        "yummy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menta-verde",
+      "word": "menta verde",
+      "en": "menta verde",
+      "ru": [
+        "мята колосистая"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spearmint",
+      "sourceIds": [
+        "spearmint"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "fatto-in-casa",
+      "word": "fatto in casa",
+      "en": "fatto in casa",
+      "ru": [
+        "домашнего приготовления"
+      ],
+      "example": "Hanno mangiato della pizza fatta in casa.",
+      "level": "B1",
+      "sourceId": "homemade",
+      "sourceIds": [
+        "homemade"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barbecue",
+      "word": "barbecue",
+      "en": "barbecue",
+      "ru": [
+        "барбекю"
+      ],
+      "example": "È una giornata perfetta per un barbecue.",
+      "level": "B1",
+      "sourceId": "barbecue",
+      "sourceIds": [
+        "barbecue"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "contenente-caffeina",
+      "word": "contenente caffeina",
+      "en": "contenente caffeina",
+      "ru": [
+        "содержащий кофеин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caffeinated",
+      "sourceIds": [
+        "caffeinated"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ketchup",
+      "word": "ketchup",
+      "en": "ketchup",
+      "ru": [
+        "кетчуп"
+      ],
+      "example": "Amo le patate fritte con il ketchup.",
+      "level": "B1",
+      "sourceId": "ketchup",
+      "sourceIds": [
+        "ketchup"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fruttato",
+      "word": "fruttato",
+      "en": "fruttato",
+      "ru": [
+        "фруктовый"
+      ],
+      "example": "Le sue idee non gli hanno mai fruttato un soldo.",
+      "level": "B1",
+      "sourceId": "fruity",
+      "sourceIds": [
+        "fruity"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torta",
+      "word": "torta",
+      "en": "torta",
+      "ru": [
+        "фруктовый пирог"
+      ],
+      "example": "\"Chi cuoce le torte?\" \"Alessandra le cuoce.\"",
+      "level": "B1",
+      "sourceId": "tart",
+      "sourceIds": [
+        "tart"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "marshmallow",
+      "word": "marshmallow",
+      "en": "marshmallow",
+      "ru": [
+        "зефир",
+        "маршмэллоу"
+      ],
+      "example": "Tom arrostì il suo marshmallow sul fuoco.",
+      "level": "B1",
+      "sourceId": "marshmallow",
+      "sourceIds": [
+        "marshmallow"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vitello",
+      "word": "vitello",
+      "en": "vitello",
+      "ru": [
+        "телятина"
+      ],
+      "example": "Ai macelli van più bovi che vitelli.",
+      "level": "B1",
+      "sourceId": "veal",
+      "sourceIds": [
+        "veal"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sapore",
+      "word": "sapore",
+      "en": "sapore",
+      "ru": [
+        "вкус",
+        "аромат"
+      ],
+      "example": "A Rodrigo piaceva il sapore del sangue.",
+      "level": "B1",
+      "sourceId": "flavour",
+      "sourceIds": [
+        "flavour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zucca",
+      "word": "zucca",
+      "en": "zucca",
+      "ru": [
+        "тыква"
+      ],
+      "example": "A lei piace la zuppa di zucca?",
+      "level": "B1",
+      "sourceId": "pumpkin",
+      "sourceIds": [
+        "pumpkin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ricotta",
+      "word": "ricotta",
+      "en": "ricotta",
+      "ru": [
+        "рикотта"
+      ],
+      "example": "Invece della crema fresca, potete usare la ricotta o il mascarpone.",
+      "level": "B1",
+      "sourceId": "ricotta",
+      "sourceIds": [
+        "ricotta"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "latte-macchiato",
+      "word": "latte macchiato",
+      "en": "latte macchiato",
+      "ru": [
+        "латте"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "latte",
+      "sourceIds": [
+        "latte"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cannella",
+      "word": "cannella",
+      "en": "cannella",
+      "ru": [
+        "корица"
+      ],
+      "example": "A Tom piace il tè con la cannella.",
+      "level": "B1",
+      "sourceId": "cinnamon",
+      "sourceIds": [
+        "cinnamon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spaghetti",
+      "word": "spaghetti",
+      "en": "spaghetti",
+      "ru": [
+        "спагетти"
+      ],
+      "example": "A lui piacciono gli spaghetti al dente.",
+      "level": "B1",
+      "sourceId": "spaghetti",
+      "sourceIds": [
+        "spaghetti"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hamburger-al-formaggio",
+      "word": "hamburger al formaggio",
+      "en": "hamburger al formaggio",
+      "ru": [
+        "чизбургер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheeseburger",
+      "sourceIds": [
+        "cheeseburger"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "broccoli",
+      "word": "broccoli",
+      "en": "broccoli",
+      "ru": [
+        "брокколи"
+      ],
+      "example": "\"Cosa vuoi mangiare per cena?\" \"Dei broccoli.\"",
+      "level": "B1",
+      "sourceId": "broccoli",
+      "sourceIds": [
+        "broccoli"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "etouffee",
+      "word": "étouffée",
+      "en": "étouffée",
+      "ru": [
+        "этуфе (блюдо)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "etouffee",
+      "sourceIds": [
+        "etouffee"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "fame",
+      "word": "fame",
+      "en": "fame",
+      "ru": [
+        "голод"
+      ],
+      "example": "\"Non hai fame?\" \"Sì, ho molta fame.\"",
+      "level": "B1",
+      "sourceId": "hunger",
+      "sourceIds": [
+        "hunger"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caramella-mou",
+      "word": "caramella mou",
+      "en": "caramella mou",
+      "ru": [
+        "помадка",
+        "чепуха"
+      ],
+      "example": "Queste sono caramelle mou salate.",
+      "level": "B1",
+      "sourceId": "fudge",
+      "sourceIds": [
+        "fudge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gomma-da-masticare",
+      "word": "gomma da masticare",
+      "en": "gomma da masticare",
+      "ru": [
+        "жевательная резинка"
+      ],
+      "example": "Ho accidentalmente ingoiato una gomma da masticare.",
+      "level": "B1",
+      "sourceId": "bubblegum",
+      "sourceIds": [
+        "bubblegum"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "amidaceo",
+      "word": "amidaceo",
+      "en": "amidaceo",
+      "ru": [
+        "крахмалистый"
+      ],
+      "example": "Cetrioli, spinaci, broccoli e cipolle sono considerati verdure non amidacee.",
+      "level": "B1",
+      "sourceId": "starchy",
+      "sourceIds": [
+        "starchy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tortina",
+      "word": "tortina",
+      "en": "tortina",
+      "ru": [
+        "кекс"
+      ],
+      "example": "Volete una tortina?",
+      "level": "B1",
+      "sourceId": "cupcake",
+      "sourceIds": [
+        "cupcake"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caramella-mou",
+      "word": "caramella mou",
+      "en": "caramella mou",
+      "ru": [
+        "ириска"
+      ],
+      "example": "Queste sono caramelle mou salate.",
+      "level": "B1",
+      "sourceId": "taffy",
+      "sourceIds": [
+        "taffy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pallina-di-gomma-da-masticare",
+      "word": "pallina di gomma da masticare",
+      "en": "pallina di gomma da masticare",
+      "ru": [
+        "жевательная резинка в форме шарика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gumball",
+      "sourceIds": [
+        "gumball"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tagliere",
+      "word": "tagliere",
+      "en": "tagliere",
+      "ru": [
+        "деревянная тарелка"
+      ],
+      "example": "I batteri si possono nascondere nei solchi dei taglieri.",
+      "level": "B1",
+      "sourceId": "trencher",
+      "sourceIds": [
+        "trencher"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "consumare",
+      "word": "consumare",
+      "en": "consumare",
+      "ru": [
+        "потреблять",
+        "поглощать"
+      ],
+      "example": "A me non è permesso consumare zucchero.",
+      "level": "B1",
+      "sourceId": "consume",
+      "sourceIds": [
+        "consume"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bourbon",
+      "word": "bourbon",
+      "en": "bourbon",
+      "ru": [
+        "бурбон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bourbon",
+      "sourceIds": [
+        "bourbon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "conservificio",
+      "word": "conservificio",
+      "en": "conservificio",
+      "ru": [
+        "консервный завод"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cannery",
+      "sourceIds": [
+        "cannery"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "superalcolico",
+      "word": "superalcolico",
+      "en": "superalcolico",
+      "ru": [
+        "спиртной напиток",
+        "крепкий алкоголь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquor",
+      "sourceIds": [
+        "liquor"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "verdura",
+      "word": "verdura",
+      "en": "verdura",
+      "ru": [
+        "овощ"
+      ],
+      "example": "Abbiamo imbustato la frutta e la verdura.",
+      "level": "B1",
+      "sourceId": "veggie",
+      "sourceIds": [
+        "veggie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salvia",
+      "word": "salvia",
+      "en": "salvia",
+      "ru": [
+        "шалфей",
+        "мудрец"
+      ],
+      "example": "Avete messo della salvia nella pasta?",
+      "level": "B1",
+      "sourceId": "sage",
+      "sourceIds": [
+        "sage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "peperoncino",
+      "word": "peperoncino",
+      "en": "peperoncino",
+      "ru": [
+        "чили",
+        "острый перец"
+      ],
+      "example": "I jalapeños sono i miei peperoncini preferiti.",
+      "level": "B1",
+      "sourceId": "chilli",
+      "sourceIds": [
+        "chilli",
+        "chili"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crosta",
+      "word": "crosta",
+      "en": "crosta",
+      "ru": [
+        "корка",
+        "корочка"
+      ],
+      "example": "Il pane degli altri ha sette croste.",
+      "level": "B1",
+      "sourceId": "crust",
+      "sourceIds": [
+        "crust"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caseificio",
+      "word": "caseificio",
+      "en": "caseificio",
+      "ru": [
+        "маслозавод",
+        "молочная лавка"
+      ],
+      "example": "Tom ha un caseificio.",
+      "level": "B1",
+      "sourceId": "creamery",
+      "sourceIds": [
+        "creamery"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parmigiana",
+      "word": "parmigiana",
+      "en": "parmigiana",
+      "ru": [
+        "пармиджано"
+      ],
+      "example": "Il Parmigiano Reggiano viene da Parma, in Italia.",
+      "level": "B1",
+      "sourceId": "parmigiana",
+      "sourceIds": [
+        "parmigiana"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sherry",
+      "word": "sherry",
+      "en": "sherry",
+      "ru": [
+        "херес"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sherry",
+      "sourceIds": [
+        "sherry"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "scotch",
+      "word": "scotch",
+      "en": "scotch",
+      "ru": [
+        "шотландский виски"
+      ],
+      "example": "Tom mi diede un po' di scotch.",
+      "level": "B1",
+      "sourceId": "scotch",
+      "sourceIds": [
+        "scotch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "macallan",
+      "word": "Macallan",
+      "en": "Macallan",
+      "ru": [
+        "Макаллан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "macallan",
+      "sourceIds": [
+        "macallan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "polpetta",
+      "word": "polpetta",
+      "en": "polpetta",
+      "ru": [
+        "тефтеля"
+      ],
+      "example": "Evidentemente aveva le polpette davanti agli occhi.",
+      "level": "B1",
+      "sourceId": "meatball",
+      "sourceIds": [
+        "meatball"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "curry",
+      "word": "curry",
+      "en": "curry",
+      "ru": [
+        "карри"
+      ],
+      "example": "A me piace il riso al curry.",
+      "level": "B1",
+      "sourceId": "curry",
+      "sourceIds": [
+        "curry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moka",
+      "word": "moka",
+      "en": "moka",
+      "ru": [
+        "мокко"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mocha",
+      "sourceIds": [
+        "mocha"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bistrot",
+      "word": "bistrot",
+      "en": "bistrot",
+      "ru": [
+        "бистро"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bistro",
+      "sourceIds": [
+        "bistro"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vermut",
+      "word": "vermut",
+      "en": "vermut",
+      "ru": [
+        "вермут"
+      ],
+      "example": "Dov'è il suo vermut?",
+      "level": "B1",
+      "sourceId": "vermouth",
+      "sourceIds": [
+        "vermouth"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torta-al-formaggio",
+      "word": "torta al formaggio",
+      "en": "torta al formaggio",
+      "ru": [
+        "чизкейк"
+      ],
+      "example": "Potrei avere un pezzo di torta al formaggio?",
+      "level": "B1",
+      "sourceId": "cheesecake",
+      "sourceIds": [
+        "cheesecake"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limonata",
+      "word": "limonata",
+      "en": "limonata",
+      "ru": [
+        "лимонад"
+      ],
+      "example": "Mi piace di più la limonata dell'aranciata.",
+      "level": "B1",
+      "sourceId": "lemonade",
+      "sourceIds": [
+        "lemonade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sgranocchiare",
+      "word": "sgranocchiare",
+      "en": "sgranocchiare",
+      "ru": [
+        "жевать"
+      ],
+      "example": "C'è qualcosa da sgranocchiare?",
+      "level": "B1",
+      "sourceId": "munch",
+      "sourceIds": [
+        "munch"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wurstel",
+      "word": "würstel",
+      "en": "würstel",
+      "ru": [
+        "сосиска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wienie",
+      "sourceIds": [
+        "wienie"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "segale",
+      "word": "segale",
+      "en": "segale",
+      "ru": [
+        "рожь"
+      ],
+      "example": "A Tom piace il pane di segale.",
+      "level": "B1",
+      "sourceId": "rye",
+      "sourceIds": [
+        "rye"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bere",
+      "word": "bere",
+      "en": "bere",
+      "ru": [
+        "пить",
+        "впитывать"
+      ],
+      "example": "A chi pensano di darla a bere?",
+      "level": "B1",
+      "sourceId": "imbibe",
+      "sourceIds": [
+        "imbibe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zenzero",
+      "word": "zenzero",
+      "en": "zenzero",
+      "ru": [
+        "имбирь",
+        "рыжий"
+      ],
+      "example": "Baldassarre ha una cesta di zenzero.",
+      "level": "B1",
+      "sourceId": "ginger",
+      "sourceIds": [
+        "ginger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mojito",
+      "word": "mojito",
+      "en": "mojito",
+      "ru": [
+        "мохито"
+      ],
+      "example": "Si inizia con il classico mojito.",
+      "level": "B1",
+      "sourceId": "mojito",
+      "sourceIds": [
+        "mojito"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yogurt-gelato",
+      "word": "yogurt gelato",
+      "en": "yogurt gelato",
+      "ru": [
+        "замороженный йогурт"
+      ],
+      "example": "A lei piace lo yogurt gelato?",
+      "level": "B1",
+      "sourceId": "froyo",
+      "sourceIds": [
+        "froyo"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fuori-menu",
+      "word": "fuori menù",
+      "en": "fuori menù",
+      "ru": [
+        "вне меню"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "off-menu",
+      "sourceIds": [
+        "off-menu"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "trangugiare",
+      "word": "trangugiare",
+      "en": "trangugiare",
+      "ru": [
+        "жадно глотать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gobble",
+      "sourceIds": [
+        "gobble"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "popcorn",
+      "word": "popcorn",
+      "en": "popcorn",
+      "ru": [
+        "попкорн"
+      ],
+      "example": "A Tom non piace mangiare i popcorn.",
+      "level": "B1",
+      "sourceId": "popcorn",
+      "sourceIds": [
+        "popcorn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pistacchio",
+      "word": "pistacchio",
+      "en": "pistacchio",
+      "ru": [
+        "фисташка"
+      ],
+      "example": "Noi abbiamo comprato due pacchetti di pistacchi.",
+      "level": "B1",
+      "sourceId": "pistachio",
+      "sourceIds": [
+        "pistachio"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menta-piperita",
+      "word": "menta piperita",
+      "en": "menta piperita",
+      "ru": [
+        "мята перечная"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peppermint",
+      "sourceIds": [
+        "peppermint"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sbobba",
+      "word": "sbobba",
+      "en": "sbobba",
+      "ru": [
+        "еда",
+        "личинка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grub",
+      "sourceIds": [
+        "grub"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mollusco",
+      "word": "mollusco",
+      "en": "mollusco",
+      "ru": [
+        "моллюски",
+        "ракообразные"
+      ],
+      "example": "Hai mangiato dei frutti di mare? Molluschi, diciamo.",
+      "level": "B1",
+      "sourceId": "shellfish",
+      "sourceIds": [
+        "shellfish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yogurt",
+      "word": "yogurt",
+      "en": "yogurt",
+      "ru": [
+        "йогурт"
+      ],
+      "example": "A me piace lo yogurt senza conservanti.",
+      "level": "B1",
+      "sourceId": "yoghurt",
+      "sourceIds": [
+        "yoghurt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pretzel",
+      "word": "pretzel",
+      "en": "pretzel",
+      "ru": [
+        "крендель"
+      ],
+      "example": "Mi piacciono i pretzel quando sono ubriaca.",
+      "level": "B1",
+      "sourceId": "pretzel",
+      "sourceIds": [
+        "pretzel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tazza-di-te",
+      "word": "tazza di tè",
+      "en": "tazza di tè",
+      "ru": [
+        "чашка чая"
+      ],
+      "example": "Dammi una tazza di tè, per favore.",
+      "level": "B1",
+      "sourceId": "cup-of-tea",
+      "sourceIds": [
+        "cup-of-tea"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alle-erbe",
+      "word": "alle erbe",
+      "en": "alle erbe",
+      "ru": [
+        "травяной"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "herbal",
+      "sourceIds": [
+        "herbal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "languorino",
+      "word": "languorino",
+      "en": "languorino",
+      "ru": [
+        "голодный"
+      ],
+      "example": "Avverto un leggero languorino.",
+      "level": "B1",
+      "sourceId": "peckish",
+      "sourceIds": [
+        "peckish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deglutire",
+      "word": "deglutire",
+      "en": "deglutire",
+      "ru": [
+        "глотать",
+        "сглатывать"
+      ],
+      "example": "Non riesco neanche a deglutire.",
+      "level": "B1",
+      "sourceId": "gulp",
+      "sourceIds": [
+        "gulp"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cibo-da-asporto",
+      "word": "cibo da asporto",
+      "en": "cibo da asporto",
+      "ru": [
+        "еда навынос"
+      ],
+      "example": "Sono tentato di ordinare del cibo da asporto.",
+      "level": "B1",
+      "sourceId": "takeaway",
+      "sourceIds": [
+        "takeaway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "effervescenza",
+      "word": "effervescenza",
+      "en": "effervescenza",
+      "ru": [
+        "шипение",
+        "шипучий напиток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fizz",
+      "sourceIds": [
+        "fizz"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "seme",
+      "word": "seme",
+      "en": "seme",
+      "ru": [
+        "зернышко",
+        "косточка"
+      ],
+      "example": "Gli scoiattoli amano i semi per uccelli.",
+      "level": "B1",
+      "sourceId": "pip",
+      "sourceIds": [
+        "pip"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ostrica",
+      "word": "ostrica",
+      "en": "ostrica",
+      "ru": [
+        "устрица"
+      ],
+      "example": "Le ostriche non sono d'accordo con me.",
+      "level": "B1",
+      "sourceId": "oyster",
+      "sourceIds": [
+        "oyster"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "liquirizia",
+      "word": "liquirizia",
+      "en": "liquirizia",
+      "ru": [
+        "лакрица"
+      ],
+      "example": "Ai miei figli piacciono i bastoncini di liquirizia.",
+      "level": "B1",
+      "sourceId": "liquorice",
+      "sourceIds": [
+        "liquorice"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "assortimento",
+      "word": "assortimento",
+      "en": "assortimento",
+      "ru": [
+        "ассорти"
+      ],
+      "example": "C'era un colorato assortimento di verdure fresche e di salsine.",
+      "level": "B1",
+      "sourceId": "allsort",
+      "sourceIds": [
+        "allsort"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "risotto",
+      "word": "risotto",
+      "en": "risotto",
+      "ru": [
+        "ризотто"
+      ],
+      "example": "Il risotto allo zafferano è costoso.",
+      "level": "B1",
+      "sourceId": "risotto",
+      "sourceIds": [
+        "risotto"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sformato",
+      "word": "sformato",
+      "en": "sformato",
+      "ru": [
+        "запеканка"
+      ],
+      "example": "Tom non mangia mai sformati.",
+      "level": "B1",
+      "sourceId": "casserole",
+      "sourceIds": [
+        "casserole"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brownie",
+      "word": "brownie",
+      "en": "brownie",
+      "ru": [
+        "брауни"
+      ],
+      "example": "Io ho preparato dei brownie.",
+      "level": "B1",
+      "sourceId": "brownie",
+      "sourceIds": [
+        "brownie"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasticcio-di-carne",
+      "word": "pasticcio di carne",
+      "en": "pasticcio di carne",
+      "ru": [
+        "пирог в горшочке"
+      ],
+      "example": "Oscar cuoce un pasticcio di carne di pecora per i visitatori.",
+      "level": "B1",
+      "sourceId": "potpie",
+      "sourceIds": [
+        "potpie"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucina",
+      "word": "cucina",
+      "en": "cucina",
+      "ru": [
+        "кухня"
+      ],
+      "example": "\"Dov'è il mio sandwich?\" \"È in cucina.\"",
+      "level": "B1",
+      "sourceId": "cuisine",
+      "sourceIds": [
+        "cuisine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pranzo",
+      "word": "pranzo",
+      "en": "pranzo",
+      "ru": [
+        "ланч",
+        "обед"
+      ],
+      "example": "A me mancheranno i nostri pranzi assieme.",
+      "level": "B1",
+      "sourceId": "luncheon",
+      "sourceIds": [
+        "luncheon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-base-di-curry",
+      "word": "a base di curry",
+      "en": "a base di curry",
+      "ru": [
+        "на основе карри"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "curry-based",
+      "sourceIds": [
+        "curry-based"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gastronomicamente",
+      "word": "gastronomicamente",
+      "en": "gastronomicamente",
+      "ru": [
+        "гастрономически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gastronomically",
+      "sourceIds": [
+        "gastronomically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "bacchetta",
+      "word": "bacchetta",
+      "en": "bacchetta",
+      "ru": [
+        "палочка для еды"
+      ],
+      "example": "Dove ho messo la mia bacchetta magica?",
+      "level": "B1",
+      "sourceId": "chopstick",
+      "sourceIds": [
+        "chopstick"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carboidrato",
+      "word": "carboidrato",
+      "en": "carboidrato",
+      "ru": [
+        "углевод"
+      ],
+      "example": "Prova a mangiare meno carboidrati e dolci.",
+      "level": "B1",
+      "sourceId": "carbohydrate",
+      "sourceIds": [
+        "carbohydrate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "idromele",
+      "word": "idromele",
+      "en": "idromele",
+      "ru": [
+        "медовуха"
+      ],
+      "example": "Io non ho mai bevuto l'idromele.",
+      "level": "B1",
+      "sourceId": "mead",
+      "sourceIds": [
+        "mead"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "minestrone",
+      "word": "minestrone",
+      "en": "minestrone",
+      "ru": [
+        "минестроне"
+      ],
+      "example": "A me il minestrone non piace.",
+      "level": "B1",
+      "sourceId": "minestrone",
+      "sourceIds": [
+        "minestrone"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carbonara",
+      "word": "carbonara",
+      "en": "carbonara",
+      "ru": [
+        "карбонара"
+      ],
+      "example": "Come si cucinano gli spaghetti alla carbonara?",
+      "level": "B1",
+      "sourceId": "carbonara",
+      "sourceIds": [
+        "carbonara"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "assenzio",
+      "word": "assenzio",
+      "en": "assenzio",
+      "ru": [
+        "абсент"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "absinthe",
+      "sourceIds": [
+        "absinthe"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "prezzemolo",
+      "word": "prezzemolo",
+      "en": "prezzemolo",
+      "ru": [
+        "петрушка"
+      ],
+      "example": "A Maria non piace il prezzemolo.",
+      "level": "B1",
+      "sourceId": "parsley",
+      "sourceIds": [
+        "parsley"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "unto",
+      "word": "unto",
+      "en": "unto",
+      "ru": [
+        "жирный",
+        "засаленный"
+      ],
+      "example": "Pensavo che il cibo fosse troppo unto.",
+      "level": "B1",
+      "sourceId": "greasy",
+      "sourceIds": [
+        "greasy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "croccante",
+      "word": "croccante",
+      "en": "croccante",
+      "ru": [
+        "хрустящий",
+        "свежий",
+        "четкий"
+      ],
+      "example": "A pranzo mi piacciono le carote croccanti.",
+      "level": "B1",
+      "sourceId": "crisp",
+      "sourceIds": [
+        "crisp"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prugna",
+      "word": "prugna",
+      "en": "prugna",
+      "ru": [
+        "слива"
+      ],
+      "example": "Gustavo fa un succo di prugne oggi.",
+      "level": "B1",
+      "sourceId": "plum",
+      "sourceIds": [
+        "plum"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "flan",
+      "word": "flan",
+      "en": "flan",
+      "ru": [
+        "флан",
+        "открытый пирог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "flan",
+      "sourceIds": [
+        "flan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cremoso",
+      "word": "cremoso",
+      "en": "cremoso",
+      "ru": [
+        "напоминающий заварной крем"
+      ],
+      "example": "Amo la zuppa di funghi densa e cremosa.",
+      "level": "B1",
+      "sourceId": "custardy",
+      "sourceIds": [
+        "custardy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "budino",
+      "word": "budino",
+      "en": "budino",
+      "ru": [
+        "пудинг"
+      ],
+      "example": "Ad Ariel piace il budino di riso.",
+      "level": "B1",
+      "sourceId": "pudding",
+      "sourceIds": [
+        "pudding"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polpetta",
+      "word": "polpetta",
+      "en": "polpetta",
+      "ru": [
+        "котлета",
+        "пирожок"
+      ],
+      "example": "Evidentemente aveva le polpette davanti agli occhi.",
+      "level": "B1",
+      "sourceId": "patty",
+      "sourceIds": [
+        "patty"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ammuffito",
+      "word": "ammuffito",
+      "en": "ammuffito",
+      "ru": [
+        "плесневелый"
+      ],
+      "example": "Qui c'è odore di umido e ammuffito.",
+      "level": "B1",
+      "sourceId": "moldy",
+      "sourceIds": [
+        "moldy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mirtillo-rosso",
+      "word": "mirtillo rosso",
+      "en": "mirtillo rosso",
+      "ru": [
+        "клюква"
+      ],
+      "example": "I mirtilli rossi sono popolari in Finlandia.",
+      "level": "B1",
+      "sourceId": "cranberry",
+      "sourceIds": [
+        "cranberry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "melanzana",
+      "word": "melanzana",
+      "en": "melanzana",
+      "ru": [
+        "баклажан"
+      ],
+      "example": "Dicono che una melanzana abbia molta nicotina.",
+      "level": "B1",
+      "sourceId": "eggplant",
+      "sourceIds": [
+        "eggplant"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ziti",
+      "word": "ziti",
+      "en": "ziti",
+      "ru": [
+        "зити (вид пасты)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ziti",
+      "sourceIds": [
+        "ziti"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "scone",
+      "word": "scone",
+      "en": "scone",
+      "ru": [
+        "скон (булочка)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "scone",
+      "sourceIds": [
+        "scone"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cappuccino",
+      "word": "cappuccino",
+      "en": "cappuccino",
+      "ru": [
+        "капучино"
+      ],
+      "example": "Gli italiani bevono solamente cappuccino la mattina.",
+      "level": "B1",
+      "sourceId": "cappuccino",
+      "sourceIds": [
+        "cappuccino"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "scremato",
+      "word": "scremato",
+      "en": "scremato",
+      "ru": [
+        "обезжиренный"
+      ],
+      "example": "A Tom non piace il latte scremato.",
+      "level": "B1",
+      "sourceId": "nonfat",
+      "sourceIds": [
+        "nonfat"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caffe",
+      "word": "caffè",
+      "en": "caffè",
+      "ru": [
+        "кафе"
+      ],
+      "example": "\"Tu vuoi un caffè?\" \"Ma per carità!\"",
+      "level": "B1",
+      "sourceId": "cafe",
+      "sourceIds": [
+        "cafe"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caffe-peaberry",
+      "word": "caffè peaberry",
+      "en": "caffè peaberry",
+      "ru": [
+        "пиберри"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peaberry",
+      "sourceIds": [
+        "peaberry"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "calzone",
+      "word": "calzone",
+      "en": "calzone",
+      "ru": [
+        "кальцоне"
+      ],
+      "example": "I miei calzoni alla zuava sono bagnati.",
+      "level": "B1",
+      "sourceId": "calzone",
+      "sourceIds": [
+        "calzone"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mozzarella",
+      "word": "mozzarella",
+      "en": "mozzarella",
+      "ru": [
+        "моцарелла"
+      ],
+      "example": "La caprese con pomodoro, mozzarella e basilico è un antipasto rinfrescante.",
+      "level": "B1",
+      "sourceId": "mozzarella",
+      "sourceIds": [
+        "mozzarella"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "filone",
+      "word": "filone",
+      "en": "filone",
+      "ru": [
+        "багет"
+      ],
+      "example": "Il self help ha generato un filone letterario.",
+      "level": "B1",
+      "sourceId": "filone",
+      "sourceIds": [
+        "filone"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "antipasto",
+      "word": "antipasto",
+      "en": "antipasto",
+      "ru": [
+        "антипасто"
+      ],
+      "example": "Che cosa le posso servire come antipasto?",
+      "level": "B1",
+      "sourceId": "antipasto",
+      "sourceIds": [
+        "antipasto"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "braciola",
+      "word": "braciola",
+      "en": "braciola",
+      "ru": [
+        "брачоле"
+      ],
+      "example": "Quante braciole di maiale avete comprato?",
+      "level": "B1",
+      "sourceId": "braciole",
+      "sourceIds": [
+        "braciole"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grappa",
+      "word": "grappa",
+      "en": "grappa",
+      "ru": [
+        "граппа"
+      ],
+      "example": "Beviti la grappa, non il cervello.",
+      "level": "B1",
+      "sourceId": "grappa",
+      "sourceIds": [
+        "grappa"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nutrimento",
+      "word": "nutrimento",
+      "en": "nutrimento",
+      "ru": [
+        "питание",
+        "пища"
+      ],
+      "example": "Le radici assorbono il nutrimento dal suolo.",
+      "level": "B1",
+      "sourceId": "nourishment",
+      "sourceIds": [
+        "nourishment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "punta-di-petto",
+      "word": "punta di petto",
+      "en": "punta di petto",
+      "ru": [
+        "грудинка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brisket",
+      "sourceIds": [
+        "brisket"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "latticini",
+      "word": "latticini",
+      "en": "latticini",
+      "ru": [
+        "молочные продукты"
+      ],
+      "example": "Dove si trova la corsia dei latticini?",
+      "level": "B1",
+      "sourceId": "dairy",
+      "sourceIds": [
+        "dairy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

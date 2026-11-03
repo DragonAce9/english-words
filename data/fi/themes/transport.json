@@ -1,0 +1,4814 @@
+{
+  "id": "transport",
+  "title": "Транспорт",
+  "paid": true,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "lentokentta",
+      "word": "lentokenttä",
+      "en": "lentokenttä",
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "example": "Lentokentällä oli satoja takseja, kaikki asiakkaiden perässä.",
+      "level": "A2",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lippu",
+      "word": "lippu",
+      "en": "lippu",
+      "ru": [
+        "билет",
+        "лицензия",
+        "разрешение"
+      ],
+      "example": "Ehkä Tomilla ei ollut varaa ostaa lippua.",
+      "level": "B1",
+      "sourceId": "ticket",
+      "sourceIds": [
+        "ticket"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lahto",
+      "word": "lähtö",
+      "en": "lähtö",
+      "ru": [
+        "отправление",
+        "вылет",
+        "отклонение"
+      ],
+      "example": "Alkoi sataa juuri kun olin lähdössä kotoa.",
+      "level": "B2",
+      "sourceId": "departure",
+      "sourceIds": [
+        "departure"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saapuminen",
+      "word": "saapuminen",
+      "en": "saapuminen",
+      "ru": [
+        "прибытие",
+        "приезд",
+        "прилёт"
+      ],
+      "example": "Hän kuoli kaksi päivää saapumisensa jälkeen.",
+      "level": "B2",
+      "sourceId": "arrival",
+      "sourceIds": [
+        "arrival"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kartta",
+      "word": "kartta",
+      "en": "kartta",
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "example": "En kykene edes sijoittamaan Saksaa kartalle. Häpeä!",
+      "level": "A1",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "onnettomuus",
+      "word": "onnettomuus",
+      "en": "onnettomuus",
+      "ru": [
+        "ДТП",
+        "ч. п",
+        "авария"
+      ],
+      "example": "Ellemme olisi joutuneet onnettomuuteen olisimme olleet ajoissa.",
+      "level": "B1",
+      "sourceId": "accident",
+      "sourceIds": [
+        "accident"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sattumalta",
+      "word": "sattumalta",
+      "en": "sattumalta",
+      "ru": [
+        "неожиданный",
+        "случайный"
+      ],
+      "example": "Asun Länsi-Japanissa ja olin sattumalta Tokiossa silloin.",
+      "level": "C2",
+      "sourceId": "accidental",
+      "sourceIds": [
+        "accidental"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lentokone",
+      "word": "lentokone",
+      "en": "lentokone",
+      "ru": [
+        "самолёт",
+        "летательный аппарат",
+        "воздушное судно"
+      ],
+      "example": "Auto, lentokone ja tietokone ovat kaikki koneita.",
+      "level": "B1",
+      "sourceId": "aircraft",
+      "sourceIds": [
+        "aircraft"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lentoyhtio",
+      "word": "lentoyhtiö",
+      "en": "lentoyhtiö",
+      "ru": [
+        "авиакомпания",
+        "авиалинии",
+        "авиапредприятие"
+      ],
+      "example": "Hän sai työpaikan maan suurimmasta lentoyhtiöstä.",
+      "level": "B1",
+      "sourceId": "airline",
+      "sourceIds": [
+        "airline"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matkustajalentokone",
+      "word": "matkustajalentokone",
+      "en": "matkustajalentokone",
+      "ru": [
+        "авиалайнер",
+        "воздушный лайнер",
+        "пассажирский самолёт"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "airliner",
+      "sourceIds": [
+        "airliner"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "lentokone",
+      "word": "lentokone",
+      "en": "lentokone",
+      "ru": [
+        "самолёт",
+        "аэроплан"
+      ],
+      "example": "Auto, lentokone ja tietokone ovat kaikki koneita.",
+      "level": "C1",
+      "sourceId": "airplane",
+      "sourceIds": [
+        "airplane"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "auto",
+      "word": "auto-",
+      "en": "auto-",
+      "ru": [
+        "самоходный",
+        "авто",
+        "автомобильный"
+      ],
+      "example": "Asema on täältä kymmenen minuutin päässä autolla.",
+      "level": "A2",
+      "sourceId": "automotive",
+      "sourceIds": [
+        "automotive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ilmailu",
+      "word": "ilmailu",
+      "en": "ilmailu",
+      "ru": [
+        "авиация",
+        "воздухоплавание"
+      ],
+      "example": "Tuliperäinen tuhka pysäytti ilmailun.",
+      "level": "B2",
+      "sourceId": "aviation",
+      "sourceIds": [
+        "aviation"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vyo",
+      "word": "vyö",
+      "en": "vyö",
+      "ru": [
+        "ремень",
+        "пояс"
+      ],
+      "example": "Onko tuo vyö, jonka annoin sinulle?",
+      "level": "A2",
+      "sourceId": "belt",
+      "sourceIds": [
+        "belt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pyora",
+      "word": "pyörä",
+      "en": "pyörä",
+      "ru": [
+        "велосипед",
+        "велик",
+        "педалировать"
+      ],
+      "example": "En usko Tomin haluavan sinun vanhaa pyörääsi.",
+      "level": "C1",
+      "sourceId": "bicycle",
+      "sourceIds": [
+        "bicycle"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pyora",
+      "word": "pyörä",
+      "en": "pyörä",
+      "ru": [
+        "велосипед",
+        "мотоцикл",
+        "велик"
+      ],
+      "example": "En usko Tomin haluavan sinun vanhaa pyörääsi.",
+      "level": "B1",
+      "sourceId": "bike",
+      "sourceIds": [
+        "bike"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vene",
+      "word": "vene",
+      "en": "vene",
+      "ru": [
+        "лодка",
+        "бот",
+        "ладья"
+      ],
+      "example": "Sinun pitäisi pukea pelastusliivit, milloin menet veneeseen.",
+      "level": "B1",
+      "sourceId": "boat",
+      "sourceIds": [
+        "boat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jarruttaa",
+      "word": "jarruttaa",
+      "en": "jarruttaa",
+      "ru": [
+        "тормоз",
+        "тормозить",
+        "затормозить"
+      ],
+      "example": "Hän ei jarruttanut ajoissa ja törmäsi puuhun.",
+      "level": "B2",
+      "sourceId": "brake",
+      "sourceIds": [
+        "brake"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jarrutus",
+      "word": "jarrutus",
+      "en": "jarrutus",
+      "ru": [
+        "торможение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "braking",
+      "sourceIds": [
+        "braking"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "silta",
+      "word": "silta",
+      "en": "silta",
+      "ru": [
+        "мост"
+      ],
+      "example": "He sysäsivät hänen ruumiinsa sillalta alas veteen.",
+      "level": "B1",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bussi",
+      "word": "bussi",
+      "en": "bussi",
+      "ru": [
+        "автобус"
+      ],
+      "example": "En haluaisi hoputtaa, mutta noustaan seuraavaan bussiin.",
+      "level": "A2",
+      "sourceId": "bus",
+      "sourceIds": [
+        "bus"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mokki",
+      "word": "mökki",
+      "en": "mökki",
+      "ru": [
+        "домик",
+        "лачуга",
+        "хижина"
+      ],
+      "example": "\"Mitä ajattelit tehdä juhannuksena?\" \"Menen mökille Hankoon.\"",
+      "level": "C1",
+      "sourceId": "cabin",
+      "sourceIds": [
+        "cabin"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kapteeni",
+      "word": "kapteeni",
+      "en": "kapteeni",
+      "ru": [
+        "капитан"
+      ],
+      "example": "Kapteeni on vastuussa laivastaan ja sen miehistöstä.",
+      "level": "B2",
+      "sourceId": "captain",
+      "sourceIds": [
+        "captain"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "auto",
+      "word": "auto",
+      "en": "auto",
+      "ru": [
+        "авто",
+        "автомашина",
+        "автомобиль"
+      ],
+      "example": "Asema on täältä kymmenen minuutin päässä autolla.",
+      "level": "A1",
+      "sourceId": "car",
+      "sourceIds": [
+        "car"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaunut",
+      "word": "vaunut",
+      "en": "vaunut",
+      "ru": [
+        "карета",
+        "воз",
+        "повозка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "carriage",
+      "sourceIds": [
+        "carriage"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ajorata",
+      "word": "ajorata",
+      "en": "ajorata",
+      "ru": [
+        "проезжая часть"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "carriageway",
+      "sourceIds": [
+        "carriageway"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vaunut",
+      "word": "vaunut",
+      "en": "vaunut",
+      "ru": [
+        "дилижанс",
+        "карета",
+        "коляска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "coach",
+      "sourceIds": [
+        "coach"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kompassi",
+      "word": "kompassi",
+      "en": "kompassi",
+      "ru": [
+        "буссоль",
+        "компас",
+        "диапазон"
+      ],
+      "example": "Minulta puuttuu suuntavaisto. Siksi matkustan aina kompassi mukana.",
+      "level": "C2",
+      "sourceId": "compass",
+      "sourceIds": [
+        "compass"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolari",
+      "word": "kolari",
+      "en": "kolari",
+      "ru": [
+        "грохот",
+        "треск",
+        "авария"
+      ],
+      "example": "Ajaminen liukkaalla tiellä voi johtaa kolariin.",
+      "level": "B2",
+      "sourceId": "crash",
+      "sourceIds": [
+        "crash"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miehisto",
+      "word": "miehistö",
+      "en": "miehistö",
+      "ru": [
+        "бригада",
+        "коллектив",
+        "команда"
+      ],
+      "example": "Kapteeni on vastuussa laivastaan ja sen miehistöstä.",
+      "level": "B1",
+      "sourceId": "crew",
+      "sourceIds": [
+        "crew"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "suojatie",
+      "word": "suojatie",
+      "en": "suojatie",
+      "ru": [
+        "пешеходный переход"
+      ],
+      "example": "Eilen tässä suojatiellä yksi jalankulkija jäi rekan alle.",
+      "level": "C2",
+      "sourceId": "crosswalk",
+      "sourceIds": [
+        "crosswalk"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "risteily",
+      "word": "risteily",
+      "en": "risteily",
+      "ru": [
+        "круиз",
+        "морское путешествие",
+        "плавание"
+      ],
+      "example": "Me tapasimme risteilyllä.",
+      "level": "B1",
+      "sourceId": "cruise",
+      "sourceIds": [
+        "cruise"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "risteilija",
+      "word": "risteilijä",
+      "en": "risteilijä",
+      "ru": [
+        "крейсер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cruiser",
+      "sourceIds": [
+        "cruiser"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kierros",
+      "word": "kierros",
+      "en": "kierros",
+      "ru": [
+        "цикл",
+        "оборот",
+        "ездить на велосипеде"
+      ],
+      "example": "Tämän jälkeen pelataan vielä tasoittava kierros.",
+      "level": "B1",
+      "sourceId": "cycle",
+      "sourceIds": [
+        "cycle"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pyoraily",
+      "word": "pyöräily",
+      "en": "pyöräily",
+      "ru": [
+        "езда на велосипеде",
+        "велоезда",
+        "велосипедный спорт"
+      ],
+      "example": "Pyöräily on hyvää kuntoilua. Ja lisäksi se ei saastuta ilmaa.",
+      "level": "B2",
+      "sourceId": "cycling",
+      "sourceIds": [
+        "cycling"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viivastys",
+      "word": "viivästys",
+      "en": "viivästys",
+      "ru": [
+        "задержка",
+        "опоздание",
+        "промедление"
+      ],
+      "example": "Jokainen reportteri lähetti juttunsa vähimmällä mahdollisella viivästyksellä.",
+      "level": "B1",
+      "sourceId": "delay",
+      "sourceIds": [
+        "delay"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diesel",
+      "word": "diesel",
+      "en": "diesel",
+      "ru": [
+        "дизель",
+        "дизельное топливо",
+        "солярка"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "diesel",
+      "sourceIds": [
+        "diesel"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "suunta",
+      "word": "suunta",
+      "en": "suunta",
+      "ru": [
+        "направление",
+        "режиссура",
+        "руководство"
+      ],
+      "example": "He ilmaisevat ruoan etäisyyden ja suunnan tanssimalla.",
+      "level": "B1",
+      "sourceId": "direction",
+      "sourceIds": [
+        "direction"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ajaa",
+      "word": "ajaa",
+      "en": "ajaa",
+      "ru": [
+        "водить"
+      ],
+      "example": "Auto jota hän ajaa, ei ole hänen.",
+      "level": "A1",
+      "sourceId": "drive",
+      "sourceIds": [
+        "drive"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuski",
+      "word": "kuski",
+      "en": "kuski",
+      "ru": [
+        "водитель",
+        "водительница",
+        "погонщик"
+      ],
+      "example": "Jos Tomi on kuskina, kieltäydyn nousemasta kyytiin.",
+      "level": "A2",
+      "sourceId": "driver",
+      "sourceIds": [
+        "driver"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vetava",
+      "word": "vetävä",
+      "en": "vetävä",
+      "ru": [
+        "движущий",
+        "приводной",
+        "вождение"
+      ],
+      "example": "Veri ja väkivalta vetävät heitä puoleensa.",
+      "level": "B1",
+      "sourceId": "driving",
+      "sourceIds": [
+        "driving"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moottori",
+      "word": "moottori",
+      "en": "moottori",
+      "ru": [
+        "мотор",
+        "двигатель"
+      ],
+      "example": "Kun Tom pysäytti stop-merkin eteen, moottori sammui.",
+      "level": "A2",
+      "sourceId": "engine",
+      "sourceIds": [
+        "engine"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "insinoori",
+      "word": "insinööri",
+      "en": "insinööri",
+      "ru": [
+        "инженер",
+        "машинист",
+        "инженерка"
+      ],
+      "example": "Jotkut heistä ovat opettajia, jotkut insinöörejä.",
+      "level": "B1",
+      "sourceId": "engineer",
+      "sourceIds": [
+        "engineer"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ajomaksu",
+      "word": "ajomaksu",
+      "en": "ajomaksu",
+      "ru": [
+        "плата за проезд",
+        "стоимость проезда",
+        "тариф"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "fare",
+      "sourceIds": [
+        "fare"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "nopea",
+      "word": "nopea",
+      "en": "nopea",
+      "ru": [
+        "крепкий",
+        "прочный",
+        "скорый"
+      ],
+      "example": "Autosi on nopea, mutta minun on nopeampi.",
+      "level": "A2",
+      "sourceId": "fast",
+      "sourceIds": [
+        "fast"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lautta",
+      "word": "lautta",
+      "en": "lautta",
+      "ru": [
+        "паром"
+      ],
+      "example": "Hän matkustaa yleensä lautalla Helsingin ja Tukholman välin.",
+      "level": "B2",
+      "sourceId": "ferry",
+      "sourceIds": [
+        "ferry",
+        "ferryboat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polttoaine",
+      "word": "polttoaine",
+      "en": "polttoaine",
+      "ru": [
+        "горючее",
+        "топливо"
+      ],
+      "example": "Koska Tuomaalta loppui polttoaine, myöhästyi hän tapaamisesta.",
+      "level": "B1",
+      "sourceId": "fuel",
+      "sourceIds": [
+        "fuel"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autotalli",
+      "word": "autotalli",
+      "en": "autotalli",
+      "ru": [
+        "гараж",
+        "станция техобслуживания",
+        "автосервис"
+      ],
+      "example": "Todella arvostan tarjoustasi auttaa minua siivoamaan autotallini.",
+      "level": "B2",
+      "sourceId": "garage",
+      "sourceIds": [
+        "garage"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bensa",
+      "word": "bensa",
+      "en": "bensa",
+      "ru": [
+        "бензин",
+        "топливо"
+      ],
+      "example": "Koska Tuomaalta loppui bensa, myöhästyi hän tapaamisesta.",
+      "level": "A2",
+      "sourceId": "gas",
+      "sourceIds": [
+        "gas"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "satama",
+      "word": "satama",
+      "en": "satama",
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "example": "Laiva saapui satamaan mukanaan jättikokoisia metallisia laatikoita.",
+      "level": "B2",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "helikopteri",
+      "word": "helikopteri",
+      "en": "helikopteri",
+      "ru": [
+        "вертолёт",
+        "геликоптер"
+      ],
+      "example": "Laserosoittimella ei saa ikinä osoittaa lentokoneeseen tai helikopteriin.",
+      "level": "C1",
+      "sourceId": "helicopter",
+      "sourceIds": [
+        "helicopter"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kypara",
+      "word": "kypärä",
+      "en": "kypärä",
+      "ru": [
+        "шлем",
+        "каска",
+        "шелом"
+      ],
+      "example": "Sinun pitäisi käyttää kypärää, kun ajat moottoripyörällä.",
+      "level": "C1",
+      "sourceId": "helmet",
+      "sourceIds": [
+        "helmet"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valtatie",
+      "word": "valtatie",
+      "en": "valtatie",
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "example": "Valtatien varrelle rakennettiin valli suojaamaan läheisiä taloja melulta.",
+      "level": "B1",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maantierosvo",
+      "word": "maantierosvo",
+      "en": "maantierosvo",
+      "ru": [
+        "разбойник с большой дороги"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "highwayman",
+      "sourceIds": [
+        "highwayman"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "risteys",
+      "word": "risteys",
+      "en": "risteys",
+      "ru": [
+        "перекрёсток",
+        "пересечение"
+      ],
+      "example": "Kolme moottoripyöräilijää on kuollut tässä risteyksessä tänä vuonna.",
+      "level": "C1",
+      "sourceId": "intersection",
+      "sourceIds": [
+        "intersection"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matka",
+      "word": "matka",
+      "en": "matka",
+      "ru": [
+        "путешествие",
+        "вояж",
+        "поездка"
+      ],
+      "example": "Elämä on se, mikä tapahtuu matkan aikana.",
+      "level": "B1",
+      "sourceId": "journey",
+      "sourceIds": [
+        "journey"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuja",
+      "word": "kuja",
+      "en": "kuja",
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "example": "Kylä oli sekamelska likaisia ja pimeitä kujia.",
+      "level": "B1",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ajokortti",
+      "word": "ajokortti",
+      "en": "ajokortti",
+      "ru": [
+        "лицензия",
+        "разрешение",
+        "удостоверение"
+      ],
+      "example": "Hän ei ole tarpeeksi vanha saadakseen ajokortin.",
+      "level": "A2",
+      "sourceId": "license",
+      "sourceIds": [
+        "license"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kone",
+      "word": "kone",
+      "en": "kone",
+      "ru": [
+        "машина",
+        "аппарат",
+        "машинка"
+      ],
+      "example": "Aivot ovat kone, jolla ajattelemme, että ajattelemme.",
+      "level": "A2",
+      "sourceId": "machine",
+      "sourceIds": [
+        "machine"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "koneisto",
+      "word": "koneisto",
+      "en": "koneisto",
+      "ru": [
+        "машина",
+        "оборудование",
+        "механизм"
+      ],
+      "example": "Koneistossa on jossain kohtaa varmasti vikaa.",
+      "level": "B2",
+      "sourceId": "machinery",
+      "sourceIds": [
+        "machinery"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuvaus",
+      "word": "kuvaus",
+      "en": "kuvaus",
+      "ru": [
+        "отображение"
+      ],
+      "example": "Bijektiivinen kuvaus on sekä injektiivinen että surjektiivinen.",
+      "level": "B1",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moottori",
+      "word": "moottori",
+      "en": "moottori",
+      "ru": [
+        "двигатель",
+        "автомобильный",
+        "моторный"
+      ],
+      "example": "Kun Tom pysäytti stop-merkin eteen, moottori sammui.",
+      "level": "A2",
+      "sourceId": "motor",
+      "sourceIds": [
+        "motor"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moottoripyora",
+      "word": "moottoripyörä",
+      "en": "moottoripyörä",
+      "ru": [
+        "мотоцикл"
+      ],
+      "example": "En osaa ajaa moottoripyörää, vielä vähemmän autoa.",
+      "level": "B2",
+      "sourceId": "motorcycle",
+      "sourceIds": [
+        "motorcycle",
+        "motorbike"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moottoritie",
+      "word": "moottoritie",
+      "en": "moottoritie",
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "example": "Ammottava aukko on muodostunut keskelle moottoritietä.",
+      "level": "C2",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "navigointi",
+      "word": "navigointi",
+      "en": "navigointi",
+      "ru": [
+        "навигация",
+        "судоходство",
+        "мореплавание"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "navigation",
+      "sourceIds": [
+        "navigation"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "navigointi",
+      "word": "navigointi-",
+      "en": "navigointi-",
+      "ru": [
+        "навигационный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "navigational",
+      "sourceIds": [
+        "navigational"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "puisto",
+      "word": "puisto",
+      "en": "puisto",
+      "ru": [
+        "парк",
+        "парковать",
+        "ставить на парковку"
+      ],
+      "example": "Huomenna mennään pussikaljalle puistoon, satoi tai paistoi.",
+      "level": "A1",
+      "sourceId": "park",
+      "sourceIds": [
+        "park"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pysakointipaikka",
+      "word": "pysäköintipaikka",
+      "en": "pysäköintipaikka",
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "matkustaja",
+      "word": "matkustaja",
+      "en": "matkustaja",
+      "ru": [
+        "пассажир",
+        "пассажирка"
+      ],
+      "example": "Hän näytti matkustajille kuinka heidän turvavyönsä kiinnitetään.",
+      "level": "B2",
+      "sourceId": "passenger",
+      "sourceIds": [
+        "passenger"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jalankulkija",
+      "word": "jalankulkija",
+      "en": "jalankulkija",
+      "ru": [
+        "пешеход"
+      ],
+      "example": "Eilen tässä suojatiellä yksi jalankulkija jäi rekan alle.",
+      "level": "C2",
+      "sourceId": "pedestrian",
+      "sourceIds": [
+        "pedestrian"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kavelykatualueeksi-muuttaminen",
+      "word": "kävelykatualueeksi muuttaminen",
+      "en": "kävelykatualueeksi muuttaminen",
+      "ru": [
+        "пешеходизация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "pedestrianization",
+      "sourceIds": [
+        "pedestrianization"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "lentaja",
+      "word": "lentäjä",
+      "en": "lentäjä",
+      "ru": [
+        "пилот",
+        "летчик"
+      ],
+      "example": "Hetken empiminen voi maksaa lentäjälle hänen henkensä.",
+      "level": "B1",
+      "sourceId": "pilot",
+      "sourceIds": [
+        "pilot"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lentokone",
+      "word": "lentokone",
+      "en": "lentokone",
+      "ru": [
+        "самолёт"
+      ],
+      "example": "Auto, lentokone ja tietokone ovat kaikki koneita.",
+      "level": "B1",
+      "sourceId": "plane",
+      "sourceIds": [
+        "plane",
+        "aeroplane"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laituri",
+      "word": "laituri",
+      "en": "laituri",
+      "ru": [
+        "перрон",
+        "платформа",
+        "подиум"
+      ],
+      "example": "Laiva ei ole vielä edes kiinnittynyt laituriin.",
+      "level": "B1",
+      "sourceId": "platform",
+      "sourceIds": [
+        "platform"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "satama",
+      "word": "satama",
+      "en": "satama",
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "example": "Laiva saapui satamaan mukanaan jättikokoisia metallisia laatikoita.",
+      "level": "A2",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kantaja",
+      "word": "kantaja",
+      "en": "kantaja",
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "example": "Se oli synty Väinämöisen, rotu rohkean runojan kapehesta kantajasta, Ilmattaresta emosta.",
+      "level": "C1",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rautatie",
+      "word": "rautatie",
+      "en": "rautatie",
+      "ru": [
+        "железнодорожный путь",
+        "колея",
+        "железная дорога"
+      ],
+      "example": "Rautateiden verkosto levittäytyi pian yli koko maan.",
+      "level": "B2",
+      "sourceId": "railway",
+      "sourceIds": [
+        "railway"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rautatielainen",
+      "word": "rautatieläinen",
+      "en": "rautatieläinen",
+      "ru": [
+        "железнодорожник"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "railwayman",
+      "sourceIds": [
+        "railwayman"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ajelu",
+      "word": "ajelu",
+      "en": "ajelu",
+      "ru": [
+        "тачка",
+        "езда",
+        "катание"
+      ],
+      "example": "Onpa tänään hyvä ilma. Mentäisiinkö jonnekin ajelulle?",
+      "level": "B1",
+      "sourceId": "ride",
+      "sourceIds": [
+        "ride"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reitti",
+      "word": "reitti",
+      "en": "reitti",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "example": "Anteeksi, voitko sinä kertoa reitin Central parkiin?",
+      "level": "A1",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kierteleva",
+      "word": "kiertelevä",
+      "en": "kiertelevä",
+      "ru": [
+        "окольный",
+        "кружный",
+        "непрямой"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "roundabout",
+      "sourceIds": [
+        "roundabout"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "reitti",
+      "word": "reitti",
+      "en": "reitti",
+      "ru": [
+        "путь",
+        "курс",
+        "дорога"
+      ],
+      "example": "Anteeksi, voitko sinä kertoa reitin Central parkiin?",
+      "level": "B1",
+      "sourceId": "route",
+      "sourceIds": [
+        "route"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reititys",
+      "word": "reititys",
+      "en": "reititys",
+      "ru": [
+        "маршрутизация"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "routing",
+      "sourceIds": [
+        "routing"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kiitorata",
+      "word": "kiitorata",
+      "en": "kiitorata",
+      "ru": [
+        "взлетно-посадочная полоса"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "runway",
+      "sourceIds": [
+        "runway"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "purje",
+      "word": "purje",
+      "en": "purje",
+      "ru": [
+        "парус"
+      ],
+      "example": "Purjelentokoneessa ei ole konetta eikä purjetta.",
+      "level": "C1",
+      "sourceId": "sail",
+      "sourceIds": [
+        "sail"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "purjehdus",
+      "word": "purjehdus",
+      "en": "purjehdus",
+      "ru": [
+        "парусный спорт"
+      ],
+      "example": "Laiva on purjehduksella kohti Intiaa.",
+      "level": "B2",
+      "sourceId": "sailing",
+      "sourceIds": [
+        "sailing"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potkulauta",
+      "word": "potkulauta",
+      "en": "potkulauta",
+      "ru": [
+        "самокат",
+        "мотороллер",
+        "скутер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "scooter",
+      "sourceIds": [
+        "scooter"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "istuin",
+      "word": "istuin",
+      "en": "istuin",
+      "ru": [
+        "седалище",
+        "сиденье",
+        "место"
+      ],
+      "example": "Huomasin tuolin olevan mukavan, kun istuin siinä.",
+      "level": "B1",
+      "sourceId": "seat",
+      "sourceIds": [
+        "seat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laiva",
+      "word": "laiva",
+      "en": "laiva",
+      "ru": [
+        "корабль",
+        "судно",
+        "пароход"
+      ],
+      "example": "He astuivat Southamptonissa New Yorkiin menevään laivaan.",
+      "level": "A2",
+      "sourceId": "ship",
+      "sourceIds": [
+        "ship"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rahdinantaja",
+      "word": "rahdinantaja",
+      "en": "rahdinantaja",
+      "ru": [
+        "грузоотправитель",
+        "отправитель",
+        "товароотправитель"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "shipper",
+      "sourceIds": [
+        "shipper"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "toimitus",
+      "word": "toimitus",
+      "en": "toimitus",
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "example": "Meillä on kaksi toimitusta joka päivä.",
+      "level": "A1",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "katukaytava",
+      "word": "katukäytävä",
+      "en": "katukäytävä",
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "hidas",
+      "word": "hidas",
+      "en": "hidas",
+      "ru": [
+        "медленный",
+        "замедлять"
+      ],
+      "example": "Hitaat oppijat eivät usein halua mennä kouluun.",
+      "level": "B1",
+      "sourceId": "slow",
+      "sourceIds": [
+        "slow"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hitaasti",
+      "word": "hitaasti",
+      "en": "hitaasti",
+      "ru": [
+        "медленно"
+      ],
+      "example": "Anteeksi, voisitko sanoa tuon vielä kerran hitaasti.",
+      "level": "B2",
+      "sourceId": "slowly",
+      "sourceIds": [
+        "slowly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nopeus",
+      "word": "nopeus",
+      "en": "nopeus",
+      "ru": [
+        "скорость"
+      ],
+      "example": "Auton nopeusmittari näyttää senhetkisen nopeuden, ei keskinopeutta.",
+      "level": "A2",
+      "sourceId": "speed",
+      "sourceIds": [
+        "speed"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ylinopeus",
+      "word": "ylinopeus",
+      "en": "ylinopeus",
+      "ru": [
+        "превышение скорости"
+      ],
+      "example": "Tomi ajoi 50 km/h ylinopeutta poliisin pysäyttäessä hänet.",
+      "level": "C2",
+      "sourceId": "speeding",
+      "sourceIds": [
+        "speeding"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asema",
+      "word": "asema",
+      "en": "asema",
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "example": "Anteeksi, voisitko kertoa minulle miten pääsen asemalle?",
+      "level": "A2",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "liikkumaton",
+      "word": "liikkumaton",
+      "en": "liikkumaton",
+      "ru": [
+        "неподвижный",
+        "стационарный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stationary",
+      "sourceIds": [
+        "stationary"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "asemapaallikko",
+      "word": "asemapäällikkö",
+      "en": "asemapäällikkö",
+      "ru": [
+        "начальник станции"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pysayttaa",
+      "word": "pysäyttää",
+      "en": "pysäyttää",
+      "ru": [
+        "останавливать",
+        "прекращать"
+      ],
+      "example": "Kun Tom pysäytti stop-merkin eteen, moottori sammui.",
+      "level": "A1",
+      "sourceId": "stop",
+      "sourceIds": [
+        "stop"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "katu",
+      "word": "katu",
+      "en": "katu",
+      "ru": [
+        "улица"
+      ],
+      "example": "Hän ei halunnut pysäköidä uutta autoaan kadulle.",
+      "level": "A1",
+      "sourceId": "street",
+      "sourceIds": [
+        "street"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "metro",
+      "word": "metro",
+      "en": "metro",
+      "ru": [
+        "метро",
+        "метрополитен",
+        "подземка"
+      ],
+      "example": "Briteissä metrosta käytetään nimitystä ”underground”, ei ”subway”.",
+      "level": "C2",
+      "sourceId": "subway",
+      "sourceIds": [
+        "subway"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taksi",
+      "word": "taksi",
+      "en": "taksi",
+      "ru": [
+        "такси",
+        "таксомотор"
+      ],
+      "example": "Lentokentällä oli satoja takseja, kaikki asiakkaiden perässä.",
+      "level": "C1",
+      "sourceId": "taxi",
+      "sourceIds": [
+        "taxi"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maksu",
+      "word": "maksu",
+      "en": "maksu",
+      "ru": [
+        "плата",
+        "пошлина",
+        "сбор"
+      ],
+      "example": "Maksu sisältää myös tutkimuksen tekemiseen tarvittavien erikoisosaamispalveluiden kulut.",
+      "level": "B1",
+      "sourceId": "toll",
+      "sourceIds": [
+        "toll"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rata",
+      "word": "rata",
+      "en": "rata",
+      "ru": [
+        "колея",
+        "железнодорожный путь"
+      ],
+      "example": "Radan päätepysäkki eli viimeinen pysäkki on Pori, ruotsiksi Björneborg.",
+      "level": "A1",
+      "sourceId": "track",
+      "sourceIds": [
+        "track"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "liikenne",
+      "word": "liikenne",
+      "en": "liikenne",
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "example": "Kolme uutta postimerkkiä laskettiin liikenteeseen viime kuussa.",
+      "level": "A2",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "juna",
+      "word": "juna",
+      "en": "juna",
+      "ru": [
+        "поезд",
+        "вереница",
+        "караван"
+      ],
+      "example": "Bill nousi ylös aikaisin ehtiäkseen ensimmäiseen junaan.",
+      "level": "B1",
+      "sourceId": "train",
+      "sourceIds": [
+        "train"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "raitiovaunu",
+      "word": "raitiovaunu",
+      "en": "raitiovaunu",
+      "ru": [
+        "трамвай",
+        "вагонетка"
+      ],
+      "example": "Kummalla menet mieluummin, metrolla vai raitiovaunulla?",
+      "level": "C2",
+      "sourceId": "tram",
+      "sourceIds": [
+        "tram"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kauttakulku",
+      "word": "kauttakulku",
+      "en": "kauttakulku",
+      "ru": [
+        "переход",
+        "транзит",
+        "перевозка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transit",
+      "sourceIds": [
+        "transit"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "muutos",
+      "word": "muutos",
+      "en": "muutos",
+      "ru": [
+        "переход",
+        "превращение",
+        "транзиция"
+      ],
+      "example": "Ihmiset yleisesti toivovat suuria muutoksia nykytilanteen valossa.",
+      "level": "B1",
+      "sourceId": "transition",
+      "sourceIds": [
+        "transition"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valiaikainen",
+      "word": "väliaikainen",
+      "en": "väliaikainen",
+      "ru": [
+        "переходный",
+        "первоначальный"
+      ],
+      "example": "Toivon, että se on vain väliaikainen ongelma.",
+      "level": "C2",
+      "sourceId": "transitional",
+      "sourceIds": [
+        "transitional"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transitiivinen",
+      "word": "transitiivinen",
+      "en": "transitiivinen",
+      "ru": [
+        "переходный"
+      ],
+      "example": "Se on transitiivinen verbi.",
+      "level": "C2",
+      "sourceId": "transitive",
+      "sourceIds": [
+        "transitive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transitiivisuus",
+      "word": "transitiivisuus",
+      "en": "transitiivisuus",
+      "ru": [
+        "переходность",
+        "транзитивность"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "transitivity",
+      "sourceIds": [
+        "transitivity"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "valiaikainen",
+      "word": "väliaikainen",
+      "en": "väliaikainen",
+      "ru": [
+        "временный",
+        "кратковременный",
+        "мимолётный"
+      ],
+      "example": "Toivon, että se on vain väliaikainen ongelma.",
+      "level": "C2",
+      "sourceId": "transitory",
+      "sourceIds": [
+        "transitory"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuljetus",
+      "word": "kuljetus",
+      "en": "kuljetus",
+      "ru": [
+        "перевозка",
+        "транспортировка",
+        "транспорт"
+      ],
+      "example": "Jäänmurtajia käytetään rahdin kuljetukseen ja jäänmurtoon.",
+      "level": "A2",
+      "sourceId": "transport",
+      "sourceIds": [
+        "transport"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuljetus",
+      "word": "kuljetus",
+      "en": "kuljetus",
+      "ru": [
+        "транспорт",
+        "перевозка",
+        "переправка"
+      ],
+      "example": "Jäänmurtajia käytetään rahdin kuljetukseen ja jäänmurtoon.",
+      "level": "A2",
+      "sourceId": "transportation",
+      "sourceIds": [
+        "transportation"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matkustaa",
+      "word": "matkustaa",
+      "en": "matkustaa",
+      "ru": [
+        "путешествовать"
+      ],
+      "example": "Jos voitat tämän kilpailun, tulet matkustamaan Ruotsiin.",
+      "level": "A1",
+      "sourceId": "travel",
+      "sourceIds": [
+        "travel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matkustaja",
+      "word": "matkustaja",
+      "en": "matkustaja",
+      "ru": [
+        "путник",
+        "путница",
+        "путешественник"
+      ],
+      "example": "Hän näytti matkustajille kuinka heidän turvavyönsä kiinnitetään.",
+      "level": "C1",
+      "sourceId": "traveller",
+      "sourceIds": [
+        "traveller"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matkustaminen",
+      "word": "matkustaminen",
+      "en": "matkustaminen",
+      "ru": [
+        "путешествие"
+      ],
+      "example": "Ei ole mitään niin mukavaa kuin yksin matkustaminen.",
+      "level": "C1",
+      "sourceId": "travelling",
+      "sourceIds": [
+        "travelling"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matka",
+      "word": "matka",
+      "en": "matka",
+      "ru": [
+        "путешествие",
+        "поездка",
+        "спотыкание"
+      ],
+      "example": "Elämä on se, mikä tapahtuu matkan aikana.",
+      "level": "A2",
+      "sourceId": "trip",
+      "sourceIds": [
+        "trip"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rekka",
+      "word": "rekka",
+      "en": "rekka",
+      "ru": [
+        "грузовик",
+        "грузовая машина",
+        "грузовой автомобиль"
+      ],
+      "example": "Hän ajoi sivuun jotta rekka pääsi ohi.",
+      "level": "B1",
+      "sourceId": "truck",
+      "sourceIds": [
+        "truck"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tavaratila",
+      "word": "tavaratila",
+      "en": "tavaratila",
+      "ru": [
+        "багажник"
+      ],
+      "example": "Voivatko nämä molemmat matkalaukut olla tavaratilassa?",
+      "level": "B2",
+      "sourceId": "trunk",
+      "sourceIds": [
+        "trunk"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tunneli",
+      "word": "tunneli",
+      "en": "tunneli",
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "example": "Junamme ajoi pitkän tunnelin läpi.",
+      "level": "B2",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pakettiauto",
+      "word": "pakettiauto",
+      "en": "pakettiauto",
+      "ru": [
+        "вэн",
+        "фура",
+        "фургон"
+      ],
+      "example": "Se sala-ampuja on ajamassa valkoisella pakettiautolla.",
+      "level": "A2",
+      "sourceId": "van",
+      "sourceIds": [
+        "van"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ajoneuvo",
+      "word": "ajoneuvo",
+      "en": "ajoneuvo",
+      "ru": [
+        "перевозочное средство",
+        "транспортное средство",
+        "средство передачи"
+      ],
+      "example": "Ajoneuvo, jota hän ohjaa, ei ole hänen.",
+      "level": "A2",
+      "sourceId": "vehicle",
+      "sourceIds": [
+        "vehicle"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alus",
+      "word": "alus",
+      "en": "alus",
+      "ru": [
+        "судно",
+        "корабль"
+      ],
+      "example": "Olihan se pelkkää väärinymmärrystä alusta loppuun asti.",
+      "level": "B2",
+      "sourceId": "vessel",
+      "sourceIds": [
+        "vessel"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "karry",
+      "word": "kärry",
+      "en": "kärry",
+      "ru": [
+        "повозка",
+        "вагон",
+        "фургон"
+      ],
+      "example": "Noustuaan kärryihin prinsessa ajettiin palatsin pääsisäänkäynnille.",
+      "level": "C1",
+      "sourceId": "wagon",
+      "sourceIds": [
+        "wagon"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "karry",
+      "word": "kärry",
+      "en": "kärry",
+      "ru": [
+        "возница",
+        "извозчик"
+      ],
+      "example": "Noustuaan kärryihin prinsessa ajettiin palatsin pääsisäänkäynnille.",
+      "level": "C2",
+      "sourceId": "wagoner",
+      "sourceIds": [
+        "wagoner"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tie",
+      "word": "tie",
+      "en": "tie",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "example": "Ajajien pitää varoa lapsia, jotka ylittävät tietä.",
+      "level": "A1",
+      "sourceId": "way",
+      "sourceIds": [
+        "way"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pyora",
+      "word": "pyörä",
+      "en": "pyörä",
+      "ru": [
+        "колесо",
+        "штурвал"
+      ],
+      "example": "En usko Tomin haluavan sinun vanhaa pyörääsi.",
+      "level": "B1",
+      "sourceId": "wheel",
+      "sourceIds": [
+        "wheel"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pyorilla-varustettu",
+      "word": "pyörillä varustettu",
+      "en": "pyörillä varustettu",
+      "ru": [
+        "колёсный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "wheeled",
+      "sourceIds": [
+        "wheeled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "laskuvarjo",
+      "word": "laskuvarjo",
+      "en": "laskuvarjo",
+      "ru": [
+        "парашют"
+      ],
+      "example": "Oletko koskaan ennen hypännyt laskuvarjolla?",
+      "level": "B1",
+      "sourceId": "parachute",
+      "sourceIds": [
+        "parachute"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ohjata",
+      "word": "ohjata",
+      "en": "ohjata",
+      "ru": [
+        "управлять",
+        "направлять"
+      ],
+      "example": "Ajoneuvo, jota hän ohjaa, ei ole hänen.",
+      "level": "B1",
+      "sourceId": "steer",
+      "sourceIds": [
+        "steer"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moottoritie",
+      "word": "moottoritie",
+      "en": "moottoritie",
+      "ru": [
+        "скоростная автомагистраль"
+      ],
+      "example": "Ammottava aukko on muodostunut keskelle moottoritietä.",
+      "level": "C2",
+      "sourceId": "expressway",
+      "sourceIds": [
+        "expressway"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potkuri",
+      "word": "potkuri",
+      "en": "potkuri",
+      "ru": [
+        "пропеллер",
+        "винт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "propeller",
+      "sourceIds": [
+        "propeller"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kytkin",
+      "word": "kytkin",
+      "en": "kytkin",
+      "ru": [
+        "сцепление"
+      ],
+      "example": "Hän päästi hitaasti kytkimen ja ajoi tiehensä.",
+      "level": "B1",
+      "sourceId": "clutch",
+      "sourceIds": [
+        "clutch"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "traktori",
+      "word": "traktori",
+      "en": "traktori",
+      "ru": [
+        "трактор"
+      ],
+      "example": "Markku pääsi pian jyvälle siitä miten traktoria ajetaan.",
+      "level": "B1",
+      "sourceId": "tractor",
+      "sourceIds": [
+        "tractor"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "akseli",
+      "word": "akseli",
+      "en": "akseli",
+      "ru": [
+        "ось"
+      ],
+      "example": "Akseli Gallen-Kallelan maalaus on aivan kallellaan.",
+      "level": "B1",
+      "sourceId": "axle",
+      "sourceIds": [
+        "axle"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jousitus",
+      "word": "jousitus",
+      "en": "jousitus",
+      "ru": [
+        "подвеска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "suspension",
+      "sourceIds": [
+        "suspension"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kuorma-auto",
+      "word": "kuorma-auto",
+      "en": "kuorma-auto",
+      "ru": [
+        "грузовик"
+      ],
+      "example": "Sanoiko Tom, miksi hän halusi lainata kuorma-autoa?",
+      "level": "B1",
+      "sourceId": "lorry",
+      "sourceIds": [
+        "lorry"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haarukkatrukki",
+      "word": "haarukkatrukki",
+      "en": "haarukkatrukki",
+      "ru": [
+        "вилочный погрузчик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "forklift",
+      "sourceIds": [
+        "forklift"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "taksi",
+      "word": "taksi",
+      "en": "taksi",
+      "ru": [
+        "такси",
+        "кабина"
+      ],
+      "example": "Lentokentällä oli satoja takseja, kaikki asiakkaiden perässä.",
+      "level": "B1",
+      "sourceId": "cab",
+      "sourceIds": [
+        "cab"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polkea",
+      "word": "polkea",
+      "en": "polkea",
+      "ru": [
+        "крутить педали"
+      ],
+      "example": "Putkimies söi sieniä ja polki pieneliöitä.",
+      "level": "B1",
+      "sourceId": "pedal",
+      "sourceIds": [
+        "pedal"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kayda-tyomatkoja",
+      "word": "käydä työmatkoja",
+      "en": "käydä työmatkoja",
+      "ru": [
+        "ездить на работу",
+        "поездка на работу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "commute",
+      "sourceIds": [
+        "commute"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "u-kaannos",
+      "word": "U-käännös",
+      "en": "U-käännös",
+      "ru": [
+        "разворот"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "u-turn",
+      "sourceIds": [
+        "u-turn"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ajovalaisin",
+      "word": "ajovalaisin",
+      "en": "ajovalaisin",
+      "ru": [
+        "фара"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "headlight",
+      "sourceIds": [
+        "headlight",
+        "headlamp"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "karry",
+      "word": "kärry",
+      "en": "kärry",
+      "ru": [
+        "тележка",
+        "трамвай"
+      ],
+      "example": "Noustuaan kärryihin prinsessa ajettiin palatsin pääsisäänkäynnille.",
+      "level": "B1",
+      "sourceId": "trolley",
+      "sourceIds": [
+        "trolley"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ajoi",
+      "word": "ajoi",
+      "en": "ajoi",
+      "ru": [
+        "водить",
+        "ехать"
+      ],
+      "example": "Hän ajoi sivuun jotta rekka pääsi ohi.",
+      "level": "B1",
+      "sourceId": "drove",
+      "sourceIds": [
+        "drove"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parkkipaikka",
+      "word": "parkkipaikka",
+      "en": "parkkipaikka",
+      "ru": [
+        "парковка"
+      ],
+      "example": "Pankin edessä oleva parkkipaikka oli aivan täynnä.",
+      "level": "B1",
+      "sourceId": "carpark",
+      "sourceIds": [
+        "carpark"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hinata",
+      "word": "hinata",
+      "en": "hinata",
+      "ru": [
+        "буксировать"
+      ],
+      "example": "Autosi hinataan näillä hetkillä pois.",
+      "level": "B1",
+      "sourceId": "tow",
+      "sourceIds": [
+        "tow"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bemmi",
+      "word": "bemmi",
+      "en": "bemmi",
+      "ru": [
+        "БМВ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "beemer",
+      "sourceIds": [
+        "beemer",
+        "bmw"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "suihkukone",
+      "word": "suihkukone",
+      "en": "suihkukone",
+      "ru": [
+        "реактивный самолет"
+      ],
+      "example": "En tiedä, miten hän sietää tuota suihkukoneen melua.",
+      "level": "B1",
+      "sourceId": "jet",
+      "sourceIds": [
+        "jet"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hissi",
+      "word": "hissi",
+      "en": "hissi",
+      "ru": [
+        "лифт"
+      ],
+      "example": "Tämä hissi ei mene kuudetta kerrosta korkeammalle.",
+      "level": "B1",
+      "sourceId": "elevator",
+      "sourceIds": [
+        "elevator"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lava-auto",
+      "word": "lava-auto",
+      "en": "lava-auto",
+      "ru": [
+        "пикап",
+        "подбор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pickup",
+      "sourceIds": [
+        "pickup"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "peltikolari",
+      "word": "peltikolari",
+      "en": "peltikolari",
+      "ru": [
+        "незначительное ДТП"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fender-bender",
+      "sourceIds": [
+        "fender-bender"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kuljettaja",
+      "word": "kuljettaja",
+      "en": "kuljettaja",
+      "ru": [
+        "автомобилист"
+      ],
+      "example": "Tom istui kuljettajan paikalla ja oikaisi takapeiliä.",
+      "level": "B1",
+      "sourceId": "motorist",
+      "sourceIds": [
+        "motorist"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaistaa",
+      "word": "väistää",
+      "en": "väistää",
+      "ru": [
+        "сворачивать",
+        "резко менять направление"
+      ],
+      "example": "Tomi yritti suudella minua, mutta minä väistin.",
+      "level": "B1",
+      "sourceId": "swerve",
+      "sourceIds": [
+        "swerve"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pudottaa-satulasta",
+      "word": "pudottaa satulasta",
+      "en": "pudottaa satulasta",
+      "ru": [
+        "сбрасывать с лошади"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unhorse",
+      "sourceIds": [
+        "unhorse"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "viivyttaa",
+      "word": "viivyttää",
+      "en": "viivyttää",
+      "ru": [
+        "заглохнуть",
+        "тянуть время"
+      ],
+      "example": "En voi viivyttää tätä enää tämän enempää.",
+      "level": "B1",
+      "sourceId": "stall",
+      "sourceIds": [
+        "stall"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kisko",
+      "word": "kisko",
+      "en": "kisko",
+      "ru": [
+        "рельс",
+        "перила"
+      ],
+      "example": "Juna suistui pois kiskoiltaan.",
+      "level": "B1",
+      "sourceId": "rail",
+      "sourceIds": [
+        "rail"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "koli",
+      "word": "köli",
+      "en": "köli",
+      "ru": [
+        "киль"
+      ],
+      "example": "Sen köli on kauttaaltaan merirokkojen peitossa.",
+      "level": "B1",
+      "sourceId": "keel",
+      "sourceIds": [
+        "keel"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kansi",
+      "word": "kansi",
+      "en": "kansi",
+      "ru": [
+        "палуба"
+      ],
+      "example": "Auta minua ottamaan tämä kansi pois.",
+      "level": "B1",
+      "sourceId": "deck",
+      "sourceIds": [
+        "deck"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jolla",
+      "word": "jolla",
+      "en": "jolla",
+      "ru": [
+        "шлюпка",
+        "надувная лодка"
+      ],
+      "example": "Aivot ovat kone, jolla ajattelemme, että ajattelemme.",
+      "level": "B1",
+      "sourceId": "dinghy",
+      "sourceIds": [
+        "dinghy"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "liirtaa",
+      "word": "liirtää",
+      "en": "liirtää",
+      "ru": [
+        "скользить",
+        "заносить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "skid",
+      "sourceIds": [
+        "skid"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "avokattoinen",
+      "word": "avokattoinen",
+      "en": "avokattoinen",
+      "ru": [
+        "с открытым верхом"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "open-top",
+      "sourceIds": [
+        "open-top"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "laskuteline",
+      "word": "laskuteline",
+      "en": "laskuteline",
+      "ru": [
+        "шасси",
+        "ходовая часть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercarriage",
+      "sourceIds": [
+        "undercarriage"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kaynnistaa-apukaapeleilla",
+      "word": "käynnistää apukaapeleilla",
+      "en": "käynnistää apukaapeleilla",
+      "ru": [
+        "заводить двигатель",
+        "стимулировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "jump-start",
+      "sourceIds": [
+        "jump-start"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "motoristi",
+      "word": "motoristi",
+      "en": "motoristi",
+      "ru": [
+        "байкер",
+        "велосипедист"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "biker",
+      "sourceIds": [
+        "biker"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "taustapeili",
+      "word": "taustapeili",
+      "en": "taustapeili",
+      "ru": [
+        "вид сзади"
+      ],
+      "example": "Tom tarkisti taustapeilistä.",
+      "level": "B1",
+      "sourceId": "rearview",
+      "sourceIds": [
+        "rearview"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kiinnittya-laituriin",
+      "word": "kiinnittyä laituriin",
+      "en": "kiinnittyä laituriin",
+      "ru": [
+        "швартоваться"
+      ],
+      "example": "Laiva ei ole vielä edes kiinnittynyt laituriin.",
+      "level": "B1",
+      "sourceId": "dock",
+      "sourceIds": [
+        "dock"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zeppeliini",
+      "word": "zeppeliini",
+      "en": "zeppeliini",
+      "ru": [
+        "цеппелин",
+        "дирижабль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "zeppelin",
+      "sourceIds": [
+        "zeppelin"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "lahempi-puoli",
+      "word": "lähempi puoli",
+      "en": "lähempi puoli",
+      "ru": [
+        "ближняя сторона"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nearside",
+      "sourceIds": [
+        "nearside"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "superauto",
+      "word": "superauto",
+      "en": "superauto",
+      "ru": [
+        "суперкар"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "supercar",
+      "sourceIds": [
+        "supercar"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "viistopera",
+      "word": "viistoperä",
+      "en": "viistoperä",
+      "ru": [
+        "хэтчбек"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hatchback",
+      "sourceIds": [
+        "hatchback"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "citroen",
+      "word": "Citroën",
+      "en": "Citroën",
+      "ru": [
+        "ситроен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "citroen",
+      "sourceIds": [
+        "citroen"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tila-auto",
+      "word": "tila-auto",
+      "en": "tila-auto",
+      "ru": [
+        "мультиспейс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "multispace",
+      "sourceIds": [
+        "multispace"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "bensiini",
+      "word": "bensiini",
+      "en": "bensiini",
+      "ru": [
+        "бензин"
+      ],
+      "example": "Bensiinin hamstraamiseen ei pitäisi olla mitään syytä.",
+      "level": "B1",
+      "sourceId": "petrol",
+      "sourceIds": [
+        "petrol"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "konepelti",
+      "word": "konepelti",
+      "en": "konepelti",
+      "ru": [
+        "капот"
+      ],
+      "example": "On niin kuuma, että auton konepellillä voisi paistaa kananmunan.",
+      "level": "B1",
+      "sourceId": "bonnet",
+      "sourceIds": [
+        "bonnet"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "peesata",
+      "word": "peesata",
+      "en": "peesata",
+      "ru": [
+        "задний борт",
+        "ехать слишком близко"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tailgate",
+      "sourceIds": [
+        "tailgate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "puskuri",
+      "word": "puskuri",
+      "en": "puskuri",
+      "ru": [
+        "бампер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bumper",
+      "sourceIds": [
+        "bumper"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kilpa-auto",
+      "word": "kilpa-auto",
+      "en": "kilpa-auto",
+      "ru": [
+        "гоночный автомобиль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "racecar",
+      "sourceIds": [
+        "racecar"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kupee",
+      "word": "kupee",
+      "en": "kupee",
+      "ru": [
+        "купе"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "coupe",
+      "sourceIds": [
+        "coupe"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "avoauto",
+      "word": "avoauto",
+      "en": "avoauto",
+      "ru": [
+        "кабриолет"
+      ],
+      "example": "Haluan ajaa läpi Amerikan avoautolla.",
+      "level": "B1",
+      "sourceId": "cabriolet",
+      "sourceIds": [
+        "cabriolet",
+        "convertible",
+        "drop-head"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaihdelaatikko",
+      "word": "vaihdelaatikko",
+      "en": "vaihdelaatikko",
+      "ru": [
+        "коробка передач"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gearbox",
+      "sourceIds": [
+        "gearbox"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kiihdyttaa",
+      "word": "kiihdyttää",
+      "en": "kiihdyttää",
+      "ru": [
+        "увеличивать обороты"
+      ],
+      "example": "Hän kiihdytti autoaan ja sai minut kiinni.",
+      "level": "B1",
+      "sourceId": "rev",
+      "sourceIds": [
+        "rev"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lokinsiipiovi",
+      "word": "lokinsiipiovi",
+      "en": "lokinsiipiovi",
+      "ru": [
+        "крыло чайки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gullwing",
+      "sourceIds": [
+        "gullwing"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "rengas",
+      "word": "rengas",
+      "en": "rengas",
+      "ru": [
+        "шина"
+      ],
+      "example": "Aputulos 5 ei yleisty mielivaltaisille Artinin renkaille.",
+      "level": "B1",
+      "sourceId": "tyre",
+      "sourceIds": [
+        "tyre"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aliohjautuvuus",
+      "word": "aliohjautuvuus",
+      "en": "aliohjautuvuus",
+      "ru": [
+        "недостаточная поворачиваемость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "understeer",
+      "sourceIds": [
+        "understeer"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "yliohjautuvuus",
+      "word": "yliohjautuvuus",
+      "en": "yliohjautuvuus",
+      "ru": [
+        "избыточная поворачиваемость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "oversteer",
+      "sourceIds": [
+        "oversteer"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "peran-luisto",
+      "word": "perän luisto",
+      "en": "perän luisto",
+      "ru": [
+        "занос задней оси"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tailslide",
+      "sourceIds": [
+        "tailslide"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "volvo",
+      "word": "Volvo",
+      "en": "Volvo",
+      "ru": [
+        "вольво"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "volvo",
+      "sourceIds": [
+        "volvo"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "turvatyyny",
+      "word": "turvatyyny",
+      "en": "turvatyyny",
+      "ru": [
+        "подушка безопасности"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "airbag",
+      "sourceIds": [
+        "airbag"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "hyundai",
+      "word": "Hyundai",
+      "en": "Hyundai",
+      "ru": [
+        "Хёндай"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hyundai",
+      "sourceIds": [
+        "hyundai"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "nissan",
+      "word": "Nissan",
+      "en": "Nissan",
+      "ru": [
+        "Ниссан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nissan",
+      "sourceIds": [
+        "nissan"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "daewoo",
+      "word": "Daewoo",
+      "en": "Daewoo",
+      "ru": [
+        "Дэу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "daewoo",
+      "sourceIds": [
+        "daewoo"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "suzuki",
+      "word": "Suzuki",
+      "en": "Suzuki",
+      "ru": [
+        "Сузуки"
+      ],
+      "example": "Herra Suzuki, entinen pääministeri, on komitean puheenjohtaja.",
+      "level": "B1",
+      "sourceId": "suzuki",
+      "sourceIds": [
+        "suzuki"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jattitankkeri",
+      "word": "jättitankkeri",
+      "en": "jättitankkeri",
+      "ru": [
+        "супертанкер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "supertanker",
+      "sourceIds": [
+        "supertanker"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "maastokelpoinen",
+      "word": "maastokelpoinen",
+      "en": "maastokelpoinen",
+      "ru": [
+        "внедорожный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "off-road",
+      "sourceIds": [
+        "off-road"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sedan",
+      "word": "sedan",
+      "en": "sedan",
+      "ru": [
+        "седан",
+        "салон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "saloon",
+      "sourceIds": [
+        "saloon"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "mazda",
+      "word": "Mazda",
+      "en": "Mazda",
+      "ru": [
+        "Мазда"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mazda",
+      "sourceIds": [
+        "mazda"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ohittaa",
+      "word": "ohittaa",
+      "en": "ohittaa",
+      "ru": [
+        "обгонять"
+      ],
+      "example": "Hän nosti autonsa nopeutta ja ohitti minut.",
+      "level": "B1",
+      "sourceId": "overtake",
+      "sourceIds": [
+        "overtake"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mukiteline",
+      "word": "mukiteline",
+      "en": "mukiteline",
+      "ru": [
+        "подстаканник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cup-holder",
+      "sourceIds": [
+        "cup-holder"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "moottoripyorailija",
+      "word": "moottoripyöräilijä",
+      "en": "moottoripyöräilijä",
+      "ru": [
+        "мотоциклист"
+      ],
+      "example": "Kolme moottoripyöräilijää on kuollut tässä risteyksessä tänä vuonna.",
+      "level": "B1",
+      "sourceId": "motorcyclist",
+      "sourceIds": [
+        "motorcyclist"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jarruvalo",
+      "word": "jarruvalo",
+      "en": "jarruvalo",
+      "ru": [
+        "стоп-сигнал"
+      ],
+      "example": "Tiesitkö, että sinun jarruvalosi eivät toimi?",
+      "level": "B1",
+      "sourceId": "brake-light",
+      "sourceIds": [
+        "brake-light"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "runko",
+      "word": "runko",
+      "en": "runko",
+      "ru": [
+        "шасси",
+        "кузов"
+      ],
+      "example": "Avaruusolio räjäytti sädeaseellaan reiän avaruusaluksen runkoon.",
+      "level": "B1",
+      "sourceId": "chassis",
+      "sourceIds": [
+        "chassis"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limusiini",
+      "word": "limusiini",
+      "en": "limusiini",
+      "ru": [
+        "лимузин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "limousine",
+      "sourceIds": [
+        "limousine"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "turvakehikko",
+      "word": "turvakehikko",
+      "en": "turvakehikko",
+      "ru": [
+        "каркас безопасности"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "roll-cage",
+      "sourceIds": [
+        "roll-cage"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "nopeusmittari",
+      "word": "nopeusmittari",
+      "en": "nopeusmittari",
+      "ru": [
+        "спидометр"
+      ],
+      "example": "Auton nopeusmittari näyttää senhetkisen nopeuden, ei keskinopeutta.",
+      "level": "B1",
+      "sourceId": "speedo",
+      "sourceIds": [
+        "speedo"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pikkuauto",
+      "word": "pikkuauto",
+      "en": "pikkuauto",
+      "ru": [
+        "супермини"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "supermini",
+      "sourceIds": [
+        "supermini"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ajokilometrit",
+      "word": "ajokilometrit",
+      "en": "ajokilometrit",
+      "ru": [
+        "пробег",
+        "расход топлива"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mileage",
+      "sourceIds": [
+        "mileage"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kasijarru",
+      "word": "käsijarru",
+      "en": "käsijarru",
+      "ru": [
+        "ручной тормоз"
+      ],
+      "example": "Älä unohda vetää käsijarrusta.",
+      "level": "B1",
+      "sourceId": "handbrake",
+      "sourceIds": [
+        "handbrake"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "huviajelu-varastetulla-autolla",
+      "word": "huviajelu varastetulla autolla",
+      "en": "huviajelu varastetulla autolla",
+      "ru": [
+        "угон автомобиля ради развлечения"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "joyriding",
+      "sourceIds": [
+        "joyriding"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sikaani",
+      "word": "šikaani",
+      "en": "šikaani",
+      "ru": [
+        "шикана",
+        "препятствие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chicane",
+      "sourceIds": [
+        "chicane"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "polkuvene",
+      "word": "polkuvene",
+      "en": "polkuvene",
+      "ru": [
+        "водный велосипед"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pedalo",
+      "sourceIds": [
+        "pedalo"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "toottays",
+      "word": "tööttäys",
+      "en": "tööttäys",
+      "ru": [
+        "гудок",
+        "ухать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hoot",
+      "sourceIds": [
+        "hoot"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ajoneuvon-oma",
+      "word": "ajoneuvon oma",
+      "en": "ajoneuvon oma",
+      "ru": [
+        "бортовой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "on-board",
+      "sourceIds": [
+        "on-board"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "saleikko",
+      "word": "säleikkö",
+      "en": "säleikkö",
+      "ru": [
+        "решетка"
+      ],
+      "example": "Viiniköynnös kietoutui säleikön ympärille, kasvaen yhä korkeammaksi.",
+      "level": "B1",
+      "sourceId": "grille",
+      "sourceIds": [
+        "grille"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "takaveto",
+      "word": "takaveto",
+      "en": "takaveto",
+      "ru": [
+        "заднеприводный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rear-wheel",
+      "sourceIds": [
+        "rear-wheel"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "takamoottori",
+      "word": "takamoottori",
+      "en": "takamoottori",
+      "ru": [
+        "заднемоторный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rear-engine",
+      "sourceIds": [
+        "rear-engine"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "moottoritie",
+      "word": "moottoritie",
+      "en": "moottoritie",
+      "ru": [
+        "автобан"
+      ],
+      "example": "Ammottava aukko on muodostunut keskelle moottoritietä.",
+      "level": "B1",
+      "sourceId": "autobahn",
+      "sourceIds": [
+        "autobahn"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "keskimoottori",
+      "word": "keskimoottori",
+      "en": "keskimoottori",
+      "ru": [
+        "среднемоторный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mid-engine",
+      "sourceIds": [
+        "mid-engine"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kiinnittamaton",
+      "word": "kiinnittämätön",
+      "en": "kiinnittämätön",
+      "ru": [
+        "непристегнутый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unbelted",
+      "sourceIds": [
+        "unbelted"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "turvavyo",
+      "word": "turvavyö",
+      "en": "turvavyö",
+      "ru": [
+        "ремень безопасности"
+      ],
+      "example": "Hän näytti matkustajille kuinka heidän turvavyönsä kiinnitetään.",
+      "level": "B1",
+      "sourceId": "seatbelt",
+      "sourceIds": [
+        "seatbelt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tieliikennekelpoinen",
+      "word": "tieliikennekelpoinen",
+      "en": "tieliikennekelpoinen",
+      "ru": [
+        "допущенный к эксплуатации на дорогах"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "road-legal",
+      "sourceIds": [
+        "road-legal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tuulilasi",
+      "word": "tuulilasi",
+      "en": "tuulilasi",
+      "ru": [
+        "лобовое стекло"
+      ],
+      "example": "Tuulilasi on meni huuruun, enkä näe mitään.",
+      "level": "B1",
+      "sourceId": "windscreen",
+      "sourceIds": [
+        "windscreen",
+        "windshield"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolmipyora",
+      "word": "kolmipyörä",
+      "en": "kolmipyörä",
+      "ru": [
+        "трехколесный велосипед"
+      ],
+      "example": "Se on kolmipyörä.",
+      "level": "B1",
+      "sourceId": "tricycle",
+      "sourceIds": [
+        "tricycle"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tormays",
+      "word": "törmäys",
+      "en": "törmäys",
+      "ru": [
+        "столкновение"
+      ],
+      "example": "On erittäin epätodennäköistä, että Tom jäi henkiin törmäyksessä.",
+      "level": "B1",
+      "sourceId": "collision",
+      "sourceIds": [
+        "collision"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kattoluukku",
+      "word": "kattoluukku",
+      "en": "kattoluukku",
+      "ru": [
+        "люк в крыше автомобиля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sunroof",
+      "sourceIds": [
+        "sunroof"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "moottorivene",
+      "word": "moottorivene",
+      "en": "moottorivene",
+      "ru": [
+        "моторная лодка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "motorboat",
+      "sourceIds": [
+        "motorboat",
+        "powerboat"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "autopesula",
+      "word": "autopesula",
+      "en": "autopesula",
+      "ru": [
+        "автомойка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "car-wash",
+      "sourceIds": [
+        "car-wash"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kyyti",
+      "word": "kyyti",
+      "en": "kyyti",
+      "ru": [
+        "совместный выезд"
+      ],
+      "example": "En suostu kyytiin, jos Tomi on ratissa.",
+      "level": "B1",
+      "sourceId": "ride-along",
+      "sourceIds": [
+        "ride-along"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paripyorainen-lava-auto",
+      "word": "paripyöräinen lava-auto",
+      "en": "paripyöräinen lava-auto",
+      "ru": [
+        "пикап с двойными колесами"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dually",
+      "sourceIds": [
+        "dually"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sukkula",
+      "word": "sukkula",
+      "en": "sukkula",
+      "ru": [
+        "шаттл",
+        "челнок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shuttle",
+      "sourceIds": [
+        "shuttle"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "taksikuski",
+      "word": "taksikuski",
+      "en": "taksikuski",
+      "ru": [
+        "таксист"
+      ],
+      "example": "Tomi sanoi taksikuskille, että pidä vaihtorahat.",
+      "level": "B1",
+      "sourceId": "cabbie",
+      "sourceIds": [
+        "cabbie"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ohjaamo",
+      "word": "ohjaamo",
+      "en": "ohjaamo",
+      "ru": [
+        "кабина пилота"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cockpit",
+      "sourceIds": [
+        "cockpit"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kerrosbussi",
+      "word": "kerrosbussi",
+      "en": "kerrosbussi",
+      "ru": [
+        "двухэтажный (автобус)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decker",
+      "sourceIds": [
+        "decker"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tila-auto",
+      "word": "tila-auto",
+      "en": "tila-auto",
+      "ru": [
+        "минивэн"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "minivan",
+      "sourceIds": [
+        "minivan"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ponttoni",
+      "word": "ponttoni",
+      "en": "ponttoni",
+      "ru": [
+        "понтон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pontoon",
+      "sourceIds": [
+        "pontoon"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tankkaus",
+      "word": "tankkaus",
+      "en": "tankkaus",
+      "ru": [
+        "заправка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fill-up",
+      "sourceIds": [
+        "fill-up"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ankkuri",
+      "word": "ankkuri",
+      "en": "ankkuri",
+      "ru": [
+        "якорь",
+        "якорить"
+      ],
+      "example": "Jokainen laiva tarvitsee ankkurin.",
+      "level": "B1",
+      "sourceId": "anchor",
+      "sourceIds": [
+        "anchor"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tietyo",
+      "word": "tietyö",
+      "en": "tietyö",
+      "ru": [
+        "дорожные работы"
+      ],
+      "example": "Ajomatkan piti kestää viisi tuntia, mutta tietöiden takia se kesti kymmenen.",
+      "level": "B1",
+      "sourceId": "roadwork",
+      "sourceIds": [
+        "roadwork"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jattopaikka",
+      "word": "jättöpaikka",
+      "en": "jättöpaikka",
+      "ru": [
+        "место высадки",
+        "снижение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drop-off",
+      "sourceIds": [
+        "drop-off"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "raitiotie",
+      "word": "raitiotie",
+      "en": "raitiotie",
+      "ru": [
+        "трамвайные пути",
+        "трамвай"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tramway",
+      "sourceIds": [
+        "tramway"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kaksikerroksinen-bussi",
+      "word": "kaksikerroksinen bussi",
+      "en": "kaksikerroksinen bussi",
+      "ru": [
+        "двухэтажный автобус"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "routemaster",
+      "sourceIds": [
+        "routemaster"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kyydissa",
+      "word": "kyydissä",
+      "en": "kyydissä",
+      "ru": [
+        "на борту"
+      ],
+      "example": "Lentokoneessa oli kyydissä 500 matkustajaa.",
+      "level": "B1",
+      "sourceId": "onboard",
+      "sourceIds": [
+        "onboard"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prius",
+      "word": "Prius",
+      "en": "Prius",
+      "ru": [
+        "приус"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "prius",
+      "sourceIds": [
+        "prius"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "hyperauto",
+      "word": "hyperauto",
+      "en": "hyperauto",
+      "ru": [
+        "гиперкар"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypercar",
+      "sourceIds": [
+        "hypercar"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "mclaren",
+      "word": "McLaren",
+      "en": "McLaren",
+      "ru": [
+        "макларен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mclaren",
+      "sourceIds": [
+        "mclaren"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "porsche",
+      "word": "Porsche",
+      "en": "Porsche",
+      "ru": [
+        "порше"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "porsche",
+      "sourceIds": [
+        "porsche"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "mailia-gallonalla",
+      "word": "mailia gallonalla",
+      "en": "mailia gallonalla",
+      "ru": [
+        "миль на галлон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mpg",
+      "sourceIds": [
+        "mpg"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "nelipyorainen",
+      "word": "nelipyöräinen",
+      "en": "nelipyöräinen",
+      "ru": [
+        "четырехколесный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "four-wheel",
+      "sourceIds": [
+        "four-wheel"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kuunari",
+      "word": "kuunari",
+      "en": "kuunari",
+      "ru": [
+        "шхуна"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "schooner",
+      "sourceIds": [
+        "schooner"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kallistuksenesto",
+      "word": "kallistuksenesto-",
+      "en": "kallistuksenesto-",
+      "ru": [
+        "противооткатный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "anti-roll",
+      "sourceIds": [
+        "anti-roll"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lentokentta",
+      "word": "lentokenttä",
+      "en": "lentokenttä",
+      "ru": [
+        "аэродром"
+      ],
+      "example": "Lentokentällä oli satoja takseja, kaikki asiakkaiden perässä.",
+      "level": "B1",
+      "sourceId": "airfield",
+      "sourceIds": [
+        "airfield"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turva-alue",
+      "word": "turva-alue",
+      "en": "turva-alue",
+      "ru": [
+        "сток",
+        "зона вылета"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "run-off",
+      "sourceIds": [
+        "run-off"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "suojakaide",
+      "word": "suojakaide",
+      "en": "suojakaide",
+      "ru": [
+        "отбойник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "armco",
+      "sourceIds": [
+        "armco"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "luisteleva",
+      "word": "luisteleva",
+      "en": "luisteleva",
+      "ru": [
+        "дрифтующий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drifty",
+      "sourceIds": [
+        "drifty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kaappaus",
+      "word": "kaappaus",
+      "en": "kaappaus",
+      "ru": [
+        "угон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hijack",
+      "sourceIds": [
+        "hijack"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "hidas",
+      "word": "hidas",
+      "en": "hidas",
+      "ru": [
+        "низкоскоростной"
+      ],
+      "example": "Hitaat oppijat eivät usein halua mennä kouluun.",
+      "level": "B1",
+      "sourceId": "low-speed",
+      "sourceIds": [
+        "low-speed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "monkija",
+      "word": "mönkijä",
+      "en": "mönkijä",
+      "ru": [
+        "квадроцикл"
+      ],
+      "example": "Puutarhassani asuu monenmoista mönkijää; suosikkini ovat kaikenlaiset sammakot.",
+      "level": "B1",
+      "sourceId": "quad",
+      "sourceIds": [
+        "quad"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autokaappaus",
+      "word": "autokaappaus",
+      "en": "autokaappaus",
+      "ru": [
+        "угон автомобиля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carjacking",
+      "sourceIds": [
+        "carjacking"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kaapata-auto",
+      "word": "kaapata auto",
+      "en": "kaapata auto",
+      "ru": [
+        "угнать автомобиль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carjack",
+      "sourceIds": [
+        "carjack"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nopea",
+      "word": "nopea",
+      "en": "nopea",
+      "ru": [
+        "высокоскоростной"
+      ],
+      "example": "Autosi on nopea, mutta minun on nopeampi.",
+      "level": "B1",
+      "sourceId": "high-speed",
+      "sourceIds": [
+        "high-speed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaynnistaa-ilman-avainta",
+      "word": "käynnistää ilman avainta",
+      "en": "käynnistää ilman avainta",
+      "ru": [
+        "завести машину без ключа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hotwire",
+      "sourceIds": [
+        "hotwire"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kori",
+      "word": "kori",
+      "en": "kori",
+      "ru": [
+        "кузов автомобиля"
+      ],
+      "example": "Tom laittoi kaikki munansa yhteen koriin.",
+      "level": "B1",
+      "sourceId": "bodywork",
+      "sourceIds": [
+        "bodywork"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tieliikennekelpoinen",
+      "word": "tieliikennekelpoinen",
+      "en": "tieliikennekelpoinen",
+      "ru": [
+        "пригодный для эксплуатации на дорогах"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "roadworthy",
+      "sourceIds": [
+        "roadworthy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "takaveto",
+      "word": "takaveto",
+      "en": "takaveto",
+      "ru": [
+        "заднеприводный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rear-wheel-drive",
+      "sourceIds": [
+        "rear-wheel-drive"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ilmatyynyalus",
+      "word": "ilmatyynyalus",
+      "en": "ilmatyynyalus",
+      "ru": [
+        "судно на воздушной подушке"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hovercraft",
+      "sourceIds": [
+        "hovercraft"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "neliveto",
+      "word": "neliveto-",
+      "en": "neliveto-",
+      "ru": [
+        "полноприводный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "all-wheel",
+      "sourceIds": [
+        "all-wheel"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "siirtaja",
+      "word": "siirtäjä",
+      "en": "siirtäjä",
+      "ru": [
+        "транспортировщик",
+        "грузовик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transporter",
+      "sourceIds": [
+        "transporter"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "autoteollisuus",
+      "word": "autoteollisuus",
+      "en": "autoteollisuus",
+      "ru": [
+        "автомобилестроение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carmaking",
+      "sourceIds": [
+        "carmaking"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "matka-auto",
+      "word": "matka-auto",
+      "en": "matka-auto",
+      "ru": [
+        "туристический автомобиль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tourer",
+      "sourceIds": [
+        "tourer"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kaksiovinen",
+      "word": "kaksiovinen",
+      "en": "kaksiovinen",
+      "ru": [
+        "двухдверный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "two-door",
+      "sourceIds": [
+        "two-door"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mailia-tunnissa",
+      "word": "mailia tunnissa",
+      "en": "mailia tunnissa",
+      "ru": [
+        "миль в час"
+      ],
+      "example": "Gepardi pystyy juoksemaan jopa 70 mailia tunnissa.",
+      "level": "B1",
+      "sourceId": "mph",
+      "sourceIds": [
+        "mph"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autonvalmistaja",
+      "word": "autonvalmistaja",
+      "en": "autonvalmistaja",
+      "ru": [
+        "автопроизводитель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carmaker",
+      "sourceIds": [
+        "carmaker"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vaihdekeppi",
+      "word": "vaihdekeppi",
+      "en": "vaihdekeppi",
+      "ru": [
+        "рычаг переключения передач"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gearstick",
+      "sourceIds": [
+        "gearstick"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pikavene",
+      "word": "pikavene",
+      "en": "pikavene",
+      "ru": [
+        "быстроходный катер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "speedboat",
+      "sourceIds": [
+        "speedboat"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "aanitorvi",
+      "word": "äänitorvi",
+      "en": "äänitorvi",
+      "ru": [
+        "клаксон",
+        "сирена"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "klaxon",
+      "sourceIds": [
+        "klaxon"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "muskeliauto",
+      "word": "muskeliauto",
+      "en": "muskeliauto",
+      "ru": [
+        "мощный автомобиль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "muscle-car",
+      "sourceIds": [
+        "muscle-car"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "maalipinta",
+      "word": "maalipinta",
+      "en": "maalipinta",
+      "ru": [
+        "лакокрасочное покрытие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paintwork",
+      "sourceIds": [
+        "paintwork"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vetoisuus",
+      "word": "vetoisuus",
+      "en": "vetoisuus",
+      "ru": [
+        "тоннаж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tonnage",
+      "sourceIds": [
+        "tonnage"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "moottoritie",
+      "word": "moottoritie",
+      "en": "moottoritie",
+      "ru": [
+        "автострада"
+      ],
+      "example": "Ammottava aukko on muodostunut keskelle moottoritietä.",
+      "level": "B1",
+      "sourceId": "superhighway",
+      "sourceIds": [
+        "superhighway"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reki",
+      "word": "reki",
+      "en": "reki",
+      "ru": [
+        "сани"
+      ],
+      "example": "Koblenz sijaitsee Rein- ja Moseljokien liittymäkohdassa.",
+      "level": "B1",
+      "sourceId": "sleigh",
+      "sourceIds": [
+        "sleigh"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hoyrylaiva",
+      "word": "höyrylaiva",
+      "en": "höyrylaiva",
+      "ru": [
+        "пароход"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "steamship",
+      "sourceIds": [
+        "steamship"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kuorma-autollinen",
+      "word": "kuorma-autollinen",
+      "en": "kuorma-autollinen",
+      "ru": [
+        "грузовик",
+        "полный грузовик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "truckload",
+      "sourceIds": [
+        "truckload"
+      ],
+      "pos": "n"
+    }
+  ]
+}

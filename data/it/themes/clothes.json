@@ -1,0 +1,2901 @@
+{
+  "id": "clothes",
+  "title": "Одежда",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "accessorio",
+      "word": "accessorio",
+      "en": "accessorio",
+      "ru": [
+        "аксессуар",
+        "дополнение"
+      ],
+      "example": "L'auto è dotata di numerosi accessori opzionali.",
+      "level": "B1",
+      "sourceId": "accessory",
+      "sourceIds": [
+        "accessory"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abbigliamento",
+      "word": "abbigliamento",
+      "en": "abbigliamento",
+      "ru": [
+        "одежда",
+        "наряд"
+      ],
+      "example": "C'è un negozio di abbigliamento qua vicino?",
+      "level": "A2",
+      "sourceId": "apparel",
+      "sourceIds": [
+        "apparel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cintura",
+      "word": "cintura",
+      "en": "cintura",
+      "ru": [
+        "ремень",
+        "пояс"
+      ],
+      "example": "Assaggerai la mie cintura se continui così.",
+      "level": "A2",
+      "sourceId": "belt",
+      "sourceIds": [
+        "belt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "blazer",
+      "word": "blazer",
+      "en": "blazer",
+      "ru": [
+        "блейзер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "blazer",
+      "sourceIds": [
+        "blazer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "blusa",
+      "word": "blusa",
+      "en": "blusa",
+      "ru": [
+        "блуза",
+        "блузка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "blouse",
+      "sourceIds": [
+        "blouse"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "paglietta",
+      "word": "paglietta",
+      "en": "paglietta",
+      "ru": [
+        "канотье"
+      ],
+      "example": "Il nonno portava sempre una paglietta bianca quando passeggiava in campagna.",
+      "level": "C2",
+      "sourceId": "boater",
+      "sourceIds": [
+        "boater"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stivale",
+      "word": "stivale",
+      "en": "stivale",
+      "ru": [
+        "ботинок",
+        "сапог",
+        "башмак"
+      ],
+      "example": "Abbiamo degli stivali verdi, azzurri e gialli.",
+      "level": "B1",
+      "sourceId": "boot",
+      "sourceIds": [
+        "boot"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "braccialetto",
+      "word": "braccialetto",
+      "en": "braccialetto",
+      "ru": [
+        "браслет"
+      ],
+      "example": "Ha comprato un braccialetto per lei.",
+      "level": "B2",
+      "sourceId": "bracelet",
+      "sourceIds": [
+        "bracelet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bottone",
+      "word": "bottone",
+      "en": "bottone",
+      "ru": [
+        "пуговица",
+        "кнопка",
+        "застёгивать"
+      ],
+      "example": "Al mio cappotto è caduto un bottone.",
+      "level": "A2",
+      "sourceId": "button",
+      "sourceIds": [
+        "button"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "berretto",
+      "word": "berretto",
+      "en": "berretto",
+      "ru": [
+        "фуражка",
+        "колпачок",
+        "крышечка"
+      ],
+      "example": "Il ragazzo si sventolò con il berretto.",
+      "level": "B1",
+      "sourceId": "cap",
+      "sourceIds": [
+        "cap"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camerino",
+      "word": "camerino",
+      "en": "camerino",
+      "ru": [
+        "примерочная"
+      ],
+      "example": "\"Posso provarlo?\" \"Il camerino è proprio lì.\"",
+      "level": "B1",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mantello",
+      "word": "mantello",
+      "en": "mantello",
+      "ru": [
+        "плащ",
+        "мантия",
+        "покров"
+      ],
+      "example": "Si copriva la schiena con un mantello blu.",
+      "level": "A2",
+      "sourceId": "cloak",
+      "sourceIds": [
+        "cloak"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestiti",
+      "word": "vestiti",
+      "en": "vestiti",
+      "ru": [
+        "одежда",
+        "одёжа"
+      ],
+      "example": "A Marie piacciono molto i vestiti corti.",
+      "level": "A1",
+      "sourceId": "clothes",
+      "sourceIds": [
+        "clothes"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spazzola-per-abiti",
+      "word": "spazzola per abiti",
+      "en": "spazzola per abiti",
+      "ru": [
+        "платяная щётка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "clothes-brush",
+      "sourceIds": [
+        "clothes-brush"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "filo-per-stendere",
+      "word": "filo per stendere",
+      "en": "filo per stendere",
+      "ru": [
+        "бельевая верёвка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "clothesline",
+      "sourceIds": [
+        "clothesline"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "abbigliamento",
+      "word": "abbigliamento",
+      "en": "abbigliamento",
+      "ru": [
+        "одежда"
+      ],
+      "example": "C'è un negozio di abbigliamento qua vicino?",
+      "level": "A2",
+      "sourceId": "clothing",
+      "sourceIds": [
+        "clothing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cappotto",
+      "word": "cappotto",
+      "en": "cappotto",
+      "ru": [
+        "пальто",
+        "пиджак"
+      ],
+      "example": "Aiuta la nonna a togliersi il cappotto.",
+      "level": "A1",
+      "sourceId": "coat",
+      "sourceIds": [
+        "coat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "colletto",
+      "word": "colletto",
+      "en": "colletto",
+      "ru": [
+        "воротник",
+        "ворот"
+      ],
+      "example": "Il colletto di quella camicia è inamidato.",
+      "level": "A2",
+      "sourceId": "collar",
+      "sourceIds": [
+        "collar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "costume",
+      "word": "costume",
+      "en": "costume",
+      "ru": [
+        "костюм",
+        "наряд"
+      ],
+      "example": "\"Le piacciono i costumi?\" \"Odio i costumi!\"",
+      "level": "B2",
+      "sourceId": "costume",
+      "sourceIds": [
+        "costume"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "di-cotone",
+      "word": "di cotone",
+      "en": "di cotone",
+      "ru": [
+        "хлопковый",
+        "хлопчатый",
+        "хлопчатобумажный"
+      ],
+      "example": "Vorrei dei pantaloni di cotone color arancione.",
+      "level": "A2",
+      "sourceId": "cotton",
+      "sourceIds": [
+        "cotton"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polsini",
+      "word": "polsini",
+      "en": "polsini",
+      "ru": [
+        "манжеты",
+        "наручники"
+      ],
+      "example": "Quando fa freddo, mi copro le mani con i polsini delle maniche.",
+      "level": "C2",
+      "sourceId": "cuffs",
+      "sourceIds": [
+        "cuffs"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestito",
+      "word": "vestito",
+      "en": "vestito",
+      "ru": [
+        "платье",
+        "одеваться"
+      ],
+      "example": "A Marie piacciono molto i vestiti corti.",
+      "level": "A1",
+      "sourceId": "dress",
+      "sourceIds": [
+        "dress"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestito",
+      "word": "vestito",
+      "en": "vestito",
+      "ru": [
+        "одетый"
+      ],
+      "example": "A Marie piacciono molto i vestiti corti.",
+      "level": "C1",
+      "sourceId": "dressed",
+      "sourceIds": [
+        "dressed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "orecchino",
+      "word": "orecchino",
+      "en": "orecchino",
+      "ru": [
+        "серёжка",
+        "серьга"
+      ],
+      "example": "Comprò un paio di orecchini per lei.",
+      "level": "C2",
+      "sourceId": "earring",
+      "sourceIds": [
+        "earring"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moda",
+      "word": "moda",
+      "en": "moda",
+      "ru": [
+        "мода",
+        "способ",
+        "стиль"
+      ],
+      "example": "Adesso i social network vanno di moda.",
+      "level": "A2",
+      "sourceId": "fashion",
+      "sourceIds": [
+        "fashion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "di-moda",
+      "word": "di moda",
+      "en": "di moda",
+      "ru": [
+        "модный",
+        "фешенебельный"
+      ],
+      "example": "Adesso i social network vanno di moda.",
+      "level": "A2",
+      "sourceId": "fashionable",
+      "sourceIds": [
+        "fashionable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fashionista",
+      "word": "fashionista",
+      "en": "fashionista",
+      "ru": [
+        "дизайнер",
+        "модник",
+        "модница"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fashionista",
+      "sourceIds": [
+        "fashionista"
+      ],
+      "pos": "n",
+      "gender": "m/f"
+    },
+    {
+      "id": "stare-bene",
+      "word": "stare bene",
+      "en": "stare bene",
+      "ru": [
+        "сидеть по фигуре",
+        "подходить по размеру"
+      ],
+      "example": "Credo che questo non mi starà bene.",
+      "level": "A2",
+      "sourceId": "fit",
+      "sourceIds": [
+        "fit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prova",
+      "word": "prova",
+      "en": "prova",
+      "ru": [
+        "примерка",
+        "подгонка"
+      ],
+      "example": "Basta mettere alla prova la mia pazienza!",
+      "level": "C1",
+      "sourceId": "fitting",
+      "sourceIds": [
+        "fitting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camerino",
+      "word": "camerino",
+      "en": "camerino",
+      "ru": [
+        "примерочная комната"
+      ],
+      "example": "\"Posso provarlo?\" \"Il camerino è proprio lì.\"",
+      "level": "C1",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cappello",
+      "word": "cappello",
+      "en": "cappello",
+      "ru": [
+        "шапка",
+        "шляпа",
+        "головной убор"
+      ],
+      "example": "A me non piace il suo cappello.",
+      "level": "A1",
+      "sourceId": "hat",
+      "sourceIds": [
+        "hat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cappellaio",
+      "word": "cappellaio",
+      "en": "cappellaio",
+      "ru": [
+        "шляпник",
+        "торговец шляпами",
+        "шляпный мастер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hatter",
+      "sourceIds": [
+        "hatter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "felpa",
+      "word": "felpa",
+      "en": "felpa",
+      "ru": [
+        "балахон (с капюшоном)",
+        "толстовка (с капюшоном)",
+        "худи"
+      ],
+      "example": "Mi sporca la felpa con la penna!",
+      "level": "A2",
+      "sourceId": "hoodie",
+      "sourceIds": [
+        "hoodie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "giacca",
+      "word": "giacca",
+      "en": "giacca",
+      "ru": [
+        "куртка",
+        "жакет",
+        "пиджак"
+      ],
+      "example": "A me non piace la giacca rossa.",
+      "level": "A1",
+      "sourceId": "jacket",
+      "sourceIds": [
+        "jacket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jeans",
+      "word": "jeans",
+      "en": "jeans",
+      "ru": [
+        "джинсы"
+      ],
+      "example": "I blue jeans sono un simbolo dell'America.",
+      "level": "A1",
+      "sourceId": "jeans",
+      "sourceIds": [
+        "jeans"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maglia",
+      "word": "maglia",
+      "en": "maglia",
+      "ru": [
+        "свитер",
+        "джерси",
+        "кофта"
+      ],
+      "example": "C'è la possibilità di avere quella maglia?",
+      "level": "A2",
+      "sourceId": "jersey",
+      "sourceIds": [
+        "jersey"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gioielli",
+      "word": "gioielli",
+      "en": "gioielli",
+      "ru": [
+        "ювелирные изделия",
+        "бижутерия",
+        "драгоценности"
+      ],
+      "example": "Che tipo di gioielli indossi di solito?",
+      "level": "B1",
+      "sourceId": "jewellery",
+      "sourceIds": [
+        "jewellery"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maglione",
+      "word": "maglione",
+      "en": "maglione",
+      "ru": [
+        "джемпер"
+      ],
+      "example": "Avete visto il mio maglione a righe?",
+      "level": "A2",
+      "sourceId": "jumper",
+      "sourceIds": [
+        "jumper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pizzo",
+      "word": "pizzo",
+      "en": "pizzo",
+      "ru": [
+        "кружево",
+        "шнурок"
+      ],
+      "example": "Mary lavora all'uncinetto il pizzo ogni notte.",
+      "level": "C1",
+      "sourceId": "lace",
+      "sourceIds": [
+        "lace"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "di-pelle",
+      "word": "di pelle",
+      "en": "di pelle",
+      "ru": [
+        "кожа",
+        "кожаный"
+      ],
+      "example": "Comprai un paio di guanti di pelle.",
+      "level": "A2",
+      "sourceId": "leather",
+      "sourceIds": [
+        "leather"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "similpelle",
+      "word": "similpelle",
+      "en": "similpelle",
+      "ru": [
+        "дерматин"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "leatherette",
+      "sourceIds": [
+        "leatherette"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pelletteria",
+      "word": "pelletteria",
+      "en": "pelletteria",
+      "ru": [
+        "кожевничество"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "leatherwork",
+      "sourceIds": [
+        "leatherwork"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "biancheria",
+      "word": "biancheria",
+      "en": "biancheria",
+      "ru": [
+        "дамское бельё",
+        "женское нижнее бельё"
+      ],
+      "example": "Non lasciare in giro la biancheria sporca.",
+      "level": "B1",
+      "sourceId": "lingerie",
+      "sourceIds": [
+        "lingerie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rivestimento",
+      "word": "rivestimento",
+      "en": "rivestimento",
+      "ru": [
+        "подкладка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "lining",
+      "sourceIds": [
+        "lining"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "largo",
+      "word": "largo",
+      "en": "largo",
+      "ru": [
+        "свободный",
+        "широкий"
+      ],
+      "example": "Attraverso la città scorre un largo fiume.",
+      "level": "B2",
+      "sourceId": "loose",
+      "sourceIds": [
+        "loose"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nudo",
+      "word": "nudo",
+      "en": "nudo",
+      "ru": [
+        "голый",
+        "обнажённый",
+        "нагой"
+      ],
+      "example": "A lui piace correre a piedi nudi.",
+      "level": "A2",
+      "sourceId": "naked",
+      "sourceIds": [
+        "naked"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "collana",
+      "word": "collana",
+      "en": "collana",
+      "ru": [
+        "ожерелье",
+        "колье",
+        "монисто"
+      ],
+      "example": "Lei ha indossato una collana di perle.",
+      "level": "B2",
+      "sourceId": "necklace",
+      "sourceIds": [
+        "necklace"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "completo",
+      "word": "completo",
+      "en": "completo",
+      "ru": [
+        "костюм",
+        "наряд",
+        "обмундирование"
+      ],
+      "example": "Abbiamo prenotato una camera con pensione completa.",
+      "level": "C2",
+      "sourceId": "outfit",
+      "sourceIds": [
+        "outfit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salopette",
+      "word": "salopette",
+      "en": "salopette",
+      "ru": [
+        "комбинезон",
+        "полукомбинезон"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "overalls",
+      "sourceIds": [
+        "overalls"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "soprabito",
+      "word": "soprabito",
+      "en": "soprabito",
+      "ru": [
+        "пальто",
+        "шинель"
+      ],
+      "example": "Ho messo il soprabito nel guardaroba.",
+      "level": "A2",
+      "sourceId": "overcoat",
+      "sourceIds": [
+        "overcoat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pigiama",
+      "word": "pigiama",
+      "en": "pigiama",
+      "ru": [
+        "пижама"
+      ],
+      "example": "Di che colori sono i tuoi pigiami?",
+      "level": "A2",
+      "sourceId": "pajamas",
+      "sourceIds": [
+        "pajamas",
+        "pajama"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pantaloni",
+      "word": "pantaloni",
+      "en": "pantaloni",
+      "ru": [
+        "брюки",
+        "штаны"
+      ],
+      "example": "\"Di chi sono questi pantaloni?\" \"Di Ken.\"",
+      "level": "A1",
+      "sourceId": "pants",
+      "sourceIds": [
+        "pants"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tasca",
+      "word": "tasca",
+      "en": "tasca",
+      "ru": [
+        "карман"
+      ],
+      "example": "Ben si mise le mani in tasca.",
+      "level": "A2",
+      "sourceId": "pocket",
+      "sourceIds": [
+        "pocket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "borsa",
+      "word": "borsa",
+      "en": "borsa",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "мошна"
+      ],
+      "example": "A quanto vende una borsa di mele?",
+      "level": "A2",
+      "sourceId": "purse",
+      "sourceIds": [
+        "purse"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "impermeabile",
+      "word": "impermeabile",
+      "en": "impermeabile",
+      "ru": [
+        "плащ",
+        "дождевик"
+      ],
+      "example": "Bada che pioviggina, prendi l’ombrello e l’impermeabile.",
+      "level": "A2",
+      "sourceId": "raincoat",
+      "sourceIds": [
+        "raincoat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "anello",
+      "word": "anello",
+      "en": "anello",
+      "ru": [
+        "банда",
+        "группировка",
+        "клика"
+      ],
+      "example": "Comprò un anello di diamanti per lei.",
+      "level": "A2",
+      "sourceId": "ring",
+      "sourceIds": [
+        "ring"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestaglia",
+      "word": "vestaglia",
+      "en": "vestaglia",
+      "ru": [
+        "мантия",
+        "халат"
+      ],
+      "example": "Sto lavando la vestaglia di mia nonna.",
+      "level": "A2",
+      "sourceId": "robe",
+      "sourceIds": [
+        "robe"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sciarpa",
+      "word": "sciarpa",
+      "en": "sciarpa",
+      "ru": [
+        "шарф"
+      ],
+      "example": "Gli uomini italiani indossano spesso delle sciarpe.",
+      "level": "A2",
+      "sourceId": "scarf",
+      "sourceIds": [
+        "scarf"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camicia",
+      "word": "camicia",
+      "en": "camicia",
+      "ru": [
+        "рубашка",
+        "сорочка"
+      ],
+      "example": "Aveva una macchia di sugo sulla camicia.",
+      "level": "A1",
+      "sourceId": "shirt",
+      "sourceIds": [
+        "shirt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pantaloncini",
+      "word": "pantaloncini",
+      "en": "pantaloncini",
+      "ru": [
+        "шорты"
+      ],
+      "example": "Fa ancora troppo freddo per portare dei pantaloncini.",
+      "level": "B2",
+      "sourceId": "shorts",
+      "sourceIds": [
+        "shorts"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seta",
+      "word": "seta",
+      "en": "seta",
+      "ru": [
+        "шёлк"
+      ],
+      "example": "Dato che avevo sete ho bevuto dell'acqua.",
+      "level": "A2",
+      "sourceId": "silk",
+      "sourceIds": [
+        "silk"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taglia",
+      "word": "taglia",
+      "en": "taglia",
+      "ru": [
+        "величина",
+        "объём",
+        "размер"
+      ],
+      "example": "C'è ancora una taglia sulle nostre teste.",
+      "level": "A1",
+      "sourceId": "size",
+      "sourceIds": [
+        "size"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gonna",
+      "word": "gonna",
+      "en": "gonna",
+      "ru": [
+        "юбка"
+      ],
+      "example": "A lei non piace l'aspetto della gonna.",
+      "level": "A1",
+      "sourceId": "skirt",
+      "sourceIds": [
+        "skirt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manica",
+      "word": "manica",
+      "en": "manica",
+      "ru": [
+        "рукав",
+        "втулка",
+        "гильза"
+      ],
+      "example": "D'estate indosso delle camicie a maniche corte.",
+      "level": "B2",
+      "sourceId": "sleeve",
+      "sourceIds": [
+        "sleeve"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calza",
+      "word": "calza",
+      "en": "calza",
+      "ru": [
+        "чулок"
+      ],
+      "example": "A me non piace indossare le calze.",
+      "level": "C2",
+      "sourceId": "stocking",
+      "sourceIds": [
+        "stocking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestito",
+      "word": "vestito",
+      "en": "vestito",
+      "ru": [
+        "костюм",
+        "комбинезон",
+        "масть"
+      ],
+      "example": "A Marie piacciono molto i vestiti corti.",
+      "level": "B1",
+      "sourceId": "suit",
+      "sourceIds": [
+        "suit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "occhiali-da-sole",
+      "word": "occhiali da sole",
+      "en": "occhiali da sole",
+      "ru": [
+        "солнцезащитные очки",
+        "солнечные очки",
+        "тёмные очки"
+      ],
+      "example": "Avete visto i miei occhiali da sole?",
+      "level": "B2",
+      "sourceId": "sunglasses",
+      "sourceIds": [
+        "sunglasses"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maglione",
+      "word": "maglione",
+      "en": "maglione",
+      "ru": [
+        "джемпер",
+        "кофта",
+        "пуловер"
+      ],
+      "example": "Avete visto il mio maglione a righe?",
+      "level": "A2",
+      "sourceId": "sweater",
+      "sourceIds": [
+        "sweater"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stretto",
+      "word": "stretto",
+      "en": "stretto",
+      "ru": [
+        "тесный",
+        "тугой"
+      ],
+      "example": "Ci siamo stretti la mano e salutati.",
+      "level": "B1",
+      "sourceId": "tight",
+      "sourceIds": [
+        "tight"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "collant",
+      "word": "collant",
+      "en": "collant",
+      "ru": [
+        "колготки",
+        "трико"
+      ],
+      "example": "Questi uomini stanno indossando dei collant.",
+      "level": "A2",
+      "sourceId": "tights",
+      "sourceIds": [
+        "tights"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "provare",
+      "word": "provare",
+      "en": "provare",
+      "ru": [
+        "примерять"
+      ],
+      "example": "A me piacerebbe provare qualcosa di nuovo.",
+      "level": "A1",
+      "sourceId": "try-on",
+      "sourceIds": [
+        "try-on"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "biancheria-intima",
+      "word": "biancheria intima",
+      "en": "biancheria intima",
+      "ru": [
+        "бельё",
+        "исподнее",
+        "нижнее бельё"
+      ],
+      "example": "Tutte le ragazze indossano biancheria intima rosa.",
+      "level": "A2",
+      "sourceId": "underwear",
+      "sourceIds": [
+        "underwear"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "uniforme",
+      "word": "uniforme",
+      "en": "uniforme",
+      "ru": [
+        "однообразный",
+        "равномерный",
+        "единообразный"
+      ],
+      "example": "Dobbiamo indossare delle uniformi scolastiche a scuola.",
+      "level": "A2",
+      "sourceId": "uniform",
+      "sourceIds": [
+        "uniform"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gilet",
+      "word": "gilet",
+      "en": "gilet",
+      "ru": [
+        "безрукавка",
+        "жилет",
+        "жилетка"
+      ],
+      "example": "Un gilet è una giacca senza maniche.",
+      "level": "A2",
+      "sourceId": "vest",
+      "sourceIds": [
+        "vest",
+        "waistcoat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "d-epoca",
+      "word": "d'epoca",
+      "en": "d'epoca",
+      "ru": [
+        "классический",
+        "выдержанный",
+        "марочный"
+      ],
+      "example": "Pensavo fosse considerata auto d'epoca.",
+      "level": "B1",
+      "sourceId": "vintage",
+      "sourceIds": [
+        "vintage"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "indossare",
+      "word": "indossare",
+      "en": "indossare",
+      "ru": [
+        "носить"
+      ],
+      "example": "A Tom non piace indossare un orologio.",
+      "level": "A1",
+      "sourceId": "wear",
+      "sourceIds": [
+        "wear"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lana",
+      "word": "lana",
+      "en": "lana",
+      "ru": [
+        "шерсть",
+        "пряжа"
+      ],
+      "example": "Come si lavano gli indumenti di lana?",
+      "level": "A2",
+      "sourceId": "wool",
+      "sourceIds": [
+        "wool"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lanoso",
+      "word": "lanoso",
+      "en": "lanoso",
+      "ru": [
+        "шерстяной"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "woolly",
+      "sourceIds": [
+        "woolly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sibilo",
+      "word": "sibilo",
+      "en": "sibilo",
+      "ru": [
+        "свист",
+        "живость"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "zip",
+      "sourceIds": [
+        "zip"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "extra-large",
+      "word": "extra large",
+      "en": "extra large",
+      "ru": [
+        "очень большой"
+      ],
+      "example": "Sami ha comprato una pizza extra large.",
+      "level": "B1",
+      "sourceId": "xl",
+      "sourceIds": [
+        "xl"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calzino",
+      "word": "calzino",
+      "en": "calzino",
+      "ru": [
+        "носок"
+      ],
+      "example": "C'è un grosso buco nel tuo calzino.",
+      "level": "B1",
+      "sourceId": "sock",
+      "sourceIds": [
+        "sock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "toupet",
+      "word": "toupet",
+      "en": "toupet",
+      "ru": [
+        "парик",
+        "накладка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hairpiece",
+      "sourceIds": [
+        "hairpiece"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "guanto-a-manopola",
+      "word": "guanto a manopola",
+      "en": "guanto a manopola",
+      "ru": [
+        "варежка"
+      ],
+      "example": "Ha perso i suoi guanti a manopola.",
+      "level": "B1",
+      "sourceId": "mitten",
+      "sourceIds": [
+        "mitten"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casual",
+      "word": "casual",
+      "en": "casual",
+      "ru": [
+        "повседневный",
+        "небрежный",
+        "неформальный"
+      ],
+      "example": "Lui indossa quasi sempre abiti casual.",
+      "level": "B1",
+      "sourceId": "casual",
+      "sourceIds": [
+        "casual"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trucco",
+      "word": "trucco",
+      "en": "trucco",
+      "ru": [
+        "макияж",
+        "косметика"
+      ],
+      "example": "Gli ha insegnato i trucchi del commercio.",
+      "level": "B1",
+      "sourceId": "makeup",
+      "sourceIds": [
+        "makeup"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maglietta",
+      "word": "maglietta",
+      "en": "maglietta",
+      "ru": [
+        "футболка"
+      ],
+      "example": "Di' a Tom di cambiarsi la maglietta.",
+      "level": "B1",
+      "sourceId": "tee",
+      "sourceIds": [
+        "tee",
+        "t-shirt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stivale-di-gomma",
+      "word": "stivale di gomma",
+      "en": "stivale di gomma",
+      "ru": [
+        "резиновый сапог"
+      ],
+      "example": "Vorrei degli stivali di gomma.",
+      "level": "B1",
+      "sourceId": "welly",
+      "sourceIds": [
+        "welly"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "straccio",
+      "word": "straccio",
+      "en": "straccio",
+      "ru": [
+        "лохмотья",
+        "рвань"
+      ],
+      "example": "Dei vestiti erano rimasti solo gli stracci.",
+      "level": "B1",
+      "sourceId": "tatter",
+      "sourceIds": [
+        "tatter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "body",
+      "word": "body",
+      "en": "body",
+      "ru": [
+        "купальник",
+        "трико"
+      ],
+      "example": "Hai mai provato il body painting?",
+      "level": "B1",
+      "sourceId": "leotard",
+      "sourceIds": [
+        "leotard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucire",
+      "word": "cucire",
+      "en": "cucire",
+      "ru": [
+        "шить",
+        "зашивать"
+      ],
+      "example": "Comprò una macchina da cucire per lei.",
+      "level": "B1",
+      "sourceId": "stitch",
+      "sourceIds": [
+        "stitch"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "guanto",
+      "word": "guanto",
+      "en": "guanto",
+      "ru": [
+        "перчатка"
+      ],
+      "example": "Comprai un paio di guanti di pelle.",
+      "level": "B1",
+      "sourceId": "glove",
+      "sourceIds": [
+        "glove"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "corazza",
+      "word": "corazza",
+      "en": "corazza",
+      "ru": [
+        "нагрудник",
+        "кираса"
+      ],
+      "example": "La corazza non protegge il ventre.",
+      "level": "B1",
+      "sourceId": "breastplate",
+      "sourceIds": [
+        "breastplate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "con-i-cinturini",
+      "word": "con i cinturini",
+      "en": "con i cinturini",
+      "ru": [
+        "на ремешках"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "strappy",
+      "sourceIds": [
+        "strappy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sandalo",
+      "word": "sandalo",
+      "en": "sandalo",
+      "ru": [
+        "сандалия"
+      ],
+      "example": "Dove hai comprato i sandali che indossi?",
+      "level": "B1",
+      "sourceId": "sandal",
+      "sourceIds": [
+        "sandal"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parrucca",
+      "word": "parrucca",
+      "en": "parrucca",
+      "ru": [
+        "парик"
+      ],
+      "example": "Sami ha comprato una parrucca per Halloween.",
+      "level": "B1",
+      "sourceId": "wig",
+      "sourceIds": [
+        "wig"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cappuccio",
+      "word": "cappuccio",
+      "en": "cappuccio",
+      "ru": [
+        "капюшон",
+        "капот"
+      ],
+      "example": "Non sta indossando una felpa col cappuccio.",
+      "level": "B1",
+      "sourceId": "hood",
+      "sourceIds": [
+        "hood"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mutandine",
+      "word": "mutandine",
+      "en": "mutandine",
+      "ru": [
+        "трусики"
+      ],
+      "example": "La ragazza stava indossando delle mutandine rosa.",
+      "level": "B1",
+      "sourceId": "panty",
+      "sourceIds": [
+        "panty"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "scarpa-da-ginnastica",
+      "word": "scarpa da ginnastica",
+      "en": "scarpa da ginnastica",
+      "ru": [
+        "кроссовок"
+      ],
+      "example": "Di chi sono quelle scarpe da ginnastica?",
+      "level": "B1",
+      "sourceId": "sneaker",
+      "sourceIds": [
+        "sneaker"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tela",
+      "word": "tela",
+      "en": "tela",
+      "ru": [
+        "ткань",
+        "материя"
+      ],
+      "example": "La foto è incollata su una tela.",
+      "level": "B1",
+      "sourceId": "cloth",
+      "sourceIds": [
+        "cloth"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "topless",
+      "word": "topless",
+      "en": "topless",
+      "ru": [
+        "топлес"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "topless",
+      "sourceIds": [
+        "topless"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "infilare",
+      "word": "infilare",
+      "en": "infilare",
+      "ru": [
+        "заправлять"
+      ],
+      "example": "Infilò la mano sotto il cuscino.",
+      "level": "B1",
+      "sourceId": "tuck",
+      "sourceIds": [
+        "tuck"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moda",
+      "word": "moda",
+      "en": "moda",
+      "ru": [
+        "мода"
+      ],
+      "example": "Adesso i social network vanno di moda.",
+      "level": "B1",
+      "sourceId": "vogue",
+      "sourceIds": [
+        "vogue"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chanel",
+      "word": "Chanel",
+      "en": "Chanel",
+      "ru": [
+        "Шанель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chanel",
+      "sourceIds": [
+        "chanel"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "caffettano",
+      "word": "caffettano",
+      "en": "caffettano",
+      "ru": [
+        "кафтан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caftan",
+      "sourceIds": [
+        "caftan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nylon",
+      "word": "nylon",
+      "en": "nylon",
+      "ru": [
+        "нейлон"
+      ],
+      "example": "Comprò una dozzina di calze di nylon.",
+      "level": "B1",
+      "sourceId": "nylon",
+      "sourceIds": [
+        "nylon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tingere",
+      "word": "tingere",
+      "en": "tingere",
+      "ru": [
+        "красить"
+      ],
+      "example": "Mary non si vuole tingere i capelli.",
+      "level": "B1",
+      "sourceId": "dye",
+      "sourceIds": [
+        "dye"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fascia",
+      "word": "fascia",
+      "en": "fascia",
+      "ru": [
+        "кушак",
+        "пояс"
+      ],
+      "example": "La fascia è fatta di tessuto connettivo.",
+      "level": "B1",
+      "sourceId": "sash",
+      "sourceIds": [
+        "sash"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lavorare-a-maglia",
+      "word": "lavorare a maglia",
+      "en": "lavorare a maglia",
+      "ru": [
+        "вязать"
+      ],
+      "example": "I bambini impararono a lavorare a maglia.",
+      "level": "B1",
+      "sourceId": "knit",
+      "sourceIds": [
+        "knit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "scarpa",
+      "word": "scarpa",
+      "en": "scarpa",
+      "ru": [
+        "обувь",
+        "ботинок"
+      ],
+      "example": "A Mary manca la sua scarpa destra.",
+      "level": "B1",
+      "sourceId": "shoe",
+      "sourceIds": [
+        "shoe"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passamontagna",
+      "word": "passamontagna",
+      "en": "passamontagna",
+      "ru": [
+        "балаклава"
+      ],
+      "example": "Tom stava indossando un passamontagna.",
+      "level": "B1",
+      "sourceId": "balaclava",
+      "sourceIds": [
+        "balaclava"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laccio",
+      "word": "laccio",
+      "en": "laccio",
+      "ru": [
+        "шнурок"
+      ],
+      "example": "Ce la fai a stringere i lacci?",
+      "level": "B1",
+      "sourceId": "shoelace",
+      "sourceIds": [
+        "shoelace"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cefalo",
+      "word": "cefalo",
+      "en": "cefalo",
+      "ru": [
+        "кефаль",
+        "стрижка маллет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mullet",
+      "sourceIds": [
+        "mullet"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "elegante",
+      "word": "elegante",
+      "en": "elegante",
+      "ru": [
+        "шикарный",
+        "стильный"
+      ],
+      "example": "I vestiti di Manuela sono molto eleganti.",
+      "level": "B1",
+      "sourceId": "snazzy",
+      "sourceIds": [
+        "snazzy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "allacciare",
+      "word": "allacciare",
+      "en": "allacciare",
+      "ru": [
+        "пристегивать"
+      ],
+      "example": "Devi allacciare le cinture durante il decollo.",
+      "level": "B1",
+      "sourceId": "strap",
+      "sourceIds": [
+        "strap"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "visiera",
+      "word": "visiera",
+      "en": "visiera",
+      "ru": [
+        "козырек"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "visor",
+      "sourceIds": [
+        "visor"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "forcina",
+      "word": "forcina",
+      "en": "forcina",
+      "ru": [
+        "шпилька"
+      ],
+      "example": "Vorrei delle forcine per capelli.",
+      "level": "B1",
+      "sourceId": "hairpin",
+      "sourceIds": [
+        "hairpin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pantaloni",
+      "word": "pantaloni",
+      "en": "pantaloni",
+      "ru": [
+        "брюки"
+      ],
+      "example": "\"Di chi sono questi pantaloni?\" \"Di Ken.\"",
+      "level": "B1",
+      "sourceId": "trousers",
+      "sourceIds": [
+        "trousers"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "livrea",
+      "word": "livrea",
+      "en": "livrea",
+      "ru": [
+        "ливрея"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "livery",
+      "sourceIds": [
+        "livery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mocassino",
+      "word": "mocassino",
+      "en": "mocassino",
+      "ru": [
+        "лоферы",
+        "бездельник"
+      ],
+      "example": "Tom sta indossando dei mocassini.",
+      "level": "B1",
+      "sourceId": "loafer",
+      "sourceIds": [
+        "loafer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stile-cargo",
+      "word": "stile cargo",
+      "en": "stile cargo",
+      "ru": [
+        "в стиле карго"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cargo-style",
+      "sourceIds": [
+        "cargo-style"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "abbigliamento",
+      "word": "abbigliamento",
+      "en": "abbigliamento",
+      "ru": [
+        "одеяние",
+        "наряд"
+      ],
+      "example": "C'è un negozio di abbigliamento qua vicino?",
+      "level": "B1",
+      "sourceId": "attire",
+      "sourceIds": [
+        "attire"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestito-peggio",
+      "word": "vestito peggio",
+      "en": "vestito peggio",
+      "ru": [
+        "плохо одетый"
+      ],
+      "example": "Sei vestita peggio di me!",
+      "level": "B1",
+      "sourceId": "worst-dressed",
+      "sourceIds": [
+        "worst-dressed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pantaloni-cargo",
+      "word": "pantaloni cargo",
+      "en": "pantaloni cargo",
+      "ru": [
+        "брюки карго"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cargo-pants",
+      "sourceIds": [
+        "cargo-pants"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "scarpa-da-barca",
+      "word": "scarpa da barca",
+      "en": "scarpa da barca",
+      "ru": [
+        "топсайдеры"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "topsider",
+      "sourceIds": [
+        "topsider"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "scollatura",
+      "word": "scollatura",
+      "en": "scollatura",
+      "ru": [
+        "декольте"
+      ],
+      "example": "Hai fissato la scollatura della cameriera?",
+      "level": "B1",
+      "sourceId": "cleavage",
+      "sourceIds": [
+        "cleavage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reggiseno",
+      "word": "reggiseno",
+      "en": "reggiseno",
+      "ru": [
+        "бюстгальтер"
+      ],
+      "example": "Alcune donne non portano in reggiseno.",
+      "level": "B1",
+      "sourceId": "brassiere",
+      "sourceIds": [
+        "brassiere"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reggiseno-push-up",
+      "word": "reggiseno push-up",
+      "en": "reggiseno push-up",
+      "ru": [
+        "бюстгальтер пуш-ап"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wonderbra",
+      "sourceIds": [
+        "wonderbra"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cravatta",
+      "word": "cravatta",
+      "en": "cravatta",
+      "ru": [
+        "галстук"
+      ],
+      "example": "Bella cravatta. Peccato che sia troppo costosa.",
+      "level": "B1",
+      "sourceId": "necktie",
+      "sourceIds": [
+        "necktie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abiti-civili",
+      "word": "abiti civili",
+      "en": "abiti civili",
+      "ru": [
+        "гражданская одежда"
+      ],
+      "example": "I soldati possono indossare abiti civili quando escono di sera.",
+      "level": "B1",
+      "sourceId": "plainclothes",
+      "sourceIds": [
+        "plainclothes"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muffola",
+      "word": "muffola",
+      "en": "muffola",
+      "ru": [
+        "варежка",
+        "перчатка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mitt",
+      "sourceIds": [
+        "mitt"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tuta",
+      "word": "tuta",
+      "en": "tuta",
+      "ru": [
+        "комбинезон"
+      ],
+      "example": "Indossava la sua tuta da ginnastica rossa.",
+      "level": "B1",
+      "sourceId": "jumpsuit",
+      "sourceIds": [
+        "jumpsuit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bikini",
+      "word": "bikini",
+      "en": "bikini",
+      "ru": [
+        "бикини"
+      ],
+      "example": "Judy decise di indossare il suo nuovo bikini.",
+      "level": "B1",
+      "sourceId": "bikini",
+      "sourceIds": [
+        "bikini"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuta-da-neve",
+      "word": "tuta da neve",
+      "en": "tuta da neve",
+      "ru": [
+        "комбинезон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "snowsuit",
+      "sourceIds": [
+        "snowsuit"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "fuori-dai-pantaloni",
+      "word": "fuori dai pantaloni",
+      "en": "fuori dai pantaloni",
+      "ru": [
+        "выправленный"
+      ],
+      "example": "Si tirò fuori la camicia dai pantaloni.",
+      "level": "B1",
+      "sourceId": "untucked",
+      "sourceIds": [
+        "untucked"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cerniera-lampo",
+      "word": "cerniera lampo",
+      "en": "cerniera lampo",
+      "ru": [
+        "застежка-молния"
+      ],
+      "example": "La cerniera lampo non si aprirà.",
+      "level": "B1",
+      "sourceId": "zipper",
+      "sourceIds": [
+        "zipper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aprire-la-cerniera",
+      "word": "aprire la cerniera",
+      "en": "aprire la cerniera",
+      "ru": [
+        "расстегивать молнию"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unzip",
+      "sourceIds": [
+        "unzip"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "cucitura",
+      "word": "cucitura",
+      "en": "cucitura",
+      "ru": [
+        "шов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "seam",
+      "sourceIds": [
+        "seam"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "confezionato",
+      "word": "confezionato",
+      "en": "confezionato",
+      "ru": [
+        "готовый (об одежде)"
+      ],
+      "example": "Lui mi ha confezionato un nuovo costume.",
+      "level": "B1",
+      "sourceId": "off-the-rack",
+      "sourceIds": [
+        "off-the-rack"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crocs",
+      "word": "crocs",
+      "en": "crocs",
+      "ru": [
+        "кроксы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crocs",
+      "sourceIds": [
+        "crocs"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "orlare",
+      "word": "orlare",
+      "en": "orlare",
+      "ru": [
+        "подшивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hem",
+      "sourceIds": [
+        "hem"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "plissettato",
+      "word": "plissettato",
+      "en": "plissettato",
+      "ru": [
+        "плиссированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pleated",
+      "sourceIds": [
+        "pleated"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "perizoma",
+      "word": "perizoma",
+      "en": "perizoma",
+      "ru": [
+        "стринги",
+        "ремешок"
+      ],
+      "example": "Conserva ancora il suo perizoma.",
+      "level": "B1",
+      "sourceId": "thong",
+      "sourceIds": [
+        "thong"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rossetto",
+      "word": "rossetto",
+      "en": "rossetto",
+      "ru": [
+        "губная помада"
+      ],
+      "example": "Brian ha comprato del rossetto per Kate.",
+      "level": "B1",
+      "sourceId": "lipstick",
+      "sourceIds": [
+        "lipstick"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "attento-alla-moda",
+      "word": "attento alla moda",
+      "en": "attento alla moda",
+      "ru": [
+        "следящий за модой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "clothes-conscious",
+      "sourceIds": [
+        "clothes-conscious"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "cencioso",
+      "word": "cencioso",
+      "en": "cencioso",
+      "ru": [
+        "оборванный",
+        "рваный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ragged",
+      "sourceIds": [
+        "ragged"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "logoro",
+      "word": "logoro",
+      "en": "logoro",
+      "ru": [
+        "изношенный",
+        "потертый"
+      ],
+      "example": "Il potere logora chi non ce l'ha.",
+      "level": "B1",
+      "sourceId": "worn",
+      "sourceIds": [
+        "worn"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "poliestere",
+      "word": "poliestere",
+      "en": "poliestere",
+      "ru": [
+        "полиэстер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "polyester",
+      "sourceIds": [
+        "polyester"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dei-pantaloni",
+      "word": "dei pantaloni",
+      "en": "dei pantaloni",
+      "ru": [
+        "брючный"
+      ],
+      "example": "Perché ha la cintura dei pantaloni slacciati?",
+      "level": "B1",
+      "sourceId": "trouser",
+      "sourceIds": [
+        "trouser"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abito-lungo",
+      "word": "abito lungo",
+      "en": "abito lungo",
+      "ru": [
+        "платье",
+        "халат"
+      ],
+      "example": "Quest'anno vanno di moda gli abiti lunghi.",
+      "level": "B1",
+      "sourceId": "gown",
+      "sourceIds": [
+        "gown"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calico",
+      "word": "calicò",
+      "en": "calicò",
+      "ru": [
+        "ситец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "calico",
+      "sourceIds": [
+        "calico"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "giacca-a-vento",
+      "word": "giacca a vento",
+      "en": "giacca a vento",
+      "ru": [
+        "анорак",
+        "куртка-ветровка"
+      ],
+      "example": "Vorrei una giacca a vento.",
+      "level": "B1",
+      "sourceId": "anorak",
+      "sourceIds": [
+        "anorak"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "denim",
+      "word": "denim",
+      "en": "denim",
+      "ru": [
+        "джинсовая ткань"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "denim",
+      "sourceIds": [
+        "denim",
+        "jean"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tweed",
+      "word": "tweed",
+      "en": "tweed",
+      "ru": [
+        "твид"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tweed",
+      "sourceIds": [
+        "tweed"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "due-pezzi",
+      "word": "due pezzi",
+      "en": "due pezzi",
+      "ru": [
+        "костюм-двойка",
+        "раздельный купальник"
+      ],
+      "example": "Abbiamo diviso il pane in due pezzi.",
+      "level": "B1",
+      "sourceId": "two-piece",
+      "sourceIds": [
+        "two-piece"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "galoscia",
+      "word": "galoscia",
+      "en": "galoscia",
+      "ru": [
+        "галоша"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "galosh",
+      "sourceIds": [
+        "galosh"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "collant",
+      "word": "collant",
+      "en": "collant",
+      "ru": [
+        "колготки"
+      ],
+      "example": "Questi uomini stanno indossando dei collant.",
+      "level": "B1",
+      "sourceId": "pantyhose",
+      "sourceIds": [
+        "pantyhose"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tenuta",
+      "word": "tenuta",
+      "en": "tenuta",
+      "ru": [
+        "наряд",
+        "костюм"
+      ],
+      "example": "Anche la tenuta di strada sarà migliore.",
+      "level": "B1",
+      "sourceId": "getup",
+      "sourceIds": [
+        "getup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arricciare",
+      "word": "arricciare",
+      "en": "arricciare",
+      "ru": [
+        "завивать",
+        "гофрировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crimp",
+      "sourceIds": [
+        "crimp"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "sombrero",
+      "word": "sombrero",
+      "en": "sombrero",
+      "ru": [
+        "сомбреро"
+      ],
+      "example": "Questo non è un cappello; è un sombrero.",
+      "level": "B1",
+      "sourceId": "sombrero",
+      "sourceIds": [
+        "sombrero"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestire",
+      "word": "vestire",
+      "en": "vestire",
+      "ru": [
+        "одевать"
+      ],
+      "example": "Dan finì di vestire sua figlia, Linda.",
+      "level": "B1",
+      "sourceId": "clothe",
+      "sourceIds": [
+        "clothe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "papillon",
+      "word": "papillon",
+      "en": "papillon",
+      "ru": [
+        "галстук-бабочка"
+      ],
+      "example": "Vorrei un papillon.",
+      "level": "B1",
+      "sourceId": "bowtie",
+      "sourceIds": [
+        "bowtie"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

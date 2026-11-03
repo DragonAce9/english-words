@@ -1,0 +1,3935 @@
+{
+  "id": "sport",
+  "title": "Спорт",
+  "paid": true,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "athlete",
+      "word": "athlète",
+      "en": "athlète",
+      "sourceId": "athlete",
+      "sourceIds": [
+        "athlete"
+      ],
+      "ru": [
+        "атлет",
+        "легкоатлет",
+        "легкоатлетка"
+      ],
+      "gender": "m",
+      "example": "Cet athlète a remporté la médaille d'or.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "pelote",
+      "word": "pelote",
+      "en": "pelote",
+      "sourceId": "ball",
+      "sourceIds": [
+        "ball"
+      ],
+      "ru": [
+        "яйцо",
+        "яичко",
+        "клубок"
+      ],
+      "gender": "f",
+      "example": "Elle tricote avec une pelote de laine.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "baseball",
+      "word": "baseball",
+      "en": "baseball",
+      "sourceId": "baseball",
+      "sourceIds": [
+        "baseball"
+      ],
+      "ru": [
+        "бейсбол"
+      ],
+      "gender": "m",
+      "example": "Il joue au baseball tous les dimanches.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "basket-ball",
+      "word": "basket-ball",
+      "en": "basket-ball",
+      "sourceId": "basketball",
+      "sourceIds": [
+        "basketball"
+      ],
+      "ru": [
+        "баскетбол",
+        "баскетбольный мяч"
+      ],
+      "gender": "m",
+      "example": "Il joue au basket-ball tous les samedis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "batte",
+      "word": "batte",
+      "en": "batte",
+      "sourceId": "bat",
+      "sourceIds": [
+        "bat"
+      ],
+      "ru": [
+        "бита"
+      ],
+      "gender": "f",
+      "example": "Il a frappé la balle avec sa batte.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "pate-a-frire",
+      "word": "pâte à frire",
+      "en": "pâte à frire",
+      "sourceId": "batter",
+      "sourceIds": [
+        "batter"
+      ],
+      "ru": [
+        "бьющий",
+        "тесто для кляра"
+      ],
+      "gender": "f",
+      "example": "Trempez le poisson dans la pâte à frire avant de le cuire.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "batte",
+      "word": "batte",
+      "en": "batte",
+      "sourceId": "batting",
+      "sourceIds": [
+        "batting"
+      ],
+      "ru": [
+        "отбивание мяча",
+        "ватин"
+      ],
+      "gender": "f",
+      "example": "Il est très doué pour la batte.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bowling",
+      "word": "bowling",
+      "en": "bowling",
+      "sourceId": "bowling",
+      "sourceIds": [
+        "bowling"
+      ],
+      "ru": [
+        "боулинг",
+        "игра в кегли",
+        "кегли"
+      ],
+      "gender": "m",
+      "example": "Nous allons faire du bowling ce soir.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "petanque",
+      "word": "pétanque",
+      "en": "pétanque",
+      "sourceId": "bowls",
+      "sourceIds": [
+        "bowls"
+      ],
+      "ru": [
+        "игра в шары",
+        "кегли"
+      ],
+      "gender": "f",
+      "example": "Nous jouons à la pétanque au parc.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "boxe",
+      "word": "boxe",
+      "en": "boxe",
+      "sourceId": "boxing",
+      "sourceIds": [
+        "boxing"
+      ],
+      "ru": [
+        "бокс"
+      ],
+      "gender": "f",
+      "example": "Il pratique la boxe depuis trois ans.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "camp",
+      "word": "camp",
+      "en": "camp",
+      "sourceId": "camp",
+      "sourceIds": [
+        "camp"
+      ],
+      "ru": [
+        "стан",
+        "табор",
+        "лагерь"
+      ],
+      "gender": "m",
+      "example": "Nous avons monté notre camp près de la rivière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "camping",
+      "word": "camping",
+      "en": "camping",
+      "sourceId": "camping",
+      "sourceIds": [
+        "camping"
+      ],
+      "ru": [
+        "проживание в лагере",
+        "жизнь в палатке"
+      ],
+      "gender": "m",
+      "example": "Nous faisons du camping cet été.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "attraper",
+      "word": "attraper",
+      "en": "attraper",
+      "sourceId": "catch",
+      "sourceIds": [
+        "catch"
+      ],
+      "ru": [
+        "ловить"
+      ],
+      "gender": null,
+      "example": "Attrape la balle.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "receveur",
+      "word": "receveur",
+      "en": "receveur",
+      "sourceId": "catcher",
+      "sourceIds": [
+        "catcher"
+      ],
+      "ru": [
+        "улавливатель",
+        "кэтчер"
+      ],
+      "gender": "m",
+      "example": "Le receveur a attrapé la balle avec son gant.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "champion",
+      "word": "champion",
+      "en": "champion",
+      "sourceId": "champion",
+      "sourceIds": [
+        "champion"
+      ],
+      "ru": [
+        "чемпион",
+        "победитель",
+        "победительница"
+      ],
+      "gender": "m",
+      "example": "Il est devenu le champion du monde de tennis.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "championnat",
+      "word": "championnat",
+      "en": "championnat",
+      "sourceId": "championship",
+      "sourceIds": [
+        "championship"
+      ],
+      "ru": [
+        "чемпионат",
+        "звание чемпиона",
+        "первенство"
+      ],
+      "gender": "m",
+      "example": "Il a remporté le championnat de tennis cette année.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "baton",
+      "word": "bâton",
+      "en": "bâton",
+      "sourceId": "club",
+      "sourceIds": [
+        "club"
+      ],
+      "ru": [
+        "бита",
+        "клюшка",
+        "палка"
+      ],
+      "gender": "m",
+      "example": "Il utilise un bâton pour jouer au hockey.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "trefle",
+      "word": "trèfle",
+      "en": "trèfle",
+      "sourceId": "clubs",
+      "sourceIds": [
+        "clubs"
+      ],
+      "ru": [
+        "крести",
+        "трефа",
+        "трефы"
+      ],
+      "gender": "m",
+      "example": "Il a joué un roi de trèfle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "competition",
+      "word": "compétition",
+      "en": "compétition",
+      "sourceId": "competition",
+      "sourceIds": [
+        "competition"
+      ],
+      "ru": [
+        "соревнование",
+        "конкуренция",
+        "соперничество"
+      ],
+      "gender": "f",
+      "example": "La compétition entre les deux entreprises est très forte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "concours",
+      "word": "concours",
+      "en": "concours",
+      "sourceId": "contest",
+      "sourceIds": [
+        "contest"
+      ],
+      "ru": [
+        "спор",
+        "диспут",
+        "конкурс"
+      ],
+      "gender": "m",
+      "example": "Il a gagné le concours de chant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "concurrent",
+      "word": "concurrent",
+      "en": "concurrent",
+      "sourceId": "contestant",
+      "sourceIds": [
+        "contestant"
+      ],
+      "ru": [
+        "соперник",
+        "соперница"
+      ],
+      "gender": "m",
+      "example": "Le concurrent a gagné la course.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "compter",
+      "word": "compter",
+      "en": "compter",
+      "sourceId": "count--sport",
+      "sourceIds": [
+        "count--sport"
+      ],
+      "ru": [
+        "счёт",
+        "подсчёт",
+        "граф"
+      ],
+      "gender": null,
+      "example": "Ils comptent vos victoires.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "cour",
+      "word": "cour",
+      "en": "cour",
+      "sourceId": "court",
+      "sourceIds": [
+        "court"
+      ],
+      "ru": [
+        "двор",
+        "дворец",
+        "добиваться расположения"
+      ],
+      "gender": "f",
+      "example": "Il est sorti de cette cour.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tasse",
+      "word": "tasse",
+      "en": "tasse",
+      "sourceId": "cup",
+      "sourceIds": [
+        "cup"
+      ],
+      "ru": [
+        "чашка",
+        "чаша",
+        "кубок"
+      ],
+      "gender": "f",
+      "example": "Elle boit une tasse de thé.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cycle",
+      "word": "cycle",
+      "en": "cycle",
+      "sourceId": "cycle",
+      "sourceIds": [
+        "cycle"
+      ],
+      "ru": [
+        "цикл",
+        "оборот",
+        "ездить на велосипеде"
+      ],
+      "gender": "m",
+      "example": "Le cycle de la vie est fascinant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cyclisme",
+      "word": "cyclisme",
+      "en": "cyclisme",
+      "sourceId": "cycling",
+      "sourceIds": [
+        "cycling"
+      ],
+      "ru": [
+        "езда на велосипеде",
+        "велоезда",
+        "велосипедный спорт"
+      ],
+      "gender": "m",
+      "example": "Le cyclisme est un sport très populaire en France.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "danse",
+      "word": "danse",
+      "en": "danse",
+      "sourceId": "dance",
+      "sourceIds": [
+        "dance"
+      ],
+      "ru": [
+        "пляс",
+        "танец",
+        "пляска"
+      ],
+      "gender": "f",
+      "example": "C'est quoi toute cette danse ?",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "danseur",
+      "word": "danseur",
+      "en": "danseur",
+      "sourceId": "dancer",
+      "sourceIds": [
+        "dancer"
+      ],
+      "ru": [
+        "балерина",
+        "балерун",
+        "плясун"
+      ],
+      "gender": "m",
+      "example": "Quand nous nous sommes rencontrés, elle était danseuse.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "vaincre",
+      "word": "vaincre",
+      "en": "vaincre",
+      "sourceId": "defeat",
+      "sourceIds": [
+        "defeat"
+      ],
+      "ru": [
+        "поражение",
+        "побеждать",
+        "победить"
+      ],
+      "gender": null,
+      "example": "Nous allons vaincre nos adversaires.",
+      "level": "C1",
+      "pos": "v"
+    },
+    {
+      "id": "defenseur",
+      "word": "défenseur",
+      "en": "défenseur",
+      "sourceId": "defenceman",
+      "sourceIds": [
+        "defenceman"
+      ],
+      "ru": [
+        "защитник"
+      ],
+      "gender": "m",
+      "example": "Le défenseur a bloqué le tir adverse.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "dressage",
+      "word": "dressage",
+      "en": "dressage",
+      "sourceId": "dressage",
+      "sourceIds": [
+        "dressage"
+      ],
+      "ru": [
+        "выездка лошадей"
+      ],
+      "gender": "m",
+      "example": "Le dressage est une discipline équestre exigeante.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "equestre",
+      "word": "équestre",
+      "en": "équestre",
+      "sourceId": "equestrian",
+      "sourceIds": [
+        "equestrian"
+      ],
+      "ru": [
+        "конный спорт"
+      ],
+      "gender": null,
+      "example": "Elle pratique le centre équestre tous les mercredis.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "exercice",
+      "word": "exercice",
+      "en": "exercice",
+      "sourceId": "exercise",
+      "sourceIds": [
+        "exercise"
+      ],
+      "ru": [
+        "упражнение",
+        "практика",
+        "тренировка"
+      ],
+      "gender": "m",
+      "example": "Je fais mes exercices de français tous les jours.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "eventail",
+      "word": "éventail",
+      "en": "éventail",
+      "sourceId": "fan",
+      "sourceIds": [
+        "fan"
+      ],
+      "ru": [
+        "веер",
+        "болельщик",
+        "болельщица"
+      ],
+      "gender": "m",
+      "example": "Elle se rafraîchit avec un éventail.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "champ",
+      "word": "champ",
+      "en": "champ",
+      "sourceId": "field",
+      "sourceIds": [
+        "field"
+      ],
+      "ru": [
+        "поле",
+        "луг",
+        "нива"
+      ],
+      "gender": "m",
+      "example": "Les vaches broutent dans le champ.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "lutter",
+      "word": "lutter",
+      "en": "lutter",
+      "sourceId": "fight",
+      "sourceIds": [
+        "fight"
+      ],
+      "ru": [
+        "бороться",
+        "драться"
+      ],
+      "gender": null,
+      "example": "Luttez pour vos droits.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "combattant",
+      "word": "combattant",
+      "en": "combattant",
+      "sourceId": "fighter",
+      "sourceIds": [
+        "fighter"
+      ],
+      "ru": [
+        "борец",
+        "боец",
+        "воин"
+      ],
+      "gender": "m",
+      "example": "C'est un combattant courageux.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "combattant",
+      "word": "combattant",
+      "en": "combattant",
+      "sourceId": "fighting",
+      "sourceIds": [
+        "fighting"
+      ],
+      "ru": [
+        "борющийся",
+        "бьющийся",
+        "воюющий"
+      ],
+      "gender": null,
+      "example": "Il a vu un groupe de soldats combattants.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "finir",
+      "word": "finir",
+      "en": "finir",
+      "sourceId": "finish",
+      "sourceIds": [
+        "finish"
+      ],
+      "ru": [
+        "заканчивать"
+      ],
+      "gender": null,
+      "example": "Finis ton travail.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "peche",
+      "word": "pêche",
+      "en": "pêche",
+      "sourceId": "fishing",
+      "sourceIds": [
+        "fishing"
+      ],
+      "ru": [
+        "рыбалка",
+        "рыбная ловля",
+        "рыболовство"
+      ],
+      "gender": "f",
+      "example": "La pêche est son passe-temps favori.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fitness",
+      "word": "fitness",
+      "en": "fitness",
+      "sourceId": "fitness",
+      "sourceIds": [
+        "fitness"
+      ],
+      "ru": [
+        "фитнес",
+        "хорошая физическая форма"
+      ],
+      "gender": "m",
+      "example": "Je fais du fitness trois fois par semaine.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "football",
+      "word": "football",
+      "en": "football",
+      "sourceId": "football",
+      "sourceIds": [
+        "football"
+      ],
+      "ru": [
+        "футбол",
+        "ногомяч",
+        "футбольный мяч"
+      ],
+      "gender": "m",
+      "example": "Il joue au football avec ses amis.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "footballeur",
+      "word": "footballeur",
+      "en": "footballeur",
+      "sourceId": "footballer",
+      "sourceIds": [
+        "footballer"
+      ],
+      "ru": [
+        "футболист",
+        "футболистка"
+      ],
+      "gender": "m",
+      "example": "Il est un footballeur professionnel très talentueux.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "jeu",
+      "word": "jeu",
+      "en": "jeu",
+      "sourceId": "game",
+      "sourceIds": [
+        "game"
+      ],
+      "ru": [
+        "игра",
+        "матч",
+        "соревнование"
+      ],
+      "gender": "m",
+      "example": "Nous avons joué à un jeu de société hier soir.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "but",
+      "word": "but",
+      "en": "but",
+      "sourceId": "goal",
+      "sourceIds": [
+        "goal"
+      ],
+      "ru": [
+        "цель",
+        "гол",
+        "ворота"
+      ],
+      "gender": "m",
+      "example": "Il a marqué un but magnifique.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "golf",
+      "word": "golf",
+      "en": "golf",
+      "sourceId": "golf",
+      "sourceIds": [
+        "golf"
+      ],
+      "ru": [
+        "гольф"
+      ],
+      "gender": "m",
+      "example": "Il joue au golf tous les dimanches.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "golfeur",
+      "word": "golfeur",
+      "en": "golfeur",
+      "sourceId": "golfer",
+      "sourceIds": [
+        "golfer"
+      ],
+      "ru": [
+        "игрок в гольф"
+      ],
+      "gender": "m",
+      "example": "Il est un golfeur passionné.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "salle-de-sport",
+      "word": "salle de sport",
+      "en": "salle de sport",
+      "sourceId": "gym",
+      "sourceIds": [
+        "gym"
+      ],
+      "ru": [
+        "тренажёрный зал",
+        "гимнастический зал",
+        "джим"
+      ],
+      "gender": "f",
+      "example": "Je vais à la salle de sport trois fois par semaine.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "casque",
+      "word": "casque",
+      "en": "casque",
+      "sourceId": "helmet",
+      "sourceIds": [
+        "helmet"
+      ],
+      "ru": [
+        "шлем",
+        "каска",
+        "шелом"
+      ],
+      "gender": "m",
+      "example": "Il porte un casque pour faire du vélo.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "frapper",
+      "word": "frapper",
+      "en": "frapper",
+      "sourceId": "hit",
+      "sourceIds": [
+        "hit"
+      ],
+      "ru": [
+        "ударять",
+        "попадать"
+      ],
+      "gender": null,
+      "example": "Ne frappe pas la table.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "hockey",
+      "word": "hockey",
+      "en": "hockey",
+      "sourceId": "hockey",
+      "sourceIds": [
+        "hockey"
+      ],
+      "ru": [
+        "хоккей"
+      ],
+      "gender": "m",
+      "example": "Il joue au hockey sur glace tous les samedis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "manche",
+      "word": "manche",
+      "en": "manche",
+      "sourceId": "inning",
+      "sourceIds": [
+        "inning"
+      ],
+      "ru": [
+        "иннинг"
+      ],
+      "gender": "f",
+      "example": "L'équipe a marqué trois points lors de la dernière manche.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "saut",
+      "word": "saut",
+      "en": "saut",
+      "sourceId": "jump",
+      "sourceIds": [
+        "jump"
+      ],
+      "ru": [
+        "прыгать",
+        "прыжок",
+        "скачок"
+      ],
+      "gender": "m",
+      "example": "Il a fait un grand saut par-dessus la barrière.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "sauteur",
+      "word": "sauteur",
+      "en": "sauteur",
+      "sourceId": "jumper",
+      "sourceIds": [
+        "jumper"
+      ],
+      "ru": [
+        "прыгун",
+        "прыгунья"
+      ],
+      "gender": "m",
+      "example": "Le sauteur a franchi la barre avec facilité.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "donner-un-coup-de-pied",
+      "word": "donner un coup de pied",
+      "en": "donner un coup de pied",
+      "sourceId": "kick",
+      "sourceIds": [
+        "kick"
+      ],
+      "ru": [
+        "пинок",
+        "пнуть",
+        "пинать"
+      ],
+      "gender": null,
+      "example": "Il a donné un coup de pied dans le ballon.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "botteur",
+      "word": "botteur",
+      "en": "botteur",
+      "sourceId": "kicker",
+      "sourceIds": [
+        "kicker"
+      ],
+      "ru": [
+        "бьющий игрок",
+        "кикер"
+      ],
+      "gender": "m",
+      "example": "Le botteur a marqué un field goal décisif.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "ligue",
+      "word": "ligue",
+      "en": "ligue",
+      "sourceId": "league",
+      "sourceIds": [
+        "league"
+      ],
+      "ru": [
+        "лига",
+        "объединение",
+        "союз"
+      ],
+      "gender": "f",
+      "example": "Ils ont créé une ligue pour protéger l'environnement.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "perdre",
+      "word": "perdre",
+      "en": "perdre",
+      "sourceId": "lose",
+      "sourceIds": [
+        "lose"
+      ],
+      "ru": [
+        "терять",
+        "проигрывать"
+      ],
+      "gender": null,
+      "example": "Ne perdez pas votre billet.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "match",
+      "word": "match",
+      "en": "match",
+      "sourceId": "match",
+      "sourceIds": [
+        "match"
+      ],
+      "ru": [
+        "матч",
+        "соревнование",
+        "состязание"
+      ],
+      "gender": "m",
+      "example": "Le match de football commence à vingt heures.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "medaille",
+      "word": "médaille",
+      "en": "médaille",
+      "sourceId": "medal",
+      "sourceIds": [
+        "medal"
+      ],
+      "ru": [
+        "медаль"
+      ],
+      "gender": "f",
+      "example": "Elle a gagné une médaille d'or aux Jeux olympiques.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "alpinisme",
+      "word": "alpinisme",
+      "en": "alpinisme",
+      "sourceId": "mountaineering",
+      "sourceIds": [
+        "mountaineering"
+      ],
+      "ru": [
+        "альпинизм"
+      ],
+      "gender": "m",
+      "example": "Il pratique l'alpinisme dans les Alpes.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "net",
+      "word": "net",
+      "en": "net",
+      "sourceId": "net",
+      "sourceIds": [
+        "net"
+      ],
+      "ru": [
+        "сетка"
+      ],
+      "gender": null,
+      "example": "Le bénéfice net est en hausse.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "pagaie",
+      "word": "pagaie",
+      "en": "pagaie",
+      "sourceId": "paddling",
+      "sourceIds": [
+        "paddling"
+      ],
+      "ru": [
+        "гребля"
+      ],
+      "gender": "f",
+      "example": "Il pratique la pagaie sur le lac.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "passer",
+      "word": "passer",
+      "en": "passer",
+      "sourceId": "pass",
+      "sourceIds": [
+        "pass"
+      ],
+      "ru": [
+        "проходить",
+        "передавать"
+      ],
+      "gender": null,
+      "example": "Passe-moi le sel.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "de-passage",
+      "word": "de passage",
+      "en": "de passage",
+      "sourceId": "passing",
+      "sourceIds": [
+        "passing"
+      ],
+      "ru": [
+        "передача",
+        "пасовка"
+      ],
+      "gender": null,
+      "example": "Je suis juste de passage dans cette ville.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "executer",
+      "word": "exécuter",
+      "en": "exécuter",
+      "sourceId": "perform",
+      "sourceIds": [
+        "perform"
+      ],
+      "ru": [
+        "выполнять",
+        "исполнять"
+      ],
+      "gender": null,
+      "example": "Il doit exécuter cette tâche rapidement.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "jouer",
+      "word": "jouer",
+      "en": "jouer",
+      "sourceId": "play",
+      "sourceIds": [
+        "play"
+      ],
+      "ru": [
+        "играть"
+      ],
+      "gender": null,
+      "example": "Les enfants jouent dehors.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "joueur",
+      "word": "joueur",
+      "en": "joueur",
+      "sourceId": "player",
+      "sourceIds": [
+        "player"
+      ],
+      "ru": [
+        "игрок",
+        "спортсмен"
+      ],
+      "gender": "m",
+      "example": "Il est un joueur vedette.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "piscine",
+      "word": "piscine",
+      "en": "piscine",
+      "sourceId": "pool",
+      "sourceIds": [
+        "pool"
+      ],
+      "ru": [
+        "бассейн",
+        "бильярд"
+      ],
+      "gender": "f",
+      "example": "Nous allons nager à la piscine municipale.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pratique",
+      "word": "pratique",
+      "en": "pratique",
+      "sourceId": "practice",
+      "sourceIds": [
+        "practice"
+      ],
+      "ru": [
+        "практика",
+        "тренировка",
+        "упражнение"
+      ],
+      "gender": "f",
+      "example": "La pratique régulière est essentielle pour apprendre une langue.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "course",
+      "word": "course",
+      "en": "course",
+      "sourceId": "race",
+      "sourceIds": [
+        "race"
+      ],
+      "ru": [
+        "гонка",
+        "мчаться"
+      ],
+      "gender": "f",
+      "example": "Elle a gagné la course de vélo.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "course",
+      "word": "course",
+      "en": "course",
+      "sourceId": "racing",
+      "sourceIds": [
+        "racing"
+      ],
+      "ru": [
+        "гонки"
+      ],
+      "gender": "f",
+      "example": "Il est passionné par la course automobile.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "raquette",
+      "word": "raquette",
+      "en": "raquette",
+      "sourceId": "racket",
+      "sourceIds": [
+        "racket"
+      ],
+      "ru": [
+        "ракетка"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une nouvelle raquette de tennis.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "enregistrement",
+      "word": "enregistrement",
+      "en": "enregistrement",
+      "sourceId": "record",
+      "sourceIds": [
+        "record"
+      ],
+      "ru": [
+        "рекордный",
+        "запись",
+        "граммофонная пластинка"
+      ],
+      "gender": "m",
+      "example": "J'ai écouté un vieil enregistrement de jazz.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "arbitre",
+      "word": "arbitre",
+      "en": "arbitre",
+      "sourceId": "referee",
+      "sourceIds": [
+        "referee"
+      ],
+      "ru": [
+        "ампайр",
+        "арбитр",
+        "рефери"
+      ],
+      "gender": "m",
+      "example": "L'arbitre a sifflé la fin du match.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "trajet",
+      "word": "trajet",
+      "en": "trajet",
+      "sourceId": "ride",
+      "sourceIds": [
+        "ride"
+      ],
+      "ru": [
+        "тачка",
+        "езда",
+        "катание"
+      ],
+      "gender": "m",
+      "example": "Le trajet en train dure deux heures.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rangee",
+      "word": "rangée",
+      "en": "rangée",
+      "sourceId": "row",
+      "sourceIds": [
+        "row"
+      ],
+      "ru": [
+        "грести",
+        "ряд"
+      ],
+      "gender": "f",
+      "example": "Jett, troisième défaite d'affilée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aviron",
+      "word": "aviron",
+      "en": "aviron",
+      "sourceId": "rowing",
+      "sourceIds": [
+        "rowing"
+      ],
+      "ru": [
+        "гребля"
+      ],
+      "gender": "m",
+      "example": "Il pratique l'aviron tous les samedis matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "courir",
+      "word": "courir",
+      "en": "courir",
+      "sourceId": "run",
+      "sourceIds": [
+        "run"
+      ],
+      "ru": [
+        "бегать"
+      ],
+      "gender": null,
+      "example": "Je cours le matin.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "coureur",
+      "word": "coureur",
+      "en": "coureur",
+      "sourceId": "runner",
+      "sourceIds": [
+        "runner"
+      ],
+      "ru": [
+        "бегун",
+        "бегунья",
+        "гонец"
+      ],
+      "gender": "m",
+      "example": "Le coureur a franchi la ligne d'arrivée en premier.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "course-a-pied",
+      "word": "course à pied",
+      "en": "course à pied",
+      "sourceId": "running",
+      "sourceIds": [
+        "running"
+      ],
+      "ru": [
+        "подряд",
+        "бег",
+        "бегание"
+      ],
+      "gender": "f",
+      "example": "La course à pied est un excellent exercice pour la santé.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "score",
+      "word": "score",
+      "en": "score",
+      "sourceId": "score",
+      "sourceIds": [
+        "score"
+      ],
+      "ru": [
+        "счёт",
+        "балл",
+        "очко"
+      ],
+      "gender": "m",
+      "example": "Le score final du match est de trois à deux.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tir",
+      "word": "tir",
+      "en": "tir",
+      "sourceId": "shot",
+      "sourceIds": [
+        "shot"
+      ],
+      "ru": [
+        "удар",
+        "бросок"
+      ],
+      "gender": null,
+      "example": "Il a marqué un but avec un tir puissant.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "patin",
+      "word": "patin",
+      "en": "patin",
+      "sourceId": "skate",
+      "sourceIds": [
+        "skate"
+      ],
+      "ru": [
+        "конёк",
+        "скат",
+        "кататься на коньках"
+      ],
+      "gender": "m",
+      "example": "Il a acheté une nouvelle paire de patins.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "patineur",
+      "word": "patineur",
+      "en": "patineur",
+      "sourceId": "skater",
+      "sourceIds": [
+        "skater"
+      ],
+      "ru": [
+        "конькобежец",
+        "конькобежка",
+        "скейтбордист"
+      ],
+      "gender": "m",
+      "example": "Le patineur glisse sur la glace avec élégance.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "patinage",
+      "word": "patinage",
+      "en": "patinage",
+      "sourceId": "skating",
+      "sourceIds": [
+        "skating"
+      ],
+      "ru": [
+        "катание на коньках",
+        "конькобежный спорт",
+        "скейтинг"
+      ],
+      "gender": "m",
+      "example": "Le patinage est un sport très populaire en hiver.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "ski",
+      "word": "ski",
+      "en": "ski",
+      "sourceId": "ski",
+      "sourceIds": [
+        "ski"
+      ],
+      "ru": [
+        "лыжи",
+        "лыжа",
+        "кататься на лыжах"
+      ],
+      "gender": "m",
+      "example": "Il fait du ski en hiver.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ski",
+      "word": "ski",
+      "en": "ski",
+      "sourceId": "skiing",
+      "sourceIds": [
+        "skiing"
+      ],
+      "ru": [
+        "катание на лыжах",
+        "лыжный спорт"
+      ],
+      "gender": "m",
+      "example": "Le ski est mon sport d'hiver préféré.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "football",
+      "word": "football",
+      "en": "football",
+      "sourceId": "soccer",
+      "sourceIds": [
+        "soccer"
+      ],
+      "ru": [
+        "футбол",
+        "ногомяч",
+        "соккер"
+      ],
+      "gender": "m",
+      "example": "Il joue au football avec ses amis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grand-ecart",
+      "word": "grand écart",
+      "en": "grand écart",
+      "sourceId": "splits",
+      "sourceIds": [
+        "splits"
+      ],
+      "ru": [
+        "шпагат"
+      ],
+      "gender": "m",
+      "example": "Elle fait le grand écart avec une grande facilité.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sport",
+      "word": "sport",
+      "en": "sport",
+      "sourceId": "sport",
+      "sourceIds": [
+        "sport"
+      ],
+      "ru": [
+        "спорт"
+      ],
+      "gender": "m",
+      "example": "Le sport est bon pour la santé.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "sportif",
+      "word": "sportif",
+      "en": "sportif",
+      "sourceId": "sporting",
+      "sourceIds": [
+        "sporting",
+        "sporty"
+      ],
+      "ru": [
+        "спортивный"
+      ],
+      "gender": null,
+      "example": "Il mène une vie très sportive.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "ecurie",
+      "word": "écurie",
+      "en": "écurie",
+      "sourceId": "stable--sport",
+      "sourceIds": [
+        "stable--sport"
+      ],
+      "ru": [
+        "конюшня"
+      ],
+      "gender": "f",
+      "example": "Tu rejoins mon écurie plutôt ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "stade",
+      "word": "stade",
+      "en": "stade",
+      "sourceId": "stadium",
+      "sourceIds": [
+        "stadium"
+      ],
+      "ru": [
+        "стадион",
+        "ристалище"
+      ],
+      "gender": "m",
+      "example": "Le match de football a lieu dans ce grand stade.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "demarrer",
+      "word": "démarrer",
+      "en": "démarrer",
+      "sourceId": "start",
+      "sourceIds": [
+        "start"
+      ],
+      "ru": [
+        "начинать"
+      ],
+      "gender": null,
+      "example": "Démarrez le moteur.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "entree",
+      "word": "entrée",
+      "en": "entrée",
+      "sourceId": "starter",
+      "sourceIds": [
+        "starter"
+      ],
+      "ru": [
+        "стартер",
+        "стартёр",
+        "первое блюдо"
+      ],
+      "gender": "f",
+      "example": "En entrée, je prendrai la salade composée.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "etirement",
+      "word": "étirement",
+      "en": "étirement",
+      "sourceId": "stretch",
+      "sourceIds": [
+        "stretch"
+      ],
+      "ru": [
+        "растягивание",
+        "растяжка",
+        "эластичность"
+      ],
+      "gender": "m",
+      "example": "Il fait toujours un peu d'étirement avant de courir.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "brancard",
+      "word": "brancard",
+      "en": "brancard",
+      "sourceId": "stretcher",
+      "sourceIds": [
+        "stretcher"
+      ],
+      "ru": [
+        "носилки",
+        "подрамник"
+      ],
+      "gender": "m",
+      "example": "Les secouristes ont transporté le blessé sur un brancard.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "etirement",
+      "word": "étirement",
+      "en": "étirement",
+      "sourceId": "stretching",
+      "sourceIds": [
+        "stretching"
+      ],
+      "ru": [
+        "растяжка"
+      ],
+      "gender": "m",
+      "example": "Il fait des étirements avant de courir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "coup",
+      "word": "coup",
+      "en": "coup",
+      "sourceId": "strike",
+      "sourceIds": [
+        "strike"
+      ],
+      "ru": [
+        "удар"
+      ],
+      "gender": "m",
+      "example": "Il a reçu un coup sur la tête.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "attaquant",
+      "word": "attaquant",
+      "en": "attaquant",
+      "sourceId": "striker",
+      "sourceIds": [
+        "striker"
+      ],
+      "ru": [
+        "нападающий"
+      ],
+      "gender": "m",
+      "example": "L'attaquant a marqué un but magnifique.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "frappant",
+      "word": "frappant",
+      "en": "frappant",
+      "sourceId": "striking",
+      "sourceIds": [
+        "striking"
+      ],
+      "ru": [
+        "впечатляющая",
+        "впечатляющее",
+        "впечатляющие"
+      ],
+      "gender": null,
+      "example": "Il y a une ressemblance frappante entre les deux frères.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "nager",
+      "word": "nager",
+      "en": "nager",
+      "sourceId": "swim",
+      "sourceIds": [
+        "swim"
+      ],
+      "ru": [
+        "плавать"
+      ],
+      "gender": null,
+      "example": "Je nage le dimanche.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "nageur",
+      "word": "nageur",
+      "en": "nageur",
+      "sourceId": "swimmer",
+      "sourceIds": [
+        "swimmer"
+      ],
+      "ru": [
+        "пловец",
+        "пловчиха"
+      ],
+      "gender": "m",
+      "example": "Le nageur s'entraîne tous les matins à la piscine.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "natation",
+      "word": "natation",
+      "en": "natation",
+      "sourceId": "swimming",
+      "sourceIds": [
+        "swimming"
+      ],
+      "ru": [
+        "плавание"
+      ],
+      "gender": "f",
+      "example": "La natation est un excellent sport pour la santé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "equipe",
+      "word": "équipe",
+      "en": "équipe",
+      "sourceId": "team",
+      "sourceIds": [
+        "team"
+      ],
+      "ru": [
+        "упряжка",
+        "команда",
+        "артель"
+      ],
+      "gender": "f",
+      "example": "Notre équipe a gagné le match.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tennis",
+      "word": "tennis",
+      "en": "tennis",
+      "sourceId": "tennis",
+      "sourceIds": [
+        "tennis"
+      ],
+      "ru": [
+        "теннис"
+      ],
+      "gender": "m",
+      "example": "Il joue au tennis tous les samedis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lancer",
+      "word": "lancer",
+      "en": "lancer",
+      "sourceId": "throw",
+      "sourceIds": [
+        "throw"
+      ],
+      "ru": [
+        "бросать"
+      ],
+      "gender": null,
+      "example": "Lance-moi le ballon.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "egalite",
+      "word": "égalité",
+      "en": "égalité",
+      "sourceId": "tie",
+      "sourceIds": [
+        "tie"
+      ],
+      "ru": [
+        "равный счёт",
+        "ничья",
+        "связь"
+      ],
+      "gender": "f",
+      "example": "Le match s'est terminé sur une égalité.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tournoi",
+      "word": "tournoi",
+      "en": "tournoi",
+      "sourceId": "tournament",
+      "sourceIds": [
+        "tournament"
+      ],
+      "ru": [
+        "турнир",
+        "состязание"
+      ],
+      "gender": "m",
+      "example": "Il a gagné le tournoi de tennis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pister",
+      "word": "pister",
+      "en": "pister",
+      "sourceId": "track--sport",
+      "sourceIds": [
+        "track--sport"
+      ],
+      "ru": [
+        "беговая дорожка",
+        "трек"
+      ],
+      "gender": null,
+      "example": "Les forces spéciales pistent le colis.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "entraineur",
+      "word": "entraîneur",
+      "en": "entraîneur",
+      "sourceId": "trainer",
+      "sourceIds": [
+        "trainer"
+      ],
+      "ru": [
+        "тренер",
+        "тренерша",
+        "кроссовка"
+      ],
+      "gender": "m",
+      "example": "Il est l'entraîneur de l'équipe de football.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "formation",
+      "word": "formation",
+      "en": "formation",
+      "sourceId": "training",
+      "sourceIds": [
+        "training"
+      ],
+      "ru": [
+        "тренинг",
+        "обучение",
+        "тренировка"
+      ],
+      "gender": "f",
+      "example": "Il suit une formation professionnelle.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "arbitrer",
+      "word": "arbitrer",
+      "en": "arbitrer",
+      "sourceId": "umpire",
+      "sourceIds": [
+        "umpire"
+      ],
+      "ru": [
+        "судья",
+        "арбитр"
+      ],
+      "gender": null,
+      "example": "Il a été choisi pour arbitrer le match de tennis.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "victoire",
+      "word": "victoire",
+      "en": "victoire",
+      "sourceId": "victory",
+      "sourceIds": [
+        "victory"
+      ],
+      "ru": [
+        "победа",
+        "виктория"
+      ],
+      "gender": "f",
+      "example": "Ils ont célébré leur victoire après le match.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "volley-ball",
+      "word": "volley-ball",
+      "en": "volley-ball",
+      "sourceId": "volleyball",
+      "sourceIds": [
+        "volleyball"
+      ],
+      "ru": [
+        "волейбол",
+        "волейбольный мяч"
+      ],
+      "gender": "m",
+      "example": "Nous jouons au volley-ball sur la plage.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "echauffement",
+      "word": "échauffement",
+      "en": "échauffement",
+      "sourceId": "warm-up",
+      "sourceIds": [
+        "warm-up"
+      ],
+      "ru": [
+        "разминка"
+      ],
+      "gender": "m",
+      "example": "Il est important de faire un échauffement avant de courir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "gagner",
+      "word": "gagner",
+      "en": "gagner",
+      "sourceId": "win",
+      "sourceIds": [
+        "win"
+      ],
+      "ru": [
+        "выигрывать"
+      ],
+      "gender": null,
+      "example": "Je veux gagner.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "gagnant",
+      "word": "gagnant",
+      "en": "gagnant",
+      "sourceId": "winner",
+      "sourceIds": [
+        "winner"
+      ],
+      "ru": [
+        "победитель",
+        "победительница"
+      ],
+      "gender": "m",
+      "example": "Le gagnant a reçu un trophée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gagnant",
+      "word": "gagnant",
+      "en": "gagnant",
+      "sourceId": "winning",
+      "sourceIds": [
+        "winning"
+      ],
+      "ru": [
+        "выигрышный",
+        "победный"
+      ],
+      "gender": null,
+      "example": "C'est une stratégie gagnante.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "gagner",
+      "word": "gagner",
+      "en": "gagner",
+      "sourceId": "won",
+      "sourceIds": [
+        "won"
+      ],
+      "ru": [
+        "выиграл",
+        "победил"
+      ],
+      "gender": null,
+      "example": "Il a gagné le match.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "lutter",
+      "word": "lutter",
+      "en": "lutter",
+      "sourceId": "wrestling",
+      "sourceIds": [
+        "wrestling"
+      ],
+      "ru": [
+        "борьба"
+      ],
+      "gender": null,
+      "example": "Il aime lutter avec ses amis.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "yoga",
+      "word": "yoga",
+      "en": "yoga",
+      "sourceId": "yoga",
+      "sourceIds": [
+        "yoga"
+      ],
+      "ru": [
+        "йога"
+      ],
+      "gender": "m",
+      "example": "Je fais du yoga tous les matins pour me détendre.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "mulligan",
+      "word": "mulligan",
+      "en": "mulligan",
+      "sourceId": "mulligan",
+      "sourceIds": [
+        "mulligan"
+      ],
+      "ru": [
+        "переигровка"
+      ],
+      "gender": "m",
+      "example": "Tout le monde a droit à un mulligan.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boxeur",
+      "word": "boxeur",
+      "en": "boxeur",
+      "sourceId": "boxer",
+      "sourceIds": [
+        "boxer"
+      ],
+      "ru": [
+        "боксер"
+      ],
+      "gender": "m",
+      "example": "Le boxeur a gagné le combat.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "champion",
+      "word": "champion",
+      "en": "champion",
+      "sourceId": "champ",
+      "sourceIds": [
+        "champ"
+      ],
+      "ru": [
+        "чемпион"
+      ],
+      "gender": "m",
+      "example": "Oh, pas de chance, champion.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pilote",
+      "word": "pilote",
+      "en": "pilote",
+      "sourceId": "racer",
+      "sourceIds": [
+        "racer"
+      ],
+      "ru": [
+        "гонщик"
+      ],
+      "gender": "m",
+      "example": "Calme-toi, petit pilote.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "demi-tour",
+      "word": "demi-tour",
+      "en": "demi-tour",
+      "sourceId": "three-point",
+      "sourceIds": [
+        "three-point"
+      ],
+      "ru": [
+        "трехочковый"
+      ],
+      "gender": "m",
+      "example": "Il a fait un demi-tour en trois temps.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rythme",
+      "word": "rythme",
+      "en": "rythme",
+      "sourceId": "pace",
+      "sourceIds": [
+        "pace"
+      ],
+      "ru": [
+        "темп",
+        "шаг"
+      ],
+      "gender": "m",
+      "example": "En travaillant par équipes, le rythme s'est accéléré.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "triceps",
+      "word": "triathlon",
+      "en": "triathlon",
+      "sourceId": "tri",
+      "sourceIds": [
+        "tri"
+      ],
+      "ru": [
+        "триатлон"
+      ],
+      "gender": "m",
+      "example": "Elle s'entraîne pour un triathlon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sauter",
+      "word": "sauter",
+      "en": "sauter",
+      "sourceId": "leap",
+      "sourceIds": [
+        "leap",
+        "vault"
+      ],
+      "ru": [
+        "прыгать"
+      ],
+      "gender": null,
+      "example": "Il a sauté de joie en apprenant la nouvelle.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "plongee",
+      "word": "plongée",
+      "en": "plongée",
+      "sourceId": "dive",
+      "sourceIds": [
+        "dive"
+      ],
+      "ru": [
+        "прыжок в воду",
+        "погружение"
+      ],
+      "gender": "f",
+      "example": "Il a fait une belle plongée dans la piscine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "s-accroupir",
+      "word": "s'accroupir",
+      "en": "s'accroupir",
+      "sourceId": "squat",
+      "sourceIds": [
+        "squat"
+      ],
+      "ru": [
+        "приседание"
+      ],
+      "gender": null,
+      "example": "Daemon s'est accroupi là.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "tireur",
+      "word": "tireur",
+      "en": "tireur",
+      "sourceId": "marksman",
+      "sourceIds": [
+        "marksman"
+      ],
+      "ru": [
+        "стрелок"
+      ],
+      "gender": "m",
+      "example": "Il était un tireur d'élite à 10 ans ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "combat",
+      "word": "combat",
+      "en": "combat",
+      "sourceId": "combat",
+      "sourceIds": [
+        "combat"
+      ],
+      "ru": [
+        "бой",
+        "сражение"
+      ],
+      "gender": "m",
+      "example": "Il a été vaincu au combat.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grimpeur",
+      "word": "grimpeur",
+      "en": "grimpeur",
+      "sourceId": "climber",
+      "sourceIds": [
+        "climber"
+      ],
+      "ru": [
+        "альпинист",
+        "скалолаз"
+      ],
+      "gender": "m",
+      "example": "C'est un petit grimpeur intrépide.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "duel",
+      "word": "duel",
+      "en": "duel",
+      "sourceId": "duel",
+      "sourceIds": [
+        "duel"
+      ],
+      "ru": [
+        "дуэль",
+        "поединок"
+      ],
+      "gender": "m",
+      "example": "C'est le mauvais homme avec qui se battre en duel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "finaliste",
+      "word": "finaliste",
+      "en": "finaliste",
+      "sourceId": "runner-up",
+      "sourceIds": [
+        "runner-up"
+      ],
+      "ru": [
+        "занявший второе место"
+      ],
+      "gender": "m/f",
+      "example": "20 000 euros pour le finaliste.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "archer",
+      "word": "archer",
+      "en": "archer",
+      "sourceId": "archer",
+      "sourceIds": [
+        "archer"
+      ],
+      "ru": [
+        "лучник"
+      ],
+      "gender": "m",
+      "example": "L'archer gagnant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pique",
+      "word": "pique",
+      "en": "pique",
+      "sourceId": "pike",
+      "sourceIds": [
+        "pike"
+      ],
+      "ru": [
+        "пика",
+        "копье"
+      ],
+      "gender": "m",
+      "example": "qui n'ont jamais tenu de piques de leur vie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "joute",
+      "word": "joute",
+      "en": "joute",
+      "sourceId": "joust",
+      "sourceIds": [
+        "joust"
+      ],
+      "ru": [
+        "рыцарский турнир"
+      ],
+      "gender": "f",
+      "example": "Il a participé à la joute.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "endurance",
+      "word": "endurance",
+      "en": "endurance",
+      "sourceId": "stamina",
+      "sourceIds": [
+        "stamina"
+      ],
+      "ru": [
+        "выносливость"
+      ],
+      "gender": "f",
+      "example": "mais il manquait d'endurance.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arene",
+      "word": "arène",
+      "en": "arène",
+      "sourceId": "arena",
+      "sourceIds": [
+        "arena"
+      ],
+      "ru": [
+        "арена",
+        "место действия"
+      ],
+      "gender": "f",
+      "example": "Que vous viviez ou mouriez dans l'arène.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rythmique",
+      "word": "rythmique",
+      "en": "rythmique",
+      "sourceId": "rhythmic",
+      "sourceIds": [
+        "rhythmic"
+      ],
+      "ru": [
+        "ритмичный"
+      ],
+      "gender": null,
+      "example": "Je fais de la gymnastique rythmique, c'est vraiment génial.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "gymnastique",
+      "word": "gymnastique",
+      "en": "gymnastique",
+      "sourceId": "gymnastics",
+      "sourceIds": [
+        "gymnastics"
+      ],
+      "ru": [
+        "гимнастика"
+      ],
+      "gender": "f",
+      "example": "Je fais de la gymnastique rythmique, c'est vraiment génial.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ruban",
+      "word": "ruban",
+      "en": "ruban",
+      "sourceId": "ribbon",
+      "sourceIds": [
+        "ribbon"
+      ],
+      "ru": [
+        "лента"
+      ],
+      "gender": "m",
+      "example": "Et j'ai trébuché sur mon ruban.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "marathon",
+      "word": "marathon",
+      "en": "marathon",
+      "sourceId": "marathon",
+      "sourceIds": [
+        "marathon"
+      ],
+      "ru": [
+        "марафон"
+      ],
+      "gender": "m",
+      "example": "Ce changement est un marathon, pas un sprint.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "participer",
+      "word": "participer",
+      "en": "participer",
+      "sourceId": "compete",
+      "sourceIds": [
+        "compete"
+      ],
+      "ru": [
+        "соревноваться",
+        "конкурировать"
+      ],
+      "gender": null,
+      "example": "Katie participe à des concours de beauté.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "as",
+      "word": "as",
+      "en": "as",
+      "sourceId": "ace",
+      "sourceIds": [
+        "ace"
+      ],
+      "ru": [
+        "ас",
+        "туз"
+      ],
+      "gender": "m",
+      "example": "Il est un as du pilotage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "etrier",
+      "word": "étrier",
+      "en": "étrier",
+      "sourceId": "stirrup",
+      "sourceIds": [
+        "stirrup"
+      ],
+      "ru": [
+        "стремя"
+      ],
+      "gender": "m",
+      "example": "Et les étriers, vous savez.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cycliste",
+      "word": "cycliste",
+      "en": "cycliste",
+      "sourceId": "cyclist",
+      "sourceIds": [
+        "cyclist"
+      ],
+      "ru": [
+        "велосипедист"
+      ],
+      "gender": "m",
+      "example": "Il faut récupérer les cyclistes qui étaient trop ivres, stupides ou effrayés pour aller à l'hôpital hier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "spectateur",
+      "word": "spectateur",
+      "en": "spectateur",
+      "sourceId": "spectator",
+      "sourceIds": [
+        "spectator"
+      ],
+      "ru": [
+        "зритель"
+      ],
+      "gender": "m",
+      "example": "En tant que spectateur, je vous remercie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tournoi",
+      "word": "tournoi",
+      "en": "tournoi",
+      "sourceId": "tourney",
+      "sourceIds": [
+        "tourney"
+      ],
+      "ru": [
+        "турнир"
+      ],
+      "gender": "m",
+      "example": "Le tournoi commencera demain.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "combattant",
+      "word": "combattant",
+      "en": "combattant",
+      "sourceId": "combatant",
+      "sourceIds": [
+        "combatant"
+      ],
+      "ru": [
+        "боец",
+        "комбатант"
+      ],
+      "gender": "m",
+      "example": "Que la lumière brille sur tous les combattants !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "jockey",
+      "word": "jockey",
+      "en": "jockey",
+      "sourceId": "jockey",
+      "sourceIds": [
+        "jockey"
+      ],
+      "ru": [
+        "жокей"
+      ],
+      "gender": "m",
+      "example": "Bonjour, disc-jockey !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bagarre",
+      "word": "bagarre",
+      "en": "bagarre",
+      "sourceId": "fistfight",
+      "sourceIds": [
+        "fistfight"
+      ],
+      "ru": [
+        "драка на кулаках"
+      ],
+      "gender": "f",
+      "example": "Ils se sont retrouvés impliqués dans une bagarre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "jeux-olympiques",
+      "word": "Jeux olympiques",
+      "en": "Jeux olympiques",
+      "sourceId": "olympics",
+      "sourceIds": [
+        "olympics"
+      ],
+      "ru": [
+        "Олимпийские игры"
+      ],
+      "gender": "m",
+      "example": "une partie des « Jeux olympiques de la beauté »...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "stade-de-baseball",
+      "word": "stade de baseball",
+      "en": "stade de baseball",
+      "sourceId": "ballpark",
+      "sourceIds": [
+        "ballpark"
+      ],
+      "ru": [
+        "бейсбольный стадион",
+        "примерный диапазон"
+      ],
+      "gender": "m",
+      "example": "Elle a réussi un coup de maître.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "scaphandre",
+      "word": "scaphandre",
+      "en": "scaphandre",
+      "sourceId": "scuba",
+      "sourceIds": [
+        "scuba"
+      ],
+      "ru": [
+        "акваланг"
+      ],
+      "gender": "m",
+      "example": "Il vérifie son scaphandre avant de plonger.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "softball",
+      "word": "softball",
+      "en": "softball",
+      "sourceId": "softball",
+      "sourceIds": [
+        "softball"
+      ],
+      "ru": [
+        "софтбол"
+      ],
+      "gender": "m",
+      "example": "Le match de softball annuel de son entreprise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "derniere-manche",
+      "word": "dernière manche",
+      "en": "dernière manche",
+      "sourceId": "last-inning",
+      "sourceIds": [
+        "last-inning"
+      ],
+      "ru": [
+        "последний иннинг"
+      ],
+      "gender": "f",
+      "example": "Le double de Miranda et Syd en dernière manche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "transmettre",
+      "word": "transmettre",
+      "en": "transmettre",
+      "sourceId": "relay",
+      "sourceIds": [
+        "relay"
+      ],
+      "ru": [
+        "передавать"
+      ],
+      "gender": null,
+      "example": "Je vais transmettre ce message à mon collègue.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "joueur-de-cricket",
+      "word": "joueur de cricket",
+      "en": "joueur de cricket",
+      "sourceId": "cricketer",
+      "sourceIds": [
+        "cricketer"
+      ],
+      "ru": [
+        "игрок в крикет"
+      ],
+      "gender": "m",
+      "example": "Il est joueur de cricket.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "paintball",
+      "word": "paintball",
+      "en": "paintball",
+      "sourceId": "paintball",
+      "sourceIds": [
+        "paintball"
+      ],
+      "ru": [
+        "пейнтбол"
+      ],
+      "gender": "m",
+      "example": "On va faire du paintball ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "flechette",
+      "word": "fléchette",
+      "en": "fléchette",
+      "sourceId": "dart",
+      "sourceIds": [
+        "dart"
+      ],
+      "ru": [
+        "дротик"
+      ],
+      "gender": "f",
+      "example": "Tu lances des fléchettes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tour",
+      "word": "tour",
+      "en": "tour",
+      "sourceId": "lap",
+      "sourceIds": [
+        "lap"
+      ],
+      "ru": [
+        "круг (в гонке)",
+        "колени"
+      ],
+      "gender": "m",
+      "example": "Nous allons tous faire deux tours.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sport-professionnel",
+      "word": "sport professionnel",
+      "en": "sport professionnel",
+      "sourceId": "professional-ball",
+      "sourceIds": [
+        "professional-ball"
+      ],
+      "ru": [
+        "профессиональный спорт"
+      ],
+      "gender": "m",
+      "example": "La chasse n'est pas vraiment une carrière dans le sport professionnel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "criquet",
+      "word": "criquet",
+      "en": "criquet",
+      "sourceId": "cricket",
+      "sourceIds": [
+        "cricket"
+      ],
+      "ru": [
+        "крикет",
+        "сверчок"
+      ],
+      "gender": "m",
+      "example": "Le criquet chante dans l'herbe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "entrainement",
+      "word": "entraînement",
+      "en": "entraînement",
+      "sourceId": "workout",
+      "sourceIds": [
+        "workout"
+      ],
+      "ru": [
+        "тренировка"
+      ],
+      "gender": "m",
+      "example": "Tous ces entraînements sont épuisants.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "terrain",
+      "word": "terrain",
+      "en": "terrain",
+      "sourceId": "pitch",
+      "sourceIds": [
+        "pitch"
+      ],
+      "ru": [
+        "подача",
+        "высота звука",
+        "поле"
+      ],
+      "gender": "m",
+      "example": "Sortez du terrain !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "athletique",
+      "word": "athlétique",
+      "en": "athlétique",
+      "sourceId": "athletic",
+      "sourceIds": [
+        "athletic"
+      ],
+      "ru": [
+        "спортивный"
+      ],
+      "gender": null,
+      "example": "dont le succès athlétique",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "gardien-de-but",
+      "word": "gardien de but",
+      "en": "gardien de but",
+      "sourceId": "goalie",
+      "sourceIds": [
+        "goalie"
+      ],
+      "ru": [
+        "вратарь"
+      ],
+      "gender": "m",
+      "example": "Le gardien de but a arrêté le ballon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "trophee",
+      "word": "trophée",
+      "en": "trophée",
+      "sourceId": "trophy",
+      "sourceIds": [
+        "trophy"
+      ],
+      "ru": [
+        "трофей"
+      ],
+      "gender": "m",
+      "example": "Un trophée de ce millénaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "milieu-de-terrain",
+      "word": "milieu de terrain",
+      "en": "milieu de terrain",
+      "sourceId": "midfielder",
+      "sourceIds": [
+        "midfielder"
+      ],
+      "ru": [
+        "полузащитник"
+      ],
+      "gender": "m",
+      "example": "C'est un milieu de terrain classique box-to-box à l'ancienne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "buteur",
+      "word": "buteur",
+      "en": "buteur",
+      "sourceId": "scorer",
+      "sourceIds": [
+        "scorer"
+      ],
+      "ru": [
+        "бомбардир",
+        "забивающий"
+      ],
+      "gender": "m",
+      "example": "Il est le meilleur buteur de l'équipe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "crampon",
+      "word": "crampon",
+      "en": "crampon",
+      "sourceId": "cleat",
+      "sourceIds": [
+        "cleat"
+      ],
+      "ru": [
+        "шип (на обуви)"
+      ],
+      "gender": "m",
+      "example": "Comme une sculpture de Rodin en crampons.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hors-jeu",
+      "word": "hors-jeu",
+      "en": "hors-jeu",
+      "sourceId": "offside",
+      "sourceIds": [
+        "offside"
+      ],
+      "ru": [
+        "вне игры"
+      ],
+      "gender": "m",
+      "example": "Peux-tu m'expliquer la règle du hors-jeu ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "derby",
+      "word": "derby",
+      "en": "derby",
+      "sourceId": "derby",
+      "sourceIds": [
+        "derby"
+      ],
+      "ru": [
+        "дерби",
+        "скачки"
+      ],
+      "gender": "m",
+      "example": "C'est le jour du derby à Londres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "courses-de-levriers",
+      "word": "courses de lévriers",
+      "en": "courses de lévriers",
+      "sourceId": "dogtrack",
+      "sourceIds": [
+        "dogtrack"
+      ],
+      "ru": [
+        "собачьи бега"
+      ],
+      "gender": "f",
+      "example": "Les fans appellent cela les courses de lévriers.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "une-deux",
+      "word": "une-deux",
+      "en": "une-deux",
+      "sourceId": "give-and-go",
+      "sourceIds": [
+        "give-and-go"
+      ],
+      "ru": [
+        "игра в пас"
+      ],
+      "gender": "m",
+      "example": "Leur jeu est basé sur le une-deux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lutter",
+      "word": "lutter",
+      "en": "lutter",
+      "sourceId": "wrestle",
+      "sourceIds": [
+        "wrestle"
+      ],
+      "ru": [
+        "бороться"
+      ],
+      "gender": null,
+      "example": "Michelle Obama et moi avons fait un bras de fer.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "echecs",
+      "word": "échecs",
+      "en": "échecs",
+      "sourceId": "chess",
+      "sourceIds": [
+        "chess"
+      ],
+      "ru": [
+        "шахматы"
+      ],
+      "gender": "m",
+      "example": "L'équipe d'échecs a un nouvel entraîneur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chahut",
+      "word": "chahut",
+      "en": "chahut",
+      "sourceId": "rough-and-tumble",
+      "sourceIds": [
+        "rough-and-tumble"
+      ],
+      "ru": [
+        "беспорядочная борьба"
+      ],
+      "gender": "m",
+      "example": "dans la cour de récréation pleine de chahut",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "domino",
+      "word": "domino",
+      "en": "domino",
+      "sourceId": "domino",
+      "sourceIds": [
+        "domino"
+      ],
+      "ru": [
+        "домино"
+      ],
+      "gender": "m",
+      "example": "le premier domino qui doit tomber",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "meilleur-joueur",
+      "word": "meilleur joueur",
+      "en": "meilleur joueur",
+      "sourceId": "most-valuable-player",
+      "sourceIds": [
+        "most-valuable-player"
+      ],
+      "ru": [
+        "самый ценный игрок"
+      ],
+      "gender": "m",
+      "example": "Il a été élu meilleur joueur du tournoi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "relegation",
+      "word": "relégation",
+      "en": "relégation",
+      "sourceId": "relegation",
+      "sourceIds": [
+        "relegation"
+      ],
+      "ru": [
+        "понижение в классе"
+      ],
+      "gender": "f",
+      "example": "L'embarras de la relégation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ecraser",
+      "word": "écraser",
+      "en": "écraser",
+      "sourceId": "squash",
+      "sourceIds": [
+        "squash"
+      ],
+      "ru": [
+        "раздавливать",
+        "сплющивать"
+      ],
+      "gender": null,
+      "example": "Peut-être voulaient-ils les faire écraser.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "pretendant",
+      "word": "prétendant",
+      "en": "prétendant",
+      "sourceId": "contender",
+      "sourceIds": [
+        "contender"
+      ],
+      "ru": [
+        "претендент",
+        "соперник"
+      ],
+      "gender": "m",
+      "example": "Le prétendant le plus évident est celui-ci.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "temps-au-tour",
+      "word": "temps au tour",
+      "en": "temps au tour",
+      "sourceId": "lap-time",
+      "sourceIds": [
+        "lap-time"
+      ],
+      "ru": [
+        "время круга"
+      ],
+      "gender": "m",
+      "example": "Nous allons faire un tour sur notre piste d'essai pour établir un temps au tour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "kart",
+      "word": "kart",
+      "en": "kart",
+      "sourceId": "go-kart",
+      "sourceIds": [
+        "go-kart"
+      ],
+      "ru": [
+        "карт"
+      ],
+      "gender": "m",
+      "example": "Les karts roulent pendant la journée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arriere",
+      "word": "arrière",
+      "en": "arrière",
+      "sourceId": "full-back",
+      "sourceIds": [
+        "full-back"
+      ],
+      "ru": [
+        "защитник"
+      ],
+      "gender": "m",
+      "example": "Il joue comme arrière à Arsenal.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "temps-mort",
+      "word": "temps mort",
+      "en": "temps mort",
+      "sourceId": "timeout",
+      "sourceIds": [
+        "timeout"
+      ],
+      "ru": [
+        "тайм-аут",
+        "перерыв"
+      ],
+      "gender": "m",
+      "example": "On a pris un temps mort pour discuter de la stratégie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rafraichir",
+      "word": "rafraîchir",
+      "en": "rafraîchir",
+      "sourceId": "jog",
+      "sourceIds": [
+        "jog"
+      ],
+      "ru": [
+        "бегать трусцой"
+      ],
+      "gender": null,
+      "example": "Cela m'a rafraîchi la mémoire.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "pecher-a-la-mouche",
+      "word": "pêcher à la mouche",
+      "en": "pêcher à la mouche",
+      "sourceId": "fly-fish",
+      "sourceIds": [
+        "fly-fish"
+      ],
+      "ru": [
+        "ловить на мушку"
+      ],
+      "gender": null,
+      "example": "Tu pêches à la mouche ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "rale",
+      "word": "râle",
+      "en": "râle",
+      "sourceId": "rummy",
+      "sourceIds": [
+        "rummy"
+      ],
+      "ru": [
+        "рамми (игра)"
+      ],
+      "gender": "m",
+      "example": "Il a un râle dans la gorge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lanceur",
+      "word": "lanceur",
+      "en": "lanceur",
+      "sourceId": "pitcher",
+      "sourceIds": [
+        "pitcher"
+      ],
+      "ru": [
+        "питчер (бейсбол)"
+      ],
+      "gender": "m",
+      "example": "Le lanceur a réussi un retrait sur des prises.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "huit",
+      "word": "huit",
+      "en": "huit",
+      "sourceId": "eight-ball",
+      "sourceIds": [
+        "eight-ball"
+      ],
+      "ru": [
+        "восьмерка (бильярд)"
+      ],
+      "gender": null,
+      "example": "Il a empoché la huit pour gagner la partie.",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "pagaie",
+      "word": "pagaie",
+      "en": "pagaie",
+      "sourceId": "paddle",
+      "sourceIds": [
+        "paddle"
+      ],
+      "ru": [
+        "весло",
+        "ракетка"
+      ],
+      "gender": "f",
+      "example": "Il utilise une pagaie pour avancer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bagarre",
+      "word": "bagarre",
+      "en": "bagarre",
+      "sourceId": "throwdown",
+      "sourceIds": [
+        "throwdown"
+      ],
+      "ru": [
+        "вызов",
+        "драка"
+      ],
+      "gender": "f",
+      "example": "À propos de cette grosse bagarre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hamecon",
+      "word": "hameçon",
+      "en": "hameçon",
+      "sourceId": "fishhook",
+      "sourceIds": [
+        "fishhook"
+      ],
+      "ru": [
+        "рыболовный крючок"
+      ],
+      "gender": "m",
+      "example": "Il a attrapé le poisson avec un hameçon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "penalite",
+      "word": "pénalité",
+      "en": "pénalité",
+      "sourceId": "penalty",
+      "sourceIds": [
+        "penalty"
+      ],
+      "ru": [
+        "штраф",
+        "наказание"
+      ],
+      "gender": "f",
+      "example": "Des pénalités de retrait s'appliquent.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "football",
+      "word": "football",
+      "en": "football",
+      "sourceId": "footie",
+      "sourceIds": [
+        "footie"
+      ],
+      "ru": [
+        "футбол"
+      ],
+      "gender": "m",
+      "example": "Il adore regarder le football à la télévision.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "adresse-au-tir",
+      "word": "adresse au tir",
+      "en": "adresse au tir",
+      "sourceId": "marksmanship",
+      "sourceIds": [
+        "marksmanship"
+      ],
+      "ru": [
+        "меткость"
+      ],
+      "gender": "f",
+      "example": "Il a fait preuve d'une grande adresse au tir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gradin",
+      "word": "gradin",
+      "en": "gradin",
+      "sourceId": "bleacher",
+      "sourceIds": [
+        "bleacher"
+      ],
+      "ru": [
+        "скамья для зрителей"
+      ],
+      "gender": "m",
+      "example": "Sous les gradins.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "appareil-de-musculation-pour-les-cuisses",
+      "word": "appareil de musculation pour les cuisses",
+      "en": "appareil de musculation pour les cuisses",
+      "sourceId": "thighmaster",
+      "sourceIds": [
+        "thighmaster"
+      ],
+      "ru": [
+        "тренажер для бедер"
+      ],
+      "gender": "m",
+      "example": "Le voisin a acheté un appareil de musculation pour les cuisses.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cardio",
+      "word": "cardio",
+      "en": "cardio",
+      "sourceId": "cardio",
+      "sourceIds": [
+        "cardio"
+      ],
+      "ru": [
+        "кардиотренировка"
+      ],
+      "gender": "m",
+      "example": "Tu fais beaucoup de cardio ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "linebacker",
+      "word": "linebacker",
+      "en": "linebacker",
+      "sourceId": "linebacker",
+      "sourceIds": [
+        "linebacker"
+      ],
+      "ru": [
+        "лайнбекер"
+      ],
+      "gender": "m",
+      "example": "Ils sont tous les deux linebackers pour les Eagles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sauter-a-la-perche",
+      "word": "sauter à la perche",
+      "en": "sauter à la perche",
+      "sourceId": "pole-vault",
+      "sourceIds": [
+        "pole-vault"
+      ],
+      "ru": [
+        "прыгать с шестом"
+      ],
+      "gender": null,
+      "example": "Il s'entraîne à sauter à la perche tous les jours.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "backgammon",
+      "word": "backgammon",
+      "en": "backgammon",
+      "sourceId": "backgammon",
+      "sourceIds": [
+        "backgammon"
+      ],
+      "ru": [
+        "нарды"
+      ],
+      "gender": "m",
+      "example": "Le backgammon est le plus vieux jeu du monde.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "quarterback",
+      "word": "quarterback",
+      "en": "quarterback",
+      "sourceId": "quarterback",
+      "sourceIds": [
+        "quarterback"
+      ],
+      "ru": [
+        "квотербек"
+      ],
+      "gender": "m",
+      "example": "Le quarterback vedette a été le premier choix de la draft.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "trampoline",
+      "word": "trampoline",
+      "en": "trampoline",
+      "sourceId": "trampoline",
+      "sourceIds": [
+        "trampoline"
+      ],
+      "ru": [
+        "батут"
+      ],
+      "gender": "m",
+      "example": "Pense à ton trampoline.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "salto-arriere",
+      "word": "salto arrière",
+      "en": "salto arrière",
+      "sourceId": "backflip",
+      "sourceIds": [
+        "backflip"
+      ],
+      "ru": [
+        "сальто назад"
+      ],
+      "gender": "m",
+      "example": "Il a fait un salto arrière avec toi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "se-mettre-en-garde",
+      "word": "se mettre en garde",
+      "en": "se mettre en garde",
+      "sourceId": "square-off",
+      "sourceIds": [
+        "square-off"
+      ],
+      "ru": [
+        "принимать боевую стойку",
+        "готовиться к драке"
+      ],
+      "gender": null,
+      "example": "Il s'est mis en garde avant de commencer le combat.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "zumba",
+      "word": "zumba",
+      "en": "zumba",
+      "sourceId": "zumba",
+      "sourceIds": [
+        "zumba"
+      ],
+      "ru": [
+        "зумба"
+      ],
+      "gender": "f",
+      "example": "La boxe ou votre zumba.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "wakeboard",
+      "word": "wakeboard",
+      "en": "wakeboard",
+      "sourceId": "wakeboarding",
+      "sourceIds": [
+        "wakeboarding"
+      ],
+      "ru": [
+        "вейкбординг"
+      ],
+      "gender": "m",
+      "example": "Je vais faire du wakeboard dans un instant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "recreatif",
+      "word": "récréatif",
+      "en": "récréatif",
+      "sourceId": "recreational",
+      "sourceIds": [
+        "recreational"
+      ],
+      "ru": [
+        "развлекательный",
+        "рекреационный"
+      ],
+      "gender": null,
+      "example": "C'est une activité récréative.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "ballon-prisonnier",
+      "word": "ballon prisonnier",
+      "en": "ballon prisonnier",
+      "sourceId": "dodgeball",
+      "sourceIds": [
+        "dodgeball"
+      ],
+      "ru": [
+        "вышибалы"
+      ],
+      "gender": "m",
+      "example": "Être choisi en dernier pour le ballon prisonnier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "athlete",
+      "word": "athlète",
+      "en": "athlète",
+      "sourceId": "jock",
+      "sourceIds": [
+        "jock"
+      ],
+      "ru": [
+        "спортсмен"
+      ],
+      "gender": "m",
+      "example": "Avec ces athlètes du scalpel ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "acrobate",
+      "word": "acrobate",
+      "en": "acrobate",
+      "sourceId": "acrobat",
+      "sourceIds": [
+        "acrobat"
+      ],
+      "ru": [
+        "акробат"
+      ],
+      "gender": "m",
+      "example": "Notre acrobate.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "corde-raide",
+      "word": "corde raide",
+      "en": "corde raide",
+      "sourceId": "tightrope",
+      "sourceIds": [
+        "tightrope"
+      ],
+      "ru": [
+        "канат"
+      ],
+      "gender": "f",
+      "example": "Il marche sur la corde raide.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "escapologie",
+      "word": "escapologie",
+      "en": "escapologie",
+      "sourceId": "escapology",
+      "sourceIds": [
+        "escapology"
+      ],
+      "ru": [
+        "эскапология"
+      ],
+      "gender": "f",
+      "example": "Un numéro classique d'escapologie chinoise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arbalete",
+      "word": "arbalète",
+      "en": "arbalète",
+      "sourceId": "crossbow",
+      "sourceIds": [
+        "crossbow"
+      ],
+      "ru": [
+        "арбалет"
+      ],
+      "gender": "f",
+      "example": "L'arbalète est suspendue à une corde délicate.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "escapologue",
+      "word": "escapologue",
+      "en": "escapologue",
+      "sourceId": "escapologist",
+      "sourceIds": [
+        "escapologist"
+      ],
+      "ru": [
+        "эскаполог"
+      ],
+      "gender": "m/f",
+      "example": "L'escapologue crie et fait des efforts.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fusil",
+      "word": "fusil",
+      "en": "fusil",
+      "sourceId": "rifle",
+      "sourceIds": [
+        "rifle"
+      ],
+      "ru": [
+        "винтовка"
+      ],
+      "gender": "m",
+      "example": "Il porte un fusil d'assaut.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cerceau",
+      "word": "cerceau",
+      "en": "cerceau",
+      "sourceId": "hoop",
+      "sourceIds": [
+        "hoop"
+      ],
+      "ru": [
+        "обруч"
+      ],
+      "gender": "m",
+      "example": "C'est à ce moment-là qu'ils vous mettent un cerceau en métal dans le derrière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "traverse",
+      "word": "traverse",
+      "en": "traverse",
+      "sourceId": "crossbar",
+      "sourceIds": [
+        "crossbar"
+      ],
+      "ru": [
+        "перекладина"
+      ],
+      "gender": "f",
+      "example": "les panneaux A, B et F et la traverse H",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rugby",
+      "word": "rugby",
+      "en": "rugby",
+      "sourceId": "rugby",
+      "sourceIds": [
+        "rugby"
+      ],
+      "ru": [
+        "регби"
+      ],
+      "gender": "m",
+      "example": "Pas si vous êtes une équipe de rugby.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lob",
+      "word": "lob",
+      "en": "lob",
+      "sourceId": "lob",
+      "sourceIds": [
+        "lob"
+      ],
+      "ru": [
+        "высокий навесной удар"
+      ],
+      "gender": "m",
+      "example": "Il a marqué d'un superbe lob.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tableau-d-affichage",
+      "word": "tableau d'affichage",
+      "en": "tableau d'affichage",
+      "sourceId": "scoreboard",
+      "sourceIds": [
+        "scoreboard"
+      ],
+      "ru": [
+        "табло",
+        "счетчик очков"
+      ],
+      "gender": "m",
+      "example": "Le tableau d'affichage indique le score actuel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "circuit",
+      "word": "circuit",
+      "en": "circuit",
+      "sourceId": "racetrack",
+      "sourceIds": [
+        "racetrack"
+      ],
+      "ru": [
+        "гоночная трасса"
+      ],
+      "gender": "m",
+      "example": "un circuit de votre choix.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faire-la-culbute",
+      "word": "faire la culbute",
+      "en": "faire la culbute",
+      "sourceId": "somersault",
+      "sourceIds": [
+        "somersault"
+      ],
+      "ru": [
+        "делать сальто",
+        "кувыркаться"
+      ],
+      "gender": null,
+      "example": "et faire des culbutes.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "rodeo",
+      "word": "rodéo",
+      "en": "rodéo",
+      "sourceId": "rodeo",
+      "sourceIds": [
+        "rodeo"
+      ],
+      "ru": [
+        "родео"
+      ],
+      "gender": "m",
+      "example": "Il a participé à un rodéo dans le Texas.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "strip-poker",
+      "word": "strip-poker",
+      "en": "strip-poker",
+      "sourceId": "strip-poker",
+      "sourceIds": [
+        "strip-poker"
+      ],
+      "ru": [
+        "покер на раздевание"
+      ],
+      "gender": "m",
+      "example": "On joue au strip-poker.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "planche-de-surf",
+      "word": "planche de surf",
+      "en": "planche de surf",
+      "sourceId": "surfboard",
+      "sourceIds": [
+        "surfboard"
+      ],
+      "ru": [
+        "доска для серфинга"
+      ],
+      "gender": "f",
+      "example": "une planche de surf à 400 dollars",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pom-pom-girl",
+      "word": "pom-pom girl",
+      "en": "pom-pom girl",
+      "sourceId": "cheerleader",
+      "sourceIds": [
+        "cheerleader"
+      ],
+      "ru": [
+        "чирлидер"
+      ],
+      "gender": "f",
+      "example": "Tu es une pom-pom girl.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

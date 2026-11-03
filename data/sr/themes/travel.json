@@ -1,0 +1,4455 @@
+{
+  "id": "travel",
+  "title": "Путешествия",
+  "paid": false,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "aerodrom",
+      "word": "aerodrom",
+      "en": "aerodrom",
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "example": "Njegov avion još nije stigao na aerodrom.",
+      "level": "A2",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "аеродром"
+    },
+    {
+      "id": "karta",
+      "word": "karta",
+      "en": "karta",
+      "ru": [
+        "билет",
+        "лицензия",
+        "разрешение"
+      ],
+      "example": "Bez karte, on bi se zasigurno izgubio.",
+      "level": "B1",
+      "sourceId": "ticket",
+      "sourceIds": [
+        "ticket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "карта"
+    },
+    {
+      "id": "pasos",
+      "word": "pasoš",
+      "en": "pasoš",
+      "ru": [
+        "паспорт",
+        "заграничный паспорт",
+        "загран"
+      ],
+      "example": "Mislim da mi pasoš ističe sledeće godine.",
+      "level": "B2",
+      "sourceId": "passport",
+      "sourceIds": [
+        "passport"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пасош"
+    },
+    {
+      "id": "prtljag",
+      "word": "prtljag",
+      "en": "prtljag",
+      "ru": [
+        "багаж",
+        "кладь",
+        "поклажа"
+      ],
+      "example": "Dala sam mu da mi nosi prtljag.",
+      "level": "B2",
+      "sourceId": "luggage",
+      "sourceIds": [
+        "luggage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пртљаг"
+    },
+    {
+      "id": "hotel",
+      "word": "hotel",
+      "en": "hotel",
+      "ru": [
+        "отель",
+        "гостиница"
+      ],
+      "example": "Nećemo više da odsedamo u tom hotelu.",
+      "level": "A1",
+      "sourceId": "hotel",
+      "sourceIds": [
+        "hotel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "хотел"
+    },
+    {
+      "id": "let",
+      "word": "let",
+      "en": "let",
+      "ru": [
+        "рейс",
+        "полёт",
+        "бегство"
+      ],
+      "example": "Na jesen ptice selice lete na jug.",
+      "level": "B1",
+      "sourceId": "flight",
+      "sourceIds": [
+        "flight"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лет"
+    },
+    {
+      "id": "odlazak",
+      "word": "odlazak",
+      "en": "odlazak",
+      "ru": [
+        "отправление",
+        "вылет",
+        "отклонение"
+      ],
+      "example": "Da li si spreman za odlazak kući?",
+      "level": "B2",
+      "sourceId": "departure",
+      "sourceIds": [
+        "departure"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "одлазак"
+    },
+    {
+      "id": "dolazak",
+      "word": "dolazak",
+      "en": "dolazak",
+      "ru": [
+        "прибытие",
+        "приезд",
+        "прилёт"
+      ],
+      "example": "Nesreća se desila pre mog dolaska.",
+      "level": "B2",
+      "sourceId": "arrival",
+      "sourceIds": [
+        "arrival"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "долазак"
+    },
+    {
+      "id": "karta",
+      "word": "karta",
+      "en": "karta",
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "example": "Bez karte, on bi se zasigurno izgubio.",
+      "level": "A1",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "карта"
+    },
+    {
+      "id": "kofer",
+      "word": "kofer",
+      "en": "kofer",
+      "ru": [
+        "чемодан"
+      ],
+      "example": "Hoćeš li mi pomoći da spakujem kofere?",
+      "level": "C2",
+      "sourceId": "suitcase",
+      "sourceIds": [
+        "suitcase"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "кофер"
+    },
+    {
+      "id": "granica",
+      "word": "granica",
+      "en": "granica",
+      "ru": [
+        "граница",
+        "кордон",
+        "межа"
+      ],
+      "example": "Granice moga jezika su granice moga sveta.",
+      "level": "B1",
+      "sourceId": "border",
+      "sourceIds": [
+        "border"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "граница"
+    },
+    {
+      "id": "turista",
+      "word": "turista",
+      "en": "turista",
+      "ru": [
+        "турист",
+        "путешественник",
+        "путешественница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "tourist",
+      "sourceIds": [
+        "tourist"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "туриста"
+    },
+    {
+      "id": "u-inostranstvu",
+      "word": "u inostranstvu",
+      "en": "u inostranstvu",
+      "ru": [
+        "за границей",
+        "за границу",
+        "за кордоном"
+      ],
+      "example": "Da li si nekada bio u inostranstvu?",
+      "level": "B2",
+      "sourceId": "abroad",
+      "sourceIds": [
+        "abroad"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "у иностранству"
+    },
+    {
+      "id": "smestaj",
+      "word": "smeštaj",
+      "en": "smeštaj",
+      "ru": [
+        "жильё",
+        "жилище",
+        "расквартирование"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "accommodation",
+      "sourceIds": [
+        "accommodation"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "смештај"
+    },
+    {
+      "id": "avantura",
+      "word": "avantura",
+      "en": "avantura",
+      "ru": [
+        "приключение",
+        "событие",
+        "авантюра"
+      ],
+      "example": "Volim da nepripremljen uskočim u nove avanture.",
+      "level": "B1",
+      "sourceId": "adventure",
+      "sourceIds": [
+        "adventure"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "авантура"
+    },
+    {
+      "id": "avanturista",
+      "word": "avanturista",
+      "en": "avanturista",
+      "ru": [
+        "искатель приключений",
+        "искательница приключений",
+        "авантюрист"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "adventurer",
+      "sourceIds": [
+        "adventurer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "авантуриста"
+    },
+    {
+      "id": "avanturistkinja",
+      "word": "avanturistkinja",
+      "en": "avanturistkinja",
+      "ru": [
+        "авантюристка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "adventuress",
+      "sourceIds": [
+        "adventuress"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "авантуристкиња"
+    },
+    {
+      "id": "letelica",
+      "word": "letelica",
+      "en": "letelica",
+      "ru": [
+        "самолёт",
+        "летательный аппарат",
+        "воздушное судно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "aircraft",
+      "sourceIds": [
+        "aircraft"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "летелица"
+    },
+    {
+      "id": "aviokompanija",
+      "word": "aviokompanija",
+      "en": "aviokompanija",
+      "ru": [
+        "авиакомпания",
+        "авиалинии",
+        "авиапредприятие"
+      ],
+      "example": "Let 112 za Tokijo, aviokompanije \"A\", će kasniti 30 minuta.",
+      "level": "B1",
+      "sourceId": "airline",
+      "sourceIds": [
+        "airline"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "авиокомпанија"
+    },
+    {
+      "id": "putnicki-avion",
+      "word": "putnički avion",
+      "en": "putnički avion",
+      "ru": [
+        "авиалайнер",
+        "воздушный лайнер",
+        "пассажирский самолёт"
+      ],
+      "example": "SAD izvozi putničke avione vredne milijarde dolara.",
+      "level": "C2",
+      "sourceId": "airliner",
+      "sourceIds": [
+        "airliner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путнички авион"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "ru": [
+        "самолёт",
+        "аэроплан"
+      ],
+      "example": "Mlaznjaci idu brže nego avioni sa propelerima.",
+      "level": "C1",
+      "sourceId": "airplane",
+      "sourceIds": [
+        "airplane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "авион"
+    },
+    {
+      "id": "avenija",
+      "word": "avenija",
+      "en": "avenija",
+      "ru": [
+        "авеню",
+        "проспект"
+      ],
+      "example": "Avenija mira u Hirošimi duga je 3,5, a široka 100 metara.",
+      "level": "B1",
+      "sourceId": "avenue",
+      "sourceIds": [
+        "avenue"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "авенија"
+    },
+    {
+      "id": "ranac",
+      "word": "ranac",
+      "en": "ranac",
+      "ru": [
+        "рюкзак",
+        "ранец"
+      ],
+      "example": "Da li Tom ima ranac?",
+      "level": "C2",
+      "sourceId": "backpack",
+      "sourceIds": [
+        "backpack"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ранац"
+    },
+    {
+      "id": "bekpeker",
+      "word": "bekpeker",
+      "en": "bekpeker",
+      "ru": [
+        "бэкпэкер",
+        "пеший турист",
+        "пешая туристка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "backpacker",
+      "sourceIds": [
+        "backpacker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "бекпекер"
+    },
+    {
+      "id": "putovanje-s-rancem",
+      "word": "putovanje s rancem",
+      "en": "putovanje s rancem",
+      "ru": [
+        "бэкпэкинг"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "backpacking",
+      "sourceIds": [
+        "backpacking"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "путовање с ранцем"
+    },
+    {
+      "id": "balkon",
+      "word": "balkon",
+      "en": "balkon",
+      "ru": [
+        "балкон"
+      ],
+      "example": "Ja sam na balkonu.",
+      "level": "A2",
+      "sourceId": "balcony",
+      "sourceIds": [
+        "balcony"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "балкон"
+    },
+    {
+      "id": "plaza",
+      "word": "plaža",
+      "en": "plaža",
+      "ru": [
+        "пляж",
+        "взморье"
+      ],
+      "example": "Deca vole da se igraju na plaži.",
+      "level": "A1",
+      "sourceId": "beach",
+      "sourceIds": [
+        "beach"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "плажа"
+    },
+    {
+      "id": "bicikl",
+      "word": "bicikl",
+      "en": "bicikl",
+      "ru": [
+        "велосипед",
+        "велик",
+        "педалировать"
+      ],
+      "example": "Da li Tom voli da vozi bicikl?",
+      "level": "C1",
+      "sourceId": "bicycle",
+      "sourceIds": [
+        "bicycle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "бицикл"
+    },
+    {
+      "id": "ukrcavanje",
+      "word": "ukrcavanje",
+      "en": "ukrcavanje",
+      "ru": [
+        "посадка",
+        "абордаж"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "boarding",
+      "sourceIds": [
+        "boarding"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "укрцавање"
+    },
+    {
+      "id": "camac",
+      "word": "čamac",
+      "en": "čamac",
+      "ru": [
+        "лодка",
+        "бот",
+        "ладья"
+      ],
+      "example": "Do ostrva je lako stići čamcem.",
+      "level": "B1",
+      "sourceId": "boat",
+      "sourceIds": [
+        "boat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "чамац"
+    },
+    {
+      "id": "rezervacija",
+      "word": "rezervacija",
+      "en": "rezervacija",
+      "ru": [
+        "бронирование",
+        "бронь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "booking",
+      "sourceIds": [
+        "booking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "резервација"
+    },
+    {
+      "id": "bulevar",
+      "word": "bulevar",
+      "en": "bulevar",
+      "ru": [
+        "бульвар",
+        "проспект"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "boulevard",
+      "sourceIds": [
+        "boulevard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "булевар"
+    },
+    {
+      "id": "most",
+      "word": "most",
+      "en": "most",
+      "ru": [
+        "мост"
+      ],
+      "example": "Video sam Toma kako prelazi preko mosta.",
+      "level": "B1",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мост"
+    },
+    {
+      "id": "autobus",
+      "word": "autobus",
+      "en": "autobus",
+      "ru": [
+        "автобус"
+      ],
+      "example": "Automobili, autobusi i kamioni su svi vozila.",
+      "level": "A2",
+      "sourceId": "bus",
+      "sourceIds": [
+        "bus"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "аутобус"
+    },
+    {
+      "id": "koliba",
+      "word": "koliba",
+      "en": "koliba",
+      "ru": [
+        "домик",
+        "лачуга",
+        "хижина"
+      ],
+      "example": "Ova koliba je u opasnosti da se sruši.",
+      "level": "C1",
+      "sourceId": "cabin",
+      "sourceIds": [
+        "cabin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "колиба"
+    },
+    {
+      "id": "kampovanje",
+      "word": "kampovanje",
+      "en": "kampovanje",
+      "ru": [
+        "проживание в лагере",
+        "жизнь в палатке"
+      ],
+      "example": "Da li Tom voli da ide na kampovanje?",
+      "level": "B1",
+      "sourceId": "camping",
+      "sourceIds": [
+        "camping"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "камповање"
+    },
+    {
+      "id": "automobil",
+      "word": "automobil",
+      "en": "automobil",
+      "ru": [
+        "авто",
+        "автомашина",
+        "автомобиль"
+      ],
+      "example": "Automobil koji je prošao je pljusnuo Toma.",
+      "level": "A1",
+      "sourceId": "car",
+      "sourceIds": [
+        "car"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "аутомобил"
+    },
+    {
+      "id": "kocija",
+      "word": "kočija",
+      "en": "kočija",
+      "ru": [
+        "карета",
+        "воз",
+        "повозка"
+      ],
+      "example": "Automobili su zamenili kočije.",
+      "level": "C2",
+      "sourceId": "carriage",
+      "sourceIds": [
+        "carriage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "кочија"
+    },
+    {
+      "id": "kolovoz",
+      "word": "kolovoz",
+      "en": "kolovoz",
+      "ru": [
+        "проезжая часть"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "carriageway",
+      "sourceIds": [
+        "carriageway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "коловоз"
+    },
+    {
+      "id": "dvorac",
+      "word": "dvorac",
+      "en": "dvorac",
+      "ru": [
+        "замок"
+      ],
+      "example": "Kralj mi je rekao: \"Ja živim u dvorcu.\"",
+      "level": "B1",
+      "sourceId": "castle",
+      "sourceIds": [
+        "castle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "дворац"
+    },
+    {
+      "id": "rokada",
+      "word": "rokada",
+      "en": "rokada",
+      "ru": [
+        "рокировка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "castling",
+      "sourceIds": [
+        "castling"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "рокада"
+    },
+    {
+      "id": "katedrala",
+      "word": "katedrala",
+      "en": "katedrala",
+      "ru": [
+        "кафедральный собор",
+        "собор"
+      ],
+      "example": "Katedrala i dalje dominira gradskom panoramom.",
+      "level": "C1",
+      "sourceId": "cathedral",
+      "sourceIds": [
+        "cathedral"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "катедрала"
+    },
+    {
+      "id": "prijava",
+      "word": "prijava",
+      "en": "prijava",
+      "ru": [
+        "регистрация",
+        "чек-ин"
+      ],
+      "example": "Prijavi se u pisanoj formi.",
+      "level": "C2",
+      "sourceId": "check-in",
+      "sourceIds": [
+        "check-in"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пријава"
+    },
+    {
+      "id": "kasa",
+      "word": "kasa",
+      "en": "kasa",
+      "ru": [
+        "касса"
+      ],
+      "example": "Ona je otišla na kasu i platila.",
+      "level": "B1",
+      "sourceId": "checkout",
+      "sourceIds": [
+        "checkout"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "каса"
+    },
+    {
+      "id": "dilizansa",
+      "word": "diližansa",
+      "en": "diližansa",
+      "ru": [
+        "дилижанс",
+        "карета",
+        "коляска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "coach",
+      "sourceIds": [
+        "coach"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "дилижанса"
+    },
+    {
+      "id": "obala",
+      "word": "obala",
+      "en": "obala",
+      "ru": [
+        "побережье",
+        "морской берег",
+        "берег"
+      ],
+      "example": "Grad je izgrađen na levoj obali reke.",
+      "level": "A2",
+      "sourceId": "coast",
+      "sourceIds": [
+        "coast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "обала"
+    },
+    {
+      "id": "obalski-brod",
+      "word": "obalski brod",
+      "en": "obalski brod",
+      "ru": [
+        "поморянин",
+        "каботажное судно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "coaster",
+      "sourceIds": [
+        "coaster"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "обалски брод"
+    },
+    {
+      "id": "kompas",
+      "word": "kompas",
+      "en": "kompas",
+      "ru": [
+        "компас"
+      ],
+      "example": "Kompas pokazuje na sever.",
+      "level": "C2",
+      "sourceId": "compass",
+      "sourceIds": [
+        "compass"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "компас"
+    },
+    {
+      "id": "saosecanje",
+      "word": "saosećanje",
+      "en": "saosećanje",
+      "ru": [
+        "сострадание",
+        "сопереживание",
+        "сочувствие"
+      ],
+      "example": "U međuljudskim odnosima nije ništa važnije od sposobnosti da se probudi saosećanje.",
+      "level": "C2",
+      "sourceId": "compassion",
+      "sourceIds": [
+        "compassion"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "саосећање"
+    },
+    {
+      "id": "saosecajan",
+      "word": "saosećajan",
+      "en": "saosećajan",
+      "ru": [
+        "сострадающий",
+        "сочувствующий"
+      ],
+      "example": "Kažu mi da sam nežan i saosećajan.",
+      "level": "C2",
+      "sourceId": "compassionate",
+      "sourceIds": [
+        "compassionate"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "саосећајан"
+    },
+    {
+      "id": "potvrditi",
+      "word": "potvrditi",
+      "en": "potvrditi",
+      "ru": [
+        "подкрепить",
+        "подкреплять",
+        "подтвердить"
+      ],
+      "example": "Ovo može da se potvrdi.",
+      "level": "B1",
+      "sourceId": "confirm",
+      "sourceIds": [
+        "confirm"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "потврдити"
+    },
+    {
+      "id": "potvrda",
+      "word": "potvrda",
+      "en": "potvrda",
+      "ru": [
+        "подтверждение"
+      ],
+      "example": "Ovo može da se potvrdi.",
+      "level": "B2",
+      "sourceId": "confirmation",
+      "sourceIds": [
+        "confirmation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "потврда"
+    },
+    {
+      "id": "potvrdjen",
+      "word": "potvrđen",
+      "en": "potvrđen",
+      "ru": [
+        "подтвержденный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "confirmed",
+      "sourceIds": [
+        "confirmed"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "потврђен"
+    },
+    {
+      "id": "seoski",
+      "word": "seoski",
+      "en": "seoski",
+      "ru": [
+        "деревенский",
+        "сельский",
+        "край"
+      ],
+      "example": "Moji seoski prijatelji imaju nekoliko košnica pčela.",
+      "level": "A1",
+      "sourceId": "country",
+      "sourceIds": [
+        "country"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сеоски"
+    },
+    {
+      "id": "selo",
+      "word": "selo",
+      "en": "selo",
+      "ru": [
+        "сельская местность",
+        "деревня",
+        "село"
+      ],
+      "example": "Celo selo je ponosno na novu školu.",
+      "level": "C2",
+      "sourceId": "countryside",
+      "sourceIds": [
+        "countryside"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "село"
+    },
+    {
+      "id": "pesacki-prelaz",
+      "word": "pešački prelaz",
+      "en": "pešački prelaz",
+      "ru": [
+        "пешеходный переход"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "crosswalk",
+      "sourceIds": [
+        "crosswalk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "пешачки прелаз"
+    },
+    {
+      "id": "krstarenje",
+      "word": "krstarenje",
+      "en": "krstarenje",
+      "ru": [
+        "круиз",
+        "морское путешествие",
+        "плавание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cruise",
+      "sourceIds": [
+        "cruise"
+      ],
+      "pos": "v",
+      "gender": "n",
+      "wordCyrillic": "крстарење"
+    },
+    {
+      "id": "krstarica",
+      "word": "krstarica",
+      "en": "krstarica",
+      "ru": [
+        "крейсер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cruiser",
+      "sourceIds": [
+        "cruiser"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "крстарица"
+    },
+    {
+      "id": "carina",
+      "word": "carina",
+      "en": "carina",
+      "ru": [
+        "таможня",
+        "таможенный сбор",
+        "таможенная пошлина"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "customs",
+      "sourceIds": [
+        "customs"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "царина"
+    },
+    {
+      "id": "kasnjenje",
+      "word": "kašnjenje",
+      "en": "kašnjenje",
+      "ru": [
+        "задержка",
+        "опоздание",
+        "промедление"
+      ],
+      "example": "Tom se pojavio sa trideset minuta kašnjenja.",
+      "level": "B1",
+      "sourceId": "delay",
+      "sourceIds": [
+        "delay"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "кашњење"
+    },
+    {
+      "id": "odrediste",
+      "word": "odredište",
+      "en": "odredište",
+      "ru": [
+        "место назначения",
+        "пункт назначения",
+        "назначение"
+      ],
+      "example": "Kalman je bio blizu svog odredišta.",
+      "level": "B1",
+      "sourceId": "destination",
+      "sourceIds": [
+        "destination"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "одредиште"
+    },
+    {
+      "id": "smer",
+      "word": "smer",
+      "en": "smer",
+      "ru": [
+        "направление",
+        "режиссура",
+        "руководство"
+      ],
+      "example": "Pitam se šta Tom smera da uradi.",
+      "level": "B1",
+      "sourceId": "direction",
+      "sourceIds": [
+        "direction"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "смер"
+    },
+    {
+      "id": "okrug",
+      "word": "okrug",
+      "en": "okrug",
+      "ru": [
+        "дистрикт",
+        "область",
+        "округ"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "district",
+      "sourceIds": [
+        "district"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "округ"
+    },
+    {
+      "id": "centar-grada",
+      "word": "centar grada",
+      "en": "centar grada",
+      "ru": [
+        "деловая часть города",
+        "сити",
+        "центр"
+      ],
+      "example": "Centar grada leži jugoistočno od Tromsøya ostrva.",
+      "level": "B1",
+      "sourceId": "downtown",
+      "sourceIds": [
+        "downtown"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "центар града"
+    },
+    {
+      "id": "vozac",
+      "word": "vozač",
+      "en": "vozač",
+      "ru": [
+        "водитель",
+        "водительница",
+        "погонщик"
+      ],
+      "example": "On je radio kao vozač kamiona u Norveškoj.",
+      "level": "A2",
+      "sourceId": "driver",
+      "sourceIds": [
+        "driver"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "возач"
+    },
+    {
+      "id": "istok",
+      "word": "istok",
+      "en": "istok",
+      "ru": [
+        "восточный",
+        "ост",
+        "восток"
+      ],
+      "example": "Vetar duva sa istoka.",
+      "level": "A1",
+      "sourceId": "east",
+      "sourceIds": [
+        "east"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "исток"
+    },
+    {
+      "id": "ambasada",
+      "word": "ambasada",
+      "en": "ambasada",
+      "ru": [
+        "посольство"
+      ],
+      "example": "Želim da kontaktiram moju ambasadu.",
+      "level": "C1",
+      "sourceId": "embassy",
+      "sourceIds": [
+        "embassy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "амбасада"
+    },
+    {
+      "id": "ekskurzija",
+      "word": "ekskurzija",
+      "en": "ekskurzija",
+      "ru": [
+        "экскурсия",
+        "экскурс"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "excursion",
+      "sourceIds": [
+        "excursion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "екскурзија"
+    },
+    {
+      "id": "istraziti",
+      "word": "istražiti",
+      "en": "istražiti",
+      "ru": [
+        "исследовать",
+        "осматривать",
+        "осмотреть"
+      ],
+      "example": "Idem na internet da istražim novu muziku.",
+      "level": "B1",
+      "sourceId": "explore",
+      "sourceIds": [
+        "explore"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "истражити"
+    },
+    {
+      "id": "istrazivac",
+      "word": "istraživač",
+      "en": "istraživač",
+      "ru": [
+        "исследователь",
+        "исследовательница",
+        "зонд"
+      ],
+      "example": "Tokom projekta istraživač će razviti analitičke tehnike.",
+      "level": "B1",
+      "sourceId": "explorer",
+      "sourceIds": [
+        "explorer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "истраживач"
+    },
+    {
+      "id": "cena-karte",
+      "word": "cena karte",
+      "en": "cena karte",
+      "ru": [
+        "плата за проезд",
+        "стоимость проезда",
+        "тариф"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "fare",
+      "sourceIds": [
+        "fare"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "цена карте"
+    },
+    {
+      "id": "trajekt",
+      "word": "trajekt",
+      "en": "trajekt",
+      "ru": [
+        "паром"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "ferry",
+      "sourceIds": [
+        "ferry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "трајект"
+    },
+    {
+      "id": "stran",
+      "word": "stran",
+      "en": "stran",
+      "ru": [
+        "иностранный",
+        "заграничный",
+        "зарубежный"
+      ],
+      "example": "Dobro govoriti strani jezik uopšte nije jednostavno.",
+      "level": "A2",
+      "sourceId": "foreign",
+      "sourceIds": [
+        "foreign"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "стран"
+    },
+    {
+      "id": "stranac",
+      "word": "stranac",
+      "en": "stranac",
+      "ru": [
+        "иноземец",
+        "иноземка",
+        "иностранец"
+      ],
+      "example": "Među slavskim gostima dva su stranca.",
+      "level": "C2",
+      "sourceId": "foreigner",
+      "sourceIds": [
+        "foreigner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "странац"
+    },
+    {
+      "id": "tudjost",
+      "word": "tuđost",
+      "en": "tuđost",
+      "ru": [
+        "чуждость"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "foreignness",
+      "sourceIds": [
+        "foreignness"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "туђост"
+    },
+    {
+      "id": "kapija",
+      "word": "kapija",
+      "en": "kapija",
+      "ru": [
+        "ворота",
+        "врата",
+        "калитка"
+      ],
+      "example": "Jedan visoki dečak stoji pred kapijom.",
+      "level": "B2",
+      "sourceId": "gate",
+      "sourceIds": [
+        "gate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "капија"
+    },
+    {
+      "id": "gost",
+      "word": "gost",
+      "en": "gost",
+      "ru": [
+        "гость",
+        "гостья",
+        "клиент"
+      ],
+      "example": "Da li imaš goste na večeri?",
+      "level": "A2",
+      "sourceId": "guest",
+      "sourceIds": [
+        "guest"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "гост"
+    },
+    {
+      "id": "vodic",
+      "word": "vodič",
+      "en": "vodič",
+      "ru": [
+        "гид",
+        "проводник",
+        "проводница"
+      ],
+      "example": "Obrazovani vodiči pričaju o istoriji razvoja biljaka.",
+      "level": "A1",
+      "sourceId": "guide",
+      "sourceIds": [
+        "guide"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "водич"
+    },
+    {
+      "id": "luka",
+      "word": "luka",
+      "en": "luka",
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "example": "Možete li mi pokazati put za luku?",
+      "level": "B2",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лука"
+    },
+    {
+      "id": "helikopter",
+      "word": "helikopter",
+      "en": "helikopter",
+      "ru": [
+        "вертолёт",
+        "геликоптер"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "helicopter",
+      "sourceIds": [
+        "helicopter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "хеликоптер"
+    },
+    {
+      "id": "autoput",
+      "word": "autoput",
+      "en": "autoput",
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "example": "Autoput M1 povezuje London i Lid.",
+      "level": "B1",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "аутопут"
+    },
+    {
+      "id": "drumski-razbojnik",
+      "word": "drumski razbojnik",
+      "en": "drumski razbojnik",
+      "ru": [
+        "разбойник с большой дороги"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "highwayman",
+      "sourceIds": [
+        "highwayman"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "друмски разбојник"
+    },
+    {
+      "id": "odmor",
+      "word": "odmor",
+      "en": "odmor",
+      "ru": [
+        "отпуск",
+        "праздник",
+        "каникулы"
+      ],
+      "example": "Da li je Tom još na odmoru?",
+      "level": "A2",
+      "sourceId": "holiday",
+      "sourceIds": [
+        "holiday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "одмор"
+    },
+    {
+      "id": "turista",
+      "word": "turista",
+      "en": "turista",
+      "ru": [
+        "курортник",
+        "курортница",
+        "отдыхающий"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "holiday-maker",
+      "sourceIds": [
+        "holiday-maker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "туриста"
+    },
+    {
+      "id": "hostel",
+      "word": "hostel",
+      "en": "hostel",
+      "ru": [
+        "мини-отель",
+        "общежитие",
+        "турбаза"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "hostel",
+      "sourceIds": [
+        "hostel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "хостел"
+    },
+    {
+      "id": "gostionica",
+      "word": "gostionica",
+      "en": "gostionica",
+      "ru": [
+        "гостиница",
+        "корчма",
+        "постоялый двор"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "inn",
+      "sourceIds": [
+        "inn"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "гостионица"
+    },
+    {
+      "id": "raskrsnica",
+      "word": "raskrsnica",
+      "en": "raskrsnica",
+      "ru": [
+        "перекрёсток",
+        "пересечение"
+      ],
+      "example": "Na sledećoj raskrsnici skrenite desno.",
+      "level": "C1",
+      "sourceId": "intersection",
+      "sourceIds": [
+        "intersection"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "раскрсница"
+    },
+    {
+      "id": "ostrvo",
+      "word": "ostrvo",
+      "en": "ostrvo",
+      "ru": [
+        "остров",
+        "покрыть",
+        "покрывать"
+      ],
+      "example": "Centar grada leži jugoistočno od Tromsøya ostrva.",
+      "level": "A1",
+      "sourceId": "island",
+      "sourceIds": [
+        "island"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "острво"
+    },
+    {
+      "id": "putovanje",
+      "word": "putovanje",
+      "en": "putovanje",
+      "ru": [
+        "путешествие",
+        "вояж",
+        "поездка"
+      ],
+      "example": "Bili smo mrtvi umorni posle petočasovnog putovanja.",
+      "level": "B1",
+      "sourceId": "journey",
+      "sourceIds": [
+        "journey"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путовање"
+    },
+    {
+      "id": "ulicica",
+      "word": "uličica",
+      "en": "uličica",
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "уличица"
+    },
+    {
+      "id": "odlaziti",
+      "word": "odlaziti",
+      "en": "odlaziti",
+      "ru": [
+        "уходить",
+        "оставлять"
+      ],
+      "example": "Još jedna reč o Tomu i odlazim.",
+      "level": "A2",
+      "sourceId": "leave",
+      "sourceIds": [
+        "leave"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "одлазити"
+    },
+    {
+      "id": "granica",
+      "word": "granica",
+      "en": "granica",
+      "ru": [
+        "граница",
+        "предел",
+        "лимит"
+      ],
+      "example": "Granice moga jezika su granice moga sveta.",
+      "level": "B1",
+      "sourceId": "limit",
+      "sourceIds": [
+        "limit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "граница"
+    },
+    {
+      "id": "lobi",
+      "word": "lobi",
+      "en": "lobi",
+      "ru": [
+        "холл",
+        "вестибюль",
+        "коридор"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "lobby",
+      "sourceIds": [
+        "lobby"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "лоби"
+    },
+    {
+      "id": "kucica",
+      "word": "kućica",
+      "en": "kućica",
+      "ru": [
+        "домик",
+        "будка",
+        "сторожка"
+      ],
+      "example": "Postoji li ulica psećih kućica?",
+      "level": "B1",
+      "sourceId": "lodge",
+      "sourceIds": [
+        "lodge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "кућица"
+    },
+    {
+      "id": "podstanar",
+      "word": "podstanar",
+      "en": "podstanar",
+      "ru": [
+        "жилец",
+        "жилица",
+        "квартирант"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "lodger",
+      "sourceIds": [
+        "lodger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "подстанар"
+    },
+    {
+      "id": "smestaj",
+      "word": "smeštaj",
+      "en": "smeštaj",
+      "ru": [
+        "жилище",
+        "жильё",
+        "ночлег"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "lodging",
+      "sourceIds": [
+        "lodging"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "смештај"
+    },
+    {
+      "id": "preslikavanje",
+      "word": "preslikavanje",
+      "en": "preslikavanje",
+      "ru": [
+        "отображение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "пресликавање"
+    },
+    {
+      "id": "spomenik",
+      "word": "spomenik",
+      "en": "spomenik",
+      "ru": [
+        "памятник",
+        "монумент"
+      ],
+      "example": "U gradu Hirošimi postoji oko dve stotine spomenika.",
+      "level": "C2",
+      "sourceId": "monument",
+      "sourceIds": [
+        "monument"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "споменик"
+    },
+    {
+      "id": "monumentalan",
+      "word": "monumentalan",
+      "en": "monumentalan",
+      "ru": [
+        "монументальный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "monumental",
+      "sourceIds": [
+        "monumental"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "монументалан"
+    },
+    {
+      "id": "motel",
+      "word": "motel",
+      "en": "motel",
+      "ru": [
+        "автопансионат",
+        "мотель"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "motel",
+      "sourceIds": [
+        "motel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "мотел"
+    },
+    {
+      "id": "motocikl",
+      "word": "motocikl",
+      "en": "motocikl",
+      "ru": [
+        "мотоцикл"
+      ],
+      "example": "Tom je u garaži, radi na svom motociklu.",
+      "level": "B2",
+      "sourceId": "motorcycle",
+      "sourceIds": [
+        "motorcycle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мотоцикл"
+    },
+    {
+      "id": "autoput",
+      "word": "autoput",
+      "en": "autoput",
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "example": "Autoput M1 povezuje London i Lid.",
+      "level": "C2",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "аутопут"
+    },
+    {
+      "id": "muzej",
+      "word": "muzej",
+      "en": "muzej",
+      "ru": [
+        "музей"
+      ],
+      "example": "Koliko je potrošeno novca na izgradnju Muzeja?",
+      "level": "A2",
+      "sourceId": "museum",
+      "sourceIds": [
+        "museum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "музеј"
+    },
+    {
+      "id": "severni",
+      "word": "severni",
+      "en": "severni",
+      "ru": [
+        "северный",
+        "север",
+        "к северу"
+      ],
+      "example": "Deda Mraz živi na severnom polu.",
+      "level": "A1",
+      "sourceId": "north",
+      "sourceIds": [
+        "north"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "северни"
+    },
+    {
+      "id": "palata",
+      "word": "palata",
+      "en": "palata",
+      "ru": [
+        "дворец",
+        "чертог"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "palace",
+      "sourceIds": [
+        "palace"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "палата"
+    },
+    {
+      "id": "parkiraliste",
+      "word": "parkiralište",
+      "en": "parkiralište",
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "паркиралиште"
+    },
+    {
+      "id": "putnik",
+      "word": "putnik",
+      "en": "putnik",
+      "ru": [
+        "пассажир",
+        "пассажирка"
+      ],
+      "example": "Da li je bilo mnogo putnika u autobusu?",
+      "level": "B2",
+      "sourceId": "passenger",
+      "sourceIds": [
+        "passenger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путник"
+    },
+    {
+      "id": "pesak",
+      "word": "pešak",
+      "en": "pešak",
+      "ru": [
+        "пешеход"
+      ],
+      "example": "Da li Tom obično ide na posao pešaka?",
+      "level": "C2",
+      "sourceId": "pedestrian",
+      "sourceIds": [
+        "pedestrian"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пешак"
+    },
+    {
+      "id": "pretvaranje-u-pesacku-zonu",
+      "word": "pretvaranje u pešačku zonu",
+      "en": "pretvaranje u pešačku zonu",
+      "ru": [
+        "пешеходизация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "pedestrianization",
+      "sourceIds": [
+        "pedestrianization"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "претварање у пешачку зону"
+    },
+    {
+      "id": "pilot",
+      "word": "pilot",
+      "en": "pilot",
+      "ru": [
+        "пилот",
+        "летчик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pilot",
+      "sourceIds": [
+        "pilot"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "пилот"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "ru": [
+        "самолёт"
+      ],
+      "example": "Mlaznjaci idu brže nego avioni sa propelerima.",
+      "level": "B1",
+      "sourceId": "plane",
+      "sourceIds": [
+        "plane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "авион"
+    },
+    {
+      "id": "platforma",
+      "word": "platforma",
+      "en": "platforma",
+      "ru": [
+        "перрон",
+        "платформа",
+        "подиум"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "platform",
+      "sourceIds": [
+        "platform"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "платформа"
+    },
+    {
+      "id": "luka",
+      "word": "luka",
+      "en": "luka",
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "example": "Možete li mi pokazati put za luku?",
+      "level": "A2",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лука"
+    },
+    {
+      "id": "nosac",
+      "word": "nosač",
+      "en": "nosač",
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "носач"
+    },
+    {
+      "id": "zeleznica",
+      "word": "železnica",
+      "en": "železnica",
+      "ru": [
+        "железнодорожный путь",
+        "колея",
+        "железная дорога"
+      ],
+      "example": "Možemo da stignemo tamo podzemnom železnicom.",
+      "level": "B2",
+      "sourceId": "railway",
+      "sourceIds": [
+        "railway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "железница"
+    },
+    {
+      "id": "zeleznicar",
+      "word": "železničar",
+      "en": "železničar",
+      "ru": [
+        "железнодорожник"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "railwayman",
+      "sourceIds": [
+        "railwayman"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "железничар"
+    },
+    {
+      "id": "recepcija",
+      "word": "recepcija",
+      "en": "recepcija",
+      "ru": [
+        "стойка регистрации",
+        "приёмная"
+      ],
+      "example": "Bila sam na recepciji.",
+      "level": "B2",
+      "sourceId": "reception",
+      "sourceIds": [
+        "reception"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "рецепција"
+    },
+    {
+      "id": "recepcioner",
+      "word": "recepcioner",
+      "en": "recepcioner",
+      "ru": [
+        "администратор",
+        "портье",
+        "регистратор"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "receptionist",
+      "sourceIds": [
+        "receptionist"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "рецепционер"
+    },
+    {
+      "id": "rezervacija",
+      "word": "rezervacija",
+      "en": "rezervacija",
+      "ru": [
+        "бронирование",
+        "заказ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reservation",
+      "sourceIds": [
+        "reservation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "резервација"
+    },
+    {
+      "id": "letovaliste",
+      "word": "letovalište",
+      "en": "letovalište",
+      "ru": [
+        "здравница",
+        "курорт",
+        "убежище"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "resort",
+      "sourceIds": [
+        "resort"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "летовалиште"
+    },
+    {
+      "id": "put",
+      "word": "put",
+      "en": "put",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "example": "Bio sam ovde tri puta ove nedelje.",
+      "level": "A1",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пут"
+    },
+    {
+      "id": "zaobilazan",
+      "word": "zaobilazan",
+      "en": "zaobilazan",
+      "ru": [
+        "окольный",
+        "кружный",
+        "непрямой"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "roundabout",
+      "sourceIds": [
+        "roundabout"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "заобилазан"
+    },
+    {
+      "id": "ruta",
+      "word": "ruta",
+      "en": "ruta",
+      "ru": [
+        "путь",
+        "курс",
+        "дорога"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "route",
+      "sourceIds": [
+        "route"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "рута"
+    },
+    {
+      "id": "rutiranje",
+      "word": "rutiranje",
+      "en": "rutiranje",
+      "ru": [
+        "маршрутизация"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "routing",
+      "sourceIds": [
+        "routing"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "рутирање"
+    },
+    {
+      "id": "pista",
+      "word": "pista",
+      "en": "pista",
+      "ru": [
+        "взлетно-посадочная полоса"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "runway",
+      "sourceIds": [
+        "runway",
+        "tarmac"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "писта"
+    },
+    {
+      "id": "safari",
+      "word": "safari",
+      "en": "safari",
+      "ru": [
+        "сафари"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "safari",
+      "sourceIds": [
+        "safari"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "сафари"
+    },
+    {
+      "id": "sediste",
+      "word": "sedište",
+      "en": "sedište",
+      "ru": [
+        "седалище",
+        "сиденье",
+        "место"
+      ],
+      "example": "Naša sedišta nalaze se u kupeu za nepušače.",
+      "level": "B1",
+      "sourceId": "seat",
+      "sourceIds": [
+        "seat"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седиште"
+    },
+    {
+      "id": "sigurnost",
+      "word": "sigurnost",
+      "en": "sigurnost",
+      "ru": [
+        "безопасность",
+        "надёжность",
+        "гарантия"
+      ],
+      "example": "Kreditna kartica daje lažan osećaj ekonomske sigurnosti.",
+      "level": "A1",
+      "sourceId": "security",
+      "sourceIds": [
+        "security"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сигурност"
+    },
+    {
+      "id": "brod",
+      "word": "brod",
+      "en": "brod",
+      "ru": [
+        "корабль",
+        "судно",
+        "пароход"
+      ],
+      "example": "Bob se hvalio o svom velikom brodu.",
+      "level": "A2",
+      "sourceId": "ship",
+      "sourceIds": [
+        "ship"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "брод"
+    },
+    {
+      "id": "posiljalac",
+      "word": "pošiljalac",
+      "en": "pošiljalac",
+      "ru": [
+        "грузоотправитель",
+        "отправитель",
+        "товароотправитель"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "shipper",
+      "sourceIds": [
+        "shipper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "пошиљалац"
+    },
+    {
+      "id": "dostava",
+      "word": "dostava",
+      "en": "dostava",
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "достава"
+    },
+    {
+      "id": "trotoar",
+      "word": "trotoar",
+      "en": "trotoar",
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "тротоар"
+    },
+    {
+      "id": "razgledanje",
+      "word": "razgledanje",
+      "en": "razgledanje",
+      "ru": [
+        "осмотр достопримечательностей"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sightseeing",
+      "sourceIds": [
+        "sightseeing"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "разгледање"
+    },
+    {
+      "id": "juzni",
+      "word": "južni",
+      "en": "južni",
+      "ru": [
+        "южный",
+        "юг",
+        "зюйд"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "south",
+      "sourceIds": [
+        "south"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "јужни"
+    },
+    {
+      "id": "suvenir",
+      "word": "suvenir",
+      "en": "suvenir",
+      "ru": [
+        "сувенир"
+      ],
+      "example": "Postoji li ovde u blizini prodavnica suvenira?",
+      "level": "C2",
+      "sourceId": "souvenir",
+      "sourceIds": [
+        "souvenir"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сувенир"
+    },
+    {
+      "id": "kvadratan",
+      "word": "kvadratan",
+      "en": "kvadratan",
+      "ru": [
+        "квадратный",
+        "квадрат",
+        "прямоугольный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "square",
+      "sourceIds": [
+        "square"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "квадратан"
+    },
+    {
+      "id": "stanica",
+      "word": "stanica",
+      "en": "stanica",
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "example": "Da li si videla Toma na stanici?",
+      "level": "A2",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "станица"
+    },
+    {
+      "id": "nepomican",
+      "word": "nepomičan",
+      "en": "nepomičan",
+      "ru": [
+        "неподвижный",
+        "стационарный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stationary",
+      "sourceIds": [
+        "stationary"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "непомичан"
+    },
+    {
+      "id": "sef-stanice",
+      "word": "šef stanice",
+      "en": "šef stanice",
+      "ru": [
+        "начальник станции"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "шеф станице"
+    },
+    {
+      "id": "predgradje",
+      "word": "predgrađe",
+      "en": "predgrađe",
+      "ru": [
+        "пригород",
+        "предместье",
+        "округ"
+      ],
+      "example": "Potreban ti je automobil ako živiš u predgrađu.",
+      "level": "C2",
+      "sourceId": "suburb",
+      "sourceIds": [
+        "suburb"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "предграђе"
+    },
+    {
+      "id": "metro",
+      "word": "metro",
+      "en": "metro",
+      "ru": [
+        "метро",
+        "метрополитен",
+        "подземка"
+      ],
+      "example": "U metrou je zbog nečega mnogo policije.",
+      "level": "C2",
+      "sourceId": "subway",
+      "sourceIds": [
+        "subway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "метро"
+    },
+    {
+      "id": "taksi",
+      "word": "taksi",
+      "en": "taksi",
+      "ru": [
+        "такси",
+        "таксомотор"
+      ],
+      "example": "Imao sam problema da dođem do taksija.",
+      "level": "C1",
+      "sourceId": "taxi",
+      "sourceIds": [
+        "taxi"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "такси"
+    },
+    {
+      "id": "terminal",
+      "word": "terminal",
+      "en": "terminal",
+      "ru": [
+        "терминал",
+        "аэровокзал",
+        "конечная станция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "terminal",
+      "sourceIds": [
+        "terminal"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "терминал"
+    },
+    {
+      "id": "raspored",
+      "word": "raspored",
+      "en": "raspored",
+      "ru": [
+        "график",
+        "расписание"
+      ],
+      "example": "Ja sam taj koji pravi raspored.",
+      "level": "C2",
+      "sourceId": "timetable",
+      "sourceIds": [
+        "timetable"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "распоред"
+    },
+    {
+      "id": "turneja",
+      "word": "turneja",
+      "en": "turneja",
+      "ru": [
+        "путешествие",
+        "поездка",
+        "турне"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "tour",
+      "sourceIds": [
+        "tour"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "турнеја"
+    },
+    {
+      "id": "turizam",
+      "word": "turizam",
+      "en": "turizam",
+      "ru": [
+        "туризм"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tourism",
+      "sourceIds": [
+        "tourism"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "туризам"
+    },
+    {
+      "id": "turisticki",
+      "word": "turistički",
+      "en": "turistički",
+      "ru": [
+        "туристический"
+      ],
+      "example": "Kupite turistički vodič pre posete gradu.",
+      "level": "C2",
+      "sourceId": "touristic",
+      "sourceIds": [
+        "touristic"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "туристички"
+    },
+    {
+      "id": "saobracaj",
+      "word": "saobraćaj",
+      "en": "saobraćaj",
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "example": "Na sreću nije bilo zagušenja u saobraćaju.",
+      "level": "A2",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "саобраћај"
+    },
+    {
+      "id": "staza",
+      "word": "staza",
+      "en": "staza",
+      "ru": [
+        "след",
+        "дорожка",
+        "стёжка"
+      ],
+      "example": "Hoćeš li da trčiš oko staze sa mnom?",
+      "level": "B1",
+      "sourceId": "trail",
+      "sourceIds": [
+        "trail"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "стаза"
+    },
+    {
+      "id": "prikolica",
+      "word": "prikolica",
+      "en": "prikolica",
+      "ru": [
+        "прицеп",
+        "трейлер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trailer",
+      "sourceIds": [
+        "trailer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "приколица"
+    },
+    {
+      "id": "voz",
+      "word": "voz",
+      "en": "voz",
+      "ru": [
+        "поезд",
+        "вереница",
+        "караван"
+      ],
+      "example": "Da li si došao vozom ili autobusom?",
+      "level": "B1",
+      "sourceId": "train",
+      "sourceIds": [
+        "train"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "воз"
+    },
+    {
+      "id": "tramvaj",
+      "word": "tramvaj",
+      "en": "tramvaj",
+      "ru": [
+        "трамвай",
+        "вагонетка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "tram",
+      "sourceIds": [
+        "tram"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "трамвај"
+    },
+    {
+      "id": "putovati",
+      "word": "putovati",
+      "en": "putovati",
+      "ru": [
+        "путешествовать"
+      ],
+      "example": "Da li on putuje autobusom u školu?",
+      "level": "A1",
+      "sourceId": "travel",
+      "sourceIds": [
+        "travel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путовати"
+    },
+    {
+      "id": "putnik",
+      "word": "putnik",
+      "en": "putnik",
+      "ru": [
+        "путник",
+        "путница",
+        "путешественник"
+      ],
+      "example": "Da li je bilo mnogo putnika u autobusu?",
+      "level": "C1",
+      "sourceId": "traveller",
+      "sourceIds": [
+        "traveller"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путник"
+    },
+    {
+      "id": "putovanje",
+      "word": "putovanje",
+      "en": "putovanje",
+      "ru": [
+        "путешествие"
+      ],
+      "example": "Bili smo mrtvi umorni posle petočasovnog putovanja.",
+      "level": "C1",
+      "sourceId": "travelling",
+      "sourceIds": [
+        "travelling"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путовање"
+    },
+    {
+      "id": "putovanje",
+      "word": "putovanje",
+      "en": "putovanje",
+      "ru": [
+        "путешествие",
+        "поездка",
+        "спотыкание"
+      ],
+      "example": "Bili smo mrtvi umorni posle petočasovnog putovanja.",
+      "level": "A2",
+      "sourceId": "trip",
+      "sourceIds": [
+        "trip"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путовање"
+    },
+    {
+      "id": "kamion",
+      "word": "kamion",
+      "en": "kamion",
+      "ru": [
+        "грузовик",
+        "грузовая машина",
+        "грузовой автомобиль"
+      ],
+      "example": "Automobili, autobusi i kamioni su svi vozila.",
+      "level": "B1",
+      "sourceId": "truck",
+      "sourceIds": [
+        "truck"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "камион"
+    },
+    {
+      "id": "tunel",
+      "word": "tunel",
+      "en": "tunel",
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "example": "Gde je najduži tunel u Japanu?",
+      "level": "B2",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "тунел"
+    },
+    {
+      "id": "raspakovati",
+      "word": "raspakovati",
+      "en": "raspakovati",
+      "ru": [
+        "распаковывать",
+        "распаковать"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "unpack",
+      "sourceIds": [
+        "unpack"
+      ],
+      "pos": "v",
+      "wordCyrillic": "распаковати"
+    },
+    {
+      "id": "odmor",
+      "word": "odmor",
+      "en": "odmor",
+      "ru": [
+        "отпуск",
+        "каникулы",
+        "отгул"
+      ],
+      "example": "Da li je Tom još na odmoru?",
+      "level": "A2",
+      "sourceId": "vacation",
+      "sourceIds": [
+        "vacation"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "одмор"
+    },
+    {
+      "id": "kombi",
+      "word": "kombi",
+      "en": "kombi",
+      "ru": [
+        "вэн",
+        "фура",
+        "фургон"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "van",
+      "sourceIds": [
+        "van"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "комби"
+    },
+    {
+      "id": "vozilo",
+      "word": "vozilo",
+      "en": "vozilo",
+      "ru": [
+        "перевозочное средство",
+        "транспортное средство",
+        "средство передачи"
+      ],
+      "example": "Automobili, autobusi i kamioni su svi vozila.",
+      "level": "A2",
+      "sourceId": "vehicle",
+      "sourceIds": [
+        "vehicle"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "возило"
+    },
+    {
+      "id": "brod",
+      "word": "brod",
+      "en": "brod",
+      "ru": [
+        "судно",
+        "корабль"
+      ],
+      "example": "Bob se hvalio o svom velikom brodu.",
+      "level": "B2",
+      "sourceId": "vessel",
+      "sourceIds": [
+        "vessel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "брод"
+    },
+    {
+      "id": "viza",
+      "word": "viza",
+      "en": "viza",
+      "ru": [
+        "виза"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "visa",
+      "sourceIds": [
+        "visa"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "виза"
+    },
+    {
+      "id": "posetiti",
+      "word": "posetiti",
+      "en": "posetiti",
+      "ru": [
+        "посещать"
+      ],
+      "example": "Mi bismo želeli da posetimo botaničku baštu.",
+      "level": "A1",
+      "sourceId": "visit",
+      "sourceIds": [
+        "visit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "посетити"
+    },
+    {
+      "id": "posetilac",
+      "word": "posetilac",
+      "en": "posetilac",
+      "ru": [
+        "гость",
+        "гостья",
+        "посетитель"
+      ],
+      "example": "Vodič je vodio turu za posetioce u muzeju.",
+      "level": "B1",
+      "sourceId": "visitor",
+      "sourceIds": [
+        "visitor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "посетилац"
+    },
+    {
+      "id": "putovanje",
+      "word": "putovanje",
+      "en": "putovanje",
+      "ru": [
+        "путешествие",
+        "вояж",
+        "плавание"
+      ],
+      "example": "Bili smo mrtvi umorni posle petočasovnog putovanja.",
+      "level": "C2",
+      "sourceId": "voyage",
+      "sourceIds": [
+        "voyage"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путовање"
+    },
+    {
+      "id": "kola",
+      "word": "kola",
+      "en": "kola",
+      "ru": [
+        "повозка",
+        "вагон",
+        "фургон"
+      ],
+      "example": "Dozvolio sam Tomu da vozi moja kola.",
+      "level": "C1",
+      "sourceId": "wagon",
+      "sourceIds": [
+        "wagon"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "кола"
+    },
+    {
+      "id": "kocijas",
+      "word": "kočijaš",
+      "en": "kočijaš",
+      "ru": [
+        "возница",
+        "извозчик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "wagoner",
+      "sourceIds": [
+        "wagoner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "кочијаш"
+    },
+    {
+      "id": "zapad",
+      "word": "zapad",
+      "en": "zapad",
+      "ru": [
+        "западный",
+        "запад",
+        "вест"
+      ],
+      "example": "Toranj se malo nagnuo na zapad.",
+      "level": "A1",
+      "sourceId": "west",
+      "sourceIds": [
+        "west"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "запад"
+    },
+    {
+      "id": "svetionik",
+      "word": "svetionik",
+      "en": "svetionik",
+      "ru": [
+        "маяк",
+        "сигнальный огонь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "beacon",
+      "sourceIds": [
+        "beacon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "светионик"
+    },
+    {
+      "id": "prekomorski",
+      "word": "prekomorski",
+      "en": "prekomorski",
+      "ru": [
+        "за морем",
+        "заграничный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "overseas",
+      "sourceIds": [
+        "overseas"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "прекоморски"
+    },
+    {
+      "id": "mol",
+      "word": "mol",
+      "en": "mol",
+      "ru": [
+        "пирс",
+        "причал"
+      ],
+      "example": "Mol nije imao nikakav efekat na cunami-talas.",
+      "level": "B1",
+      "sourceId": "pier",
+      "sourceIds": [
+        "pier"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мол"
+    },
+    {
+      "id": "luna-park",
+      "word": "luna-park",
+      "en": "luna-park",
+      "ru": [
+        "ярмарка",
+        "парк аттракционов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "funfair",
+      "sourceIds": [
+        "funfair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "луна-парк"
+    },
+    {
+      "id": "lutati",
+      "word": "lutati",
+      "en": "lutati",
+      "ru": [
+        "бродить",
+        "странствовать"
+      ],
+      "example": "Lutajući džunglom mojih sećanja, pokušavam da istražim moj tamnu dušu.",
+      "level": "B1",
+      "sourceId": "wander",
+      "sourceIds": [
+        "wander"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лутати"
+    },
+    {
+      "id": "zaglavljen",
+      "word": "zaglavljen",
+      "en": "zaglavljen",
+      "ru": [
+        "оказавшийся в безвыходном положении"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stranded",
+      "sourceIds": [
+        "stranded"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "заглављен"
+    },
+    {
+      "id": "planinar",
+      "word": "planinar",
+      "en": "planinar",
+      "ru": [
+        "турист",
+        "пеший путешественник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hiker",
+      "sourceIds": [
+        "hiker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "планинар"
+    },
+    {
+      "id": "u-vazduhu",
+      "word": "u vazduhu",
+      "en": "u vazduhu",
+      "ru": [
+        "воздушный",
+        "находящийся в воздухе"
+      ],
+      "example": "Da li je on gradio kule u vazduhu?",
+      "level": "B1",
+      "sourceId": "airborne",
+      "sourceIds": [
+        "airborne"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "у ваздуху"
+    },
+    {
+      "id": "kamp-prikolica",
+      "word": "kamp-prikolica",
+      "en": "kamp-prikolica",
+      "ru": [
+        "дом на колесах",
+        "караван"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caravan",
+      "sourceIds": [
+        "caravan"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "камп-приколица"
+    },
+    {
+      "id": "ekspedicija",
+      "word": "ekspedicija",
+      "en": "ekspedicija",
+      "ru": [
+        "экспедиция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "expedition",
+      "sourceIds": [
+        "expedition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "експедиција"
+    },
+    {
+      "id": "sator",
+      "word": "šator",
+      "en": "šator",
+      "ru": [
+        "палатка"
+      ],
+      "example": "Neki od nas su spavali u šatorima.",
+      "level": "B1",
+      "sourceId": "tent",
+      "sourceIds": [
+        "tent"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "шатор"
+    },
+    {
+      "id": "kraljevski-put",
+      "word": "Kraljevski put",
+      "en": "Kraljevski put",
+      "ru": [
+        "королевская дорога"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kingsroad",
+      "sourceIds": [
+        "kingsroad"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "Краљевски пут"
+    },
+    {
+      "id": "smestati",
+      "word": "smeštati",
+      "en": "smeštati",
+      "ru": [
+        "размещать",
+        "приспосабливать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "accommodate",
+      "sourceIds": [
+        "accommodate"
+      ],
+      "pos": "v",
+      "wordCyrillic": "смештати"
+    },
+    {
+      "id": "lutati",
+      "word": "lutati",
+      "en": "lutati",
+      "ru": [
+        "бродить",
+        "скитаться"
+      ],
+      "example": "Lutajući džunglom mojih sećanja, pokušavam da istražim moj tamnu dušu.",
+      "level": "B1",
+      "sourceId": "roam",
+      "sourceIds": [
+        "roam"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лутати"
+    },
+    {
+      "id": "na-konju",
+      "word": "na konju",
+      "en": "na konju",
+      "ru": [
+        "верхом на лошади"
+      ],
+      "example": "Kaže se: Darovanom konju se zubi ne gledaju.",
+      "level": "B1",
+      "sourceId": "horseback",
+      "sourceIds": [
+        "horseback"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "на коњу"
+    },
+    {
+      "id": "flota",
+      "word": "flota",
+      "en": "flota",
+      "ru": [
+        "флот"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fleet",
+      "sourceIds": [
+        "fleet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "флота"
+    },
+    {
+      "id": "mornar",
+      "word": "mornar",
+      "en": "mornar",
+      "ru": [
+        "моряк"
+      ],
+      "example": "Odakle će oni, dođavola, dobiti dodatne mornare?",
+      "level": "B1",
+      "sourceId": "sailor",
+      "sourceIds": [
+        "sailor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "морнар"
+    },
+    {
+      "id": "prtljag",
+      "word": "prtljag",
+      "en": "prtljag",
+      "ru": [
+        "багаж"
+      ],
+      "example": "Dala sam mu da mi nosi prtljag.",
+      "level": "B1",
+      "sourceId": "baggage",
+      "sourceIds": [
+        "baggage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пртљаг"
+    },
+    {
+      "id": "otici",
+      "word": "otići",
+      "en": "otići",
+      "ru": [
+        "отправляться",
+        "уезжать"
+      ],
+      "example": "Ako odeš, i svi drugi će otići.",
+      "level": "B1",
+      "sourceId": "depart",
+      "sourceIds": [
+        "depart"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "отићи"
+    },
+    {
+      "id": "sposoban-za-plovidbu",
+      "word": "sposoban za plovidbu",
+      "en": "sposoban za plovidbu",
+      "ru": [
+        "мореходный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "seaworthy",
+      "sourceIds": [
+        "seaworthy"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "способан за пловидбу"
+    },
+    {
+      "id": "havajski-venac",
+      "word": "havajski venac",
+      "en": "havajski venac",
+      "ru": [
+        "лей (гавайское ожерелье)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lei",
+      "sourceIds": [
+        "lei"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "хавајски венац"
+    },
+    {
+      "id": "aloha",
+      "word": "aloha",
+      "en": "aloha",
+      "ru": [
+        "алоха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "aloha",
+      "sourceIds": [
+        "aloha"
+      ],
+      "pos": "interjection",
+      "wordCyrillic": "алоха"
+    },
+    {
+      "id": "predukrcavanje",
+      "word": "predukrcavanje",
+      "en": "predukrcavanje",
+      "ru": [
+        "предпосадка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pre-boarding",
+      "sourceIds": [
+        "pre-boarding"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "предукрцавање"
+    },
+    {
+      "id": "disajni-putevi",
+      "word": "disajni putevi",
+      "en": "disajni putevi",
+      "ru": [
+        "дыхательные пути",
+        "авиалиния"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "airway",
+      "sourceIds": [
+        "airway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "дисајни путеви"
+    },
+    {
+      "id": "zona-aerodroma-iza-kontrole",
+      "word": "zona aerodroma iza kontrole",
+      "en": "zona aerodroma iza kontrole",
+      "ru": [
+        "контролируемая зона аэропорта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "airside",
+      "sourceIds": [
+        "airside"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "зона аеродрома иза контроле"
+    },
+    {
+      "id": "dolazni",
+      "word": "dolazni",
+      "en": "dolazni",
+      "ru": [
+        "входящий",
+        "прибывающий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "inbound",
+      "sourceIds": [
+        "inbound"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "долазни"
+    },
+    {
+      "id": "vrteska",
+      "word": "vrteška",
+      "en": "vrteška",
+      "ru": [
+        "карусель",
+        "лента выдачи багажа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carousel",
+      "sourceIds": [
+        "carousel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "вртешка"
+    },
+    {
+      "id": "javna-zona-aerodroma",
+      "word": "javna zona aerodroma",
+      "en": "javna zona aerodroma",
+      "ru": [
+        "общедоступная зона аэропорта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "landside",
+      "sourceIds": [
+        "landside"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "јавна зона аеродрома"
+    },
+    {
+      "id": "razglednica",
+      "word": "razglednica",
+      "en": "razglednica",
+      "ru": [
+        "открытка"
+      ],
+      "example": "Moja prijateljica Tereza sakuplja razglednice.",
+      "level": "B1",
+      "sourceId": "postcard",
+      "sourceIds": [
+        "postcard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "разгледница"
+    },
+    {
+      "id": "pansion",
+      "word": "pansion",
+      "en": "pansion",
+      "ru": [
+        "гостевой дом",
+        "пансион"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "guesthouse",
+      "sourceIds": [
+        "guesthouse"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "пансион"
+    },
+    {
+      "id": "planinar",
+      "word": "planinar",
+      "en": "planinar",
+      "ru": [
+        "путешественник",
+        "пеший турист"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rambler",
+      "sourceIds": [
+        "rambler"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "планинар"
+    },
+    {
+      "id": "dvostruko-rezervisati",
+      "word": "dvostruko rezervisati",
+      "en": "dvostruko rezervisati",
+      "ru": [
+        "забронировать дважды"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "double-book",
+      "sourceIds": [
+        "double-book"
+      ],
+      "pos": "v",
+      "wordCyrillic": "двоструко резервисати"
+    },
+    {
+      "id": "setnja",
+      "word": "šetnja",
+      "en": "šetnja",
+      "ru": [
+        "прогулка",
+        "пешая экскурсия"
+      ],
+      "example": "Izašao sam u šetnju na svež vazduh.",
+      "level": "B1",
+      "sourceId": "walkabout",
+      "sourceIds": [
+        "walkabout"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "шетња"
+    },
+    {
+      "id": "stopirati",
+      "word": "stopirati",
+      "en": "stopirati",
+      "ru": [
+        "путешествовать автостопом"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hitchhike",
+      "sourceIds": [
+        "hitchhike"
+      ],
+      "pos": "v",
+      "wordCyrillic": "стопирати"
+    },
+    {
+      "id": "plovni-put",
+      "word": "plovni put",
+      "en": "plovni put",
+      "ru": [
+        "водный путь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "waterway",
+      "sourceIds": [
+        "waterway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "пловни пут"
+    },
+    {
+      "id": "planinariti",
+      "word": "planinariti",
+      "en": "planinariti",
+      "ru": [
+        "ходить в поход"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hike",
+      "sourceIds": [
+        "hike"
+      ],
+      "pos": "v",
+      "wordCyrillic": "планинарити"
+    },
+    {
+      "id": "kamper",
+      "word": "kamper",
+      "en": "kamper",
+      "ru": [
+        "турист",
+        "отдыхающий в палатке",
+        "дом на колесах"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "camper",
+      "sourceIds": [
+        "camper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "кампер"
+    },
+    {
+      "id": "vojnicka-torba",
+      "word": "vojnička torba",
+      "en": "vojnička torba",
+      "ru": [
+        "вещмешок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "duffel",
+      "sourceIds": [
+        "duffel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "војничка торба"
+    },
+    {
+      "id": "kamp",
+      "word": "kamp",
+      "en": "kamp",
+      "ru": [
+        "кемпинг",
+        "место для лагеря"
+      ],
+      "example": "On živi u kamp-prikolici.",
+      "level": "B1",
+      "sourceId": "campsite",
+      "sourceIds": [
+        "campsite"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "камп"
+    },
+    {
+      "id": "jahta",
+      "word": "jahta",
+      "en": "jahta",
+      "ru": [
+        "яхта"
+      ],
+      "example": "On je počeom svoj put oko sveta na jahti.",
+      "level": "B1",
+      "sourceId": "yacht",
+      "sourceIds": [
+        "yacht"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "јахта"
+    },
+    {
+      "id": "suncati-se",
+      "word": "sunčati se",
+      "en": "sunčati se",
+      "ru": [
+        "загорать"
+      ],
+      "example": "Da li je Tom imao kremu za sunčanje?",
+      "level": "B1",
+      "sourceId": "sunbathe",
+      "sourceIds": [
+        "sunbathe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сунчати се"
+    },
+    {
+      "id": "preusmeriti",
+      "word": "preusmeriti",
+      "en": "preusmeriti",
+      "ru": [
+        "изменять маршрут"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reroute",
+      "sourceIds": [
+        "reroute"
+      ],
+      "pos": "v",
+      "wordCyrillic": "преусмерити"
+    },
+    {
+      "id": "morska-obala",
+      "word": "morska obala",
+      "en": "morska obala",
+      "ru": [
+        "морское побережье"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "seaside",
+      "sourceIds": [
+        "seaside"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "морска обала"
+    },
+    {
+      "id": "stjuardesa",
+      "word": "stjuardesa",
+      "en": "stjuardesa",
+      "ru": [
+        "стюардесса"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stewardess",
+      "sourceIds": [
+        "stewardess"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "стјуардеса"
+    },
+    {
+      "id": "prostor-za-noge",
+      "word": "prostor za noge",
+      "en": "prostor za noge",
+      "ru": [
+        "место для ног"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "legroom",
+      "sourceIds": [
+        "legroom"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "простор за ноге"
+    },
+    {
+      "id": "medjudrzavni",
+      "word": "međudržavni",
+      "en": "međudržavni",
+      "ru": [
+        "междуштатный",
+        "межгосударственный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "interstate",
+      "sourceIds": [
+        "interstate"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "међудржавни"
+    },
+    {
+      "id": "preko-palube",
+      "word": "preko palube",
+      "en": "preko palube",
+      "ru": [
+        "за борт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "overboard",
+      "sourceIds": [
+        "overboard"
+      ],
+      "pos": "adv",
+      "wordCyrillic": "преко палубе"
+    },
+    {
+      "id": "kuca-na-tockovima",
+      "word": "kuća na točkovima",
+      "en": "kuća na točkovima",
+      "ru": [
+        "дом на колесах"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rv",
+      "sourceIds": [
+        "rv"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "кућа на точковима"
+    },
+    {
+      "id": "medjugradski",
+      "word": "međugradski",
+      "en": "međugradski",
+      "ru": [
+        "междугородний",
+        "на дальние дистанции"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "long-distance",
+      "sourceIds": [
+        "long-distance"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "међуградски"
+    },
+    {
+      "id": "obilaznica",
+      "word": "obilaznica",
+      "en": "obilaznica",
+      "ru": [
+        "объезд"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "detour",
+      "sourceIds": [
+        "detour"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "обилазница"
+    },
+    {
+      "id": "snalaziti-se",
+      "word": "snalaziti se",
+      "en": "snalaziti se",
+      "ru": [
+        "ориентироваться",
+        "управлять"
+      ],
+      "example": "Sto mi je prilično neuredan, ali se dobro snalazim u njemu.",
+      "level": "B1",
+      "sourceId": "navigate",
+      "sourceIds": [
+        "navigate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сналазити се"
+    },
+    {
+      "id": "pesacka-tura",
+      "word": "pešačka tura",
+      "en": "pešačka tura",
+      "ru": [
+        "поход",
+        "путешествие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trek",
+      "sourceIds": [
+        "trek"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "пешачка тура"
+    },
+    {
+      "id": "signal-za-pomoc",
+      "word": "signal za pomoć",
+      "en": "signal za pomoć",
+      "ru": [
+        "сигнал бедствия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mayday",
+      "sourceIds": [
+        "mayday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "сигнал за помоћ"
+    },
+    {
+      "id": "konsijerz",
+      "word": "konsijerž",
+      "en": "konsijerž",
+      "ru": [
+        "консьерж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "concierge",
+      "sourceIds": [
+        "concierge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "консијерж"
+    },
+    {
+      "id": "lutati",
+      "word": "lutati",
+      "en": "lutati",
+      "ru": [
+        "бродить",
+        "прогуливаться"
+      ],
+      "example": "Lutajući džunglom mojih sećanja, pokušavam da istražim moj tamnu dušu.",
+      "level": "B1",
+      "sourceId": "ramble",
+      "sourceIds": [
+        "ramble"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лутати"
+    },
+    {
+      "id": "vansezona",
+      "word": "vansezona",
+      "en": "vansezona",
+      "ru": [
+        "не сезон",
+        "межсезонье"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "off-season",
+      "sourceIds": [
+        "off-season"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "вансезона"
+    },
+    {
+      "id": "hotelski-nosac",
+      "word": "hotelski nosač",
+      "en": "hotelski nosač",
+      "ru": [
+        "носильщик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bellhop",
+      "sourceIds": [
+        "bellhop"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "хотелски носач"
+    },
+    {
+      "id": "aklimatizovati-se",
+      "word": "aklimatizovati se",
+      "en": "aklimatizovati se",
+      "ru": [
+        "акклиматизироваться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "acclimatise",
+      "sourceIds": [
+        "acclimatise"
+      ],
+      "pos": "v",
+      "wordCyrillic": "аклиматизовати се"
+    },
+    {
+      "id": "kupe",
+      "word": "kupe",
+      "en": "kupe",
+      "ru": [
+        "отделение",
+        "купе"
+      ],
+      "example": "Plan je bio da se kupe još neke sitnice.",
+      "level": "B1",
+      "sourceId": "compartment",
+      "sourceIds": [
+        "compartment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "купе"
+    },
+    {
+      "id": "sve-placeno",
+      "word": "sve plaćeno",
+      "en": "sve plaćeno",
+      "ru": [
+        "все включено"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "all-expenses-paid",
+      "sourceIds": [
+        "all-expenses-paid"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "све плаћено"
+    },
+    {
+      "id": "na-brodu",
+      "word": "na brodu",
+      "en": "na brodu",
+      "ru": [
+        "на борту"
+      ],
+      "example": "Bob se hvalio o svom velikom brodu.",
+      "level": "B1",
+      "sourceId": "aboard",
+      "sourceIds": [
+        "aboard"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "на броду"
+    },
+    {
+      "id": "karipski",
+      "word": "karipski",
+      "en": "karipski",
+      "ru": [
+        "карибский"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caribbean",
+      "sourceIds": [
+        "caribbean"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "карипски"
+    },
+    {
+      "id": "parkirni-sluzitelj",
+      "word": "parkirni služitelj",
+      "en": "parkirni služitelj",
+      "ru": [
+        "парковщик",
+        "камердинер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "valet",
+      "sourceIds": [
+        "valet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "паркирни служитељ"
+    },
+    {
+      "id": "ukrcati-se",
+      "word": "ukrcati se",
+      "en": "ukrcati se",
+      "ru": [
+        "садиться на корабль",
+        "начинать"
+      ],
+      "example": "Nikom nije bilo dozvoljeno da se ukrca.",
+      "level": "B1",
+      "sourceId": "embark",
+      "sourceIds": [
+        "embark"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "укрцати се"
+    },
+    {
+      "id": "putnik",
+      "word": "putnik",
+      "en": "putnik",
+      "ru": [
+        "путешественник"
+      ],
+      "example": "Da li je bilo mnogo putnika u autobusu?",
+      "level": "B1",
+      "sourceId": "traveler",
+      "sourceIds": [
+        "traveler"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "путник"
+    }
+  ]
+}

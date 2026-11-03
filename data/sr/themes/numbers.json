@@ -1,0 +1,2742 @@
+{
+  "id": "numbers",
+  "title": "Числа",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "nula",
+      "word": "nula",
+      "en": "nula",
+      "ru": [
+        "ноль",
+        "нуль",
+        "зеро"
+      ],
+      "example": "I danas je temepratura ispod nule.",
+      "level": "A1",
+      "sourceId": "zero",
+      "sourceIds": [
+        "zero"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "нула"
+    },
+    {
+      "id": "jedan",
+      "word": "jedan",
+      "en": "jedan",
+      "ru": [
+        "один",
+        "единственный",
+        "тот самый"
+      ],
+      "example": "Bili jednom siromašni starac i bogata žena.",
+      "level": "A1",
+      "sourceId": "one",
+      "sourceIds": [
+        "one"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "један"
+    },
+    {
+      "id": "dva",
+      "word": "dva",
+      "en": "dva",
+      "ru": [
+        "пара",
+        "двойка",
+        "два"
+      ],
+      "example": "Da li tvoja soba ima dva prozora)",
+      "level": "A1",
+      "sourceId": "two",
+      "sourceIds": [
+        "two"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "два"
+    },
+    {
+      "id": "tri",
+      "word": "tri",
+      "en": "tri",
+      "ru": [
+        "три",
+        "тройка",
+        "трое"
+      ],
+      "example": "Bio sam odvojen od Toma tri meseca.",
+      "level": "A1",
+      "sourceId": "three",
+      "sourceIds": [
+        "three"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "три"
+    },
+    {
+      "id": "cetiri",
+      "word": "četiri",
+      "en": "četiri",
+      "ru": [
+        "четыре",
+        "четвёрка",
+        "четырёхлетка"
+      ],
+      "example": "Bili su četiri sata zaglavljeni u liftu.",
+      "level": "A1",
+      "sourceId": "four",
+      "sourceIds": [
+        "four"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "четири"
+    },
+    {
+      "id": "pet",
+      "word": "pet",
+      "en": "pet",
+      "ru": [
+        "пять",
+        "пятёрка",
+        "пятеро"
+      ],
+      "example": "Do njih nema više od pet minuta.",
+      "level": "A1",
+      "sourceId": "five",
+      "sourceIds": [
+        "five"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пет"
+    },
+    {
+      "id": "sest",
+      "word": "šest",
+      "en": "šest",
+      "ru": [
+        "шесть",
+        "шестёрка",
+        "шестеро"
+      ],
+      "example": "Naš avion je poleteo tačno u šest.",
+      "level": "A1",
+      "sourceId": "six",
+      "sourceIds": [
+        "six"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "шест"
+    },
+    {
+      "id": "sedam",
+      "word": "sedam",
+      "en": "sedam",
+      "ru": [
+        "семь",
+        "семёрка",
+        "семеро"
+      ],
+      "example": "Molim te me probudi sutra u sedam.",
+      "level": "A1",
+      "sourceId": "seven",
+      "sourceIds": [
+        "seven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седам"
+    },
+    {
+      "id": "osam",
+      "word": "osam",
+      "en": "osam",
+      "ru": [
+        "восемь",
+        "восьмёрка",
+        "восьмеро"
+      ],
+      "example": "Molim te dođi najkasnije do osam sati.",
+      "level": "A1",
+      "sourceId": "eight",
+      "sourceIds": [
+        "eight"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "осам"
+    },
+    {
+      "id": "devet",
+      "word": "devet",
+      "en": "devet",
+      "ru": [
+        "девять",
+        "девятка",
+        "девятеро"
+      ],
+      "example": "Moj otac je došao kući oko devet.",
+      "level": "A1",
+      "sourceId": "nine",
+      "sourceIds": [
+        "nine"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "девет"
+    },
+    {
+      "id": "deset",
+      "word": "deset",
+      "en": "deset",
+      "ru": [
+        "десять",
+        "десятка",
+        "десяток"
+      ],
+      "example": "Deset godina - to je dugo vreme.",
+      "level": "A1",
+      "sourceId": "ten",
+      "sourceIds": [
+        "ten"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "десет"
+    },
+    {
+      "id": "jedanaest",
+      "word": "jedanaest",
+      "en": "jedanaest",
+      "ru": [
+        "одиннадцать"
+      ],
+      "example": "Već je jedanaest sati, a on nije došao.",
+      "level": "A1",
+      "sourceId": "eleven",
+      "sourceIds": [
+        "eleven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "једанаест"
+    },
+    {
+      "id": "dvanaest",
+      "word": "dvanaest",
+      "en": "dvanaest",
+      "ru": [
+        "двенадцать"
+      ],
+      "example": "Komitet se sastoji od dvanaest članova.",
+      "level": "A1",
+      "sourceId": "twelve",
+      "sourceIds": [
+        "twelve"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "дванаест"
+    },
+    {
+      "id": "trinaest",
+      "word": "trinaest",
+      "en": "trinaest",
+      "ru": [
+        "тринадцать"
+      ],
+      "example": "Tom je tada imao oko trinaest godina.",
+      "level": "A1",
+      "sourceId": "thirteen",
+      "sourceIds": [
+        "thirteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "тринаест"
+    },
+    {
+      "id": "cetrnaest",
+      "word": "četrnaest",
+      "en": "četrnaest",
+      "ru": [
+        "четырнадцать"
+      ],
+      "example": "Putovanje je trajalo četrnaest meseci.",
+      "level": "A1",
+      "sourceId": "fourteen",
+      "sourceIds": [
+        "fourteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "четрнаест"
+    },
+    {
+      "id": "petnaest",
+      "word": "petnaest",
+      "en": "petnaest",
+      "ru": [
+        "пятнадцать"
+      ],
+      "example": "Pomnoženo tri sa pet dobije se petnaest.",
+      "level": "A1",
+      "sourceId": "fifteen",
+      "sourceIds": [
+        "fifteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "петнаест"
+    },
+    {
+      "id": "sesnaest",
+      "word": "šesnaest",
+      "en": "šesnaest",
+      "ru": [
+        "шестнадцать"
+      ],
+      "example": "Tom ima šesnaest godina. Drugi dečaci imaju samo petnaest.",
+      "level": "A1",
+      "sourceId": "sixteen",
+      "sourceIds": [
+        "sixteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "шеснаест"
+    },
+    {
+      "id": "sedamnaest",
+      "word": "sedamnaest",
+      "en": "sedamnaest",
+      "ru": [
+        "семнадцать"
+      ],
+      "example": "Ja, takođe, imam sedamnaest godina.",
+      "level": "A1",
+      "sourceId": "seventeen",
+      "sourceIds": [
+        "seventeen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седамнаест"
+    },
+    {
+      "id": "osamnaest",
+      "word": "osamnaest",
+      "en": "osamnaest",
+      "ru": [
+        "восемнадцать"
+      ],
+      "example": "Muzej radi od devet do osamnaest časova.",
+      "level": "A1",
+      "sourceId": "eighteen",
+      "sourceIds": [
+        "eighteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "осамнаест"
+    },
+    {
+      "id": "devetnaest",
+      "word": "devetnaest",
+      "en": "devetnaest",
+      "ru": [
+        "девятнадцать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "nineteen",
+      "sourceIds": [
+        "nineteen"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "деветнаест"
+    },
+    {
+      "id": "dvadeset",
+      "word": "dvadeset",
+      "en": "dvadeset",
+      "ru": [
+        "двадцатка",
+        "двадцать"
+      ],
+      "example": "Kina je dvadeset puta veća od Japana.",
+      "level": "A1",
+      "sourceId": "twenty",
+      "sourceIds": [
+        "twenty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "двадесет"
+    },
+    {
+      "id": "trideset",
+      "word": "trideset",
+      "en": "trideset",
+      "ru": [
+        "тридцать"
+      ],
+      "example": "Ceremonija će trajati malo preko trideset minuta.",
+      "level": "A1",
+      "sourceId": "thirty",
+      "sourceIds": [
+        "thirty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "тридесет"
+    },
+    {
+      "id": "cetrdeset",
+      "word": "četrdeset",
+      "en": "četrdeset",
+      "ru": [
+        "сорок"
+      ],
+      "example": "Imam skoro četrdeset i još sam neudata.",
+      "level": "A1",
+      "sourceId": "forty",
+      "sourceIds": [
+        "forty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "четрдесет"
+    },
+    {
+      "id": "pedeset",
+      "word": "pedeset",
+      "en": "pedeset",
+      "ru": [
+        "пятьдесят"
+      ],
+      "example": "Ovaj zemljotres je takođe odneo stotinu pedeset života.",
+      "level": "A1",
+      "sourceId": "fifty",
+      "sourceIds": [
+        "fifty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "педесет"
+    },
+    {
+      "id": "sezdeset",
+      "word": "šezdeset",
+      "en": "šezdeset",
+      "ru": [
+        "шестьдесят"
+      ],
+      "example": "Mora da ima preko šezdeset godina.",
+      "level": "A1",
+      "sourceId": "sixty",
+      "sourceIds": [
+        "sixty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "шездесет"
+    },
+    {
+      "id": "sedamdeset",
+      "word": "sedamdeset",
+      "en": "sedamdeset",
+      "ru": [
+        "семьдесят"
+      ],
+      "example": "Uskoro ćemo imati sedamdeset i pet hiljada ruskih rečenica.",
+      "level": "A1",
+      "sourceId": "seventy",
+      "sourceIds": [
+        "seventy"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седамдесет"
+    },
+    {
+      "id": "sedamdeset-jedan",
+      "word": "sedamdeset jedan",
+      "en": "sedamdeset jedan",
+      "ru": [
+        "семьдесят один"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-one",
+      "sourceIds": [
+        "seventy-one"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет један"
+    },
+    {
+      "id": "sedamdeset-dva",
+      "word": "sedamdeset dva",
+      "en": "sedamdeset dva",
+      "ru": [
+        "семьдесят два"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-two",
+      "sourceIds": [
+        "seventy-two"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет два"
+    },
+    {
+      "id": "sedamdeset-tri",
+      "word": "sedamdeset tri",
+      "en": "sedamdeset tri",
+      "ru": [
+        "семьдесят три"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-three",
+      "sourceIds": [
+        "seventy-three"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет три"
+    },
+    {
+      "id": "sedamdeset-cetiri",
+      "word": "sedamdeset četiri",
+      "en": "sedamdeset četiri",
+      "ru": [
+        "семьдесят четыре"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-four",
+      "sourceIds": [
+        "seventy-four"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет четири"
+    },
+    {
+      "id": "sedamdeset-pet",
+      "word": "sedamdeset pet",
+      "en": "sedamdeset pet",
+      "ru": [
+        "семьдесят пять"
+      ],
+      "example": "Uskoro ćemo imati sedamdeset i pet hiljada ruskih rečenica.",
+      "level": "A2",
+      "sourceId": "seventy-five",
+      "sourceIds": [
+        "seventy-five"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седамдесет пет"
+    },
+    {
+      "id": "sedamdeset-sest",
+      "word": "sedamdeset šest",
+      "en": "sedamdeset šest",
+      "ru": [
+        "семьдесят шесть"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-six",
+      "sourceIds": [
+        "seventy-six"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет шест"
+    },
+    {
+      "id": "sedamdeset-sedam",
+      "word": "sedamdeset sedam",
+      "en": "sedamdeset sedam",
+      "ru": [
+        "семьдесят семь"
+      ],
+      "example": "Uskoro ćemo imati sedamdeset i pet hiljada ruskih rečenica.",
+      "level": "A2",
+      "sourceId": "seventy-seven",
+      "sourceIds": [
+        "seventy-seven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седамдесет седам"
+    },
+    {
+      "id": "sedamdeset-osam",
+      "word": "sedamdeset osam",
+      "en": "sedamdeset osam",
+      "ru": [
+        "семьдесят восемь"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-eight",
+      "sourceIds": [
+        "seventy-eight"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет осам"
+    },
+    {
+      "id": "sedamdeset-devet",
+      "word": "sedamdeset devet",
+      "en": "sedamdeset devet",
+      "ru": [
+        "семьдесят девять"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-nine",
+      "sourceIds": [
+        "seventy-nine"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет девет"
+    },
+    {
+      "id": "osamdeset",
+      "word": "osamdeset",
+      "en": "osamdeset",
+      "ru": [
+        "восемьдесят"
+      ],
+      "example": "Koliko brzo moćeš da pročitaš osamdeset stranica?",
+      "level": "A1",
+      "sourceId": "eighty",
+      "sourceIds": [
+        "eighty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "осамдесет"
+    },
+    {
+      "id": "devedeset",
+      "word": "devedeset",
+      "en": "devedeset",
+      "ru": [
+        "девяносто"
+      ],
+      "example": "Nije retkost da se živi preko devedeset godina.",
+      "level": "A1",
+      "sourceId": "ninety",
+      "sourceIds": [
+        "ninety"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "деведесет"
+    },
+    {
+      "id": "sto",
+      "word": "sto",
+      "en": "sto",
+      "ru": [
+        "сто",
+        "сотня"
+      ],
+      "example": "Cimer mi je ukrao ključeve sa stola.",
+      "level": "A1",
+      "sourceId": "hundred",
+      "sourceIds": [
+        "hundred"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сто"
+    },
+    {
+      "id": "hiljada",
+      "word": "hiljada",
+      "en": "hiljada",
+      "ru": [
+        "тысяча"
+      ],
+      "example": "Kamate iznose ukupno tri hiljade kruna godišnje.",
+      "level": "A1",
+      "sourceId": "thousand",
+      "sourceIds": [
+        "thousand"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "хиљада"
+    },
+    {
+      "id": "milion",
+      "word": "milion",
+      "en": "milion",
+      "ru": [
+        "миллион"
+      ],
+      "example": "Gubitak će ispasti oko sto miliona dolara.",
+      "level": "A1",
+      "sourceId": "million",
+      "sourceIds": [
+        "million"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "милион"
+    },
+    {
+      "id": "milijarda",
+      "word": "milijarda",
+      "en": "milijarda",
+      "ru": [
+        "миллиард"
+      ],
+      "example": "SAD izvozi putničke avione vredne milijarde dolara.",
+      "level": "A1",
+      "sourceId": "billion",
+      "sourceIds": [
+        "billion"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "милијарда"
+    },
+    {
+      "id": "prvi",
+      "word": "prvi",
+      "en": "prvi",
+      "ru": [
+        "первый",
+        "в первую очередь",
+        "во-первых"
+      ],
+      "example": "\"Titanik\" je potonuo tokom svoje prve plovidbe.",
+      "level": "A1",
+      "sourceId": "first",
+      "sourceIds": [
+        "first"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "први"
+    },
+    {
+      "id": "sekunda",
+      "word": "sekunda",
+      "en": "sekunda",
+      "ru": [
+        "секунда",
+        "второй",
+        "секундант"
+      ],
+      "example": "Možete li mi pomoći na sekund?",
+      "level": "A1",
+      "sourceId": "second",
+      "sourceIds": [
+        "second"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "секунда"
+    },
+    {
+      "id": "trecina",
+      "word": "trećina",
+      "en": "trećina",
+      "ru": [
+        "третий",
+        "треть",
+        "(одна) третья (часть)"
+      ],
+      "example": "Dve trećine studenata je bilo na sastanku.",
+      "level": "A1",
+      "sourceId": "third",
+      "sourceIds": [
+        "third"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трећина"
+    },
+    {
+      "id": "cetvrti",
+      "word": "četvrti",
+      "en": "četvrti",
+      "ru": [
+        "четвёртый",
+        "четвёртая передача",
+        "кварта"
+      ],
+      "example": "Olimpijske igre održavaju se svake četvrte godine.",
+      "level": "A1",
+      "sourceId": "fourth",
+      "sourceIds": [
+        "fourth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "четврти"
+    },
+    {
+      "id": "peti",
+      "word": "peti",
+      "en": "peti",
+      "ru": [
+        "пятый",
+        "5-ый",
+        "(одна) пятая (часть)"
+      ],
+      "example": "Knjizi nedostaju drugo, peto i trinaesto poglavlje.",
+      "level": "A1",
+      "sourceId": "fifth",
+      "sourceIds": [
+        "fifth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пети"
+    },
+    {
+      "id": "sesti",
+      "word": "šesti",
+      "en": "šesti",
+      "ru": [
+        "шестой",
+        "(одна) шестая (часть)"
+      ],
+      "example": "Ona je sada u šestom mesecu.",
+      "level": "A1",
+      "sourceId": "sixth",
+      "sourceIds": [
+        "sixth"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "шести"
+    },
+    {
+      "id": "sedmi",
+      "word": "sedmi",
+      "en": "sedmi",
+      "ru": [
+        "седьмой",
+        "(одна) седьмая (часть)"
+      ],
+      "example": "Indija je sedma zemlja na svetu po veličini.",
+      "level": "A1",
+      "sourceId": "seventh",
+      "sourceIds": [
+        "seventh"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седми"
+    },
+    {
+      "id": "osmi",
+      "word": "osmi",
+      "en": "osmi",
+      "ru": [
+        "восьмой",
+        "восьмая",
+        "восьмое"
+      ],
+      "example": "Rođen sam dvadestdrugog Novembra hiljadudevestočetrdeset i osme.",
+      "level": "A1",
+      "sourceId": "eighth",
+      "sourceIds": [
+        "eighth"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "осми"
+    },
+    {
+      "id": "deveti",
+      "word": "deveti",
+      "en": "deveti",
+      "ru": [
+        "девятый",
+        "(одна) девятая (часть)"
+      ],
+      "example": "Moja baba je živela do osamdeset devete godine.",
+      "level": "A1",
+      "sourceId": "ninth",
+      "sourceIds": [
+        "ninth"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "девети"
+    },
+    {
+      "id": "deseti",
+      "word": "deseti",
+      "en": "deseti",
+      "ru": [
+        "десятый",
+        "(одна) десятая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "tenth",
+      "sourceIds": [
+        "tenth"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "десети"
+    },
+    {
+      "id": "trinaesti",
+      "word": "trinaesti",
+      "en": "trinaesti",
+      "ru": [
+        "тринадцатый",
+        "(одна) тринадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "thirteenth",
+      "sourceIds": [
+        "thirteenth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "тринаести"
+    },
+    {
+      "id": "cetrnaesti",
+      "word": "četrnaesti",
+      "en": "četrnaesti",
+      "ru": [
+        "четырнадцатый",
+        "четырнадцатая",
+        "(одна) четырнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fourteenth",
+      "sourceIds": [
+        "fourteenth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "четрнаести"
+    },
+    {
+      "id": "petnaesti",
+      "word": "petnaesti",
+      "en": "petnaesti",
+      "ru": [
+        "пятнадцатый",
+        "(одна) пятнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fifteenth",
+      "sourceIds": [
+        "fifteenth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "петнаести"
+    },
+    {
+      "id": "sesnaesti",
+      "word": "šesnaesti",
+      "en": "šesnaesti",
+      "ru": [
+        "шестнадцатый",
+        "(одна) шестнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "sixteenth",
+      "sourceIds": [
+        "sixteenth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "шеснаести"
+    },
+    {
+      "id": "sedamnaesti",
+      "word": "sedamnaesti",
+      "en": "sedamnaesti",
+      "ru": [
+        "семнадцатый",
+        "(одна) семнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventeenth",
+      "sourceIds": [
+        "seventeenth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамнаести"
+    },
+    {
+      "id": "osamnaesti",
+      "word": "osamnaesti",
+      "en": "osamnaesti",
+      "ru": [
+        "восемнадцатый",
+        "(одна) восемнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "eighteenth",
+      "sourceIds": [
+        "eighteenth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "осамнаести"
+    },
+    {
+      "id": "devetnaesti",
+      "word": "devetnaesti",
+      "en": "devetnaesti",
+      "ru": [
+        "девятнадцатый",
+        "(одна) девятнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "nineteenth",
+      "sourceIds": [
+        "nineteenth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "деветнаести"
+    },
+    {
+      "id": "sedamdeset-prvi",
+      "word": "sedamdeset prvi",
+      "en": "sedamdeset prvi",
+      "ru": [
+        "семьдесят первый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-first",
+      "sourceIds": [
+        "seventy-first"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет први"
+    },
+    {
+      "id": "sedamdeset-drugi",
+      "word": "sedamdeset drugi",
+      "en": "sedamdeset drugi",
+      "ru": [
+        "семьдесят второй"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-second",
+      "sourceIds": [
+        "seventy-second"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет други"
+    },
+    {
+      "id": "sedamdeset-treci",
+      "word": "sedamdeset treći",
+      "en": "sedamdeset treći",
+      "ru": [
+        "семьдесят третий"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-third",
+      "sourceIds": [
+        "seventy-third"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет трећи"
+    },
+    {
+      "id": "sedamdeset-cetvrti",
+      "word": "sedamdeset četvrti",
+      "en": "sedamdeset četvrti",
+      "ru": [
+        "семьдесят четвёртый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-fourth",
+      "sourceIds": [
+        "seventy-fourth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет четврти"
+    },
+    {
+      "id": "sedamdeset-peti",
+      "word": "sedamdeset peti",
+      "en": "sedamdeset peti",
+      "ru": [
+        "семьдесят пятый"
+      ],
+      "example": "Uskoro ćemo imati sedamdeset i pet hiljada ruskih rečenica.",
+      "level": "A2",
+      "sourceId": "seventy-fifth",
+      "sourceIds": [
+        "seventy-fifth"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седамдесет пети"
+    },
+    {
+      "id": "sedamdeset-sesti",
+      "word": "sedamdeset šesti",
+      "en": "sedamdeset šesti",
+      "ru": [
+        "семьдесят шестой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-sixth",
+      "sourceIds": [
+        "seventy-sixth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет шести"
+    },
+    {
+      "id": "sedamdeset-sedmi",
+      "word": "sedamdeset sedmi",
+      "en": "sedamdeset sedmi",
+      "ru": [
+        "семьдесят седьмой"
+      ],
+      "example": "Uskoro ćemo imati sedamdeset i pet hiljada ruskih rečenica.",
+      "level": "A2",
+      "sourceId": "seventy-seventh",
+      "sourceIds": [
+        "seventy-seventh"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "седамдесет седми"
+    },
+    {
+      "id": "sedamdeset-osmi",
+      "word": "sedamdeset osmi",
+      "en": "sedamdeset osmi",
+      "ru": [
+        "семьдесят восьмой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-eighth",
+      "sourceIds": [
+        "seventy-eighth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет осми"
+    },
+    {
+      "id": "sedamdeset-deveti",
+      "word": "sedamdeset deveti",
+      "en": "sedamdeset deveti",
+      "ru": [
+        "семьдесят девятый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-ninth",
+      "sourceIds": [
+        "seventy-ninth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "седамдесет девети"
+    },
+    {
+      "id": "stoti",
+      "word": "stoti",
+      "en": "stoti",
+      "ru": [
+        "сотый",
+        "сотая"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "hundredth",
+      "sourceIds": [
+        "hundredth"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "стоти"
+    },
+    {
+      "id": "hiljaditi",
+      "word": "hiljaditi",
+      "en": "hiljaditi",
+      "ru": [
+        "тысячный",
+        "одна тысячная"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "thousandth",
+      "sourceIds": [
+        "thousandth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "хиљадити"
+    },
+    {
+      "id": "stohiljaditi",
+      "word": "stohiljaditi",
+      "en": "stohiljaditi",
+      "ru": [
+        "стотысячный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hundred-thousandth",
+      "sourceIds": [
+        "hundred-thousandth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "стохиљадити"
+    },
+    {
+      "id": "milioniti",
+      "word": "milioniti",
+      "en": "milioniti",
+      "ru": [
+        "миллионный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "millionth",
+      "sourceIds": [
+        "millionth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "милионити"
+    },
+    {
+      "id": "milijarditi",
+      "word": "milijarditi",
+      "en": "milijarditi",
+      "ru": [
+        "миллиардный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "billionth",
+      "sourceIds": [
+        "billionth"
+      ],
+      "pos": "numeral",
+      "wordCyrillic": "милијардити"
+    },
+    {
+      "id": "trece",
+      "word": "treće",
+      "en": "treće",
+      "ru": [
+        "в-третьих"
+      ],
+      "example": "Treće, pisati pisma danas je neuobičajeno.",
+      "level": "B1",
+      "sourceId": "thirdly",
+      "sourceIds": [
+        "thirdly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "треће"
+    },
+    {
+      "id": "cetvrto",
+      "word": "četvrto",
+      "en": "četvrto",
+      "ru": [
+        "в-четвёртых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fourthly",
+      "sourceIds": [
+        "fourthly"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "четврто"
+    },
+    {
+      "id": "peto",
+      "word": "peto",
+      "en": "peto",
+      "ru": [
+        "в-пятых"
+      ],
+      "example": "Knjizi nedostaju drugo, peto i trinaesto poglavlje.",
+      "level": "B1",
+      "sourceId": "fifthly",
+      "sourceIds": [
+        "fifthly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пето"
+    },
+    {
+      "id": "sesto",
+      "word": "šesto",
+      "en": "šesto",
+      "ru": [
+        "в-шестых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sixthly",
+      "sourceIds": [
+        "sixthly"
+      ],
+      "pos": "adv",
+      "wordCyrillic": "шесто"
+    },
+    {
+      "id": "sedmo",
+      "word": "sedmo",
+      "en": "sedmo",
+      "ru": [
+        "в-седьмых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "seventhly",
+      "sourceIds": [
+        "seventhly"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "седмо"
+    },
+    {
+      "id": "pola",
+      "word": "pola",
+      "en": "pola",
+      "ru": [
+        "пол",
+        "полу",
+        "наполовину"
+      ],
+      "example": "Bolje i pola jajeta umesto prazne ljuske.",
+      "level": "A1",
+      "sourceId": "half",
+      "sourceIds": [
+        "half"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пола"
+    },
+    {
+      "id": "cetvrtina",
+      "word": "četvrtina",
+      "en": "četvrtina",
+      "ru": [
+        "(одна) четвёртая (часть)",
+        "квартал",
+        "четверть"
+      ],
+      "example": "Tri četvrtine površine Zemlje je voda.",
+      "level": "B1",
+      "sourceId": "quarter",
+      "sourceIds": [
+        "quarter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "четвртина"
+    },
+    {
+      "id": "dve-trecine",
+      "word": "dve trećine",
+      "en": "dve trećine",
+      "ru": [
+        "две трети"
+      ],
+      "example": "Dve trećine studenata je bilo na sastanku.",
+      "level": "B1",
+      "sourceId": "two-thirds",
+      "sourceIds": [
+        "two-thirds"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "две трећине"
+    },
+    {
+      "id": "razlomak",
+      "word": "razlomak",
+      "en": "razlomak",
+      "ru": [
+        "часть",
+        "частица",
+        "дробь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fraction",
+      "sourceIds": [
+        "fraction"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "разломак"
+    },
+    {
+      "id": "razlomacki",
+      "word": "razlomački",
+      "en": "razlomački",
+      "ru": [
+        "дробный",
+        "фракционный",
+        "отрывочный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fractional",
+      "sourceIds": [
+        "fractional"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "разломачки"
+    },
+    {
+      "id": "ceo",
+      "word": "ceo",
+      "en": "ceo",
+      "ru": [
+        "целый",
+        "весь",
+        "полный"
+      ],
+      "example": "Ceo sistem je neverovatno kompleksan i zamršen.",
+      "level": "A2",
+      "sourceId": "whole",
+      "sourceIds": [
+        "whole"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "цео"
+    },
+    {
+      "id": "jedini",
+      "word": "jedini",
+      "en": "jedini",
+      "ru": [
+        "один",
+        "единственный",
+        "одна"
+      ],
+      "example": "Ja sam jedini ovde koji može to.",
+      "level": "A1",
+      "sourceId": "single",
+      "sourceIds": [
+        "single"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "једини"
+    },
+    {
+      "id": "par",
+      "word": "par",
+      "en": "par",
+      "ru": [
+        "пара",
+        "чета"
+      ],
+      "example": "Dala sam Tomu pare koje je tražio.",
+      "level": "A1",
+      "sourceId": "pair",
+      "sourceIds": [
+        "pair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пар"
+    },
+    {
+      "id": "dvojnik",
+      "word": "dvojnik",
+      "en": "dvojnik",
+      "ru": [
+        "двойной",
+        "двойник",
+        "удваивать"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "double",
+      "sourceIds": [
+        "double"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "двојник"
+    },
+    {
+      "id": "trojni",
+      "word": "trojni",
+      "en": "trojni",
+      "ru": [
+        "тройной",
+        "троекратный",
+        "трёхкратный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "triple",
+      "sourceIds": [
+        "triple"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "тројни"
+    },
+    {
+      "id": "triput",
+      "word": "triput",
+      "en": "triput",
+      "ru": [
+        "трижды"
+      ],
+      "example": "Bez maskice za telefon bih dosad triput kupio novi.",
+      "level": "B1",
+      "sourceId": "thrice",
+      "sourceIds": [
+        "thrice"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трипут"
+    },
+    {
+      "id": "hiljadostruk",
+      "word": "hiljadostruk",
+      "en": "hiljadostruk",
+      "ru": [
+        "тысячекратный",
+        "тысячекратно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thousandfold",
+      "sourceIds": [
+        "thousandfold"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "хиљадострук"
+    },
+    {
+      "id": "visestruk",
+      "word": "višestruk",
+      "en": "višestruk",
+      "ru": [
+        "кратный",
+        "много",
+        "множественный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "multiple",
+      "sourceIds": [
+        "multiple"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "вишеструк"
+    },
+    {
+      "id": "nula",
+      "word": "nula",
+      "en": "nula",
+      "ru": [
+        "ноль",
+        "ничто"
+      ],
+      "example": "I danas je temepratura ispod nule.",
+      "level": "B1",
+      "sourceId": "nought",
+      "sourceIds": [
+        "nought"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "нула"
+    },
+    {
+      "id": "dvojka",
+      "word": "dvojka",
+      "en": "dvojka",
+      "ru": [
+        "двойка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "deuce",
+      "sourceIds": [
+        "deuce"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "двојка"
+    },
+    {
+      "id": "trojka",
+      "word": "trojka",
+      "en": "trojka",
+      "ru": [
+        "тройки"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "threes",
+      "sourceIds": [
+        "threes"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "тројка"
+    },
+    {
+      "id": "sestice",
+      "word": "šestice",
+      "en": "šestice",
+      "ru": [
+        "шестёрки"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sixes",
+      "sourceIds": [
+        "sixes"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "шестице"
+    },
+    {
+      "id": "desetka",
+      "word": "desetka",
+      "en": "desetka",
+      "ru": [
+        "десятка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "tenner",
+      "sourceIds": [
+        "tenner"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "десетка"
+    },
+    {
+      "id": "cetrdesete",
+      "word": "četrdesete",
+      "en": "četrdesete",
+      "ru": [
+        "сороковые"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "forties",
+      "sourceIds": [
+        "forties"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "четрдесете"
+    },
+    {
+      "id": "osamdesete",
+      "word": "osamdesete",
+      "en": "osamdesete",
+      "ru": [
+        "1980-ые годы",
+        "80-ые"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eighties",
+      "sourceIds": [
+        "eighties"
+      ],
+      "pos": "n",
+      "wordCyrillic": "осамдесете"
+    },
+    {
+      "id": "devedesete",
+      "word": "devedesete",
+      "en": "devedesete",
+      "ru": [
+        "десятилетие девяностых годов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nineties",
+      "sourceIds": [
+        "nineties"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "деведесете"
+    },
+    {
+      "id": "broj",
+      "word": "broj",
+      "en": "broj",
+      "ru": [
+        "число",
+        "количество",
+        "имя числительное"
+      ],
+      "example": "Bio je ravnomeran rast u broju stanovnika.",
+      "level": "A1",
+      "sourceId": "number",
+      "sourceIds": [
+        "number"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "број"
+    },
+    {
+      "id": "numeracija",
+      "word": "numeracija",
+      "en": "numeracija",
+      "ru": [
+        "нумерация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "numbering",
+      "sourceIds": [
+        "numbering"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "нумерација"
+    },
+    {
+      "id": "brojcano",
+      "word": "brojčano",
+      "en": "brojčano",
+      "ru": [
+        "численно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "numerically",
+      "sourceIds": [
+        "numerically"
+      ],
+      "pos": "adv",
+      "wordCyrillic": "бројчано"
+    },
+    {
+      "id": "cifra",
+      "word": "cifra",
+      "en": "cifra",
+      "ru": [
+        "цифра"
+      ],
+      "example": "Koliko cifara ima ovaj broj?",
+      "level": "B1",
+      "sourceId": "digit",
+      "sourceIds": [
+        "digit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "цифра"
+    },
+    {
+      "id": "ceo-broj",
+      "word": "ceo broj",
+      "en": "ceo broj",
+      "ru": [
+        "целое",
+        "целое число"
+      ],
+      "example": "Jedan je najmanji pozitivan ceo broj.",
+      "level": "B1",
+      "sourceId": "integer",
+      "sourceIds": [
+        "integer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "цео број"
+    },
+    {
+      "id": "decimalni",
+      "word": "decimalni",
+      "en": "decimalni",
+      "ru": [
+        "десятичный",
+        "десятичная система"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decimal",
+      "sourceIds": [
+        "decimal"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "децимални"
+    },
+    {
+      "id": "brojati",
+      "word": "brojati",
+      "en": "brojati",
+      "ru": [
+        "считать",
+        "подсчитывать"
+      ],
+      "example": "Mali broj ljudi je znao za to.",
+      "level": "A2",
+      "sourceId": "count",
+      "sourceIds": [
+        "count"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "бројати"
+    },
+    {
+      "id": "brojac",
+      "word": "brojač",
+      "en": "brojač",
+      "ru": [
+        "счётчик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "бројач"
+    },
+    {
+      "id": "izracunati",
+      "word": "izračunati",
+      "en": "izračunati",
+      "ru": [
+        "вычислять",
+        "вычислить",
+        "подсчитывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "calculate",
+      "sourceIds": [
+        "calculate"
+      ],
+      "pos": "v",
+      "wordCyrillic": "израчунати"
+    },
+    {
+      "id": "kalkulator",
+      "word": "kalkulator",
+      "en": "kalkulator",
+      "ru": [
+        "калькулятор",
+        "арифмометр",
+        "вычислительная машина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "calculator",
+      "sourceIds": [
+        "calculator"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "калкулатор"
+    },
+    {
+      "id": "pozitivan",
+      "word": "pozitivan",
+      "en": "pozitivan",
+      "ru": [
+        "плюс",
+        "положительный"
+      ],
+      "example": "Metode za pozitivno razmišljanje je lako naučiti.",
+      "level": "A2",
+      "sourceId": "plus",
+      "sourceIds": [
+        "plus"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "позитиван"
+    },
+    {
+      "id": "minus",
+      "word": "minus",
+      "en": "minus",
+      "ru": [
+        "минус",
+        "отрицательный",
+        "отрицательная величина"
+      ],
+      "example": "Osam minus šest je dva.",
+      "level": "A2",
+      "sourceId": "minus",
+      "sourceIds": [
+        "minus"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "минус"
+    },
+    {
+      "id": "zbir",
+      "word": "zbir",
+      "en": "zbir",
+      "ru": [
+        "сумма",
+        "итог",
+        "складывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sum",
+      "sourceIds": [
+        "sum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "збир"
+    },
+    {
+      "id": "jednak",
+      "word": "jednak",
+      "en": "jednak",
+      "ru": [
+        "равный",
+        "одинаковый",
+        "тот же"
+      ],
+      "example": "On je jednako mudar kao njegov otac.",
+      "level": "B1",
+      "sourceId": "equal",
+      "sourceIds": [
+        "equal"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "једнак"
+    },
+    {
+      "id": "jednako",
+      "word": "jednako",
+      "en": "jednako",
+      "ru": [
+        "одинаково",
+        "поровну"
+      ],
+      "example": "On je jednako mudar kao njegov otac.",
+      "level": "B2",
+      "sourceId": "equally",
+      "sourceIds": [
+        "equally"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "једнако"
+    },
+    {
+      "id": "procenat",
+      "word": "procenat",
+      "en": "procenat",
+      "ru": [
+        "процент"
+      ],
+      "example": "Deset je deset procenata od sto.",
+      "level": "A2",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "проценат"
+    },
+    {
+      "id": "procenat",
+      "word": "procenat",
+      "en": "procenat",
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "example": "Deset je deset procenata od sto.",
+      "level": "B1",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "проценат"
+    },
+    {
+      "id": "percentil",
+      "word": "percentil",
+      "en": "percentil",
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "перцентил"
+    },
+    {
+      "id": "procentualni",
+      "word": "procentualni",
+      "en": "procentualni",
+      "ru": [
+        "процентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "процентуални"
+    },
+    {
+      "id": "prosecan",
+      "word": "prosečan",
+      "en": "prosečan",
+      "ru": [
+        "средний",
+        "обычный",
+        "среднее"
+      ],
+      "example": "Prosečan životni vek pasa je 10 godina.",
+      "level": "A1",
+      "sourceId": "average",
+      "sourceIds": [
+        "average"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "просечан"
+    },
+    {
+      "id": "prosecno",
+      "word": "prosečno",
+      "en": "prosečno",
+      "ru": [
+        "в среднем"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "averagely",
+      "sourceIds": [
+        "averagely"
+      ],
+      "pos": "adv",
+      "wordCyrillic": "просечно"
+    },
+    {
+      "id": "stopa",
+      "word": "stopa",
+      "en": "stopa",
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "example": "On je visok skoro šest stopa.",
+      "level": "A1",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "стопа"
+    },
+    {
+      "id": "odnos",
+      "word": "odnos",
+      "en": "odnos",
+      "ru": [
+        "отношение",
+        "соотношение",
+        "коэффициент"
+      ],
+      "example": "Dr Džekson ima dobar odnos prema pacijentu.",
+      "level": "B1",
+      "sourceId": "ratio",
+      "sourceIds": [
+        "ratio"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "однос"
+    },
+    {
+      "id": "kolicina",
+      "word": "količina",
+      "en": "količina",
+      "ru": [
+        "количество",
+        "сумма"
+      ],
+      "example": "Malo-pomalo, povećavajte količinu vežbi koje obavljate.",
+      "level": "A2",
+      "sourceId": "amount",
+      "sourceIds": [
+        "amount"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "количина"
+    },
+    {
+      "id": "kolicina",
+      "word": "količina",
+      "en": "količina",
+      "ru": [
+        "количество"
+      ],
+      "example": "Malo-pomalo, povećavajte količinu vežbi koje obavljate.",
+      "level": "B1",
+      "sourceId": "quantity",
+      "sourceIds": [
+        "quantity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "количина"
+    },
+    {
+      "id": "brojan",
+      "word": "brojan",
+      "en": "brojan",
+      "ru": [
+        "многочисленный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "numerous",
+      "sourceIds": [
+        "numerous"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "бројан"
+    },
+    {
+      "id": "oba",
+      "word": "oba",
+      "en": "oba",
+      "ru": [
+        "и... и",
+        "оба",
+        "обе"
+      ],
+      "example": "Oba igrača su dala sve od sebe.",
+      "level": "A1",
+      "sourceId": "both",
+      "sourceIds": [
+        "both"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "оба"
+    },
+    {
+      "id": "svaki",
+      "word": "svaki",
+      "en": "svaki",
+      "ru": [
+        "каждый"
+      ],
+      "example": "Da li ideš na džogiranje svaki dan?",
+      "level": "A1",
+      "sourceId": "each",
+      "sourceIds": [
+        "each"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сваки"
+    },
+    {
+      "id": "sasvim",
+      "word": "sasvim",
+      "en": "sasvim",
+      "ru": [
+        "полностью",
+        "совсем",
+        "весь"
+      ],
+      "example": "\"Da li si ozbiljan?\" \"Sasvim sam ozbiljan.\"",
+      "level": "A1",
+      "sourceId": "all",
+      "sourceIds": [
+        "all"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сасвим"
+    },
+    {
+      "id": "nijedan",
+      "word": "nijedan",
+      "en": "nijedan",
+      "ru": [
+        "никакой",
+        "никто"
+      ],
+      "example": "Nijedan pametan čovek to ne bi poverovao.",
+      "level": "A2",
+      "sourceId": "none",
+      "sourceIds": [
+        "none"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ниједан"
+    },
+    {
+      "id": "malo",
+      "word": "malo",
+      "en": "malo",
+      "ru": [
+        "мало",
+        "несколько",
+        "немногий"
+      ],
+      "example": "Bez učitelja malo nas bi samostalno napredovalo.",
+      "level": "A1",
+      "sourceId": "few",
+      "sourceIds": [
+        "few"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мало"
+    },
+    {
+      "id": "nekoliko",
+      "word": "nekoliko",
+      "en": "nekoliko",
+      "ru": [
+        "некоторый",
+        "несколько",
+        "различный"
+      ],
+      "example": "Gde bih mogao da izvršim nekoliko kupovina?",
+      "level": "A1",
+      "sourceId": "several",
+      "sourceIds": [
+        "several"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "неколико"
+    },
+    {
+      "id": "mnogo",
+      "word": "mnogo",
+      "en": "mnogo",
+      "ru": [
+        "многие",
+        "многий",
+        "много"
+      ],
+      "example": "Biće mnogo zanimljivije ako i ti pođeš.",
+      "level": "A1",
+      "sourceId": "many",
+      "sourceIds": [
+        "many"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "много"
+    },
+    {
+      "id": "mnogo",
+      "word": "mnogo",
+      "en": "mnogo",
+      "ru": [
+        "намного",
+        "гораздо",
+        "очень"
+      ],
+      "example": "Biće mnogo zanimljivije ako i ti pođeš.",
+      "level": "A1",
+      "sourceId": "much",
+      "sourceIds": [
+        "much"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "много"
+    },
+    {
+      "id": "vise",
+      "word": "više",
+      "en": "više",
+      "ru": [
+        "больше",
+        "более",
+        "ещё"
+      ],
+      "example": "Da li više voliš čaj ili kafu?",
+      "level": "A1",
+      "sourceId": "more",
+      "sourceIds": [
+        "more"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "више"
+    },
+    {
+      "id": "naj",
+      "word": "naj-",
+      "en": "naj-",
+      "ru": [
+        "наиболее",
+        "самый",
+        "большинство"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "most",
+      "sourceIds": [
+        "most"
+      ],
+      "pos": "adv",
+      "wordCyrillic": "нај-"
+    },
+    {
+      "id": "uglavnom",
+      "word": "uglavnom",
+      "en": "uglavnom",
+      "ru": [
+        "в основном",
+        "главным образом",
+        "по большей части"
+      ],
+      "example": "Lekove uglavnom ne treba mešati sa alkoholom.",
+      "level": "B1",
+      "sourceId": "mostly",
+      "sourceIds": [
+        "mostly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "углавном"
+    },
+    {
+      "id": "manje",
+      "word": "manje",
+      "en": "manje",
+      "ru": [
+        "менее",
+        "меньше",
+        "меньший"
+      ],
+      "example": "Neki od mojih manje inteligentnih prijatelja puše.",
+      "level": "A1",
+      "sourceId": "less",
+      "sourceIds": [
+        "less"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мање"
+    },
+    {
+      "id": "manji",
+      "word": "manji",
+      "en": "manji",
+      "ru": [
+        "меньший"
+      ],
+      "example": "Očekivani prinos useva će biti manji u odnosu na prošlu godinu.",
+      "level": "C1",
+      "sourceId": "lesser",
+      "sourceIds": [
+        "lesser"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мањи"
+    },
+    {
+      "id": "najmanji",
+      "word": "najmanji",
+      "en": "najmanji",
+      "ru": [
+        "наименьший"
+      ],
+      "example": "Jedan je najmanji pozitivan ceo broj.",
+      "level": "A1",
+      "sourceId": "least",
+      "sourceIds": [
+        "least"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "најмањи"
+    },
+    {
+      "id": "sudbina",
+      "word": "sudbina",
+      "en": "sudbina",
+      "ru": [
+        "группа",
+        "судьба",
+        "участь"
+      ],
+      "example": "Ne možeš da pobegneš od svoje sudbine.",
+      "level": "A1",
+      "sourceId": "lot",
+      "sourceIds": [
+        "lot"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "судбина"
+    },
+    {
+      "id": "deo",
+      "word": "deo",
+      "en": "deo",
+      "ru": [
+        "часть",
+        "доля",
+        "роль"
+      ],
+      "example": "Da li ste posetili stari deo grada?",
+      "level": "A1",
+      "sourceId": "part",
+      "sourceIds": [
+        "part"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "део"
+    },
+    {
+      "id": "delimicno",
+      "word": "delimično",
+      "en": "delimično",
+      "ru": [
+        "отчасти",
+        "частично"
+      ],
+      "example": "Bili smo delimično u pravu.",
+      "level": "B2",
+      "sourceId": "partly",
+      "sourceIds": [
+        "partly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "делимично"
+    },
+    {
+      "id": "kvartalni",
+      "word": "kvartalni",
+      "en": "kvartalni",
+      "ru": [
+        "ежеквартальный",
+        "квартальный",
+        "трёхмесячный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "quarterly",
+      "sourceIds": [
+        "quarterly"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "квартални"
+    },
+    {
+      "id": "mera",
+      "word": "mera",
+      "en": "mera",
+      "ru": [
+        "количество",
+        "мера",
+        "измерять"
+      ],
+      "example": "Da li Tom hoće da pitam Meri?",
+      "level": "B1",
+      "sourceId": "measure",
+      "sourceIds": [
+        "measure"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мера"
+    },
+    {
+      "id": "mera",
+      "word": "mera",
+      "en": "mera",
+      "ru": [
+        "измерение",
+        "обмер",
+        "мера"
+      ],
+      "example": "Da li Tom hoće da pitam Meri?",
+      "level": "B1",
+      "sourceId": "measurement",
+      "sourceIds": [
+        "measurement"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "мера"
+    },
+    {
+      "id": "merenje",
+      "word": "merenje",
+      "en": "merenje",
+      "ru": [
+        "измерение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "measuring",
+      "sourceIds": [
+        "measuring"
+      ],
+      "pos": "v",
+      "gender": "n",
+      "wordCyrillic": "мерење"
+    },
+    {
+      "id": "brojilo",
+      "word": "brojilo",
+      "en": "brojilo",
+      "ru": [
+        "счётчик",
+        "измеритель",
+        "размер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "meter",
+      "sourceIds": [
+        "meter"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "бројило"
+    },
+    {
+      "id": "inc",
+      "word": "inč",
+      "en": "inč",
+      "ru": [
+        "дюйм"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "inch",
+      "sourceIds": [
+        "inch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "инч"
+    },
+    {
+      "id": "milja",
+      "word": "milja",
+      "en": "milja",
+      "ru": [
+        "миля",
+        "узел"
+      ],
+      "example": "Ima oko 300 milja odavde do Bostona.",
+      "level": "B1",
+      "sourceId": "mile",
+      "sourceIds": [
+        "mile"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "миља"
+    },
+    {
+      "id": "kilogram",
+      "word": "kilogram",
+      "en": "kilogram",
+      "ru": [
+        "килограмм"
+      ],
+      "example": "Ona se ugojila 23 kilograma od udaje.",
+      "level": "B1",
+      "sourceId": "kilogram",
+      "sourceIds": [
+        "kilogram"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "килограм"
+    }
+  ]
+}

@@ -1,0 +1,2493 @@
+{
+  "id": "shopping",
+  "title": "Покупки",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "annoncer",
+      "word": "annoncer",
+      "en": "annoncer",
+      "sourceId": "advertise",
+      "sourceIds": [
+        "advertise"
+      ],
+      "ru": [
+        "извещать",
+        "информировать",
+        "объявлять"
+      ],
+      "gender": null,
+      "example": "L'entreprise va annoncer ses nouveaux produits demain.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "publicite",
+      "word": "publicité",
+      "en": "publicité",
+      "sourceId": "advertisement",
+      "sourceIds": [
+        "advertisement"
+      ],
+      "ru": [
+        "реклама",
+        "анонс",
+        "заявление"
+      ],
+      "gender": "f",
+      "example": "J'ai vu une publicité pour ce nouveau téléphone.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "annonceur",
+      "word": "annonceur",
+      "en": "annonceur",
+      "sourceId": "advertiser",
+      "sourceIds": [
+        "advertiser"
+      ],
+      "ru": [
+        "рекламодатель",
+        "рекламодательница"
+      ],
+      "gender": "m",
+      "example": "L'annonceur a lancé une nouvelle campagne publicitaire.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "publicite",
+      "word": "publicité",
+      "en": "publicité",
+      "sourceId": "advertising",
+      "sourceIds": [
+        "advertising"
+      ],
+      "ru": [
+        "реклама"
+      ],
+      "gender": "f",
+      "example": "La publicité est partout dans la rue.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "abordable",
+      "word": "abordable",
+      "en": "abordable",
+      "sourceId": "affordable",
+      "sourceIds": [
+        "affordable"
+      ],
+      "ru": [
+        "доступный"
+      ],
+      "gender": null,
+      "example": "Ce restaurant propose des plats abordables.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "allee",
+      "word": "allée",
+      "en": "allée",
+      "sourceId": "aisle",
+      "sourceIds": [
+        "aisle"
+      ],
+      "ru": [
+        "придел",
+        "проход"
+      ],
+      "gender": "f",
+      "example": "Il y a beaucoup de produits dans cette allée du supermarché.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "enchere",
+      "word": "enchère",
+      "en": "enchère",
+      "sourceId": "auction",
+      "sourceIds": [
+        "auction"
+      ],
+      "ru": [
+        "аукцион",
+        "продавать с аукциона",
+        "продавать с молотка"
+      ],
+      "gender": "f",
+      "example": "La maison a été vendue aux enchères.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "commissaire-priseur",
+      "word": "commissaire-priseur",
+      "en": "commissaire-priseur",
+      "sourceId": "auctioneer",
+      "sourceIds": [
+        "auctioneer"
+      ],
+      "ru": [
+        "аукционист",
+        "аукционистка"
+      ],
+      "gender": "m",
+      "example": "Le commissaire-priseur a adjugé le tableau à un collectionneur privé.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sac",
+      "word": "sac",
+      "en": "sac",
+      "sourceId": "bag",
+      "sourceIds": [
+        "bag"
+      ],
+      "ru": [
+        "сумка",
+        "пакет",
+        "мешок"
+      ],
+      "gender": "m",
+      "example": "J'ai oublié mon sac à la maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bonne-affaire",
+      "word": "bonne affaire",
+      "en": "bonne affaire",
+      "sourceId": "bargain",
+      "sourceIds": [
+        "bargain"
+      ],
+      "ru": [
+        "товар, купленный по дешёвке",
+        "сделка",
+        "заключать сделку"
+      ],
+      "gender": "f",
+      "example": "C'est une bonne affaire à ce prix-là.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "panier",
+      "word": "panier",
+      "en": "panier",
+      "sourceId": "basket",
+      "sourceIds": [
+        "basket"
+      ],
+      "ru": [
+        "корзина",
+        "корзинка",
+        "кошница"
+      ],
+      "gender": "m",
+      "example": "Elle a mis les pommes dans le panier.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "enchere",
+      "word": "enchère",
+      "en": "enchère",
+      "sourceId": "bid",
+      "sourceIds": [
+        "bid"
+      ],
+      "ru": [
+        "заявка",
+        "предлагаемая цена",
+        "ставка"
+      ],
+      "gender": "f",
+      "example": "Il a fait une enchère très élevée pour ce tableau.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "marque",
+      "word": "marque",
+      "en": "marque",
+      "sourceId": "brand",
+      "sourceIds": [
+        "brand"
+      ],
+      "ru": [
+        "клеймо",
+        "тавро",
+        "знак"
+      ],
+      "gender": "f",
+      "example": "Cette marque sur son épaule est une cicatrice.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "acheter",
+      "word": "acheter",
+      "en": "acheter",
+      "sourceId": "buy",
+      "sourceIds": [
+        "buy"
+      ],
+      "ru": [
+        "покупать"
+      ],
+      "gender": null,
+      "example": "J'achète du pain tous les jours.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "acheteur",
+      "word": "acheteur",
+      "en": "acheteur",
+      "sourceId": "buyer",
+      "sourceIds": [
+        "buyer",
+        "purchaser"
+      ],
+      "ru": [
+        "покупатель",
+        "покупательница"
+      ],
+      "gender": "m",
+      "example": "L'acheteur a signé le contrat hier.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "carte",
+      "word": "carte",
+      "en": "carte",
+      "sourceId": "card",
+      "sourceIds": [
+        "card"
+      ],
+      "ru": [
+        "карта",
+        "козырь",
+        "карточка"
+      ],
+      "gender": "f",
+      "example": "Il joue aux cartes avec ses amis.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "charrette",
+      "word": "charrette",
+      "en": "charrette",
+      "sourceId": "cart",
+      "sourceIds": [
+        "cart"
+      ],
+      "ru": [
+        "воз",
+        "арба",
+        "повозка"
+      ],
+      "gender": "f",
+      "example": "Le fermier transporte le foin dans sa charrette.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "argent-liquide",
+      "word": "argent liquide",
+      "en": "argent liquide",
+      "sourceId": "cash",
+      "sourceIds": [
+        "cash"
+      ],
+      "ru": [
+        "деньги",
+        "нал",
+        "наличные деньги"
+      ],
+      "gender": "m",
+      "example": "Avez-vous de l'argent liquide sur vous ?",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "caissier",
+      "word": "caissier",
+      "en": "caissier",
+      "sourceId": "cashier",
+      "sourceIds": [
+        "cashier"
+      ],
+      "ru": [
+        "кассир",
+        "кассирша"
+      ],
+      "gender": "m",
+      "example": "Le caissier m'a rendu la monnaie.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "catalogue",
+      "word": "catalogue",
+      "en": "catalogue",
+      "sourceId": "catalogue",
+      "sourceIds": [
+        "catalogue"
+      ],
+      "ru": [
+        "каталог",
+        "перечень",
+        "список"
+      ],
+      "gender": "m",
+      "example": "J'ai consulté le catalogue de la bibliothèque.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "monnaie",
+      "word": "monnaie",
+      "en": "monnaie",
+      "sourceId": "change",
+      "sourceIds": [
+        "change"
+      ],
+      "ru": [
+        "сдача"
+      ],
+      "gender": "f",
+      "example": "Voici votre monnaie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cabine-d-essayage",
+      "word": "cabine d'essayage",
+      "en": "cabine d'essayage",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "ru": [
+        "примерочная",
+        "раздевалка"
+      ],
+      "gender": "f",
+      "example": "Je vais essayer ce pantalon dans la cabine d'essayage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "frais",
+      "word": "frais",
+      "en": "frais",
+      "sourceId": "charge",
+      "sourceIds": [
+        "charge"
+      ],
+      "ru": [
+        "цена",
+        "плата",
+        "такса"
+      ],
+      "gender": "m",
+      "example": "Les frais d'inscription sont élevés.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chargeur",
+      "word": "chargeur",
+      "en": "chargeur",
+      "sourceId": "charger",
+      "sourceIds": [
+        "charger"
+      ],
+      "ru": [
+        "зарядка",
+        "зарядное устройство",
+        "заряжалка"
+      ],
+      "gender": "m",
+      "example": "J'ai oublié mon chargeur à la maison.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bon-marche",
+      "word": "bon marché",
+      "en": "bon marché",
+      "sourceId": "cheap",
+      "sourceIds": [
+        "cheap"
+      ],
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "gender": null,
+      "example": "Ce restaurant est très bon marché.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "moins-cher",
+      "word": "moins cher",
+      "en": "moins cher",
+      "sourceId": "cheaper",
+      "sourceIds": [
+        "cheaper"
+      ],
+      "ru": [
+        "более дешевый"
+      ],
+      "gender": "m",
+      "example": "Ce modèle est moins cher que l'autre.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bon-marche",
+      "word": "bon marché",
+      "en": "bon marché",
+      "sourceId": "cheaply",
+      "sourceIds": [
+        "cheaply"
+      ],
+      "ru": [
+        "дёшево"
+      ],
+      "gender": null,
+      "example": "Il a acheté ce vélo bon marché.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "caisse",
+      "word": "caisse",
+      "en": "caisse",
+      "sourceId": "checkout",
+      "sourceIds": [
+        "checkout",
+        "checkstand"
+      ],
+      "ru": [
+        "касса"
+      ],
+      "gender": "f",
+      "example": "Je fais la queue à la caisse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "client",
+      "word": "client",
+      "en": "client",
+      "sourceId": "client",
+      "sourceIds": [
+        "client",
+        "customer"
+      ],
+      "ru": [
+        "клиент",
+        "заказчик",
+        "заказчица"
+      ],
+      "gender": "m",
+      "example": "Le client attend son café au comptoir.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "manteau",
+      "word": "manteau",
+      "en": "manteau",
+      "sourceId": "coat",
+      "sourceIds": [
+        "coat"
+      ],
+      "ru": [
+        "пальто"
+      ],
+      "gender": "m",
+      "example": "Il fait froid, mets ton manteau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "commerce",
+      "word": "commerce",
+      "en": "commerce",
+      "sourceId": "commerce",
+      "sourceIds": [
+        "commerce"
+      ],
+      "ru": [
+        "торговля",
+        "коммерция",
+        "сношение"
+      ],
+      "gender": "m",
+      "example": "Le commerce international est essentiel pour l'économie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "commercial",
+      "word": "commercial",
+      "en": "commercial",
+      "sourceId": "commercial",
+      "sourceIds": [
+        "commercial"
+      ],
+      "ru": [
+        "коммерческий",
+        "торговый",
+        "реклама"
+      ],
+      "gender": null,
+      "example": "Il travaille dans le secteur commercial.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "commercialisation",
+      "word": "commercialisation",
+      "en": "commercialisation",
+      "sourceId": "commercialization",
+      "sourceIds": [
+        "commercialization"
+      ],
+      "ru": [
+        "коммерциализация"
+      ],
+      "gender": "f",
+      "example": "La commercialisation de ce nouveau produit débutera le mois prochain.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "commercialiser",
+      "word": "commercialiser",
+      "en": "commercialiser",
+      "sourceId": "commercialize",
+      "sourceIds": [
+        "commercialize"
+      ],
+      "ru": [
+        "коммерциализировать"
+      ],
+      "gender": null,
+      "example": "L'entreprise a décidé de commercialiser ce nouveau produit l'année prochaine.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "commercialement",
+      "word": "commercialement",
+      "en": "commercialement",
+      "sourceId": "commercially",
+      "sourceIds": [
+        "commercially"
+      ],
+      "ru": [
+        "коммерчески"
+      ],
+      "gender": null,
+      "example": "Ce produit est commercialement viable.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "consommateur",
+      "word": "consommateur",
+      "en": "consommateur",
+      "sourceId": "consumer",
+      "sourceIds": [
+        "consumer"
+      ],
+      "ru": [
+        "потребитель",
+        "потребительница"
+      ],
+      "gender": "m",
+      "example": "Le consommateur est de plus en plus exigeant sur la qualité des produits.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "consumerisme",
+      "word": "consumérisme",
+      "en": "consumérisme",
+      "sourceId": "consumerism",
+      "sourceIds": [
+        "consumerism"
+      ],
+      "ru": [
+        "потребительство"
+      ],
+      "gender": "m",
+      "example": "Le consumérisme pousse à acheter toujours plus.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cout",
+      "word": "coût",
+      "en": "coût",
+      "sourceId": "cost",
+      "sourceIds": [
+        "cost"
+      ],
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "gender": "m",
+      "example": "Le coût de ce projet est très élevé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "couteux",
+      "word": "coûteux",
+      "en": "coûteux",
+      "sourceId": "costly",
+      "sourceIds": [
+        "costly"
+      ],
+      "ru": [
+        "дорогой",
+        "дорогостоящий",
+        "ценный"
+      ],
+      "gender": null,
+      "example": "C'est une erreur très coûteuse.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "comptoir",
+      "word": "comptoir",
+      "en": "comptoir",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "ru": [
+        "прилавок",
+        "стойка"
+      ],
+      "gender": null,
+      "example": "Il a posé son sac sur le comptoir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "contrefait",
+      "word": "contrefait",
+      "en": "contrefait",
+      "sourceId": "counterfeit",
+      "sourceIds": [
+        "counterfeit"
+      ],
+      "ru": [
+        "контрафактный",
+        "поддельный",
+        "фальшивый"
+      ],
+      "gender": null,
+      "example": "Il a été arrêté pour possession de billets contrefaits.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "faux-monnayeur",
+      "word": "faux-monnayeur",
+      "en": "faux-monnayeur",
+      "sourceId": "counterfeiter",
+      "sourceIds": [
+        "counterfeiter"
+      ],
+      "ru": [
+        "фальшивомонетчик"
+      ],
+      "gender": "m",
+      "example": "Le faux-monnayeur a été arrêté par la police.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "souche",
+      "word": "souche",
+      "en": "souche",
+      "sourceId": "counterfoil",
+      "sourceIds": [
+        "counterfoil"
+      ],
+      "ru": [
+        "корешок"
+      ],
+      "gender": "f",
+      "example": "Veuillez conserver la souche de votre chèque.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "contre-offre",
+      "word": "contre-offre",
+      "en": "contre-offre",
+      "sourceId": "counteroffer",
+      "sourceIds": [
+        "counteroffer"
+      ],
+      "ru": [
+        "встречное предложение",
+        "контрпредложение"
+      ],
+      "gender": "f",
+      "example": "Il a rejeté notre première proposition et a fait une contre-offre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "plan-de-travail",
+      "word": "plan de travail",
+      "en": "plan de travail",
+      "sourceId": "countertop",
+      "sourceIds": [
+        "countertop"
+      ],
+      "ru": [
+        "столешница"
+      ],
+      "gender": "m",
+      "example": "Elle a installé un nouveau plan de travail dans la cuisine.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "coupon",
+      "word": "coupon",
+      "en": "coupon",
+      "sourceId": "coupon",
+      "sourceIds": [
+        "coupon"
+      ],
+      "ru": [
+        "ваучер",
+        "купон",
+        "талон"
+      ],
+      "gender": "m",
+      "example": "J'ai utilisé un coupon de réduction pour acheter ce livre.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "negociant",
+      "word": "négociant",
+      "en": "négociant",
+      "sourceId": "dealer",
+      "sourceIds": [
+        "dealer"
+      ],
+      "ru": [
+        "торговец",
+        "дилер",
+        "маклер"
+      ],
+      "gender": "m",
+      "example": "Il est un négociant en vin reconnu dans la région.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "livraison",
+      "word": "livraison",
+      "en": "livraison",
+      "sourceId": "delivery",
+      "sourceIds": [
+        "delivery"
+      ],
+      "ru": [
+        "доставка",
+        "завоз",
+        "поставка"
+      ],
+      "gender": "f",
+      "example": "La livraison de votre colis est prévue pour demain.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "livreur",
+      "word": "livreur",
+      "en": "livreur",
+      "sourceId": "deliveryman",
+      "sourceIds": [
+        "deliveryman"
+      ],
+      "ru": [
+        "доставщик"
+      ],
+      "gender": "m",
+      "example": "Le livreur a déposé le colis devant la porte.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "remise",
+      "word": "remise",
+      "en": "remise",
+      "sourceId": "discount",
+      "sourceIds": [
+        "discount"
+      ],
+      "ru": [
+        "дисконт",
+        "скидка"
+      ],
+      "gender": "f",
+      "example": "Le magasin offre une remise de dix pour cent sur tous les articles.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "echange",
+      "word": "échange",
+      "en": "échange",
+      "sourceId": "exchange",
+      "sourceIds": [
+        "exchange"
+      ],
+      "ru": [
+        "обмен",
+        "биржа",
+        "обмениваться"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un échange de livres.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cher",
+      "word": "cher",
+      "en": "cher",
+      "sourceId": "expensive",
+      "sourceIds": [
+        "expensive"
+      ],
+      "ru": [
+        "дорогой"
+      ],
+      "gender": null,
+      "example": "Cette voiture est très chère.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "cherement",
+      "word": "chèrement",
+      "en": "chèrement",
+      "sourceId": "expensively",
+      "sourceIds": [
+        "expensively"
+      ],
+      "ru": [
+        "дорого"
+      ],
+      "gender": null,
+      "example": "Il a payé chèrement cette erreur.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "frais",
+      "word": "frais",
+      "en": "frais",
+      "sourceId": "fee",
+      "sourceIds": [
+        "fee"
+      ],
+      "ru": [
+        "сбор",
+        "взнос",
+        "вознаграждение"
+      ],
+      "gender": "m",
+      "example": "Les frais d'inscription sont élevés.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ajuste",
+      "word": "ajusté",
+      "en": "ajusté",
+      "sourceId": "fit",
+      "sourceIds": [
+        "fit"
+      ],
+      "ru": [
+        "сидеть по фигуре",
+        "подходить по размеру"
+      ],
+      "gender": null,
+      "example": "Cette veste est bien ajustée.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "tailleur",
+      "word": "tailleur",
+      "en": "tailleur",
+      "sourceId": "fitter",
+      "sourceIds": [
+        "fitter"
+      ],
+      "ru": [
+        "примерщик",
+        "портной"
+      ],
+      "gender": "m",
+      "example": "Le tailleur ajuste la veste pour qu'elle soit parfaite.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "essayage",
+      "word": "essayage",
+      "en": "essayage",
+      "sourceId": "fitting",
+      "sourceIds": [
+        "fitting"
+      ],
+      "ru": [
+        "примерка",
+        "подгонка"
+      ],
+      "gender": "m",
+      "example": "L'essayage de la robe a duré vingt minutes.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "cabine-d-essayage",
+      "word": "cabine d'essayage",
+      "en": "cabine d'essayage",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "ru": [
+        "примерочная комната"
+      ],
+      "gender": "f",
+      "example": "Où se trouve la cabine d'essayage ?",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "libre",
+      "word": "libre",
+      "en": "libre",
+      "sourceId": "free",
+      "sourceIds": [
+        "free"
+      ],
+      "ru": [
+        "свободный",
+        "вольный",
+        "бесплатно"
+      ],
+      "gender": null,
+      "example": "Il est enfin libre de faire ce qu'il veut.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "cadeau",
+      "word": "cadeau",
+      "en": "cadeau",
+      "sourceId": "gift",
+      "sourceIds": [
+        "gift"
+      ],
+      "ru": [
+        "дар",
+        "гостинец",
+        "подарок"
+      ],
+      "gender": "m",
+      "example": "J'ai reçu un beau cadeau pour mon anniversaire.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "marchandises",
+      "word": "marchandises",
+      "en": "marchandises",
+      "sourceId": "goods",
+      "sourceIds": [
+        "goods"
+      ],
+      "ru": [
+        "благо",
+        "добро",
+        "продукт"
+      ],
+      "gender": "f",
+      "example": "Le magasin vend des marchandises de qualité.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "epicerie",
+      "word": "épicerie",
+      "en": "épicerie",
+      "sourceId": "grocery",
+      "sourceIds": [
+        "grocery",
+        "bodega"
+      ],
+      "ru": [
+        "продуктовый магазин"
+      ],
+      "gender": "f",
+      "example": "Je vais à l'épicerie pour acheter du pain.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "garantie",
+      "word": "garantie",
+      "en": "garantie",
+      "sourceId": "guarantee",
+      "sourceIds": [
+        "guarantee"
+      ],
+      "ru": [
+        "гарантия",
+        "порука",
+        "поручительство"
+      ],
+      "gender": "f",
+      "example": "Ce produit est sous garantie pendant deux ans.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "inventaire",
+      "word": "inventaire",
+      "en": "inventaire",
+      "sourceId": "inventory",
+      "sourceIds": [
+        "inventory"
+      ],
+      "ru": [
+        "запас",
+        "инвентарь",
+        "опись"
+      ],
+      "gender": "m",
+      "example": "Nous devons faire l'inventaire de nos stocks avant la fin du mois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "objet",
+      "word": "objet",
+      "en": "objet",
+      "sourceId": "item",
+      "sourceIds": [
+        "item"
+      ],
+      "ru": [
+        "вещь",
+        "предмет",
+        "штука"
+      ],
+      "gender": "m",
+      "example": "Il y a plusieurs objets sur la table.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "doublure",
+      "word": "doublure",
+      "en": "doublure",
+      "sourceId": "lining",
+      "sourceIds": [
+        "lining"
+      ],
+      "ru": [
+        "подкладка"
+      ],
+      "gender": "f",
+      "example": "Cette veste a une doublure en soie.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "luxe",
+      "word": "luxe",
+      "en": "luxe",
+      "sourceId": "luxury",
+      "sourceIds": [
+        "luxury"
+      ],
+      "ru": [
+        "люкс",
+        "роскошь",
+        "предмет роскоши"
+      ],
+      "gender": "m",
+      "example": "Il vit dans le luxe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "centre-commercial",
+      "word": "centre commercial",
+      "en": "centre commercial",
+      "sourceId": "mall",
+      "sourceIds": [
+        "mall"
+      ],
+      "ru": [
+        "молл",
+        "торговый центр"
+      ],
+      "gender": "m",
+      "example": "Nous allons faire du shopping au centre commercial.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "marche",
+      "word": "marché",
+      "en": "marché",
+      "sourceId": "market",
+      "sourceIds": [
+        "market"
+      ],
+      "ru": [
+        "рынок",
+        "рыночный"
+      ],
+      "gender": "m",
+      "example": "Il va au marché tous les samedis matin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "marchandise",
+      "word": "marchandise",
+      "en": "marchandise",
+      "sourceId": "merchandise",
+      "sourceIds": [
+        "merchandise",
+        "wares"
+      ],
+      "ru": [
+        "товар"
+      ],
+      "gender": "f",
+      "example": "La marchandise est arrivée au port ce matin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "marchand",
+      "word": "marchand",
+      "en": "marchand",
+      "sourceId": "merchant",
+      "sourceIds": [
+        "merchant"
+      ],
+      "ru": [
+        "купец",
+        "торговец"
+      ],
+      "gender": "m",
+      "example": "Le marchand vend des fruits frais au marché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "offrir",
+      "word": "offrir",
+      "en": "offrir",
+      "sourceId": "offer",
+      "sourceIds": [
+        "offer"
+      ],
+      "ru": [
+        "предлагать"
+      ],
+      "gender": null,
+      "example": "Ils offrent une réduction.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "offre",
+      "word": "offre",
+      "en": "offre",
+      "sourceId": "offering",
+      "sourceIds": [
+        "offering"
+      ],
+      "ru": [
+        "предложение"
+      ],
+      "gender": "f",
+      "example": "Il a fait une offre généreuse pour l'achat de la maison.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "commande",
+      "word": "commande",
+      "en": "commande",
+      "sourceId": "order",
+      "sourceIds": [
+        "order"
+      ],
+      "ru": [
+        "заказ",
+        "заказывать"
+      ],
+      "gender": "f",
+      "example": "Passez commande du livre The Window Within de Mary Klein.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "debouche",
+      "word": "débouché",
+      "en": "débouché",
+      "sourceId": "outlet",
+      "sourceIds": [
+        "outlet"
+      ],
+      "ru": [
+        "выход",
+        "отдушина",
+        "сток"
+      ],
+      "gender": "m",
+      "example": "Ce projet offre un débouché intéressant pour nos produits.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "paquet",
+      "word": "paquet",
+      "en": "paquet",
+      "sourceId": "pack",
+      "sourceIds": [
+        "pack"
+      ],
+      "ru": [
+        "пачка",
+        "пакет",
+        "связка"
+      ],
+      "gender": "m",
+      "example": "Il a acheté un paquet de cigarettes.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "colis",
+      "word": "colis",
+      "en": "colis",
+      "sourceId": "package",
+      "sourceIds": [
+        "package"
+      ],
+      "ru": [
+        "пакет",
+        "посылка",
+        "свёрток"
+      ],
+      "gender": "m",
+      "example": "J'ai reçu un colis par la poste ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "emballage",
+      "word": "emballage",
+      "en": "emballage",
+      "sourceId": "packaging",
+      "sourceIds": [
+        "packaging"
+      ],
+      "ru": [
+        "пакетирование",
+        "упаковка"
+      ],
+      "gender": "m",
+      "example": "Cet emballage est entièrement recyclable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bonde",
+      "word": "bondé",
+      "en": "bondé",
+      "sourceId": "packed",
+      "sourceIds": [
+        "packed"
+      ],
+      "ru": [
+        "забитый",
+        "заполненный"
+      ],
+      "gender": null,
+      "example": "Le métro était bondé ce matin.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "emballeur",
+      "word": "emballeur",
+      "en": "emballeur",
+      "sourceId": "packer",
+      "sourceIds": [
+        "packer"
+      ],
+      "ru": [
+        "упаковщик",
+        "упаковщица"
+      ],
+      "gender": "m",
+      "example": "L'emballeur prépare les colis pour l'expédition.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "payer",
+      "word": "payer",
+      "en": "payer",
+      "sourceId": "pay",
+      "sourceIds": [
+        "pay"
+      ],
+      "ru": [
+        "платить"
+      ],
+      "gender": null,
+      "example": "Je paie par carte.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "paiement",
+      "word": "paiement",
+      "en": "paiement",
+      "sourceId": "payment",
+      "sourceIds": [
+        "payment"
+      ],
+      "ru": [
+        "платёж",
+        "оплата",
+        "плата"
+      ],
+      "gender": "m",
+      "example": "Le paiement a été effectué par carte bancaire.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "haut-de-gamme",
+      "word": "haut de gamme",
+      "en": "haut de gamme",
+      "sourceId": "premium",
+      "sourceIds": [
+        "premium"
+      ],
+      "ru": [
+        "премиальный",
+        "премиум класса",
+        "бонус"
+      ],
+      "gender": null,
+      "example": "Nous proposons une sélection de produits haut de gamme.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "presentisme",
+      "word": "présentisme",
+      "en": "présentisme",
+      "sourceId": "presentism",
+      "sourceIds": [
+        "presentism"
+      ],
+      "ru": [
+        "презентизм"
+      ],
+      "gender": "m",
+      "example": "Le présentisme est une tendance à interpréter le passé à travers les valeurs du présent.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "prix",
+      "word": "prix",
+      "en": "prix",
+      "sourceId": "price",
+      "sourceIds": [
+        "price"
+      ],
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "gender": "m",
+      "example": "Le prix de cette voiture est trop élevé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "produit",
+      "word": "produit",
+      "en": "produit",
+      "sourceId": "product",
+      "sourceIds": [
+        "product"
+      ],
+      "ru": [
+        "выработка",
+        "продукция",
+        "продукт"
+      ],
+      "gender": "m",
+      "example": "Ce nouveau produit est très populaire.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "production",
+      "word": "production",
+      "en": "production",
+      "sourceId": "production",
+      "sourceIds": [
+        "production"
+      ],
+      "ru": [
+        "производство",
+        "выработка",
+        "добыча"
+      ],
+      "gender": "f",
+      "example": "La production de cette usine a augmenté cette année.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "productif",
+      "word": "productif",
+      "en": "productif",
+      "sourceId": "productive",
+      "sourceIds": [
+        "productive"
+      ],
+      "ru": [
+        "продуктивный",
+        "производительный",
+        "конструктивный"
+      ],
+      "gender": null,
+      "example": "Nous avons eu une réunion très productive ce matin.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "productivite",
+      "word": "productivité",
+      "en": "productivité",
+      "sourceId": "productivity",
+      "sourceIds": [
+        "productivity"
+      ],
+      "ru": [
+        "продуктивность",
+        "производительность"
+      ],
+      "gender": "f",
+      "example": "La productivité de cette entreprise a augmenté cette année.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "productisation",
+      "word": "productisation",
+      "en": "productisation",
+      "sourceId": "productization",
+      "sourceIds": [
+        "productization"
+      ],
+      "ru": [
+        "продуктизация"
+      ],
+      "gender": "f",
+      "example": "La productisation de ce service a permis d'augmenter les ventes.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "promo",
+      "word": "promo",
+      "en": "promo",
+      "sourceId": "promo",
+      "sourceIds": [
+        "promo"
+      ],
+      "ru": [
+        "промо"
+      ],
+      "gender": "f",
+      "example": "Il y a une super promo sur ce produit.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "promotion",
+      "word": "promotion",
+      "en": "promotion",
+      "sourceId": "promotion",
+      "sourceIds": [
+        "promotion"
+      ],
+      "ru": [
+        "повышение",
+        "продвижение",
+        "промоушен"
+      ],
+      "gender": "f",
+      "example": "Il a obtenu une promotion après trois ans dans l'entreprise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "achat",
+      "word": "achat",
+      "en": "achat",
+      "sourceId": "purchase",
+      "sourceIds": [
+        "purchase"
+      ],
+      "ru": [
+        "покупка",
+        "купля",
+        "купля-продажа"
+      ],
+      "gender": "m",
+      "example": "J'ai fait un achat important aujourd'hui.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "achat",
+      "word": "achat",
+      "en": "achat",
+      "sourceId": "purchasing",
+      "sourceIds": [
+        "purchasing"
+      ],
+      "ru": [
+        "покупка",
+        "приобретение"
+      ],
+      "gender": "m",
+      "example": "Le processus d'achat est simple.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "file-d-attente",
+      "word": "file d'attente",
+      "en": "file d'attente",
+      "sourceId": "queue",
+      "sourceIds": [
+        "queue"
+      ],
+      "ru": [
+        "очередь",
+        "стек",
+        "становиться в очередь"
+      ],
+      "gender": "f",
+      "example": "Il y a une longue file d'attente devant le cinéma.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "recu",
+      "word": "reçu",
+      "en": "reçu",
+      "sourceId": "receipt",
+      "sourceIds": [
+        "receipt"
+      ],
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "gender": "m",
+      "example": "N'oubliez pas de demander votre reçu après le paiement.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "recuperation",
+      "word": "récupération",
+      "en": "récupération",
+      "sourceId": "recovery--shopping",
+      "sourceIds": [
+        "recovery--shopping"
+      ],
+      "ru": [
+        "возврат",
+        "получение вновь",
+        "получение обратно"
+      ],
+      "gender": "f",
+      "example": "La récupération des données a été un succès.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "remboursement",
+      "word": "remboursement",
+      "en": "remboursement",
+      "sourceId": "refund",
+      "sourceIds": [
+        "refund"
+      ],
+      "ru": [
+        "возврат",
+        "возвращённая сумма",
+        "возмещение"
+      ],
+      "gender": "m",
+      "example": "J'ai demandé un remboursement pour cet article défectueux.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "de-detail",
+      "word": "de détail",
+      "en": "de détail",
+      "sourceId": "retail",
+      "sourceIds": [
+        "retail"
+      ],
+      "ru": [
+        "розничный",
+        "в розницу",
+        "розничная продажа"
+      ],
+      "gender": null,
+      "example": "Le prix de détail est plus élevé que le prix de gros.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "detaillant",
+      "word": "détaillant",
+      "en": "détaillant",
+      "sourceId": "retailer",
+      "sourceIds": [
+        "retailer"
+      ],
+      "ru": [
+        "ритейлер",
+        "розничный торговец"
+      ],
+      "gender": "m",
+      "example": "Ce détaillant vend des produits locaux.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "rendre",
+      "word": "rendre",
+      "en": "rendre",
+      "sourceId": "return",
+      "sourceIds": [
+        "return"
+      ],
+      "ru": [
+        "возвращаться",
+        "возвращать"
+      ],
+      "gender": null,
+      "example": "Rends le livre demain.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "vente",
+      "word": "vente",
+      "en": "vente",
+      "sourceId": "sale",
+      "sourceIds": [
+        "sale"
+      ],
+      "ru": [
+        "продажа",
+        "распродажа",
+        "сейл"
+      ],
+      "gender": "f",
+      "example": "La vente de cette maison a été conclue rapidement.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sauvegarder",
+      "word": "sauvegarder",
+      "en": "sauvegarder",
+      "sourceId": "save",
+      "sourceIds": [
+        "save"
+      ],
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "gender": null,
+      "example": "Sauvegardez votre progression.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "epargne",
+      "word": "épargne",
+      "en": "épargne",
+      "sourceId": "saving",
+      "sourceIds": [
+        "saving"
+      ],
+      "ru": [
+        "экономия",
+        "накопление",
+        "сбережение"
+      ],
+      "gender": "f",
+      "example": "Il place ses économies sur un compte d'épargne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vendre",
+      "word": "vendre",
+      "en": "vendre",
+      "sourceId": "sell",
+      "sourceIds": [
+        "sell",
+        "vend"
+      ],
+      "ru": [
+        "продавать"
+      ],
+      "gender": null,
+      "example": "Ils vendent des fruits frais.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "vendeur",
+      "word": "vendeur",
+      "en": "vendeur",
+      "sourceId": "seller",
+      "sourceIds": [
+        "seller",
+        "vendor"
+      ],
+      "ru": [
+        "продавец",
+        "вендор",
+        "продавщица"
+      ],
+      "gender": "m",
+      "example": "Le vendeur m'a conseillé ce modèle.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "etagere",
+      "word": "étagère",
+      "en": "étagère",
+      "sourceId": "shelf",
+      "sourceIds": [
+        "shelf"
+      ],
+      "ru": [
+        "полка",
+        "шельф"
+      ],
+      "gender": "f",
+      "example": "Il a rangé ses livres sur l'étagère.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "expedition",
+      "word": "expédition",
+      "en": "expédition",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "gender": "f",
+      "example": "Les frais d'expédition sont offerts.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "magasin",
+      "word": "magasin",
+      "en": "magasin",
+      "sourceId": "shop",
+      "sourceIds": [
+        "shop"
+      ],
+      "ru": [
+        "магазин",
+        "бутик",
+        "лавка"
+      ],
+      "gender": "m",
+      "example": "Le magasin ferme à neuf heures.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "client",
+      "word": "client",
+      "en": "client",
+      "sourceId": "shopper",
+      "sourceIds": [
+        "shopper"
+      ],
+      "ru": [
+        "покупатель",
+        "покупательница"
+      ],
+      "gender": "m",
+      "example": "Le client cherche un nouveau manteau.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "magasinage",
+      "word": "magasinage",
+      "en": "magasinage",
+      "sourceId": "shopping",
+      "sourceIds": [
+        "shopping"
+      ],
+      "ru": [
+        "купля",
+        "покупка",
+        "покупки"
+      ],
+      "gender": "m",
+      "example": "J'aime faire du magasinage le samedi.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "taille",
+      "word": "taille",
+      "en": "taille",
+      "sourceId": "size",
+      "sourceIds": [
+        "size"
+      ],
+      "ru": [
+        "величина",
+        "объём",
+        "размер"
+      ],
+      "gender": "f",
+      "example": "Quelle est votre taille de chaussures ?",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "passer",
+      "word": "passer",
+      "en": "passer",
+      "sourceId": "spend",
+      "sourceIds": [
+        "spend"
+      ],
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "gender": null,
+      "example": "Je passe du temps avec mes amis.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "stock",
+      "word": "stock",
+      "en": "stock",
+      "sourceId": "stock",
+      "sourceIds": [
+        "stock"
+      ],
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "gender": "m",
+      "example": "Le magasin a beaucoup de stock en ce moment.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "magasin",
+      "word": "magasin",
+      "en": "magasin",
+      "sourceId": "store",
+      "sourceIds": [
+        "store"
+      ],
+      "ru": [
+        "магазин"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de clients dans ce magasin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "commerce",
+      "word": "commerce",
+      "en": "commerce",
+      "sourceId": "trade",
+      "sourceIds": [
+        "trade"
+      ],
+      "ru": [
+        "торговля",
+        "ремесло",
+        "обмен"
+      ],
+      "gender": "m",
+      "example": "Le commerce international est essentiel pour l'économie.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "commercant",
+      "word": "commerçant",
+      "en": "commerçant",
+      "sourceId": "trader",
+      "sourceIds": [
+        "trader"
+      ],
+      "ru": [
+        "коммерсант",
+        "купец",
+        "продавец"
+      ],
+      "gender": "m",
+      "example": "Le commerçant ouvre sa boutique tous les matins.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "essayer",
+      "word": "essayer",
+      "en": "essayer",
+      "sourceId": "try-on",
+      "sourceIds": [
+        "try-on"
+      ],
+      "ru": [
+        "примерять"
+      ],
+      "gender": null,
+      "example": "Je voudrais essayer cette chemise.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "garantie",
+      "word": "garantie",
+      "en": "garantie",
+      "sourceId": "warranty",
+      "sourceIds": [
+        "warranty"
+      ],
+      "ru": [
+        "гарантия",
+        "ручательство"
+      ],
+      "gender": "f",
+      "example": "Cet appareil est sous garantie pendant deux ans.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "en-gros",
+      "word": "en gros",
+      "en": "en gros",
+      "sourceId": "wholesale",
+      "sourceIds": [
+        "wholesale"
+      ],
+      "ru": [
+        "оптовый",
+        "оптом",
+        "оптовая торговля"
+      ],
+      "gender": null,
+      "example": "Il achète ses produits en gros pour économiser de l'argent.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "grossiste",
+      "word": "grossiste",
+      "en": "grossiste",
+      "sourceId": "wholesaler",
+      "sourceIds": [
+        "wholesaler"
+      ],
+      "ru": [
+        "оптовик"
+      ],
+      "gender": "m",
+      "example": "Ce grossiste vend des produits alimentaires aux restaurants.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "en-magasin",
+      "word": "en magasin",
+      "en": "en magasin",
+      "sourceId": "in-store",
+      "sourceIds": [
+        "in-store"
+      ],
+      "ru": [
+        "в магазине",
+        "внутримагазинный"
+      ],
+      "gender": null,
+      "example": "J'ai dirigé l'équipe de configuration du logiciel de point de vente pour les opérations de fidélité en magasin chez SEPHORA.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "point-de-vente",
+      "word": "point de vente",
+      "en": "point de vente",
+      "sourceId": "pos",
+      "sourceIds": [
+        "pos"
+      ],
+      "ru": [
+        "точка продажи"
+      ],
+      "gender": "m",
+      "example": "Le nouveau logiciel facilite la gestion des transactions au point de vente.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "supermarche",
+      "word": "supermarché",
+      "en": "supermarché",
+      "sourceId": "supermarket",
+      "sourceIds": [
+        "supermarket"
+      ],
+      "ru": [
+        "супермаркет"
+      ],
+      "gender": "m",
+      "example": "Je vais au supermarché pour acheter du pain.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "d-occasion",
+      "word": "d'occasion",
+      "en": "d'occasion",
+      "sourceId": "secondhand",
+      "sourceIds": [
+        "secondhand"
+      ],
+      "ru": [
+        "подержанный",
+        "бывший в употреблении"
+      ],
+      "gender": null,
+      "example": "Il a acheté une voiture d'occasion.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "vendable",
+      "word": "vendable",
+      "en": "vendable",
+      "sourceId": "saleable",
+      "sourceIds": [
+        "saleable"
+      ],
+      "ru": [
+        "ходовой",
+        "ликвидный"
+      ],
+      "gender": null,
+      "example": "130 agneaux vendables ?",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "invendu",
+      "word": "invendu",
+      "en": "invendu",
+      "sourceId": "unsold",
+      "sourceIds": [
+        "unsold"
+      ],
+      "ru": [
+        "нераспроданный"
+      ],
+      "gender": null,
+      "example": "avec les pommes de terre invendues.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "colporter",
+      "word": "colporter",
+      "en": "colporter",
+      "sourceId": "peddle",
+      "sourceIds": [
+        "peddle"
+      ],
+      "ru": [
+        "торговать вразнос",
+        "распространять"
+      ],
+      "gender": null,
+      "example": "Il essaie de colporter des rumeurs.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "hypermarche",
+      "word": "hypermarché",
+      "en": "hypermarché",
+      "sourceId": "hypermarket",
+      "sourceIds": [
+        "hypermarket"
+      ],
+      "ru": [
+        "гипермаркет"
+      ],
+      "gender": "m",
+      "example": "Il fait ses courses dans un grand hypermarché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vendeuse",
+      "word": "vendeuse",
+      "en": "vendeuse",
+      "sourceId": "shop-girl",
+      "sourceIds": [
+        "shop-girl"
+      ],
+      "ru": [
+        "продавщица"
+      ],
+      "gender": "f",
+      "example": "Elle ne va pas traîner comme une vendeuse du samedi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "paquet",
+      "word": "paquet",
+      "en": "paquet",
+      "sourceId": "packet",
+      "sourceIds": [
+        "packet"
+      ],
+      "ru": [
+        "пакет"
+      ],
+      "gender": "m",
+      "example": "Un paquet de Werther's Originals.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-prix-raisonnable",
+      "word": "à prix raisonnable",
+      "en": "à prix raisonnable",
+      "sourceId": "reasonably-priced",
+      "sourceIds": [
+        "reasonably-priced"
+      ],
+      "ru": [
+        "по разумной цене"
+      ],
+      "gender": null,
+      "example": "dans une voiture à prix raisonnable.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "d-occasion",
+      "word": "d'occasion",
+      "en": "d'occasion",
+      "sourceId": "second-hand",
+      "sourceIds": [
+        "second-hand"
+      ],
+      "ru": [
+        "подержанный"
+      ],
+      "gender": null,
+      "example": "Le marché de l'occasion.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "vol-a-l-etalage",
+      "word": "vol à l'étalage",
+      "en": "vol à l'étalage",
+      "sourceId": "shoplifting",
+      "sourceIds": [
+        "shoplifting"
+      ],
+      "ru": [
+        "магазинная кража"
+      ],
+      "gender": "m",
+      "example": "Il a été arrêté pour vol à l'étalage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cadeau-promotionnel",
+      "word": "cadeau promotionnel",
+      "en": "cadeau promotionnel",
+      "sourceId": "freebie",
+      "sourceIds": [
+        "freebie"
+      ],
+      "ru": [
+        "халява",
+        "бесплатный подарок"
+      ],
+      "gender": "m",
+      "example": "Nous avons reçu quelques cadeaux promotionnels lors de la conférence.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "marchander",
+      "word": "marchander",
+      "en": "marchander",
+      "sourceId": "haggle",
+      "sourceIds": [
+        "haggle"
+      ],
+      "ru": [
+        "торговаться"
+      ],
+      "gender": null,
+      "example": "Il a payé en or et n'a même pas cherché à marchander.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "deux-pour-le-prix-d-un",
+      "word": "deux pour le prix d'un",
+      "en": "deux pour le prix d'un",
+      "sourceId": "two-for-one",
+      "sourceIds": [
+        "two-for-one"
+      ],
+      "ru": [
+        "два по цене одного"
+      ],
+      "gender": null,
+      "example": "Je prends le deux pour le prix d'un.",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "cabas",
+      "word": "cabas",
+      "en": "cabas",
+      "sourceId": "tote",
+      "sourceIds": [
+        "tote"
+      ],
+      "ru": [
+        "сумка-тоут",
+        "носить"
+      ],
+      "gender": "m",
+      "example": "C'est grand et encombrant, comme un cabas.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "contrefacon",
+      "word": "contrefaçon",
+      "en": "contrefaçon",
+      "sourceId": "knockoff",
+      "sourceIds": [
+        "knockoff"
+      ],
+      "ru": [
+        "подделка"
+      ],
+      "gender": "f",
+      "example": "Tu dois trouver cette contrefaçon bon marché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "expedition",
+      "word": "expédition",
+      "en": "expédition",
+      "sourceId": "shipment",
+      "sourceIds": [
+        "shipment"
+      ],
+      "ru": [
+        "поставка",
+        "груз"
+      ],
+      "gender": "f",
+      "example": "Il a dit que l'expédition avance.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "haut-de-gamme",
+      "word": "haut de gamme",
+      "en": "haut de gamme",
+      "sourceId": "high-end",
+      "sourceIds": [
+        "high-end"
+      ],
+      "ru": [
+        "высококлассный",
+        "дорогой"
+      ],
+      "gender": null,
+      "example": "Tous les clients dans les stations balnéaires haut de gamme.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "grand-magasin",
+      "word": "grand magasin",
+      "en": "grand magasin",
+      "sourceId": "emporium",
+      "sourceIds": [
+        "emporium"
+      ],
+      "ru": [
+        "торговый центр",
+        "магазин"
+      ],
+      "gender": "m",
+      "example": "Le grand magasin Lucky Cat est ouvert.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "commande-en-gros",
+      "word": "commande en gros",
+      "en": "commande en gros",
+      "sourceId": "bulk-ordering",
+      "sourceIds": [
+        "bulk-ordering"
+      ],
+      "ru": [
+        "оптовый заказ"
+      ],
+      "gender": "f",
+      "example": "Il passe des commandes en gros de Botox.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sur-mesure",
+      "word": "sur mesure",
+      "en": "sur mesure",
+      "sourceId": "bespoke",
+      "sourceIds": [
+        "bespoke"
+      ],
+      "ru": [
+        "сделанный на заказ"
+      ],
+      "gender": null,
+      "example": "une version sur mesure",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "bijoux",
+      "word": "bijoux",
+      "en": "bijoux",
+      "sourceId": "jewelry",
+      "sourceIds": [
+        "jewelry"
+      ],
+      "ru": [
+        "ювелирные изделия",
+        "украшения"
+      ],
+      "gender": "m/f",
+      "example": "Tu connais mes bons bijoux ?",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

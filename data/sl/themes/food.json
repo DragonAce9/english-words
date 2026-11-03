@@ -1,0 +1,6795 @@
+{
+  "id": "food",
+  "title": "Еда",
+  "paid": false,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "alkohol",
+      "word": "alkohol",
+      "en": "alkohol",
+      "ru": [
+        "спирт",
+        "алкоголь",
+        "алкогольный напиток"
+      ],
+      "example": "Alkohol ne reši nobenega problema.",
+      "level": "B1",
+      "sourceId": "alcohol",
+      "sourceIds": [
+        "alcohol"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brezalkoholen",
+      "word": "brezalkoholen",
+      "en": "brezalkoholen",
+      "ru": [
+        "безалкогольный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "alcohol-free",
+      "sourceIds": [
+        "alcohol-free"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mandelj",
+      "word": "mandelj",
+      "en": "mandelj",
+      "ru": [
+        "миндаль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "almond",
+      "sourceIds": [
+        "almond"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "apetit",
+      "word": "apetit",
+      "en": "apetit",
+      "ru": [
+        "аппетит"
+      ],
+      "example": "Apetit je želja po jedi.",
+      "level": "C2",
+      "sourceId": "appetite",
+      "sourceIds": [
+        "appetite"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jabolko",
+      "word": "jabolko",
+      "en": "jabolko",
+      "ru": [
+        "яблоко"
+      ],
+      "example": "Jabolko na dan odžene zdravnika stran.",
+      "level": "A1",
+      "sourceId": "apple",
+      "sourceIds": [
+        "apple"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "slanina",
+      "word": "slanina",
+      "en": "slanina",
+      "ru": [
+        "бекон",
+        "ветчина"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "bacon",
+      "sourceIds": [
+        "bacon"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "peka",
+      "word": "peka",
+      "en": "peka",
+      "ru": [
+        "печь",
+        "выпекание",
+        "запекание"
+      ],
+      "example": "Videli smo tega peka.",
+      "level": "C2",
+      "sourceId": "bake",
+      "sourceIds": [
+        "bake"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pecen",
+      "word": "pečen",
+      "en": "pečen",
+      "ru": [
+        "запечённый",
+        "печёный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "baked",
+      "sourceIds": [
+        "baked"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "peka",
+      "word": "peka",
+      "en": "peka",
+      "ru": [
+        "выпечка",
+        "выпекание"
+      ],
+      "example": "Videli smo tega peka.",
+      "level": "C1",
+      "sourceId": "baking",
+      "sourceIds": [
+        "baking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banana",
+      "word": "banana",
+      "en": "banana",
+      "ru": [
+        "банан",
+        "банановое дерево"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "banana",
+      "sourceIds": [
+        "banana"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "drogovi",
+      "word": "drogovi",
+      "en": "drogovi",
+      "ru": [
+        "брусья",
+        "решётка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bars",
+      "sourceIds": [
+        "bars"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fizol",
+      "word": "fižol",
+      "en": "fižol",
+      "ru": [
+        "боб",
+        "фасоль"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "bean",
+      "sourceIds": [
+        "bean"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fizol",
+      "word": "fižol",
+      "en": "fižol",
+      "ru": [
+        "бобы",
+        "фасоль"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "beans",
+      "sourceIds": [
+        "beans"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "govedina",
+      "word": "govedina",
+      "en": "govedina",
+      "ru": [
+        "говяжий",
+        "говядина",
+        "телятина"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "beef",
+      "sourceIds": [
+        "beef"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pivo",
+      "word": "pivo",
+      "en": "pivo",
+      "ru": [
+        "пиво"
+      ],
+      "example": "Kdo pije pivo?",
+      "level": "B1",
+      "sourceId": "beer",
+      "sourceIds": [
+        "beer"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jagoda",
+      "word": "jagoda",
+      "en": "jagoda",
+      "ru": [
+        "ягода"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "berry",
+      "sourceIds": [
+        "berry"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zagrenjen",
+      "word": "zagrenjen",
+      "en": "zagrenjen",
+      "ru": [
+        "горький",
+        "мучительный",
+        "суровый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "bitter",
+      "sourceIds": [
+        "bitter"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tur",
+      "word": "tur",
+      "en": "tur",
+      "ru": [
+        "нарыв",
+        "фурункул",
+        "чирей"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "boil",
+      "sourceIds": [
+        "boil"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kuhan",
+      "word": "kuhan",
+      "en": "kuhan",
+      "ru": [
+        "варёный",
+        "отварной",
+        "кипячёный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "boiled",
+      "sourceIds": [
+        "boiled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "vrenje",
+      "word": "vrenje",
+      "en": "vrenje",
+      "ru": [
+        "кипение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "boiling",
+      "sourceIds": [
+        "boiling"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "steklenica",
+      "word": "steklenica",
+      "en": "steklenica",
+      "ru": [
+        "бутылка",
+        "охапка (сена)",
+        "сноп"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bottle",
+      "sourceIds": [
+        "bottle"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "skleda",
+      "word": "skleda",
+      "en": "skleda",
+      "ru": [
+        "миска",
+        "пиала",
+        "плошка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bowl",
+      "sourceIds": [
+        "bowl"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kruh",
+      "word": "kruh",
+      "en": "kruh",
+      "ru": [
+        "хлеб",
+        "панировать"
+      ],
+      "example": "Jedli smo med, maslo, kruh in jabolko ter pili mleko.",
+      "level": "A1",
+      "sourceId": "bread",
+      "sourceIds": [
+        "bread"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zajtrk",
+      "word": "zajtrk",
+      "en": "zajtrk",
+      "ru": [
+        "завтрак",
+        "завтракать",
+        "позавтракать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "breakfast",
+      "sourceIds": [
+        "breakfast"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "burger",
+      "word": "burger",
+      "en": "burger",
+      "ru": [
+        "бургер",
+        "бутерброд",
+        "гамбургер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "burger",
+      "sourceIds": [
+        "burger"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "maslo",
+      "word": "maslo",
+      "en": "maslo",
+      "ru": [
+        "масло",
+        "сливочное масло",
+        "намазать маслом"
+      ],
+      "example": "Maslo je izdelano iz mleka.",
+      "level": "A1",
+      "sourceId": "butter",
+      "sourceIds": [
+        "butter"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zelje",
+      "word": "zelje",
+      "en": "zelje",
+      "ru": [
+        "капуста",
+        "кочанная капуста"
+      ],
+      "example": "Jejte kislo zelje!",
+      "level": "C2",
+      "sourceId": "cabbage",
+      "sourceIds": [
+        "cabbage"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kavarna",
+      "word": "kavarna",
+      "en": "kavarna",
+      "ru": [
+        "буфет",
+        "закусочная",
+        "кафетерий"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cafeteria",
+      "sourceIds": [
+        "cafeteria"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "torta",
+      "word": "torta",
+      "en": "torta",
+      "ru": [
+        "торт",
+        "кекс",
+        "пирожное"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "cake",
+      "sourceIds": [
+        "cake"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "plocevinka",
+      "word": "pločevinka",
+      "en": "pločevinka",
+      "ru": [
+        "жестяная банка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "can",
+      "sourceIds": [
+        "can",
+        "tin"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "slascica",
+      "word": "slaščica",
+      "en": "slaščica",
+      "ru": [
+        "конфета",
+        "сласть"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "candy",
+      "sourceIds": [
+        "candy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "korenje",
+      "word": "korenje",
+      "en": "korenje",
+      "ru": [
+        "морковь",
+        "морковка",
+        "морква"
+      ],
+      "example": "Repa, korenje, dolgo življenje.",
+      "level": "C2",
+      "sourceId": "carrot",
+      "sourceIds": [
+        "carrot"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaviar",
+      "word": "kaviar",
+      "en": "kaviar",
+      "ru": [
+        "икра"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "caviar",
+      "sourceIds": [
+        "caviar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zito",
+      "word": "žito",
+      "en": "žito",
+      "ru": [
+        "злак",
+        "зерновая культура",
+        "крупа"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cereal",
+      "sourceIds": [
+        "cereal"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "sampanjec",
+      "word": "šampanjec",
+      "en": "šampanjec",
+      "ru": [
+        "шампанское",
+        "игристое вино"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "champagne",
+      "sourceIds": [
+        "champagne"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sarlota",
+      "word": "šarlota",
+      "en": "šarlota",
+      "ru": [
+        "шарлотка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "charlotte",
+      "sourceIds": [
+        "charlotte"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sir",
+      "word": "sir",
+      "en": "sir",
+      "ru": [
+        "сыр",
+        "творог"
+      ],
+      "example": "Kako se reče »sir« po angleško?",
+      "level": "A1",
+      "sourceId": "cheese",
+      "sourceIds": [
+        "cheese"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "glavni-kuhar",
+      "word": "glavni kuhar",
+      "en": "glavni kuhar",
+      "ru": [
+        "повар",
+        "старший кок",
+        "шеф-повар"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "chef",
+      "sourceIds": [
+        "chef"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "visnja",
+      "word": "višnja",
+      "en": "višnja",
+      "ru": [
+        "вишнёвый",
+        "вишня",
+        "черешня"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "cherry",
+      "sourceIds": [
+        "cherry"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kokos",
+      "word": "kokoš",
+      "en": "kokoš",
+      "ru": [
+        "курица",
+        "цыплёнок",
+        "курятина"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "chicken",
+      "sourceIds": [
+        "chicken"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cokolada",
+      "word": "čokolada",
+      "en": "čokolada",
+      "ru": [
+        "шоколадный",
+        "шоколад",
+        "шоколадная конфета"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chocolate",
+      "sourceIds": [
+        "chocolate"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "koktejl",
+      "word": "koktejl",
+      "en": "koktejl",
+      "ru": [
+        "коктейль",
+        "коктель"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "cocktail",
+      "sourceIds": [
+        "cocktail"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kava",
+      "word": "kava",
+      "en": "kava",
+      "ru": [
+        "кофе",
+        "кофейный",
+        "кофейное зерно"
+      ],
+      "example": "Kava in čaj sta nepogrešljiva dela kulture turške kuhinje.",
+      "level": "A1",
+      "sourceId": "coffee",
+      "sourceIds": [
+        "coffee"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kola",
+      "word": "kola",
+      "en": "kola",
+      "ru": [
+        "кола"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "coke",
+      "sourceIds": [
+        "coke",
+        "cola"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kuhati",
+      "word": "kuhati",
+      "en": "kuhati",
+      "ru": [
+        "готовить"
+      ],
+      "example": "Tega krompirja ni mogoče kuhati.",
+      "level": "A1",
+      "sourceId": "cook",
+      "sourceIds": [
+        "cook"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuhan",
+      "word": "kuhan",
+      "en": "kuhan",
+      "ru": [
+        "варёный",
+        "приготовленный",
+        "сваренный"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "cooked",
+      "sourceIds": [
+        "cooked"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "piskot",
+      "word": "piškot",
+      "en": "piškot",
+      "ru": [
+        "печенье"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "cookie",
+      "sourceIds": [
+        "cookie",
+        "biscuit"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kuhanje",
+      "word": "kuhanje",
+      "en": "kuhanje",
+      "ru": [
+        "готовка",
+        "кулинария",
+        "стряпня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cooking",
+      "sourceIds": [
+        "cooking"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "koruza",
+      "word": "koruza",
+      "en": "koruza",
+      "ru": [
+        "кукуруза"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "corn",
+      "sourceIds": [
+        "corn"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krema",
+      "word": "krema",
+      "en": "krema",
+      "ru": [
+        "кремовый",
+        "сметана",
+        "сливки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cream",
+      "sourceIds": [
+        "cream"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "smetana",
+      "word": "smetana",
+      "en": "smetana",
+      "ru": [
+        "сливки для кофе",
+        "заменитель сливок"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "creamer",
+      "sourceIds": [
+        "creamer"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krutoni",
+      "word": "krutoni",
+      "en": "krutoni",
+      "ru": [
+        "гренки",
+        "сухарики"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "croutons",
+      "sourceIds": [
+        "croutons"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kumara",
+      "word": "kumara",
+      "en": "kumara",
+      "ru": [
+        "огурец"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cucumber",
+      "sourceIds": [
+        "cucumber"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "skodelica",
+      "word": "skodelica",
+      "en": "skodelica",
+      "ru": [
+        "чашка",
+        "чаша",
+        "кубок"
+      ],
+      "example": "Mi lahko date skodelico kave?",
+      "level": "A2",
+      "sourceId": "cup",
+      "sourceIds": [
+        "cup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "okusen",
+      "word": "okusen",
+      "en": "okusen",
+      "ru": [
+        "вкусный",
+        "вкусно",
+        "лакомый"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "delicious",
+      "sourceIds": [
+        "delicious"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "okusnost",
+      "word": "okusnost",
+      "en": "okusnost",
+      "ru": [
+        "вкуснота"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "deliciousness",
+      "sourceIds": [
+        "deliciousness"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sladica",
+      "word": "sladica",
+      "en": "sladica",
+      "ru": [
+        "десерт",
+        "сладкое"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "dessert",
+      "sourceIds": [
+        "dessert"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "desertna-zlica",
+      "word": "desertna žlica",
+      "en": "desertna žlica",
+      "ru": [
+        "десертная ложка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "dessertspoon",
+      "sourceIds": [
+        "dessertspoon"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vecerja",
+      "word": "večerja",
+      "en": "večerja",
+      "ru": [
+        "ужин",
+        "обед",
+        "ужинать"
+      ],
+      "example": "Večerja se je ohladila.",
+      "level": "A1",
+      "sourceId": "dinner",
+      "sourceIds": [
+        "dinner"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kroznik",
+      "word": "krožnik",
+      "en": "krožnik",
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "миска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dish",
+      "sourceIds": [
+        "dish"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "posoda",
+      "word": "posoda",
+      "en": "posoda",
+      "ru": [
+        "посуда",
+        "блюда"
+      ],
+      "example": "Si pomil posodo?",
+      "level": "C1",
+      "sourceId": "dishes",
+      "sourceIds": [
+        "dishes"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piti",
+      "word": "piti",
+      "en": "piti",
+      "ru": [
+        "пить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "drink",
+      "sourceIds": [
+        "drink"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "pijaca",
+      "word": "pijača",
+      "en": "pijača",
+      "ru": [
+        "питьё"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drinking",
+      "sourceIds": [
+        "drinking"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "jesti",
+      "word": "jesti",
+      "en": "jesti",
+      "ru": [
+        "есть"
+      ],
+      "example": "Tik pred vadbo gotobo ni dobro jesti.",
+      "level": "A1",
+      "sourceId": "eat",
+      "sourceIds": [
+        "eat"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hranjenje",
+      "word": "hranjenje",
+      "en": "hranjenje",
+      "ru": [
+        "еда",
+        "принятие пищи",
+        "пища"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eating",
+      "sourceIds": [
+        "eating"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "jajce",
+      "word": "jajce",
+      "en": "jajce",
+      "ru": [
+        "яйцо"
+      ],
+      "example": "Vzemi eno jajce iz hladilnika.",
+      "level": "A1",
+      "sourceId": "egg",
+      "sourceIds": [
+        "egg"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jajcne-lupine",
+      "word": "jajčne lupine",
+      "en": "jajčne lupine",
+      "ru": [
+        "яичная скорлупа"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "egg-shells",
+      "sourceIds": [
+        "egg-shells"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hraniti",
+      "word": "hraniti",
+      "en": "hraniti",
+      "ru": [
+        "кормить"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "feed",
+      "sourceIds": [
+        "feed"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zalivka",
+      "word": "zalivka",
+      "en": "zalivka",
+      "ru": [
+        "сытный",
+        "наполнение",
+        "пломба"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "filling",
+      "sourceIds": [
+        "filling"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "riba",
+      "word": "riba",
+      "en": "riba",
+      "ru": [
+        "рыба"
+      ],
+      "example": "Kakšne barve je ta riba?",
+      "level": "A1",
+      "sourceId": "fish",
+      "sourceIds": [
+        "fish"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "okus",
+      "word": "okus",
+      "en": "okus",
+      "ru": [
+        "вкус",
+        "аромат",
+        "букет"
+      ],
+      "example": "Voda ima okus po pipi.",
+      "level": "C1",
+      "sourceId": "flavor",
+      "sourceIds": [
+        "flavor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zacimba",
+      "word": "začimba",
+      "en": "začimba",
+      "ru": [
+        "приправа"
+      ],
+      "example": "Rožmarin je zelo pomembna začimba.",
+      "level": "C2",
+      "sourceId": "flavoring",
+      "sourceIds": [
+        "flavoring"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moka",
+      "word": "moka",
+      "en": "moka",
+      "ru": [
+        "мука"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "flour",
+      "sourceIds": [
+        "flour"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hrana",
+      "word": "hrana",
+      "en": "hrana",
+      "ru": [
+        "пища",
+        "еда",
+        "корм"
+      ],
+      "example": "Hrana ni bila preveč okusna.",
+      "level": "A1",
+      "sourceId": "food",
+      "sourceIds": [
+        "food"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vilice",
+      "word": "vilice",
+      "en": "vilice",
+      "ru": [
+        "вилка"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "fork",
+      "sourceIds": [
+        "fork"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "svez",
+      "word": "svež",
+      "en": "svež",
+      "ru": [
+        "свежий"
+      ],
+      "example": "Kruh je svež.",
+      "level": "B1",
+      "sourceId": "fresh",
+      "sourceIds": [
+        "fresh"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ocvrt",
+      "word": "ocvrt",
+      "en": "ocvrt",
+      "ru": [
+        "жареный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fried",
+      "sourceIds": [
+        "fried"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "plod",
+      "word": "plod",
+      "en": "plod",
+      "ru": [
+        "фрукт",
+        "плод",
+        "фрукты"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "fruit",
+      "sourceIds": [
+        "fruit"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cvreti",
+      "word": "cvreti",
+      "en": "cvreti",
+      "ru": [
+        "жарить"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fry",
+      "sourceIds": [
+        "fry"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "cesen",
+      "word": "česen",
+      "en": "česen",
+      "ru": [
+        "чеснок"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "garlic",
+      "sourceIds": [
+        "garlic"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "steklo",
+      "word": "steklo",
+      "en": "steklo",
+      "ru": [
+        "стекло",
+        "бокал",
+        "стакан"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "glass",
+      "sourceIds": [
+        "glass"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "gurman",
+      "word": "gurman",
+      "en": "gurman",
+      "ru": [
+        "гастроном",
+        "гурман",
+        "лакомка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gourmet",
+      "sourceIds": [
+        "gourmet"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "grozdje",
+      "word": "grozdje",
+      "en": "grozdje",
+      "ru": [
+        "виноград",
+        "виноградина"
+      ],
+      "example": "Rozine so posušeno grozdje.",
+      "level": "C2",
+      "sourceId": "grape",
+      "sourceIds": [
+        "grape"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zelena",
+      "word": "zelena",
+      "en": "zelena",
+      "ru": [
+        "овощ",
+        "зелень"
+      ],
+      "example": "Kaj pomeni zelena barva?",
+      "level": "C2",
+      "sourceId": "greens",
+      "sourceIds": [
+        "greens"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zar",
+      "word": "žar",
+      "en": "žar",
+      "ru": [
+        "решётка",
+        "барбекю",
+        "барбекюшница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "grill",
+      "sourceIds": [
+        "grill"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "na-zaru",
+      "word": "na žaru",
+      "en": "na žaru",
+      "ru": [
+        "жареный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "grilled",
+      "sourceIds": [
+        "grilled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mleto-meso",
+      "word": "mleto meso",
+      "en": "mleto meso",
+      "ru": [
+        "фарш"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "ground-meat",
+      "sourceIds": [
+        "ground-meat"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "sunka",
+      "word": "šunka",
+      "en": "šunka",
+      "ru": [
+        "ветчина"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "ham",
+      "sourceIds": [
+        "ham"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kokos",
+      "word": "kokoš",
+      "en": "kokoš",
+      "ru": [
+        "курица",
+        "курочка",
+        "самка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hen",
+      "sourceIds": [
+        "hen"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zelisce",
+      "word": "zelišče",
+      "en": "zelišče",
+      "ru": [
+        "пряная трава",
+        "зелень"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "herb",
+      "sourceIds": [
+        "herb"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "sled",
+      "word": "sled",
+      "en": "sled",
+      "ru": [
+        "сельдь",
+        "селёдка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "herring",
+      "sourceIds": [
+        "herring"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "med",
+      "word": "med",
+      "en": "med",
+      "ru": [
+        "мёд"
+      ],
+      "example": "Osem je število med sedmico in devetico.",
+      "level": "B2",
+      "sourceId": "honey",
+      "sourceIds": [
+        "honey"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lacen",
+      "word": "lačen",
+      "en": "lačen",
+      "ru": [
+        "голодный",
+        "алчущий",
+        "жаждущий"
+      ],
+      "example": "Bil sem lačen kot volk.",
+      "level": "A1",
+      "sourceId": "hungry",
+      "sourceIds": [
+        "hungry"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sestavina",
+      "word": "sestavina",
+      "en": "sestavina",
+      "ru": [
+        "ингредиент",
+        "компонент",
+        "составная часть"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "ingredient",
+      "sourceIds": [
+        "ingredient"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "marmelada",
+      "word": "marmelada",
+      "en": "marmelada",
+      "ru": [
+        "джем",
+        "варенье",
+        "конфитюр"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "jam",
+      "sourceIds": [
+        "jam"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sok",
+      "word": "sok",
+      "en": "sok",
+      "ru": [
+        "сок"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "juice",
+      "sourceIds": [
+        "juice"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sok",
+      "word": "sok",
+      "en": "sok",
+      "ru": [
+        "соковыжималка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "juicer",
+      "sourceIds": [
+        "juicer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "jagnjetina",
+      "word": "jagnjetína",
+      "en": "jagnjetína",
+      "ru": [
+        "ягнёнок",
+        "агнец",
+        "барашек"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "lamb",
+      "sourceIds": [
+        "lamb"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "limona",
+      "word": "limona",
+      "en": "limona",
+      "ru": [
+        "лимон"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "lemon",
+      "sourceIds": [
+        "lemon"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "obed",
+      "word": "obed",
+      "en": "obed",
+      "ru": [
+        "обед",
+        "ленч",
+        "второй завтрак"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "lunch",
+      "sourceIds": [
+        "lunch"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mango",
+      "word": "mango",
+      "en": "mango",
+      "ru": [
+        "манго"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "mango",
+      "sourceIds": [
+        "mango"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "obed",
+      "word": "obed",
+      "en": "obed",
+      "ru": [
+        "еда",
+        "снедь",
+        "пища"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "meal",
+      "sourceIds": [
+        "meal"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "meso",
+      "word": "meso",
+      "en": "meso",
+      "ru": [
+        "мясо",
+        "мякоть"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "meat",
+      "sourceIds": [
+        "meat"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "melona",
+      "word": "melona",
+      "en": "melona",
+      "ru": [
+        "дыня"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "melon",
+      "sourceIds": [
+        "melon"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "jedilnik",
+      "word": "jedilnik",
+      "en": "jedilnik",
+      "ru": [
+        "меню"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "menu",
+      "sourceIds": [
+        "menu"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mleko",
+      "word": "mleko",
+      "en": "mleko",
+      "ru": [
+        "молоко"
+      ],
+      "example": "Jedli smo med, maslo, kruh in jabolko ter pili mleko.",
+      "level": "A1",
+      "sourceId": "milk",
+      "sourceIds": [
+        "milk"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "molza",
+      "word": "molža",
+      "en": "molža",
+      "ru": [
+        "дойка",
+        "доение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "milking",
+      "sourceIds": [
+        "milking"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "goba",
+      "word": "goba",
+      "en": "goba",
+      "ru": [
+        "грибовидный",
+        "гриб",
+        "грибница"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "mushroom",
+      "sourceIds": [
+        "mushroom"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dagnja",
+      "word": "dagnja",
+      "en": "dagnja",
+      "ru": [
+        "мидии"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "mussels",
+      "sourceIds": [
+        "mussels"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prticek",
+      "word": "prtiček",
+      "en": "prtiček",
+      "ru": [
+        "салфетка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "napkin",
+      "sourceIds": [
+        "napkin",
+        "serviette"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rezanec",
+      "word": "rezanec",
+      "en": "rezanec",
+      "ru": [
+        "лапша",
+        "макароны"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "noodle",
+      "sourceIds": [
+        "noodle"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "oreh",
+      "word": "oreh",
+      "en": "oreh",
+      "ru": [
+        "орех",
+        "гайка"
+      ],
+      "example": "To je trd oreh!",
+      "level": "C1",
+      "sourceId": "nut",
+      "sourceIds": [
+        "nut"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prehrana",
+      "word": "prehrana",
+      "en": "prehrana",
+      "ru": [
+        "питание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nutrition",
+      "sourceIds": [
+        "nutrition"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prehranski",
+      "word": "prehranski",
+      "en": "prehranski",
+      "ru": [
+        "питательный"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "nutritional",
+      "sourceIds": [
+        "nutritional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "nutricionist",
+      "word": "nutricionist",
+      "en": "nutricionist",
+      "ru": [
+        "диетврач",
+        "диетолог"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "nutritionist",
+      "sourceIds": [
+        "nutritionist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "olje",
+      "word": "olje",
+      "en": "olje",
+      "ru": [
+        "масло",
+        "нефть",
+        "петролеум"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "oil",
+      "sourceIds": [
+        "oil"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "cebula",
+      "word": "čebula",
+      "en": "čebula",
+      "ru": [
+        "лук",
+        "головка",
+        "луковица"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "onion",
+      "sourceIds": [
+        "onion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pomaranca",
+      "word": "pomaranča",
+      "en": "pomaranča",
+      "ru": [
+        "оранжевый",
+        "апельсин",
+        "апельсиновое дерево"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "orange",
+      "sourceIds": [
+        "orange"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "organski",
+      "word": "organski",
+      "en": "organski",
+      "ru": [
+        "органический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "organic",
+      "sourceIds": [
+        "organic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ostriga",
+      "word": "ostriga",
+      "en": "ostriga",
+      "ru": [
+        "устрицы"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "oysters",
+      "sourceIds": [
+        "oysters"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "palacinka",
+      "word": "palačinka",
+      "en": "palačinka",
+      "ru": [
+        "блин",
+        "блинчик",
+        "налистник"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "pancake",
+      "sourceIds": [
+        "pancake"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "testenina",
+      "word": "testenina",
+      "en": "testenina",
+      "ru": [
+        "макаронные изделия",
+        "макароны",
+        "паста"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "pasta",
+      "sourceIds": [
+        "pasta"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "grah",
+      "word": "grah",
+      "en": "grah",
+      "ru": [
+        "горох",
+        "горошек",
+        "горошина"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "pea",
+      "sourceIds": [
+        "pea"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "breskev",
+      "word": "breskev",
+      "en": "breskev",
+      "ru": [
+        "персик",
+        "персиковое дерево",
+        "персиковый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "peach",
+      "sourceIds": [
+        "peach"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "arasid",
+      "word": "arašid",
+      "en": "arašid",
+      "ru": [
+        "арахис",
+        "земляной орех",
+        "китайский орех"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "peanut",
+      "sourceIds": [
+        "peanut"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drobiz",
+      "word": "drobiž",
+      "en": "drobiž",
+      "ru": [
+        "грош",
+        "копейка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "peanuts",
+      "sourceIds": [
+        "peanuts"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hruska",
+      "word": "hruška",
+      "en": "hruška",
+      "ru": [
+        "груша"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "pear",
+      "sourceIds": [
+        "pear"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "poper",
+      "word": "poper",
+      "en": "poper",
+      "ru": [
+        "перец",
+        "чёрный перец",
+        "перчить"
+      ],
+      "example": "Hočem nov mlinček za poper.",
+      "level": "B2",
+      "sourceId": "pepper",
+      "sourceIds": [
+        "pepper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pita",
+      "word": "pita",
+      "en": "pita",
+      "ru": [
+        "пирог",
+        "пирожок"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "pie",
+      "sourceIds": [
+        "pie"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pizza",
+      "word": "pizza",
+      "en": "pizza",
+      "ru": [
+        "пицца"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "pizza",
+      "sourceIds": [
+        "pizza"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kroznik",
+      "word": "krožnik",
+      "en": "krožnik",
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "блюдце"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "plate",
+      "sourceIds": [
+        "plate"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "svinjina",
+      "word": "svinjina",
+      "en": "svinjina",
+      "ru": [
+        "свинина"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "pork",
+      "sourceIds": [
+        "pork"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kasa",
+      "word": "kaša",
+      "en": "kaša",
+      "ru": [
+        "каша",
+        "овсянка"
+      ],
+      "example": "Ajdova kaša je okusna slovenska jed.",
+      "level": "A2",
+      "sourceId": "porridge",
+      "sourceIds": [
+        "porridge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "krompir",
+      "word": "krompir",
+      "en": "krompir",
+      "ru": [
+        "картофель",
+        "картофелина",
+        "картоха"
+      ],
+      "example": "Nareži krompir!",
+      "level": "A1",
+      "sourceId": "potato",
+      "sourceIds": [
+        "potato"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "surov",
+      "word": "surov",
+      "en": "surov",
+      "ru": [
+        "сырой",
+        "необработанный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "raw",
+      "sourceIds": [
+        "raw"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "recept",
+      "word": "recept",
+      "en": "recept",
+      "ru": [
+        "рецепт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "recipe",
+      "sourceIds": [
+        "recipe"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "riz",
+      "word": "riž",
+      "en": "riž",
+      "ru": [
+        "рис"
+      ],
+      "example": "\"Riž in kvinoja sta varni žiti\" je rekla Mary.",
+      "level": "A1",
+      "sourceId": "rice",
+      "sourceIds": [
+        "rice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pecen",
+      "word": "pečen",
+      "en": "pečen",
+      "ru": [
+        "жарить",
+        "жареный",
+        "жаркое"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "roast",
+      "sourceIds": [
+        "roast"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "solata",
+      "word": "solata",
+      "en": "solata",
+      "ru": [
+        "салат"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "salad",
+      "sourceIds": [
+        "salad"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "slan",
+      "word": "slan",
+      "en": "slan",
+      "ru": [
+        "соль",
+        "солить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "salt",
+      "sourceIds": [
+        "salt"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "soljen",
+      "word": "soljen",
+      "en": "soljen",
+      "ru": [
+        "солёный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "salted",
+      "sourceIds": [
+        "salted"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "slan",
+      "word": "slan",
+      "en": "slan",
+      "ru": [
+        "солёный",
+        "соляной"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "salty",
+      "sourceIds": [
+        "salty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sendvic",
+      "word": "sendvič",
+      "en": "sendvič",
+      "ru": [
+        "сандвич",
+        "сэндвич",
+        "бутерброд"
+      ],
+      "example": "Jem sendvič.",
+      "level": "A1",
+      "sourceId": "sandwich",
+      "sourceIds": [
+        "sandwich"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "omaka",
+      "word": "omaka",
+      "en": "omaka",
+      "ru": [
+        "соус",
+        "подливка"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "sauce",
+      "sourceIds": [
+        "sauce",
+        "gravy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kroznicek",
+      "word": "krožniček",
+      "en": "krožniček",
+      "ru": [
+        "блюдце"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "saucer",
+      "sourceIds": [
+        "saucer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "klobasa",
+      "word": "klobasa",
+      "en": "klobasa",
+      "ru": [
+        "колбаса",
+        "сосиска",
+        "сарделька"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "sausage",
+      "sourceIds": [
+        "sausage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prigrizek",
+      "word": "prigrizek",
+      "en": "prigrizek",
+      "ru": [
+        "закуска",
+        "лёгкая закуска",
+        "перекус"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "snack",
+      "sourceIds": [
+        "snack"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gazirana-pijaca",
+      "word": "gazirana pijača",
+      "en": "gazirana pijača",
+      "ru": [
+        "газировка",
+        "содовая"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "soda",
+      "sourceIds": [
+        "soda"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "juha",
+      "word": "juha",
+      "en": "juha",
+      "ru": [
+        "суп",
+        "похлёбка",
+        "уха"
+      ],
+      "example": "Dobra, domača goveja juha je nepogrešljiv del nedeljskega kosila.",
+      "level": "B2",
+      "sourceId": "soup",
+      "sourceIds": [
+        "soup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kisel",
+      "word": "kisel",
+      "en": "kisel",
+      "ru": [
+        "кислый",
+        "прокисший"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "sour",
+      "sourceIds": [
+        "sour"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zacimba",
+      "word": "začimba",
+      "en": "začimba",
+      "ru": [
+        "пряность",
+        "приправа",
+        "специя"
+      ],
+      "example": "Rožmarin je zelo pomembna začimba.",
+      "level": "A2",
+      "sourceId": "spice",
+      "sourceIds": [
+        "spice"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pekoc",
+      "word": "pekoč",
+      "en": "pekoč",
+      "ru": [
+        "острый",
+        "пряный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "spicy",
+      "sourceIds": [
+        "spicy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "duh",
+      "word": "duh",
+      "en": "duh",
+      "ru": [
+        "спирт"
+      ],
+      "example": "Je duh luči in bo sijal v posmrtnem življenju.",
+      "level": "B2",
+      "sourceId": "spirits",
+      "sourceIds": [
+        "spirits"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zlica",
+      "word": "žlica",
+      "en": "žlica",
+      "ru": [
+        "ложка",
+        "ложечка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "predjed",
+      "word": "predjed",
+      "en": "predjed",
+      "ru": [
+        "стартер",
+        "стартёр",
+        "первое блюдо"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "starter",
+      "sourceIds": [
+        "starter"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "biftek",
+      "word": "biftek",
+      "en": "biftek",
+      "ru": [
+        "стейк",
+        "бифштекс"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "steak",
+      "sourceIds": [
+        "steak"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "jagoda",
+      "word": "jagoda",
+      "en": "jagoda",
+      "ru": [
+        "клубника",
+        "земляника"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "strawberry",
+      "sourceIds": [
+        "strawberry"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sladkor",
+      "word": "sladkor",
+      "en": "sladkor",
+      "ru": [
+        "сахар",
+        "сахарить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "sugar",
+      "sourceIds": [
+        "sugar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sladkorna-depilacija",
+      "word": "sladkorna depilacija",
+      "en": "sladkorna depilacija",
+      "ru": [
+        "шугаринг"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sugaring",
+      "sourceIds": [
+        "sugaring"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vecerja",
+      "word": "večerja",
+      "en": "večerja",
+      "ru": [
+        "ужин",
+        "вечеря",
+        "ужинать"
+      ],
+      "example": "Večerja se je ohladila.",
+      "level": "C2",
+      "sourceId": "supper",
+      "sourceIds": [
+        "supper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sladek",
+      "word": "sladek",
+      "en": "sladek",
+      "ru": [
+        "сладкий",
+        "конфета"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sweet",
+      "sourceIds": [
+        "sweet"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sladko",
+      "word": "sladko",
+      "en": "sladko",
+      "ru": [
+        "сладко"
+      ],
+      "example": "Naj bo kratko in sladko.",
+      "level": "C2",
+      "sourceId": "sweetly",
+      "sourceIds": [
+        "sweetly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sladkarije",
+      "word": "sladkarije",
+      "en": "sladkarije",
+      "ru": [
+        "конфета",
+        "кондитерские изделия",
+        "сладость"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "sweets",
+      "sourceIds": [
+        "sweets"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "okus",
+      "word": "okus",
+      "en": "okus",
+      "ru": [
+        "вкус",
+        "склонность",
+        "пробовать"
+      ],
+      "example": "Voda ima okus po pipi.",
+      "level": "B2",
+      "sourceId": "taste",
+      "sourceIds": [
+        "taste"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "okus",
+      "word": "okus",
+      "en": "okus",
+      "ru": [
+        "дегустация",
+        "пробование"
+      ],
+      "example": "Voda ima okus po pipi.",
+      "level": "C2",
+      "sourceId": "tasting",
+      "sourceIds": [
+        "tasting"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caj",
+      "word": "čaj",
+      "en": "čaj",
+      "ru": [
+        "чай",
+        "чашка чаю",
+        "чашка чая"
+      ],
+      "example": "Kava in čaj sta nepogrešljiva dela kulture turške kuhinje.",
+      "level": "A1",
+      "sourceId": "tea",
+      "sourceIds": [
+        "tea"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zdravica",
+      "word": "zdravica",
+      "en": "zdravica",
+      "ru": [
+        "тост",
+        "здравица",
+        "поджаривать"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "toast",
+      "sourceIds": [
+        "toast"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "opekac",
+      "word": "opekač",
+      "en": "opekač",
+      "ru": [
+        "тостер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "toaster",
+      "sourceIds": [
+        "toaster"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "paradiznik",
+      "word": "paradižnik",
+      "en": "paradižnik",
+      "ru": [
+        "помидор",
+        "томат"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "tomato",
+      "sourceIds": [
+        "tomato"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "preliv",
+      "word": "preliv",
+      "en": "preliv",
+      "ru": [
+        "верхушка",
+        "начинка",
+        "топпинг"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "topping",
+      "sourceIds": [
+        "topping"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "poslastica",
+      "word": "poslastica",
+      "en": "poslastica",
+      "ru": [
+        "развлечение",
+        "угощение",
+        "подарок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "treat",
+      "sourceIds": [
+        "treat"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zelenjava",
+      "word": "zelenjava",
+      "en": "zelenjava",
+      "ru": [
+        "овощ"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "vegetable",
+      "sourceIds": [
+        "vegetable"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vodka",
+      "word": "vodka",
+      "en": "vodka",
+      "ru": [
+        "водка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "vodka",
+      "sourceIds": [
+        "vodka"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vafelj",
+      "word": "vafelj",
+      "en": "vafelj",
+      "ru": [
+        "вафля"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "waffle",
+      "sourceIds": [
+        "waffle"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "natakar",
+      "word": "natakar",
+      "en": "natakar",
+      "ru": [
+        "кельнер",
+        "официант",
+        "официантка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "waiter",
+      "sourceIds": [
+        "waiter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "natakarica",
+      "word": "natakarica",
+      "en": "natakarica",
+      "ru": [
+        "кельнерша",
+        "официантка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "waitress",
+      "sourceIds": [
+        "waitress"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "oreh",
+      "word": "oreh",
+      "en": "oreh",
+      "ru": [
+        "грецкий орех"
+      ],
+      "example": "To je trd oreh!",
+      "level": "C1",
+      "sourceId": "walnut",
+      "sourceIds": [
+        "walnut"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "voda",
+      "word": "voda",
+      "en": "voda",
+      "ru": [
+        "вода",
+        "воды",
+        "поливать"
+      ],
+      "example": "Izvirska voda je podzemna voda, ki priteče na površje.",
+      "level": "A1",
+      "sourceId": "water",
+      "sourceIds": [
+        "water"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lubenica",
+      "word": "lubenica",
+      "en": "lubenica",
+      "ru": [
+        "арбуз"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "watermelon",
+      "sourceIds": [
+        "watermelon"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "psenica",
+      "word": "pšenica",
+      "en": "pšenica",
+      "ru": [
+        "пшеница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "wheat",
+      "sourceIds": [
+        "wheat"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vino",
+      "word": "vino",
+      "en": "vino",
+      "ru": [
+        "вино",
+        "бордо"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "wine",
+      "sourceIds": [
+        "wine"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "jogurt",
+      "word": "jogurt",
+      "en": "jogurt",
+      "ru": [
+        "йогурт",
+        "простокваша"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "yogurt",
+      "sourceIds": [
+        "yogurt"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pladenj",
+      "word": "pladenj",
+      "en": "pladenj",
+      "ru": [
+        "большое блюдо",
+        "поднос"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "platter",
+      "sourceIds": [
+        "platter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zveciti",
+      "word": "žvečiti",
+      "en": "žvečiti",
+      "ru": [
+        "жевать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chew",
+      "sourceIds": [
+        "chew"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kava-brez-kofeina",
+      "word": "kava brez kofeina",
+      "en": "kava brez kofeina",
+      "ru": [
+        "декаф",
+        "кофе без кофеина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decaf",
+      "sourceIds": [
+        "decaf"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tun",
+      "word": "tȗn",
+      "en": "tȗn",
+      "ru": [
+        "тунец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tuna",
+      "sourceIds": [
+        "tuna"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vanilja",
+      "word": "vanilja",
+      "en": "vanilja",
+      "ru": [
+        "ваниль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "vanilla",
+      "sourceIds": [
+        "vanilla"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "omleta",
+      "word": "omleta",
+      "en": "omleta",
+      "ru": [
+        "омлет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "omelet",
+      "sourceIds": [
+        "omelet"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zele",
+      "word": "žele",
+      "en": "žele",
+      "ru": [
+        "желе"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "jelly",
+      "sourceIds": [
+        "jelly"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "konzerviran",
+      "word": "konzerviran",
+      "en": "konzerviran",
+      "ru": [
+        "консервированный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "canned",
+      "sourceIds": [
+        "canned"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "susi",
+      "word": "suši",
+      "en": "suši",
+      "ru": [
+        "суши"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sushi",
+      "sourceIds": [
+        "sushi"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "medenjak",
+      "word": "medenjak",
+      "en": "medenjak",
+      "ru": [
+        "имбирный пряник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gingerbread",
+      "sourceIds": [
+        "gingerbread"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zeleiran-bonbon",
+      "word": "želeiran bonbon",
+      "en": "želeiran bonbon",
+      "ru": [
+        "мармеладка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gumdrop",
+      "sourceIds": [
+        "gumdrop"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pinta",
+      "word": "pinta",
+      "en": "pinta",
+      "ru": [
+        "пинта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pint",
+      "sourceIds": [
+        "pint"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zavitek",
+      "word": "zavitek",
+      "en": "zavitek",
+      "ru": [
+        "штрудель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "strudel",
+      "sourceIds": [
+        "strudel"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hrana-za-s-seboj",
+      "word": "hrana za s seboj",
+      "en": "hrana za s seboj",
+      "ru": [
+        "еда навынос"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "takeout",
+      "sourceIds": [
+        "takeout"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krof",
+      "word": "krof",
+      "en": "krof",
+      "ru": [
+        "пончик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cruller",
+      "sourceIds": [
+        "cruller",
+        "doughnut",
+        "donut"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pred-obrokom",
+      "word": "pred obrokom",
+      "en": "pred obrokom",
+      "ru": [
+        "перед едой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "premeal",
+      "sourceIds": [
+        "premeal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kalorija",
+      "word": "kalorija",
+      "en": "kalorija",
+      "ru": [
+        "калория"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "calorie",
+      "sourceIds": [
+        "calorie"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "salsa",
+      "word": "salsa",
+      "en": "salsa",
+      "ru": [
+        "сальса"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "salsa",
+      "sourceIds": [
+        "salsa"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mafin",
+      "word": "mafin",
+      "en": "mafin",
+      "ru": [
+        "маффин",
+        "кекс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "muffin",
+      "sourceIds": [
+        "muffin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hamburger",
+      "word": "hamburger",
+      "en": "hamburger",
+      "ru": [
+        "гамбургер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hamburger",
+      "sourceIds": [
+        "hamburger"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zemljica",
+      "word": "žemljica",
+      "en": "žemljica",
+      "ru": [
+        "булочка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bun",
+      "sourceIds": [
+        "bun"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "izdaten",
+      "word": "izdaten",
+      "en": "izdaten",
+      "ru": [
+        "сытный",
+        "сердечный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hearty",
+      "sourceIds": [
+        "hearty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "otrobi",
+      "word": "otrobi",
+      "en": "otrobi",
+      "ru": [
+        "отруби"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bran",
+      "sourceIds": [
+        "bran"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "lazanja",
+      "word": "lazanja",
+      "en": "lazanja",
+      "ru": [
+        "лазанья"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lasagna",
+      "sourceIds": [
+        "lasagna"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "postreci",
+      "word": "postreči",
+      "en": "postreči",
+      "ru": [
+        "обслуживать",
+        "угождать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cater",
+      "sourceIds": [
+        "cater"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "dzin",
+      "word": "džin",
+      "en": "džin",
+      "ru": [
+        "джин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gin",
+      "sourceIds": [
+        "gin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "muskatni-oresek",
+      "word": "muškatni orešek",
+      "en": "muškatni orešek",
+      "ru": [
+        "мускатный орех"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nutmeg",
+      "sourceIds": [
+        "nutmeg"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "jecmen",
+      "word": "ječmen",
+      "en": "ječmen",
+      "ru": [
+        "ячмень"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "barley",
+      "sourceIds": [
+        "barley"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cedar",
+      "word": "čedar",
+      "en": "čedar",
+      "ru": [
+        "чеддер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheddar",
+      "sourceIds": [
+        "cheddar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "piccalilli",
+      "word": "piccalilli",
+      "en": "piccalilli",
+      "ru": [
+        "пиккалилли"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "piccalilli",
+      "sourceIds": [
+        "piccalilli"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rediti",
+      "word": "rediti",
+      "en": "rediti",
+      "ru": [
+        "откармливать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fatten",
+      "sourceIds": [
+        "fatten"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ribja-okrepcevalnica",
+      "word": "ribja okrepčevalnica",
+      "en": "ribja okrepčevalnica",
+      "ru": [
+        "закусочная с рыбой и картошкой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chippy",
+      "sourceIds": [
+        "chippy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "piknik",
+      "word": "piknik",
+      "en": "piknik",
+      "ru": [
+        "пикник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "picnic",
+      "sourceIds": [
+        "picnic"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "oljnica",
+      "word": "oljnica",
+      "en": "oljnica",
+      "ru": [
+        "масличная культура"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "oilseed",
+      "sourceIds": [
+        "oilseed"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "espresso",
+      "word": "espresso",
+      "en": "espresso",
+      "ru": [
+        "эспрессо"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "espresso",
+      "sourceIds": [
+        "espresso"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "martini",
+      "word": "martini",
+      "en": "martini",
+      "ru": [
+        "мартини"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "martini",
+      "sourceIds": [
+        "martini"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "klavnica",
+      "word": "klavnica",
+      "en": "klavnica",
+      "ru": [
+        "бойня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "abattoir",
+      "sourceIds": [
+        "abattoir"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ovcetina",
+      "word": "ovčetina",
+      "en": "ovčetina",
+      "ru": [
+        "баранина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mutton",
+      "sourceIds": [
+        "mutton"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vecerjati",
+      "word": "večerjati",
+      "en": "večerjati",
+      "ru": [
+        "обедать",
+        "ужинать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dine",
+      "sourceIds": [
+        "dine"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "vasabi",
+      "word": "vasabi",
+      "en": "vasabi",
+      "ru": [
+        "васаби"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wasabi",
+      "sourceIds": [
+        "wasabi"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "uziten",
+      "word": "užiten",
+      "en": "užiten",
+      "ru": [
+        "съедобный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "edible",
+      "sourceIds": [
+        "edible"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gorcica",
+      "word": "gorčica",
+      "en": "gorčica",
+      "ru": [
+        "горчица"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mustard",
+      "sourceIds": [
+        "mustard"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hren",
+      "word": "hren",
+      "en": "hren",
+      "ru": [
+        "хрен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "horseradish",
+      "sourceIds": [
+        "horseradish"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sladilo",
+      "word": "sladilo",
+      "en": "sladilo",
+      "ru": [
+        "подсластитель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sweetener",
+      "sourceIds": [
+        "sweetener"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "krompir",
+      "word": "krompir",
+      "en": "krompir",
+      "ru": [
+        "картофелина"
+      ],
+      "example": "Nareži krompir!",
+      "level": "B1",
+      "sourceId": "spud",
+      "sourceIds": [
+        "spud",
+        "tater"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piten",
+      "word": "piten",
+      "en": "piten",
+      "ru": [
+        "питьевой",
+        "пригодный для питья"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drinkable",
+      "sourceIds": [
+        "drinkable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "vegetarijanec",
+      "word": "vegetarijanec",
+      "en": "vegetarijanec",
+      "ru": [
+        "вегетарианец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "vegetarian",
+      "sourceIds": [
+        "vegetarian"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vegan",
+      "word": "vegan",
+      "en": "vegan",
+      "ru": [
+        "веган"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "vegan",
+      "sourceIds": [
+        "vegan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rastlinski",
+      "word": "rastlinski",
+      "en": "rastlinski",
+      "ru": [
+        "растительный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "plant-based",
+      "sourceIds": [
+        "plant-based"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zelena",
+      "word": "zelena",
+      "en": "zelena",
+      "ru": [
+        "сельдерей"
+      ],
+      "example": "Kaj pomeni zelena barva?",
+      "level": "B1",
+      "sourceId": "celery",
+      "sourceIds": [
+        "celery"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brez-sladkorja",
+      "word": "brez sladkorja",
+      "en": "brez sladkorja",
+      "ru": [
+        "без сахара"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sugarless",
+      "sourceIds": [
+        "sugarless"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ramen",
+      "word": "ramen",
+      "en": "ramen",
+      "ru": [
+        "рамен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ramen",
+      "sourceIds": [
+        "ramen"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "burito",
+      "word": "burito",
+      "en": "burito",
+      "ru": [
+        "буррито"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "burrito",
+      "sourceIds": [
+        "burrito"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vlaknina",
+      "word": "vlaknina",
+      "en": "vlaknina",
+      "ru": [
+        "клетчатка",
+        "волокно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fiber",
+      "sourceIds": [
+        "fiber"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "listnati-ohrovt",
+      "word": "listnati ohrovt",
+      "en": "listnati ohrovt",
+      "ru": [
+        "капуста кейл"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kale",
+      "sourceIds": [
+        "kale"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "morska-alga",
+      "word": "morska alga",
+      "en": "morska alga",
+      "ru": [
+        "морская капуста"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kelp",
+      "sourceIds": [
+        "kelp"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sojino-zrno",
+      "word": "sojino zrno",
+      "en": "sojino zrno",
+      "ru": [
+        "соевый боб"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "soybean",
+      "sourceIds": [
+        "soybean"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "file",
+      "word": "file",
+      "en": "file",
+      "ru": [
+        "филе"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "filet",
+      "sourceIds": [
+        "filet"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "file-mignon",
+      "word": "file mignon",
+      "en": "file mignon",
+      "ru": [
+        "миньон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mignon",
+      "sourceIds": [
+        "mignon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "krompirjeva-polpeta",
+      "word": "krompirjeva polpeta",
+      "en": "krompirjeva polpeta",
+      "ru": [
+        "хашбраун"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hashbrown",
+      "sourceIds": [
+        "hashbrown"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "solata",
+      "word": "solata",
+      "en": "solata",
+      "ru": [
+        "салат-латук"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lettuce",
+      "sourceIds": [
+        "lettuce"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "oliva",
+      "word": "oliva",
+      "en": "oliva",
+      "ru": [
+        "оливка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "olive",
+      "sourceIds": [
+        "olive"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "beljak",
+      "word": "beljak",
+      "en": "beljak",
+      "ru": [
+        "яичный белок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "egg-white",
+      "sourceIds": [
+        "egg-white"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sipino-crnilo",
+      "word": "sipino črnilo",
+      "en": "sipino črnilo",
+      "ru": [
+        "чернила каракатицы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "squid-ink",
+      "sourceIds": [
+        "squid-ink"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "pivo",
+      "word": "pivo",
+      "en": "pivo",
+      "ru": [
+        "эль",
+        "пиво"
+      ],
+      "example": "Kdo pije pivo?",
+      "level": "B1",
+      "sourceId": "ale",
+      "sourceIds": [
+        "ale"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pojedina",
+      "word": "pojedina",
+      "en": "pojedina",
+      "ru": [
+        "пир",
+        "праздник"
+      ],
+      "example": "Poroka je pojedina, ki se začne s sladico.",
+      "level": "B1",
+      "sourceId": "feast",
+      "sourceIds": [
+        "feast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vrcek",
+      "word": "vrček",
+      "en": "vrček",
+      "ru": [
+        "кружка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mug",
+      "sourceIds": [
+        "mug"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sesekljano-meso",
+      "word": "sesekljano meso",
+      "en": "sesekljano meso",
+      "ru": [
+        "рубленое мясо",
+        "мешанина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hash",
+      "sourceIds": [
+        "hash"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "zilav",
+      "word": "žilav",
+      "en": "žilav",
+      "ru": [
+        "жевательный",
+        "вязкий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chewy",
+      "sourceIds": [
+        "chewy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "z-okusom-slanine",
+      "word": "z okusom slanine",
+      "en": "z okusom slanine",
+      "ru": [
+        "со вкусом бекона"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bacon-flavored",
+      "sourceIds": [
+        "bacon-flavored"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "soja",
+      "word": "soja",
+      "en": "soja",
+      "ru": [
+        "соя"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "soy",
+      "sourceIds": [
+        "soy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "leden",
+      "word": "leden",
+      "en": "leden",
+      "ru": [
+        "ледяной",
+        "со льдом"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "iced",
+      "sourceIds": [
+        "iced"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lepljiv",
+      "word": "lepljiv",
+      "en": "lepljiv",
+      "ru": [
+        "липкий",
+        "вязкий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gooey",
+      "sourceIds": [
+        "gooey"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tekila",
+      "word": "tekila",
+      "en": "tekila",
+      "ru": [
+        "текила"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tequila",
+      "sourceIds": [
+        "tequila"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pulpa",
+      "word": "pulpa",
+      "en": "pulpa",
+      "ru": [
+        "мякоть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pulp",
+      "sourceIds": [
+        "pulp"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ostanek",
+      "word": "ostanek",
+      "en": "ostanek",
+      "ru": [
+        "остаток"
+      ],
+      "example": "Glasoval sem za ostanek.",
+      "level": "B1",
+      "sourceId": "leftover",
+      "sourceIds": [
+        "leftover"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nasititi",
+      "word": "nasititi",
+      "en": "nasititi",
+      "ru": [
+        "насыщать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sate",
+      "sourceIds": [
+        "sate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zrel",
+      "word": "zrel",
+      "en": "zrel",
+      "ru": [
+        "спелый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ripe",
+      "sourceIds": [
+        "ripe"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "jabolcnik",
+      "word": "jabolčnik",
+      "en": "jabolčnik",
+      "ru": [
+        "сидр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cider",
+      "sourceIds": [
+        "cider"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "socen",
+      "word": "sočen",
+      "en": "sočen",
+      "ru": [
+        "сочный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "juicy",
+      "sourceIds": [
+        "juicy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sirna-kroglica",
+      "word": "sirna kroglica",
+      "en": "sirna kroglica",
+      "ru": [
+        "сырный шарик",
+        "пошляк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheeseball",
+      "sourceIds": [
+        "cheeseball"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pozreti",
+      "word": "požreti",
+      "en": "požreti",
+      "ru": [
+        "пожирать",
+        "жадно есть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "devour",
+      "sourceIds": [
+        "devour"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "mast",
+      "word": "mast",
+      "en": "mast",
+      "ru": [
+        "сало",
+        "смалец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lard",
+      "sourceIds": [
+        "lard"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krema",
+      "word": "krema",
+      "en": "krema",
+      "ru": [
+        "крем"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "creme",
+      "sourceIds": [
+        "creme"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sufle",
+      "word": "sufle",
+      "en": "sufle",
+      "ru": [
+        "суфле"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "souffle",
+      "sourceIds": [
+        "souffle"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "losos",
+      "word": "losos",
+      "en": "losos",
+      "ru": [
+        "лосось"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "salmon",
+      "sourceIds": [
+        "salmon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "prisilno-hraniti",
+      "word": "prisilno hraniti",
+      "en": "prisilno hraniti",
+      "ru": [
+        "кормить насильно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "force-feed",
+      "sourceIds": [
+        "force-feed"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hrustanje",
+      "word": "hrustanje",
+      "en": "hrustanje",
+      "ru": [
+        "хруст",
+        "хрустеть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crunch",
+      "sourceIds": [
+        "crunch"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "zalogaj",
+      "word": "zalogaj",
+      "en": "zalogaj",
+      "ru": [
+        "лакомый кусочек",
+        "интересная новость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tidbit",
+      "sourceIds": [
+        "tidbit"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tiramisu",
+      "word": "tiramisu",
+      "en": "tiramisu",
+      "ru": [
+        "тирамису"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tiramisu",
+      "sourceIds": [
+        "tiramisu"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pozni-zajtrk",
+      "word": "pozni zajtrk",
+      "en": "pozni zajtrk",
+      "ru": [
+        "бранч",
+        "поздний завтрак"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brunch",
+      "sourceIds": [
+        "brunch"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "popivati",
+      "word": "popivati",
+      "en": "popivati",
+      "ru": [
+        "выпивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "booze",
+      "sourceIds": [
+        "booze"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "meta",
+      "word": "meta",
+      "en": "meta",
+      "ru": [
+        "мята",
+        "монетный двор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mint",
+      "sourceIds": [
+        "mint"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "snops",
+      "word": "šnops",
+      "en": "šnops",
+      "ru": [
+        "шнапс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "schnapps",
+      "sourceIds": [
+        "schnapps"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "koser",
+      "word": "košer",
+      "en": "košer",
+      "ru": [
+        "кошерный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kosher",
+      "sourceIds": [
+        "kosher"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "divjacina",
+      "word": "divjačina",
+      "en": "divjačina",
+      "ru": [
+        "оленина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "venison",
+      "sourceIds": [
+        "venison"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zlica",
+      "word": "žlica",
+      "en": "žlica",
+      "ru": [
+        "порция",
+        "кучка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dollop",
+      "sourceIds": [
+        "dollop"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "rum",
+      "word": "rum",
+      "en": "rum",
+      "ru": [
+        "ром"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rum",
+      "sourceIds": [
+        "rum"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "granola",
+      "word": "granola",
+      "en": "granola",
+      "ru": [
+        "гранола"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "granola",
+      "sourceIds": [
+        "granola"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "jabolcna-pita",
+      "word": "jabolčna pita",
+      "en": "jabolčna pita",
+      "ru": [
+        "яблочный пирог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "apple-pie",
+      "sourceIds": [
+        "apple-pie"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "okrepcevalnica",
+      "word": "okrepčevalnica",
+      "en": "okrepčevalnica",
+      "ru": [
+        "закусочная"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diner",
+      "sourceIds": [
+        "diner"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sodcek",
+      "word": "sodček",
+      "en": "sodček",
+      "ru": [
+        "кег",
+        "бочонок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "keg",
+      "sourceIds": [
+        "keg"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drobtina",
+      "word": "drobtina",
+      "en": "drobtina",
+      "ru": [
+        "крошка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crumb",
+      "sourceIds": [
+        "crumb"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "klopa",
+      "word": "klopa",
+      "en": "klopa",
+      "ru": [
+        "еда",
+        "корм"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chow",
+      "sourceIds": [
+        "chow"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hraniti",
+      "word": "hraniti",
+      "en": "hraniti",
+      "ru": [
+        "кормить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fed",
+      "sourceIds": [
+        "fed"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "rozina",
+      "word": "rozina",
+      "en": "rozina",
+      "ru": [
+        "изюм"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "raisin",
+      "sourceIds": [
+        "raisin"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kofein",
+      "word": "kofein",
+      "en": "kofein",
+      "ru": [
+        "кофеин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caffeine",
+      "sourceIds": [
+        "caffeine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mokacino",
+      "word": "mokačino",
+      "en": "mokačino",
+      "ru": [
+        "моккачино"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mochaccino",
+      "sourceIds": [
+        "mochaccino"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "frapucino",
+      "word": "frapučino",
+      "en": "frapučino",
+      "ru": [
+        "фраппучино"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frappuccino",
+      "sourceIds": [
+        "frappuccino"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gaziran",
+      "word": "gaziran",
+      "en": "gaziran",
+      "ru": [
+        "шипучий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fizzy",
+      "sourceIds": [
+        "fizzy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "grizljati",
+      "word": "grizljati",
+      "en": "grizljati",
+      "ru": [
+        "откусывать понемногу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nibble",
+      "sourceIds": [
+        "nibble"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "okusen",
+      "word": "okusen",
+      "en": "okusen",
+      "ru": [
+        "вкусный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tasty",
+      "sourceIds": [
+        "tasty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "slasten",
+      "word": "slasten",
+      "en": "slasten",
+      "ru": [
+        "вкусный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "yummy",
+      "sourceIds": [
+        "yummy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "klasasta-meta",
+      "word": "klasasta meta",
+      "en": "klasasta meta",
+      "ru": [
+        "мята колосистая"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spearmint",
+      "sourceIds": [
+        "spearmint"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "domac",
+      "word": "domač",
+      "en": "domač",
+      "ru": [
+        "домашнего приготовления"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "homemade",
+      "sourceIds": [
+        "homemade"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zar",
+      "word": "žar",
+      "en": "žar",
+      "ru": [
+        "барбекю"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "barbecue",
+      "sourceIds": [
+        "barbecue"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "s-kofeinom",
+      "word": "s kofeinom",
+      "en": "s kofeinom",
+      "ru": [
+        "содержащий кофеин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caffeinated",
+      "sourceIds": [
+        "caffeinated"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kecap",
+      "word": "kečap",
+      "en": "kečap",
+      "ru": [
+        "кетчуп"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ketchup",
+      "sourceIds": [
+        "ketchup"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sadni",
+      "word": "sadni",
+      "en": "sadni",
+      "ru": [
+        "фруктовый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fruity",
+      "sourceIds": [
+        "fruity"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pita",
+      "word": "pita",
+      "en": "pita",
+      "ru": [
+        "фруктовый пирог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tart",
+      "sourceIds": [
+        "tart"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "penasti-bonbon",
+      "word": "penasti bonbon",
+      "en": "penasti bonbon",
+      "ru": [
+        "зефир",
+        "маршмэллоу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "marshmallow",
+      "sourceIds": [
+        "marshmallow"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "teletina",
+      "word": "teletina",
+      "en": "teletina",
+      "ru": [
+        "телятина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "veal",
+      "sourceIds": [
+        "veal"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "okus",
+      "word": "okus",
+      "en": "okus",
+      "ru": [
+        "вкус",
+        "аромат"
+      ],
+      "example": "Voda ima okus po pipi.",
+      "level": "B1",
+      "sourceId": "flavour",
+      "sourceIds": [
+        "flavour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "buca",
+      "word": "buča",
+      "en": "buča",
+      "ru": [
+        "тыква"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pumpkin",
+      "sourceIds": [
+        "pumpkin"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "rikota",
+      "word": "rikota",
+      "en": "rikota",
+      "ru": [
+        "рикотта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ricotta",
+      "sourceIds": [
+        "ricotta"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kavni-napitek-latte",
+      "word": "kavni napitek latte",
+      "en": "kavni napitek latte",
+      "ru": [
+        "латте"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "latte",
+      "sourceIds": [
+        "latte"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cimet",
+      "word": "cimet",
+      "en": "cimet",
+      "ru": [
+        "корица"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cinnamon",
+      "sourceIds": [
+        "cinnamon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "spageti",
+      "word": "špageti",
+      "en": "špageti",
+      "ru": [
+        "спагетти"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spaghetti",
+      "sourceIds": [
+        "spaghetti"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "cizburger",
+      "word": "čizburger",
+      "en": "čizburger",
+      "ru": [
+        "чизбургер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheeseburger",
+      "sourceIds": [
+        "cheeseburger"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "brokoli",
+      "word": "brokoli",
+      "en": "brokoli",
+      "ru": [
+        "брокколи"
+      ],
+      "example": "Brokoli je zelen.",
+      "level": "B1",
+      "sourceId": "broccoli",
+      "sourceIds": [
+        "broccoli"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "etouffee",
+      "word": "etouffee",
+      "en": "etouffee",
+      "ru": [
+        "этуфе (блюдо)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "etouffee",
+      "sourceIds": [
+        "etouffee"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "lakota",
+      "word": "lakota",
+      "en": "lakota",
+      "ru": [
+        "голод"
+      ],
+      "example": "Najgrša beseda: vojna, lakota? Najlepša beseda: mir, ljubezen?",
+      "level": "B1",
+      "sourceId": "hunger",
+      "sourceIds": [
+        "hunger"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fondan",
+      "word": "fondan",
+      "en": "fondan",
+      "ru": [
+        "помадка",
+        "чепуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fudge",
+      "sourceIds": [
+        "fudge"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zvecilni-gumi",
+      "word": "žvečilni gumi",
+      "en": "žvečilni gumi",
+      "ru": [
+        "жевательная резинка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bubblegum",
+      "sourceIds": [
+        "bubblegum"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "skrobnat",
+      "word": "škrobnat",
+      "en": "škrobnat",
+      "ru": [
+        "крахмалистый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "starchy",
+      "sourceIds": [
+        "starchy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kolacek",
+      "word": "kolaček",
+      "en": "kolaček",
+      "ru": [
+        "кекс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cupcake",
+      "sourceIds": [
+        "cupcake"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "karamela",
+      "word": "karamela",
+      "en": "karamela",
+      "ru": [
+        "ириска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "taffy",
+      "sourceIds": [
+        "taffy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zvecilna-kroglica",
+      "word": "žvečilna kroglica",
+      "en": "žvečilna kroglica",
+      "ru": [
+        "жевательная резинка в форме шарика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gumball",
+      "sourceIds": [
+        "gumball"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lesen-kroznik",
+      "word": "lesen krožnik",
+      "en": "lesen krožnik",
+      "ru": [
+        "деревянная тарелка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trencher",
+      "sourceIds": [
+        "trencher"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "uzivati",
+      "word": "uživati",
+      "en": "uživati",
+      "ru": [
+        "потреблять",
+        "поглощать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "consume",
+      "sourceIds": [
+        "consume"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "burbon",
+      "word": "burbon",
+      "en": "burbon",
+      "ru": [
+        "бурбон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bourbon",
+      "sourceIds": [
+        "bourbon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tovarna-konzerv",
+      "word": "tovarna konzerv",
+      "en": "tovarna konzerv",
+      "ru": [
+        "консервный завод"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cannery",
+      "sourceIds": [
+        "cannery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zgana-pijaca",
+      "word": "žgana pijača",
+      "en": "žgana pijača",
+      "ru": [
+        "спиртной напиток",
+        "крепкий алкоголь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquor",
+      "sourceIds": [
+        "liquor"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zelenjava",
+      "word": "zelenjava",
+      "en": "zelenjava",
+      "ru": [
+        "овощ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "veggie",
+      "sourceIds": [
+        "veggie"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zajbelj",
+      "word": "žajbelj",
+      "en": "žajbelj",
+      "ru": [
+        "шалфей",
+        "мудрец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sage",
+      "sourceIds": [
+        "sage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cili",
+      "word": "čili",
+      "en": "čili",
+      "ru": [
+        "чили",
+        "острый перец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chilli",
+      "sourceIds": [
+        "chilli",
+        "chili"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "skorja",
+      "word": "skorja",
+      "en": "skorja",
+      "ru": [
+        "корка",
+        "корочка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crust",
+      "sourceIds": [
+        "crust"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mlekarna",
+      "word": "mlekarna",
+      "en": "mlekarna",
+      "ru": [
+        "маслозавод",
+        "молочная лавка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "creamery",
+      "sourceIds": [
+        "creamery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "parmigiana",
+      "word": "parmigiana",
+      "en": "parmigiana",
+      "ru": [
+        "пармиджано"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parmigiana",
+      "sourceIds": [
+        "parmigiana"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "seri",
+      "word": "šeri",
+      "en": "šeri",
+      "ru": [
+        "херес"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sherry",
+      "sourceIds": [
+        "sherry"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "skotski-viski",
+      "word": "škotski viski",
+      "en": "škotski viski",
+      "ru": [
+        "шотландский виски"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "scotch",
+      "sourceIds": [
+        "scotch"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "macallan",
+      "word": "macallan",
+      "en": "macallan",
+      "ru": [
+        "Макаллан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "macallan",
+      "sourceIds": [
+        "macallan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mesna-kroglica",
+      "word": "mesna kroglica",
+      "en": "mesna kroglica",
+      "ru": [
+        "тефтеля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "meatball",
+      "sourceIds": [
+        "meatball"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kari",
+      "word": "kari",
+      "en": "kari",
+      "ru": [
+        "карри"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "curry",
+      "sourceIds": [
+        "curry"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "moka",
+      "word": "moka",
+      "en": "moka",
+      "ru": [
+        "мокко"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mocha",
+      "sourceIds": [
+        "mocha"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bistro",
+      "word": "bistro",
+      "en": "bistro",
+      "ru": [
+        "бистро"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bistro",
+      "sourceIds": [
+        "bistro"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vermut",
+      "word": "vermut",
+      "en": "vermut",
+      "ru": [
+        "вермут"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "vermouth",
+      "sourceIds": [
+        "vermouth"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sirova-torta",
+      "word": "sirova torta",
+      "en": "sirova torta",
+      "ru": [
+        "чизкейк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheesecake",
+      "sourceIds": [
+        "cheesecake"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "limonada",
+      "word": "limonada",
+      "en": "limonada",
+      "ru": [
+        "лимонад"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lemonade",
+      "sourceIds": [
+        "lemonade"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zveciti",
+      "word": "žvečiti",
+      "en": "žvečiti",
+      "ru": [
+        "жевать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "munch",
+      "sourceIds": [
+        "munch"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hrenovka",
+      "word": "hrenovka",
+      "en": "hrenovka",
+      "ru": [
+        "сосиска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wienie",
+      "sourceIds": [
+        "wienie"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "rz",
+      "word": "ŕž",
+      "en": "ŕž",
+      "ru": [
+        "рожь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rye",
+      "sourceIds": [
+        "rye"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "piti",
+      "word": "piti",
+      "en": "piti",
+      "ru": [
+        "пить",
+        "впитывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "imbibe",
+      "sourceIds": [
+        "imbibe"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ingver",
+      "word": "ingver",
+      "en": "ingver",
+      "ru": [
+        "имбирь",
+        "рыжий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ginger",
+      "sourceIds": [
+        "ginger"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mohito",
+      "word": "mohito",
+      "en": "mohito",
+      "ru": [
+        "мохито"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mojito",
+      "sourceIds": [
+        "mojito"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zamrznjeni-jogurt",
+      "word": "zamrznjeni jogurt",
+      "en": "zamrznjeni jogurt",
+      "ru": [
+        "замороженный йогурт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "froyo",
+      "sourceIds": [
+        "froyo"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zunaj-jedilnika",
+      "word": "zunaj jedilnika",
+      "en": "zunaj jedilnika",
+      "ru": [
+        "вне меню"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "off-menu",
+      "sourceIds": [
+        "off-menu"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pozirati",
+      "word": "požirati",
+      "en": "požirati",
+      "ru": [
+        "жадно глотать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gobble",
+      "sourceIds": [
+        "gobble"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "pokovka",
+      "word": "pokovka",
+      "en": "pokovka",
+      "ru": [
+        "попкорн"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "popcorn",
+      "sourceIds": [
+        "popcorn"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pistacija",
+      "word": "pistacija",
+      "en": "pistacija",
+      "ru": [
+        "фисташка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pistachio",
+      "sourceIds": [
+        "pistachio"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "poprova-meta",
+      "word": "poprova meta",
+      "en": "poprova meta",
+      "ru": [
+        "мята перечная"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peppermint",
+      "sourceIds": [
+        "peppermint"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "klopa",
+      "word": "klopa",
+      "en": "klopa",
+      "ru": [
+        "еда",
+        "личинка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grub",
+      "sourceIds": [
+        "grub"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "skoljke",
+      "word": "školjke",
+      "en": "školjke",
+      "ru": [
+        "моллюски",
+        "ракообразные"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shellfish",
+      "sourceIds": [
+        "shellfish"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "jogurt",
+      "word": "jogurt",
+      "en": "jogurt",
+      "ru": [
+        "йогурт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "yoghurt",
+      "sourceIds": [
+        "yoghurt"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "presta",
+      "word": "prẹ̑sta",
+      "en": "prẹ̑sta",
+      "ru": [
+        "крендель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pretzel",
+      "sourceIds": [
+        "pretzel"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "skodelica-caja",
+      "word": "skodelica čaja",
+      "en": "skodelica čaja",
+      "ru": [
+        "чашка чая"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cup-of-tea",
+      "sourceIds": [
+        "cup-of-tea"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zeliscen",
+      "word": "zeliščen",
+      "en": "zeliščen",
+      "ru": [
+        "травяной"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "herbal",
+      "sourceIds": [
+        "herbal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lacen",
+      "word": "lačen",
+      "en": "lačen",
+      "ru": [
+        "голодный"
+      ],
+      "example": "Bil sem lačen kot volk.",
+      "level": "B1",
+      "sourceId": "peckish",
+      "sourceIds": [
+        "peckish"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pogoltniti",
+      "word": "pogoltniti",
+      "en": "pogoltniti",
+      "ru": [
+        "глотать",
+        "сглатывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gulp",
+      "sourceIds": [
+        "gulp"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hrana-za-s-seboj",
+      "word": "hrana za s seboj",
+      "en": "hrana za s seboj",
+      "ru": [
+        "еда навынос"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "takeaway",
+      "sourceIds": [
+        "takeaway"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sumenje",
+      "word": "šumenje",
+      "en": "šumenje",
+      "ru": [
+        "шипение",
+        "шипучий напиток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fizz",
+      "sourceIds": [
+        "fizz"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "peska",
+      "word": "peška",
+      "en": "peška",
+      "ru": [
+        "зернышко",
+        "косточка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pip",
+      "sourceIds": [
+        "pip"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ostriga",
+      "word": "ostriga",
+      "en": "ostriga",
+      "ru": [
+        "устрица"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "oyster",
+      "sourceIds": [
+        "oyster"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sladki-koren",
+      "word": "sladki koren",
+      "en": "sladki koren",
+      "ru": [
+        "лакрица"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquorice",
+      "sourceIds": [
+        "liquorice"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "asortiman",
+      "word": "asortiman",
+      "en": "asortiman",
+      "ru": [
+        "ассорти"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "allsort",
+      "sourceIds": [
+        "allsort"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rizota",
+      "word": "rižota",
+      "en": "rižota",
+      "ru": [
+        "ризотто"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "risotto",
+      "sourceIds": [
+        "risotto"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "enoloncnica",
+      "word": "enolončnica",
+      "en": "enolončnica",
+      "ru": [
+        "запеканка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "casserole",
+      "sourceIds": [
+        "casserole"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "brownie",
+      "word": "brownie",
+      "en": "brownie",
+      "ru": [
+        "брауни"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brownie",
+      "sourceIds": [
+        "brownie"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pita-v-loncku",
+      "word": "pita v lončku",
+      "en": "pita v lončku",
+      "ru": [
+        "пирог в горшочке"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "potpie",
+      "sourceIds": [
+        "potpie"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kuhinja",
+      "word": "kuhinja",
+      "en": "kuhinja",
+      "ru": [
+        "кухня"
+      ],
+      "example": "Koliko stane nova kuhinja?",
+      "level": "B1",
+      "sourceId": "cuisine",
+      "sourceIds": [
+        "cuisine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "obed",
+      "word": "obed",
+      "en": "obed",
+      "ru": [
+        "ланч",
+        "обед"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "luncheon",
+      "sourceIds": [
+        "luncheon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "na-osnovi-karija",
+      "word": "na osnovi karija",
+      "en": "na osnovi karija",
+      "ru": [
+        "на основе карри"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "curry-based",
+      "sourceIds": [
+        "curry-based"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gastronomsko",
+      "word": "gastronomsko",
+      "en": "gastronomsko",
+      "ru": [
+        "гастрономически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gastronomically",
+      "sourceIds": [
+        "gastronomically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "jedilna-palcka",
+      "word": "jedilna palčka",
+      "en": "jedilna palčka",
+      "ru": [
+        "палочка для еды"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chopstick",
+      "sourceIds": [
+        "chopstick"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ogljikov-hidrat",
+      "word": "ogljikov hidrat",
+      "en": "ogljikov hidrat",
+      "ru": [
+        "углевод"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carbohydrate",
+      "sourceIds": [
+        "carbohydrate"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "medica",
+      "word": "medica",
+      "en": "medica",
+      "ru": [
+        "медовуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mead",
+      "sourceIds": [
+        "mead"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "minestra",
+      "word": "mineštra",
+      "en": "mineštra",
+      "ru": [
+        "минестроне"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "minestrone",
+      "sourceIds": [
+        "minestrone"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "karbonara",
+      "word": "karbonara",
+      "en": "karbonara",
+      "ru": [
+        "карбонара"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carbonara",
+      "sourceIds": [
+        "carbonara"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "absint",
+      "word": "absint",
+      "en": "absint",
+      "ru": [
+        "абсент"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "absinthe",
+      "sourceIds": [
+        "absinthe"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "petersilj",
+      "word": "peteršilj",
+      "en": "peteršilj",
+      "ru": [
+        "петрушка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parsley",
+      "sourceIds": [
+        "parsley"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "masten",
+      "word": "masten",
+      "en": "masten",
+      "ru": [
+        "жирный",
+        "засаленный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "greasy",
+      "sourceIds": [
+        "greasy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "hrustljav",
+      "word": "hrustljav",
+      "en": "hrustljav",
+      "ru": [
+        "хрустящий",
+        "свежий",
+        "четкий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crisp",
+      "sourceIds": [
+        "crisp"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sliva",
+      "word": "sliva",
+      "en": "sliva",
+      "ru": [
+        "слива"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "plum",
+      "sourceIds": [
+        "plum"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "flan",
+      "word": "flan",
+      "en": "flan",
+      "ru": [
+        "флан",
+        "открытый пирог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "flan",
+      "sourceIds": [
+        "flan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kremast",
+      "word": "kremast",
+      "en": "kremast",
+      "ru": [
+        "напоминающий заварной крем"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "custardy",
+      "sourceIds": [
+        "custardy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "puding",
+      "word": "puding",
+      "en": "puding",
+      "ru": [
+        "пудинг"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pudding",
+      "sourceIds": [
+        "pudding"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "polpeta",
+      "word": "polpeta",
+      "en": "polpeta",
+      "ru": [
+        "котлета",
+        "пирожок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "patty",
+      "sourceIds": [
+        "patty"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "plesniv",
+      "word": "plesniv",
+      "en": "plesniv",
+      "ru": [
+        "плесневелый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "moldy",
+      "sourceIds": [
+        "moldy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "brusnica",
+      "word": "brusnica",
+      "en": "brusnica",
+      "ru": [
+        "клюква"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cranberry",
+      "sourceIds": [
+        "cranberry"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "jajcevec",
+      "word": "jajčevec",
+      "en": "jajčevec",
+      "ru": [
+        "баклажан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eggplant",
+      "sourceIds": [
+        "eggplant"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ziti",
+      "word": "ziti",
+      "en": "ziti",
+      "ru": [
+        "зити (вид пасты)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ziti",
+      "sourceIds": [
+        "ziti"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kolacek-scone",
+      "word": "kolaček scone",
+      "en": "kolaček scone",
+      "ru": [
+        "скон (булочка)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "scone",
+      "sourceIds": [
+        "scone"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kapucino",
+      "word": "kapučino",
+      "en": "kapučino",
+      "ru": [
+        "капучино"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cappuccino",
+      "sourceIds": [
+        "cappuccino"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "posnet",
+      "word": "posnet",
+      "en": "posnet",
+      "ru": [
+        "обезжиренный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nonfat",
+      "sourceIds": [
+        "nonfat"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kavarna",
+      "word": "kavarna",
+      "en": "kavarna",
+      "ru": [
+        "кафе"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cafe",
+      "sourceIds": [
+        "cafe"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "peaberry",
+      "word": "peaberry",
+      "en": "peaberry",
+      "ru": [
+        "пиберри"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peaberry",
+      "sourceIds": [
+        "peaberry"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "calzone",
+      "word": "calzone",
+      "en": "calzone",
+      "ru": [
+        "кальцоне"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "calzone",
+      "sourceIds": [
+        "calzone"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mocarela",
+      "word": "mocarela",
+      "en": "mocarela",
+      "ru": [
+        "моцарелла"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mozzarella",
+      "sourceIds": [
+        "mozzarella"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bageta",
+      "word": "bageta",
+      "en": "bageta",
+      "ru": [
+        "багет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "filone",
+      "sourceIds": [
+        "filone"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "predjed",
+      "word": "predjed",
+      "en": "predjed",
+      "ru": [
+        "антипасто"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "antipasto",
+      "sourceIds": [
+        "antipasto"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "braciole",
+      "word": "braciole",
+      "en": "braciole",
+      "ru": [
+        "брачоле"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "braciole",
+      "sourceIds": [
+        "braciole"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "grapa",
+      "word": "grapa",
+      "en": "grapa",
+      "ru": [
+        "граппа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grappa",
+      "sourceIds": [
+        "grappa"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hrana",
+      "word": "hrana",
+      "en": "hrana",
+      "ru": [
+        "питание",
+        "пища"
+      ],
+      "example": "Hrana ni bila preveč okusna.",
+      "level": "B1",
+      "sourceId": "nourishment",
+      "sourceIds": [
+        "nourishment"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prsi",
+      "word": "prsi",
+      "en": "prsi",
+      "ru": [
+        "грудинка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brisket",
+      "sourceIds": [
+        "brisket"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "mlecni-izdelki",
+      "word": "mlečni izdelki",
+      "en": "mlečni izdelki",
+      "ru": [
+        "молочные продукты"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dairy",
+      "sourceIds": [
+        "dairy"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

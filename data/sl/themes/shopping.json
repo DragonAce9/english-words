@@ -1,0 +1,2486 @@
+{
+  "id": "shopping",
+  "title": "Покупки",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "oglasevati",
+      "word": "oglaševati",
+      "en": "oglaševati",
+      "ru": [
+        "извещать",
+        "информировать",
+        "объявлять"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "advertise",
+      "sourceIds": [
+        "advertise"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "reklama",
+      "word": "reklama",
+      "en": "reklama",
+      "ru": [
+        "реклама",
+        "анонс",
+        "заявление"
+      ],
+      "example": "Življenjepis je samo reklama.",
+      "level": "B1",
+      "sourceId": "advertisement",
+      "sourceIds": [
+        "advertisement"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oglasevalec",
+      "word": "oglaševalec",
+      "en": "oglaševalec",
+      "ru": [
+        "рекламодатель",
+        "рекламодательница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "advertiser",
+      "sourceIds": [
+        "advertiser"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "oglasevanje",
+      "word": "oglaševanje",
+      "en": "oglaševanje",
+      "ru": [
+        "реклама"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "advertising",
+      "sourceIds": [
+        "advertising"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "cenovno-dostopen",
+      "word": "cenovno dostopen",
+      "en": "cenovno dostopen",
+      "ru": [
+        "доступный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "affordable",
+      "sourceIds": [
+        "affordable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prehod",
+      "word": "prehod",
+      "en": "prehod",
+      "ru": [
+        "придел",
+        "проход"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "aisle",
+      "sourceIds": [
+        "aisle"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drazba",
+      "word": "dražba",
+      "en": "dražba",
+      "ru": [
+        "аукцион",
+        "продавать с аукциона",
+        "продавать с молотка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "auction",
+      "sourceIds": [
+        "auction"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "drazitelj",
+      "word": "dražitelj",
+      "en": "dražitelj",
+      "ru": [
+        "аукционист",
+        "аукционистка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "auctioneer",
+      "sourceIds": [
+        "auctioneer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "torba",
+      "word": "torba",
+      "en": "torba",
+      "ru": [
+        "сумка",
+        "пакет",
+        "мешок"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "bag",
+      "sourceIds": [
+        "bag"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dobra-kupcija",
+      "word": "dobra kupčija",
+      "en": "dobra kupčija",
+      "ru": [
+        "товар, купленный по дешёвке",
+        "сделка",
+        "заключать сделку"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bargain",
+      "sourceIds": [
+        "bargain"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kos",
+      "word": "koš",
+      "en": "koš",
+      "ru": [
+        "корзина",
+        "корзинка",
+        "кошница"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "basket",
+      "sourceIds": [
+        "basket"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ponudba",
+      "word": "ponudba",
+      "en": "ponudba",
+      "ru": [
+        "заявка",
+        "предлагаемая цена",
+        "ставка"
+      ],
+      "example": "Zavračam tvojo ponudbo.",
+      "level": "A2",
+      "sourceId": "bid",
+      "sourceIds": [
+        "bid"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "znamka",
+      "word": "znamka",
+      "en": "znamka",
+      "ru": [
+        "клеймо",
+        "тавро",
+        "знак"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "brand",
+      "sourceIds": [
+        "brand"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kupovati",
+      "word": "kupovati",
+      "en": "kupovati",
+      "ru": [
+        "покупать"
+      ],
+      "example": "Nihče ne more kupiti sreče.",
+      "level": "A1",
+      "sourceId": "buy",
+      "sourceIds": [
+        "buy"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nakupovalec",
+      "word": "nakupovalec",
+      "en": "nakupovalec",
+      "ru": [
+        "покупатель",
+        "покупательница"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "buyer",
+      "sourceIds": [
+        "buyer",
+        "purchaser"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kartica",
+      "word": "kartica",
+      "en": "kartica",
+      "ru": [
+        "карта",
+        "козырь",
+        "карточка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "card",
+      "sourceIds": [
+        "card"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "voz",
+      "word": "voz",
+      "en": "voz",
+      "ru": [
+        "воз",
+        "арба",
+        "повозка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "cart",
+      "sourceIds": [
+        "cart"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gotovina",
+      "word": "gotovina",
+      "en": "gotovina",
+      "ru": [
+        "деньги",
+        "нал",
+        "наличные деньги"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "cash",
+      "sourceIds": [
+        "cash"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "blagajnik",
+      "word": "blagajnik",
+      "en": "blagajnik",
+      "ru": [
+        "кассир",
+        "кассирша"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cashier",
+      "sourceIds": [
+        "cashier"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "katalog",
+      "word": "katalog",
+      "en": "katalog",
+      "ru": [
+        "каталог",
+        "перечень",
+        "список"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "catalogue",
+      "sourceIds": [
+        "catalogue"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drobiz",
+      "word": "drobiž",
+      "en": "drobiž",
+      "ru": [
+        "сдача"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "change",
+      "sourceIds": [
+        "change"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "garderoba",
+      "word": "garderoba",
+      "en": "garderoba",
+      "ru": [
+        "примерочная",
+        "раздевалка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "placilo",
+      "word": "plačilo",
+      "en": "plačilo",
+      "ru": [
+        "цена",
+        "плата",
+        "такса"
+      ],
+      "example": "Plačilo zapade z današnjim dnem.",
+      "level": "A2",
+      "sourceId": "charge",
+      "sourceIds": [
+        "charge"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polnilnik",
+      "word": "polnilnik",
+      "en": "polnilnik",
+      "ru": [
+        "зарядка",
+        "зарядное устройство",
+        "заряжалка"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "charger",
+      "sourceIds": [
+        "charger"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "poceni",
+      "word": "poceni",
+      "en": "poceni",
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "cheap",
+      "sourceIds": [
+        "cheap"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "poceni",
+      "word": "poceni",
+      "en": "poceni",
+      "ru": [
+        "более дешевый"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "cheaper",
+      "sourceIds": [
+        "cheaper"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "poceni",
+      "word": "poceni",
+      "en": "poceni",
+      "ru": [
+        "дёшево"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cheaply",
+      "sourceIds": [
+        "cheaply"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "blagajna",
+      "word": "blagajna",
+      "en": "blagajna",
+      "ru": [
+        "касса"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "checkout",
+      "sourceIds": [
+        "checkout",
+        "checkstand"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "klient",
+      "word": "klient",
+      "en": "klient",
+      "ru": [
+        "клиент",
+        "заказчик",
+        "заказчица"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "client",
+      "sourceIds": [
+        "client",
+        "customer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "plasc",
+      "word": "plašč",
+      "en": "plašč",
+      "ru": [
+        "пальто"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "coat",
+      "sourceIds": [
+        "coat"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "trgovina",
+      "word": "trgovina",
+      "en": "trgovina",
+      "ru": [
+        "торговля",
+        "коммерция",
+        "сношение"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "commerce",
+      "sourceIds": [
+        "commerce"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "komercialen",
+      "word": "komercialen",
+      "en": "komercialen",
+      "ru": [
+        "коммерческий",
+        "торговый",
+        "реклама"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "commercial",
+      "sourceIds": [
+        "commercial"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "komercializacija",
+      "word": "komercializacija",
+      "en": "komercializacija",
+      "ru": [
+        "коммерциализация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "commercialization",
+      "sourceIds": [
+        "commercialization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "komercializirati",
+      "word": "komercializirati",
+      "en": "komercializirati",
+      "ru": [
+        "коммерциализировать"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "commercialize",
+      "sourceIds": [
+        "commercialize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "komercialno",
+      "word": "komercialno",
+      "en": "komercialno",
+      "ru": [
+        "коммерчески"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "commercially",
+      "sourceIds": [
+        "commercially"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "potrosnik",
+      "word": "potrošnik",
+      "en": "potrošnik",
+      "ru": [
+        "потребитель",
+        "потребительница"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "consumer",
+      "sourceIds": [
+        "consumer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "potrosnistvo",
+      "word": "potrošništvo",
+      "en": "potrošništvo",
+      "ru": [
+        "потребительство"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "consumerism",
+      "sourceIds": [
+        "consumerism"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "stroski",
+      "word": "stroški",
+      "en": "stroški",
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "cost",
+      "sourceIds": [
+        "cost"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drag",
+      "word": "drag",
+      "en": "drag",
+      "ru": [
+        "дорогой",
+        "дорогостоящий",
+        "ценный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "costly",
+      "sourceIds": [
+        "costly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pult",
+      "word": "pult",
+      "en": "pult",
+      "ru": [
+        "прилавок",
+        "стойка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ponarejen",
+      "word": "ponarejen",
+      "en": "ponarejen",
+      "ru": [
+        "контрафактный",
+        "поддельный",
+        "фальшивый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "counterfeit",
+      "sourceIds": [
+        "counterfeit"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ponarejevalec",
+      "word": "ponarejevalec",
+      "en": "ponarejevalec",
+      "ru": [
+        "фальшивомонетчик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "counterfeiter",
+      "sourceIds": [
+        "counterfeiter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kontrolni-odrezek",
+      "word": "kontrolni odrezek",
+      "en": "kontrolni odrezek",
+      "ru": [
+        "корешок"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "counterfoil",
+      "sourceIds": [
+        "counterfoil"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "protiponudba",
+      "word": "protiponudba",
+      "en": "protiponudba",
+      "ru": [
+        "встречное предложение",
+        "контрпредложение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "counteroffer",
+      "sourceIds": [
+        "counteroffer"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "delovni-pult",
+      "word": "delovni pult",
+      "en": "delovni pult",
+      "ru": [
+        "столешница"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "countertop",
+      "sourceIds": [
+        "countertop"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kupon",
+      "word": "kupon",
+      "en": "kupon",
+      "ru": [
+        "ваучер",
+        "купон",
+        "талон"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "coupon",
+      "sourceIds": [
+        "coupon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "trgovec",
+      "word": "trgovec",
+      "en": "trgovec",
+      "ru": [
+        "торговец",
+        "дилер",
+        "маклер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dealer",
+      "sourceIds": [
+        "dealer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dostava",
+      "word": "dostava",
+      "en": "dostava",
+      "ru": [
+        "доставка",
+        "завоз",
+        "поставка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "delivery",
+      "sourceIds": [
+        "delivery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dostavljavec",
+      "word": "dostavljavec",
+      "en": "dostavljavec",
+      "ru": [
+        "доставщик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "deliveryman",
+      "sourceIds": [
+        "deliveryman"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "popust",
+      "word": "popust",
+      "en": "popust",
+      "ru": [
+        "дисконт",
+        "скидка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "discount",
+      "sourceIds": [
+        "discount"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "menjava",
+      "word": "menjava",
+      "en": "menjava",
+      "ru": [
+        "обмен",
+        "биржа",
+        "обмениваться"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "exchange",
+      "sourceIds": [
+        "exchange"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "drag",
+      "word": "drag",
+      "en": "drag",
+      "ru": [
+        "дорогой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "expensive",
+      "sourceIds": [
+        "expensive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "drago",
+      "word": "drago",
+      "en": "drago",
+      "ru": [
+        "дорого"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "expensively",
+      "sourceIds": [
+        "expensively"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "pristojbina",
+      "word": "pristojbina",
+      "en": "pristojbina",
+      "ru": [
+        "сбор",
+        "взнос",
+        "вознаграждение"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fee",
+      "sourceIds": [
+        "fee"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pristajati",
+      "word": "pristajati",
+      "en": "pristajati",
+      "ru": [
+        "сидеть по фигуре",
+        "подходить по размеру"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fit",
+      "sourceIds": [
+        "fit"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "krojac",
+      "word": "krojač",
+      "en": "krojač",
+      "ru": [
+        "примерщик",
+        "портной"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fitter",
+      "sourceIds": [
+        "fitter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pomerjanje",
+      "word": "pomerjanje",
+      "en": "pomerjanje",
+      "ru": [
+        "примерка",
+        "подгонка"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "fitting",
+      "sourceIds": [
+        "fitting"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "kabina-za-pomerjanje",
+      "word": "kabina za pomerjanje",
+      "en": "kabina za pomerjanje",
+      "ru": [
+        "примерочная комната"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "svoboden",
+      "word": "svoboden",
+      "en": "svoboden",
+      "ru": [
+        "свободный",
+        "вольный",
+        "бесплатно"
+      ],
+      "example": "Kaj pomeni biti svoboden?",
+      "level": "A1",
+      "sourceId": "free",
+      "sourceIds": [
+        "free"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "darilo",
+      "word": "darilo",
+      "en": "darilo",
+      "ru": [
+        "дар",
+        "гостинец",
+        "подарок"
+      ],
+      "example": "Egipt je darilo Nila.",
+      "level": "A1",
+      "sourceId": "gift",
+      "sourceIds": [
+        "gift"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "blago",
+      "word": "blago",
+      "en": "blago",
+      "ru": [
+        "благо",
+        "добро",
+        "продукт"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "goods",
+      "sourceIds": [
+        "goods"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "trgovina-z-zivili",
+      "word": "trgovina z živili",
+      "en": "trgovina z živili",
+      "ru": [
+        "продуктовый магазин"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "grocery",
+      "sourceIds": [
+        "grocery",
+        "bodega"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "jamstvo",
+      "word": "jamstvo",
+      "en": "jamstvo",
+      "ru": [
+        "гарантия",
+        "порука",
+        "поручительство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "guarantee",
+      "sourceIds": [
+        "guarantee"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "zaloga",
+      "word": "zaloga",
+      "en": "zaloga",
+      "ru": [
+        "запас",
+        "инвентарь",
+        "опись"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "inventory",
+      "sourceIds": [
+        "inventory"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "predmet",
+      "word": "predmet",
+      "en": "predmet",
+      "ru": [
+        "вещь",
+        "предмет",
+        "штука"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "item",
+      "sourceIds": [
+        "item"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "podloga",
+      "word": "podloga",
+      "en": "podloga",
+      "ru": [
+        "подкладка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "lining",
+      "sourceIds": [
+        "lining"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "razkosje",
+      "word": "razkošje",
+      "en": "razkošje",
+      "ru": [
+        "люкс",
+        "роскошь",
+        "предмет роскоши"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "luxury",
+      "sourceIds": [
+        "luxury"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "nakupovalno-sredisce",
+      "word": "nakupovalno središče",
+      "en": "nakupovalno središče",
+      "ru": [
+        "молл",
+        "торговый центр"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "mall",
+      "sourceIds": [
+        "mall"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "trg",
+      "word": "trg",
+      "en": "trg",
+      "ru": [
+        "рынок",
+        "рыночный"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "market",
+      "sourceIds": [
+        "market"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "blago",
+      "word": "blago",
+      "en": "blago",
+      "ru": [
+        "товар"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "merchandise",
+      "sourceIds": [
+        "merchandise",
+        "wares"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "trgovec",
+      "word": "trgovec",
+      "en": "trgovec",
+      "ru": [
+        "купец",
+        "торговец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "merchant",
+      "sourceIds": [
+        "merchant"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ponuditi",
+      "word": "ponuditi",
+      "en": "ponuditi",
+      "ru": [
+        "предлагать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "offer",
+      "sourceIds": [
+        "offer"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ponudba",
+      "word": "ponudba",
+      "en": "ponudba",
+      "ru": [
+        "предложение"
+      ],
+      "example": "Zavračam tvojo ponudbo.",
+      "level": "B1",
+      "sourceId": "offering",
+      "sourceIds": [
+        "offering"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "narocilo",
+      "word": "naročilo",
+      "en": "naročilo",
+      "ru": [
+        "заказ",
+        "заказывать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "order",
+      "sourceIds": [
+        "order"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "izhod",
+      "word": "izhod",
+      "en": "izhod",
+      "ru": [
+        "выход",
+        "отдушина",
+        "сток"
+      ],
+      "example": "Oprostite, kje je izhod?",
+      "level": "B1",
+      "sourceId": "outlet",
+      "sourceIds": [
+        "outlet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paket",
+      "word": "paket",
+      "en": "paket",
+      "ru": [
+        "пачка",
+        "пакет",
+        "связка"
+      ],
+      "example": "Kje je moj paket?",
+      "level": "A2",
+      "sourceId": "pack",
+      "sourceIds": [
+        "pack"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paket",
+      "word": "paket",
+      "en": "paket",
+      "ru": [
+        "пакет",
+        "посылка",
+        "свёрток"
+      ],
+      "example": "Kje je moj paket?",
+      "level": "A2",
+      "sourceId": "package",
+      "sourceIds": [
+        "package"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paket",
+      "word": "paket",
+      "en": "paket",
+      "ru": [
+        "пакетирование",
+        "упаковка"
+      ],
+      "example": "Kje je moj paket?",
+      "level": "B1",
+      "sourceId": "packaging",
+      "sourceIds": [
+        "packaging"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nabito-poln",
+      "word": "nabito poln",
+      "en": "nabito poln",
+      "ru": [
+        "забитый",
+        "заполненный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "packed",
+      "sourceIds": [
+        "packed"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pakirec",
+      "word": "pakirec",
+      "en": "pakirec",
+      "ru": [
+        "упаковщик",
+        "упаковщица"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "packer",
+      "sourceIds": [
+        "packer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "placati",
+      "word": "plačati",
+      "en": "plačati",
+      "ru": [
+        "платить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "pay",
+      "sourceIds": [
+        "pay"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "placilo",
+      "word": "plačilo",
+      "en": "plačilo",
+      "ru": [
+        "платёж",
+        "оплата",
+        "плата"
+      ],
+      "example": "Plačilo zapade z današnjim dnem.",
+      "level": "A1",
+      "sourceId": "payment",
+      "sourceIds": [
+        "payment"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vrhunski",
+      "word": "vrhunski",
+      "en": "vrhunski",
+      "ru": [
+        "премиальный",
+        "премиум класса",
+        "бонус"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "premium",
+      "sourceIds": [
+        "premium"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prezentizem",
+      "word": "prezentizem",
+      "en": "prezentizem",
+      "ru": [
+        "презентизм"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "presentism",
+      "sourceIds": [
+        "presentism"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cena",
+      "word": "cena",
+      "en": "cena",
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "example": "Cena mesa padla.",
+      "level": "A1",
+      "sourceId": "price",
+      "sourceIds": [
+        "price"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "izdelek",
+      "word": "izdelek",
+      "en": "izdelek",
+      "ru": [
+        "выработка",
+        "продукция",
+        "продукт"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "product",
+      "sourceIds": [
+        "product"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "proizvodnja",
+      "word": "proizvodnja",
+      "en": "proizvodnja",
+      "ru": [
+        "производство",
+        "выработка",
+        "добыча"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "production",
+      "sourceIds": [
+        "production"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "produktiven",
+      "word": "produktiven",
+      "en": "produktiven",
+      "ru": [
+        "продуктивный",
+        "производительный",
+        "конструктивный"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "productive",
+      "sourceIds": [
+        "productive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "produktivnost",
+      "word": "produktivnost",
+      "en": "produktivnost",
+      "ru": [
+        "продуктивность",
+        "производительность"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "productivity",
+      "sourceIds": [
+        "productivity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "produktizacija",
+      "word": "produktizacija",
+      "en": "produktizacija",
+      "ru": [
+        "продуктизация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "productization",
+      "sourceIds": [
+        "productization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "promocija",
+      "word": "promocija",
+      "en": "promocija",
+      "ru": [
+        "промо"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "promo",
+      "sourceIds": [
+        "promo"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "promocija",
+      "word": "promocija",
+      "en": "promocija",
+      "ru": [
+        "повышение",
+        "продвижение",
+        "промоушен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "promotion",
+      "sourceIds": [
+        "promotion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nakup",
+      "word": "nakup",
+      "en": "nakup",
+      "ru": [
+        "покупка",
+        "купля",
+        "купля-продажа"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "purchase",
+      "sourceIds": [
+        "purchase"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nakup",
+      "word": "nakup",
+      "en": "nakup",
+      "ru": [
+        "покупка",
+        "приобретение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "purchasing",
+      "sourceIds": [
+        "purchasing"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vrsta",
+      "word": "vrsta",
+      "en": "vrsta",
+      "ru": [
+        "очередь",
+        "стек",
+        "становиться в очередь"
+      ],
+      "example": "Katera vrsta ribe je bolj zdrava: morska ali sladkovodna?",
+      "level": "C1",
+      "sourceId": "queue",
+      "sourceIds": [
+        "queue"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potrdilo",
+      "word": "potrdilo",
+      "en": "potrdilo",
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "receipt",
+      "sourceIds": [
+        "receipt"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "vracilo",
+      "word": "vračilo",
+      "en": "vračilo",
+      "ru": [
+        "возврат",
+        "получение вновь",
+        "получение обратно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "recovery--shopping",
+      "sourceIds": [
+        "recovery--shopping"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "vracilo-denarja",
+      "word": "vračilo denarja",
+      "en": "vračilo denarja",
+      "ru": [
+        "возврат",
+        "возвращённая сумма",
+        "возмещение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "refund",
+      "sourceIds": [
+        "refund"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "maloprodajen",
+      "word": "maloprodajen",
+      "en": "maloprodajen",
+      "ru": [
+        "розничный",
+        "в розницу",
+        "розничная продажа"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "retail",
+      "sourceIds": [
+        "retail"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "trgovec-na-drobno",
+      "word": "trgovec na drobno",
+      "en": "trgovec na drobno",
+      "ru": [
+        "ритейлер",
+        "розничный торговец"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "retailer",
+      "sourceIds": [
+        "retailer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vrniti",
+      "word": "vrniti",
+      "en": "vrniti",
+      "ru": [
+        "возвращаться",
+        "возвращать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "return",
+      "sourceIds": [
+        "return"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "prodaja",
+      "word": "prodaja",
+      "en": "prodaja",
+      "ru": [
+        "продажа",
+        "распродажа",
+        "сейл"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "sale",
+      "sourceIds": [
+        "sale"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "shraniti",
+      "word": "shraniti",
+      "en": "shraniti",
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "save",
+      "sourceIds": [
+        "save"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "varcevanje",
+      "word": "varčevanje",
+      "en": "varčevanje",
+      "ru": [
+        "экономия",
+        "накопление",
+        "сбережение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "saving",
+      "sourceIds": [
+        "saving"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "prodajati",
+      "word": "prodajati",
+      "en": "prodajati",
+      "ru": [
+        "продавать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "sell",
+      "sourceIds": [
+        "sell",
+        "vend"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "prodajalec",
+      "word": "prodajalec",
+      "en": "prodajalec",
+      "ru": [
+        "продавец",
+        "вендор",
+        "продавщица"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "seller",
+      "sourceIds": [
+        "seller",
+        "vendor"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "polica",
+      "word": "políca",
+      "en": "políca",
+      "ru": [
+        "полка",
+        "шельф"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "shelf",
+      "sourceIds": [
+        "shelf"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dostava",
+      "word": "dostava",
+      "en": "dostava",
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trgovina",
+      "word": "trgovina",
+      "en": "trgovina",
+      "ru": [
+        "магазин",
+        "бутик",
+        "лавка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "shop",
+      "sourceIds": [
+        "shop"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kupec",
+      "word": "kupec",
+      "en": "kupec",
+      "ru": [
+        "покупатель",
+        "покупательница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "shopper",
+      "sourceIds": [
+        "shopper"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nakupovanje",
+      "word": "nakupovanje",
+      "en": "nakupovanje",
+      "ru": [
+        "купля",
+        "покупка",
+        "покупки"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "shopping",
+      "sourceIds": [
+        "shopping"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "velikost",
+      "word": "velikost",
+      "en": "velikost",
+      "ru": [
+        "величина",
+        "объём",
+        "размер"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "size",
+      "sourceIds": [
+        "size"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zapravljati",
+      "word": "zapravljati",
+      "en": "zapravljati",
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spend",
+      "sourceIds": [
+        "spend"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zaloga",
+      "word": "zaloga",
+      "en": "zaloga",
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "stock",
+      "sourceIds": [
+        "stock"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trgovina",
+      "word": "trgovina",
+      "en": "trgovina",
+      "ru": [
+        "магазин"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "store",
+      "sourceIds": [
+        "store"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trgovina",
+      "word": "trgovina",
+      "en": "trgovina",
+      "ru": [
+        "торговля",
+        "ремесло",
+        "обмен"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "trade",
+      "sourceIds": [
+        "trade"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trgovec",
+      "word": "trgovec",
+      "en": "trgovec",
+      "ru": [
+        "коммерсант",
+        "купец",
+        "продавец"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "trader",
+      "sourceIds": [
+        "trader"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pomeriti",
+      "word": "pomeriti",
+      "en": "pomeriti",
+      "ru": [
+        "примерять"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "try-on",
+      "sourceIds": [
+        "try-on"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "garancija",
+      "word": "garancija",
+      "en": "garancija",
+      "ru": [
+        "гарантия",
+        "ручательство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "warranty",
+      "sourceIds": [
+        "warranty"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "veleprodajen",
+      "word": "veleprodajen",
+      "en": "veleprodajen",
+      "ru": [
+        "оптовый",
+        "оптом",
+        "оптовая торговля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wholesale",
+      "sourceIds": [
+        "wholesale"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "veletrgovec",
+      "word": "veletrgovec",
+      "en": "veletrgovec",
+      "ru": [
+        "оптовик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "wholesaler",
+      "sourceIds": [
+        "wholesaler"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "v-trgovini",
+      "word": "v trgovini",
+      "en": "v trgovini",
+      "ru": [
+        "в магазине",
+        "внутримагазинный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "in-store",
+      "sourceIds": [
+        "in-store"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "prodajno-mesto",
+      "word": "prodajno mesto",
+      "en": "prodajno mesto",
+      "ru": [
+        "точка продажи"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pos",
+      "sourceIds": [
+        "pos"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "supermarket",
+      "word": "supermarket",
+      "en": "supermarket",
+      "ru": [
+        "супермаркет"
+      ],
+      "example": "Šla sem v supermarket.",
+      "level": "B1",
+      "sourceId": "supermarket",
+      "sourceIds": [
+        "supermarket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rabljen",
+      "word": "rabljen",
+      "en": "rabljen",
+      "ru": [
+        "подержанный",
+        "бывший в употреблении"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "secondhand",
+      "sourceIds": [
+        "secondhand"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prodajen",
+      "word": "prodajen",
+      "en": "prodajen",
+      "ru": [
+        "ходовой",
+        "ликвидный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "saleable",
+      "sourceIds": [
+        "saleable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "neprodan",
+      "word": "neprodan",
+      "en": "neprodan",
+      "ru": [
+        "нераспроданный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unsold",
+      "sourceIds": [
+        "unsold"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "krosnjariti",
+      "word": "krošnjariti",
+      "en": "krošnjariti",
+      "ru": [
+        "торговать вразнос",
+        "распространять"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peddle",
+      "sourceIds": [
+        "peddle"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hipermarket",
+      "word": "hipermarket",
+      "en": "hipermarket",
+      "ru": [
+        "гипермаркет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypermarket",
+      "sourceIds": [
+        "hypermarket"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "prodajalka",
+      "word": "prodajalka",
+      "en": "prodajalka",
+      "ru": [
+        "продавщица"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shop-girl",
+      "sourceIds": [
+        "shop-girl"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "paket",
+      "word": "paket",
+      "en": "paket",
+      "ru": [
+        "пакет"
+      ],
+      "example": "Kje je moj paket?",
+      "level": "B1",
+      "sourceId": "packet",
+      "sourceIds": [
+        "packet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cenovno-ugoden",
+      "word": "cenovno ugoden",
+      "en": "cenovno ugoden",
+      "ru": [
+        "по разумной цене"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reasonably-priced",
+      "sourceIds": [
+        "reasonably-priced"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "rabljen",
+      "word": "rabljen",
+      "en": "rabljen",
+      "ru": [
+        "подержанный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "second-hand",
+      "sourceIds": [
+        "second-hand"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kraja-v-trgovini",
+      "word": "kraja v trgovini",
+      "en": "kraja v trgovini",
+      "ru": [
+        "магазинная кража"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shoplifting",
+      "sourceIds": [
+        "shoplifting"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "brezplacno-darilo",
+      "word": "brezplačno darilo",
+      "en": "brezplačno darilo",
+      "ru": [
+        "халява",
+        "бесплатный подарок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "freebie",
+      "sourceIds": [
+        "freebie"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "barantati",
+      "word": "barantati",
+      "en": "barantati",
+      "ru": [
+        "торговаться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "haggle",
+      "sourceIds": [
+        "haggle"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "dva-za-enega",
+      "word": "dva za enega",
+      "en": "dva za enega",
+      "ru": [
+        "два по цене одного"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "two-for-one",
+      "sourceIds": [
+        "two-for-one"
+      ]
+    },
+    {
+      "id": "nakupovalna-torba",
+      "word": "nakupovalna torba",
+      "en": "nakupovalna torba",
+      "ru": [
+        "сумка-тоут",
+        "носить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tote",
+      "sourceIds": [
+        "tote"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ponaredek",
+      "word": "ponaredek",
+      "en": "ponaredek",
+      "ru": [
+        "подделка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "knockoff",
+      "sourceIds": [
+        "knockoff"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "posiljka",
+      "word": "pošiljka",
+      "en": "pošiljka",
+      "ru": [
+        "поставка",
+        "груз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shipment",
+      "sourceIds": [
+        "shipment"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vrhunski",
+      "word": "vrhunski",
+      "en": "vrhunski",
+      "ru": [
+        "высококлассный",
+        "дорогой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "high-end",
+      "sourceIds": [
+        "high-end"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "veleblagovnica",
+      "word": "veleblagovnica",
+      "en": "veleblagovnica",
+      "ru": [
+        "торговый центр",
+        "магазин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "emporium",
+      "sourceIds": [
+        "emporium"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "narocilo-na-debelo",
+      "word": "naročilo na debelo",
+      "en": "naročilo na debelo",
+      "ru": [
+        "оптовый заказ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bulk-ordering",
+      "sourceIds": [
+        "bulk-ordering"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "po-meri",
+      "word": "po meri",
+      "en": "po meri",
+      "ru": [
+        "сделанный на заказ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bespoke",
+      "sourceIds": [
+        "bespoke"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "nakit",
+      "word": "nakit",
+      "en": "nakit",
+      "ru": [
+        "ювелирные изделия",
+        "украшения"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "jewelry",
+      "sourceIds": [
+        "jewelry"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

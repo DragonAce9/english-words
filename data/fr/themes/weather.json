@@ -1,0 +1,1783 @@
+{
+  "id": "weather",
+  "title": "Погода",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "automne",
+      "word": "automne",
+      "en": "automne",
+      "sourceId": "autumn",
+      "sourceIds": [
+        "autumn"
+      ],
+      "ru": [
+        "осень"
+      ],
+      "gender": "m",
+      "example": "Les feuilles tombent en automne.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "blizzard",
+      "word": "blizzard",
+      "en": "blizzard",
+      "sourceId": "blizzard",
+      "sourceIds": [
+        "blizzard"
+      ],
+      "ru": [
+        "буран",
+        "вьюга",
+        "метелица"
+      ],
+      "gender": "m",
+      "example": "Un blizzard violent a bloqué toutes les routes.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "brise",
+      "word": "brise",
+      "en": "brise",
+      "sourceId": "breeze",
+      "sourceIds": [
+        "breeze"
+      ],
+      "ru": [
+        "бриз",
+        "ветерок",
+        "пустяк"
+      ],
+      "gender": "f",
+      "example": "Une légère brise souffle sur la mer.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "climat",
+      "word": "climat",
+      "en": "climat",
+      "sourceId": "climate",
+      "sourceIds": [
+        "climate"
+      ],
+      "ru": [
+        "климат"
+      ],
+      "gender": "m",
+      "example": "Le climat de cette région est très doux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nuage",
+      "word": "nuage",
+      "en": "nuage",
+      "sourceId": "cloud",
+      "sourceIds": [
+        "cloud"
+      ],
+      "ru": [
+        "облако",
+        "туча",
+        "рой"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de nuages dans le ciel aujourd'hui.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "nuageux",
+      "word": "nuageux",
+      "en": "nuageux",
+      "sourceId": "cloudy",
+      "sourceIds": [
+        "cloudy"
+      ],
+      "ru": [
+        "облачный",
+        "пасмурный",
+        "мутный"
+      ],
+      "gender": null,
+      "example": "Le ciel est très nuageux aujourd'hui.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "froid",
+      "word": "froid",
+      "en": "froid",
+      "sourceId": "cold",
+      "sourceIds": [
+        "cold"
+      ],
+      "ru": [
+        "студёный",
+        "холодный",
+        "холодно"
+      ],
+      "gender": null,
+      "example": "Il fait très froid aujourd'hui.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "frais",
+      "word": "frais",
+      "en": "frais",
+      "sourceId": "cool",
+      "sourceIds": [
+        "cool"
+      ],
+      "ru": [
+        "прохладный",
+        "холодноватый",
+        "классный"
+      ],
+      "gender": null,
+      "example": "Il fait frais ce matin.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "refroidissement",
+      "word": "refroidissement",
+      "en": "refroidissement",
+      "sourceId": "cooling",
+      "sourceIds": [
+        "cooling"
+      ],
+      "ru": [
+        "охлаждающий",
+        "охлаждение",
+        "похолодание"
+      ],
+      "gender": "m",
+      "example": "Le refroidissement du moteur est essentiel pour éviter la surchauffe.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "humide",
+      "word": "humide",
+      "en": "humide",
+      "sourceId": "damp",
+      "sourceIds": [
+        "damp"
+      ],
+      "ru": [
+        "сырой"
+      ],
+      "gender": null,
+      "example": "Il fait un temps humide aujourd'hui.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "aube",
+      "word": "aube",
+      "en": "aube",
+      "sourceId": "dawn",
+      "sourceIds": [
+        "dawn"
+      ],
+      "ru": [
+        "заря",
+        "рассвет",
+        "восход"
+      ],
+      "gender": "f",
+      "example": "Le soleil se lève à l'aube.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "aube",
+      "word": "aube",
+      "en": "aube",
+      "sourceId": "dawning",
+      "sourceIds": [
+        "dawning"
+      ],
+      "ru": [
+        "рассвет"
+      ],
+      "gender": "f",
+      "example": "Le soleil se lève à l'aube.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "diplome",
+      "word": "diplôme",
+      "en": "diplôme",
+      "sourceId": "degree",
+      "sourceIds": [
+        "degree"
+      ],
+      "ru": [
+        "диплом",
+        "степень",
+        "учёная степень"
+      ],
+      "gender": "m",
+      "example": "Il a obtenu son diplôme universitaire l'année dernière.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "rosee",
+      "word": "rosée",
+      "en": "rosée",
+      "sourceId": "dew",
+      "sourceIds": [
+        "dew"
+      ],
+      "ru": [
+        "роса",
+        "росинка",
+        "оросить"
+      ],
+      "gender": "f",
+      "example": "L'herbe est couverte de rosée le matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "secheresse",
+      "word": "sécheresse",
+      "en": "sécheresse",
+      "sourceId": "drought",
+      "sourceIds": [
+        "drought"
+      ],
+      "ru": [
+        "засуха",
+        "сушь",
+        "засушливость"
+      ],
+      "gender": "f",
+      "example": "La sécheresse a détruit toutes les récoltes cette année.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "resistant-a-la-secheresse",
+      "word": "résistant à la sécheresse",
+      "en": "résistant à la sécheresse",
+      "sourceId": "drought-tolerant",
+      "sourceIds": [
+        "drought-tolerant"
+      ],
+      "ru": [
+        "засухоустойчивый"
+      ],
+      "gender": null,
+      "example": "Cette plante est très résistante à la sécheresse.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "aride",
+      "word": "aride",
+      "en": "aride",
+      "sourceId": "droughty",
+      "sourceIds": [
+        "droughty"
+      ],
+      "ru": [
+        "засушливый"
+      ],
+      "gender": null,
+      "example": "Le climat de cette région est très aride.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "secher",
+      "word": "sécher",
+      "en": "sécher",
+      "sourceId": "dry",
+      "sourceIds": [
+        "dry"
+      ],
+      "ru": [
+        "сухой",
+        "высохнуть",
+        "высушить"
+      ],
+      "gender": null,
+      "example": "Il faut sécher les vêtements au soleil.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "crepuscule",
+      "word": "crépuscule",
+      "en": "crépuscule",
+      "sourceId": "dusk",
+      "sourceIds": [
+        "dusk"
+      ],
+      "ru": [
+        "сумерки"
+      ],
+      "gender": "m",
+      "example": "Le ciel devient rose au crépuscule.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tomber",
+      "word": "tomber",
+      "en": "tomber",
+      "sourceId": "fall",
+      "sourceIds": [
+        "fall"
+      ],
+      "ru": [
+        "падать"
+      ],
+      "gender": null,
+      "example": "Les feuilles tombent en automne.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "inondation",
+      "word": "inondation",
+      "en": "inondation",
+      "sourceId": "flood",
+      "sourceIds": [
+        "flood"
+      ],
+      "ru": [
+        "наводнение",
+        "паводок",
+        "потоп"
+      ],
+      "gender": "f",
+      "example": "La ville a été dévastée par une inondation.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "brouillard",
+      "word": "brouillard",
+      "en": "brouillard",
+      "sourceId": "fog",
+      "sourceIds": [
+        "fog"
+      ],
+      "ru": [
+        "туман",
+        "мгла"
+      ],
+      "gender": "m",
+      "example": "Le brouillard est très épais ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "brumeux",
+      "word": "brumeux",
+      "en": "brumeux",
+      "sourceId": "foggy",
+      "sourceIds": [
+        "foggy"
+      ],
+      "ru": [
+        "туманный",
+        "мглистый",
+        "смутный"
+      ],
+      "gender": null,
+      "example": "Il fait un temps brumeux ce matin.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "prevision",
+      "word": "prévision",
+      "en": "prévision",
+      "sourceId": "forecast",
+      "sourceIds": [
+        "forecast"
+      ],
+      "ru": [
+        "прогноз",
+        "предвидение",
+        "предсказание"
+      ],
+      "gender": "f",
+      "example": "La prévision météorologique annonce de la pluie pour demain.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "gel",
+      "word": "gel",
+      "en": "gel",
+      "sourceId": "freeze",
+      "sourceIds": [
+        "freeze"
+      ],
+      "ru": [
+        "заморозки",
+        "морозы",
+        "зависание"
+      ],
+      "gender": "m",
+      "example": "Les prévisions annoncent un fort gel pour cette nuit.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "glacial",
+      "word": "glacial",
+      "en": "glacial",
+      "sourceId": "freezing",
+      "sourceIds": [
+        "freezing"
+      ],
+      "ru": [
+        "холодный как лёд",
+        "ледяной",
+        "морозный"
+      ],
+      "gender": null,
+      "example": "Il fait un froid glacial dehors.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "gele",
+      "word": "gelé",
+      "en": "gelé",
+      "sourceId": "frozen",
+      "sourceIds": [
+        "frozen"
+      ],
+      "ru": [
+        "замороженный",
+        "замёрзший",
+        "мороженый"
+      ],
+      "gender": null,
+      "example": "Le lac est gelé en hiver.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "tempete",
+      "word": "tempête",
+      "en": "tempête",
+      "sourceId": "gale",
+      "sourceIds": [
+        "gale"
+      ],
+      "ru": [
+        "шторм",
+        "буря",
+        "порыв ветра"
+      ],
+      "gender": "f",
+      "example": "La tempête a causé des dégâts importants.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "greler",
+      "word": "grêler",
+      "en": "grêler",
+      "sourceId": "hail",
+      "sourceIds": [
+        "hail"
+      ],
+      "ru": [
+        "град"
+      ],
+      "gender": null,
+      "example": "Il a commencé à grêler soudainement.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "chaleur",
+      "word": "chaleur",
+      "en": "chaleur",
+      "sourceId": "heat",
+      "sourceIds": [
+        "heat"
+      ],
+      "ru": [
+        "тепло",
+        "жара",
+        "жар"
+      ],
+      "gender": "f",
+      "example": "La chaleur du soleil est agréable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chaud",
+      "word": "chaud",
+      "en": "chaud",
+      "sourceId": "hot",
+      "sourceIds": [
+        "hot"
+      ],
+      "ru": [
+        "мне жарко",
+        "жаркий",
+        "жарко"
+      ],
+      "gender": null,
+      "example": "Il fait très chaud aujourd'hui.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "humide",
+      "word": "humide",
+      "en": "humide",
+      "sourceId": "humid",
+      "sourceIds": [
+        "humid"
+      ],
+      "ru": [
+        "влажный"
+      ],
+      "gender": null,
+      "example": "Il fait très humide aujourd'hui.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "humidite",
+      "word": "humidité",
+      "en": "humidité",
+      "sourceId": "humidity",
+      "sourceIds": [
+        "humidity"
+      ],
+      "ru": [
+        "влажность",
+        "сырость"
+      ],
+      "gender": "f",
+      "example": "L'humidité est très élevée aujourd'hui.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ouragan",
+      "word": "ouragan",
+      "en": "ouragan",
+      "sourceId": "hurricane",
+      "sourceIds": [
+        "hurricane"
+      ],
+      "ru": [
+        "ураган"
+      ],
+      "gender": "m",
+      "example": "L'ouragan a causé des dégâts considérables sur la côte.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "glace",
+      "word": "glace",
+      "en": "glace",
+      "sourceId": "ice",
+      "sourceIds": [
+        "ice"
+      ],
+      "ru": [
+        "лёд",
+        "сухой лёд",
+        "замораживать"
+      ],
+      "gender": "f",
+      "example": "Il y a de la glace sur le pare-brise.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "foudre",
+      "word": "foudre",
+      "en": "foudre",
+      "sourceId": "lightning",
+      "sourceIds": [
+        "lightning"
+      ],
+      "ru": [
+        "молния"
+      ],
+      "gender": null,
+      "example": "La foudre a frappé l'arbre.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fonte",
+      "word": "fonte",
+      "en": "fonte",
+      "sourceId": "melt",
+      "sourceIds": [
+        "melt"
+      ],
+      "ru": [
+        "таять",
+        "плавиться",
+        "растоплять"
+      ],
+      "gender": "f",
+      "example": "La fonte des neiges annonce le printemps.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fonte",
+      "word": "fonte",
+      "en": "fonte",
+      "sourceId": "melting",
+      "sourceIds": [
+        "melting"
+      ],
+      "ru": [
+        "плавящийся",
+        "расплавленный"
+      ],
+      "gender": "f",
+      "example": "La fonte des glaces est un problème majeur.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "brume",
+      "word": "brume",
+      "en": "brume",
+      "sourceId": "mist",
+      "sourceIds": [
+        "mist"
+      ],
+      "ru": [
+        "туман",
+        "мгла",
+        "дымка"
+      ],
+      "gender": "f",
+      "example": "Une épaisse brume recouvre la vallée ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pluie",
+      "word": "pluie",
+      "en": "pluie",
+      "sourceId": "rain",
+      "sourceIds": [
+        "rain"
+      ],
+      "ru": [
+        "дождь",
+        "ливень"
+      ],
+      "gender": "f",
+      "example": "Il commence à pleuvoir, j'espère que la pluie s'arrêtera bientôt.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "arc-en-ciel",
+      "word": "arc-en-ciel",
+      "en": "arc-en-ciel",
+      "sourceId": "rainbow",
+      "sourceIds": [
+        "rainbow"
+      ],
+      "ru": [
+        "радуга",
+        "весёлка"
+      ],
+      "gender": "m",
+      "example": "Il y a un bel arc-en-ciel après la pluie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pluvieux",
+      "word": "pluvieux",
+      "en": "pluvieux",
+      "sourceId": "rainy",
+      "sourceIds": [
+        "rainy"
+      ],
+      "ru": [
+        "дождливый",
+        "дождевой"
+      ],
+      "gender": null,
+      "example": "Nous avons eu un temps pluvieux toute la semaine.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "saison",
+      "word": "saison",
+      "en": "saison",
+      "sourceId": "season",
+      "sourceIds": [
+        "season"
+      ],
+      "ru": [
+        "сезон",
+        "время года"
+      ],
+      "gender": "f",
+      "example": "L'été est ma saison préférée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ombre",
+      "word": "ombre",
+      "en": "ombre",
+      "sourceId": "shade",
+      "sourceIds": [
+        "shade"
+      ],
+      "ru": [
+        "штора",
+        "тень",
+        "переходить"
+      ],
+      "gender": "f",
+      "example": "Il s'est assis à l'ombre pour se reposer.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "ombre",
+      "word": "ombre",
+      "en": "ombre",
+      "sourceId": "shadow",
+      "sourceIds": [
+        "shadow"
+      ],
+      "ru": [
+        "тень",
+        "полумрак"
+      ],
+      "gender": "f",
+      "example": "Il se repose à l'ombre d'un grand arbre.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "ciel",
+      "word": "ciel",
+      "en": "ciel",
+      "sourceId": "sky",
+      "sourceIds": [
+        "sky"
+      ],
+      "ru": [
+        "небо",
+        "небесная сфера"
+      ],
+      "gender": "m",
+      "example": "Le ciel est bleu aujourd'hui.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "neige",
+      "word": "neige",
+      "en": "neige",
+      "sourceId": "snow",
+      "sourceIds": [
+        "snow"
+      ],
+      "ru": [
+        "снег",
+        "снегопад"
+      ],
+      "gender": "f",
+      "example": "La neige tombe doucement sur les toits.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "neigeux",
+      "word": "neigeux",
+      "en": "neigeux",
+      "sourceId": "snowy",
+      "sourceIds": [
+        "snowy"
+      ],
+      "ru": [
+        "снежный",
+        "снеговой"
+      ],
+      "gender": null,
+      "example": "Le paysage est très neigeux en hiver.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "printemps",
+      "word": "printemps",
+      "en": "printemps",
+      "sourceId": "spring",
+      "sourceIds": [
+        "spring"
+      ],
+      "ru": [
+        "весна"
+      ],
+      "gender": "m",
+      "example": "Le printemps est ma saison préférée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tempete",
+      "word": "tempête",
+      "en": "tempête",
+      "sourceId": "storm",
+      "sourceIds": [
+        "storm"
+      ],
+      "ru": [
+        "шторм",
+        "буря",
+        "буран"
+      ],
+      "gender": "f",
+      "example": "Une violente tempête a détruit plusieurs arbres.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ete",
+      "word": "été",
+      "en": "été",
+      "sourceId": "summer",
+      "sourceIds": [
+        "summer"
+      ],
+      "ru": [
+        "лето"
+      ],
+      "gender": "m",
+      "example": "L'été est ma saison préférée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "se-faire-bronzer",
+      "word": "se faire bronzer",
+      "en": "se faire bronzer",
+      "sourceId": "sun",
+      "sourceIds": [
+        "sun"
+      ],
+      "ru": [
+        "солнце",
+        "греться",
+        "загорать"
+      ],
+      "gender": null,
+      "example": "Elle aime se faire bronzer sur la plage.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "ensoleille",
+      "word": "ensoleillé",
+      "en": "ensoleillé",
+      "sourceId": "sunny",
+      "sourceIds": [
+        "sunny"
+      ],
+      "ru": [
+        "солнечный"
+      ],
+      "gender": null,
+      "example": "Il fait une journée très ensoleillée.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "lever-du-soleil",
+      "word": "lever du soleil",
+      "en": "lever du soleil",
+      "sourceId": "sunrise",
+      "sourceIds": [
+        "sunrise"
+      ],
+      "ru": [
+        "(утренняя) заря",
+        "восход солнца",
+        "восход"
+      ],
+      "gender": "m",
+      "example": "Nous nous sommes levés avant le lever du soleil.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "coucher-de-soleil",
+      "word": "coucher de soleil",
+      "en": "coucher de soleil",
+      "sourceId": "sunset",
+      "sourceIds": [
+        "sunset"
+      ],
+      "ru": [
+        "(вечерняя) заря",
+        "заход солнца",
+        "закат"
+      ],
+      "gender": "m",
+      "example": "Le coucher de soleil était magnifique ce soir.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "temperature",
+      "word": "température",
+      "en": "température",
+      "sourceId": "temperature",
+      "sourceIds": [
+        "temperature"
+      ],
+      "ru": [
+        "температура",
+        "горячка",
+        "жар"
+      ],
+      "gender": "f",
+      "example": "La température monte aujourd'hui.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tonnerre",
+      "word": "tonnerre",
+      "en": "tonnerre",
+      "sourceId": "thunder",
+      "sourceIds": [
+        "thunder"
+      ],
+      "ru": [
+        "гром",
+        "грохот",
+        "рокот"
+      ],
+      "gender": "m",
+      "example": "Le tonnerre a grondé toute la nuit.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "foudre",
+      "word": "foudre",
+      "en": "foudre",
+      "sourceId": "thunderbolt",
+      "sourceIds": [
+        "thunderbolt"
+      ],
+      "ru": [
+        "перун",
+        "удар молнии",
+        "гром среди ясного неба"
+      ],
+      "gender": "f",
+      "example": "La foudre a frappé le vieux chêne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "coup-de-tonnerre",
+      "word": "coup de tonnerre",
+      "en": "coup de tonnerre",
+      "sourceId": "thunderclap",
+      "sourceIds": [
+        "thunderclap"
+      ],
+      "ru": [
+        "удар грома"
+      ],
+      "gender": "m",
+      "example": "Un coup de tonnerre a fait trembler les vitres.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "nuage-d-orage",
+      "word": "nuage d'orage",
+      "en": "nuage d'orage",
+      "sourceId": "thundercloud",
+      "sourceIds": [
+        "thundercloud"
+      ],
+      "ru": [
+        "грозовая туча"
+      ],
+      "gender": "m",
+      "example": "Un gros nuage d'orage obscurcit le ciel.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "tonitruant",
+      "word": "tonitruant",
+      "en": "tonitruant",
+      "sourceId": "thunderous",
+      "sourceIds": [
+        "thunderous"
+      ],
+      "ru": [
+        "грозовой",
+        "громовой",
+        "оглушительный"
+      ],
+      "gender": null,
+      "example": "Il a été accueilli par des applaudissements tonitruants.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "orage-de-neige",
+      "word": "orage de neige",
+      "en": "orage de neige",
+      "sourceId": "thundersnow",
+      "sourceIds": [
+        "thundersnow"
+      ],
+      "ru": [
+        "снеговая гроза"
+      ],
+      "gender": "m",
+      "example": "Un orage de neige a surpris les habitants ce matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "orage",
+      "word": "orage",
+      "en": "orage",
+      "sourceId": "thunderstorm",
+      "sourceIds": [
+        "thunderstorm"
+      ],
+      "ru": [
+        "гроза",
+        "буря"
+      ],
+      "gender": "m",
+      "example": "Un violent orage a éclaté cette nuit.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "foudroye",
+      "word": "foudroyé",
+      "en": "foudroyé",
+      "sourceId": "thunderstruck",
+      "sourceIds": [
+        "thunderstruck"
+      ],
+      "ru": [
+        "как громом поражённый"
+      ],
+      "gender": null,
+      "example": "Il est resté foudroyé par la nouvelle.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "tornade",
+      "word": "tornade",
+      "en": "tornade",
+      "sourceId": "tornado",
+      "sourceIds": [
+        "tornado"
+      ],
+      "ru": [
+        "смерч",
+        "торнадо"
+      ],
+      "gender": "f",
+      "example": "Une tornade a détruit plusieurs maisons dans le village.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "parapluie",
+      "word": "parapluie",
+      "en": "parapluie",
+      "sourceId": "umbrella",
+      "sourceIds": [
+        "umbrella"
+      ],
+      "ru": [
+        "зонт",
+        "зонтик",
+        "купол"
+      ],
+      "gender": "m",
+      "example": "Il pleut, n'oublie pas ton parapluie.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chaud",
+      "word": "chaud",
+      "en": "chaud",
+      "sourceId": "warm",
+      "sourceIds": [
+        "warm"
+      ],
+      "ru": [
+        "тёплый",
+        "сердечный",
+        "греть"
+      ],
+      "gender": null,
+      "example": "Il fait chaud aujourd'hui.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "rechauffement",
+      "word": "réchauffement",
+      "en": "réchauffement",
+      "sourceId": "warming",
+      "sourceIds": [
+        "warming"
+      ],
+      "ru": [
+        "потепление",
+        "согревание"
+      ],
+      "gender": "m",
+      "example": "Le réchauffement climatique est une préoccupation majeure.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "chaleureusement",
+      "word": "chaleureusement",
+      "en": "chaleureusement",
+      "sourceId": "warmly",
+      "sourceIds": [
+        "warmly"
+      ],
+      "ru": [
+        "тепло"
+      ],
+      "gender": null,
+      "example": "Il m'a accueilli chaleureusement.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "meteo",
+      "word": "météo",
+      "en": "météo",
+      "sourceId": "weather",
+      "sourceIds": [
+        "weather"
+      ],
+      "ru": [
+        "погода"
+      ],
+      "gender": "f",
+      "example": "La météo annonce du soleil pour demain.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "girouette",
+      "word": "girouette",
+      "en": "girouette",
+      "sourceId": "weathercock",
+      "sourceIds": [
+        "weathercock"
+      ],
+      "ru": [
+        "флюгер"
+      ],
+      "gender": "f",
+      "example": "La girouette tourne avec le vent.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "altere",
+      "word": "altéré",
+      "en": "altéré",
+      "sourceId": "weathered",
+      "sourceIds": [
+        "weathered"
+      ],
+      "ru": [
+        "выветренный"
+      ],
+      "gender": null,
+      "example": "Les rochers sont altérés par le vent et la pluie.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "alteration",
+      "word": "altération",
+      "en": "altération",
+      "sourceId": "weathering",
+      "sourceIds": [
+        "weathering"
+      ],
+      "ru": [
+        "выветривание"
+      ],
+      "gender": "f",
+      "example": "L'altération des roches est un processus géologique lent.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "meteorologue",
+      "word": "météorologue",
+      "en": "météorologue",
+      "sourceId": "weatherwoman",
+      "sourceIds": [
+        "weatherwoman"
+      ],
+      "ru": [
+        "метеорологиня",
+        "метеорологистка"
+      ],
+      "gender": "f",
+      "example": "La météorologue annonce du soleil pour demain.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "mouiller",
+      "word": "mouiller",
+      "en": "mouiller",
+      "sourceId": "wet",
+      "sourceIds": [
+        "wet"
+      ],
+      "ru": [
+        "мокрый",
+        "мочить",
+        "мочиться"
+      ],
+      "gender": null,
+      "example": "Il a commencé à pleuvoir et cela a mouillé mes vêtements.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "vent",
+      "word": "vent",
+      "en": "vent",
+      "sourceId": "wind",
+      "sourceIds": [
+        "wind"
+      ],
+      "ru": [
+        "ветер"
+      ],
+      "gender": "m",
+      "example": "Le vent souffle fort aujourd'hui.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "venteux",
+      "word": "venteux",
+      "en": "venteux",
+      "sourceId": "windy",
+      "sourceIds": [
+        "windy"
+      ],
+      "ru": [
+        "ветреный"
+      ],
+      "gender": null,
+      "example": "Il fait un temps venteux aujourd'hui.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "hiver",
+      "word": "hiver",
+      "en": "hiver",
+      "sourceId": "winter",
+      "sourceIds": [
+        "winter"
+      ],
+      "ru": [
+        "зима"
+      ],
+      "gender": null,
+      "example": "L'hiver est une saison froide.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "atmospherique",
+      "word": "atmosphérique",
+      "en": "atmosphérique",
+      "sourceId": "atmospheric",
+      "sourceIds": [
+        "atmospheric"
+      ],
+      "ru": [
+        "атмосферный"
+      ],
+      "gender": null,
+      "example": "Licence en ingénierie — Physique et dynamique atmosphériques, MAI, 2015",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "soleil",
+      "word": "soleil",
+      "en": "soleil",
+      "sourceId": "sunshine",
+      "sourceIds": [
+        "sunshine"
+      ],
+      "ru": [
+        "солнечный свет"
+      ],
+      "gender": "m",
+      "example": "Bonjour, mon soleil.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "torrentiel",
+      "word": "torrentiel",
+      "en": "torrentiel",
+      "sourceId": "torrential",
+      "sourceIds": [
+        "torrential"
+      ],
+      "ru": [
+        "проливной"
+      ],
+      "gender": null,
+      "example": "Une pluie torrentielle.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "deluge",
+      "word": "déluge",
+      "en": "déluge",
+      "sourceId": "deluge",
+      "sourceIds": [
+        "deluge"
+      ],
+      "ru": [
+        "потоп",
+        "ливень"
+      ],
+      "gender": "m",
+      "example": "Il y a eu un déluge hier soir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "eaux-de-crue",
+      "word": "eaux de crue",
+      "en": "eaux de crue",
+      "sourceId": "floodwater",
+      "sourceIds": [
+        "floodwater"
+      ],
+      "ru": [
+        "паводковые воды"
+      ],
+      "gender": "f",
+      "example": "La ville a été inondée par la montée des eaux de crue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "humidite",
+      "word": "humidité",
+      "en": "humidité",
+      "sourceId": "moisture",
+      "sourceIds": [
+        "moisture"
+      ],
+      "ru": [
+        "влажность",
+        "влага"
+      ],
+      "gender": "f",
+      "example": "Ils obtiennent toute l'humidité dont ils ont besoin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "trempe",
+      "word": "trempé",
+      "en": "trempé",
+      "sourceId": "soaking",
+      "sourceIds": [
+        "soaking"
+      ],
+      "ru": [
+        "промокший насквозь"
+      ],
+      "gender": null,
+      "example": "Il est complètement trempé.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "precipitations",
+      "word": "précipitations",
+      "en": "précipitations",
+      "sourceId": "rainfall",
+      "sourceIds": [
+        "rainfall"
+      ],
+      "ru": [
+        "осадки",
+        "количество осадков"
+      ],
+      "gender": "f",
+      "example": "Les précipitations automnales ont causé des ravages.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hivernal",
+      "word": "hivernal",
+      "en": "hivernal",
+      "sourceId": "wintry",
+      "sourceIds": [
+        "wintry"
+      ],
+      "ru": [
+        "зимний"
+      ],
+      "gender": null,
+      "example": "La demeure hivernale.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "degeler",
+      "word": "dégeler",
+      "en": "dégeler",
+      "sourceId": "thaw",
+      "sourceIds": [
+        "thaw"
+      ],
+      "ru": [
+        "оттепель"
+      ],
+      "gender": null,
+      "example": "Il commence à dégeler ses mains.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "rafale",
+      "word": "rafale",
+      "en": "rafale",
+      "sourceId": "gust",
+      "sourceIds": [
+        "gust"
+      ],
+      "ru": [
+        "порыв ветра"
+      ],
+      "gender": "f",
+      "example": "Une rafale de vent soufflait du nord lointain.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chaleur",
+      "word": "chaleur",
+      "en": "chaleur",
+      "sourceId": "warmth",
+      "sourceIds": [
+        "warmth"
+      ],
+      "ru": [
+        "тепло",
+        "сердечность"
+      ],
+      "gender": "f",
+      "example": "Le Donjon Rouge a perdu sa chaleur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grele",
+      "word": "grêle",
+      "en": "grêle",
+      "sourceId": "hailstorm",
+      "sourceIds": [
+        "hailstorm"
+      ],
+      "ru": [
+        "град"
+      ],
+      "gender": "f",
+      "example": "sous une grêle de balles",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "frais",
+      "word": "frais",
+      "en": "frais",
+      "sourceId": "nippy",
+      "sourceIds": [
+        "nippy",
+        "chilly"
+      ],
+      "ru": [
+        "прохладный"
+      ],
+      "gender": null,
+      "example": "Il fait un peu frais.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "precipitations",
+      "word": "précipitations",
+      "en": "précipitations",
+      "sourceId": "precipitation",
+      "sourceIds": [
+        "precipitation"
+      ],
+      "ru": [
+        "осадки"
+      ],
+      "gender": "f",
+      "example": "Les précipitations seront abondantes demain.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lumiere-du-jour",
+      "word": "lumière du jour",
+      "en": "lumière du jour",
+      "sourceId": "daylight",
+      "sourceIds": [
+        "daylight"
+      ],
+      "ru": [
+        "дневной свет"
+      ],
+      "gender": "f",
+      "example": "Nous avons une chance en pleine lumière du jour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "etouffant",
+      "word": "étouffant",
+      "en": "étouffant",
+      "sourceId": "stuffy",
+      "sourceIds": [
+        "stuffy"
+      ],
+      "ru": [
+        "душный"
+      ],
+      "gender": null,
+      "example": "Sortez de cet auditorium étouffant.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "boule-de-neige",
+      "word": "boule de neige",
+      "en": "boule de neige",
+      "sourceId": "snowball",
+      "sourceIds": [
+        "snowball"
+      ],
+      "ru": [
+        "снежок",
+        "снежный ком"
+      ],
+      "gender": "f",
+      "example": "Il a lancé une boule de neige sur son ami.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "meteorologiquement",
+      "word": "météorologiquement",
+      "en": "météorologiquement",
+      "sourceId": "meteorologically",
+      "sourceIds": [
+        "meteorologically"
+      ],
+      "ru": [
+        "метеорологически"
+      ],
+      "gender": null,
+      "example": "Il est météorologiquement incliné.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "trempe",
+      "word": "trempé",
+      "en": "trempé",
+      "sourceId": "sodden",
+      "sourceIds": [
+        "sodden"
+      ],
+      "ru": [
+        "промокший"
+      ],
+      "gender": null,
+      "example": "Trempé par la rivière, il a dû changer de vêtements.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "changeant",
+      "word": "changeant",
+      "en": "changeant",
+      "sourceId": "changeable",
+      "sourceIds": [
+        "changeable"
+      ],
+      "ru": [
+        "изменчивый"
+      ],
+      "gender": null,
+      "example": "Je suis si changeant !",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "courant-d-air",
+      "word": "courant d'air",
+      "en": "courant d'air",
+      "sourceId": "cross-breeze",
+      "sourceIds": [
+        "cross-breeze"
+      ],
+      "ru": [
+        "сквозняк"
+      ],
+      "gender": "m",
+      "example": "Il est directement sur le passage d'un courant d'air.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "glacial",
+      "word": "glacial",
+      "en": "glacial",
+      "sourceId": "frosty",
+      "sourceIds": [
+        "frosty"
+      ],
+      "ru": [
+        "морозный"
+      ],
+      "gender": null,
+      "example": "Restez sur vos gardes.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "courant-descendant",
+      "word": "courant descendant",
+      "en": "courant descendant",
+      "sourceId": "down-draught",
+      "sourceIds": [
+        "down-draught"
+      ],
+      "ru": [
+        "нисходящий поток воздуха"
+      ],
+      "gender": "m",
+      "example": "Et dans le courant descendant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brumeux",
+      "word": "brumeux",
+      "en": "brumeux",
+      "sourceId": "misty",
+      "sourceIds": [
+        "misty"
+      ],
+      "ru": [
+        "туманный"
+      ],
+      "gender": null,
+      "example": "La campagne italienne brumeuse est magnifique.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "glace-icy",
+      "word": "glacé",
+      "en": "glacé",
+      "sourceId": "icy",
+      "sourceIds": [
+        "icy"
+      ],
+      "ru": [
+        "ледяной",
+        "холодный"
+      ],
+      "gender": null,
+      "example": "Il est tombé dans le port et l'eau glacée l'a surpris.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "sensuel",
+      "word": "sensuel",
+      "en": "sensuel",
+      "sourceId": "sultry",
+      "sourceIds": [
+        "sultry"
+      ],
+      "ru": [
+        "знойный",
+        "чувственный"
+      ],
+      "gender": null,
+      "example": "et couiner d'une manière sensuelle et érotique ?",
+      "level": "B1",
+      "pos": "adj"
+    }
+  ]
+}

@@ -1,0 +1,3932 @@
+{
+  "id": "places",
+  "title": "Город",
+  "paid": true,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "adresser",
+      "word": "adresser",
+      "en": "adresser",
+      "sourceId": "address",
+      "sourceIds": [
+        "address"
+      ],
+      "ru": [
+        "адрес",
+        "адресовать",
+        "обратиться"
+      ],
+      "gender": null,
+      "example": "Il faut adresser cette lettre au directeur.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "aeroport",
+      "word": "aéroport",
+      "en": "aéroport",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "gender": "m",
+      "example": "Nous sommes arrivés à l'aéroport en avance.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ruelle",
+      "word": "ruelle",
+      "en": "ruelle",
+      "sourceId": "alley",
+      "sourceIds": [
+        "alley"
+      ],
+      "ru": [
+        "аллея",
+        "переулок"
+      ],
+      "gender": "f",
+      "example": "Le chat s'est enfui dans une petite ruelle sombre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "n-importe-ou",
+      "word": "n'importe où",
+      "en": "n'importe où",
+      "sourceId": "anywhere",
+      "sourceIds": [
+        "anywhere"
+      ],
+      "ru": [
+        "где угодно",
+        "где-либо",
+        "где-нибудь"
+      ],
+      "gender": null,
+      "example": "Tu peux t'asseoir n'importe où.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "appartement",
+      "word": "appartement",
+      "en": "appartement",
+      "sourceId": "apartment",
+      "sourceIds": [
+        "apartment"
+      ],
+      "ru": [
+        "квартира",
+        "апартамент"
+      ],
+      "gender": "m",
+      "example": "J'habite dans un petit appartement au centre-ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "zone",
+      "word": "zone",
+      "en": "zone",
+      "sourceId": "area",
+      "sourceIds": [
+        "area"
+      ],
+      "ru": [
+        "площадь",
+        "область",
+        "край"
+      ],
+      "gender": "f",
+      "example": "Cette zone est interdite au public.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "autour",
+      "word": "autour",
+      "en": "autour",
+      "sourceId": "around",
+      "sourceIds": [
+        "around"
+      ],
+      "ru": [
+        "вокруг",
+        "кругом",
+        "по кругу"
+      ],
+      "gender": null,
+      "example": "Il y a des arbres tout autour.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "avenue",
+      "word": "avenue",
+      "en": "avenue",
+      "sourceId": "avenue",
+      "sourceIds": [
+        "avenue"
+      ],
+      "ru": [
+        "авеню",
+        "проспект"
+      ],
+      "gender": "f",
+      "example": "Il habite sur une grande avenue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "banque",
+      "word": "banque",
+      "en": "banque",
+      "sourceId": "bank",
+      "sourceIds": [
+        "bank"
+      ],
+      "ru": [
+        "банк"
+      ],
+      "gender": "f",
+      "example": "Je vais à la banque pour retirer de l'argent.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "banquier",
+      "word": "banquier",
+      "en": "banquier",
+      "sourceId": "banker",
+      "sourceIds": [
+        "banker"
+      ],
+      "ru": [
+        "банкир",
+        "банкирша",
+        "банкомёт"
+      ],
+      "gender": "m",
+      "example": "Le banquier a approuvé notre prêt immobilier.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bar",
+      "word": "bar",
+      "en": "bar",
+      "sourceId": "bar",
+      "sourceIds": [
+        "bar"
+      ],
+      "ru": [
+        "бар",
+        "стойка"
+      ],
+      "gender": "m",
+      "example": "Il commande un café au bar.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "base",
+      "word": "base",
+      "en": "base",
+      "sourceId": "base",
+      "sourceIds": [
+        "base"
+      ],
+      "ru": [
+        "база",
+        "базис",
+        "основа"
+      ],
+      "gender": "f",
+      "example": "Cette théorie repose sur une base solide.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "salle-de-bain",
+      "word": "salle de bain",
+      "en": "salle de bain",
+      "sourceId": "bathroom",
+      "sourceIds": [
+        "bathroom"
+      ],
+      "ru": [
+        "ванная комната"
+      ],
+      "gender": "f",
+      "example": "La salle de bain est très spacieuse.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "baie",
+      "word": "baie",
+      "en": "baie",
+      "sourceId": "bay",
+      "sourceIds": [
+        "bay"
+      ],
+      "ru": [
+        "гнедой",
+        "отсек",
+        "залив"
+      ],
+      "gender": "f",
+      "example": "Le bateau est ancré dans la baie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "plage",
+      "word": "plage",
+      "en": "plage",
+      "sourceId": "beach",
+      "sourceIds": [
+        "beach"
+      ],
+      "ru": [
+        "пляж",
+        "взморье"
+      ],
+      "gender": "f",
+      "example": "Nous allons à la plage cet après-midi.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "pate-de-maisons",
+      "word": "pâté de maisons",
+      "en": "pâté de maisons",
+      "sourceId": "block",
+      "sourceIds": [
+        "block"
+      ],
+      "ru": [
+        "квартал",
+        "городской квартал"
+      ],
+      "gender": "m",
+      "example": "Il a fait le tour du pâté de maisons pour se promener.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "boulevard",
+      "word": "boulevard",
+      "en": "boulevard",
+      "sourceId": "boulevard",
+      "sourceIds": [
+        "boulevard"
+      ],
+      "ru": [
+        "бульвар",
+        "проспект"
+      ],
+      "gender": "m",
+      "example": "Il habite sur un grand boulevard.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "pont",
+      "word": "pont",
+      "en": "pont",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "ru": [
+        "мост"
+      ],
+      "gender": "m",
+      "example": "Le pont traverse la rivière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "batiment",
+      "word": "bâtiment",
+      "en": "bâtiment",
+      "sourceId": "building",
+      "sourceIds": [
+        "building"
+      ],
+      "ru": [
+        "строительство",
+        "стройка",
+        "дом"
+      ],
+      "gender": "m",
+      "example": "Ce bâtiment est très ancien.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "campus",
+      "word": "campus",
+      "en": "campus",
+      "sourceId": "campus",
+      "sourceIds": [
+        "campus"
+      ],
+      "ru": [
+        "кампус"
+      ],
+      "gender": "m",
+      "example": "Le campus est très animé pendant la journée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cap",
+      "word": "cap",
+      "en": "cap",
+      "sourceId": "cape",
+      "sourceIds": [
+        "cape"
+      ],
+      "ru": [
+        "мыс"
+      ],
+      "gender": "m",
+      "example": "Le bateau a contourné le cap par gros temps.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "capital",
+      "word": "capital",
+      "en": "capital",
+      "sourceId": "capital",
+      "sourceIds": [
+        "capital"
+      ],
+      "ru": [
+        "капитель",
+        "богатство",
+        "капитал"
+      ],
+      "gender": "m",
+      "example": "Il a investi tout son capital dans cette entreprise.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chateau",
+      "word": "château",
+      "en": "château",
+      "sourceId": "castle",
+      "sourceIds": [
+        "castle"
+      ],
+      "ru": [
+        "замок"
+      ],
+      "gender": "m",
+      "example": "Le château est situé sur la colline.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "roque",
+      "word": "roque",
+      "en": "roque",
+      "sourceId": "castling",
+      "sourceIds": [
+        "castling"
+      ],
+      "ru": [
+        "рокировка"
+      ],
+      "gender": "m",
+      "example": "Le roque est un coup spécial au jeu d'échecs.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cathedrale",
+      "word": "cathédrale",
+      "en": "cathédrale",
+      "sourceId": "cathedral",
+      "sourceIds": [
+        "cathedral"
+      ],
+      "ru": [
+        "кафедральный собор",
+        "собор"
+      ],
+      "gender": "f",
+      "example": "La cathédrale Notre-Dame est un monument historique.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "centre",
+      "word": "centre",
+      "en": "centre",
+      "sourceId": "center",
+      "sourceIds": [
+        "center"
+      ],
+      "ru": [
+        "центр",
+        "середина",
+        "средина"
+      ],
+      "gender": "m",
+      "example": "Le centre de la ville est très animé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cabine-d-essayage",
+      "word": "cabine d'essayage",
+      "en": "cabine d'essayage",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "ru": [
+        "примерочная"
+      ],
+      "gender": "f",
+      "example": "Je vais essayer ce pantalon dans la cabine d'essayage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "eglise",
+      "word": "église",
+      "en": "église",
+      "sourceId": "church",
+      "sourceIds": [
+        "church"
+      ],
+      "ru": [
+        "церковь",
+        "костёл",
+        "кирха"
+      ],
+      "gender": "f",
+      "example": "Nous allons à l'église tous les dimanches.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cinema",
+      "word": "cinéma",
+      "en": "cinéma",
+      "sourceId": "cinema",
+      "sourceIds": [
+        "cinema"
+      ],
+      "ru": [
+        "кинотеатр",
+        "кино",
+        "киношка"
+      ],
+      "gender": "m",
+      "example": "Nous allons au cinéma ce soir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "citoyen",
+      "word": "citoyen",
+      "en": "citoyen",
+      "sourceId": "citizen",
+      "sourceIds": [
+        "citizen"
+      ],
+      "ru": [
+        "гражданин",
+        "гражданка",
+        "подданная"
+      ],
+      "gender": "m",
+      "example": "Il est un citoyen engagé dans sa communauté.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "ville",
+      "word": "ville",
+      "en": "ville",
+      "sourceId": "city",
+      "sourceIds": [
+        "city"
+      ],
+      "ru": [
+        "город",
+        "град"
+      ],
+      "gender": "f",
+      "example": "Paris est une grande ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cote",
+      "word": "côte",
+      "en": "côte",
+      "sourceId": "coast",
+      "sourceIds": [
+        "coast"
+      ],
+      "ru": [
+        "побережье",
+        "морской берег",
+        "берег"
+      ],
+      "gender": "f",
+      "example": "Nous avons passé nos vacances sur la côte.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "caboteur",
+      "word": "caboteur",
+      "en": "caboteur",
+      "sourceId": "coaster",
+      "sourceIds": [
+        "coaster"
+      ],
+      "ru": [
+        "поморянин",
+        "каботажное судно"
+      ],
+      "gender": "m",
+      "example": "Le petit caboteur transporte des marchandises le long de la côte.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "coincer",
+      "word": "coincer",
+      "en": "coincer",
+      "sourceId": "corner",
+      "sourceIds": [
+        "corner"
+      ],
+      "ru": [
+        "угол",
+        "перекресток"
+      ],
+      "gender": null,
+      "example": "Il a réussi à coincer le voleur dans une impasse.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "campagne",
+      "word": "campagne",
+      "en": "campagne",
+      "sourceId": "countryside",
+      "sourceIds": [
+        "countryside"
+      ],
+      "ru": [
+        "сельская местность",
+        "деревня",
+        "село"
+      ],
+      "gender": "f",
+      "example": "Nous passons le week-end à la campagne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "comte",
+      "word": "comté",
+      "en": "comté",
+      "sourceId": "county",
+      "sourceIds": [
+        "county"
+      ],
+      "ru": [
+        "графство",
+        "округ",
+        "уезд"
+      ],
+      "gender": "m",
+      "example": "Le comté de Nice est une ancienne province historique.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tribunal",
+      "word": "tribunal",
+      "en": "tribunal",
+      "sourceId": "court--places",
+      "sourceIds": [
+        "court--places"
+      ],
+      "ru": [
+        "двор",
+        "суд"
+      ],
+      "gender": "m",
+      "example": "Le tribunal va suspendre l'audience.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "irascible",
+      "word": "irascible",
+      "en": "irascible",
+      "sourceId": "cross",
+      "sourceIds": [
+        "cross"
+      ],
+      "ru": [
+        "перекрёстный",
+        "поперечный",
+        "сердитый"
+      ],
+      "gender": null,
+      "example": "Il est très irascible le matin.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "carrefour",
+      "word": "carrefour",
+      "en": "carrefour",
+      "sourceId": "crossing",
+      "sourceIds": [
+        "crossing"
+      ],
+      "ru": [
+        "перекрёсток",
+        "пересечение",
+        "переезд"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de circulation à ce carrefour.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "en": "distance",
+      "sourceId": "distance",
+      "sourceIds": [
+        "distance"
+      ],
+      "ru": [
+        "расстояние",
+        "дистанция",
+        "отдалённость"
+      ],
+      "gender": "f",
+      "example": "La distance entre Paris et Lyon est d'environ 400 kilomètres.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "district",
+      "word": "district",
+      "en": "district",
+      "sourceId": "district",
+      "sourceIds": [
+        "district"
+      ],
+      "ru": [
+        "дистрикт",
+        "область",
+        "округ"
+      ],
+      "gender": "m",
+      "example": "Il habite dans le district financier de la ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "centre-ville",
+      "word": "centre-ville",
+      "en": "centre-ville",
+      "sourceId": "downtown",
+      "sourceIds": [
+        "downtown"
+      ],
+      "ru": [
+        "деловая часть города",
+        "сити",
+        "центр"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de magasins dans le centre-ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "oriental",
+      "word": "oriental",
+      "en": "oriental",
+      "sourceId": "eastern",
+      "sourceIds": [
+        "eastern"
+      ],
+      "ru": [
+        "восточный"
+      ],
+      "gender": null,
+      "example": "Il habite dans la partie orientale de la ville.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "oriental",
+      "word": "oriental",
+      "en": "oriental",
+      "sourceId": "easterner",
+      "sourceIds": [
+        "easterner"
+      ],
+      "ru": [
+        "житель Востока",
+        "жительница Востока",
+        "уроженец Востока"
+      ],
+      "gender": "m",
+      "example": "Il est un oriental qui a beaucoup voyagé.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "le-plus-a-l-est",
+      "word": "le plus à l'est",
+      "en": "le plus à l'est",
+      "sourceId": "easternmost",
+      "sourceIds": [
+        "easternmost"
+      ],
+      "ru": [
+        "восточнейший",
+        "самый восточный"
+      ],
+      "gender": null,
+      "example": "C'est la ville la plus à l'est du pays.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "ambassade",
+      "word": "ambassade",
+      "en": "ambassade",
+      "sourceId": "embassy",
+      "sourceIds": [
+        "embassy"
+      ],
+      "ru": [
+        "посольство"
+      ],
+      "gender": "f",
+      "example": "Il travaille à l'ambassade de France.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "entree",
+      "word": "entrée",
+      "en": "entrée",
+      "sourceId": "entrance",
+      "sourceIds": [
+        "entrance"
+      ],
+      "ru": [
+        "вход",
+        "вхождение",
+        "въезд"
+      ],
+      "gender": "f",
+      "example": "L'entrée du musée se trouve au bout de la rue.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "entree",
+      "word": "entrée",
+      "en": "entrée",
+      "sourceId": "entry",
+      "sourceIds": [
+        "entry"
+      ],
+      "ru": [
+        "вход",
+        "въезд",
+        "вступление"
+      ],
+      "gender": "f",
+      "example": "L'entrée du musée est gratuite pour les enfants.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "partout",
+      "word": "partout",
+      "en": "partout",
+      "sourceId": "everywhere",
+      "sourceIds": [
+        "everywhere"
+      ],
+      "ru": [
+        "везде",
+        "всюду",
+        "повсюду"
+      ],
+      "gender": null,
+      "example": "Il y a des fleurs partout dans le jardin.",
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "sortie",
+      "word": "sortie",
+      "en": "sortie",
+      "sourceId": "exit",
+      "sourceIds": [
+        "exit"
+      ],
+      "ru": [
+        "выход",
+        "выезд",
+        "выйти"
+      ],
+      "gender": "f",
+      "example": "La sortie est au fond du couloir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "edifice",
+      "word": "édifice",
+      "en": "édifice",
+      "sourceId": "fabric",
+      "sourceIds": [
+        "fabric"
+      ],
+      "ru": [
+        "здание",
+        "постройка",
+        "структура"
+      ],
+      "gender": "m",
+      "example": "Cet édifice historique domine la ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "installation",
+      "word": "installation",
+      "en": "installation",
+      "sourceId": "facility",
+      "sourceIds": [
+        "facility"
+      ],
+      "ru": [
+        "объект",
+        "сооружение",
+        "удобство"
+      ],
+      "gender": "f",
+      "example": "Cette nouvelle installation sportive est ouverte à tous.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "usine",
+      "word": "usine",
+      "en": "usine",
+      "sourceId": "factory",
+      "sourceIds": [
+        "factory"
+      ],
+      "ru": [
+        "завод",
+        "фабрика",
+        "комбинат"
+      ],
+      "gender": "f",
+      "example": "Elle travaille dans une grande usine automobile.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "champ",
+      "word": "champ",
+      "en": "champ",
+      "sourceId": "field",
+      "sourceIds": [
+        "field"
+      ],
+      "ru": [
+        "поле"
+      ],
+      "gender": "m",
+      "example": "Les vaches broutent dans le champ.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cabine-d-essayage",
+      "word": "cabine d'essayage",
+      "en": "cabine d'essayage",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "ru": [
+        "примерочная комната"
+      ],
+      "gender": "f",
+      "example": "Où se trouve la cabine d'essayage ?",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "fort",
+      "word": "fort",
+      "en": "fort",
+      "sourceId": "fort",
+      "sourceIds": [
+        "fort"
+      ],
+      "ru": [
+        "форт"
+      ],
+      "gender": "m",
+      "example": "Le vieux fort surplombe la mer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fontaine",
+      "word": "fontaine",
+      "en": "fontaine",
+      "sourceId": "fountain",
+      "sourceIds": [
+        "fountain"
+      ],
+      "ru": [
+        "фонтан",
+        "источник",
+        "кладезь"
+      ],
+      "gender": "f",
+      "example": "Il y a une belle fontaine au milieu de la place.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "source",
+      "word": "source",
+      "en": "source",
+      "sourceId": "fountainhead",
+      "sourceIds": [
+        "fountainhead"
+      ],
+      "ru": [
+        "первоисточник"
+      ],
+      "gender": "f",
+      "example": "Cette découverte est la source de toute sa théorie.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "jardin",
+      "word": "jardin",
+      "en": "jardin",
+      "sourceId": "garden",
+      "sourceIds": [
+        "garden"
+      ],
+      "ru": [
+        "сад",
+        "парк",
+        "огород"
+      ],
+      "gender": "m",
+      "example": "Les enfants jouent dans le jardin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "portail",
+      "word": "portail",
+      "en": "portail",
+      "sourceId": "gate",
+      "sourceIds": [
+        "gate"
+      ],
+      "ru": [
+        "ворота",
+        "врата",
+        "калитка"
+      ],
+      "gender": "m",
+      "example": "Il a fermé le portail derrière lui.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "passerelle",
+      "word": "passerelle",
+      "en": "passerelle",
+      "sourceId": "gateway",
+      "sourceIds": [
+        "gateway"
+      ],
+      "ru": [
+        "вход",
+        "ворота",
+        "шлюз"
+      ],
+      "gender": "f",
+      "example": "Cette passerelle permet d'accéder au réseau sécurisé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "epicerie",
+      "word": "épicerie",
+      "en": "épicerie",
+      "sourceId": "grocery",
+      "sourceIds": [
+        "grocery"
+      ],
+      "ru": [
+        "продуктовый магазин"
+      ],
+      "gender": "f",
+      "example": "Je vais à l'épicerie pour acheter du pain.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "port",
+      "word": "port",
+      "en": "port",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "gender": "m",
+      "example": "Le bateau est entré dans le port.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "ici",
+      "word": "ici",
+      "en": "ici",
+      "sourceId": "here",
+      "sourceIds": [
+        "here"
+      ],
+      "ru": [
+        "здесь",
+        "тут",
+        "сюда"
+      ],
+      "gender": null,
+      "example": "Je suis ici.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "gender": "f",
+      "example": "Nous prenons l'autoroute pour aller à Paris.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maison",
+      "word": "maison",
+      "en": "maison",
+      "sourceId": "home",
+      "sourceIds": [
+        "home"
+      ],
+      "ru": [
+        "дом",
+        "домой",
+        "дома"
+      ],
+      "gender": null,
+      "example": "Rentrons à la maison maintenant.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "banal",
+      "word": "banal",
+      "en": "banal",
+      "sourceId": "homely",
+      "sourceIds": [
+        "homely"
+      ],
+      "ru": [
+        "невзрачный"
+      ],
+      "gender": null,
+      "example": "Il a un visage assez banal.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "hopital",
+      "word": "hôpital",
+      "en": "hôpital",
+      "sourceId": "hospital",
+      "sourceIds": [
+        "hospital"
+      ],
+      "ru": [
+        "больница",
+        "госпиталь",
+        "клиника"
+      ],
+      "gender": "m",
+      "example": "Il travaille dans un grand hôpital.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "hospitalite",
+      "word": "hospitalité",
+      "en": "hospitalité",
+      "sourceId": "hospitality",
+      "sourceIds": [
+        "hospitality"
+      ],
+      "ru": [
+        "гостеприимство",
+        "радушие",
+        "хлебосольство"
+      ],
+      "gender": "f",
+      "example": "Nous avons été touchés par leur grande hospitalité.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "hospitalisation",
+      "word": "hospitalisation",
+      "en": "hospitalisation",
+      "sourceId": "hospitalization",
+      "sourceIds": [
+        "hospitalization"
+      ],
+      "ru": [
+        "госпитализация"
+      ],
+      "gender": "f",
+      "example": "Son hospitalisation a duré trois jours.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "hospitaliser",
+      "word": "hospitaliser",
+      "en": "hospitaliser",
+      "sourceId": "hospitalize",
+      "sourceIds": [
+        "hospitalize"
+      ],
+      "ru": [
+        "поместить в больницу",
+        "помещать в больницу",
+        "госпитализировать"
+      ],
+      "gender": null,
+      "example": "Le médecin a décidé de l'hospitaliser immédiatement.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "hospitalier",
+      "word": "hospitalier",
+      "en": "hospitalier",
+      "sourceId": "hospitaller",
+      "sourceIds": [
+        "hospitaller"
+      ],
+      "ru": [
+        "госпитальер"
+      ],
+      "gender": "m",
+      "example": "Les hospitaliers soignaient les pèlerins malades.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "auberge-de-jeunesse",
+      "word": "auberge de jeunesse",
+      "en": "auberge de jeunesse",
+      "sourceId": "hostel",
+      "sourceIds": [
+        "hostel"
+      ],
+      "ru": [
+        "мини-отель",
+        "общежитие",
+        "турбаза"
+      ],
+      "gender": "f",
+      "example": "Nous avons réservé une nuit dans une auberge de jeunesse.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "hotel",
+      "word": "hôtel",
+      "en": "hôtel",
+      "sourceId": "hotel",
+      "sourceIds": [
+        "hotel"
+      ],
+      "ru": [
+        "отель",
+        "гостиница"
+      ],
+      "gender": "m",
+      "example": "L'hôtel est proche de la gare.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "maison",
+      "word": "maison",
+      "en": "maison",
+      "sourceId": "house",
+      "sourceIds": [
+        "house"
+      ],
+      "ru": [
+        "дом",
+        "здание"
+      ],
+      "gender": "f",
+      "example": "J'habite dans une grande maison.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "logement",
+      "word": "logement",
+      "en": "logement",
+      "sourceId": "housing",
+      "sourceIds": [
+        "housing"
+      ],
+      "ru": [
+        "жильё",
+        "кожух",
+        "корпус"
+      ],
+      "gender": null,
+      "example": "Il cherche un logement près de son travail.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "dedans",
+      "word": "dedans",
+      "en": "dedans",
+      "sourceId": "inside",
+      "sourceIds": [
+        "inside"
+      ],
+      "ru": [
+        "внутренний",
+        "внутри",
+        "внутрь"
+      ],
+      "gender": null,
+      "example": "Il fait froid dehors, entrons dedans.",
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "couvrir",
+      "word": "couvrir",
+      "en": "couvrir",
+      "sourceId": "island",
+      "sourceIds": [
+        "island"
+      ],
+      "ru": [
+        "остров",
+        "покрыть",
+        "покрывать"
+      ],
+      "gender": null,
+      "example": "La neige va couvrir tout le jardin.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "prison",
+      "word": "prison",
+      "en": "prison",
+      "sourceId": "jail",
+      "sourceIds": [
+        "jail"
+      ],
+      "ru": [
+        "тюрьма"
+      ],
+      "gender": "f",
+      "example": "Il a passé deux ans en prison.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "lac",
+      "word": "lac",
+      "en": "lac",
+      "sourceId": "lake",
+      "sourceIds": [
+        "lake"
+      ],
+      "ru": [
+        "озеро"
+      ],
+      "gender": "m",
+      "example": "Le lac est très profond.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "allee",
+      "word": "allée",
+      "en": "allée",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "gender": "f",
+      "example": "Nous avons marché dans une allée bordée d'arbres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bibliotheque",
+      "word": "bibliothèque",
+      "en": "bibliothèque",
+      "sourceId": "library",
+      "sourceIds": [
+        "library"
+      ],
+      "ru": [
+        "библиотека"
+      ],
+      "gender": "f",
+      "example": "Je vais à la bibliothèque pour étudier.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "local",
+      "word": "local",
+      "en": "local",
+      "sourceId": "local",
+      "sourceIds": [
+        "local"
+      ],
+      "ru": [
+        "локальный",
+        "местный",
+        "туземец"
+      ],
+      "gender": null,
+      "example": "Il y a beaucoup de commerces locaux dans cette rue.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "emplacement",
+      "word": "emplacement",
+      "en": "emplacement",
+      "sourceId": "location",
+      "sourceIds": [
+        "location"
+      ],
+      "ru": [
+        "место",
+        "местонахождение",
+        "местоположение"
+      ],
+      "gender": "m",
+      "example": "L'emplacement de cet hôtel est idéal.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "centre-commercial",
+      "word": "centre commercial",
+      "en": "centre commercial",
+      "sourceId": "mall",
+      "sourceIds": [
+        "mall"
+      ],
+      "ru": [
+        "молл",
+        "торговый центр"
+      ],
+      "gender": "m",
+      "example": "Nous allons faire du shopping au centre commercial.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "carte",
+      "word": "carte",
+      "en": "carte",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "gender": "f",
+      "example": "Cette carte montre la vieille ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "mappage",
+      "word": "mappage",
+      "en": "mappage",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "ru": [
+        "отображение"
+      ],
+      "gender": "m",
+      "example": "Le mappage des données est essentiel pour la migration.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "marin",
+      "word": "marin",
+      "en": "marin",
+      "sourceId": "marine",
+      "sourceIds": [
+        "marine"
+      ],
+      "ru": [
+        "морской",
+        "морской пехотинец",
+        "солдат морской пехоты"
+      ],
+      "gender": null,
+      "example": "Il travaille dans le secteur marin.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "marche",
+      "word": "marché",
+      "en": "marché",
+      "sourceId": "market",
+      "sourceIds": [
+        "market"
+      ],
+      "ru": [
+        "рынок",
+        "рыночный"
+      ],
+      "gender": "m",
+      "example": "Il va au marché tous les samedis matin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "marche",
+      "word": "marché",
+      "en": "marché",
+      "sourceId": "marketplace",
+      "sourceIds": [
+        "marketplace"
+      ],
+      "ru": [
+        "рынок",
+        "базар",
+        "базарная площадь"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de monde au marché ce matin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "monument",
+      "word": "monument",
+      "en": "monument",
+      "sourceId": "monument",
+      "sourceIds": [
+        "monument"
+      ],
+      "ru": [
+        "памятник",
+        "монумент"
+      ],
+      "gender": "m",
+      "example": "La tour Eiffel est un monument célèbre à Paris.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "monumental",
+      "word": "monumental",
+      "en": "monumental",
+      "sourceId": "monumental",
+      "sourceIds": [
+        "monumental"
+      ],
+      "ru": [
+        "монументальный"
+      ],
+      "gender": null,
+      "example": "Cette statue est vraiment monumentale.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "gender": "f",
+      "example": "Nous prenons l'autoroute pour aller à Paris.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "musee",
+      "word": "musée",
+      "en": "musée",
+      "sourceId": "museum",
+      "sourceIds": [
+        "museum"
+      ],
+      "ru": [
+        "музей"
+      ],
+      "gender": "m",
+      "example": "Nous avons visité le musée hier.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "a-proximite",
+      "word": "à proximité",
+      "en": "à proximité",
+      "sourceId": "nearby",
+      "sourceIds": [
+        "nearby"
+      ],
+      "ru": [
+        "близко",
+        "неподалёку",
+        "поблизости"
+      ],
+      "gender": null,
+      "example": "Il y a une boulangerie à proximité.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "quartier",
+      "word": "quartier",
+      "en": "quartier",
+      "sourceId": "neighborhood",
+      "sourceIds": [
+        "neighborhood"
+      ],
+      "ru": [
+        "близость",
+        "окрестности",
+        "округа"
+      ],
+      "gender": "m",
+      "example": "J'habite dans un quartier calme.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "septentrional",
+      "word": "septentrional",
+      "en": "septentrional",
+      "sourceId": "northern",
+      "sourceIds": [
+        "northern"
+      ],
+      "ru": [
+        "северный"
+      ],
+      "gender": null,
+      "example": "Le vent septentrional est très froid.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "nordiste",
+      "word": "nordiste",
+      "en": "nordiste",
+      "sourceId": "northerner",
+      "sourceIds": [
+        "northerner"
+      ],
+      "ru": [
+        "житель севера",
+        "жительница севера",
+        "северянин"
+      ],
+      "gender": "m",
+      "example": "Il est un vrai nordiste, habitué au froid.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "le-plus-au-nord",
+      "word": "le plus au nord",
+      "en": "le plus au nord",
+      "sourceId": "northernmost",
+      "sourceIds": [
+        "northernmost"
+      ],
+      "ru": [
+        "наисевернейший",
+        "самый северный"
+      ],
+      "gender": null,
+      "example": "C'est le point le plus au nord du pays.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "nord-ouest",
+      "word": "nord-ouest",
+      "en": "nord-ouest",
+      "sourceId": "northwest",
+      "sourceIds": [
+        "northwest"
+      ],
+      "ru": [
+        "норд-вест",
+        "северо-запад"
+      ],
+      "gender": "m",
+      "example": "Le vent souffle du nord-ouest.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nord-ouest",
+      "word": "nord-ouest",
+      "en": "nord-ouest",
+      "sourceId": "northwester",
+      "sourceIds": [
+        "northwester"
+      ],
+      "ru": [
+        "норд-вест"
+      ],
+      "gender": "m",
+      "example": "Le vent souffle du nord-ouest.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "nord-ouest",
+      "word": "nord-ouest",
+      "en": "nord-ouest",
+      "sourceId": "northwestern",
+      "sourceIds": [
+        "northwestern"
+      ],
+      "ru": [
+        "северо-западный"
+      ],
+      "gender": null,
+      "example": "Le vent souffle du secteur nord-ouest.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "nulle-part",
+      "word": "nulle part",
+      "en": "nulle part",
+      "sourceId": "nowhere",
+      "sourceIds": [
+        "nowhere"
+      ],
+      "ru": [
+        "нигде",
+        "никуда"
+      ],
+      "gender": null,
+      "example": "Je ne trouve mes clés nulle part.",
+      "level": "C1",
+      "pos": "adv"
+    },
+    {
+      "id": "bureau",
+      "word": "bureau",
+      "en": "bureau",
+      "sourceId": "office",
+      "sourceIds": [
+        "office"
+      ],
+      "ru": [
+        "офис",
+        "кабинет",
+        "контора"
+      ],
+      "gender": "m",
+      "example": "Il travaille dans un grand bureau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "debouche",
+      "word": "débouché",
+      "en": "débouché",
+      "sourceId": "outlet",
+      "sourceIds": [
+        "outlet"
+      ],
+      "ru": [
+        "выход",
+        "отдушина",
+        "сток"
+      ],
+      "gender": "m",
+      "example": "Ce projet offre un débouché intéressant pour nos produits.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "exterieur",
+      "word": "extérieur",
+      "en": "extérieur",
+      "sourceId": "outside",
+      "sourceIds": [
+        "outside"
+      ],
+      "ru": [
+        "внешний",
+        "наружный",
+        "снаружи"
+      ],
+      "gender": null,
+      "example": "Il fait froid à l'extérieur.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "etranger",
+      "word": "étranger",
+      "en": "étranger",
+      "sourceId": "outsider",
+      "sourceIds": [
+        "outsider"
+      ],
+      "ru": [
+        "посторонний",
+        "аутсайдер",
+        "чужак"
+      ],
+      "gender": "m",
+      "example": "Il se sentait comme un étranger dans ce nouveau groupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "pacifique",
+      "word": "pacifique",
+      "en": "pacifique",
+      "sourceId": "pacific",
+      "sourceIds": [
+        "pacific"
+      ],
+      "ru": [
+        "миролюбивый"
+      ],
+      "gender": null,
+      "example": "Il est d'un tempérament très pacifique.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "pacification",
+      "word": "pacification",
+      "en": "pacification",
+      "sourceId": "pacification",
+      "sourceIds": [
+        "pacification"
+      ],
+      "ru": [
+        "пацификация",
+        "умиротворение",
+        "усмирение"
+      ],
+      "gender": "f",
+      "example": "La pacification de la région a permis le retour des habitants.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "palais",
+      "word": "palais",
+      "en": "palais",
+      "sourceId": "palace",
+      "sourceIds": [
+        "palace"
+      ],
+      "ru": [
+        "дворец",
+        "чертог"
+      ],
+      "gender": "m",
+      "example": "Le roi habite dans un grand palais.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "parc",
+      "word": "parc",
+      "en": "parc",
+      "sourceId": "park",
+      "sourceIds": [
+        "park"
+      ],
+      "ru": [
+        "парк",
+        "парковать",
+        "ставить на парковку"
+      ],
+      "gender": "m",
+      "example": "Nous nous promenons dans le parc.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "parking",
+      "word": "parking",
+      "en": "parking",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "gender": "m",
+      "example": "Il y a un grand parking devant le supermarché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sentier",
+      "word": "sentier",
+      "en": "sentier",
+      "sourceId": "path",
+      "sourceIds": [
+        "path"
+      ],
+      "ru": [
+        "дорожка",
+        "тропа",
+        "тропинка"
+      ],
+      "gender": "m",
+      "example": "Nous avons suivi un petit sentier à travers la forêt.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "trottoir",
+      "word": "trottoir",
+      "en": "trottoir",
+      "sourceId": "pavement",
+      "sourceIds": [
+        "pavement"
+      ],
+      "ru": [
+        "асфальт",
+        "мостовая",
+        "мощёный пол"
+      ],
+      "gender": "m",
+      "example": "Il marche sur le trottoir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "aire-de-jeux",
+      "word": "aire de jeux",
+      "en": "aire de jeux",
+      "sourceId": "playground",
+      "sourceIds": [
+        "playground"
+      ],
+      "ru": [
+        "детская площадка",
+        "игровая площадка",
+        "детплощадка"
+      ],
+      "gender": "f",
+      "example": "Les enfants jouent sur l'aire de jeux.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "place",
+      "word": "place",
+      "en": "place",
+      "sourceId": "plaza",
+      "sourceIds": [
+        "plaza"
+      ],
+      "ru": [
+        "площадь",
+        "сквер"
+      ],
+      "gender": "f",
+      "example": "Nous nous sommes retrouvés sur la place principale de la ville.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "babord",
+      "word": "bâbord",
+      "en": "bâbord",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "gender": null,
+      "example": "Le navire a viré à bâbord.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "porteur",
+      "word": "porteur",
+      "en": "porteur",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "gender": "m",
+      "example": "Le porteur a monté mes valises dans la chambre.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "postal",
+      "word": "postal",
+      "en": "postal",
+      "sourceId": "postal",
+      "sourceIds": [
+        "postal"
+      ],
+      "ru": [
+        "почтовый"
+      ],
+      "gender": null,
+      "example": "Il a oublié son code postal.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "affiche",
+      "word": "affiche",
+      "en": "affiche",
+      "sourceId": "poster",
+      "sourceIds": [
+        "poster"
+      ],
+      "ru": [
+        "афиша",
+        "постер",
+        "плакат"
+      ],
+      "gender": "f",
+      "example": "Il a collé une affiche sur le mur.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "prison",
+      "word": "prison",
+      "en": "prison",
+      "sourceId": "prison",
+      "sourceIds": [
+        "prison"
+      ],
+      "ru": [
+        "тюрьма",
+        "зона",
+        "каземат"
+      ],
+      "gender": "f",
+      "example": "Il a passé dix ans en prison.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "province",
+      "word": "province",
+      "en": "province",
+      "sourceId": "province",
+      "sourceIds": [
+        "province"
+      ],
+      "ru": [
+        "область",
+        "край",
+        "штат"
+      ],
+      "gender": "f",
+      "example": "Le Québec est une grande province du Canada.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pub",
+      "word": "pub",
+      "en": "pub",
+      "sourceId": "pub",
+      "sourceIds": [
+        "pub"
+      ],
+      "ru": [
+        "паб",
+        "бар",
+        "кабак"
+      ],
+      "gender": "m",
+      "example": "Nous allons prendre une bière au pub ce soir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "region",
+      "word": "région",
+      "en": "région",
+      "sourceId": "region",
+      "sourceIds": [
+        "region"
+      ],
+      "ru": [
+        "район",
+        "область",
+        "край"
+      ],
+      "gender": "f",
+      "example": "Cette région est connue pour ses montagnes.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "regional",
+      "word": "régional",
+      "en": "régional",
+      "sourceId": "regional",
+      "sourceIds": [
+        "regional"
+      ],
+      "ru": [
+        "региональный"
+      ],
+      "gender": null,
+      "example": "Il y a une forte identité régionale dans cette partie du pays.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "regionalisme",
+      "word": "régionalisme",
+      "en": "régionalisme",
+      "sourceId": "regionalism",
+      "sourceIds": [
+        "regionalism"
+      ],
+      "ru": [
+        "местничество",
+        "районирование"
+      ],
+      "gender": "m",
+      "example": "Le régionalisme est très fort dans cette partie du pays.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "resident",
+      "word": "résident",
+      "en": "résident",
+      "sourceId": "resident",
+      "sourceIds": [
+        "resident"
+      ],
+      "ru": [
+        "житель",
+        "жительница",
+        "резидент"
+      ],
+      "gender": "m",
+      "example": "Il est résident de cette ville depuis dix ans.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "residentiel",
+      "word": "résidentiel",
+      "en": "résidentiel",
+      "sourceId": "residential",
+      "sourceIds": [
+        "residential"
+      ],
+      "ru": [
+        "жилищный",
+        "жилой"
+      ],
+      "gender": null,
+      "example": "Il habite dans un quartier résidentiel calme.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "restaurant",
+      "word": "restaurant",
+      "en": "restaurant",
+      "sourceId": "restaurant",
+      "sourceIds": [
+        "restaurant"
+      ],
+      "ru": [
+        "ресторан"
+      ],
+      "gender": "m",
+      "example": "Ce restaurant ouvre à midi.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "riviere",
+      "word": "rivière",
+      "en": "rivière",
+      "sourceId": "river",
+      "sourceIds": [
+        "river"
+      ],
+      "ru": [
+        "река",
+        "речка"
+      ],
+      "gender": "f",
+      "example": "La rivière traverse la ville.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "en": "route",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "gender": "f",
+      "example": "La route est longue.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "piece",
+      "word": "pièce",
+      "en": "pièce",
+      "sourceId": "room",
+      "sourceIds": [
+        "room"
+      ],
+      "ru": [
+        "комната",
+        "помещение"
+      ],
+      "gender": "f",
+      "example": "Cette maison a cinq pièces.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "rural",
+      "word": "rural",
+      "en": "rural",
+      "sourceId": "rural",
+      "sourceIds": [
+        "rural"
+      ],
+      "ru": [
+        "сельский",
+        "деревенский"
+      ],
+      "gender": null,
+      "example": "Il préfère vivre dans un environnement rural.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "ecole",
+      "word": "école",
+      "en": "école",
+      "sourceId": "school",
+      "sourceIds": [
+        "school"
+      ],
+      "ru": [
+        "школа",
+        "училище"
+      ],
+      "gender": "f",
+      "example": "Les enfants vont à l'école tous les matins.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "magasin",
+      "word": "magasin",
+      "en": "magasin",
+      "sourceId": "shop",
+      "sourceIds": [
+        "shop"
+      ],
+      "ru": [
+        "магазин",
+        "бутик",
+        "лавка"
+      ],
+      "gender": "m",
+      "example": "Le magasin ferme à neuf heures.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "rivage",
+      "word": "rivage",
+      "en": "rivage",
+      "sourceId": "shore",
+      "sourceIds": [
+        "shore"
+      ],
+      "ru": [
+        "берег",
+        "побережье",
+        "яр"
+      ],
+      "gender": "m",
+      "example": "Nous avons marché le long du rivage.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "trottoir",
+      "word": "trottoir",
+      "en": "trottoir",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "gender": "m",
+      "example": "Il marche sur le trottoir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "site",
+      "word": "site",
+      "en": "site",
+      "sourceId": "site",
+      "sourceIds": [
+        "site"
+      ],
+      "ru": [
+        "место",
+        "местонахождение",
+        "местоположение"
+      ],
+      "gender": "m",
+      "example": "Le site archéologique est ouvert au public.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "quelque-part",
+      "word": "quelque part",
+      "en": "quelque part",
+      "sourceId": "somewhere",
+      "sourceIds": [
+        "somewhere"
+      ],
+      "ru": [
+        "где-нибудь",
+        "где-то",
+        "куда-нибудь"
+      ],
+      "gender": null,
+      "example": "J'ai laissé mes clés quelque part dans la maison.",
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "meridional",
+      "word": "méridional",
+      "en": "méridional",
+      "sourceId": "southern",
+      "sourceIds": [
+        "southern"
+      ],
+      "ru": [
+        "южный"
+      ],
+      "gender": null,
+      "example": "Le climat est plus doux dans la partie méridionale du pays.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "le-plus-au-sud",
+      "word": "le plus au sud",
+      "en": "le plus au sud",
+      "sourceId": "southernmost",
+      "sourceIds": [
+        "southernmost"
+      ],
+      "ru": [
+        "самый южный",
+        "южнейший"
+      ],
+      "gender": null,
+      "example": "C'est la ville la plus au sud du pays.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "reperer",
+      "word": "repérer",
+      "en": "repérer",
+      "sourceId": "spot",
+      "sourceIds": [
+        "spot"
+      ],
+      "ru": [
+        "пятно",
+        "взять в долг",
+        "обнаружить"
+      ],
+      "gender": null,
+      "example": "J'ai réussi à repérer l'erreur dans le document.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "tachete",
+      "word": "tacheté",
+      "en": "tacheté",
+      "sourceId": "spotted",
+      "sourceIds": [
+        "spotted"
+      ],
+      "ru": [
+        "запятнанный",
+        "пятнистый"
+      ],
+      "gender": null,
+      "example": "Le léopard a un pelage tacheté.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "carre",
+      "word": "carré",
+      "en": "carré",
+      "sourceId": "square",
+      "sourceIds": [
+        "square"
+      ],
+      "ru": [
+        "квадратный",
+        "квадрат",
+        "прямоугольный"
+      ],
+      "gender": null,
+      "example": "Il a dessiné un petit carré sur la feuille.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "a-carreaux",
+      "word": "à carreaux",
+      "en": "à carreaux",
+      "sourceId": "squared",
+      "sourceIds": [
+        "squared"
+      ],
+      "ru": [
+        "в клетку",
+        "в клеточку",
+        "в квадрате"
+      ],
+      "gender": null,
+      "example": "Il porte une chemise à carreaux.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "stade",
+      "word": "stade",
+      "en": "stade",
+      "sourceId": "stadium",
+      "sourceIds": [
+        "stadium"
+      ],
+      "ru": [
+        "стадион",
+        "ристалище"
+      ],
+      "gender": "m",
+      "example": "Le match de football a lieu dans ce grand stade.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "gare",
+      "word": "gare",
+      "en": "gare",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "gender": "f",
+      "example": "Le train part de la gare centrale.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chef-de-gare",
+      "word": "chef de gare",
+      "en": "chef de gare",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "ru": [
+        "начальник станции"
+      ],
+      "gender": "m",
+      "example": "Le chef de gare a sifflé le départ du train.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "statue",
+      "word": "statue",
+      "en": "statue",
+      "sourceId": "statue",
+      "sourceIds": [
+        "statue"
+      ],
+      "ru": [
+        "статуя",
+        "изваяние"
+      ],
+      "gender": "f",
+      "example": "La statue se dresse dans le parc.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "magasin",
+      "word": "magasin",
+      "en": "magasin",
+      "sourceId": "store",
+      "sourceIds": [
+        "store"
+      ],
+      "ru": [
+        "магазин"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de clients dans ce magasin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "rue",
+      "word": "rue",
+      "en": "rue",
+      "sourceId": "street",
+      "sourceIds": [
+        "street"
+      ],
+      "ru": [
+        "улица"
+      ],
+      "gender": "f",
+      "example": "Il habite dans une petite rue calme.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "banlieue",
+      "word": "banlieue",
+      "en": "banlieue",
+      "sourceId": "suburb",
+      "sourceIds": [
+        "suburb"
+      ],
+      "ru": [
+        "пригород",
+        "предместье",
+        "округ"
+      ],
+      "gender": "f",
+      "example": "Il habite en banlieue parisienne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "theatre",
+      "word": "théâtre",
+      "en": "théâtre",
+      "sourceId": "theater",
+      "sourceIds": [
+        "theater"
+      ],
+      "ru": [
+        "театр"
+      ],
+      "gender": "m",
+      "example": "Nous allons au théâtre ce soir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "la",
+      "word": "là",
+      "en": "là",
+      "sourceId": "there",
+      "sourceIds": [
+        "there"
+      ],
+      "ru": [
+        "есть",
+        "иметься",
+        "там"
+      ],
+      "gender": null,
+      "example": "Il est là-bas.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "tour",
+      "word": "tour",
+      "en": "tour",
+      "sourceId": "tower",
+      "sourceIds": [
+        "tower"
+      ],
+      "ru": [
+        "башня",
+        "вежа",
+        "вышка"
+      ],
+      "gender": "f",
+      "example": "La tour Eiffel est le symbole de Paris.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "imposant",
+      "word": "imposant",
+      "en": "imposant",
+      "sourceId": "towering",
+      "sourceIds": [
+        "towering"
+      ],
+      "ru": [
+        "вздымающийся",
+        "возвышающийся",
+        "высокий"
+      ],
+      "gender": null,
+      "example": "Une montagne imposante domine la vallée.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "ville",
+      "word": "ville",
+      "en": "ville",
+      "sourceId": "town",
+      "sourceIds": [
+        "town"
+      ],
+      "ru": [
+        "город",
+        "град",
+        "городок"
+      ],
+      "gender": "f",
+      "example": "Cette ville est très ancienne.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "circulation",
+      "word": "circulation",
+      "en": "circulation",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "gender": "f",
+      "example": "La circulation est très dense ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tunnel",
+      "word": "tunnel",
+      "en": "tunnel",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "gender": "m",
+      "example": "Le train traverse un long tunnel.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "universite",
+      "word": "université",
+      "en": "université",
+      "sourceId": "university",
+      "sourceIds": [
+        "university"
+      ],
+      "ru": [
+        "университет"
+      ],
+      "gender": "f",
+      "example": "Elle étudie à l'université.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "urbain",
+      "word": "urbain",
+      "en": "urbain",
+      "sourceId": "urban",
+      "sourceIds": [
+        "urban"
+      ],
+      "ru": [
+        "городской"
+      ],
+      "gender": null,
+      "example": "Il préfère le style de vie urbain.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "village",
+      "word": "village",
+      "en": "village",
+      "sourceId": "village",
+      "sourceIds": [
+        "village"
+      ],
+      "ru": [
+        "деревня",
+        "село",
+        "аул"
+      ],
+      "gender": "m",
+      "example": "Il habite dans un petit village pittoresque.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "villageois",
+      "word": "villageois",
+      "en": "villageois",
+      "sourceId": "villager",
+      "sourceIds": [
+        "villager"
+      ],
+      "ru": [
+        "деревенский житель",
+        "деревенская жительница",
+        "сельский житель"
+      ],
+      "gender": "m",
+      "example": "Le villageois travaille dans les champs.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "visiter",
+      "word": "visiter",
+      "en": "visiter",
+      "sourceId": "visit",
+      "sourceIds": [
+        "visit"
+      ],
+      "ru": [
+        "посещать"
+      ],
+      "gender": null,
+      "example": "Visitez le musée.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "visiteur",
+      "word": "visiteur",
+      "en": "visiteur",
+      "sourceId": "visitor",
+      "sourceIds": [
+        "visitor"
+      ],
+      "ru": [
+        "гость",
+        "гостья",
+        "посетитель"
+      ],
+      "gender": "m",
+      "example": "Le visiteur attend à la réception.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mur",
+      "word": "mur",
+      "en": "mur",
+      "sourceId": "wall",
+      "sourceIds": [
+        "wall"
+      ],
+      "ru": [
+        "стена",
+        "вал"
+      ],
+      "gender": "m",
+      "example": "Il a peint le mur en bleu.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ou",
+      "word": "où",
+      "en": "où",
+      "sourceId": "where",
+      "sourceIds": [
+        "where"
+      ],
+      "ru": [
+        "где",
+        "куда",
+        "откуда"
+      ],
+      "gender": null,
+      "example": "Où vas-tu ?",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "zone",
+      "word": "zone",
+      "en": "zone",
+      "sourceId": "zone",
+      "sourceIds": [
+        "zone"
+      ],
+      "ru": [
+        "область",
+        "пояс",
+        "зона"
+      ],
+      "gender": "f",
+      "example": "Il est interdit de stationner dans cette zone.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "zoo",
+      "word": "zoo",
+      "en": "zoo",
+      "sourceId": "zoo",
+      "sourceIds": [
+        "zoo"
+      ],
+      "ru": [
+        "зоопарк",
+        "зверинец",
+        "зоологический сад"
+      ],
+      "gender": "m",
+      "example": "Nous allons au zoo pour voir les lions.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "pole",
+      "word": "pôle",
+      "en": "pôle",
+      "sourceId": "pole",
+      "sourceIds": [
+        "pole"
+      ],
+      "ru": [
+        "столб",
+        "шест"
+      ],
+      "gender": "m",
+      "example": "Retour au pôle Sud.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cabine",
+      "word": "cabine",
+      "en": "cabine",
+      "sourceId": "booth",
+      "sourceIds": [
+        "booth"
+      ],
+      "ru": [
+        "будка",
+        "кабинка"
+      ],
+      "gender": "f",
+      "example": "Il s'est enfermé dans la cabine téléphonique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "decharge",
+      "word": "décharge",
+      "en": "décharge",
+      "sourceId": "dumpsite",
+      "sourceIds": [
+        "dumpsite",
+        "junkyard"
+      ],
+      "ru": [
+        "свалка"
+      ],
+      "gender": "f",
+      "example": "La décharge se trouve juste en amont.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "loge-vip",
+      "word": "loge VIP",
+      "en": "loge VIP",
+      "sourceId": "skybox",
+      "sourceIds": [
+        "skybox"
+      ],
+      "ru": [
+        "вип-ложа"
+      ],
+      "gender": "f",
+      "example": "Elle a des places en loge VIP.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "souterrain",
+      "word": "souterrain",
+      "en": "souterrain",
+      "sourceId": "underground",
+      "sourceIds": [
+        "underground"
+      ],
+      "ru": [
+        "подземный"
+      ],
+      "gender": null,
+      "example": "Ils sont souterrains.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "toilettes-mobiles",
+      "word": "toilettes mobiles",
+      "en": "toilettes mobiles",
+      "sourceId": "portaloo",
+      "sourceIds": [
+        "portaloo"
+      ],
+      "ru": [
+        "биотуалет"
+      ],
+      "gender": "f",
+      "example": "Il faut aider à installer les toilettes mobiles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bordel",
+      "word": "bordel",
+      "en": "bordel",
+      "sourceId": "whorehouse",
+      "sourceIds": [
+        "whorehouse",
+        "brothel"
+      ],
+      "ru": [
+        "бордель"
+      ],
+      "gender": "m",
+      "example": "- dans un bordel, mon frère ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "taverne",
+      "word": "taverne",
+      "en": "taverne",
+      "sourceId": "tavern",
+      "sourceIds": [
+        "tavern"
+      ],
+      "ru": [
+        "таверна",
+        "трактир"
+      ],
+      "gender": "f",
+      "example": "Quelques serveuses de taverne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cachot",
+      "word": "cachot",
+      "en": "cachot",
+      "sourceId": "dungeon",
+      "sourceIds": [
+        "dungeon"
+      ],
+      "ru": [
+        "темница",
+        "подземелье"
+      ],
+      "gender": "m",
+      "example": "Ils ont été enfermés dans leurs cachots.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "citadelle",
+      "word": "citadelle",
+      "en": "citadelle",
+      "sourceId": "citadel",
+      "sourceIds": [
+        "citadel"
+      ],
+      "ru": [
+        "цитадель"
+      ],
+      "gender": "f",
+      "example": "Nous avons envoyé des demandes à la citadelle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tour-de-guet",
+      "word": "tour de guet",
+      "en": "tour de guet",
+      "sourceId": "watchtower",
+      "sourceIds": [
+        "watchtower"
+      ],
+      "ru": [
+        "сторожевая башня"
+      ],
+      "gender": "f",
+      "example": "Deux des tours de guet le long de la Voie des Os.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "forteresse",
+      "word": "forteresse",
+      "en": "forteresse",
+      "sourceId": "stronghold",
+      "sourceIds": [
+        "stronghold"
+      ],
+      "ru": [
+        "крепость",
+        "оплот"
+      ],
+      "gender": "f",
+      "example": "Une forteresse de montagne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "panneau-publicitaire",
+      "word": "panneau publicitaire",
+      "en": "panneau publicitaire",
+      "sourceId": "billboard",
+      "sourceIds": [
+        "billboard"
+      ],
+      "ru": [
+        "рекламный щит"
+      ],
+      "gender": "m",
+      "example": "Avec un panneau publicitaire à Times Square.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chateau",
+      "word": "château",
+      "en": "château",
+      "sourceId": "chateau",
+      "sourceIds": [
+        "chateau"
+      ],
+      "ru": [
+        "замок",
+        "шато"
+      ],
+      "gender": "m",
+      "example": "Il habite dans un grand château.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "proprietaire-de-club",
+      "word": "propriétaire de club",
+      "en": "propriétaire de club",
+      "sourceId": "club-owner",
+      "sourceIds": [
+        "club-owner"
+      ],
+      "ru": [
+        "владелец клуба"
+      ],
+      "gender": "m",
+      "example": "Le propriétaire de club est arrivé tard.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "paver",
+      "word": "paver",
+      "en": "paver",
+      "sourceId": "pave",
+      "sourceIds": [
+        "pave"
+      ],
+      "ru": [
+        "мостить",
+        "прокладывать"
+      ],
+      "gender": null,
+      "example": "La rue est pavée de pierres anciennes.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "broadway",
+      "word": "Broadway",
+      "en": "Broadway",
+      "sourceId": "broadway",
+      "sourceIds": [
+        "broadway"
+      ],
+      "ru": [
+        "Бродвей"
+      ],
+      "gender": "m",
+      "example": "Il a joué dans la comédie musicale L'Homme de la Mancha à Broadway.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "decombres",
+      "word": "décombres",
+      "en": "décombres",
+      "sourceId": "rubble",
+      "sourceIds": [
+        "rubble"
+      ],
+      "ru": [
+        "обломки",
+        "развалины"
+      ],
+      "gender": "m",
+      "example": "Alors que je fouillais dans les décombres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "en-surface",
+      "word": "en surface",
+      "en": "en surface",
+      "sourceId": "aboveground",
+      "sourceIds": [
+        "aboveground"
+      ],
+      "ru": [
+        "наземный"
+      ],
+      "gender": null,
+      "example": "Comment est-ce en surface ?",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "banc",
+      "word": "banc",
+      "en": "banc",
+      "sourceId": "bench",
+      "sourceIds": [
+        "bench"
+      ],
+      "ru": [
+        "скамейка"
+      ],
+      "gender": "m",
+      "example": "de quelqu'un qui est assis sur son banc",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "toilettes",
+      "word": "toilettes",
+      "en": "toilettes",
+      "sourceId": "restroom",
+      "sourceIds": [
+        "restroom",
+        "lavatory"
+      ],
+      "ru": [
+        "туалет"
+      ],
+      "gender": "f",
+      "example": "Je dois juste aller aux toilettes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "escalier-mecanique",
+      "word": "escalier mécanique",
+      "en": "escalier mécanique",
+      "sourceId": "escalator",
+      "sourceIds": [
+        "escalator"
+      ],
+      "ru": [
+        "эскалатор"
+      ],
+      "gender": "m",
+      "example": "Donnez-moi les images de vidéosurveillance de cet escalier mécanique immédiatement.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hall",
+      "word": "hall",
+      "en": "hall",
+      "sourceId": "concourse",
+      "sourceIds": [
+        "concourse"
+      ],
+      "ru": [
+        "вестибюль",
+        "зал ожидания"
+      ],
+      "gender": "m",
+      "example": "Au bout de ce hall.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mosquee",
+      "word": "mosquée",
+      "en": "mosquée",
+      "sourceId": "mosque",
+      "sourceIds": [
+        "mosque"
+      ],
+      "ru": [
+        "мечеть"
+      ],
+      "gender": "f",
+      "example": "Il fréquentait la mosquée locale.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "metropolitain",
+      "word": "métropolitain",
+      "en": "métropolitain",
+      "sourceId": "metropolitan",
+      "sourceIds": [
+        "metropolitan"
+      ],
+      "ru": [
+        "столичный"
+      ],
+      "gender": null,
+      "example": "Il travaille pour la police métropolitaine.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "canal",
+      "word": "canal",
+      "en": "canal",
+      "sourceId": "canal",
+      "sourceIds": [
+        "canal"
+      ],
+      "ru": [
+        "канал"
+      ],
+      "gender": "m",
+      "example": "Il faut nettoyer les canaux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "jonction",
+      "word": "jonction",
+      "en": "jonction",
+      "sourceId": "junction",
+      "sourceIds": [
+        "junction"
+      ],
+      "ru": [
+        "перекресток",
+        "соединение"
+      ],
+      "gender": "f",
+      "example": "Nous sommes juste à l'extérieur de la jonction.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "abbaye",
+      "word": "abbaye",
+      "en": "abbaye",
+      "sourceId": "abbey",
+      "sourceIds": [
+        "abbey"
+      ],
+      "ru": [
+        "аббатство"
+      ],
+      "gender": "f",
+      "example": "Les moines vivent dans cette abbaye.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arrondissement",
+      "word": "arrondissement",
+      "en": "arrondissement",
+      "sourceId": "borough",
+      "sourceIds": [
+        "borough"
+      ],
+      "ru": [
+        "район города"
+      ],
+      "gender": "m",
+      "example": "Il habite dans un arrondissement calme de la ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arche",
+      "word": "arche",
+      "en": "arche",
+      "sourceId": "arch",
+      "sourceIds": [
+        "arch",
+        "archway"
+      ],
+      "ru": [
+        "арка",
+        "свод"
+      ],
+      "gender": "f",
+      "example": "dans chacune des arches de roue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "esplanade",
+      "word": "esplanade",
+      "en": "esplanade",
+      "sourceId": "forecourt",
+      "sourceIds": [
+        "forecourt"
+      ],
+      "ru": [
+        "привокзальная площадь",
+        "площадка перед зданием"
+      ],
+      "gender": "f",
+      "example": "Il s'est garé sur l'esplanade de la station-service.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hangar",
+      "word": "hangar",
+      "en": "hangar",
+      "sourceId": "hangar",
+      "sourceIds": [
+        "hangar"
+      ],
+      "ru": [
+        "ангар"
+      ],
+      "gender": "m",
+      "example": "Tout le hangar ferait juste ça.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "metro",
+      "word": "métro",
+      "en": "métro",
+      "sourceId": "metro",
+      "sourceIds": [
+        "metro"
+      ],
+      "ru": [
+        "метро"
+      ],
+      "gender": "m",
+      "example": "Je prends le métro pour aller au travail.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "centre",
+      "word": "centre",
+      "en": "centre",
+      "sourceId": "centre",
+      "sourceIds": [
+        "centre"
+      ],
+      "ru": [
+        "центр"
+      ],
+      "gender": "m",
+      "example": "Au centre, il y a un accéléromètre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bunker",
+      "word": "bunker",
+      "en": "bunker",
+      "sourceId": "bunker",
+      "sourceIds": [
+        "bunker"
+      ],
+      "ru": [
+        "бункер"
+      ],
+      "gender": "m",
+      "example": "Le caméraman l'a ramené au bunker de Top Gear.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rampe",
+      "word": "rampe",
+      "en": "rampe",
+      "sourceId": "ramp",
+      "sourceIds": [
+        "ramp"
+      ],
+      "ru": [
+        "пандус"
+      ],
+      "gender": "f",
+      "example": "Il a monté son vélo sur la rampe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fosse",
+      "word": "fossé",
+      "en": "fossé",
+      "sourceId": "moat",
+      "sourceIds": [
+        "moat"
+      ],
+      "ru": [
+        "ров"
+      ],
+      "gender": "m",
+      "example": "ou le conduire dans son fossé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ghetto",
+      "word": "ghetto",
+      "en": "ghetto",
+      "sourceId": "ghetto",
+      "sourceIds": [
+        "ghetto"
+      ],
+      "ru": [
+        "гетто"
+      ],
+      "gender": "m",
+      "example": "Il existe encore beaucoup de ghettos dans le monde.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gouttiere",
+      "word": "gouttière",
+      "en": "gouttière",
+      "sourceId": "gutter",
+      "sourceIds": [
+        "gutter"
+      ],
+      "ru": [
+        "водосточный желоб",
+        "канава"
+      ],
+      "gender": "f",
+      "example": "L'eau de pluie s'écoule dans la gouttière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cimetiere",
+      "word": "cimetière",
+      "en": "cimetière",
+      "sourceId": "cemetery",
+      "sourceIds": [
+        "cemetery"
+      ],
+      "ru": [
+        "кладбище"
+      ],
+      "gender": "m",
+      "example": "Il y a un cimetière à moins de 10 kilomètres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "foyer",
+      "word": "foyer",
+      "en": "foyer",
+      "sourceId": "foyer",
+      "sourceIds": [
+        "foyer"
+      ],
+      "ru": [
+        "фойе",
+        "вестибюль"
+      ],
+      "gender": "m",
+      "example": "Nous sommes réunis ici dans le foyer du théâtre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mausolee",
+      "word": "mausolée",
+      "en": "mausolée",
+      "sourceId": "mausoleum",
+      "sourceIds": [
+        "mausoleum"
+      ],
+      "ru": [
+        "мавзолей"
+      ],
+      "gender": "m",
+      "example": "Nous sommes passés devant le mausolée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cloitre",
+      "word": "cloître",
+      "en": "cloître",
+      "sourceId": "cloister",
+      "sourceIds": [
+        "cloister"
+      ],
+      "ru": [
+        "монастырь"
+      ],
+      "gender": "m",
+      "example": "Je dois maintenant me cloîtrer dans le laboratoire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "barricade",
+      "word": "barricade",
+      "en": "barricade",
+      "sourceId": "barricade",
+      "sourceIds": [
+        "barricade"
+      ],
+      "ru": [
+        "баррикада",
+        "заграждение"
+      ],
+      "gender": "f",
+      "example": "Haha, le jeu des barricades.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ville-souterraine",
+      "word": "ville souterraine",
+      "en": "ville souterraine",
+      "sourceId": "undercity",
+      "sourceIds": [
+        "undercity"
+      ],
+      "ru": [
+        "подземный город"
+      ],
+      "gender": "f",
+      "example": "Oui, moi et la moitié de la ville souterraine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "commissariat",
+      "word": "commissariat",
+      "en": "commissariat",
+      "sourceId": "precinct",
+      "sourceIds": [
+        "precinct"
+      ],
+      "ru": [
+        "полицейский участок",
+        "избирательный округ"
+      ],
+      "gender": "m",
+      "example": "Le commissariat est corrompu.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-l-echelle-de-la-ville",
+      "word": "à l'échelle de la ville",
+      "en": "à l'échelle de la ville",
+      "sourceId": "citywide",
+      "sourceIds": [
+        "citywide"
+      ],
+      "ru": [
+        "общегородской"
+      ],
+      "gender": null,
+      "example": "Il y a une campagne à l'échelle de la ville pour nettoyer les parcs.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "cachette",
+      "word": "cachette",
+      "en": "cachette",
+      "sourceId": "hideout",
+      "sourceIds": [
+        "hideout"
+      ],
+      "ru": [
+        "убежище",
+        "тайник"
+      ],
+      "gender": "f",
+      "example": "Nous devons trouver une cachette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "horizon",
+      "word": "horizon",
+      "en": "horizon",
+      "sourceId": "skyline",
+      "sourceIds": [
+        "skyline"
+      ],
+      "ru": [
+        "линия горизонта",
+        "силуэт города"
+      ],
+      "gender": "m",
+      "example": "La lune, les étoiles et l'horizon scintillant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "igloo",
+      "word": "igloo",
+      "en": "igloo",
+      "sourceId": "igloo",
+      "sourceIds": [
+        "igloo"
+      ],
+      "ru": [
+        "иглу"
+      ],
+      "gender": "m",
+      "example": "Nous construisons un igloo à Central Park.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boucler",
+      "word": "boucler",
+      "en": "boucler",
+      "sourceId": "cordon",
+      "sourceIds": [
+        "cordon"
+      ],
+      "ru": [
+        "оцеплять"
+      ],
+      "gender": null,
+      "example": "La police a bouclé tout le quartier.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "trottoir",
+      "word": "bordure de trottoir",
+      "en": "bordure de trottoir",
+      "sourceId": "kerb",
+      "sourceIds": [
+        "kerb"
+      ],
+      "ru": [
+        "бордюр"
+      ],
+      "gender": "f",
+      "example": "La voiture a heurté la bordure de trottoir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "de-banlieue",
+      "word": "de banlieue",
+      "en": "de banlieue",
+      "sourceId": "suburban",
+      "sourceIds": [
+        "suburban"
+      ],
+      "ru": [
+        "пригородный"
+      ],
+      "gender": null,
+      "example": "Une maison de banlieue.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "bidonville",
+      "word": "bidonville",
+      "en": "bidonville",
+      "sourceId": "slum",
+      "sourceIds": [
+        "slum"
+      ],
+      "ru": [
+        "трущобы"
+      ],
+      "gender": "m",
+      "example": "Il a grandi dans un bidonville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ruelle",
+      "word": "ruelle",
+      "en": "ruelle",
+      "sourceId": "backstreet",
+      "sourceIds": [
+        "backstreet"
+      ],
+      "ru": [
+        "переулок",
+        "задворки"
+      ],
+      "gender": "f",
+      "example": "J'ai vérifié chaque ruelle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "effraction",
+      "word": "effraction",
+      "en": "effraction",
+      "sourceId": "house-breaking",
+      "sourceIds": [
+        "house-breaking"
+      ],
+      "ru": [
+        "взлом"
+      ],
+      "gender": "f",
+      "example": "Le voleur a commis une effraction pour entrer dans la maison.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "banc-d-eglise",
+      "word": "banc d'église",
+      "en": "banc d'église",
+      "sourceId": "pew",
+      "sourceIds": [
+        "pew"
+      ],
+      "ru": [
+        "церковная скамья"
+      ],
+      "gender": "m",
+      "example": "Asseyez-vous sur ce banc d'église.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "capitole",
+      "word": "capitole",
+      "en": "capitole",
+      "sourceId": "capitol",
+      "sourceIds": [
+        "capitol"
+      ],
+      "ru": [
+        "капитолий"
+      ],
+      "gender": "m",
+      "example": "Le Capitole est le siège du Congrès des États-Unis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "demolition",
+      "word": "démolition",
+      "en": "démolition",
+      "sourceId": "demolition",
+      "sourceIds": [
+        "demolition"
+      ],
+      "ru": [
+        "снос",
+        "разрушение"
+      ],
+      "gender": "f",
+      "example": "L'équipement de démolition est arrivé sur le chantier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "viaduc",
+      "word": "viaduc",
+      "en": "viaduc",
+      "sourceId": "viaduct",
+      "sourceIds": [
+        "viaduct"
+      ],
+      "ru": [
+        "виадук"
+      ],
+      "gender": "m",
+      "example": "Juste avant le viaduc de Bergen.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "poste-d-observation",
+      "word": "poste d'observation",
+      "en": "poste d'observation",
+      "sourceId": "lookout",
+      "sourceIds": [
+        "lookout"
+      ],
+      "ru": [
+        "наблюдательный пункт",
+        "дозор"
+      ],
+      "gender": "f",
+      "example": "Tu es au poste d'observation pour voir les canards, papa ?",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

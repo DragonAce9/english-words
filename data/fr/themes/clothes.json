@@ -1,0 +1,2695 @@
+{
+  "id": "clothes",
+  "title": "Одежда",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "accessoire",
+      "word": "accessoire",
+      "en": "accessoire",
+      "sourceId": "accessory",
+      "sourceIds": [
+        "accessory"
+      ],
+      "ru": [
+        "аксессуар",
+        "дополнение"
+      ],
+      "gender": null,
+      "example": "Il a acheté un accessoire pour son téléphone.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "vetement",
+      "word": "vêtement",
+      "en": "vêtement",
+      "sourceId": "apparel",
+      "sourceIds": [
+        "apparel"
+      ],
+      "ru": [
+        "одежда",
+        "наряд"
+      ],
+      "gender": null,
+      "example": "Il porte un vêtement élégant pour la soirée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ceinture",
+      "word": "ceinture",
+      "en": "ceinture",
+      "sourceId": "belt",
+      "sourceIds": [
+        "belt"
+      ],
+      "ru": [
+        "ремень",
+        "пояс"
+      ],
+      "gender": "f",
+      "example": "Il a attaché sa ceinture de sécurité.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "blazer",
+      "word": "blazer",
+      "en": "blazer",
+      "sourceId": "blazer",
+      "sourceIds": [
+        "blazer"
+      ],
+      "ru": [
+        "блейзер"
+      ],
+      "gender": "m",
+      "example": "Il porte un blazer bleu marine pour l'entretien.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "blouse",
+      "word": "blouse",
+      "en": "blouse",
+      "sourceId": "blouse",
+      "sourceIds": [
+        "blouse"
+      ],
+      "ru": [
+        "блуза",
+        "блузка"
+      ],
+      "gender": "f",
+      "example": "Elle porte une jolie blouse en soie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "canotier",
+      "word": "canotier",
+      "en": "canotier",
+      "sourceId": "boater",
+      "sourceIds": [
+        "boater"
+      ],
+      "ru": [
+        "канотье"
+      ],
+      "gender": "m",
+      "example": "Il porte un canotier pour se protéger du soleil.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "botte",
+      "word": "botte",
+      "en": "botte",
+      "sourceId": "boot",
+      "sourceIds": [
+        "boot"
+      ],
+      "ru": [
+        "ботинок",
+        "сапог",
+        "башмак"
+      ],
+      "gender": "f",
+      "example": "Elle porte des bottes en cuir pour marcher dans la neige.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bracelet",
+      "word": "bracelet",
+      "en": "bracelet",
+      "sourceId": "bracelet",
+      "sourceIds": [
+        "bracelet"
+      ],
+      "ru": [
+        "браслет"
+      ],
+      "gender": "m",
+      "example": "Elle porte un joli bracelet en argent.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bouton",
+      "word": "bouton",
+      "en": "bouton",
+      "sourceId": "button",
+      "sourceIds": [
+        "button"
+      ],
+      "ru": [
+        "пуговица",
+        "кнопка",
+        "застёгивать"
+      ],
+      "gender": "m",
+      "example": "Il a perdu un bouton de sa chemise.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "casquette",
+      "word": "casquette",
+      "en": "casquette",
+      "sourceId": "cap",
+      "sourceIds": [
+        "cap"
+      ],
+      "ru": [
+        "фуражка",
+        "колпачок",
+        "крышечка"
+      ],
+      "gender": "f",
+      "example": "Il porte une casquette pour se protéger du soleil.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cabine-d-essayage",
+      "word": "cabine d'essayage",
+      "en": "cabine d'essayage",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "ru": [
+        "примерочная"
+      ],
+      "gender": "f",
+      "example": "Je vais essayer ce pantalon dans la cabine d'essayage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "manteau",
+      "word": "manteau",
+      "en": "manteau",
+      "sourceId": "cloak",
+      "sourceIds": [
+        "cloak"
+      ],
+      "ru": [
+        "плащ",
+        "мантия",
+        "покров"
+      ],
+      "gender": "m",
+      "example": "Il portait un long manteau noir pour se protéger du froid.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vetement",
+      "word": "vêtement",
+      "en": "vêtement",
+      "sourceId": "clothes",
+      "sourceIds": [
+        "clothes"
+      ],
+      "ru": [
+        "одежда",
+        "одёжа"
+      ],
+      "gender": "m",
+      "example": "Il porte des vêtements chauds en hiver.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "brosse-a-habits",
+      "word": "brosse à habits",
+      "en": "brosse à habits",
+      "sourceId": "clothes-brush",
+      "sourceIds": [
+        "clothes-brush"
+      ],
+      "ru": [
+        "платяная щётка"
+      ],
+      "gender": "f",
+      "example": "Il utilise une brosse à habits pour nettoyer son manteau.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "corde-a-linge",
+      "word": "corde à linge",
+      "en": "corde à linge",
+      "sourceId": "clothesline",
+      "sourceIds": [
+        "clothesline"
+      ],
+      "ru": [
+        "бельевая верёвка"
+      ],
+      "gender": "f",
+      "example": "J'ai étendu le linge sur la corde à linge.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "vetement",
+      "word": "vêtement",
+      "en": "vêtement",
+      "sourceId": "clothing",
+      "sourceIds": [
+        "clothing"
+      ],
+      "ru": [
+        "одежда"
+      ],
+      "gender": "m",
+      "example": "Il porte des vêtements chauds en hiver.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "manteau",
+      "word": "manteau",
+      "en": "manteau",
+      "sourceId": "coat",
+      "sourceIds": [
+        "coat"
+      ],
+      "ru": [
+        "пальто",
+        "пиджак"
+      ],
+      "gender": "m",
+      "example": "Il fait froid, mets ton manteau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "col",
+      "word": "col",
+      "en": "col",
+      "sourceId": "collar",
+      "sourceIds": [
+        "collar"
+      ],
+      "ru": [
+        "воротник",
+        "ворот"
+      ],
+      "gender": "m",
+      "example": "Il a déboutonné le col de sa chemise.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "costume",
+      "word": "costume",
+      "en": "costume",
+      "sourceId": "costume",
+      "sourceIds": [
+        "costume"
+      ],
+      "ru": [
+        "костюм",
+        "наряд"
+      ],
+      "gender": "m",
+      "example": "Il porte un beau costume pour le mariage.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "en-coton",
+      "word": "en coton",
+      "en": "en coton",
+      "sourceId": "cotton",
+      "sourceIds": [
+        "cotton"
+      ],
+      "ru": [
+        "хлопковый",
+        "хлопчатый",
+        "хлопчатобумажный"
+      ],
+      "gender": null,
+      "example": "Elle porte une chemise en coton.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "menottes",
+      "word": "menottes",
+      "en": "menottes",
+      "sourceId": "cuffs",
+      "sourceIds": [
+        "cuffs"
+      ],
+      "ru": [
+        "манжеты",
+        "наручники"
+      ],
+      "gender": "f",
+      "example": "Le policier a passé les menottes au suspect.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "robe",
+      "word": "robe",
+      "en": "robe",
+      "sourceId": "dress",
+      "sourceIds": [
+        "dress"
+      ],
+      "ru": [
+        "платье",
+        "одеваться"
+      ],
+      "gender": "f",
+      "example": "Elle porte une belle robe rouge.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "habille",
+      "word": "habillé",
+      "en": "habillé",
+      "sourceId": "dressed",
+      "sourceIds": [
+        "dressed"
+      ],
+      "ru": [
+        "одетый"
+      ],
+      "gender": null,
+      "example": "Il est bien habillé pour la fête.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "boucle-d-oreille",
+      "word": "boucle d'oreille",
+      "en": "boucle d'oreille",
+      "sourceId": "earring",
+      "sourceIds": [
+        "earring"
+      ],
+      "ru": [
+        "серёжка",
+        "серьга"
+      ],
+      "gender": "f",
+      "example": "Elle porte une belle boucle d'oreille en argent.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "mode",
+      "word": "mode",
+      "en": "mode",
+      "sourceId": "fashion",
+      "sourceIds": [
+        "fashion"
+      ],
+      "ru": [
+        "мода",
+        "способ",
+        "стиль"
+      ],
+      "gender": "f",
+      "example": "Elle s'intéresse beaucoup à la mode.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "a-la-mode",
+      "word": "à la mode",
+      "en": "à la mode",
+      "sourceId": "fashionable",
+      "sourceIds": [
+        "fashionable"
+      ],
+      "ru": [
+        "модный",
+        "фешенебельный"
+      ],
+      "gender": null,
+      "example": "C'est un restaurant très à la mode.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "fashionista",
+      "word": "fashionista",
+      "en": "fashionista",
+      "sourceId": "fashionista",
+      "sourceIds": [
+        "fashionista"
+      ],
+      "ru": [
+        "дизайнер",
+        "модник",
+        "модница"
+      ],
+      "gender": "f",
+      "example": "Elle est une vraie fashionista qui suit toutes les tendances.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "ajuste",
+      "word": "ajusté",
+      "en": "ajusté",
+      "sourceId": "fit",
+      "sourceIds": [
+        "fit"
+      ],
+      "ru": [
+        "сидеть по фигуре",
+        "подходить по размеру"
+      ],
+      "gender": null,
+      "example": "Cette veste est bien ajustée.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "essayage",
+      "word": "essayage",
+      "en": "essayage",
+      "sourceId": "fitting",
+      "sourceIds": [
+        "fitting"
+      ],
+      "ru": [
+        "примерка",
+        "подгонка"
+      ],
+      "gender": "m",
+      "example": "L'essayage de la robe a duré vingt minutes.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "cabine-d-essayage",
+      "word": "cabine d'essayage",
+      "en": "cabine d'essayage",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "ru": [
+        "примерочная комната"
+      ],
+      "gender": "f",
+      "example": "Où se trouve la cabine d'essayage ?",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "chapeau",
+      "word": "chapeau",
+      "en": "chapeau",
+      "sourceId": "hat",
+      "sourceIds": [
+        "hat"
+      ],
+      "ru": [
+        "шапка",
+        "шляпа",
+        "головной убор"
+      ],
+      "gender": "m",
+      "example": "Il porte un chapeau noir.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chapelier",
+      "word": "chapelier",
+      "en": "chapelier",
+      "sourceId": "hatter",
+      "sourceIds": [
+        "hatter"
+      ],
+      "ru": [
+        "шляпник",
+        "торговец шляпами",
+        "шляпный мастер"
+      ],
+      "gender": "m",
+      "example": "Le chapelier fabrique des chapeaux sur mesure.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sweat-a-capuche",
+      "word": "sweat à capuche",
+      "en": "sweat à capuche",
+      "sourceId": "hoodie",
+      "sourceIds": [
+        "hoodie"
+      ],
+      "ru": [
+        "балахон (с капюшоном)",
+        "толстовка (с капюшоном)",
+        "худи"
+      ],
+      "gender": "m",
+      "example": "Il porte un sweat à capuche bleu.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "veste",
+      "word": "veste",
+      "en": "veste",
+      "sourceId": "jacket",
+      "sourceIds": [
+        "jacket"
+      ],
+      "ru": [
+        "куртка",
+        "жакет",
+        "пиджак"
+      ],
+      "gender": "f",
+      "example": "Il porte une veste chaude pour sortir.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "jean",
+      "word": "jean",
+      "en": "jean",
+      "sourceId": "jeans",
+      "sourceIds": [
+        "jeans"
+      ],
+      "ru": [
+        "джинсы"
+      ],
+      "gender": "m",
+      "example": "Il porte un jean bleu.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "pull",
+      "word": "pull",
+      "en": "pull",
+      "sourceId": "jersey",
+      "sourceIds": [
+        "jersey"
+      ],
+      "ru": [
+        "свитер",
+        "джерси",
+        "кофта"
+      ],
+      "gender": "m",
+      "example": "Il porte un pull en laine.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bijoux",
+      "word": "bijoux",
+      "en": "bijoux",
+      "sourceId": "jewellery",
+      "sourceIds": [
+        "jewellery"
+      ],
+      "ru": [
+        "ювелирные изделия",
+        "бижутерия",
+        "драгоценности"
+      ],
+      "gender": "m",
+      "example": "Elle porte de magnifiques bijoux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pull",
+      "word": "pull",
+      "en": "pull",
+      "sourceId": "jumper",
+      "sourceIds": [
+        "jumper"
+      ],
+      "ru": [
+        "джемпер"
+      ],
+      "gender": "m",
+      "example": "Il porte un pull en laine bleu.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "lacer",
+      "word": "lacer",
+      "en": "lacer",
+      "sourceId": "lace",
+      "sourceIds": [
+        "lace"
+      ],
+      "ru": [
+        "кружево",
+        "шнурок"
+      ],
+      "gender": null,
+      "example": "Il faut lacer ses chaussures avant de sortir.",
+      "level": "C1",
+      "pos": "v"
+    },
+    {
+      "id": "en-cuir",
+      "word": "en cuir",
+      "en": "en cuir",
+      "sourceId": "leather",
+      "sourceIds": [
+        "leather"
+      ],
+      "ru": [
+        "кожа",
+        "кожаный"
+      ],
+      "gender": null,
+      "example": "Il porte une veste en cuir.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "similicuir",
+      "word": "similicuir",
+      "en": "similicuir",
+      "sourceId": "leatherette",
+      "sourceIds": [
+        "leatherette"
+      ],
+      "ru": [
+        "дерматин"
+      ],
+      "gender": "m",
+      "example": "Ce sac est fabriqué en similicuir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "maroquinerie",
+      "word": "maroquinerie",
+      "en": "maroquinerie",
+      "sourceId": "leatherwork",
+      "sourceIds": [
+        "leatherwork"
+      ],
+      "ru": [
+        "кожевничество"
+      ],
+      "gender": "f",
+      "example": "Il a appris la maroquinerie auprès d'un artisan local.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "lingerie",
+      "word": "lingerie",
+      "en": "lingerie",
+      "sourceId": "lingerie",
+      "sourceIds": [
+        "lingerie"
+      ],
+      "ru": [
+        "дамское бельё",
+        "женское нижнее бельё"
+      ],
+      "gender": "f",
+      "example": "Elle a acheté de la belle lingerie pour son mariage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "doublure",
+      "word": "doublure",
+      "en": "doublure",
+      "sourceId": "lining",
+      "sourceIds": [
+        "lining"
+      ],
+      "ru": [
+        "подкладка"
+      ],
+      "gender": "f",
+      "example": "Cette veste a une doublure en soie.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "ample",
+      "word": "ample",
+      "en": "ample",
+      "sourceId": "loose",
+      "sourceIds": [
+        "loose"
+      ],
+      "ru": [
+        "свободный",
+        "широкий"
+      ],
+      "gender": null,
+      "example": "Il porte un pantalon ample.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "nu",
+      "word": "nu",
+      "en": "nu",
+      "sourceId": "naked",
+      "sourceIds": [
+        "naked"
+      ],
+      "ru": [
+        "голый",
+        "обнажённый",
+        "нагой"
+      ],
+      "gender": null,
+      "example": "Il est sorti nu dans le jardin.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "collier",
+      "word": "collier",
+      "en": "collier",
+      "sourceId": "necklace",
+      "sourceIds": [
+        "necklace"
+      ],
+      "ru": [
+        "ожерелье",
+        "колье",
+        "монисто"
+      ],
+      "gender": "m",
+      "example": "Elle porte un magnifique collier en or.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "tenue",
+      "word": "tenue",
+      "en": "tenue",
+      "sourceId": "outfit",
+      "sourceIds": [
+        "outfit"
+      ],
+      "ru": [
+        "костюм",
+        "наряд",
+        "обмундирование"
+      ],
+      "gender": "f",
+      "example": "Elle porte une tenue élégante pour la soirée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "salopette",
+      "word": "salopette",
+      "en": "salopette",
+      "sourceId": "overalls",
+      "sourceIds": [
+        "overalls"
+      ],
+      "ru": [
+        "комбинезон",
+        "полукомбинезон"
+      ],
+      "gender": "f",
+      "example": "Il porte une salopette pour travailler dans le jardin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "manteau",
+      "word": "manteau",
+      "en": "manteau",
+      "sourceId": "overcoat",
+      "sourceIds": [
+        "overcoat"
+      ],
+      "ru": [
+        "пальто",
+        "шинель"
+      ],
+      "gender": "m",
+      "example": "Il porte un manteau chaud en hiver.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pyjama",
+      "word": "pyjama",
+      "en": "pyjama",
+      "sourceId": "pajamas",
+      "sourceIds": [
+        "pajamas",
+        "pajama"
+      ],
+      "ru": [
+        "пижама"
+      ],
+      "gender": "m",
+      "example": "Il porte un pyjama bleu pour dormir.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pantalon",
+      "word": "pantalon",
+      "en": "pantalon",
+      "sourceId": "pants",
+      "sourceIds": [
+        "pants"
+      ],
+      "ru": [
+        "брюки",
+        "штаны"
+      ],
+      "gender": "m",
+      "example": "Il porte un pantalon bleu.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "poche",
+      "word": "poche",
+      "en": "poche",
+      "sourceId": "pocket",
+      "sourceIds": [
+        "pocket"
+      ],
+      "ru": [
+        "карман"
+      ],
+      "gender": "f",
+      "example": "J'ai mis mes clés dans ma poche.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "portefeuille",
+      "word": "portefeuille",
+      "en": "portefeuille",
+      "sourceId": "purse",
+      "sourceIds": [
+        "purse"
+      ],
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "мошна"
+      ],
+      "gender": "m",
+      "example": "Il a oublié son portefeuille sur la table.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "impermeable",
+      "word": "imperméable",
+      "en": "imperméable",
+      "sourceId": "raincoat",
+      "sourceIds": [
+        "raincoat"
+      ],
+      "ru": [
+        "плащ",
+        "дождевик"
+      ],
+      "gender": "m",
+      "example": "N'oublie pas ton imperméable, il va pleuvoir.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bande",
+      "word": "bande",
+      "en": "bande",
+      "sourceId": "ring",
+      "sourceIds": [
+        "ring"
+      ],
+      "ru": [
+        "банда",
+        "группировка",
+        "клика"
+      ],
+      "gender": "f",
+      "example": "La police a démantelé une bande de voleurs.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "robe",
+      "word": "robe",
+      "en": "robe",
+      "sourceId": "robe",
+      "sourceIds": [
+        "robe"
+      ],
+      "ru": [
+        "мантия",
+        "халат"
+      ],
+      "gender": "f",
+      "example": "Elle porte une belle robe rouge.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "echarpe",
+      "word": "écharpe",
+      "en": "écharpe",
+      "sourceId": "scarf",
+      "sourceIds": [
+        "scarf"
+      ],
+      "ru": [
+        "шарф"
+      ],
+      "gender": "f",
+      "example": "Il porte une écharpe en laine pour se protéger du froid.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chemise",
+      "word": "chemise",
+      "en": "chemise",
+      "sourceId": "shirt",
+      "sourceIds": [
+        "shirt"
+      ],
+      "ru": [
+        "рубашка",
+        "сорочка"
+      ],
+      "gender": "f",
+      "example": "Il porte une chemise blanche.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "short",
+      "word": "short",
+      "en": "short",
+      "sourceId": "shorts",
+      "sourceIds": [
+        "shorts"
+      ],
+      "ru": [
+        "шорты"
+      ],
+      "gender": "m",
+      "example": "Il porte un short bleu en été.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "soie",
+      "word": "soie",
+      "en": "soie",
+      "sourceId": "silk",
+      "sourceIds": [
+        "silk"
+      ],
+      "ru": [
+        "шёлк"
+      ],
+      "gender": "f",
+      "example": "Cette robe est faite de soie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "taille",
+      "word": "taille",
+      "en": "taille",
+      "sourceId": "size",
+      "sourceIds": [
+        "size"
+      ],
+      "ru": [
+        "величина",
+        "объём",
+        "размер"
+      ],
+      "gender": "f",
+      "example": "Quelle est votre taille de chaussures ?",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "jupe",
+      "word": "jupe",
+      "en": "jupe",
+      "sourceId": "skirt",
+      "sourceIds": [
+        "skirt"
+      ],
+      "ru": [
+        "юбка"
+      ],
+      "gender": "f",
+      "example": "Elle porte une jupe bleue.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "manche",
+      "word": "manche",
+      "en": "manche",
+      "sourceId": "sleeve",
+      "sourceIds": [
+        "sleeve"
+      ],
+      "ru": [
+        "рукав",
+        "втулка",
+        "гильза"
+      ],
+      "gender": "f",
+      "example": "Cette chemise a des manches longues.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bas",
+      "word": "bas",
+      "en": "bas",
+      "sourceId": "stocking",
+      "sourceIds": [
+        "stocking"
+      ],
+      "ru": [
+        "чулок"
+      ],
+      "gender": "m",
+      "example": "Elle porte des bas en soie.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "costume",
+      "word": "costume",
+      "en": "costume",
+      "sourceId": "suit",
+      "sourceIds": [
+        "suit"
+      ],
+      "ru": [
+        "костюм",
+        "комбинезон",
+        "масть"
+      ],
+      "gender": "m",
+      "example": "Il porte un costume bleu pour le mariage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lunettes-de-soleil",
+      "word": "lunettes de soleil",
+      "en": "lunettes de soleil",
+      "sourceId": "sunglasses",
+      "sourceIds": [
+        "sunglasses"
+      ],
+      "ru": [
+        "солнцезащитные очки",
+        "солнечные очки",
+        "тёмные очки"
+      ],
+      "gender": "f",
+      "example": "J'ai oublié mes lunettes de soleil à la maison.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "pull",
+      "word": "pull",
+      "en": "pull",
+      "sourceId": "sweater",
+      "sourceIds": [
+        "sweater"
+      ],
+      "ru": [
+        "джемпер",
+        "кофта",
+        "пуловер"
+      ],
+      "gender": "m",
+      "example": "Il porte un pull en laine bleu.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "serre",
+      "word": "serré",
+      "en": "serré",
+      "sourceId": "tight",
+      "sourceIds": [
+        "tight"
+      ],
+      "ru": [
+        "тесный",
+        "тугой"
+      ],
+      "gender": null,
+      "example": "Ces chaussures sont trop serrées.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "collants",
+      "word": "collants",
+      "en": "collants",
+      "sourceId": "tights",
+      "sourceIds": [
+        "tights"
+      ],
+      "ru": [
+        "колготки",
+        "трико"
+      ],
+      "gender": "m",
+      "example": "Elle porte des collants noirs avec sa jupe.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "essayer",
+      "word": "essayer",
+      "en": "essayer",
+      "sourceId": "try-on",
+      "sourceIds": [
+        "try-on"
+      ],
+      "ru": [
+        "примерять"
+      ],
+      "gender": null,
+      "example": "Je voudrais essayer cette chemise.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "sous-vetement",
+      "word": "sous-vêtement",
+      "en": "sous-vêtement",
+      "sourceId": "underwear",
+      "sourceIds": [
+        "underwear"
+      ],
+      "ru": [
+        "бельё",
+        "исподнее",
+        "нижнее бельё"
+      ],
+      "gender": "m",
+      "example": "Il a acheté un nouveau sous-vêtement en coton.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "uniforme",
+      "word": "uniforme",
+      "en": "uniforme",
+      "sourceId": "uniform",
+      "sourceIds": [
+        "uniform"
+      ],
+      "ru": [
+        "однообразный",
+        "равномерный",
+        "единообразный"
+      ],
+      "gender": null,
+      "example": "La température reste uniforme dans toute la pièce.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "gilet",
+      "word": "gilet",
+      "en": "gilet",
+      "sourceId": "vest",
+      "sourceIds": [
+        "vest",
+        "waistcoat"
+      ],
+      "ru": [
+        "безрукавка",
+        "жилет",
+        "жилетка"
+      ],
+      "gender": "m",
+      "example": "Il porte un gilet sous sa veste.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vintage",
+      "word": "vintage",
+      "en": "vintage",
+      "sourceId": "vintage",
+      "sourceIds": [
+        "vintage"
+      ],
+      "ru": [
+        "классический",
+        "выдержанный",
+        "марочный"
+      ],
+      "gender": null,
+      "example": "Elle porte une robe vintage magnifique.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "porter",
+      "word": "porter",
+      "en": "porter",
+      "sourceId": "wear",
+      "sourceIds": [
+        "wear"
+      ],
+      "ru": [
+        "носить"
+      ],
+      "gender": null,
+      "example": "Portez un manteau chaud.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "laine",
+      "word": "laine",
+      "en": "laine",
+      "sourceId": "wool",
+      "sourceIds": [
+        "wool"
+      ],
+      "ru": [
+        "шерсть",
+        "пряжа"
+      ],
+      "gender": "f",
+      "example": "Ce pull est fait en pure laine.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "en-laine",
+      "word": "en laine",
+      "en": "en laine",
+      "sourceId": "woolly",
+      "sourceIds": [
+        "woolly"
+      ],
+      "ru": [
+        "шерстяной"
+      ],
+      "gender": null,
+      "example": "Il porte un pull en laine très chaud.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "sifflement",
+      "word": "sifflement",
+      "en": "sifflement",
+      "sourceId": "zip",
+      "sourceIds": [
+        "zip"
+      ],
+      "ru": [
+        "свист",
+        "живость"
+      ],
+      "gender": "m",
+      "example": "J'ai entendu le sifflement du vent.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tres-grand",
+      "word": "très grand",
+      "en": "très grand",
+      "sourceId": "xl",
+      "sourceIds": [
+        "xl"
+      ],
+      "ru": [
+        "очень большой"
+      ],
+      "gender": null,
+      "example": "La matrice des appareils pris en charge inclut le Pixel 9 Pro XL.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "chaussette",
+      "word": "chaussette",
+      "en": "chaussette",
+      "sourceId": "sock",
+      "sourceIds": [
+        "sock"
+      ],
+      "ru": [
+        "носок"
+      ],
+      "gender": "f",
+      "example": "Il porte des chaussettes rouges.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "postiche",
+      "word": "postiche",
+      "en": "postiche",
+      "sourceId": "hairpiece",
+      "sourceIds": [
+        "hairpiece"
+      ],
+      "ru": [
+        "парик",
+        "накладка"
+      ],
+      "gender": "m",
+      "example": "et un postiche ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "moufle",
+      "word": "moufle",
+      "en": "moufle",
+      "sourceId": "mitten",
+      "sourceIds": [
+        "mitten"
+      ],
+      "ru": [
+        "варежка"
+      ],
+      "gender": "f",
+      "example": "Et quelque chose avec des moufles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "decontracte",
+      "word": "décontracté",
+      "en": "décontracté",
+      "sourceId": "casual",
+      "sourceIds": [
+        "casual"
+      ],
+      "ru": [
+        "повседневный",
+        "небрежный",
+        "неформальный"
+      ],
+      "gender": null,
+      "example": "Nous avons eu une conversation agréable et décontractée.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "maquillage",
+      "word": "maquillage",
+      "en": "maquillage",
+      "sourceId": "makeup",
+      "sourceIds": [
+        "makeup"
+      ],
+      "ru": [
+        "макияж",
+        "косметика"
+      ],
+      "gender": "m",
+      "example": "Elle porte un maquillage léger.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "t-shirt",
+      "word": "t-shirt",
+      "en": "t-shirt",
+      "sourceId": "tee",
+      "sourceIds": [
+        "tee",
+        "t-shirt"
+      ],
+      "ru": [
+        "футболка"
+      ],
+      "gender": "m",
+      "example": "Vingt ans, un sac à dos, une chemise bleue, un t-shirt blanc.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "botte-en-caoutchouc",
+      "word": "botte en caoutchouc",
+      "en": "botte en caoutchouc",
+      "sourceId": "welly",
+      "sourceIds": [
+        "welly"
+      ],
+      "ru": [
+        "резиновый сапог"
+      ],
+      "gender": "f",
+      "example": "Je suis pratiquement Alan Sugar en bottes en caoutchouc.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lambeau",
+      "word": "lambeau",
+      "en": "lambeau",
+      "sourceId": "tatter",
+      "sourceIds": [
+        "tatter"
+      ],
+      "ru": [
+        "лохмотья",
+        "рвань"
+      ],
+      "gender": "m",
+      "example": "Le calendrier de construction est désormais en lambeaux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "justaucorps",
+      "word": "justaucorps",
+      "en": "justaucorps",
+      "sourceId": "leotard",
+      "sourceIds": [
+        "leotard"
+      ],
+      "ru": [
+        "купальник",
+        "трико"
+      ],
+      "gender": "m",
+      "example": "Les femmes viendront en justaucorps et diront.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coudre",
+      "word": "coudre",
+      "en": "coudre",
+      "sourceId": "stitch",
+      "sourceIds": [
+        "stitch"
+      ],
+      "ru": [
+        "шить",
+        "зашивать"
+      ],
+      "gender": null,
+      "example": "Elle apprend à coudre ses propres vêtements.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "gant",
+      "word": "gant",
+      "en": "gant",
+      "sourceId": "glove",
+      "sourceIds": [
+        "glove"
+      ],
+      "ru": [
+        "перчатка"
+      ],
+      "gender": "m",
+      "example": "Nymeria, des gants.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cuirasse",
+      "word": "cuirasse",
+      "en": "cuirasse",
+      "sourceId": "breastplate",
+      "sourceIds": [
+        "breastplate"
+      ],
+      "ru": [
+        "нагрудник",
+        "кираса"
+      ],
+      "gender": "f",
+      "example": "Il a enfoncé sa cuirasse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-brides",
+      "word": "à brides",
+      "en": "à brides",
+      "sourceId": "strappy",
+      "sourceIds": [
+        "strappy"
+      ],
+      "ru": [
+        "на ремешках"
+      ],
+      "gender": null,
+      "example": "Des sandales à brides de Manolo Blahnik.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "sandale",
+      "word": "sandale",
+      "en": "sandale",
+      "sourceId": "sandal",
+      "sourceIds": [
+        "sandal"
+      ],
+      "ru": [
+        "сандалия"
+      ],
+      "gender": "f",
+      "example": "Il porte des sandales en cuir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "perruque",
+      "word": "perruque",
+      "en": "perruque",
+      "sourceId": "wig",
+      "sourceIds": [
+        "wig"
+      ],
+      "ru": [
+        "парик"
+      ],
+      "gender": "f",
+      "example": "Garde ton calme.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "capot",
+      "word": "capot",
+      "en": "capot",
+      "sourceId": "hood",
+      "sourceIds": [
+        "hood"
+      ],
+      "ru": [
+        "капюшон",
+        "капот"
+      ],
+      "gender": "m",
+      "example": "Vérifie sous le capot.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "culotte",
+      "word": "culotte",
+      "en": "culotte",
+      "sourceId": "panty",
+      "sourceIds": [
+        "panty"
+      ],
+      "ru": [
+        "трусики"
+      ],
+      "gender": "f",
+      "example": "Garde ton calme, Nancy Drew.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "basket",
+      "word": "basket",
+      "en": "basket",
+      "sourceId": "sneaker",
+      "sourceIds": [
+        "sneaker"
+      ],
+      "ru": [
+        "кроссовок"
+      ],
+      "gender": "m",
+      "example": "Regarde ses baskets.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tissu",
+      "word": "tissu",
+      "en": "tissu",
+      "sourceId": "cloth",
+      "sourceIds": [
+        "cloth"
+      ],
+      "ru": [
+        "ткань",
+        "материя"
+      ],
+      "gender": "m",
+      "example": "fait du même tissu.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "seins-nus",
+      "word": "seins nus",
+      "en": "seins nus",
+      "sourceId": "topless",
+      "sourceIds": [
+        "topless"
+      ],
+      "ru": [
+        "топлес"
+      ],
+      "gender": "m",
+      "example": "Elle a pris des selfies seins nus.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rentrer",
+      "word": "rentrer",
+      "en": "rentrer",
+      "sourceId": "tuck",
+      "sourceIds": [
+        "tuck"
+      ],
+      "ru": [
+        "заправлять"
+      ],
+      "gender": null,
+      "example": "Il faut rentrer sa chemise dans son pantalon.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mode",
+      "word": "mode",
+      "en": "mode",
+      "sourceId": "vogue",
+      "sourceIds": [
+        "vogue"
+      ],
+      "ru": [
+        "мода"
+      ],
+      "gender": "f",
+      "example": "Les publicités pour le parfum dans le numéro de septembre de Vogue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chanel",
+      "word": "Chanel",
+      "en": "Chanel",
+      "sourceId": "chanel",
+      "sourceIds": [
+        "chanel"
+      ],
+      "ru": [
+        "Шанель"
+      ],
+      "gender": "m",
+      "example": "Dans une pièce remplie de Chanel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "caftan",
+      "word": "caftan",
+      "en": "caftan",
+      "sourceId": "caftan",
+      "sourceIds": [
+        "caftan"
+      ],
+      "ru": [
+        "кафтан"
+      ],
+      "gender": "m",
+      "example": "Elle enfile un caftan pour se détendre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nylon",
+      "word": "nylon",
+      "en": "nylon",
+      "sourceId": "nylon",
+      "sourceIds": [
+        "nylon"
+      ],
+      "ru": [
+        "нейлон"
+      ],
+      "gender": "m",
+      "example": "Il porte des bas en nylon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "teindre",
+      "word": "teindre",
+      "en": "teindre",
+      "sourceId": "dye",
+      "sourceIds": [
+        "dye"
+      ],
+      "ru": [
+        "красить"
+      ],
+      "gender": null,
+      "example": "Il a dû teindre son unité en bleu.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "echarpe",
+      "word": "écharpe",
+      "en": "écharpe",
+      "sourceId": "sash",
+      "sourceIds": [
+        "sash"
+      ],
+      "ru": [
+        "кушак",
+        "пояс"
+      ],
+      "gender": "f",
+      "example": "Depuis que tu portes cette écharpe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tricoter",
+      "word": "tricoter",
+      "en": "tricoter",
+      "sourceId": "knit",
+      "sourceIds": [
+        "knit"
+      ],
+      "ru": [
+        "вязать"
+      ],
+      "gender": null,
+      "example": "S'asseoir et tricoter ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "chaussure",
+      "word": "chaussure",
+      "en": "chaussure",
+      "sourceId": "shoe",
+      "sourceIds": [
+        "shoe"
+      ],
+      "ru": [
+        "обувь",
+        "ботинок"
+      ],
+      "gender": "f",
+      "example": "Cette chaussure est très confortable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cagoule",
+      "word": "cagoule",
+      "en": "cagoule",
+      "sourceId": "balaclava",
+      "sourceIds": [
+        "balaclava"
+      ],
+      "ru": [
+        "балаклава"
+      ],
+      "gender": "f",
+      "example": "Il portait une cagoule et un équipement tactique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lacet",
+      "word": "lacet",
+      "en": "lacet",
+      "sourceId": "shoelace",
+      "sourceIds": [
+        "shoelace"
+      ],
+      "ru": [
+        "шнурок"
+      ],
+      "gender": "m",
+      "example": "Il a oublié de nouer ses lacets.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mulet",
+      "word": "mulet",
+      "en": "mulet",
+      "sourceId": "mullet",
+      "sourceIds": [
+        "mullet"
+      ],
+      "ru": [
+        "кефаль",
+        "стрижка маллет"
+      ],
+      "gender": "m",
+      "example": "Il porte une coupe mulet très années 80.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chic",
+      "word": "chic",
+      "en": "chic",
+      "sourceId": "snazzy",
+      "sourceIds": [
+        "snazzy"
+      ],
+      "ru": [
+        "шикарный",
+        "стильный"
+      ],
+      "gender": null,
+      "example": "Des portes et des sièges chics là où il y avait du ciment.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "attacher",
+      "word": "attacher",
+      "en": "attacher",
+      "sourceId": "strap",
+      "sourceIds": [
+        "strap"
+      ],
+      "ru": [
+        "пристегивать"
+      ],
+      "gender": null,
+      "example": "Attachez quelques tubros.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "pare-soleil",
+      "word": "pare-soleil",
+      "en": "pare-soleil",
+      "sourceId": "visor",
+      "sourceIds": [
+        "visor"
+      ],
+      "ru": [
+        "козырек"
+      ],
+      "gender": null,
+      "example": "Et pour ça, tu auras de la chance si tu obtiens un pare-soleil.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "epingle-a-cheveux",
+      "word": "épingle à cheveux",
+      "en": "épingle à cheveux",
+      "sourceId": "hairpin",
+      "sourceIds": [
+        "hairpin"
+      ],
+      "ru": [
+        "шпилька"
+      ],
+      "gender": "f",
+      "example": "Prenez ce virage en épingle à cheveux à 240 km/h.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pantalon",
+      "word": "pantalon",
+      "en": "pantalon",
+      "sourceId": "trousers",
+      "sourceIds": [
+        "trousers"
+      ],
+      "ru": [
+        "брюки"
+      ],
+      "gender": "m",
+      "example": "Ce pantalon a été conçu conjointement par...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "livree",
+      "word": "livrée",
+      "en": "livrée",
+      "sourceId": "livery",
+      "sourceIds": [
+        "livery"
+      ],
+      "ru": [
+        "ливрея"
+      ],
+      "gender": "f",
+      "example": "Le valet portait une livrée aux couleurs de la famille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faineant",
+      "word": "fainéant",
+      "en": "fainéant",
+      "sourceId": "loafer",
+      "sourceIds": [
+        "loafer"
+      ],
+      "ru": [
+        "лоферы",
+        "бездельник"
+      ],
+      "gender": "m",
+      "example": "Il est un vrai fainéant qui ne fait jamais rien.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cargo",
+      "word": "cargo",
+      "en": "cargo",
+      "sourceId": "cargo-style",
+      "sourceIds": [
+        "cargo-style"
+      ],
+      "ru": [
+        "в стиле карго"
+      ],
+      "gender": "m",
+      "example": "J'ai opté pour un pantalon cargo.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tenue",
+      "word": "tenue",
+      "en": "tenue",
+      "sourceId": "attire",
+      "sourceIds": [
+        "attire"
+      ],
+      "ru": [
+        "одеяние",
+        "наряд"
+      ],
+      "gender": "f",
+      "example": "Notre tenue est également appropriée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "le-plus-mal-habille",
+      "word": "le plus mal habillé",
+      "en": "le plus mal habillé",
+      "sourceId": "worst-dressed",
+      "sourceIds": [
+        "worst-dressed"
+      ],
+      "ru": [
+        "плохо одетый"
+      ],
+      "gender": null,
+      "example": "L'homme le plus mal habillé de Grande-Bretagne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pantalon-cargo",
+      "word": "pantalon cargo",
+      "en": "pantalon cargo",
+      "sourceId": "cargo-pants",
+      "sourceIds": [
+        "cargo-pants"
+      ],
+      "ru": [
+        "брюки карго"
+      ],
+      "gender": "m",
+      "example": "Même dans ton pantalon cargo,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chaussure-bateau",
+      "word": "chaussure bateau",
+      "en": "chaussure bateau",
+      "sourceId": "topsider",
+      "sourceIds": [
+        "topsider"
+      ],
+      "ru": [
+        "топсайдеры"
+      ],
+      "gender": "f",
+      "example": "Il porte des chaussures bateau en cuir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "decollete",
+      "word": "décolleté",
+      "en": "décolleté",
+      "sourceId": "cleavage",
+      "sourceIds": [
+        "cleavage"
+      ],
+      "ru": [
+        "декольте"
+      ],
+      "gender": "m",
+      "example": "Elles portent des robes avec un décolleté plongeant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "soutien-gorge",
+      "word": "soutien-gorge",
+      "en": "soutien-gorge",
+      "sourceId": "brassiere",
+      "sourceIds": [
+        "brassiere"
+      ],
+      "ru": [
+        "бюстгальтер"
+      ],
+      "gender": "m",
+      "example": "Elle a acheté un nouveau soutien-gorge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "soutien-gorge-push-up",
+      "word": "soutien-gorge push-up",
+      "en": "soutien-gorge push-up",
+      "sourceId": "wonderbra",
+      "sourceIds": [
+        "wonderbra"
+      ],
+      "ru": [
+        "бюстгальтер пуш-ап"
+      ],
+      "gender": "m",
+      "example": "Elle porte un soutien-gorge push-up.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cravate",
+      "word": "cravate",
+      "en": "cravate",
+      "sourceId": "necktie",
+      "sourceIds": [
+        "necktie"
+      ],
+      "ru": [
+        "галстук"
+      ],
+      "gender": "f",
+      "example": "Il porte une cravate rouge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "civil",
+      "word": "civil",
+      "en": "civil",
+      "sourceId": "plainclothes",
+      "sourceIds": [
+        "plainclothes"
+      ],
+      "ru": [
+        "гражданская одежда"
+      ],
+      "gender": null,
+      "example": "Des policiers en civil sont sur les lieux !",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "moufle",
+      "word": "moufle",
+      "en": "moufle",
+      "sourceId": "mitt",
+      "sourceIds": [
+        "mitt"
+      ],
+      "ru": [
+        "варежка",
+        "перчатка"
+      ],
+      "gender": "f",
+      "example": "Il a perdu sa moufle dans la neige.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "combinaison",
+      "word": "combinaison",
+      "en": "combinaison",
+      "sourceId": "jumpsuit",
+      "sourceIds": [
+        "jumpsuit"
+      ],
+      "ru": [
+        "комбинезон"
+      ],
+      "gender": "f",
+      "example": "et dans une combinaison de prisonnier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bikini",
+      "word": "bikini",
+      "en": "bikini",
+      "sourceId": "bikini",
+      "sourceIds": [
+        "bikini"
+      ],
+      "ru": [
+        "бикини"
+      ],
+      "gender": "m",
+      "example": "Le bikini rouge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "combinaison-de-ski",
+      "word": "combinaison de ski",
+      "en": "combinaison de ski",
+      "sourceId": "snowsuit",
+      "sourceIds": [
+        "snowsuit"
+      ],
+      "ru": [
+        "комбинезон"
+      ],
+      "gender": "f",
+      "example": "Mets ta combinaison de ski !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dechemise",
+      "word": "sorti du pantalon",
+      "en": "sorti du pantalon",
+      "sourceId": "untucked",
+      "sourceIds": [
+        "untucked"
+      ],
+      "ru": [
+        "выправленный"
+      ],
+      "gender": null,
+      "example": "Sa chemise était sortie du pantalon.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "fermeture-eclair",
+      "word": "fermeture éclair",
+      "en": "fermeture éclair",
+      "sourceId": "zipper",
+      "sourceIds": [
+        "zipper"
+      ],
+      "ru": [
+        "застежка-молния"
+      ],
+      "gender": "f",
+      "example": "La fermeture éclair est cassée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dezipper",
+      "word": "dézipper",
+      "en": "dézipper",
+      "sourceId": "unzip",
+      "sourceIds": [
+        "unzip"
+      ],
+      "ru": [
+        "расстегивать молнию"
+      ],
+      "gender": null,
+      "example": "Tu n'as jamais été dézippé en public ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "couture",
+      "word": "couture",
+      "en": "couture",
+      "sourceId": "seam",
+      "sourceIds": [
+        "seam"
+      ],
+      "ru": [
+        "шов"
+      ],
+      "gender": "f",
+      "example": "La couture est irrégulière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pret-a-porter",
+      "word": "prêt-à-porter",
+      "en": "prêt-à-porter",
+      "sourceId": "off-the-rack",
+      "sourceIds": [
+        "off-the-rack"
+      ],
+      "ru": [
+        "готовый (об одежде)"
+      ],
+      "gender": "m",
+      "example": "C'est un imposteur de prêt-à-porter.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "crocs",
+      "word": "crocs",
+      "en": "crocs",
+      "sourceId": "crocs",
+      "sourceIds": [
+        "crocs"
+      ],
+      "ru": [
+        "кроксы"
+      ],
+      "gender": "m",
+      "example": "Je marche dans mes crocs.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ourler",
+      "word": "ourler",
+      "en": "ourler",
+      "sourceId": "hem",
+      "sourceIds": [
+        "hem"
+      ],
+      "ru": [
+        "подшивать"
+      ],
+      "gender": null,
+      "example": "Je ne veux pas être limité.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "plisse",
+      "word": "plissé",
+      "en": "plissé",
+      "sourceId": "pleated",
+      "sourceIds": [
+        "pleated"
+      ],
+      "ru": [
+        "плиссированный"
+      ],
+      "gender": null,
+      "example": "Tant que c'est dans un pantalon plissé.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "string",
+      "word": "string",
+      "en": "string",
+      "sourceId": "thong",
+      "sourceIds": [
+        "thong"
+      ],
+      "ru": [
+        "стринги",
+        "ремешок"
+      ],
+      "gender": "m",
+      "example": "Tu aides en portant un string.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rouge-a-levres",
+      "word": "rouge à lèvres",
+      "en": "rouge à lèvres",
+      "sourceId": "lipstick",
+      "sourceIds": [
+        "lipstick"
+      ],
+      "ru": [
+        "губная помада"
+      ],
+      "gender": "m",
+      "example": "Tu portes du rouge à lèvres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "elegant",
+      "word": "élégant",
+      "en": "élégant",
+      "sourceId": "clothes-conscious",
+      "sourceIds": [
+        "clothes-conscious"
+      ],
+      "ru": [
+        "следящий за модой"
+      ],
+      "gender": null,
+      "example": "Cette femme est très élégante.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "irregulier",
+      "word": "irrégulier",
+      "en": "irrégulier",
+      "sourceId": "ragged",
+      "sourceIds": [
+        "ragged"
+      ],
+      "ru": [
+        "оборванный",
+        "рваный"
+      ],
+      "gender": null,
+      "example": "Une respiration irrégulière au téléphone.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "use",
+      "word": "usé",
+      "en": "usé",
+      "sourceId": "worn",
+      "sourceIds": [
+        "worn"
+      ],
+      "ru": [
+        "изношенный",
+        "потертый"
+      ],
+      "gender": null,
+      "example": "La semelle est très usée, donc...",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "polyester",
+      "word": "polyester",
+      "en": "polyester",
+      "sourceId": "polyester",
+      "sourceIds": [
+        "polyester"
+      ],
+      "ru": [
+        "полиэстер"
+      ],
+      "gender": "m",
+      "example": "Ce chemisier est en polyester.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pantalon",
+      "word": "pantalon",
+      "en": "pantalon",
+      "sourceId": "trouser",
+      "sourceIds": [
+        "trouser"
+      ],
+      "ru": [
+        "брючный"
+      ],
+      "gender": "m",
+      "example": "Juste la chemise et le pantalon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "robe",
+      "word": "robe",
+      "en": "robe",
+      "sourceId": "gown",
+      "sourceIds": [
+        "gown"
+      ],
+      "ru": [
+        "платье",
+        "халат"
+      ],
+      "gender": "f",
+      "example": "l'une de vos robes ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "indienne",
+      "word": "indienne",
+      "en": "indienne",
+      "sourceId": "calico",
+      "sourceIds": [
+        "calico"
+      ],
+      "ru": [
+        "ситец"
+      ],
+      "gender": "f",
+      "example": "Elle porte une robe en indienne légère.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "anorak",
+      "word": "anorak",
+      "en": "anorak",
+      "sourceId": "anorak",
+      "sourceIds": [
+        "anorak"
+      ],
+      "ru": [
+        "анорак",
+        "куртка-ветровка"
+      ],
+      "gender": "m",
+      "example": "Il porte un anorak pour se protéger du vent.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "denim",
+      "word": "denim",
+      "en": "denim",
+      "sourceId": "denim",
+      "sourceIds": [
+        "denim",
+        "jean"
+      ],
+      "ru": [
+        "джинсовая ткань"
+      ],
+      "gender": "m",
+      "example": "Ce pantalon est fait en denim.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tweed",
+      "word": "tweed",
+      "en": "tweed",
+      "sourceId": "tweed",
+      "sourceIds": [
+        "tweed"
+      ],
+      "ru": [
+        "твид"
+      ],
+      "gender": "m",
+      "example": "Des gens riches en costumes de tweed.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "deux-pieces",
+      "word": "deux-pièces",
+      "en": "deux-pièces",
+      "sourceId": "two-piece",
+      "sourceIds": [
+        "two-piece"
+      ],
+      "ru": [
+        "костюм-двойка",
+        "раздельный купальник"
+      ],
+      "gender": null,
+      "example": "Elle porte un joli deux-pièces à la plage.",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "galoche",
+      "word": "galoche",
+      "en": "galoche",
+      "sourceId": "galosh",
+      "sourceIds": [
+        "galosh"
+      ],
+      "ru": [
+        "галоша"
+      ],
+      "gender": "f",
+      "example": "Excusez mes galoches.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "collant",
+      "word": "collant",
+      "en": "collant",
+      "sourceId": "pantyhose",
+      "sourceIds": [
+        "pantyhose"
+      ],
+      "ru": [
+        "колготки"
+      ],
+      "gender": "m",
+      "example": "Elle porte un collant noir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tenue",
+      "word": "tenue",
+      "en": "tenue",
+      "sourceId": "getup",
+      "sourceIds": [
+        "getup"
+      ],
+      "ru": [
+        "наряд",
+        "костюм"
+      ],
+      "gender": "f",
+      "example": "C'est quoi cette tenue bizarre, Barn ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "friser",
+      "word": "friser",
+      "en": "friser",
+      "sourceId": "crimp",
+      "sourceIds": [
+        "crimp"
+      ],
+      "ru": [
+        "завивать",
+        "гофрировать"
+      ],
+      "gender": null,
+      "example": "Elle aime se friser les cheveux pour les grandes occasions.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "sombrero",
+      "word": "sombrero",
+      "en": "sombrero",
+      "sourceId": "sombrero",
+      "sourceIds": [
+        "sombrero"
+      ],
+      "ru": [
+        "сомбреро"
+      ],
+      "gender": "m",
+      "example": "Il porte son sombrero.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "habiller",
+      "word": "habiller",
+      "en": "habiller",
+      "sourceId": "clothe",
+      "sourceIds": [
+        "clothe"
+      ],
+      "ru": [
+        "одевать"
+      ],
+      "gender": null,
+      "example": "Il faut habiller les enfants pour l'hiver.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "n-ud-papillon",
+      "word": "nœud papillon",
+      "en": "nœud papillon",
+      "sourceId": "bowtie",
+      "sourceIds": [
+        "bowtie"
+      ],
+      "ru": [
+        "галстук-бабочка"
+      ],
+      "gender": "m",
+      "example": "Sheldon ne trouve pas son nœud papillon.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

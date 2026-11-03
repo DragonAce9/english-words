@@ -1,0 +1,2526 @@
+{
+  "id": "numbers",
+  "title": "Числа",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "zero",
+      "word": "zéro",
+      "en": "zéro",
+      "sourceId": "zero",
+      "sourceIds": [
+        "zero"
+      ],
+      "ru": [
+        "ноль",
+        "нуль",
+        "зеро"
+      ],
+      "gender": null,
+      "example": "Il y a zéro faute dans votre devoir.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "un",
+      "word": "un",
+      "en": "un",
+      "sourceId": "one",
+      "sourceIds": [
+        "one"
+      ],
+      "ru": [
+        "один",
+        "единственный",
+        "тот самый"
+      ],
+      "gender": null,
+      "example": "J'ai un frère.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "paire",
+      "word": "paire",
+      "en": "paire",
+      "sourceId": "two",
+      "sourceIds": [
+        "two"
+      ],
+      "ru": [
+        "пара",
+        "двойка",
+        "два"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une paire de chaussures.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "trois",
+      "word": "trois",
+      "en": "trois",
+      "sourceId": "three",
+      "sourceIds": [
+        "three"
+      ],
+      "ru": [
+        "три",
+        "тройка",
+        "трое"
+      ],
+      "gender": null,
+      "example": "J'ai trois pommes dans mon sac.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "quatre",
+      "word": "quatre",
+      "en": "quatre",
+      "sourceId": "four",
+      "sourceIds": [
+        "four"
+      ],
+      "ru": [
+        "четыре",
+        "четвёрка",
+        "четырёхлетка"
+      ],
+      "gender": "f",
+      "example": "Il y a quatre pommes sur la table.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cinq",
+      "word": "cinq",
+      "en": "cinq",
+      "sourceId": "five",
+      "sourceIds": [
+        "five"
+      ],
+      "ru": [
+        "пять",
+        "пятёрка",
+        "пятеро"
+      ],
+      "gender": "m",
+      "example": "Il a obtenu un cinq à son examen.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "six",
+      "word": "six",
+      "en": "six",
+      "sourceId": "six",
+      "sourceIds": [
+        "six"
+      ],
+      "ru": [
+        "шесть",
+        "шестёрка",
+        "шестеро"
+      ],
+      "gender": "m",
+      "example": "Il a obtenu un six au dé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sept",
+      "word": "sept",
+      "en": "sept",
+      "sourceId": "seven",
+      "sourceIds": [
+        "seven"
+      ],
+      "ru": [
+        "семь",
+        "семёрка",
+        "семеро"
+      ],
+      "gender": null,
+      "example": "Il y a sept jours dans une semaine.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "huit",
+      "word": "huit",
+      "en": "huit",
+      "sourceId": "eight",
+      "sourceIds": [
+        "eight"
+      ],
+      "ru": [
+        "восемь",
+        "восьмёрка",
+        "восьмеро"
+      ],
+      "gender": null,
+      "example": "Il a huit ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "neuf",
+      "word": "neuf",
+      "en": "neuf",
+      "sourceId": "nine",
+      "sourceIds": [
+        "nine"
+      ],
+      "ru": [
+        "девять",
+        "девятка",
+        "девятеро"
+      ],
+      "gender": null,
+      "example": "Il a neuf ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "dizaine",
+      "word": "dizaine",
+      "en": "dizaine",
+      "sourceId": "ten",
+      "sourceIds": [
+        "ten"
+      ],
+      "ru": [
+        "десять",
+        "десятка",
+        "десяток"
+      ],
+      "gender": "f",
+      "example": "Il y a une dizaine de personnes dans la salle.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "onze",
+      "word": "onze",
+      "en": "onze",
+      "sourceId": "eleven",
+      "sourceIds": [
+        "eleven"
+      ],
+      "ru": [
+        "одиннадцать"
+      ],
+      "gender": null,
+      "example": "Il a onze ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "douze",
+      "word": "douze",
+      "en": "douze",
+      "sourceId": "twelve",
+      "sourceIds": [
+        "twelve"
+      ],
+      "ru": [
+        "двенадцать"
+      ],
+      "gender": null,
+      "example": "Il a douze ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "treize",
+      "word": "treize",
+      "en": "treize",
+      "sourceId": "thirteen",
+      "sourceIds": [
+        "thirteen"
+      ],
+      "ru": [
+        "тринадцать"
+      ],
+      "gender": null,
+      "example": "Il a treize ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "quatorze",
+      "word": "quatorze",
+      "en": "quatorze",
+      "sourceId": "fourteen",
+      "sourceIds": [
+        "fourteen"
+      ],
+      "ru": [
+        "четырнадцать"
+      ],
+      "gender": null,
+      "example": "Il a quatorze ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "quinze",
+      "word": "quinze",
+      "en": "quinze",
+      "sourceId": "fifteen",
+      "sourceIds": [
+        "fifteen"
+      ],
+      "ru": [
+        "пятнадцать"
+      ],
+      "gender": null,
+      "example": "Il a quinze ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "seize",
+      "word": "seize",
+      "en": "seize",
+      "sourceId": "sixteen",
+      "sourceIds": [
+        "sixteen"
+      ],
+      "ru": [
+        "шестнадцать"
+      ],
+      "gender": null,
+      "example": "J'ai seize ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "dix-sept",
+      "word": "dix-sept",
+      "en": "dix-sept",
+      "sourceId": "seventeen",
+      "sourceIds": [
+        "seventeen"
+      ],
+      "ru": [
+        "семнадцать"
+      ],
+      "gender": null,
+      "example": "Il a dix-sept ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "dix-huit",
+      "word": "dix-huit",
+      "en": "dix-huit",
+      "sourceId": "eighteen",
+      "sourceIds": [
+        "eighteen"
+      ],
+      "ru": [
+        "восемнадцать"
+      ],
+      "gender": null,
+      "example": "J'ai dix-huit ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "dix-neuf",
+      "word": "dix-neuf",
+      "en": "dix-neuf",
+      "sourceId": "nineteen",
+      "sourceIds": [
+        "nineteen"
+      ],
+      "ru": [
+        "девятнадцать"
+      ],
+      "gender": null,
+      "example": "Il a dix-neuf ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "vingtaine",
+      "word": "vingtaine",
+      "en": "vingtaine",
+      "sourceId": "twenty",
+      "sourceIds": [
+        "twenty"
+      ],
+      "ru": [
+        "двадцатка",
+        "двадцать"
+      ],
+      "gender": "f",
+      "example": "Il y a une vingtaine de personnes dans la salle.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "trente",
+      "word": "trente",
+      "en": "trente",
+      "sourceId": "thirty",
+      "sourceIds": [
+        "thirty"
+      ],
+      "ru": [
+        "тридцать"
+      ],
+      "gender": null,
+      "example": "J'ai trente ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "quarante",
+      "word": "quarante",
+      "en": "quarante",
+      "sourceId": "forty",
+      "sourceIds": [
+        "forty"
+      ],
+      "ru": [
+        "сорок"
+      ],
+      "gender": null,
+      "example": "J'ai quarante ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "cinquante",
+      "word": "cinquante",
+      "en": "cinquante",
+      "sourceId": "fifty",
+      "sourceIds": [
+        "fifty"
+      ],
+      "ru": [
+        "пятьдесят"
+      ],
+      "gender": null,
+      "example": "Il a cinquante ans.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "soixante",
+      "word": "soixante",
+      "en": "soixante",
+      "sourceId": "sixty",
+      "sourceIds": [
+        "sixty"
+      ],
+      "ru": [
+        "шестьдесят"
+      ],
+      "gender": null,
+      "example": "Il a soixante ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-dix",
+      "word": "soixante-dix",
+      "en": "soixante-dix",
+      "sourceId": "seventy",
+      "sourceIds": [
+        "seventy"
+      ],
+      "ru": [
+        "семьдесят"
+      ],
+      "gender": null,
+      "example": "Il a soixante-dix ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-et-onze",
+      "word": "soixante-et-onze",
+      "en": "soixante-et-onze",
+      "sourceId": "seventy-one",
+      "sourceIds": [
+        "seventy-one"
+      ],
+      "ru": [
+        "семьдесят один"
+      ],
+      "gender": null,
+      "example": "Il a soixante-et-onze ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-douze",
+      "word": "soixante-douze",
+      "en": "soixante-douze",
+      "sourceId": "seventy-two",
+      "sourceIds": [
+        "seventy-two"
+      ],
+      "ru": [
+        "семьдесят два"
+      ],
+      "gender": null,
+      "example": "Il a soixante-douze ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-treize",
+      "word": "soixante-treize",
+      "en": "soixante-treize",
+      "sourceId": "seventy-three",
+      "sourceIds": [
+        "seventy-three"
+      ],
+      "ru": [
+        "семьдесят три"
+      ],
+      "gender": null,
+      "example": "Il a soixante-treize ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-quatorze",
+      "word": "soixante-quatorze",
+      "en": "soixante-quatorze",
+      "sourceId": "seventy-four",
+      "sourceIds": [
+        "seventy-four"
+      ],
+      "ru": [
+        "семьдесят четыре"
+      ],
+      "gender": null,
+      "example": "Il a soixante-quatorze ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-quinze",
+      "word": "soixante-quinze",
+      "en": "soixante-quinze",
+      "sourceId": "seventy-five",
+      "sourceIds": [
+        "seventy-five"
+      ],
+      "ru": [
+        "семьдесят пять"
+      ],
+      "gender": null,
+      "example": "Il a soixante-quinze ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-seize",
+      "word": "soixante-seize",
+      "en": "soixante-seize",
+      "sourceId": "seventy-six",
+      "sourceIds": [
+        "seventy-six"
+      ],
+      "ru": [
+        "семьдесят шесть"
+      ],
+      "gender": null,
+      "example": "Il a soixante-seize ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-dix-sept",
+      "word": "soixante-dix-sept",
+      "en": "soixante-dix-sept",
+      "sourceId": "seventy-seven",
+      "sourceIds": [
+        "seventy-seven"
+      ],
+      "ru": [
+        "семьдесят семь"
+      ],
+      "gender": null,
+      "example": "Il a soixante-dix-sept ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-dix-huit",
+      "word": "soixante-dix-huit",
+      "en": "soixante-dix-huit",
+      "sourceId": "seventy-eight",
+      "sourceIds": [
+        "seventy-eight"
+      ],
+      "ru": [
+        "семьдесят восемь"
+      ],
+      "gender": null,
+      "example": "Il a soixante-dix-huit ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "soixante-dix-neuf",
+      "word": "soixante-dix-neuf",
+      "en": "soixante-dix-neuf",
+      "sourceId": "seventy-nine",
+      "sourceIds": [
+        "seventy-nine"
+      ],
+      "ru": [
+        "семьдесят девять"
+      ],
+      "gender": null,
+      "example": "Il a soixante-dix-neuf ans.",
+      "level": "A2",
+      "pos": "numeral"
+    },
+    {
+      "id": "quatre-vingts",
+      "word": "quatre-vingts",
+      "en": "quatre-vingts",
+      "sourceId": "eighty",
+      "sourceIds": [
+        "eighty"
+      ],
+      "ru": [
+        "восемьдесят"
+      ],
+      "gender": null,
+      "example": "Il a quatre-vingts ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "quatre-vingt-dix",
+      "word": "quatre-vingt-dix",
+      "en": "quatre-vingt-dix",
+      "sourceId": "ninety",
+      "sourceIds": [
+        "ninety"
+      ],
+      "ru": [
+        "девяносто"
+      ],
+      "gender": null,
+      "example": "Il a quatre-vingt-dix ans.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "centaine",
+      "word": "centaine",
+      "en": "centaine",
+      "sourceId": "hundred",
+      "sourceIds": [
+        "hundred"
+      ],
+      "ru": [
+        "сто",
+        "сотня"
+      ],
+      "gender": "f",
+      "example": "Il y a une centaine de personnes dans la salle.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "mille",
+      "word": "mille",
+      "en": "mille",
+      "sourceId": "thousand",
+      "sourceIds": [
+        "thousand"
+      ],
+      "ru": [
+        "тысяча"
+      ],
+      "gender": null,
+      "example": "Il y a mille personnes dans la salle.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "million",
+      "word": "million",
+      "en": "million",
+      "sourceId": "million",
+      "sourceIds": [
+        "million"
+      ],
+      "ru": [
+        "миллион"
+      ],
+      "gender": null,
+      "example": "Il a gagné un million d'euros.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "milliard",
+      "word": "milliard",
+      "en": "milliard",
+      "sourceId": "billion",
+      "sourceIds": [
+        "billion"
+      ],
+      "ru": [
+        "миллиард"
+      ],
+      "gender": null,
+      "example": "Il y a environ huit milliards d'habitants sur Terre.",
+      "level": "A1",
+      "pos": "numeral"
+    },
+    {
+      "id": "d-abord",
+      "word": "d'abord",
+      "en": "d'abord",
+      "sourceId": "first",
+      "sourceIds": [
+        "first"
+      ],
+      "ru": [
+        "первый",
+        "в первую очередь",
+        "во-первых"
+      ],
+      "gender": null,
+      "example": "D'abord, nous allons manger, ensuite nous irons au cinéma.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "seconde",
+      "word": "seconde",
+      "en": "seconde",
+      "sourceId": "second",
+      "sourceIds": [
+        "second"
+      ],
+      "ru": [
+        "секунда",
+        "второй",
+        "секундант"
+      ],
+      "gender": "f",
+      "example": "Il a couru cent mètres en moins de dix secondes.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tiers",
+      "word": "tiers",
+      "en": "tiers",
+      "sourceId": "third",
+      "sourceIds": [
+        "third"
+      ],
+      "ru": [
+        "третий",
+        "треть",
+        "(одна) третья (часть)"
+      ],
+      "gender": "m",
+      "example": "Il a mangé un tiers du gâteau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "quatrieme",
+      "word": "quatrième",
+      "en": "quatrième",
+      "sourceId": "fourth",
+      "sourceIds": [
+        "fourth"
+      ],
+      "ru": [
+        "четвёртый",
+        "четвёртая передача",
+        "кварта"
+      ],
+      "gender": null,
+      "example": "C'est la quatrième fois qu'il m'appelle.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "cinquieme",
+      "word": "cinquième",
+      "en": "cinquième",
+      "sourceId": "fifth",
+      "sourceIds": [
+        "fifth"
+      ],
+      "ru": [
+        "пятый",
+        "5-ый",
+        "(одна) пятая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est la cinquième fois que je te le dis.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "sixieme",
+      "word": "sixième",
+      "en": "sixième",
+      "sourceId": "sixth",
+      "sourceIds": [
+        "sixth"
+      ],
+      "ru": [
+        "шестой",
+        "(одна) шестая (часть)"
+      ],
+      "gender": "m",
+      "example": "Il a mangé un sixième du gâteau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "septieme",
+      "word": "septième",
+      "en": "septième",
+      "sourceId": "seventh",
+      "sourceIds": [
+        "seventh"
+      ],
+      "ru": [
+        "седьмой",
+        "(одна) седьмая (часть)"
+      ],
+      "gender": "m",
+      "example": "Un septième de la population a voté.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "huitieme",
+      "word": "huitième",
+      "en": "huitième",
+      "sourceId": "eighth",
+      "sourceIds": [
+        "eighth"
+      ],
+      "ru": [
+        "восьмой",
+        "восьмая",
+        "восьмое"
+      ],
+      "gender": "m",
+      "example": "Il est arrivé en huitième position.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "neuvieme",
+      "word": "neuvième",
+      "en": "neuvième",
+      "sourceId": "ninth",
+      "sourceIds": [
+        "ninth"
+      ],
+      "ru": [
+        "девятый",
+        "(одна) девятая (часть)"
+      ],
+      "gender": "m",
+      "example": "Il a mangé un neuvième du gâteau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "dixieme",
+      "word": "dixième",
+      "en": "dixième",
+      "sourceId": "tenth",
+      "sourceIds": [
+        "tenth"
+      ],
+      "ru": [
+        "десятый",
+        "(одна) десятая (часть)"
+      ],
+      "gender": null,
+      "example": "Il est arrivé en dixième position.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "treizieme",
+      "word": "treizième",
+      "en": "treizième",
+      "sourceId": "thirteenth",
+      "sourceIds": [
+        "thirteenth"
+      ],
+      "ru": [
+        "тринадцатый",
+        "(одна) тринадцатая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est le treizième jour du mois.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "quatorzieme",
+      "word": "quatorzième",
+      "en": "quatorzième",
+      "sourceId": "fourteenth",
+      "sourceIds": [
+        "fourteenth"
+      ],
+      "ru": [
+        "четырнадцатый",
+        "четырнадцатая",
+        "(одна) четырнадцатая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est le quatorzième jour du mois.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "quinzieme",
+      "word": "quinzième",
+      "en": "quinzième",
+      "sourceId": "fifteenth",
+      "sourceIds": [
+        "fifteenth"
+      ],
+      "ru": [
+        "пятнадцатый",
+        "(одна) пятнадцатая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est le quinzième jour du mois.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "seizieme",
+      "word": "seizième",
+      "en": "seizième",
+      "sourceId": "sixteenth",
+      "sourceIds": [
+        "sixteenth"
+      ],
+      "ru": [
+        "шестнадцатый",
+        "(одна) шестнадцатая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est le seizième jour du mois.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "dix-septieme",
+      "word": "dix-septième",
+      "en": "dix-septième",
+      "sourceId": "seventeenth",
+      "sourceIds": [
+        "seventeenth"
+      ],
+      "ru": [
+        "семнадцатый",
+        "(одна) семнадцатая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est le dix-septième jour du mois.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "dix-huitieme",
+      "word": "dix-huitième",
+      "en": "dix-huitième",
+      "sourceId": "eighteenth",
+      "sourceIds": [
+        "eighteenth"
+      ],
+      "ru": [
+        "восемнадцатый",
+        "(одна) восемнадцатая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est le dix-huitième jour du mois.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "dix-neuvieme",
+      "word": "dix-neuvième",
+      "en": "dix-neuvième",
+      "sourceId": "nineteenth",
+      "sourceIds": [
+        "nineteenth"
+      ],
+      "ru": [
+        "девятнадцатый",
+        "(одна) девятнадцатая (часть)"
+      ],
+      "gender": null,
+      "example": "C'est le dix-neuvième jour du mois.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-et-unieme",
+      "word": "soixante-et-unième",
+      "en": "soixante-et-unième",
+      "sourceId": "seventy-first",
+      "sourceIds": [
+        "seventy-first"
+      ],
+      "ru": [
+        "семьдесят первый"
+      ],
+      "gender": null,
+      "example": "C'est le soixante-et-unième anniversaire de ma grand-mère.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-douzieme",
+      "word": "soixante-douzième",
+      "en": "soixante-douzième",
+      "sourceId": "seventy-second",
+      "sourceIds": [
+        "seventy-second"
+      ],
+      "ru": [
+        "семьдесят второй"
+      ],
+      "gender": null,
+      "example": "C'est le soixante-douzième anniversaire de la fondation de l'entreprise.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-treizieme",
+      "word": "soixante-treizième",
+      "en": "soixante-treizième",
+      "sourceId": "seventy-third",
+      "sourceIds": [
+        "seventy-third"
+      ],
+      "ru": [
+        "семьдесят третий"
+      ],
+      "gender": null,
+      "example": "C'est le soixante-treizième anniversaire de ma grand-mère.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-quatorzieme",
+      "word": "soixante-quatorzième",
+      "en": "soixante-quatorzième",
+      "sourceId": "seventy-fourth",
+      "sourceIds": [
+        "seventy-fourth"
+      ],
+      "ru": [
+        "семьдесят четвёртый"
+      ],
+      "gender": null,
+      "example": "C'est le soixante-quatorzième anniversaire de la fondation de l'entreprise.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-quinzieme",
+      "word": "soixante-quinzième",
+      "en": "soixante-quinzième",
+      "sourceId": "seventy-fifth",
+      "sourceIds": [
+        "seventy-fifth"
+      ],
+      "ru": [
+        "семьдесят пятый"
+      ],
+      "gender": null,
+      "example": "C'est le soixante-quinzième anniversaire de l'entreprise.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-seizieme",
+      "word": "soixante-seizième",
+      "en": "soixante-seizième",
+      "sourceId": "seventy-sixth",
+      "sourceIds": [
+        "seventy-sixth"
+      ],
+      "ru": [
+        "семьдесят шестой"
+      ],
+      "gender": null,
+      "example": "C'est la soixante-seizième fois qu'il me dit ça.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-dix-septieme",
+      "word": "soixante-dix-septième",
+      "en": "soixante-dix-septième",
+      "sourceId": "seventy-seventh",
+      "sourceIds": [
+        "seventy-seventh"
+      ],
+      "ru": [
+        "семьдесят седьмой"
+      ],
+      "gender": null,
+      "example": "C'est la soixante-dix-septième fois qu'il me demande ça.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-dix-huitieme",
+      "word": "soixante-dix-huitième",
+      "en": "soixante-dix-huitième",
+      "sourceId": "seventy-eighth",
+      "sourceIds": [
+        "seventy-eighth"
+      ],
+      "ru": [
+        "семьдесят восьмой"
+      ],
+      "gender": null,
+      "example": "C'est le soixante-dix-huitième anniversaire de la fondation de l'entreprise.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "soixante-dix-neuvieme",
+      "word": "soixante-dix-neuvième",
+      "en": "soixante-dix-neuvième",
+      "sourceId": "seventy-ninth",
+      "sourceIds": [
+        "seventy-ninth"
+      ],
+      "ru": [
+        "семьдесят девятый"
+      ],
+      "gender": null,
+      "example": "C'est la soixante-dix-neuvième fois qu'il me pose cette question.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "centieme",
+      "word": "centième",
+      "en": "centième",
+      "sourceId": "hundredth",
+      "sourceIds": [
+        "hundredth"
+      ],
+      "ru": [
+        "сотый",
+        "сотая"
+      ],
+      "gender": null,
+      "example": "C'est le centième anniversaire de la fondation de l'école.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "millieme",
+      "word": "millième",
+      "en": "millième",
+      "sourceId": "thousandth",
+      "sourceIds": [
+        "thousandth"
+      ],
+      "ru": [
+        "тысячный",
+        "одна тысячная"
+      ],
+      "gender": "m",
+      "example": "Il a terminé à la millième place de la course.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cent-millieme",
+      "word": "cent-millième",
+      "en": "cent-millième",
+      "sourceId": "hundred-thousandth",
+      "sourceIds": [
+        "hundred-thousandth"
+      ],
+      "ru": [
+        "стотысячный"
+      ],
+      "gender": null,
+      "example": "C'est la cent-millième fois que je te le dis.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "millionieme",
+      "word": "millionième",
+      "en": "millionième",
+      "sourceId": "millionth",
+      "sourceIds": [
+        "millionth"
+      ],
+      "ru": [
+        "миллионный"
+      ],
+      "gender": null,
+      "example": "C'est la millionième fois que je te le dis.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "milliardieme",
+      "word": "milliardième",
+      "en": "milliardième",
+      "sourceId": "billionth",
+      "sourceIds": [
+        "billionth"
+      ],
+      "ru": [
+        "миллиардный"
+      ],
+      "gender": "m",
+      "example": "Il a gagné le milliardième prix du concours.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "troisiemement",
+      "word": "troisièmement",
+      "en": "troisièmement",
+      "sourceId": "thirdly",
+      "sourceIds": [
+        "thirdly"
+      ],
+      "ru": [
+        "в-третьих"
+      ],
+      "gender": null,
+      "example": "Troisièmement, nous devons considérer le coût.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "quatriemement",
+      "word": "quatrièmement",
+      "en": "quatrièmement",
+      "sourceId": "fourthly",
+      "sourceIds": [
+        "fourthly"
+      ],
+      "ru": [
+        "в-четвёртых"
+      ],
+      "gender": null,
+      "example": "Quatrièmement, nous devons considérer le coût.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "cinquiemement",
+      "word": "cinquièmement",
+      "en": "cinquièmement",
+      "sourceId": "fifthly",
+      "sourceIds": [
+        "fifthly"
+      ],
+      "ru": [
+        "в-пятых"
+      ],
+      "gender": null,
+      "example": "Cinquièmement, nous devons considérer le coût du projet.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "sixiemement",
+      "word": "sixièmement",
+      "en": "sixièmement",
+      "sourceId": "sixthly",
+      "sourceIds": [
+        "sixthly"
+      ],
+      "ru": [
+        "в-шестых"
+      ],
+      "gender": null,
+      "example": "Sixièmement, nous devons considérer le coût du projet.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "septiemement",
+      "word": "septièmement",
+      "en": "septièmement",
+      "sourceId": "seventhly",
+      "sourceIds": [
+        "seventhly"
+      ],
+      "ru": [
+        "в-седьмых"
+      ],
+      "gender": null,
+      "example": "Septièmement, nous devons considérer le coût.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "a-moitie",
+      "word": "à moitié",
+      "en": "à moitié",
+      "sourceId": "half",
+      "sourceIds": [
+        "half"
+      ],
+      "ru": [
+        "пол",
+        "полу",
+        "наполовину"
+      ],
+      "gender": null,
+      "example": "La bouteille est à moitié vide.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "quart",
+      "word": "quart",
+      "en": "quart",
+      "sourceId": "quarter",
+      "sourceIds": [
+        "quarter"
+      ],
+      "ru": [
+        "(одна) четвёртая (часть)",
+        "квартал",
+        "четверть"
+      ],
+      "gender": "m",
+      "example": "Il a mangé un quart de la tarte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "deux-tiers",
+      "word": "deux tiers",
+      "en": "deux tiers",
+      "sourceId": "two-thirds",
+      "sourceIds": [
+        "two-thirds"
+      ],
+      "ru": [
+        "две трети"
+      ],
+      "gender": null,
+      "example": "Il a perdu environ deux tiers de sa valeur.",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "fraction",
+      "word": "fraction",
+      "en": "fraction",
+      "sourceId": "fraction",
+      "sourceIds": [
+        "fraction"
+      ],
+      "ru": [
+        "часть",
+        "частица",
+        "дробь"
+      ],
+      "gender": "f",
+      "example": "Une petite fraction de la population a voté.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fractionnaire",
+      "word": "fractionnaire",
+      "en": "fractionnaire",
+      "sourceId": "fractional",
+      "sourceIds": [
+        "fractional"
+      ],
+      "ru": [
+        "дробный",
+        "фракционный",
+        "отрывочный"
+      ],
+      "gender": null,
+      "example": "Il a obtenu une partie fractionnaire du résultat.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "entier",
+      "word": "entier",
+      "en": "entier",
+      "sourceId": "whole",
+      "sourceIds": [
+        "whole"
+      ],
+      "ru": [
+        "целый",
+        "весь",
+        "полный"
+      ],
+      "gender": null,
+      "example": "J'ai mangé la pomme entière.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "seul",
+      "word": "seul",
+      "en": "seul",
+      "sourceId": "single",
+      "sourceIds": [
+        "single"
+      ],
+      "ru": [
+        "один",
+        "единственный",
+        "одна"
+      ],
+      "gender": null,
+      "example": "Il est le seul candidat.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "paire",
+      "word": "paire",
+      "en": "paire",
+      "sourceId": "pair",
+      "sourceIds": [
+        "pair"
+      ],
+      "ru": [
+        "пара",
+        "чета"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une nouvelle paire de chaussures.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sosie",
+      "word": "sosie",
+      "en": "sosie",
+      "sourceId": "double",
+      "sourceIds": [
+        "double"
+      ],
+      "ru": [
+        "двойной",
+        "двойник",
+        "удваивать"
+      ],
+      "gender": "m",
+      "example": "Il est le sosie parfait de cet acteur célèbre.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "triple",
+      "word": "triple",
+      "en": "triple",
+      "sourceId": "triple",
+      "sourceIds": [
+        "triple"
+      ],
+      "ru": [
+        "тройной",
+        "троекратный",
+        "трёхкратный"
+      ],
+      "gender": null,
+      "example": "Il a reçu une triple dose de médicament.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "trois-fois",
+      "word": "trois fois",
+      "en": "trois fois",
+      "sourceId": "thrice",
+      "sourceIds": [
+        "thrice"
+      ],
+      "ru": [
+        "трижды"
+      ],
+      "gender": null,
+      "example": "Le rocher fait trois fois la hauteur.",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "milluple",
+      "word": "mille fois",
+      "en": "mille fois",
+      "sourceId": "thousandfold",
+      "sourceIds": [
+        "thousandfold"
+      ],
+      "ru": [
+        "тысячекратный",
+        "тысячекратно"
+      ],
+      "gender": null,
+      "example": "Ce prix a été multiplié mille fois.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "multiple",
+      "word": "multiple",
+      "en": "multiple",
+      "sourceId": "multiple",
+      "sourceIds": [
+        "multiple"
+      ],
+      "ru": [
+        "кратный",
+        "много",
+        "множественный"
+      ],
+      "gender": null,
+      "example": "Il existe de multiples raisons pour expliquer ce phénomène.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "zero",
+      "word": "zéro",
+      "en": "zéro",
+      "sourceId": "nought",
+      "sourceIds": [
+        "nought"
+      ],
+      "ru": [
+        "ноль",
+        "ничто"
+      ],
+      "gender": null,
+      "example": "De toute façon, c'est le dernier et je suis à zéro, ce qui signifie que nous allons échanger nos postes...",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "deux",
+      "word": "deux",
+      "en": "deux",
+      "sourceId": "deuce",
+      "sourceIds": [
+        "deuce"
+      ],
+      "ru": [
+        "двойка"
+      ],
+      "gender": null,
+      "example": "Il a fait un deux à la ferme.",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "trois",
+      "word": "trois",
+      "en": "trois",
+      "sourceId": "threes",
+      "sourceIds": [
+        "threes"
+      ],
+      "ru": [
+        "тройки"
+      ],
+      "gender": "f",
+      "example": "Il y a trois pommes sur la table.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "six",
+      "word": "six",
+      "en": "six",
+      "sourceId": "sixes",
+      "sourceIds": [
+        "sixes"
+      ],
+      "ru": [
+        "шестёрки"
+      ],
+      "gender": "m",
+      "example": "Il a obtenu deux six avec les dés.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "billet-de-dix",
+      "word": "billet de dix",
+      "en": "billet de dix",
+      "sourceId": "tenner",
+      "sourceIds": [
+        "tenner"
+      ],
+      "ru": [
+        "десятка"
+      ],
+      "gender": "m",
+      "example": "Il m'a rendu un billet de dix pour le café.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "annees-quarante",
+      "word": "années quarante",
+      "en": "années quarante",
+      "sourceId": "forties",
+      "sourceIds": [
+        "forties"
+      ],
+      "ru": [
+        "сороковые"
+      ],
+      "gender": "f",
+      "example": "La mode des années quarante est très élégante.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "annees-quatre-vingt",
+      "word": "années quatre-vingt",
+      "en": "années quatre-vingt",
+      "sourceId": "eighties",
+      "sourceIds": [
+        "eighties"
+      ],
+      "ru": [
+        "1980-ые годы",
+        "80-ые"
+      ],
+      "gender": "f",
+      "example": "La musique des années quatre-vingt est très populaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "annees-quatre-vingt-dix",
+      "word": "années quatre-vingt-dix",
+      "en": "années quatre-vingt-dix",
+      "sourceId": "nineties",
+      "sourceIds": [
+        "nineties"
+      ],
+      "ru": [
+        "десятилетие девяностых годов"
+      ],
+      "gender": "f",
+      "example": "La musique a beaucoup changé dans les années quatre-vingt-dix.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nombre",
+      "word": "nombre",
+      "en": "nombre",
+      "sourceId": "number",
+      "sourceIds": [
+        "number"
+      ],
+      "ru": [
+        "число",
+        "количество",
+        "имя числительное"
+      ],
+      "gender": "m",
+      "example": "Il y a un grand nombre d'étudiants dans cette classe.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "numerotation",
+      "word": "numérotation",
+      "en": "numérotation",
+      "sourceId": "numbering",
+      "sourceIds": [
+        "numbering"
+      ],
+      "ru": [
+        "нумерация"
+      ],
+      "gender": "f",
+      "example": "La numérotation des pages est incorrecte.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "numeriquement",
+      "word": "numériquement",
+      "en": "numériquement",
+      "sourceId": "numerically",
+      "sourceIds": [
+        "numerically"
+      ],
+      "ru": [
+        "численно"
+      ],
+      "gender": null,
+      "example": "Les céréales sont classées numériquement selon leur teneur en fibres.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "chiffre",
+      "word": "chiffre",
+      "en": "chiffre",
+      "sourceId": "digit",
+      "sourceIds": [
+        "digit"
+      ],
+      "ru": [
+        "цифра"
+      ],
+      "gender": "m",
+      "example": "Le code secret est composé de quatre chiffres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "entier",
+      "word": "entier",
+      "en": "entier",
+      "sourceId": "integer",
+      "sourceIds": [
+        "integer"
+      ],
+      "ru": [
+        "целое",
+        "целое число"
+      ],
+      "gender": "m",
+      "example": "Le nombre cinq est un entier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "decimal",
+      "word": "décimal",
+      "en": "décimal",
+      "sourceId": "decimal",
+      "sourceIds": [
+        "decimal"
+      ],
+      "ru": [
+        "десятичный",
+        "десятичная система"
+      ],
+      "gender": null,
+      "example": "Le système décimal utilise dix chiffres.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "nombre",
+      "word": "nombre",
+      "en": "nombre",
+      "sourceId": "count",
+      "sourceIds": [
+        "count"
+      ],
+      "ru": [
+        "считать",
+        "подсчитывать"
+      ],
+      "gender": "m",
+      "example": "Le nombre d'abonnés a dépassé 75.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "compteur",
+      "word": "compteur",
+      "en": "compteur",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "ru": [
+        "счётчик"
+      ],
+      "gender": null,
+      "example": "Le compteur d'électricité est dans le couloir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "calculer",
+      "word": "calculer",
+      "en": "calculer",
+      "sourceId": "calculate",
+      "sourceIds": [
+        "calculate"
+      ],
+      "ru": [
+        "вычислять",
+        "вычислить",
+        "подсчитывать"
+      ],
+      "gender": null,
+      "example": "Il faut calculer le prix total de la commande.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "calculatrice",
+      "word": "calculatrice",
+      "en": "calculatrice",
+      "sourceId": "calculator",
+      "sourceIds": [
+        "calculator"
+      ],
+      "ru": [
+        "калькулятор",
+        "арифмометр",
+        "вычислительная машина"
+      ],
+      "gender": "f",
+      "example": "J'utilise ma calculatrice pour faire mes devoirs de mathématiques.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "positif",
+      "word": "positif",
+      "en": "positif",
+      "sourceId": "plus",
+      "sourceIds": [
+        "plus"
+      ],
+      "ru": [
+        "плюс",
+        "положительный"
+      ],
+      "gender": null,
+      "example": "C'est un résultat positif pour l'entreprise.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "negatif",
+      "word": "négatif",
+      "en": "négatif",
+      "sourceId": "minus",
+      "sourceIds": [
+        "minus"
+      ],
+      "ru": [
+        "минус",
+        "отрицательный",
+        "отрицательная величина"
+      ],
+      "gender": null,
+      "example": "Il a obtenu un résultat négatif à son test.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "somme",
+      "word": "somme",
+      "en": "somme",
+      "sourceId": "sum",
+      "sourceIds": [
+        "sum"
+      ],
+      "ru": [
+        "сумма",
+        "итог",
+        "складывать"
+      ],
+      "gender": "f",
+      "example": "La somme de ces deux nombres est dix.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "egal",
+      "word": "égal",
+      "en": "égal",
+      "sourceId": "equal",
+      "sourceIds": [
+        "equal"
+      ],
+      "ru": [
+        "равный",
+        "одинаковый",
+        "тот же"
+      ],
+      "gender": null,
+      "example": "Les deux équipes ont un score égal.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "egalement",
+      "word": "également",
+      "en": "également",
+      "sourceId": "equally",
+      "sourceIds": [
+        "equally"
+      ],
+      "ru": [
+        "одинаково",
+        "поровну"
+      ],
+      "gender": null,
+      "example": "Ils ont partagé le gâteau également.",
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "pourcentage",
+      "word": "pourcentage",
+      "en": "pourcentage",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "ru": [
+        "процент"
+      ],
+      "gender": "m",
+      "example": "Le pourcentage de réussite a augmenté cette année.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pourcentage",
+      "word": "pourcentage",
+      "en": "pourcentage",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "gender": "m",
+      "example": "Le pourcentage de réussite a augmenté cette année.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "centile",
+      "word": "centile",
+      "en": "centile",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "gender": "m",
+      "example": "Le score de l'étudiant se situe au 90e centile.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "en-pourcentage",
+      "word": "en pourcentage",
+      "en": "en pourcentage",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "ru": [
+        "процентный"
+      ],
+      "gender": null,
+      "example": "La répartition en pourcentage des votes est claire.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "moyen",
+      "word": "moyen",
+      "en": "moyen",
+      "sourceId": "average",
+      "sourceIds": [
+        "average"
+      ],
+      "ru": [
+        "средний",
+        "обычный",
+        "среднее"
+      ],
+      "gender": null,
+      "example": "La température moyenne est de vingt degrés.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "en-moyenne",
+      "word": "en moyenne",
+      "en": "en moyenne",
+      "sourceId": "averagely",
+      "sourceIds": [
+        "averagely"
+      ],
+      "ru": [
+        "в среднем"
+      ],
+      "gender": null,
+      "example": "Il travaille en moyenne huit heures par jour.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "taux",
+      "word": "taux",
+      "en": "taux",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "gender": "m",
+      "example": "Le taux de change a augmenté aujourd'hui.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ratio",
+      "word": "ratio",
+      "en": "ratio",
+      "sourceId": "ratio",
+      "sourceIds": [
+        "ratio"
+      ],
+      "ru": [
+        "отношение",
+        "соотношение",
+        "коэффициент"
+      ],
+      "gender": "m",
+      "example": "Le ratio entre les hommes et les femmes est équilibré.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "montant",
+      "word": "montant",
+      "en": "montant",
+      "sourceId": "amount",
+      "sourceIds": [
+        "amount"
+      ],
+      "ru": [
+        "количество",
+        "сумма"
+      ],
+      "gender": "m",
+      "example": "Le montant total de la facture est de cent euros.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "quantite",
+      "word": "quantité",
+      "en": "quantité",
+      "sourceId": "quantity",
+      "sourceIds": [
+        "quantity"
+      ],
+      "ru": [
+        "количество"
+      ],
+      "gender": "f",
+      "example": "Il y a une grande quantité de neige.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nombreux",
+      "word": "nombreux",
+      "en": "nombreux",
+      "sourceId": "numerous",
+      "sourceIds": [
+        "numerous"
+      ],
+      "ru": [
+        "многочисленный"
+      ],
+      "gender": null,
+      "example": "Il y a de nombreux problèmes à résoudre.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "tous-les-deux",
+      "word": "tous les deux",
+      "en": "tous les deux",
+      "sourceId": "both",
+      "sourceIds": [
+        "both"
+      ],
+      "ru": [
+        "и... и",
+        "оба",
+        "обе"
+      ],
+      "gender": null,
+      "example": "Ils sont tous les deux très gentils.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "chaque",
+      "word": "chaque",
+      "en": "chaque",
+      "sourceId": "each",
+      "sourceIds": [
+        "each"
+      ],
+      "ru": [
+        "каждый"
+      ],
+      "gender": null,
+      "example": "Chaque élève a un livre.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "completement",
+      "word": "complètement",
+      "en": "complètement",
+      "sourceId": "all",
+      "sourceIds": [
+        "all"
+      ],
+      "ru": [
+        "полностью",
+        "совсем",
+        "весь"
+      ],
+      "gender": null,
+      "example": "Il a complètement oublié notre rendez-vous.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "aucun",
+      "word": "aucun",
+      "en": "aucun",
+      "sourceId": "none",
+      "sourceIds": [
+        "none"
+      ],
+      "ru": [
+        "никакой",
+        "никто"
+      ],
+      "gender": null,
+      "example": "Aucun de mes amis n'est venu.",
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "peu",
+      "word": "peu",
+      "en": "peu",
+      "sourceId": "few",
+      "sourceIds": [
+        "few"
+      ],
+      "ru": [
+        "мало",
+        "несколько",
+        "немногий"
+      ],
+      "gender": null,
+      "example": "Il a peu d'amis.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "plusieurs",
+      "word": "plusieurs",
+      "en": "plusieurs",
+      "sourceId": "several",
+      "sourceIds": [
+        "several"
+      ],
+      "ru": [
+        "некоторый",
+        "несколько",
+        "различный"
+      ],
+      "gender": null,
+      "example": "J'ai plusieurs idées pour ce projet.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "beaucoup",
+      "word": "beaucoup",
+      "en": "beaucoup",
+      "sourceId": "many",
+      "sourceIds": [
+        "many"
+      ],
+      "ru": [
+        "многие",
+        "многий",
+        "много"
+      ],
+      "gender": null,
+      "example": "Il y a beaucoup de gens ici.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "beaucoup",
+      "word": "beaucoup",
+      "en": "beaucoup",
+      "sourceId": "much",
+      "sourceIds": [
+        "much"
+      ],
+      "ru": [
+        "намного",
+        "гораздо",
+        "очень"
+      ],
+      "gender": null,
+      "example": "Il a beaucoup travaillé aujourd'hui.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "plus",
+      "word": "plus",
+      "en": "plus",
+      "sourceId": "more",
+      "sourceIds": [
+        "more"
+      ],
+      "ru": [
+        "больше",
+        "более",
+        "ещё"
+      ],
+      "gender": null,
+      "example": "J'en veux plus.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "plus",
+      "word": "le plus",
+      "en": "le plus",
+      "sourceId": "most",
+      "sourceIds": [
+        "most"
+      ],
+      "ru": [
+        "наиболее",
+        "самый",
+        "большинство"
+      ],
+      "gender": null,
+      "example": "C'est le livre le plus intéressant que j'aie lu.",
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "principalement",
+      "word": "principalement",
+      "en": "principalement",
+      "sourceId": "mostly",
+      "sourceIds": [
+        "mostly"
+      ],
+      "ru": [
+        "в основном",
+        "главным образом",
+        "по большей части"
+      ],
+      "gender": null,
+      "example": "Il est principalement occupé par son travail.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "moins",
+      "word": "moins",
+      "en": "moins",
+      "sourceId": "less",
+      "sourceIds": [
+        "less"
+      ],
+      "ru": [
+        "менее",
+        "меньше",
+        "меньший"
+      ],
+      "gender": null,
+      "example": "Il y a moins de monde aujourd'hui.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "moindre",
+      "word": "moindre",
+      "en": "moindre",
+      "sourceId": "lesser",
+      "sourceIds": [
+        "lesser"
+      ],
+      "ru": [
+        "меньший"
+      ],
+      "gender": null,
+      "example": "Il n'a pas la moindre idée de ce qui se passe.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "moindre",
+      "word": "moindre",
+      "en": "moindre",
+      "sourceId": "least",
+      "sourceIds": [
+        "least"
+      ],
+      "ru": [
+        "наименьший"
+      ],
+      "gender": null,
+      "example": "C'est le moindre de mes soucis.",
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "sort",
+      "word": "sort",
+      "en": "sort",
+      "sourceId": "lot",
+      "sourceIds": [
+        "lot"
+      ],
+      "ru": [
+        "группа",
+        "судьба",
+        "участь"
+      ],
+      "gender": "m",
+      "example": "C'est son triste sort.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "partie",
+      "word": "partie",
+      "en": "partie",
+      "sourceId": "part",
+      "sourceIds": [
+        "part"
+      ],
+      "ru": [
+        "часть",
+        "доля",
+        "роль"
+      ],
+      "gender": "f",
+      "example": "Une grande partie du travail est terminée.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "partiellement",
+      "word": "partiellement",
+      "en": "partiellement",
+      "sourceId": "partly",
+      "sourceIds": [
+        "partly"
+      ],
+      "ru": [
+        "отчасти",
+        "частично"
+      ],
+      "gender": null,
+      "example": "Le projet est partiellement terminé.",
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "trimestriel",
+      "word": "trimestriel",
+      "en": "trimestriel",
+      "sourceId": "quarterly",
+      "sourceIds": [
+        "quarterly"
+      ],
+      "ru": [
+        "ежеквартальный",
+        "квартальный",
+        "трёхмесячный"
+      ],
+      "gender": null,
+      "example": "Nous publions un rapport trimestriel sur nos activités.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "mesure",
+      "word": "mesure",
+      "en": "mesure",
+      "sourceId": "measure",
+      "sourceIds": [
+        "measure"
+      ],
+      "ru": [
+        "количество",
+        "мера",
+        "измерять"
+      ],
+      "gender": "f",
+      "example": "La mesure de cette pièce est exacte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mesure",
+      "word": "mesure",
+      "en": "mesure",
+      "sourceId": "measurement",
+      "sourceIds": [
+        "measurement"
+      ],
+      "ru": [
+        "измерение",
+        "обмер",
+        "мера"
+      ],
+      "gender": "f",
+      "example": "La mesure de la pièce est exacte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mesure",
+      "word": "mesure",
+      "en": "mesure",
+      "sourceId": "measuring",
+      "sourceIds": [
+        "measuring"
+      ],
+      "ru": [
+        "измерение"
+      ],
+      "gender": "f",
+      "example": "La mesure de la température est précise.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "metre",
+      "word": "mètre",
+      "en": "mètre",
+      "sourceId": "meter",
+      "sourceIds": [
+        "meter"
+      ],
+      "ru": [
+        "счётчик",
+        "измеритель",
+        "размер"
+      ],
+      "gender": "m",
+      "example": "Le compteur d'électricité affiche la consommation en mètres cubes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pouce",
+      "word": "pouce",
+      "en": "pouce",
+      "sourceId": "inch",
+      "sourceIds": [
+        "inch"
+      ],
+      "ru": [
+        "дюйм"
+      ],
+      "gender": "m",
+      "example": "La largeur de cet écran est de vingt pouces.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mille",
+      "word": "mille",
+      "en": "mille",
+      "sourceId": "mile",
+      "sourceIds": [
+        "mile"
+      ],
+      "ru": [
+        "миля",
+        "узел"
+      ],
+      "gender": "f",
+      "example": "Il a couru un mille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "kilogramme",
+      "word": "kilogramme",
+      "en": "kilogramme",
+      "sourceId": "kilogram",
+      "sourceIds": [
+        "kilogram"
+      ],
+      "ru": [
+        "килограмм"
+      ],
+      "gender": "m",
+      "example": "pour dix kilogrammes d'alcool supplémentaires.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

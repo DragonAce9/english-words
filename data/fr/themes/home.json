@@ -1,0 +1,4697 @@
+{
+  "id": "home",
+  "title": "Дом",
+  "paid": false,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "adresser",
+      "word": "adresser",
+      "en": "adresser",
+      "sourceId": "address",
+      "sourceIds": [
+        "address"
+      ],
+      "ru": [
+        "адрес",
+        "адресовать",
+        "обратиться"
+      ],
+      "gender": null,
+      "example": "Il faut adresser cette lettre au directeur.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "appartement",
+      "word": "appartement",
+      "en": "appartement",
+      "sourceId": "apartment",
+      "sourceIds": [
+        "apartment"
+      ],
+      "ru": [
+        "квартира",
+        "апартамент"
+      ],
+      "gender": "m",
+      "example": "J'habite dans un petit appartement au centre-ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "fauteuil",
+      "word": "fauteuil",
+      "en": "fauteuil",
+      "sourceId": "armchair",
+      "sourceIds": [
+        "armchair"
+      ],
+      "ru": [
+        "кресло"
+      ],
+      "gender": null,
+      "example": "Il s'est assis dans le fauteuil pour lire.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "grenier",
+      "word": "grenier",
+      "en": "grenier",
+      "sourceId": "attic",
+      "sourceIds": [
+        "attic",
+        "loft"
+      ],
+      "ru": [
+        "мансарда",
+        "чердак"
+      ],
+      "gender": "m",
+      "example": "Nous avons rangé les vieux livres dans le grenier.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "balcon",
+      "word": "balcon",
+      "en": "balcon",
+      "sourceId": "balcony",
+      "sourceIds": [
+        "balcony"
+      ],
+      "ru": [
+        "балкон"
+      ],
+      "gender": "m",
+      "example": "Nous avons pris le petit-déjeuner sur le balcon.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "sous-sol",
+      "word": "sous-sol",
+      "en": "sous-sol",
+      "sourceId": "basement",
+      "sourceIds": [
+        "basement"
+      ],
+      "ru": [
+        "подвал",
+        "подвальный этаж",
+        "цокольный этаж"
+      ],
+      "gender": "m",
+      "example": "Nous avons rangé les vieux cartons au sous-sol.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "baignoire",
+      "word": "baignoire",
+      "en": "baignoire",
+      "sourceId": "bath",
+      "sourceIds": [
+        "bath"
+      ],
+      "ru": [
+        "ванна",
+        "ванная",
+        "баня"
+      ],
+      "gender": "f",
+      "example": "Elle prend un bain dans la baignoire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "baignade",
+      "word": "baignade",
+      "en": "baignade",
+      "sourceId": "bathing",
+      "sourceIds": [
+        "bathing"
+      ],
+      "ru": [
+        "купание"
+      ],
+      "gender": "f",
+      "example": "La baignade est interdite sur cette plage.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "salle-de-bain",
+      "word": "salle de bain",
+      "en": "salle de bain",
+      "sourceId": "bathroom",
+      "sourceIds": [
+        "bathroom"
+      ],
+      "ru": [
+        "ванная",
+        "ванная комната"
+      ],
+      "gender": "f",
+      "example": "La salle de bain est très propre.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "lit",
+      "word": "lit",
+      "en": "lit",
+      "sourceId": "bed",
+      "sourceIds": [
+        "bed"
+      ],
+      "ru": [
+        "кровать",
+        "койка",
+        "ложе"
+      ],
+      "gender": "m",
+      "example": "Il est fatigué et va se coucher dans son lit.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "literie",
+      "word": "literie",
+      "en": "literie",
+      "sourceId": "bedding",
+      "sourceIds": [
+        "bedding"
+      ],
+      "ru": [
+        "бельё",
+        "постельное бельё",
+        "подстилка"
+      ],
+      "gender": "f",
+      "example": "Il faut changer la literie chaque semaine.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "chambre",
+      "word": "chambre",
+      "en": "chambre",
+      "sourceId": "bedroom",
+      "sourceIds": [
+        "bedroom"
+      ],
+      "ru": [
+        "спальня"
+      ],
+      "gender": "f",
+      "example": "Ma chambre est très lumineuse.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "couverture",
+      "word": "couverture",
+      "en": "couverture",
+      "sourceId": "blanket",
+      "sourceIds": [
+        "blanket"
+      ],
+      "ru": [
+        "одеяло",
+        "покрывало",
+        "пласт"
+      ],
+      "gender": "f",
+      "example": "Il fait froid, j'ai besoin d'une couverture supplémentaire.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "souffleur",
+      "word": "souffleur",
+      "en": "souffleur",
+      "sourceId": "blower",
+      "sourceIds": [
+        "blower"
+      ],
+      "ru": [
+        "вентилятор",
+        "воздуходувка"
+      ],
+      "gender": "m",
+      "example": "Il utilise un souffleur pour nettoyer les feuilles mortes dans le jardin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "balai",
+      "word": "balai",
+      "en": "balai",
+      "sourceId": "broom",
+      "sourceIds": [
+        "broom"
+      ],
+      "ru": [
+        "веник",
+        "метла",
+        "щётка"
+      ],
+      "gender": "m",
+      "example": "Il utilise un balai pour nettoyer la cuisine.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "seau",
+      "word": "seau",
+      "en": "seau",
+      "sourceId": "bucket",
+      "sourceIds": [
+        "bucket"
+      ],
+      "ru": [
+        "ведро",
+        "ведёрко",
+        "ковш"
+      ],
+      "gender": "m",
+      "example": "Il a rempli le seau d'eau.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "batiment",
+      "word": "bâtiment",
+      "en": "bâtiment",
+      "sourceId": "building",
+      "sourceIds": [
+        "building"
+      ],
+      "ru": [
+        "строительство",
+        "стройка",
+        "дом"
+      ],
+      "gender": "m",
+      "example": "Ce bâtiment est très ancien.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "bougie",
+      "word": "bougie",
+      "en": "bougie",
+      "sourceId": "candle",
+      "sourceIds": [
+        "candle"
+      ],
+      "ru": [
+        "свеча",
+        "свечка"
+      ],
+      "gender": "f",
+      "example": "Elle a allumé une bougie pour créer une ambiance chaleureuse.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "tapis",
+      "word": "tapis",
+      "en": "tapis",
+      "sourceId": "carpet",
+      "sourceIds": [
+        "carpet"
+      ],
+      "ru": [
+        "ковёр",
+        "ковëр"
+      ],
+      "gender": "m",
+      "example": "Il a déroulé un grand tapis dans le salon.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "plafond",
+      "word": "plafond",
+      "en": "plafond",
+      "sourceId": "ceiling",
+      "sourceIds": [
+        "ceiling"
+      ],
+      "ru": [
+        "потолок"
+      ],
+      "gender": "m",
+      "example": "Le plafond de cette pièce est très haut.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "chaise",
+      "word": "chaise",
+      "en": "chaise",
+      "sourceId": "chair",
+      "sourceIds": [
+        "chair"
+      ],
+      "ru": [
+        "стул"
+      ],
+      "gender": "f",
+      "example": "Elle s'est assise sur une chaise en bois.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chambre",
+      "word": "chambre",
+      "en": "chambre",
+      "sourceId": "chamber",
+      "sourceIds": [
+        "chamber"
+      ],
+      "ru": [
+        "комната",
+        "спальня",
+        "палата"
+      ],
+      "gender": "f",
+      "example": "Elle se repose dans sa chambre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cheminee",
+      "word": "cheminée",
+      "en": "cheminée",
+      "sourceId": "chimney",
+      "sourceIds": [
+        "chimney"
+      ],
+      "ru": [
+        "труба",
+        "дымовая труба",
+        "дымоход"
+      ],
+      "gender": "f",
+      "example": "La fumée sort de la cheminée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "corvee",
+      "word": "corvée",
+      "en": "corvée",
+      "sourceId": "chore",
+      "sourceIds": [
+        "chore"
+      ],
+      "ru": [
+        "неприятная работа",
+        "рутинная работа",
+        "домашняя работа"
+      ],
+      "gender": "f",
+      "example": "Faire la vaisselle est une corvée quotidienne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "nettoyer",
+      "word": "nettoyer",
+      "en": "nettoyer",
+      "sourceId": "clean",
+      "sourceIds": [
+        "clean"
+      ],
+      "ru": [
+        "чистить",
+        "убирать"
+      ],
+      "gender": null,
+      "example": "Nettoie ta chambre.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "agent-d-entretien",
+      "word": "agent d'entretien",
+      "en": "agent d'entretien",
+      "sourceId": "cleaner",
+      "sourceIds": [
+        "cleaner"
+      ],
+      "ru": [
+        "уборщик",
+        "уборщица",
+        "очиститель"
+      ],
+      "gender": "m",
+      "example": "L'agent d'entretien nettoie les bureaux chaque soir.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "nettoyage",
+      "word": "nettoyage",
+      "en": "nettoyage",
+      "sourceId": "cleaning",
+      "sourceIds": [
+        "cleaning"
+      ],
+      "ru": [
+        "очистка"
+      ],
+      "gender": "m",
+      "example": "Le nettoyage de la maison prend beaucoup de temps.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "propre",
+      "word": "propre",
+      "en": "propre",
+      "sourceId": "cleanly",
+      "sourceIds": [
+        "cleanly"
+      ],
+      "ru": [
+        "чистоплотный"
+      ],
+      "gender": null,
+      "example": "Il est très propre et ordonné.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "couette",
+      "word": "couette",
+      "en": "couette",
+      "sourceId": "comforter",
+      "sourceIds": [
+        "comforter"
+      ],
+      "ru": [
+        "стёганое ватное одеяло",
+        "утешитель",
+        "утешительница"
+      ],
+      "gender": "f",
+      "example": "Il fait froid, je vais ajouter une deuxième couette sur le lit.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cuisiniere",
+      "word": "cuisinière",
+      "en": "cuisinière",
+      "sourceId": "cooker",
+      "sourceIds": [
+        "cooker"
+      ],
+      "ru": [
+        "печка",
+        "плита"
+      ],
+      "gender": "f",
+      "example": "La cuisinière est tombée en panne ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "glaciere",
+      "word": "glacière",
+      "en": "glacière",
+      "sourceId": "cooler",
+      "sourceIds": [
+        "cooler"
+      ],
+      "ru": [
+        "охладитель",
+        "сумка-холодильник"
+      ],
+      "gender": "f",
+      "example": "Nous avons mis les boissons dans la glacière pour le pique-nique.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "canape",
+      "word": "canapé",
+      "en": "canapé",
+      "sourceId": "couch",
+      "sourceIds": [
+        "couch"
+      ],
+      "ru": [
+        "диван",
+        "кушетка",
+        "софа"
+      ],
+      "gender": "m",
+      "example": "Il s'est assis sur le canapé pour regarder la télévision.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "placard",
+      "word": "placard",
+      "en": "placard",
+      "sourceId": "cupboard",
+      "sourceIds": [
+        "cupboard"
+      ],
+      "ru": [
+        "шкаф",
+        "буфет",
+        "сервант"
+      ],
+      "gender": "m",
+      "example": "J'ai rangé les assiettes dans le placard.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "rideau",
+      "word": "rideau",
+      "en": "rideau",
+      "sourceId": "curtain",
+      "sourceIds": [
+        "curtain"
+      ],
+      "ru": [
+        "гардина",
+        "занавеска",
+        "портьера"
+      ],
+      "gender": "m",
+      "example": "Elle a tiré le rideau pour laisser entrer la lumière.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "rideau",
+      "word": "rideau",
+      "en": "rideau",
+      "sourceId": "curtains",
+      "sourceIds": [
+        "curtains"
+      ],
+      "ru": [
+        "шторы",
+        "занавески"
+      ],
+      "gender": "m",
+      "example": "Elle a tiré les rideaux pour laisser entrer la lumière.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "coussin",
+      "word": "coussin",
+      "en": "coussin",
+      "sourceId": "cushion",
+      "sourceIds": [
+        "cushion"
+      ],
+      "ru": [
+        "подушка",
+        "амортизатор",
+        "буфер"
+      ],
+      "gender": "m",
+      "example": "Elle a posé sa tête sur un coussin moelleux.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bureau",
+      "word": "bureau",
+      "en": "bureau",
+      "sourceId": "desk",
+      "sourceIds": [
+        "desk"
+      ],
+      "ru": [
+        "бюро",
+        "парта",
+        "письменный стол"
+      ],
+      "gender": "m",
+      "example": "Il travaille à son bureau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sale",
+      "word": "sale",
+      "en": "sale",
+      "sourceId": "dirty",
+      "sourceIds": [
+        "dirty"
+      ],
+      "ru": [
+        "грязный",
+        "испачканный",
+        "подло"
+      ],
+      "gender": null,
+      "example": "Tes mains sont sales, va les laver.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "porte",
+      "word": "porte",
+      "en": "porte",
+      "sourceId": "door",
+      "sourceIds": [
+        "door"
+      ],
+      "ru": [
+        "дверь",
+        "двери"
+      ],
+      "gender": "f",
+      "example": "Elle a fermé la porte à clé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tiroir",
+      "word": "tiroir",
+      "en": "tiroir",
+      "sourceId": "drawer",
+      "sourceIds": [
+        "drawer"
+      ],
+      "ru": [
+        "выдвижной ящик"
+      ],
+      "gender": "m",
+      "example": "J'ai rangé mes chaussettes dans le tiroir.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "commode",
+      "word": "commode",
+      "en": "commode",
+      "sourceId": "dresser",
+      "sourceIds": [
+        "dresser"
+      ],
+      "ru": [
+        "кухонный шкаф",
+        "комод"
+      ],
+      "gender": "f",
+      "example": "Elle range ses vêtements dans la commode.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "percer",
+      "word": "percer",
+      "en": "percer",
+      "sourceId": "drill",
+      "sourceIds": [
+        "drill"
+      ],
+      "ru": [
+        "сверлить"
+      ],
+      "gender": null,
+      "example": "Il faut percer un trou dans le mur pour accrocher le tableau.",
+      "level": "C1",
+      "pos": "v"
+    },
+    {
+      "id": "domaine",
+      "word": "domaine",
+      "en": "domaine",
+      "sourceId": "estate",
+      "sourceIds": [
+        "estate"
+      ],
+      "ru": [
+        "имение",
+        "сословие"
+      ],
+      "gender": "m",
+      "example": "Ils ont passé le week-end dans leur domaine à la campagne.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "robinet",
+      "word": "robinet",
+      "en": "robinet",
+      "sourceId": "faucet",
+      "sourceIds": [
+        "faucet",
+        "tap"
+      ],
+      "ru": [
+        "кран",
+        "водопроводный кран"
+      ],
+      "gender": "m",
+      "example": "Il a oublié de fermer le robinet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "edredon",
+      "word": "édredon",
+      "en": "édredon",
+      "sourceId": "featherbed",
+      "sourceIds": [
+        "featherbed"
+      ],
+      "ru": [
+        "перина",
+        "пуховик"
+      ],
+      "gender": "m",
+      "example": "Il s'est enfoncé dans son édredon.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cloture",
+      "word": "clôture",
+      "en": "clôture",
+      "sourceId": "fence",
+      "sourceIds": [
+        "fence"
+      ],
+      "ru": [
+        "забор",
+        "ограда"
+      ],
+      "gender": "f",
+      "example": "Il a construit une nouvelle clôture autour de son jardin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cheminee",
+      "word": "cheminée",
+      "en": "cheminée",
+      "sourceId": "fireplace",
+      "sourceIds": [
+        "fireplace"
+      ],
+      "ru": [
+        "камин",
+        "очаг"
+      ],
+      "gender": "f",
+      "example": "Nous avons allumé un feu dans la cheminée.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "plat",
+      "word": "plat",
+      "en": "plat",
+      "sourceId": "flat",
+      "sourceIds": [
+        "flat"
+      ],
+      "ru": [
+        "плоский",
+        "пологий",
+        "ровный"
+      ],
+      "gender": null,
+      "example": "La terre est plate.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "sol",
+      "word": "sol",
+      "en": "sol",
+      "sourceId": "floor",
+      "sourceIds": [
+        "floor"
+      ],
+      "ru": [
+        "пол",
+        "настил",
+        "дно"
+      ],
+      "gender": "m",
+      "example": "Il y a un tapis sur le sol.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ossature",
+      "word": "ossature",
+      "en": "ossature",
+      "sourceId": "frame",
+      "sourceIds": [
+        "frame"
+      ],
+      "ru": [
+        "костяк",
+        "скелет",
+        "телосложение"
+      ],
+      "gender": "f",
+      "example": "Il a une ossature solide.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "meuble",
+      "word": "meuble",
+      "en": "meuble",
+      "sourceId": "furniture",
+      "sourceIds": [
+        "furniture"
+      ],
+      "ru": [
+        "мебель",
+        "предмет мебели"
+      ],
+      "gender": "m",
+      "example": "Ce meuble est très ancien.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "garage",
+      "word": "garage",
+      "en": "garage",
+      "sourceId": "garage",
+      "sourceIds": [
+        "garage"
+      ],
+      "ru": [
+        "гараж",
+        "станция техобслуживания",
+        "автосервис"
+      ],
+      "gender": "m",
+      "example": "Je gare ma voiture dans le garage.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "dechets",
+      "word": "déchets",
+      "en": "déchets",
+      "sourceId": "garbage",
+      "sourceIds": [
+        "garbage"
+      ],
+      "ru": [
+        "сор",
+        "мусор",
+        "отброс"
+      ],
+      "gender": "m",
+      "example": "Il faut trier les déchets avant de les jeter.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "hall",
+      "word": "hall",
+      "en": "hall",
+      "sourceId": "hall",
+      "sourceIds": [
+        "hall"
+      ],
+      "ru": [
+        "вестибюль",
+        "коридор",
+        "приёмная"
+      ],
+      "gender": "m",
+      "example": "Nous attendons dans le hall de l'hôtel.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "maison",
+      "word": "maison",
+      "en": "maison",
+      "sourceId": "house",
+      "sourceIds": [
+        "house"
+      ],
+      "ru": [
+        "дом",
+        "здание"
+      ],
+      "gender": "f",
+      "example": "J'habite dans une grande maison.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "menage",
+      "word": "ménage",
+      "en": "ménage",
+      "sourceId": "household",
+      "sourceIds": [
+        "household"
+      ],
+      "ru": [
+        "домашнее хозяйство",
+        "домашний",
+        "домохозяйство"
+      ],
+      "gender": "m",
+      "example": "Ils gèrent leur ménage avec soin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tache-menagere",
+      "word": "tâche ménagère",
+      "en": "tâche ménagère",
+      "sourceId": "housework",
+      "sourceIds": [
+        "housework"
+      ],
+      "ru": [
+        "домашняя работа",
+        "работа по дому",
+        "уборка"
+      ],
+      "gender": "f",
+      "example": "Elle déteste faire les tâches ménagères le week-end.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "logement",
+      "word": "logement",
+      "en": "logement",
+      "sourceId": "housing",
+      "sourceIds": [
+        "housing"
+      ],
+      "ru": [
+        "жильё",
+        "кожух",
+        "корпус"
+      ],
+      "gender": null,
+      "example": "Il cherche un logement près de son travail.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "encre",
+      "word": "encre",
+      "en": "encre",
+      "sourceId": "ink",
+      "sourceIds": [
+        "ink"
+      ],
+      "ru": [
+        "чернила",
+        "тушь"
+      ],
+      "gender": "f",
+      "example": "Il a taché sa chemise avec de l'encre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "interieur",
+      "word": "intérieur",
+      "en": "intérieur",
+      "sourceId": "interior",
+      "sourceIds": [
+        "interior"
+      ],
+      "ru": [
+        "интерьер",
+        "внутренняя часть"
+      ],
+      "gender": "m",
+      "example": "L'intérieur de cette maison est très moderne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "kitchenette",
+      "word": "kitchenette",
+      "en": "kitchenette",
+      "sourceId": "kitchenette",
+      "sourceIds": [
+        "kitchenette"
+      ],
+      "ru": [
+        "кухонька"
+      ],
+      "gender": "f",
+      "example": "Notre studio dispose d'une petite kitchenette équipée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "lampe",
+      "word": "lampe",
+      "en": "lampe",
+      "sourceId": "lamp",
+      "sourceIds": [
+        "lamp"
+      ],
+      "ru": [
+        "лампа",
+        "лампочка",
+        "светильник"
+      ],
+      "gender": "f",
+      "example": "Elle a allumé la lampe pour lire.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "eclairage",
+      "word": "éclairage",
+      "en": "éclairage",
+      "sourceId": "lighting",
+      "sourceIds": [
+        "lighting"
+      ],
+      "ru": [
+        "осветительные приборы",
+        "иллюминация",
+        "освещение"
+      ],
+      "gender": "m",
+      "example": "L'éclairage de cette pièce est très chaleureux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "calcaire",
+      "word": "calcaire",
+      "en": "calcaire",
+      "sourceId": "limescale",
+      "sourceIds": [
+        "limescale"
+      ],
+      "ru": [
+        "известковый налет",
+        "накипь"
+      ],
+      "gender": "m",
+      "example": "Il faut détartrer la bouilloire pour enlever le calcaire.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "serrure",
+      "word": "serrure",
+      "en": "serrure",
+      "sourceId": "lock",
+      "sourceIds": [
+        "lock"
+      ],
+      "ru": [
+        "замок",
+        "запор"
+      ],
+      "gender": "f",
+      "example": "J'ai perdu la clé de la serrure.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "verrouille",
+      "word": "verrouillé",
+      "en": "verrouillé",
+      "sourceId": "locked",
+      "sourceIds": [
+        "locked"
+      ],
+      "ru": [
+        "запертый",
+        "закрытый на замок"
+      ],
+      "gender": null,
+      "example": "La porte est verrouillée.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "casier",
+      "word": "casier",
+      "en": "casier",
+      "sourceId": "locker",
+      "sourceIds": [
+        "locker"
+      ],
+      "ru": [
+        "шкафчик",
+        "ячейка",
+        "локер"
+      ],
+      "gender": "m",
+      "example": "J'ai laissé mon sac dans mon casier à la piscine.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "matelas",
+      "word": "matelas",
+      "en": "matelas",
+      "sourceId": "mattress",
+      "sourceIds": [
+        "mattress"
+      ],
+      "ru": [
+        "матрац",
+        "матрас"
+      ],
+      "gender": "m",
+      "example": "Il a acheté un nouveau matelas très confortable.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "desordre",
+      "word": "désordre",
+      "en": "désordre",
+      "sourceId": "mess",
+      "sourceIds": [
+        "mess"
+      ],
+      "ru": [
+        "бардак",
+        "беспорядок",
+        "кавардак"
+      ],
+      "gender": "m",
+      "example": "Il y a un grand désordre dans sa chambre.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "micro-ondes",
+      "word": "micro-ondes",
+      "en": "micro-ondes",
+      "sourceId": "microwave",
+      "sourceIds": [
+        "microwave"
+      ],
+      "ru": [
+        "микроволна",
+        "готовить в микроволновой печи"
+      ],
+      "gender": "m",
+      "example": "Je réchauffe mon déjeuner au micro-ondes.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "miroir",
+      "word": "miroir",
+      "en": "miroir",
+      "sourceId": "mirror",
+      "sourceIds": [
+        "mirror"
+      ],
+      "ru": [
+        "зеркало"
+      ],
+      "gender": "m",
+      "example": "Il se regarde dans le miroir.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "aiguille",
+      "word": "aiguille",
+      "en": "aiguille",
+      "sourceId": "needle",
+      "sourceIds": [
+        "needle"
+      ],
+      "ru": [
+        "игла",
+        "иголка"
+      ],
+      "gender": "f",
+      "example": "Elle a besoin d'une aiguille pour coudre ce bouton.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "quartier",
+      "word": "quartier",
+      "en": "quartier",
+      "sourceId": "neighborhood",
+      "sourceIds": [
+        "neighborhood"
+      ],
+      "ru": [
+        "близость",
+        "окрестности",
+        "округа"
+      ],
+      "gender": "m",
+      "example": "J'habite dans un quartier calme.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voisin",
+      "word": "voisin",
+      "en": "voisin",
+      "sourceId": "neighboring",
+      "sourceIds": [
+        "neighboring"
+      ],
+      "ru": [
+        "близлежащий",
+        "соседний"
+      ],
+      "gender": null,
+      "example": "Il habite dans un village voisin.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "voisin",
+      "word": "voisin",
+      "en": "voisin",
+      "sourceId": "neighbour",
+      "sourceIds": [
+        "neighbour"
+      ],
+      "ru": [
+        "сосед",
+        "соседка",
+        "ближний"
+      ],
+      "gender": "m",
+      "example": "Mon voisin est très sympathique.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "bon-voisinage",
+      "word": "bon voisinage",
+      "en": "bon voisinage",
+      "sourceId": "neighbourly",
+      "sourceIds": [
+        "neighbourly"
+      ],
+      "ru": [
+        "добрососедский"
+      ],
+      "gender": null,
+      "example": "Ils entretiennent des relations de bon voisinage.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "ouvre-bouteille",
+      "word": "ouvre-bouteille",
+      "en": "ouvre-bouteille",
+      "sourceId": "opener",
+      "sourceIds": [
+        "opener"
+      ],
+      "ru": [
+        "открывалка",
+        "открывашка"
+      ],
+      "gender": "m",
+      "example": "J'ai besoin d'un ouvre-bouteille pour cette bière.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "four",
+      "word": "four",
+      "en": "four",
+      "sourceId": "oven",
+      "sourceIds": [
+        "oven"
+      ],
+      "ru": [
+        "печь",
+        "духовка"
+      ],
+      "gender": "m",
+      "example": "Je fais cuire le gâteau dans le four.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "cloison",
+      "word": "cloison",
+      "en": "cloison",
+      "sourceId": "partition",
+      "sourceIds": [
+        "partition"
+      ],
+      "ru": [
+        "перегородка"
+      ],
+      "gender": "f",
+      "example": "Il a installé une cloison pour séparer le bureau de la chambre.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "image",
+      "word": "image",
+      "en": "image",
+      "sourceId": "picture",
+      "sourceIds": [
+        "picture"
+      ],
+      "ru": [
+        "изображение",
+        "картина",
+        "картинка"
+      ],
+      "gender": "f",
+      "example": "Cette image est très belle.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "oreiller",
+      "word": "oreiller",
+      "en": "oreiller",
+      "sourceId": "pillow",
+      "sourceIds": [
+        "pillow"
+      ],
+      "ru": [
+        "подушка"
+      ],
+      "gender": "m",
+      "example": "Je pose ma tête sur l'oreiller pour dormir.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tuyau",
+      "word": "tuyau",
+      "en": "tuyau",
+      "sourceId": "pipe",
+      "sourceIds": [
+        "pipe"
+      ],
+      "ru": [
+        "труба",
+        "водопроводная труба"
+      ],
+      "gender": "m",
+      "example": "L'eau coule dans le tuyau.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "prise",
+      "word": "fiche",
+      "en": "fiche",
+      "sourceId": "plug",
+      "sourceIds": [
+        "plug"
+      ],
+      "ru": [
+        "вилка",
+        "штепсельная вилка",
+        "штекер"
+      ],
+      "gender": "f",
+      "example": "Branche la fiche dans la prise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plomberie",
+      "word": "plomberie",
+      "en": "plomberie",
+      "sourceId": "plumbing",
+      "sourceIds": [
+        "plumbing"
+      ],
+      "ru": [
+        "сантехника"
+      ],
+      "gender": "f",
+      "example": "Il a fait appel à un professionnel pour réparer la plomberie.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "recycler",
+      "word": "recycler",
+      "en": "recycler",
+      "sourceId": "recycle",
+      "sourceIds": [
+        "recycle"
+      ],
+      "ru": [
+        "рециркулировать",
+        "перерабатывать",
+        "переработать"
+      ],
+      "gender": null,
+      "example": "Il faut recycler le papier et le plastique.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "recyclage",
+      "word": "recyclage",
+      "en": "recyclage",
+      "sourceId": "recycling",
+      "sourceIds": [
+        "recycling"
+      ],
+      "ru": [
+        "вторичная переработка",
+        "переработка отходов",
+        "рециклинг"
+      ],
+      "gender": "m",
+      "example": "Le recyclage du papier est important pour l'environnement.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "refrigerateur",
+      "word": "réfrigérateur",
+      "en": "réfrigérateur",
+      "sourceId": "refrigerator",
+      "sourceIds": [
+        "refrigerator"
+      ],
+      "ru": [
+        "холодильник",
+        "рефрижератор"
+      ],
+      "gender": "m",
+      "example": "Le lait est dans le réfrigérateur.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "loyer",
+      "word": "loyer",
+      "en": "loyer",
+      "sourceId": "rent",
+      "sourceIds": [
+        "rent"
+      ],
+      "ru": [
+        "аренда",
+        "арендная плата",
+        "квартирная плата"
+      ],
+      "gender": "m",
+      "example": "Je dois payer mon loyer avant le cinq du mois.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "location",
+      "word": "location",
+      "en": "location",
+      "sourceId": "rental",
+      "sourceIds": [
+        "rental"
+      ],
+      "ru": [
+        "аренда"
+      ],
+      "gender": "f",
+      "example": "La location de cette voiture coûte cher.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "residence",
+      "word": "résidence",
+      "en": "résidence",
+      "sourceId": "residence",
+      "sourceIds": [
+        "residence"
+      ],
+      "ru": [
+        "местожительство",
+        "резиденция",
+        "дом"
+      ],
+      "gender": "f",
+      "example": "Il a fixé sa résidence principale à Paris.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "residentiel",
+      "word": "résidentiel",
+      "en": "résidentiel",
+      "sourceId": "residential",
+      "sourceIds": [
+        "residential"
+      ],
+      "ru": [
+        "жилищный",
+        "жилой"
+      ],
+      "gender": null,
+      "example": "Il habite dans un quartier résidentiel calme.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "bascule",
+      "word": "bascule",
+      "en": "bascule",
+      "sourceId": "rocker",
+      "sourceIds": [
+        "rocker"
+      ],
+      "ru": [
+        "балансир",
+        "качалка",
+        "коромысло"
+      ],
+      "gender": "f",
+      "example": "Le bébé s'est endormi dans sa chaise à bascule.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "toit",
+      "word": "toit",
+      "en": "toit",
+      "sourceId": "roof",
+      "sourceIds": [
+        "roof"
+      ],
+      "ru": [
+        "крыша",
+        "кров",
+        "стреха"
+      ],
+      "gender": "m",
+      "example": "Le toit de la maison est couvert de tuiles rouges.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "couvreur",
+      "word": "couvreur",
+      "en": "couvreur",
+      "sourceId": "roofer",
+      "sourceIds": [
+        "roofer"
+      ],
+      "ru": [
+        "кровельщик",
+        "руфер"
+      ],
+      "gender": "m",
+      "example": "Le couvreur répare les tuiles du toit.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "toiture",
+      "word": "toiture",
+      "en": "toiture",
+      "sourceId": "roofing",
+      "sourceIds": [
+        "roofing"
+      ],
+      "ru": [
+        "кровля",
+        "руферство",
+        "руфинг"
+      ],
+      "gender": "f",
+      "example": "La toiture de cette maison doit être réparée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "piece",
+      "word": "pièce",
+      "en": "pièce",
+      "sourceId": "room",
+      "sourceIds": [
+        "room"
+      ],
+      "ru": [
+        "комната",
+        "помещение"
+      ],
+      "gender": "f",
+      "example": "Cette maison a cinq pièces.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ombre",
+      "word": "ombre",
+      "en": "ombre",
+      "sourceId": "shade",
+      "sourceIds": [
+        "shade"
+      ],
+      "ru": [
+        "штора",
+        "тень",
+        "переходить"
+      ],
+      "gender": "f",
+      "example": "Il s'est assis à l'ombre pour se reposer.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "etagere",
+      "word": "étagère",
+      "en": "étagère",
+      "sourceId": "shelf",
+      "sourceIds": [
+        "shelf"
+      ],
+      "ru": [
+        "полка",
+        "шельф"
+      ],
+      "gender": "f",
+      "example": "Il a rangé ses livres sur l'étagère.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "coquillage",
+      "word": "coquillage",
+      "en": "coquillage",
+      "sourceId": "shell",
+      "sourceIds": [
+        "shell"
+      ],
+      "ru": [
+        "раковина",
+        "панцирь",
+        "ракушка"
+      ],
+      "gender": "m",
+      "example": "J'ai ramassé un joli coquillage sur la plage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "evier",
+      "word": "évier",
+      "en": "évier",
+      "sourceId": "sink",
+      "sourceIds": [
+        "sink"
+      ],
+      "ru": [
+        "раковина",
+        "мойка",
+        "умывальник"
+      ],
+      "gender": "m",
+      "example": "Il lave la vaisselle dans l'évier.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "savonner",
+      "word": "savonner",
+      "en": "savonner",
+      "sourceId": "soap",
+      "sourceIds": [
+        "soap"
+      ],
+      "ru": [
+        "мыло",
+        "мылить",
+        "намылить"
+      ],
+      "gender": null,
+      "example": "Il faut bien savonner les mains pour éliminer les bactéries.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "prise",
+      "word": "prise",
+      "en": "prise",
+      "sourceId": "socket",
+      "sourceIds": [
+        "socket"
+      ],
+      "ru": [
+        "розетка",
+        "гнездо",
+        "патрон"
+      ],
+      "gender": "f",
+      "example": "Il a branché la lampe dans la prise.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "canape",
+      "word": "canapé",
+      "en": "canapé",
+      "sourceId": "sofa",
+      "sourceIds": [
+        "sofa"
+      ],
+      "ru": [
+        "диван",
+        "канапе",
+        "кушетка"
+      ],
+      "gender": "m",
+      "example": "Il s'est assis sur le canapé pour lire un livre.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cuillere",
+      "word": "cuillère",
+      "en": "cuillère",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "ru": [
+        "ложка"
+      ],
+      "gender": "f",
+      "example": "Elle mange sa soupe avec une cuillère.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "escalier",
+      "word": "escalier",
+      "en": "escalier",
+      "sourceId": "stairs",
+      "sourceIds": [
+        "stairs"
+      ],
+      "ru": [
+        "лестница",
+        "ступенька"
+      ],
+      "gender": "m",
+      "example": "Il monte l'escalier rapidement.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cuisiniere",
+      "word": "cuisinière",
+      "en": "cuisinière",
+      "sourceId": "stove",
+      "sourceIds": [
+        "stove"
+      ],
+      "ru": [
+        "плита",
+        "печка",
+        "плитка"
+      ],
+      "gender": "f",
+      "example": "Elle fait cuire le dîner sur la cuisinière.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bric-a-brac",
+      "word": "bric-à-brac",
+      "en": "bric-à-brac",
+      "sourceId": "stuff",
+      "sourceIds": [
+        "stuff"
+      ],
+      "ru": [
+        "хлам",
+        "барахло"
+      ],
+      "gender": "m",
+      "example": "Et tout ce bric-à-brac.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "interrupteur",
+      "word": "interrupteur",
+      "en": "interrupteur",
+      "sourceId": "switch",
+      "sourceIds": [
+        "switch"
+      ],
+      "ru": [
+        "ключ",
+        "выключатель",
+        "переключатель"
+      ],
+      "gender": "m",
+      "example": "Il a appuyé sur l'interrupteur pour allumer la lumière.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "table",
+      "word": "table",
+      "en": "table",
+      "sourceId": "table",
+      "sourceIds": [
+        "table"
+      ],
+      "ru": [
+        "стол",
+        "поднос",
+        "таблица"
+      ],
+      "gender": "f",
+      "example": "Le livre est sur la table.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "range",
+      "word": "rangé",
+      "en": "rangé",
+      "sourceId": "tidy",
+      "sourceIds": [
+        "tidy"
+      ],
+      "ru": [
+        "аккуратный",
+        "опрятный",
+        "чистый"
+      ],
+      "gender": null,
+      "example": "Sa chambre est toujours très bien rangée.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "toilette",
+      "word": "toilette",
+      "en": "toilette",
+      "sourceId": "toilet",
+      "sourceIds": [
+        "toilet"
+      ],
+      "ru": [
+        "туалет",
+        "клозет",
+        "уборная"
+      ],
+      "gender": "f",
+      "example": "Où se trouvent les toilettes, s'il vous plaît ?",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "serviette",
+      "word": "serviette",
+      "en": "serviette",
+      "sourceId": "towel",
+      "sourceIds": [
+        "towel"
+      ],
+      "ru": [
+        "полотенце",
+        "рушник",
+        "ручник"
+      ],
+      "gender": "f",
+      "example": "Il s'est essuyé le visage avec une serviette propre.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ordures",
+      "word": "ordures",
+      "en": "ordures",
+      "sourceId": "trash",
+      "sourceIds": [
+        "trash"
+      ],
+      "ru": [
+        "мусор",
+        "дрянь",
+        "ерунда"
+      ],
+      "gender": "f",
+      "example": "Il faut sortir les ordures ce soir.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "passer-l-aspirateur",
+      "word": "passer l'aspirateur",
+      "en": "passer l'aspirateur",
+      "sourceId": "vacuum",
+      "sourceIds": [
+        "vacuum"
+      ],
+      "ru": [
+        "вакуум",
+        "пропылесосить",
+        "пылесосить"
+      ],
+      "gender": null,
+      "example": "Je dois passer l'aspirateur dans le salon.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "vase",
+      "word": "vase",
+      "en": "vase",
+      "sourceId": "vase",
+      "sourceIds": [
+        "vase"
+      ],
+      "ru": [
+        "ваза"
+      ],
+      "gender": "m",
+      "example": "Il a mis des fleurs dans le vase.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "mur",
+      "word": "mur",
+      "en": "mur",
+      "sourceId": "wall",
+      "sourceIds": [
+        "wall"
+      ],
+      "ru": [
+        "стена",
+        "вал"
+      ],
+      "gender": "m",
+      "example": "Il a peint le mur en bleu.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "armoire",
+      "word": "armoire",
+      "en": "armoire",
+      "sourceId": "wardrobe",
+      "sourceIds": [
+        "wardrobe"
+      ],
+      "ru": [
+        "шкаф",
+        "гардероб",
+        "шифоньер"
+      ],
+      "gender": "f",
+      "example": "J'ai rangé mes vêtements dans l'armoire.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "rondelle",
+      "word": "rondelle",
+      "en": "rondelle",
+      "sourceId": "washer",
+      "sourceIds": [
+        "washer"
+      ],
+      "ru": [
+        "шайба",
+        "прачка"
+      ],
+      "gender": "f",
+      "example": "Il faut ajouter une rondelle pour fixer la vis.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "dechet",
+      "word": "déchet",
+      "en": "déchet",
+      "sourceId": "waste",
+      "sourceIds": [
+        "waste"
+      ],
+      "ru": [
+        "отбросы",
+        "отходы",
+        "пустошь"
+      ],
+      "gender": "m",
+      "example": "Il faut trier chaque déchet pour le recyclage.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fenetre",
+      "word": "fenêtre",
+      "en": "fenêtre",
+      "sourceId": "window",
+      "sourceIds": [
+        "window"
+      ],
+      "ru": [
+        "окно",
+        "окошко"
+      ],
+      "gender": "f",
+      "example": "Il regarde par la fenêtre.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "fil",
+      "word": "fil",
+      "en": "fil",
+      "sourceId": "wire",
+      "sourceIds": [
+        "wire"
+      ],
+      "ru": [
+        "проволока",
+        "провод"
+      ],
+      "gender": "m",
+      "example": "Il a réparé la lampe avec un fil électrique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cuisine",
+      "word": "cuisine",
+      "en": "cuisine",
+      "sourceId": "kitchen",
+      "sourceIds": [
+        "kitchen"
+      ],
+      "ru": [
+        "кухня"
+      ],
+      "gender": "f",
+      "example": "La cuisine sentait le pain frais et le café.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "blanchir",
+      "word": "blanchir",
+      "en": "blanchir",
+      "sourceId": "bleach",
+      "sourceIds": [
+        "bleach"
+      ],
+      "ru": [
+        "отбеливать"
+      ],
+      "gender": null,
+      "example": "Tu dois blanchir ce tissu.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bibliotheque",
+      "word": "bibliothèque",
+      "en": "bibliothèque",
+      "sourceId": "bookcase",
+      "sourceIds": [
+        "bookcase"
+      ],
+      "ru": [
+        "книжный шкаф"
+      ],
+      "gender": "f",
+      "example": "Nous avons acheté une bibliothèque.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "support",
+      "word": "support",
+      "en": "support",
+      "sourceId": "bracket",
+      "sourceIds": [
+        "bracket"
+      ],
+      "ru": [
+        "кронштейн",
+        "скобка"
+      ],
+      "gender": "m",
+      "example": "Je dois fixer un support au mur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cintre",
+      "word": "cintre",
+      "en": "cintre",
+      "sourceId": "hanger",
+      "sourceIds": [
+        "hanger"
+      ],
+      "ru": [
+        "вешалка"
+      ],
+      "gender": "m",
+      "example": "Il a dormi avec un cintre dans la bouche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fourche",
+      "word": "fourche",
+      "en": "fourche",
+      "sourceId": "pitchfork",
+      "sourceIds": [
+        "pitchfork"
+      ],
+      "ru": [
+        "вилы"
+      ],
+      "gender": "f",
+      "example": "Prends ta torche et ta fourche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "colocataire",
+      "word": "colocataire",
+      "en": "colocataire",
+      "sourceId": "roommate",
+      "sourceIds": [
+        "roommate"
+      ],
+      "ru": [
+        "сосед по комнате"
+      ],
+      "gender": "m",
+      "example": "Tout d'abord, nous ne sommes pas colocataires.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "invite",
+      "word": "invité",
+      "en": "invité",
+      "sourceId": "houseguest",
+      "sourceIds": [
+        "houseguest"
+      ],
+      "ru": [
+        "гость в доме"
+      ],
+      "gender": "m",
+      "example": "Tu es mon invité.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tapis",
+      "word": "tapis",
+      "en": "tapis",
+      "sourceId": "rug",
+      "sourceIds": [
+        "rug"
+      ],
+      "ru": [
+        "коврик"
+      ],
+      "gender": "m",
+      "example": "Il y a un tapis devant la porte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "visser",
+      "word": "visser",
+      "en": "visser",
+      "sourceId": "screw",
+      "sourceIds": [
+        "screw"
+      ],
+      "ru": [
+        "завинчивать"
+      ],
+      "gender": null,
+      "example": "Il faut visser cette pièce pour la fixer.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "conduit",
+      "word": "conduit",
+      "en": "conduit",
+      "sourceId": "duct",
+      "sourceIds": [
+        "duct"
+      ],
+      "ru": [
+        "трубопровод",
+        "канал"
+      ],
+      "gender": "m",
+      "example": "L'air circule dans le conduit de ventilation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "baignoire",
+      "word": "baignoire",
+      "en": "baignoire",
+      "sourceId": "tub",
+      "sourceIds": [
+        "tub"
+      ],
+      "ru": [
+        "ванна",
+        "бадья"
+      ],
+      "gender": "f",
+      "example": "Elle sort tout juste de la baignoire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "placard",
+      "word": "placard",
+      "en": "placard",
+      "sourceId": "closet",
+      "sourceIds": [
+        "closet"
+      ],
+      "ru": [
+        "шкаф"
+      ],
+      "gender": "m",
+      "example": "Il a caché ses affaires dans le placard.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pouf",
+      "word": "pouf",
+      "en": "pouf",
+      "sourceId": "ottoman",
+      "sourceIds": [
+        "ottoman"
+      ],
+      "ru": [
+        "пуфик"
+      ],
+      "gender": "m",
+      "example": "Le pouf est en feu ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bille",
+      "word": "bille",
+      "en": "bille",
+      "sourceId": "marble",
+      "sourceIds": [
+        "marble"
+      ],
+      "ru": [
+        "мрамор"
+      ],
+      "gender": "f",
+      "example": "Il joue aux billes dans la cour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "serpiller",
+      "word": "serpiller",
+      "en": "serpiller",
+      "sourceId": "mop",
+      "sourceIds": [
+        "mop"
+      ],
+      "ru": [
+        "мыть шваброй"
+      ],
+      "gender": null,
+      "example": "Je viens de serpiller !",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "s-ecouler",
+      "word": "s'écouler",
+      "en": "s'écouler",
+      "sourceId": "drain",
+      "sourceIds": [
+        "drain"
+      ],
+      "ru": [
+        "осушать",
+        "стекать"
+      ],
+      "gender": null,
+      "example": "J'ai vu la vie s'écouler de leurs yeux.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "lin",
+      "word": "lin",
+      "en": "lin",
+      "sourceId": "linen",
+      "sourceIds": [
+        "linen"
+      ],
+      "ru": [
+        "лен",
+        "постельное белье"
+      ],
+      "gender": "m",
+      "example": "Elle porte une robe en lin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brasero",
+      "word": "brasero",
+      "en": "brasero",
+      "sourceId": "brazier",
+      "sourceIds": [
+        "brazier"
+      ],
+      "ru": [
+        "жаровня"
+      ],
+      "gender": "m",
+      "example": "Je vais aller allumer le brasero.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "echelle",
+      "word": "échelle",
+      "en": "échelle",
+      "sourceId": "ladder",
+      "sourceIds": [
+        "ladder"
+      ],
+      "ru": [
+        "лестница",
+        "стремянка"
+      ],
+      "gender": "f",
+      "example": "Recule sur l'échelle ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boulon",
+      "word": "boulon",
+      "en": "boulon",
+      "sourceId": "bolt",
+      "sourceIds": [
+        "bolt"
+      ],
+      "ru": [
+        "болт",
+        "засов"
+      ],
+      "gender": "m",
+      "example": "Le boulon est sorti de là.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grange",
+      "word": "grange",
+      "en": "grange",
+      "sourceId": "barn",
+      "sourceIds": [
+        "barn"
+      ],
+      "ru": [
+        "амбар",
+        "сарай"
+      ],
+      "gender": "f",
+      "example": "Eh bien, le mur de la grange.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "auto-assemblage",
+      "word": "auto-assemblage",
+      "en": "auto-assemblage",
+      "sourceId": "self-assembly",
+      "sourceIds": [
+        "self-assembly"
+      ],
+      "ru": [
+        "самосборка"
+      ],
+      "gender": "m",
+      "example": "Il s'agit d'une clôture électrique en auto-assemblage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "auge",
+      "word": "auge",
+      "en": "auge",
+      "sourceId": "trough",
+      "sourceIds": [
+        "trough"
+      ],
+      "ru": [
+        "корыто",
+        "желоб"
+      ],
+      "gender": "f",
+      "example": "toutes les auges abandonnées",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "robinet-d-arret",
+      "word": "robinet d'arrêt",
+      "en": "robinet d'arrêt",
+      "sourceId": "stopcock",
+      "sourceIds": [
+        "stopcock"
+      ],
+      "ru": [
+        "запорный кран"
+      ],
+      "gender": "m",
+      "example": "Fermez tous les robinets d'arrêt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "scatologique",
+      "word": "scatologique",
+      "en": "scatologique",
+      "sourceId": "lavatorial",
+      "sourceIds": [
+        "lavatorial"
+      ],
+      "ru": [
+        "туалетный"
+      ],
+      "gender": null,
+      "example": "Je ne veux pas être scatologique.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "brouette",
+      "word": "brouette",
+      "en": "brouette",
+      "sourceId": "wheelbarrow",
+      "sourceIds": [
+        "wheelbarrow"
+      ],
+      "ru": [
+        "тачка"
+      ],
+      "gender": "f",
+      "example": "Il transporte du sable avec une brouette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cabane",
+      "word": "cabane",
+      "en": "cabane",
+      "sourceId": "hut",
+      "sourceIds": [
+        "hut"
+      ],
+      "ru": [
+        "хижина",
+        "лачуга"
+      ],
+      "gender": "f",
+      "example": "dans leurs cabanes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "decorer",
+      "word": "décorer",
+      "en": "décorer",
+      "sourceId": "decorate",
+      "sourceIds": [
+        "decorate"
+      ],
+      "ru": [
+        "украшать",
+        "декорировать"
+      ],
+      "gender": null,
+      "example": "Il faut décorer le gâteau avec des fruits.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "ampoule",
+      "word": "ampoule",
+      "en": "ampoule",
+      "sourceId": "bulb",
+      "sourceIds": [
+        "bulb"
+      ],
+      "ru": [
+        "лампочка",
+        "луковица"
+      ],
+      "gender": "f",
+      "example": "une ampoule de 5 millions de watts",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tondeuse",
+      "word": "tondeuse",
+      "en": "tondeuse",
+      "sourceId": "lawnmower",
+      "sourceIds": [
+        "lawnmower",
+        "mower"
+      ],
+      "ru": [
+        "газонокосилка"
+      ],
+      "gender": "f",
+      "example": "Tu veux dire une tondeuse, en fait ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "eaux-usees",
+      "word": "eaux usées",
+      "en": "eaux usées",
+      "sourceId": "sewage",
+      "sourceIds": [
+        "sewage"
+      ],
+      "ru": [
+        "сточные воды",
+        "канализация"
+      ],
+      "gender": "f",
+      "example": "C'est mélangé avec les eaux usées de Temple Guiting.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pierre-seche",
+      "word": "pierre sèche",
+      "en": "pierre sèche",
+      "sourceId": "dry-stone",
+      "sourceIds": [
+        "dry-stone"
+      ],
+      "ru": [
+        "сухая кладка"
+      ],
+      "gender": "f",
+      "example": "Gérald est un maçon en pierre sèche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cloturer-de-nouveau",
+      "word": "clôturer de nouveau",
+      "en": "clôturer de nouveau",
+      "sourceId": "refence",
+      "sourceIds": [
+        "refence"
+      ],
+      "ru": [
+        "огораживать заново"
+      ],
+      "gender": null,
+      "example": "Mais nous devons clôturer de nouveau cet espace.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "crepi",
+      "word": "crépi",
+      "en": "crépi",
+      "sourceId": "pebbledash",
+      "sourceIds": [
+        "pebbledash"
+      ],
+      "ru": [
+        "штукатурка с галькой"
+      ],
+      "gender": "m",
+      "example": "Il a choisi de recouvrir la façade de crépi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "armoire",
+      "word": "armoire",
+      "en": "armoire",
+      "sourceId": "cabinet",
+      "sourceIds": [
+        "cabinet"
+      ],
+      "ru": [
+        "шкаф",
+        "кабинет"
+      ],
+      "gender": "f",
+      "example": "Il a pris le dossier dans l'armoire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "drainage",
+      "word": "drainage",
+      "en": "drainage",
+      "sourceId": "drainage",
+      "sourceIds": [
+        "drainage"
+      ],
+      "ru": [
+        "дренаж",
+        "водоотвод"
+      ],
+      "gender": "m",
+      "example": "Il faut éviter toute forme de drainage pour économiser de l'argent.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "majordome",
+      "word": "majordome",
+      "en": "majordome",
+      "sourceId": "butler",
+      "sourceIds": [
+        "butler"
+      ],
+      "ru": [
+        "дворецкий"
+      ],
+      "gender": "m",
+      "example": "L'idiot majordome du diable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "couloir",
+      "word": "couloir",
+      "en": "couloir",
+      "sourceId": "corridor",
+      "sourceIds": [
+        "corridor"
+      ],
+      "ru": [
+        "коридор"
+      ],
+      "gender": "m",
+      "example": "Il court dans le couloir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bois-de-chauffage",
+      "word": "bois de chauffage",
+      "en": "bois de chauffage",
+      "sourceId": "firewood",
+      "sourceIds": [
+        "firewood"
+      ],
+      "ru": [
+        "дрова"
+      ],
+      "gender": "m",
+      "example": "Un permis pour le bois de chauffage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lame-de-parquet",
+      "word": "lame de parquet",
+      "en": "lame de parquet",
+      "sourceId": "floorboard",
+      "sourceIds": [
+        "floorboard"
+      ],
+      "ru": [
+        "половая доска"
+      ],
+      "gender": "f",
+      "example": "sous les lames de parquet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plaque-de-platre",
+      "word": "plaque de plâtre",
+      "en": "plaque de plâtre",
+      "sourceId": "drywall",
+      "sourceIds": [
+        "drywall"
+      ],
+      "ru": [
+        "гипсокартон"
+      ],
+      "gender": "f",
+      "example": "Il y a de la moisissure dans ma plaque de plâtre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "baignoire",
+      "word": "baignoire",
+      "en": "baignoire",
+      "sourceId": "bathtub",
+      "sourceIds": [
+        "bathtub"
+      ],
+      "ru": [
+        "ванна"
+      ],
+      "gender": "f",
+      "example": "Tu as vraiment envie d'une baignoire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cour",
+      "word": "cour",
+      "en": "cour",
+      "sourceId": "yard",
+      "sourceIds": [
+        "yard",
+        "courtyard"
+      ],
+      "ru": [
+        "двор"
+      ],
+      "gender": "f",
+      "example": "Il y a des tas d'ordures dans la cour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cave",
+      "word": "cave",
+      "en": "cave",
+      "sourceId": "cellar",
+      "sourceIds": [
+        "cellar"
+      ],
+      "ru": [
+        "подвал",
+        "погреб"
+      ],
+      "gender": "m",
+      "example": "Huit tonneaux de bière provenant de la cave.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "demeure",
+      "word": "demeure",
+      "en": "demeure",
+      "sourceId": "abode",
+      "sourceIds": [
+        "abode"
+      ],
+      "ru": [
+        "жилище",
+        "обитель"
+      ],
+      "gender": "f",
+      "example": "La demeure hivernale.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "en-haut",
+      "word": "en haut",
+      "en": "en haut",
+      "sourceId": "upstairs",
+      "sourceIds": [
+        "upstairs"
+      ],
+      "ru": [
+        "наверху",
+        "на верхнем этаже"
+      ],
+      "gender": null,
+      "example": "Montez en haut.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "ferme",
+      "word": "ferme",
+      "en": "ferme",
+      "sourceId": "farmhouse",
+      "sourceIds": [
+        "farmhouse"
+      ],
+      "ru": [
+        "фермерский дом"
+      ],
+      "gender": null,
+      "example": "À l'extérieur d'une ferme.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "selles",
+      "word": "selles",
+      "en": "selles",
+      "sourceId": "stool",
+      "sourceIds": [
+        "stool"
+      ],
+      "ru": [
+        "табурет",
+        "стул"
+      ],
+      "gender": "f",
+      "example": "Vous avez des problèmes de selles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chiffon",
+      "word": "chiffon",
+      "en": "chiffon",
+      "sourceId": "rag",
+      "sourceIds": [
+        "rag"
+      ],
+      "ru": [
+        "тряпка"
+      ],
+      "gender": "m",
+      "example": "Il n'y aura pas de roulage de chiffons.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "banc-de-touche",
+      "word": "banc de touche",
+      "en": "banc de touche",
+      "sourceId": "dugout",
+      "sourceIds": [
+        "dugout"
+      ],
+      "ru": [
+        "землянка",
+        "блиндаж"
+      ],
+      "gender": "m",
+      "example": "et un nouvel entraîneur sur le banc de touche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "accueillant",
+      "word": "accueillant",
+      "en": "accueillant",
+      "sourceId": "homey",
+      "sourceIds": [
+        "homey"
+      ],
+      "ru": [
+        "уютный"
+      ],
+      "gender": null,
+      "example": "Déballez quelques affaires pour rendre cet endroit plus accueillant.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "coudre",
+      "word": "coudre",
+      "en": "coudre",
+      "sourceId": "sew",
+      "sourceIds": [
+        "sew"
+      ],
+      "ru": [
+        "шить"
+      ],
+      "gender": null,
+      "example": "Cousez vite, déchargez plus vite.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "berceau",
+      "word": "berceau",
+      "en": "berceau",
+      "sourceId": "cradle",
+      "sourceIds": [
+        "cradle"
+      ],
+      "ru": [
+        "колыбель"
+      ],
+      "gender": "m",
+      "example": "pour le berceau",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "abriter",
+      "word": "abriter",
+      "en": "abriter",
+      "sourceId": "shelter",
+      "sourceIds": [
+        "shelter"
+      ],
+      "ru": [
+        "укрывать"
+      ],
+      "gender": null,
+      "example": "Avec la Triarchie qui abrite désormais les réfugiés.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "chaumiere",
+      "word": "chaumière",
+      "en": "chaumière",
+      "sourceId": "cottage",
+      "sourceIds": [
+        "cottage"
+      ],
+      "ru": [
+        "коттедж",
+        "домик"
+      ],
+      "gender": "f",
+      "example": "Ils vivent dans une petite chaumière à la campagne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "couloir",
+      "word": "couloir",
+      "en": "couloir",
+      "sourceId": "hallway",
+      "sourceIds": [
+        "hallway"
+      ],
+      "ru": [
+        "коридор",
+        "прихожая"
+      ],
+      "gender": "m",
+      "example": "Tu as vomi dans le couloir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rencard-arrange",
+      "word": "rencard arrangé",
+      "en": "rencard arrangé",
+      "sourceId": "fix-up",
+      "sourceIds": [
+        "fix-up"
+      ],
+      "ru": [
+        "ремонт",
+        "свидание вслепую"
+      ],
+      "gender": "m",
+      "example": "Tu sais que c'était un rencard arrangé, n'est-ce pas ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pendaison-de-cremaillere",
+      "word": "pendaison de crémaillère",
+      "en": "pendaison de crémaillère",
+      "sourceId": "housewarming",
+      "sourceIds": [
+        "housewarming"
+      ],
+      "ru": [
+        "новоселье"
+      ],
+      "gender": "f",
+      "example": "Nous organisons une grande pendaison de crémaillère le 12.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "taniere",
+      "word": "tanière",
+      "en": "tanière",
+      "sourceId": "den",
+      "sourceIds": [
+        "den"
+      ],
+      "ru": [
+        "логово",
+        "кабинет"
+      ],
+      "gender": "f",
+      "example": "Le loup est retourné dans sa tanière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "porcelaine",
+      "word": "porcelaine",
+      "en": "porcelaine",
+      "sourceId": "china",
+      "sourceIds": [
+        "china"
+      ],
+      "ru": [
+        "фарфор"
+      ],
+      "gender": "f",
+      "example": "Cette tasse est en porcelaine fine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ventilation",
+      "word": "ventilation",
+      "en": "ventilation",
+      "sourceId": "ventilation",
+      "sourceIds": [
+        "ventilation"
+      ],
+      "ru": [
+        "вентиляция"
+      ],
+      "gender": "f",
+      "example": "Il faut vérifier cette unité de ventilation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "incinerateur",
+      "word": "incinérateur",
+      "en": "incinérateur",
+      "sourceId": "incinerator",
+      "sourceIds": [
+        "incinerator"
+      ],
+      "ru": [
+        "мусоросжигательная печь"
+      ],
+      "gender": "m",
+      "example": "Je dois mettre ça dans l'incinérateur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lit-pliant",
+      "word": "lit pliant",
+      "en": "lit pliant",
+      "sourceId": "cot",
+      "sourceIds": [
+        "cot"
+      ],
+      "ru": [
+        "раскладушка",
+        "детская кроватка"
+      ],
+      "gender": "m",
+      "example": "Il y a un lit pliant dans la réserve.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "refrigerateur",
+      "word": "réfrigérateur",
+      "en": "réfrigérateur",
+      "sourceId": "fridge",
+      "sourceIds": [
+        "fridge"
+      ],
+      "ru": [
+        "холодильник"
+      ],
+      "gender": "m",
+      "example": "Tu sais, ils se conservent mieux au réfrigérateur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brique",
+      "word": "brique",
+      "en": "brique",
+      "sourceId": "brick",
+      "sourceIds": [
+        "brick"
+      ],
+      "ru": [
+        "кирпич"
+      ],
+      "gender": "f",
+      "example": "C'est de la brique de Londres, dans le sous-sol.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "escalier",
+      "word": "escalier",
+      "en": "escalier",
+      "sourceId": "staircase",
+      "sourceIds": [
+        "staircase",
+        "stairway"
+      ],
+      "ru": [
+        "лестница"
+      ],
+      "gender": "m",
+      "example": "Un corps sur mon escalier ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "manoir",
+      "word": "manoir",
+      "en": "manoir",
+      "sourceId": "manor",
+      "sourceIds": [
+        "manor"
+      ],
+      "ru": [
+        "поместье",
+        "усадьба"
+      ],
+      "gender": "m",
+      "example": "Il vivait dans un vieux manoir isolé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "seuil",
+      "word": "seuil",
+      "en": "seuil",
+      "sourceId": "doorstep",
+      "sourceIds": [
+        "doorstep"
+      ],
+      "ru": [
+        "порог"
+      ],
+      "gender": "m",
+      "example": "Ne remets plus jamais les pieds chez moi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "eponge",
+      "word": "éponge",
+      "en": "éponge",
+      "sourceId": "sponge",
+      "sourceIds": [
+        "sponge"
+      ],
+      "ru": [
+        "губка"
+      ],
+      "gender": "f",
+      "example": "Coach, vous êtes une éponge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "humidificateur",
+      "word": "humidificateur",
+      "en": "humidificateur",
+      "sourceId": "humidifier",
+      "sourceIds": [
+        "humidifier"
+      ],
+      "ru": [
+        "увлажнитель воздуха"
+      ],
+      "gender": "m",
+      "example": "J'ai acheté un humidificateur pour ma chambre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "casier",
+      "word": "casier",
+      "en": "casier",
+      "sourceId": "cubby",
+      "sourceIds": [
+        "cubby"
+      ],
+      "ru": [
+        "чулан",
+        "ячейка"
+      ],
+      "gender": "m",
+      "example": "Dans vos petits casiers là-haut.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "couchette",
+      "word": "couchette",
+      "en": "couchette",
+      "sourceId": "bunk",
+      "sourceIds": [
+        "bunk"
+      ],
+      "ru": [
+        "койка",
+        "койка в общежитии"
+      ],
+      "gender": "f",
+      "example": "Cette scène où le lit superposé s'effondre...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "garde-manger",
+      "word": "garde-manger",
+      "en": "garde-manger",
+      "sourceId": "larder",
+      "sourceIds": [
+        "larder"
+      ],
+      "ru": [
+        "кладовая для продуктов"
+      ],
+      "gender": "m",
+      "example": "Thatcher nous a dit de remplir nos garde-manger.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ventouse",
+      "word": "ventouse",
+      "en": "ventouse",
+      "sourceId": "plunger",
+      "sourceIds": [
+        "plunger"
+      ],
+      "ru": [
+        "вантуз"
+      ],
+      "gender": "f",
+      "example": "Il a utilisé une ventouse pour déboucher l'évier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "berceau",
+      "word": "berceau",
+      "en": "berceau",
+      "sourceId": "crib",
+      "sourceIds": [
+        "crib"
+      ],
+      "ru": [
+        "детская кроватка",
+        "шпаргалка"
+      ],
+      "gender": "m",
+      "example": "Le bébé dort paisiblement dans son berceau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "radiateur",
+      "word": "radiateur",
+      "en": "radiateur",
+      "sourceId": "radiator",
+      "sourceIds": [
+        "radiator"
+      ],
+      "ru": [
+        "радиатор"
+      ],
+      "gender": "m",
+      "example": "Il y a trop de grilles de radiateur ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "seche-linge",
+      "word": "sèche-linge",
+      "en": "sèche-linge",
+      "sourceId": "dryer",
+      "sourceIds": [
+        "dryer"
+      ],
+      "ru": [
+        "сушилка"
+      ],
+      "gender": "m",
+      "example": "Essaie de le faire dans son sèche-linge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "climatisation",
+      "word": "climatisation",
+      "en": "climatisation",
+      "sourceId": "air-conditioning",
+      "sourceIds": [
+        "air-conditioning"
+      ],
+      "ru": [
+        "кондиционирование"
+      ],
+      "gender": "f",
+      "example": "Il fait très chaud, heureusement qu'il y a la climatisation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nappe",
+      "word": "nappe",
+      "en": "nappe",
+      "sourceId": "tablecloth",
+      "sourceIds": [
+        "tablecloth"
+      ],
+      "ru": [
+        "скатерть"
+      ],
+      "gender": "f",
+      "example": "Et vous avez assorti une nappe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pilier",
+      "word": "pilier",
+      "en": "pilier",
+      "sourceId": "pillar",
+      "sourceIds": [
+        "pillar"
+      ],
+      "ru": [
+        "столб",
+        "колонна"
+      ],
+      "gender": "m",
+      "example": "En fait, les piliers soutiennent toute la structure.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "buffet",
+      "word": "buffet",
+      "en": "buffet",
+      "sourceId": "sideboard",
+      "sourceIds": [
+        "sideboard"
+      ],
+      "ru": [
+        "буфет",
+        "сервант"
+      ],
+      "gender": "m",
+      "example": "Il a posé les plats sur le buffet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "charniere",
+      "word": "charnière",
+      "en": "charnière",
+      "sourceId": "hinge",
+      "sourceIds": [
+        "hinge"
+      ],
+      "ru": [
+        "петля",
+        "шарнир"
+      ],
+      "gender": "f",
+      "example": "La porte grince sur ses charnières.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "latte",
+      "word": "latte",
+      "en": "latte",
+      "sourceId": "slat",
+      "sourceIds": [
+        "slat"
+      ],
+      "ru": [
+        "планка",
+        "рейка"
+      ],
+      "gender": "f",
+      "example": "Regarde les lattes là-bas.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chaise-haute",
+      "word": "chaise haute",
+      "en": "chaise haute",
+      "sourceId": "highchair",
+      "sourceIds": [
+        "highchair"
+      ],
+      "ru": [
+        "детский стульчик для кормления"
+      ],
+      "gender": "f",
+      "example": "Tu es assis sur une chaise haute.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bricolage",
+      "word": "bricolage",
+      "en": "bricolage",
+      "sourceId": "diy",
+      "sourceIds": [
+        "diy"
+      ],
+      "ru": [
+        "сделай сам"
+      ],
+      "gender": "m",
+      "example": "C'est peut-être un petit projet de bricolage économique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "proprietaire",
+      "word": "propriétaire",
+      "en": "propriétaire",
+      "sourceId": "landlord",
+      "sourceIds": [
+        "landlord"
+      ],
+      "ru": [
+        "арендодатель",
+        "домовладелец"
+      ],
+      "gender": "m",
+      "example": "Le propriétaire dit qu'elle n'y a pas habité.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maisonnette",
+      "word": "maisonnette",
+      "en": "maisonnette",
+      "sourceId": "playhouse",
+      "sourceIds": [
+        "playhouse"
+      ],
+      "ru": [
+        "игровой домик",
+        "театр"
+      ],
+      "gender": "f",
+      "example": "Cette chose était dans la maisonnette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ranch",
+      "word": "ranch",
+      "en": "ranch",
+      "sourceId": "ranch",
+      "sourceIds": [
+        "ranch"
+      ],
+      "ru": [
+        "ранчо"
+      ],
+      "gender": "m",
+      "example": "Il possède un grand ranch au Texas.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "allee",
+      "word": "allée",
+      "en": "allée",
+      "sourceId": "driveway",
+      "sourceIds": [
+        "driveway"
+      ],
+      "ru": [
+        "подъездная дорога"
+      ],
+      "gender": "f",
+      "example": "Il y a une voiture dans notre allée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "osier",
+      "word": "osier",
+      "en": "osier",
+      "sourceId": "wicker",
+      "sourceIds": [
+        "wicker"
+      ],
+      "ru": [
+        "плетеный"
+      ],
+      "gender": "m",
+      "example": "dans de petits paniers en osier",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pelouse",
+      "word": "pelouse",
+      "en": "pelouse",
+      "sourceId": "lawn",
+      "sourceIds": [
+        "lawn"
+      ],
+      "ru": [
+        "газон",
+        "лужайка"
+      ],
+      "gender": "f",
+      "example": "Tu tonds ma pelouse ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arroser",
+      "word": "arroser",
+      "en": "arroser",
+      "sourceId": "hose",
+      "sourceIds": [
+        "hose"
+      ],
+      "ru": [
+        "поливать из шланга"
+      ],
+      "gender": null,
+      "example": "Il faut arroser le jardin avec le tuyau.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "planche-a-laver",
+      "word": "planche à laver",
+      "en": "planche à laver",
+      "sourceId": "washboard",
+      "sourceIds": [
+        "washboard"
+      ],
+      "ru": [
+        "стиральная доска"
+      ],
+      "gender": "f",
+      "example": "Tu es plat comme une planche à laver.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "escabeau",
+      "word": "escabeau",
+      "en": "escabeau",
+      "sourceId": "stepladder",
+      "sourceIds": [
+        "stepladder"
+      ],
+      "ru": [
+        "стремянка"
+      ],
+      "gender": "m",
+      "example": "Tu veux que je monte sur l'escabeau ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-deux-etages",
+      "word": "à deux étages",
+      "en": "à deux étages",
+      "sourceId": "two-storey",
+      "sourceIds": [
+        "two-storey"
+      ],
+      "ru": [
+        "двухэтажный"
+      ],
+      "gender": null,
+      "example": "Pas celui à deux étages.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "garde-meuble",
+      "word": "garde-meuble",
+      "en": "garde-meuble",
+      "sourceId": "self-storage",
+      "sourceIds": [
+        "self-storage"
+      ],
+      "ru": [
+        "склад индивидуального хранения"
+      ],
+      "gender": "m",
+      "example": "Où sont les garde-meubles ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "berceau",
+      "word": "berceau",
+      "en": "berceau",
+      "sourceId": "bassinet",
+      "sourceIds": [
+        "bassinet"
+      ],
+      "ru": [
+        "люлька"
+      ],
+      "gender": "m",
+      "example": "Nous avons acheté son berceau là-bas.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "encadrement-de-porte",
+      "word": "encadrement de porte",
+      "en": "encadrement de porte",
+      "sourceId": "doorway",
+      "sourceIds": [
+        "doorway"
+      ],
+      "ru": [
+        "дверной проем"
+      ],
+      "gender": "m",
+      "example": "Halstead et Lindsay dans l'encadrement de la porte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "locataire",
+      "word": "locataire",
+      "en": "locataire",
+      "sourceId": "tenant",
+      "sourceIds": [
+        "tenant"
+      ],
+      "ru": [
+        "арендатор"
+      ],
+      "gender": "m",
+      "example": "Et vous avez ces locataires.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-l-interieur",
+      "word": "à l'intérieur",
+      "en": "à l'intérieur",
+      "sourceId": "indoors",
+      "sourceIds": [
+        "indoors"
+      ],
+      "ru": [
+        "в помещении"
+      ],
+      "gender": null,
+      "example": "C'est à l'intérieur.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "verrouiller",
+      "word": "verrouiller",
+      "en": "verrouiller",
+      "sourceId": "latch",
+      "sourceIds": [
+        "latch"
+      ],
+      "ru": [
+        "защелкивать"
+      ],
+      "gender": null,
+      "example": "Il verrouille la porte.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "chambre-d-enfant",
+      "word": "chambre d'enfant",
+      "en": "chambre d'enfant",
+      "sourceId": "nursery",
+      "sourceIds": [
+        "nursery"
+      ],
+      "ru": [
+        "детская комната",
+        "ясли"
+      ],
+      "gender": "f",
+      "example": "Il joue dans sa chambre d'enfant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "urinoir",
+      "word": "urinoir",
+      "en": "urinoir",
+      "sourceId": "urinal",
+      "sourceIds": [
+        "urinal"
+      ],
+      "ru": [
+        "писсуар"
+      ],
+      "gender": "m",
+      "example": "Ce trou derrière un urinoir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rebord",
+      "word": "rebord",
+      "en": "rebord",
+      "sourceId": "ledge",
+      "sourceIds": [
+        "ledge"
+      ],
+      "ru": [
+        "выступ",
+        "карниз"
+      ],
+      "gender": "m",
+      "example": "Il a couru le long du rebord de la fenêtre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plateau",
+      "word": "plateau",
+      "en": "plateau",
+      "sourceId": "tray",
+      "sourceIds": [
+        "tray"
+      ],
+      "ru": [
+        "поднос"
+      ],
+      "gender": "m",
+      "example": "Il a apporté le café sur un plateau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chevron",
+      "word": "chevron",
+      "en": "chevron",
+      "sourceId": "rafter",
+      "sourceIds": [
+        "rafter"
+      ],
+      "ru": [
+        "стропило"
+      ],
+      "gender": "m",
+      "example": "Suspendu aux chevrons.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hachette",
+      "word": "hachette",
+      "en": "hachette",
+      "sourceId": "hatchet",
+      "sourceIds": [
+        "hatchet"
+      ],
+      "ru": [
+        "топорик"
+      ],
+      "gender": "f",
+      "example": "et mon petit-fils avec une hachette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "separateur",
+      "word": "séparateur",
+      "en": "séparateur",
+      "sourceId": "divider",
+      "sourceIds": [
+        "divider"
+      ],
+      "ru": [
+        "разделитель",
+        "перегородка"
+      ],
+      "gender": "m",
+      "example": "Il a utilisé le séparateur pour diviser la pièce en deux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "apres-shampoing",
+      "word": "après-shampoing",
+      "en": "après-shampoing",
+      "sourceId": "conditioner",
+      "sourceIds": [
+        "conditioner"
+      ],
+      "ru": [
+        "кондиционер"
+      ],
+      "gender": null,
+      "example": "Il utilise un après-shampoing pour ses cheveux longs.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "porte-derobee",
+      "word": "porte dérobée",
+      "en": "porte dérobée",
+      "sourceId": "backdoor",
+      "sourceIds": [
+        "backdoor"
+      ],
+      "ru": [
+        "черный ход"
+      ],
+      "gender": "f",
+      "example": "Il est entré par la porte dérobée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "copropriete",
+      "word": "copropriété",
+      "en": "copropriété",
+      "sourceId": "condo",
+      "sourceIds": [
+        "condo"
+      ],
+      "ru": [
+        "квартира в кондоминиуме"
+      ],
+      "gender": "f",
+      "example": "Il a acheté une copropriété près de la plage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "service-d-etage",
+      "word": "service d'étage",
+      "en": "service d'étage",
+      "sourceId": "housekeeping",
+      "sourceIds": [
+        "housekeeping"
+      ],
+      "ru": [
+        "ведение домашнего хозяйства"
+      ],
+      "gender": "m",
+      "example": "Bonjour, service d'étage ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "facade",
+      "word": "façade",
+      "en": "façade",
+      "sourceId": "frontage",
+      "sourceIds": [
+        "frontage"
+      ],
+      "ru": [
+        "фасад",
+        "лицевая сторона"
+      ],
+      "gender": "f",
+      "example": "La propriété possède dix mètres de façade sur le lac.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "renover",
+      "word": "rénover",
+      "en": "rénover",
+      "sourceId": "remodel",
+      "sourceIds": [
+        "remodel"
+      ],
+      "ru": [
+        "перестраивать",
+        "реконструировать"
+      ],
+      "gender": null,
+      "example": "Il faut rénover certains logements.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "grincer",
+      "word": "grincer",
+      "en": "grincer",
+      "sourceId": "creak",
+      "sourceIds": [
+        "creak"
+      ],
+      "ru": [
+        "скрип",
+        "скрипеть"
+      ],
+      "gender": null,
+      "example": "La porte grince puis se ferme.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "arriere-cour",
+      "word": "arrière-cour",
+      "en": "arrière-cour",
+      "sourceId": "backyard",
+      "sourceIds": [
+        "backyard"
+      ],
+      "ru": [
+        "задний двор"
+      ],
+      "gender": "f",
+      "example": "Tu n'as pas entendu de vautours dans notre arrière-cour ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maison-a-renover",
+      "word": "maison à rénover",
+      "en": "maison à rénover",
+      "sourceId": "fixer-upper",
+      "sourceIds": [
+        "fixer-upper"
+      ],
+      "ru": [
+        "дом, требующий ремонта"
+      ],
+      "gender": "f",
+      "example": "C'est une maison à rénover, c'est certain.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sonnette",
+      "word": "sonnette",
+      "en": "sonnette",
+      "sourceId": "doorbell",
+      "sourceIds": [
+        "doorbell"
+      ],
+      "ru": [
+        "дверной звонок"
+      ],
+      "gender": "f",
+      "example": "Je viens de sonner à la porte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "colocation",
+      "word": "colocation",
+      "en": "colocation",
+      "sourceId": "flatshare",
+      "sourceIds": [
+        "flatshare"
+      ],
+      "ru": [
+        "совместная аренда квартиры"
+      ],
+      "gender": "f",
+      "example": "Tu cherches une colocation ou quelque chose comme ça ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "colocataire",
+      "word": "colocataire",
+      "en": "colocataire",
+      "sourceId": "flatmate",
+      "sourceIds": [
+        "flatmate"
+      ],
+      "ru": [
+        "сосед по квартире"
+      ],
+      "gender": "m",
+      "example": "Qui voudrait de moi comme colocataire ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "proprietaire",
+      "word": "propriétaire",
+      "en": "propriétaire",
+      "sourceId": "landlady",
+      "sourceIds": [
+        "landlady"
+      ],
+      "ru": [
+        "хозяйка дома",
+        "арендодатель"
+      ],
+      "gender": "f",
+      "example": "Mme Hudson, la propriétaire, est très gentille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gouvernante",
+      "word": "gouvernante",
+      "en": "gouvernante",
+      "sourceId": "housekeeper",
+      "sourceIds": [
+        "housekeeper"
+      ],
+      "ru": [
+        "экономка",
+        "домработница"
+      ],
+      "gender": "f",
+      "example": "Je ne suis pas votre gouvernante.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "au-chevet",
+      "word": "au chevet",
+      "en": "au chevet",
+      "sourceId": "bedside",
+      "sourceIds": [
+        "bedside"
+      ],
+      "ru": [
+        "у кровати"
+      ],
+      "gender": null,
+      "example": "Il a un excellent contact avec les patients.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "lucarne",
+      "word": "lucarne",
+      "en": "lucarne",
+      "sourceId": "skylight",
+      "sourceIds": [
+        "skylight"
+      ],
+      "ru": [
+        "мансардное окно"
+      ],
+      "gender": "f",
+      "example": "Il est entré par cette lucarne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "terrasse",
+      "word": "terrasse",
+      "en": "terrasse",
+      "sourceId": "terrace",
+      "sourceIds": [
+        "terrace"
+      ],
+      "ru": [
+        "терраса"
+      ],
+      "gender": "f",
+      "example": "sur la terrasse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "volet",
+      "word": "volet",
+      "en": "volet",
+      "sourceId": "shutter",
+      "sourceIds": [
+        "shutter"
+      ],
+      "ru": [
+        "ставня"
+      ],
+      "gender": "m",
+      "example": "Il ferme le volet pour la nuit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grille",
+      "word": "grille",
+      "en": "grille",
+      "sourceId": "grating",
+      "sourceIds": [
+        "grating"
+      ],
+      "ru": [
+        "решетка",
+        "скрип"
+      ],
+      "gender": null,
+      "example": "Il y a une grille devant la fenêtre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "salon",
+      "word": "salon",
+      "en": "salon",
+      "sourceId": "parlour",
+      "sourceIds": [
+        "parlour"
+      ],
+      "ru": [
+        "гостиная",
+        "салон"
+      ],
+      "gender": "m",
+      "example": "Un salon de tatouage chinois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "planche",
+      "word": "planche",
+      "en": "planche",
+      "sourceId": "plank",
+      "sourceIds": [
+        "plank"
+      ],
+      "ru": [
+        "доска"
+      ],
+      "gender": "f",
+      "example": "Cloue une planche sur la fenêtre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "passage",
+      "word": "passage",
+      "en": "passage",
+      "sourceId": "passage",
+      "sourceIds": [
+        "passage"
+      ],
+      "ru": [
+        "проход",
+        "отрывок"
+      ],
+      "gender": "m",
+      "example": "Le passage vers Londres est bloqué.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coffre-fort",
+      "word": "coffre-fort",
+      "en": "coffre-fort",
+      "sourceId": "strongbox",
+      "sourceIds": [
+        "strongbox"
+      ],
+      "ru": [
+        "сейф",
+        "несгораемый ящик"
+      ],
+      "gender": "m",
+      "example": "Il a caché ses bijoux dans un coffre-fort.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "domestique",
+      "word": "domestique",
+      "en": "domestique",
+      "sourceId": "houseboy",
+      "sourceIds": [
+        "houseboy"
+      ],
+      "ru": [
+        "слуга"
+      ],
+      "gender": null,
+      "example": "Raoul, le domestique.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "aspirateur",
+      "word": "aspirateur",
+      "en": "aspirateur",
+      "sourceId": "hoover",
+      "sourceIds": [
+        "hoover"
+      ],
+      "ru": [
+        "пылесос"
+      ],
+      "gender": "m",
+      "example": "Il n'a jamais été très doué pour passer l'aspirateur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "platrer",
+      "word": "plâtrer",
+      "en": "plâtrer",
+      "sourceId": "plaster",
+      "sourceIds": [
+        "plaster"
+      ],
+      "ru": [
+        "штукатурить",
+        "накладывать гипс"
+      ],
+      "gender": null,
+      "example": "Il a dû se faire plâtrer le bras après sa chute.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "coin-du-feu",
+      "word": "coin du feu",
+      "en": "coin du feu",
+      "sourceId": "fireside",
+      "sourceIds": [
+        "fireside"
+      ],
+      "ru": [
+        "у камина"
+      ],
+      "gender": "m",
+      "example": "Et maintenant, une discussion au coin du feu avec les créateurs de South Park :",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lanterne",
+      "word": "lanterne",
+      "en": "lanterne",
+      "sourceId": "lantern",
+      "sourceIds": [
+        "lantern"
+      ],
+      "ru": [
+        "фонарь"
+      ],
+      "gender": "f",
+      "example": "Une lanterne verte et un anneau de pouvoir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cheville",
+      "word": "cheville",
+      "en": "cheville",
+      "sourceId": "dowel",
+      "sourceIds": [
+        "dowel"
+      ],
+      "ru": [
+        "дюбель",
+        "шкант"
+      ],
+      "gender": "f",
+      "example": "Il faut six chevilles de deux pouces.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ciseau-a-bois",
+      "word": "ciseau à bois",
+      "en": "ciseau à bois",
+      "sourceId": "chisel",
+      "sourceIds": [
+        "chisel"
+      ],
+      "ru": [
+        "долото",
+        "стамеска"
+      ],
+      "gender": "m",
+      "example": "Il a utilisé un ciseau à bois pour sculpter le détail.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bouton",
+      "word": "bouton",
+      "en": "bouton",
+      "sourceId": "knob",
+      "sourceIds": [
+        "knob"
+      ],
+      "ru": [
+        "ручка",
+        "кнопка"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de boutons sur cet appareil.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "couette",
+      "word": "couette",
+      "en": "couette",
+      "sourceId": "duvet",
+      "sourceIds": [
+        "duvet"
+      ],
+      "ru": [
+        "пуховое одеяло"
+      ],
+      "gender": "f",
+      "example": "Elle ressemble à une couette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "couvercle",
+      "word": "couvercle",
+      "en": "couvercle",
+      "sourceId": "lid",
+      "sourceIds": [
+        "lid"
+      ],
+      "ru": [
+        "крышка",
+        "веко"
+      ],
+      "gender": "m",
+      "example": "sur le couvercle du coffre",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tuyau-de-poele",
+      "word": "tuyau de poêle",
+      "en": "tuyau de poêle",
+      "sourceId": "stovepipe",
+      "sourceIds": [
+        "stovepipe"
+      ],
+      "ru": [
+        "дымовая труба"
+      ],
+      "gender": "m",
+      "example": "Il a mis son chapeau haut-de-forme, aussi appelé chapeau tuyau de poêle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pelle",
+      "word": "pelle",
+      "en": "pelle",
+      "sourceId": "spade",
+      "sourceIds": [
+        "spade"
+      ],
+      "ru": [
+        "лопата"
+      ],
+      "gender": "f",
+      "example": "J'ai cassé ma pelle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "piece-centrale",
+      "word": "pièce centrale",
+      "en": "pièce centrale",
+      "sourceId": "centrepiece",
+      "sourceIds": [
+        "centrepiece"
+      ],
+      "ru": [
+        "центральный элемент"
+      ],
+      "gender": "f",
+      "example": "C'est la pièce centrale de cette exposition.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plan-de-travail",
+      "word": "plan de travail",
+      "en": "plan de travail",
+      "sourceId": "worktop",
+      "sourceIds": [
+        "worktop"
+      ],
+      "ru": [
+        "столешница"
+      ],
+      "gender": "m",
+      "example": "Le plan de travail de la cuisine est en granit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "installation",
+      "word": "installation",
+      "en": "installation",
+      "sourceId": "fixture",
+      "sourceIds": [
+        "fixture"
+      ],
+      "ru": [
+        "приспособление",
+        "неотъемлемая часть"
+      ],
+      "gender": "f",
+      "example": "L'appartement est vendu avec toutes les installations.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rideau",
+      "word": "rideau",
+      "en": "rideau",
+      "sourceId": "drape",
+      "sourceIds": [
+        "drape"
+      ],
+      "ru": [
+        "драпировка",
+        "штора"
+      ],
+      "gender": "m",
+      "example": "Est-ce que ça va avec les rideaux ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nichoir",
+      "word": "nichoir",
+      "en": "nichoir",
+      "sourceId": "birdhouse",
+      "sourceIds": [
+        "birdhouse"
+      ],
+      "ru": [
+        "скворечник"
+      ],
+      "gender": "m",
+      "example": "Pourquoi y a-t-il un nichoir dedans ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ornement",
+      "word": "ornement",
+      "en": "ornement",
+      "sourceId": "ornament",
+      "sourceIds": [
+        "ornament"
+      ],
+      "ru": [
+        "украшение",
+        "орнамент"
+      ],
+      "gender": "m",
+      "example": "C'est un ornement très délicat.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mastic",
+      "word": "mastic",
+      "en": "mastic",
+      "sourceId": "putty",
+      "sourceIds": [
+        "putty"
+      ],
+      "ru": [
+        "шпатлевка",
+        "замазка"
+      ],
+      "gender": "m",
+      "example": "Il a rebouché les trous avec du mastic.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "renover",
+      "word": "rénover",
+      "en": "rénover",
+      "sourceId": "renovate",
+      "sourceIds": [
+        "renovate"
+      ],
+      "ru": [
+        "ремонтировать",
+        "обновлять"
+      ],
+      "gender": null,
+      "example": "La maison a été rénovée l'année dernière.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "decorateur",
+      "word": "décorateur",
+      "en": "décorateur",
+      "sourceId": "decorator",
+      "sourceIds": [
+        "decorator"
+      ],
+      "ru": [
+        "декоратор"
+      ],
+      "gender": "m",
+      "example": "Mon décorateur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "joint",
+      "word": "joint",
+      "en": "joint",
+      "sourceId": "grout",
+      "sourceIds": [
+        "grout"
+      ],
+      "ru": [
+        "затирка (для швов)"
+      ],
+      "gender": "m",
+      "example": "Qui peut poser un joint correct ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "devisser",
+      "word": "dévisser",
+      "en": "dévisser",
+      "sourceId": "unscrew",
+      "sourceIds": [
+        "unscrew"
+      ],
+      "ru": [
+        "отвинчивать"
+      ],
+      "gender": null,
+      "example": "Il a dû dévisser la plaque pour accéder au moteur.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "extincteur",
+      "word": "extincteur",
+      "en": "extincteur",
+      "sourceId": "extinguisher",
+      "sourceIds": [
+        "extinguisher"
+      ],
+      "ru": [
+        "огнетушитель"
+      ],
+      "gender": "m",
+      "example": "L'extincteur est sous l'évier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "confort",
+      "word": "confort",
+      "en": "confort",
+      "sourceId": "coziness",
+      "sourceIds": [
+        "coziness"
+      ],
+      "ru": [
+        "уют"
+      ],
+      "gender": "m",
+      "example": "J'aime le confort de cette maison.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bibliotheque-a-ressaut",
+      "word": "bibliothèque à ressaut",
+      "en": "bibliothèque à ressaut",
+      "sourceId": "breakfront",
+      "sourceIds": [
+        "breakfront"
+      ],
+      "ru": [
+        "шкаф с выступающей средней частью"
+      ],
+      "gender": "f",
+      "example": "Il y a de la poussière sur toute la bibliothèque à ressaut.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

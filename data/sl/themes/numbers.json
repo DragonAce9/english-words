@@ -1,0 +1,2513 @@
+{
+  "id": "numbers",
+  "title": "Числа",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "nic",
+      "word": "nič",
+      "en": "nič",
+      "ru": [
+        "ноль",
+        "нуль",
+        "зеро"
+      ],
+      "example": "Nič, kar vidimo ali mislimo, ni resnično.",
+      "level": "A1",
+      "sourceId": "zero",
+      "sourceIds": [
+        "zero"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ena",
+      "word": "ena",
+      "en": "ena",
+      "ru": [
+        "один",
+        "единственный",
+        "тот самый"
+      ],
+      "example": "Ena lastovka še ne prinese pomladi.",
+      "level": "A1",
+      "sourceId": "one",
+      "sourceIds": [
+        "one"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "par",
+      "word": "par",
+      "en": "par",
+      "ru": [
+        "пара",
+        "двойка",
+        "два"
+      ],
+      "example": "Kupil je nov par rokavic.",
+      "level": "A1",
+      "sourceId": "two",
+      "sourceIds": [
+        "two"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trije",
+      "word": "trije",
+      "en": "trije",
+      "ru": [
+        "три",
+        "тройка",
+        "трое"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "three",
+      "sourceIds": [
+        "three"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "stiri",
+      "word": "štiri",
+      "en": "štiri",
+      "ru": [
+        "четыре",
+        "четвёрка",
+        "четырёхлетка"
+      ],
+      "example": "Pet je število med štiri in šest.",
+      "level": "A1",
+      "sourceId": "four",
+      "sourceIds": [
+        "four"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pet",
+      "word": "pet",
+      "en": "pet",
+      "ru": [
+        "пять",
+        "пятёрка",
+        "пятеро"
+      ],
+      "example": "Pet je število med štiri in šest.",
+      "level": "A1",
+      "sourceId": "five",
+      "sourceIds": [
+        "five"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sest",
+      "word": "šest",
+      "en": "šest",
+      "ru": [
+        "шесть",
+        "шестёрка",
+        "шестеро"
+      ],
+      "example": "Pet je število med štiri in šest.",
+      "level": "A1",
+      "sourceId": "six",
+      "sourceIds": [
+        "six"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sedem",
+      "word": "sedem",
+      "en": "sedem",
+      "ru": [
+        "семь",
+        "семёрка",
+        "семеро"
+      ],
+      "example": "Čez sedem let vse prav pride.",
+      "level": "A1",
+      "sourceId": "seven",
+      "sourceIds": [
+        "seven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "osem",
+      "word": "osem",
+      "en": "osem",
+      "ru": [
+        "восемь",
+        "восьмёрка",
+        "восьмеро"
+      ],
+      "example": "Osem je število med sedmico in devetico.",
+      "level": "A1",
+      "sourceId": "eight",
+      "sourceIds": [
+        "eight"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "devet",
+      "word": "devet",
+      "en": "devet",
+      "ru": [
+        "девять",
+        "девятка",
+        "девятеро"
+      ],
+      "example": "Iz vsakega stavka naredite devet prevodov.",
+      "level": "A1",
+      "sourceId": "nine",
+      "sourceIds": [
+        "nine"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deset",
+      "word": "deset",
+      "en": "deset",
+      "ru": [
+        "десять",
+        "десятка",
+        "десяток"
+      ],
+      "example": "V tej sobi je deset ljudi.",
+      "level": "A1",
+      "sourceId": "ten",
+      "sourceIds": [
+        "ten"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "enajst",
+      "word": "enajst",
+      "en": "enajst",
+      "ru": [
+        "одиннадцать"
+      ],
+      "example": "Ura je enajst.",
+      "level": "A1",
+      "sourceId": "eleven",
+      "sourceIds": [
+        "eleven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dvanajst",
+      "word": "dvanajst",
+      "en": "dvanajst",
+      "ru": [
+        "двенадцать"
+      ],
+      "example": "Ura je dvanajst.",
+      "level": "A1",
+      "sourceId": "twelve",
+      "sourceIds": [
+        "twelve"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trinajst",
+      "word": "trinajst",
+      "en": "trinajst",
+      "ru": [
+        "тринадцать"
+      ],
+      "example": "Nekateri ljudje verjamejo, da številka trinajst prinaša nesrečo.",
+      "level": "A1",
+      "sourceId": "thirteen",
+      "sourceIds": [
+        "thirteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stirinajst",
+      "word": "štirinajst",
+      "en": "štirinajst",
+      "ru": [
+        "четырнадцать"
+      ],
+      "example": "Naša učiteljica govori štirinajst jezikov.",
+      "level": "A1",
+      "sourceId": "fourteen",
+      "sourceIds": [
+        "fourteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "petnajst",
+      "word": "petnajst",
+      "en": "petnajst",
+      "ru": [
+        "пятнадцать"
+      ],
+      "example": "V elefen je napisal petnajst tisoč stavkov.",
+      "level": "A1",
+      "sourceId": "fifteen",
+      "sourceIds": [
+        "fifteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sestnajst",
+      "word": "šestnajst",
+      "en": "šestnajst",
+      "ru": [
+        "шестнадцать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "sixteen",
+      "sourceIds": [
+        "sixteen"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemnajst",
+      "word": "sedemnajst",
+      "en": "sedemnajst",
+      "ru": [
+        "семнадцать"
+      ],
+      "example": "Moj oče ima sedemnajst vnukov.",
+      "level": "A1",
+      "sourceId": "seventeen",
+      "sourceIds": [
+        "seventeen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "osemnajst",
+      "word": "osemnajst",
+      "en": "osemnajst",
+      "ru": [
+        "восемнадцать"
+      ],
+      "example": "Štiri plus osemnajst je dvaindvajset.",
+      "level": "A1",
+      "sourceId": "eighteen",
+      "sourceIds": [
+        "eighteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "devetnajst",
+      "word": "devetnajst",
+      "en": "devetnajst",
+      "ru": [
+        "девятнадцать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "nineteen",
+      "sourceIds": [
+        "nineteen"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "dvajset",
+      "word": "dvajset",
+      "en": "dvajset",
+      "ru": [
+        "двадцатка",
+        "двадцать"
+      ],
+      "example": "Mary je naredila dvajset prevodov istega stavka.",
+      "level": "A1",
+      "sourceId": "twenty",
+      "sourceIds": [
+        "twenty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trideset",
+      "word": "trideset",
+      "en": "trideset",
+      "ru": [
+        "тридцать"
+      ],
+      "example": "Štej do trideset.",
+      "level": "A1",
+      "sourceId": "thirty",
+      "sourceIds": [
+        "thirty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stirideset",
+      "word": "štirideset",
+      "en": "štirideset",
+      "ru": [
+        "сорок"
+      ],
+      "example": "Štirideset ljudi je prišlo.",
+      "level": "A1",
+      "sourceId": "forty",
+      "sourceIds": [
+        "forty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "petdeset",
+      "word": "petdeset",
+      "en": "petdeset",
+      "ru": [
+        "пятьдесят"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "fifty",
+      "sourceIds": [
+        "fifty"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sestdeset",
+      "word": "šestdeset",
+      "en": "šestdeset",
+      "ru": [
+        "шестьдесят"
+      ],
+      "example": "Ena minuta ima šestdeset sekund.",
+      "level": "A1",
+      "sourceId": "sixty",
+      "sourceIds": [
+        "sixty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "seventy",
+      "sourceIds": [
+        "seventy"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят один"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-one",
+      "sourceIds": [
+        "seventy-one"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "dvainsedemdeset",
+      "word": "dvainsedemdeset",
+      "en": "dvainsedemdeset",
+      "ru": [
+        "семьдесят два"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-two",
+      "sourceIds": [
+        "seventy-two"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят три"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-three",
+      "sourceIds": [
+        "seventy-three"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят четыре"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-four",
+      "sourceIds": [
+        "seventy-four"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят пять"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-five",
+      "sourceIds": [
+        "seventy-five"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят шесть"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-six",
+      "sourceIds": [
+        "seventy-six"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят семь"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-seven",
+      "sourceIds": [
+        "seventy-seven"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят восемь"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-eight",
+      "sourceIds": [
+        "seventy-eight"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedemdeset",
+      "word": "sedemdeset",
+      "en": "sedemdeset",
+      "ru": [
+        "семьдесят девять"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-nine",
+      "sourceIds": [
+        "seventy-nine"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "osemdeset",
+      "word": "osemdeset",
+      "en": "osemdeset",
+      "ru": [
+        "восемьдесят"
+      ],
+      "example": "Knjižnica je stara osemdeset let.",
+      "level": "A1",
+      "sourceId": "eighty",
+      "sourceIds": [
+        "eighty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "devetdeset",
+      "word": "devetdeset",
+      "en": "devetdeset",
+      "ru": [
+        "девяносто"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "ninety",
+      "sourceIds": [
+        "ninety"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sto",
+      "word": "sto",
+      "en": "sto",
+      "ru": [
+        "сто",
+        "сотня"
+      ],
+      "example": "Danes je napisal sto stavkov za svojo knjigo.",
+      "level": "A1",
+      "sourceId": "hundred",
+      "sourceIds": [
+        "hundred"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tisoc",
+      "word": "tisoč",
+      "en": "tisoč",
+      "ru": [
+        "тысяча"
+      ],
+      "example": "V elefen je napisal petnajst tisoč stavkov.",
+      "level": "A1",
+      "sourceId": "thousand",
+      "sourceIds": [
+        "thousand"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milijon",
+      "word": "milijon",
+      "en": "milijon",
+      "ru": [
+        "миллион"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "million",
+      "sourceIds": [
+        "million"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "milijarda",
+      "word": "milijarda",
+      "en": "milijarda",
+      "ru": [
+        "миллиард"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "billion",
+      "sourceIds": [
+        "billion"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "prvi",
+      "word": "prvi",
+      "en": "prvi",
+      "ru": [
+        "первый",
+        "в первую очередь",
+        "во-первых"
+      ],
+      "example": "Kdo bo prvi, ki bo vse uganil?",
+      "level": "A1",
+      "sourceId": "first",
+      "sourceIds": [
+        "first"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sekunda",
+      "word": "sekunda",
+      "en": "sekunda",
+      "ru": [
+        "секунда",
+        "второй",
+        "секундант"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "second",
+      "sourceIds": [
+        "second"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tretjina",
+      "word": "tretjina",
+      "en": "tretjina",
+      "ru": [
+        "третий",
+        "треть",
+        "(одна) третья (часть)"
+      ],
+      "example": "Tretjina svetovnih deževnih gozdov se nahaja v Braziliji.",
+      "level": "A1",
+      "sourceId": "third",
+      "sourceIds": [
+        "third"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cetrti",
+      "word": "četrti",
+      "en": "četrti",
+      "ru": [
+        "четвёртый",
+        "четвёртая передача",
+        "кварта"
+      ],
+      "example": "Moje letalo vzleti ob četrti uri.",
+      "level": "A1",
+      "sourceId": "fourth",
+      "sourceIds": [
+        "fourth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "peti",
+      "word": "pêti",
+      "en": "pêti",
+      "ru": [
+        "пятый",
+        "5-ый",
+        "(одна) пятая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "fifth",
+      "sourceIds": [
+        "fifth"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sesti",
+      "word": "šesti",
+      "en": "šesti",
+      "ru": [
+        "шестой",
+        "(одна) шестая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "sixth",
+      "sourceIds": [
+        "sixth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedmi",
+      "word": "sedmi",
+      "en": "sedmi",
+      "ru": [
+        "седьмой",
+        "(одна) седьмая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "seventh",
+      "sourceIds": [
+        "seventh"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "osmi",
+      "word": "osmi",
+      "en": "osmi",
+      "ru": [
+        "восьмой",
+        "восьмая",
+        "восьмое"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "eighth",
+      "sourceIds": [
+        "eighth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "deveti",
+      "word": "deveti",
+      "en": "deveti",
+      "ru": [
+        "девятый",
+        "(одна) девятая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "ninth",
+      "sourceIds": [
+        "ninth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "deseti",
+      "word": "deseti",
+      "en": "deseti",
+      "ru": [
+        "десятый",
+        "(одна) десятая (часть)"
+      ],
+      "example": "Deseti september je svetovni dan preprečevanja samomorov.",
+      "level": "A1",
+      "sourceId": "tenth",
+      "sourceIds": [
+        "tenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trinajsti",
+      "word": "trinajsti",
+      "en": "trinajsti",
+      "ru": [
+        "тринадцатый",
+        "(одна) тринадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "thirteenth",
+      "sourceIds": [
+        "thirteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "stirinajsti",
+      "word": "štirinajsti",
+      "en": "štirinajsti",
+      "ru": [
+        "четырнадцатый",
+        "четырнадцатая",
+        "(одна) четырнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fourteenth",
+      "sourceIds": [
+        "fourteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "petnajsti",
+      "word": "petnajsti",
+      "en": "petnajsti",
+      "ru": [
+        "пятнадцатый",
+        "(одна) пятнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fifteenth",
+      "sourceIds": [
+        "fifteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sestnajsti",
+      "word": "šestnajsti",
+      "en": "šestnajsti",
+      "ru": [
+        "шестнадцатый",
+        "(одна) шестнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "sixteenth",
+      "sourceIds": [
+        "sixteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sedemnajsti",
+      "word": "sedemnajsti",
+      "en": "sedemnajsti",
+      "ru": [
+        "семнадцатый",
+        "(одна) семнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventeenth",
+      "sourceIds": [
+        "seventeenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "osemnajsti",
+      "word": "osemnajsti",
+      "en": "osemnajsti",
+      "ru": [
+        "восемнадцатый",
+        "(одна) восемнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "eighteenth",
+      "sourceIds": [
+        "eighteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "devetnajsti",
+      "word": "devetnajsti",
+      "en": "devetnajsti",
+      "ru": [
+        "девятнадцатый",
+        "(одна) девятнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "nineteenth",
+      "sourceIds": [
+        "nineteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "enainsedemdeseti",
+      "word": "enainsedemdeseti",
+      "en": "enainsedemdeseti",
+      "ru": [
+        "семьдесят первый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-first",
+      "sourceIds": [
+        "seventy-first"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "dvainsedemdeseti",
+      "word": "dvainsedemdeseti",
+      "en": "dvainsedemdeseti",
+      "ru": [
+        "семьдесят второй"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-second",
+      "sourceIds": [
+        "seventy-second"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "triinsedemdeseti",
+      "word": "triinsedemdeseti",
+      "en": "triinsedemdeseti",
+      "ru": [
+        "семьдесят третий"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-third",
+      "sourceIds": [
+        "seventy-third"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "stiriinsedemdeseti",
+      "word": "štiriinsedemdeseti",
+      "en": "štiriinsedemdeseti",
+      "ru": [
+        "семьдесят четвёртый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-fourth",
+      "sourceIds": [
+        "seventy-fourth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "petinsedemdeseti",
+      "word": "petinsedemdeseti",
+      "en": "petinsedemdeseti",
+      "ru": [
+        "семьдесят пятый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-fifth",
+      "sourceIds": [
+        "seventy-fifth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sestinsedemdeseti",
+      "word": "šestinsedemdeseti",
+      "en": "šestinsedemdeseti",
+      "ru": [
+        "семьдесят шестой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-sixth",
+      "sourceIds": [
+        "seventy-sixth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "sedeminsedemdeseti",
+      "word": "sedeminsedemdeseti",
+      "en": "sedeminsedemdeseti",
+      "ru": [
+        "семьдесят седьмой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-seventh",
+      "sourceIds": [
+        "seventy-seventh"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "oseminsedemdeseti",
+      "word": "oseminsedemdeseti",
+      "en": "oseminsedemdeseti",
+      "ru": [
+        "семьдесят восьмой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-eighth",
+      "sourceIds": [
+        "seventy-eighth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "devetinsedemdeseti",
+      "word": "devetinsedemdeseti",
+      "en": "devetinsedemdeseti",
+      "ru": [
+        "семьдесят девятый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-ninth",
+      "sourceIds": [
+        "seventy-ninth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "stoti",
+      "word": "stoti",
+      "en": "stoti",
+      "ru": [
+        "сотый",
+        "сотая"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "hundredth",
+      "sourceIds": [
+        "hundredth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tisocinka",
+      "word": "tisočinka",
+      "en": "tisočinka",
+      "ru": [
+        "тысячный",
+        "одна тысячная"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "thousandth",
+      "sourceIds": [
+        "thousandth"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "stotisoci",
+      "word": "stotisoči",
+      "en": "stotisoči",
+      "ru": [
+        "стотысячный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hundred-thousandth",
+      "sourceIds": [
+        "hundred-thousandth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "milijonti",
+      "word": "milijonti",
+      "en": "milijonti",
+      "ru": [
+        "миллионный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "millionth",
+      "sourceIds": [
+        "millionth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "milijardinka",
+      "word": "milijardinka",
+      "en": "milijardinka",
+      "ru": [
+        "миллиардный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "billionth",
+      "sourceIds": [
+        "billionth"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tretjic",
+      "word": "tretjič",
+      "en": "tretjič",
+      "ru": [
+        "в-третьих"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "thirdly",
+      "sourceIds": [
+        "thirdly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "cetrtic",
+      "word": "četrtič",
+      "en": "četrtič",
+      "ru": [
+        "в-четвёртых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fourthly",
+      "sourceIds": [
+        "fourthly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "petic",
+      "word": "petič",
+      "en": "petič",
+      "ru": [
+        "в-пятых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fifthly",
+      "sourceIds": [
+        "fifthly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "sestic",
+      "word": "šestič",
+      "en": "šestič",
+      "ru": [
+        "в-шестых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sixthly",
+      "sourceIds": [
+        "sixthly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "sedmic",
+      "word": "sedmič",
+      "en": "sedmič",
+      "ru": [
+        "в-седьмых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "seventhly",
+      "sourceIds": [
+        "seventhly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "pol",
+      "word": "pol",
+      "en": "pol",
+      "ru": [
+        "пол",
+        "полу",
+        "наполовину"
+      ],
+      "example": "Stene so debele približno pol metra.",
+      "level": "A1",
+      "sourceId": "half",
+      "sourceIds": [
+        "half"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cetrt",
+      "word": "četrt",
+      "en": "četrt",
+      "ru": [
+        "(одна) четвёртая (часть)",
+        "квартал",
+        "четверть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "quarter",
+      "sourceIds": [
+        "quarter"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dve-tretjini",
+      "word": "dve tretjini",
+      "en": "dve tretjini",
+      "ru": [
+        "две трети"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "two-thirds",
+      "sourceIds": [
+        "two-thirds"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ulomek",
+      "word": "ulomek",
+      "en": "ulomek",
+      "ru": [
+        "часть",
+        "частица",
+        "дробь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fraction",
+      "sourceIds": [
+        "fraction"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "delen",
+      "word": "delen",
+      "en": "delen",
+      "ru": [
+        "дробный",
+        "фракционный",
+        "отрывочный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fractional",
+      "sourceIds": [
+        "fractional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "cel",
+      "word": "cel",
+      "en": "cel",
+      "ru": [
+        "целый",
+        "весь",
+        "полный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "whole",
+      "sourceIds": [
+        "whole"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "edini",
+      "word": "edini",
+      "en": "edini",
+      "ru": [
+        "один",
+        "единственный",
+        "одна"
+      ],
+      "example": "To je njun edini otrok.",
+      "level": "A1",
+      "sourceId": "single",
+      "sourceIds": [
+        "single"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "par",
+      "word": "par",
+      "en": "par",
+      "ru": [
+        "пара",
+        "чета"
+      ],
+      "example": "Kupil je nov par rokavic.",
+      "level": "A1",
+      "sourceId": "pair",
+      "sourceIds": [
+        "pair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dvojnik",
+      "word": "dvojnik",
+      "en": "dvojnik",
+      "ru": [
+        "двойной",
+        "двойник",
+        "удваивать"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "double",
+      "sourceIds": [
+        "double"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "trojen",
+      "word": "trojen",
+      "en": "trojen",
+      "ru": [
+        "тройной",
+        "троекратный",
+        "трёхкратный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "triple",
+      "sourceIds": [
+        "triple"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "trikrat",
+      "word": "trikrat",
+      "en": "trikrat",
+      "ru": [
+        "трижды"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "thrice",
+      "sourceIds": [
+        "thrice"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "tisockraten",
+      "word": "tisočkraten",
+      "en": "tisočkraten",
+      "ru": [
+        "тысячекратный",
+        "тысячекратно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thousandfold",
+      "sourceIds": [
+        "thousandfold"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "veckraten",
+      "word": "večkraten",
+      "en": "večkraten",
+      "ru": [
+        "кратный",
+        "много",
+        "множественный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "multiple",
+      "sourceIds": [
+        "multiple"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "nic",
+      "word": "nič",
+      "en": "nič",
+      "ru": [
+        "ноль",
+        "ничто"
+      ],
+      "example": "Nič, kar vidimo ali mislimo, ni resnično.",
+      "level": "B1",
+      "sourceId": "nought",
+      "sourceIds": [
+        "nought"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dvojka",
+      "word": "dvojka",
+      "en": "dvojka",
+      "ru": [
+        "двойка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "deuce",
+      "sourceIds": [
+        "deuce"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trojke",
+      "word": "trojke",
+      "en": "trojke",
+      "ru": [
+        "тройки"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "threes",
+      "sourceIds": [
+        "threes"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sestice",
+      "word": "šestice",
+      "en": "šestice",
+      "ru": [
+        "шестёрки"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sixes",
+      "sourceIds": [
+        "sixes"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "desetak",
+      "word": "desetak",
+      "en": "desetak",
+      "ru": [
+        "десятка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "tenner",
+      "sourceIds": [
+        "tenner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "stirideseta-leta",
+      "word": "štirideseta leta",
+      "en": "štirideseta leta",
+      "ru": [
+        "сороковые"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "forties",
+      "sourceIds": [
+        "forties"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "osemdeseta-leta",
+      "word": "osemdeseta leta",
+      "en": "osemdeseta leta",
+      "ru": [
+        "1980-ые годы",
+        "80-ые"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eighties",
+      "sourceIds": [
+        "eighties"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "devetdeseta-leta",
+      "word": "devetdeseta leta",
+      "en": "devetdeseta leta",
+      "ru": [
+        "десятилетие девяностых годов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nineties",
+      "sourceIds": [
+        "nineties"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "stevilo",
+      "word": "število",
+      "en": "število",
+      "ru": [
+        "число",
+        "количество",
+        "имя числительное"
+      ],
+      "example": "Osem je število med sedmico in devetico.",
+      "level": "A1",
+      "sourceId": "number",
+      "sourceIds": [
+        "number"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stevilko",
+      "word": "številko",
+      "en": "številko",
+      "ru": [
+        "нумерация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "numbering",
+      "sourceIds": [
+        "numbering"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "stevilcno",
+      "word": "številčno",
+      "en": "številčno",
+      "ru": [
+        "численно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "numerically",
+      "sourceIds": [
+        "numerically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "stevilka",
+      "word": "številka",
+      "en": "številka",
+      "ru": [
+        "цифра"
+      ],
+      "example": "\"Kako se bere številka 1989?\" \"Tisoč devetsto devetinosemdeset.\"",
+      "level": "B1",
+      "sourceId": "digit",
+      "sourceIds": [
+        "digit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "celo-stevilo",
+      "word": "celo število",
+      "en": "celo število",
+      "ru": [
+        "целое",
+        "целое число"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "integer",
+      "sourceIds": [
+        "integer"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "decimalen",
+      "word": "decimalen",
+      "en": "decimalen",
+      "ru": [
+        "десятичный",
+        "десятичная система"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decimal",
+      "sourceIds": [
+        "decimal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "steti",
+      "word": "šteti",
+      "en": "šteti",
+      "ru": [
+        "считать",
+        "подсчитывать"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "count",
+      "sourceIds": [
+        "count"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "stevec",
+      "word": "števec",
+      "en": "števec",
+      "ru": [
+        "счётчик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "oceniti",
+      "word": "oceniti",
+      "en": "oceniti",
+      "ru": [
+        "вычислять",
+        "вычислить",
+        "подсчитывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "calculate",
+      "sourceIds": [
+        "calculate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kalkulator",
+      "word": "kalkulator",
+      "en": "kalkulator",
+      "ru": [
+        "калькулятор",
+        "арифмометр",
+        "вычислительная машина"
+      ],
+      "example": "Kalkulator na mizi je moj.",
+      "level": "B1",
+      "sourceId": "calculator",
+      "sourceIds": [
+        "calculator"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pozitiven",
+      "word": "pozitiven",
+      "en": "pozitiven",
+      "ru": [
+        "плюс",
+        "положительный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "plus",
+      "sourceIds": [
+        "plus"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "negativen",
+      "word": "negativen",
+      "en": "negativen",
+      "ru": [
+        "минус",
+        "отрицательный",
+        "отрицательная величина"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "minus",
+      "sourceIds": [
+        "minus"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "vsota",
+      "word": "vsota",
+      "en": "vsota",
+      "ru": [
+        "сумма",
+        "итог",
+        "складывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sum",
+      "sourceIds": [
+        "sum"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "enak",
+      "word": "enak",
+      "en": "enak",
+      "ru": [
+        "равный",
+        "одинаковый",
+        "тот же"
+      ],
+      "example": "Ta stavek v galicijščini je popolnoma enak njegovemu prevodu v portugalščini.",
+      "level": "B1",
+      "sourceId": "equal",
+      "sourceIds": [
+        "equal"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "enako",
+      "word": "enako",
+      "en": "enako",
+      "ru": [
+        "одинаково",
+        "поровну"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "equally",
+      "sourceIds": [
+        "equally"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "odstotek",
+      "word": "odstotek",
+      "en": "odstotek",
+      "ru": [
+        "процент"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odstotek",
+      "word": "odstotek",
+      "en": "odstotek",
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "percentil",
+      "word": "percentil",
+      "en": "percentil",
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odstoten",
+      "word": "odstoten",
+      "en": "odstoten",
+      "ru": [
+        "процентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "povprecen",
+      "word": "povprečen",
+      "en": "povprečen",
+      "ru": [
+        "средний",
+        "обычный",
+        "среднее"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "average",
+      "sourceIds": [
+        "average"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "povprecno",
+      "word": "povprečno",
+      "en": "povprečno",
+      "ru": [
+        "в среднем"
+      ],
+      "example": "Povprečno človeško telo ima dovolj kosti za celotno človeško okostje.",
+      "level": "C2",
+      "sourceId": "averagely",
+      "sourceIds": [
+        "averagely"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stopnja",
+      "word": "stopnja",
+      "en": "stopnja",
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "razmerje",
+      "word": "razmerje",
+      "en": "razmerje",
+      "ru": [
+        "отношение",
+        "соотношение",
+        "коэффициент"
+      ],
+      "example": "Kakšno je menjalno razmerje?",
+      "level": "B1",
+      "sourceId": "ratio",
+      "sourceIds": [
+        "ratio"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolicina",
+      "word": "količina",
+      "en": "količina",
+      "ru": [
+        "количество",
+        "сумма"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "amount",
+      "sourceIds": [
+        "amount"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kolicina",
+      "word": "količina",
+      "en": "količina",
+      "ru": [
+        "количество"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "quantity",
+      "sourceIds": [
+        "quantity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "stevilen",
+      "word": "številen",
+      "en": "številen",
+      "ru": [
+        "многочисленный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "numerous",
+      "sourceIds": [
+        "numerous"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "oba",
+      "word": "oba",
+      "en": "oba",
+      "ru": [
+        "и... и",
+        "оба",
+        "обе"
+      ],
+      "example": "Oba živita na Dunaju.",
+      "level": "A1",
+      "sourceId": "both",
+      "sourceIds": [
+        "both"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vsak",
+      "word": "vsak",
+      "en": "vsak",
+      "ru": [
+        "каждый"
+      ],
+      "example": "Vsak dan se je učil uro in pol.",
+      "level": "A1",
+      "sourceId": "each",
+      "sourceIds": [
+        "each"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "povsem",
+      "word": "povsem",
+      "en": "povsem",
+      "ru": [
+        "полностью",
+        "совсем",
+        "весь"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "all",
+      "sourceIds": [
+        "all"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "nobeden",
+      "word": "nobeden",
+      "en": "nobeden",
+      "ru": [
+        "никакой",
+        "никто"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "none",
+      "sourceIds": [
+        "none"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "malo",
+      "word": "malo",
+      "en": "malo",
+      "ru": [
+        "мало",
+        "несколько",
+        "немногий"
+      ],
+      "example": "Toliko knjig pa tako malo časa.",
+      "level": "A1",
+      "sourceId": "few",
+      "sourceIds": [
+        "few"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nekoliko",
+      "word": "nekoliko",
+      "en": "nekoliko",
+      "ru": [
+        "некоторый",
+        "несколько",
+        "различный"
+      ],
+      "example": "Mislim, da je za to že nekoliko prepozno.",
+      "level": "A1",
+      "sourceId": "several",
+      "sourceIds": [
+        "several"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mnogo",
+      "word": "mnogo",
+      "en": "mnogo",
+      "ru": [
+        "многие",
+        "многий",
+        "много"
+      ],
+      "example": "Virus je pokosil mnogo slonov v Afriki.",
+      "level": "A1",
+      "sourceId": "many",
+      "sourceIds": [
+        "many"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "veliko",
+      "word": "veliko",
+      "en": "veliko",
+      "ru": [
+        "намного",
+        "гораздо",
+        "очень"
+      ],
+      "example": "Miza v tej sobi zavzame veliko prostora.",
+      "level": "A1",
+      "sourceId": "much",
+      "sourceIds": [
+        "much"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vec",
+      "word": "več",
+      "en": "več",
+      "ru": [
+        "больше",
+        "более",
+        "ещё"
+      ],
+      "example": "Beseda ima lahko enega ali več pomenov.",
+      "level": "A1",
+      "sourceId": "more",
+      "sourceIds": [
+        "more"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "naj",
+      "word": "naj-",
+      "en": "naj-",
+      "ru": [
+        "наиболее",
+        "самый",
+        "большинство"
+      ],
+      "example": "Kako naj vem, da govoriš resnico?",
+      "level": "A1",
+      "sourceId": "most",
+      "sourceIds": [
+        "most"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vecinoma",
+      "word": "večinoma",
+      "en": "večinoma",
+      "ru": [
+        "в основном",
+        "главным образом",
+        "по большей части"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mostly",
+      "sourceIds": [
+        "mostly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "manj",
+      "word": "manj",
+      "en": "manj",
+      "ru": [
+        "менее",
+        "меньше",
+        "меньший"
+      ],
+      "example": "Če bi ljudje malo več peli, bi bil ta svet manj nor.",
+      "level": "A1",
+      "sourceId": "less",
+      "sourceIds": [
+        "less"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manjsi",
+      "word": "manjši",
+      "en": "manjši",
+      "ru": [
+        "меньший"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "lesser",
+      "sourceIds": [
+        "lesser"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "najmanj",
+      "word": "najmanj",
+      "en": "najmanj",
+      "ru": [
+        "наименьший"
+      ],
+      "example": "Prevajanje zahteva največjo skrbnost. Ko to najmanj pričakujete, se zgodijo napake.",
+      "level": "A1",
+      "sourceId": "least",
+      "sourceIds": [
+        "least"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "usoda",
+      "word": "usoda",
+      "en": "usoda",
+      "ru": [
+        "группа",
+        "судьба",
+        "участь"
+      ],
+      "example": "Kmetovanje ni človeška usoda.",
+      "level": "A1",
+      "sourceId": "lot",
+      "sourceIds": [
+        "lot"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "del",
+      "word": "del",
+      "en": "del",
+      "ru": [
+        "часть",
+        "доля",
+        "роль"
+      ],
+      "example": "Dobra, domača goveja juha je nepogrešljiv del nedeljskega kosila.",
+      "level": "A1",
+      "sourceId": "part",
+      "sourceIds": [
+        "part"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "delno",
+      "word": "delno",
+      "en": "delno",
+      "ru": [
+        "отчасти",
+        "частично"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "partly",
+      "sourceIds": [
+        "partly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "cetrtleten",
+      "word": "četrtleten",
+      "en": "četrtleten",
+      "ru": [
+        "ежеквартальный",
+        "квартальный",
+        "трёхмесячный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "quarterly",
+      "sourceIds": [
+        "quarterly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mera",
+      "word": "mera",
+      "en": "mera",
+      "ru": [
+        "количество",
+        "мера",
+        "измерять"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "measure",
+      "sourceIds": [
+        "measure"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "meritev",
+      "word": "meritev",
+      "en": "meritev",
+      "ru": [
+        "измерение",
+        "обмер",
+        "мера"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "measurement",
+      "sourceIds": [
+        "measurement"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "merjenje",
+      "word": "merjenje",
+      "en": "merjenje",
+      "ru": [
+        "измерение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "measuring",
+      "sourceIds": [
+        "measuring"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "stevec",
+      "word": "števec",
+      "en": "števec",
+      "ru": [
+        "счётчик",
+        "измеритель",
+        "размер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "meter",
+      "sourceIds": [
+        "meter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "palec",
+      "word": "palec",
+      "en": "palec",
+      "ru": [
+        "дюйм"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "inch",
+      "sourceIds": [
+        "inch"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "milja",
+      "word": "milja",
+      "en": "milja",
+      "ru": [
+        "миля",
+        "узел"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mile",
+      "sourceIds": [
+        "mile"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kilogram",
+      "word": "kilogram",
+      "en": "kilogram",
+      "ru": [
+        "килограмм"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kilogram",
+      "sourceIds": [
+        "kilogram"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

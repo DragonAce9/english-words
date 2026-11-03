@@ -1,0 +1,991 @@
+{
+  "id": "interest-outdoor_survival",
+  "title": "Активный туризм и выживание",
+  "paid": true,
+  "blockId": "interests",
+  "words": [
+    {
+      "id": "lame",
+      "word": "lame",
+      "en": "lame",
+      "sourceId": "blade",
+      "sourceIds": [
+        "blade"
+      ],
+      "ru": [
+        "лезвие"
+      ],
+      "gender": "f",
+      "example": "Cette lame a un passé sombre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "torche",
+      "word": "torche",
+      "en": "torche",
+      "sourceId": "torch",
+      "sourceIds": [
+        "torch"
+      ],
+      "ru": [
+        "факел",
+        "фонарик"
+      ],
+      "gender": "f",
+      "example": "Prenez vos torches et vos fourches.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "corde",
+      "word": "corde",
+      "en": "corde",
+      "sourceId": "rope",
+      "sourceIds": [
+        "rope"
+      ],
+      "ru": [
+        "веревка"
+      ],
+      "gender": "f",
+      "example": "Attachez la corde à votre cheval.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sauvetage",
+      "word": "sauvetage",
+      "en": "sauvetage",
+      "sourceId": "rescue",
+      "sourceIds": [
+        "rescue"
+      ],
+      "ru": [
+        "спасение"
+      ],
+      "gender": "m",
+      "example": "Le sauvetage des naufragés a été rapide.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fleche",
+      "word": "flèche",
+      "en": "flèche",
+      "sourceId": "arrow",
+      "sourceIds": [
+        "arrow"
+      ],
+      "ru": [
+        "стрела"
+      ],
+      "gender": "f",
+      "example": "Il y a une flèche dans tes fesses.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tombe",
+      "word": "tombe",
+      "en": "tombe",
+      "sourceId": "grave",
+      "sourceIds": [
+        "grave"
+      ],
+      "ru": [
+        "могила"
+      ],
+      "gender": "f",
+      "example": "Todd, sur ma tombe.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "danger",
+      "word": "danger",
+      "en": "danger",
+      "sourceId": "danger",
+      "sourceIds": [
+        "danger"
+      ],
+      "ru": [
+        "опасность"
+      ],
+      "gender": "m",
+      "example": "Il est en danger.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "masquer",
+      "word": "masquer",
+      "en": "masquer",
+      "sourceId": "mask",
+      "sourceIds": [
+        "mask"
+      ],
+      "ru": [
+        "маскировать"
+      ],
+      "gender": null,
+      "example": "Ils ont mis des masques, c'est toujours un peu...",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "dangereux",
+      "word": "dangereux",
+      "en": "dangereux",
+      "sourceId": "hazardous",
+      "sourceIds": [
+        "hazardous"
+      ],
+      "ru": [
+        "опасный",
+        "рискованный"
+      ],
+      "gender": null,
+      "example": "C'était extrêmement dangereux.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "echappatoire",
+      "word": "échappatoire",
+      "en": "échappatoire",
+      "sourceId": "escape",
+      "sourceIds": [
+        "escape"
+      ],
+      "ru": [
+        "сбегать",
+        "избегать"
+      ],
+      "gender": "f",
+      "example": "Il a eu une chance inouïe de s'en sortir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "extraction",
+      "word": "extraction",
+      "en": "extraction",
+      "sourceId": "extraction",
+      "sourceIds": [
+        "extraction"
+      ],
+      "ru": [
+        "извлечение",
+        "добыча"
+      ],
+      "gender": "f",
+      "example": "Toutes les options d'extraction.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "destruction",
+      "word": "destruction",
+      "en": "destruction",
+      "sourceId": "destruction",
+      "sourceIds": [
+        "destruction"
+      ],
+      "ru": [
+        "разрушение",
+        "уничтожение"
+      ],
+      "gender": "f",
+      "example": "La destruction qu'elle cause est immense.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arc",
+      "word": "arc",
+      "en": "arc",
+      "sourceId": "bow",
+      "sourceIds": [
+        "bow"
+      ],
+      "ru": [
+        "кланяться"
+      ],
+      "gender": "m",
+      "example": "Détendez votre bras d'arc.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "piege",
+      "word": "piège",
+      "en": "piège",
+      "sourceId": "trap",
+      "sourceIds": [
+        "trap"
+      ],
+      "ru": [
+        "ловушка",
+        "попадать в ловушку"
+      ],
+      "gender": "m",
+      "example": "C'est comme un ours dans un piège.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "peril",
+      "word": "péril",
+      "en": "péril",
+      "sourceId": "peril",
+      "sourceIds": [
+        "peril"
+      ],
+      "ru": [
+        "опасность"
+      ],
+      "gender": "m",
+      "example": "Les périls au-delà du mur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plier",
+      "word": "plier",
+      "en": "plier",
+      "sourceId": "fold",
+      "sourceIds": [
+        "fold"
+      ],
+      "ru": [
+        "складывать"
+      ],
+      "gender": null,
+      "example": "Bien plié, dit-elle.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "briser",
+      "word": "briser",
+      "en": "briser",
+      "sourceId": "shatter",
+      "sourceIds": [
+        "shatter"
+      ],
+      "ru": [
+        "разбивать вдребезги",
+        "разрушать"
+      ],
+      "gender": null,
+      "example": "Il a probablement brisé le vase.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "se-cacher",
+      "word": "se cacher",
+      "en": "se cacher",
+      "sourceId": "lurk",
+      "sourceIds": [
+        "lurk"
+      ],
+      "ru": [
+        "скрываться",
+        "таиться"
+      ],
+      "gender": null,
+      "example": "Ils se cachent dans l'ombre.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "reveler",
+      "word": "révéler",
+      "en": "révéler",
+      "sourceId": "reveal",
+      "sourceIds": [
+        "reveal"
+      ],
+      "ru": [
+        "раскрывать",
+        "обнаруживать"
+      ],
+      "gender": null,
+      "example": "L'examen a révélé un œdème cérébral.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "echanson",
+      "word": "échanson",
+      "en": "échanson",
+      "sourceId": "cupbearer",
+      "sourceIds": [
+        "cupbearer"
+      ],
+      "ru": [
+        "виночерпий"
+      ],
+      "gender": "m",
+      "example": "L'échanson du roi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cadavre",
+      "word": "cadavre",
+      "en": "cadavre",
+      "sourceId": "corpse",
+      "sourceIds": [
+        "corpse"
+      ],
+      "ru": [
+        "труп"
+      ],
+      "gender": "m",
+      "example": "qui viennent se repaître de leurs cadavres !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "condamner",
+      "word": "condamner",
+      "en": "condamner",
+      "sourceId": "doom",
+      "sourceIds": [
+        "doom"
+      ],
+      "ru": [
+        "обрекать"
+      ],
+      "gender": null,
+      "example": "Ses erreurs l'ont condamné à l'échec.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "raser",
+      "word": "raser",
+      "en": "raser",
+      "sourceId": "raze",
+      "sourceIds": [
+        "raze"
+      ],
+      "ru": [
+        "разрушать до основания"
+      ],
+      "gender": null,
+      "example": "Ils ont rasé le village après la bataille.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "retenir",
+      "word": "retenir",
+      "en": "retenir",
+      "sourceId": "withhold",
+      "sourceIds": [
+        "withhold"
+      ],
+      "ru": [
+        "удерживать",
+        "скрывать"
+      ],
+      "gender": null,
+      "example": "Il n'oserait pas les retenir.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "se-retourner-contre-quelqu-un",
+      "word": "se retourner contre quelqu'un",
+      "en": "se retourner contre quelqu'un",
+      "sourceId": "backfire",
+      "sourceIds": [
+        "backfire"
+      ],
+      "ru": [
+        "иметь обратный эффект"
+      ],
+      "gender": null,
+      "example": "Et cela s'est retourné contre lui.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "chargement",
+      "word": "chargement",
+      "en": "chargement",
+      "sourceId": "boatload",
+      "sourceIds": [
+        "boatload"
+      ],
+      "ru": [
+        "полная лодка",
+        "большое количество"
+      ],
+      "gender": "m",
+      "example": "C'est un sacré chargement de bois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "existentiel",
+      "word": "existentiel",
+      "en": "existentiel",
+      "sourceId": "existential",
+      "sourceIds": [
+        "existential"
+      ],
+      "ru": [
+        "экзистенциальный"
+      ],
+      "gender": null,
+      "example": "Il fait face à un dilemme existentiel.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "coup-de-feu",
+      "word": "coup de feu",
+      "en": "coup de feu",
+      "sourceId": "gunshot",
+      "sourceIds": [
+        "gunshot"
+      ],
+      "ru": [
+        "выстрел"
+      ],
+      "gender": "m",
+      "example": "Oui, une blessure par balle à la tête.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "intention",
+      "word": "intention",
+      "en": "intention",
+      "sourceId": "intention",
+      "sourceIds": [
+        "intention"
+      ],
+      "ru": [
+        "намерение"
+      ],
+      "gender": "f",
+      "example": "Je ne doute pas que vos intentions étaient bonnes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "intentionnel",
+      "word": "intentionnel",
+      "en": "intentionnel",
+      "sourceId": "intentional",
+      "sourceIds": [
+        "intentional"
+      ],
+      "ru": [
+        "намеренный"
+      ],
+      "gender": null,
+      "example": "Cela a commencé à sembler un peu intentionnel.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "evacuer",
+      "word": "évacuer",
+      "en": "évacuer",
+      "sourceId": "evacuate",
+      "sourceIds": [
+        "evacuate"
+      ],
+      "ru": [
+        "эвакуировать"
+      ],
+      "gender": null,
+      "example": "Veuillez évacuer.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "evacuation",
+      "word": "évacuation",
+      "en": "évacuation",
+      "sourceId": "evacuation",
+      "sourceIds": [
+        "evacuation"
+      ],
+      "ru": [
+        "эвакуация"
+      ],
+      "gender": "f",
+      "example": "Veuillez procéder à l'évacuation du terminal !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mortellement",
+      "word": "mortellement",
+      "en": "mortellement",
+      "sourceId": "mortally",
+      "sourceIds": [
+        "mortally"
+      ],
+      "ru": [
+        "смертельно"
+      ],
+      "gender": null,
+      "example": "Il a été mortellement blessé.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "tige",
+      "word": "tige",
+      "en": "tige",
+      "sourceId": "rod",
+      "sourceIds": [
+        "rod"
+      ],
+      "ru": [
+        "стержень",
+        "прут"
+      ],
+      "gender": "f",
+      "example": "Il utilise une tige en métal pour réparer la machine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "compromettre",
+      "word": "compromettre",
+      "en": "compromettre",
+      "sourceId": "jeopardize",
+      "sourceIds": [
+        "jeopardize"
+      ],
+      "ru": [
+        "ставить под угрозу"
+      ],
+      "gender": null,
+      "example": "Cela pourrait compromettre leur avenir.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "non-urgent",
+      "word": "non urgent",
+      "en": "non urgent",
+      "sourceId": "non-emergency",
+      "sourceIds": [
+        "non-emergency"
+      ],
+      "ru": [
+        "неэкстренный"
+      ],
+      "gender": null,
+      "example": "C'est une situation non urgente.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "grenade",
+      "word": "grenade",
+      "en": "grenade",
+      "sourceId": "grenade",
+      "sourceIds": [
+        "grenade"
+      ],
+      "ru": [
+        "граната"
+      ],
+      "gender": "f",
+      "example": "Nous allons fabriquer des grenades.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "se-derouler",
+      "word": "se dérouler",
+      "en": "se dérouler",
+      "sourceId": "unfold",
+      "sourceIds": [
+        "unfold"
+      ],
+      "ru": [
+        "разворачивать",
+        "раскрывать"
+      ],
+      "gender": null,
+      "example": "Regarde le film et vois comment l'histoire se déroule.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "involontaire",
+      "word": "involontaire",
+      "en": "involontaire",
+      "sourceId": "unintentional",
+      "sourceIds": [
+        "unintentional"
+      ],
+      "ru": [
+        "непреднамеренный"
+      ],
+      "gender": null,
+      "example": "C'était involontaire.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "boule-de-feu",
+      "word": "boule de feu",
+      "en": "boule de feu",
+      "sourceId": "fireball",
+      "sourceIds": [
+        "fireball"
+      ],
+      "ru": [
+        "огненный шар"
+      ],
+      "gender": "f",
+      "example": "Ne lance pas de boules de feu magiques.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cercueil",
+      "word": "cercueil",
+      "en": "cercueil",
+      "sourceId": "coffin",
+      "sourceIds": [
+        "coffin"
+      ],
+      "ru": [
+        "гроб"
+      ],
+      "gender": "m",
+      "example": "Oui, ils ont enterré un cercueil vide.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aneantir",
+      "word": "anéantir",
+      "en": "anéantir",
+      "sourceId": "annihilate",
+      "sourceIds": [
+        "annihilate"
+      ],
+      "ru": [
+        "уничтожать",
+        "аннигилировать"
+      ],
+      "gender": null,
+      "example": "Je suis en train d'être anéanti.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "grondement",
+      "word": "grondement",
+      "en": "grondement",
+      "sourceId": "rumble",
+      "sourceIds": [
+        "rumble"
+      ],
+      "ru": [
+        "грохотать",
+        "рокотать"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de grondement de la route et de bruit de vent.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hasarder",
+      "word": "hasarder",
+      "en": "hasarder",
+      "sourceId": "hazard",
+      "sourceIds": [
+        "hazard"
+      ],
+      "ru": [
+        "опасность",
+        "риск"
+      ],
+      "gender": null,
+      "example": "Je vais hasarder une réponse.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "voile",
+      "word": "voile",
+      "en": "voile",
+      "sourceId": "veil",
+      "sourceIds": [
+        "veil"
+      ],
+      "ru": [
+        "скрывать",
+        "завуалировать"
+      ],
+      "gender": "m/f",
+      "example": "Ce monde est un voile...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "accomplissement",
+      "word": "accomplissement",
+      "en": "accomplissement",
+      "sourceId": "fulfillment",
+      "sourceIds": [
+        "fulfillment"
+      ],
+      "ru": [
+        "исполнение",
+        "выполнение",
+        "самореализация"
+      ],
+      "gender": "m",
+      "example": "C'est un véritable accomplissement personnel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "debris",
+      "word": "débris",
+      "en": "débris",
+      "sourceId": "debris",
+      "sourceIds": [
+        "debris"
+      ],
+      "ru": [
+        "обломки",
+        "мусор"
+      ],
+      "gender": "m",
+      "example": "et des débris de l'inondation",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mettre-en-danger",
+      "word": "mettre en danger",
+      "en": "mettre en danger",
+      "sourceId": "endanger",
+      "sourceIds": [
+        "endanger"
+      ],
+      "ru": [
+        "подвергать опасности"
+      ],
+      "gender": null,
+      "example": "et mettant en danger les citoyens de Piltover.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "epave",
+      "word": "épave",
+      "en": "épave",
+      "sourceId": "wreckage",
+      "sourceIds": [
+        "wreckage"
+      ],
+      "ru": [
+        "обломки"
+      ],
+      "gender": "f",
+      "example": "Les pompiers ont fouillé l'épave fumante.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "detruire",
+      "word": "détruire",
+      "en": "détruire",
+      "sourceId": "wreck",
+      "sourceIds": [
+        "wreck"
+      ],
+      "ru": [
+        "разрушать"
+      ],
+      "gender": null,
+      "example": "Je suis désolé que tu doives tout détruire.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "cacher",
+      "word": "cacher",
+      "en": "cacher",
+      "sourceId": "stash",
+      "sourceIds": [
+        "stash"
+      ],
+      "ru": [
+        "прятать"
+      ],
+      "gender": null,
+      "example": "Tu caches ça ici, n'est-ce pas ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "reticent",
+      "word": "réticent",
+      "en": "réticent",
+      "sourceId": "reluctant",
+      "sourceIds": [
+        "reluctant"
+      ],
+      "ru": [
+        "неохотный"
+      ],
+      "gender": null,
+      "example": "C'est un exemple parfait de la raison pour laquelle les gens sont réticents.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "ecluse",
+      "word": "écluse",
+      "en": "écluse",
+      "sourceId": "floodgate",
+      "sourceIds": [
+        "floodgate"
+      ],
+      "ru": [
+        "шлюз"
+      ],
+      "gender": "f",
+      "example": "Cela ouvre les vannes pour le reste.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "s-enfuir",
+      "word": "s'enfuir",
+      "en": "s'enfuir",
+      "sourceId": "abscond",
+      "sourceIds": [
+        "abscond"
+      ],
+      "ru": [
+        "скрываться",
+        "сбегать"
+      ],
+      "gender": null,
+      "example": "Il a décidé de s'enfuir avant l'arrivée de la police.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "camouflage",
+      "word": "camouflage",
+      "en": "camouflage",
+      "sourceId": "camouflage",
+      "sourceIds": [
+        "camouflage"
+      ],
+      "ru": [
+        "маскировать"
+      ],
+      "gender": "m",
+      "example": "Le camouflage dans la neige est efficace.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tourmenter",
+      "word": "tourmenter",
+      "en": "tourmenter",
+      "sourceId": "harrow",
+      "sourceIds": [
+        "harrow"
+      ],
+      "ru": [
+        "боронить",
+        "мучить"
+      ],
+      "gender": null,
+      "example": "Il est tourmenté par ses souvenirs.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "deguisement",
+      "word": "déguisement",
+      "en": "déguisement",
+      "sourceId": "disguise",
+      "sourceIds": [
+        "disguise"
+      ],
+      "ru": [
+        "маскировка"
+      ],
+      "gender": "m",
+      "example": "L'art du déguisement est tout un savoir-faire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dissimuler",
+      "word": "dissimuler",
+      "en": "dissimuler",
+      "sourceId": "conceal",
+      "sourceIds": [
+        "conceal"
+      ],
+      "ru": [
+        "скрывать"
+      ],
+      "gender": null,
+      "example": "Dissimulez-le bien sous vos bras.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "eradiquer",
+      "word": "éradiquer",
+      "en": "éradiquer",
+      "sourceId": "eradicate",
+      "sourceIds": [
+        "eradicate"
+      ],
+      "ru": [
+        "искоренять",
+        "уничтожать"
+      ],
+      "gender": null,
+      "example": "Il faut éradiquer tout sentiment d'appartenance.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "petard",
+      "word": "pétard",
+      "en": "pétard",
+      "sourceId": "firecracker",
+      "sourceIds": [
+        "firecracker"
+      ],
+      "ru": [
+        "петарда"
+      ],
+      "gender": "m",
+      "example": "avec des pétards.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

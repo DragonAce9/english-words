@@ -1,0 +1,8444 @@
+{
+  "id": "backrooms",
+  "title": "Backrooms",
+  "paid": true,
+  "blockId": "media",
+  "kind": "movie",
+  "year": 2026,
+  "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Backrooms_%28film%29_poster.jpg",
+  "words": [
+    {
+      "id": "il-elle",
+      "word": "il/elle",
+      "en": "il/elle",
+      "sourceId": "it",
+      "ru": [
+        "он",
+        "она",
+        "вода"
+      ],
+      "gender": null,
+      "example": "Où est le livre ? Il est sur la table.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "honte",
+      "word": "honte",
+      "en": "honte",
+      "sourceId": "shame",
+      "ru": [
+        "стыд",
+        "срам",
+        "позор"
+      ],
+      "gender": "f",
+      "example": "Il a ressenti une grande honte après son erreur.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "travailler",
+      "word": "travailler",
+      "en": "travailler",
+      "sourceId": "work",
+      "ru": [
+        "работать"
+      ],
+      "gender": null,
+      "example": "Il prend le bus pour aller travailler.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "entendre",
+      "word": "entendre",
+      "en": "entendre",
+      "sourceId": "hear",
+      "ru": [
+        "слышать"
+      ],
+      "gender": null,
+      "example": "J'entends de la musique.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "separe",
+      "word": "séparé",
+      "en": "séparé",
+      "sourceId": "separated",
+      "ru": [
+        "отдельный"
+      ],
+      "gender": null,
+      "example": "Ils vivent dans des appartements séparés.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "autres",
+      "word": "autres",
+      "en": "autres",
+      "sourceId": "others",
+      "ru": [
+        "другие",
+        "остальные"
+      ],
+      "gender": null,
+      "example": "Les autres sont déjà partis.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sembler",
+      "word": "sembler",
+      "en": "sembler",
+      "sourceId": "seem",
+      "ru": [
+        "казаться"
+      ],
+      "gender": null,
+      "example": "Cela semble facile.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "d-accord",
+      "word": "d'accord",
+      "en": "d'accord",
+      "sourceId": "okay",
+      "ru": [
+        "хорошо",
+        "ладно"
+      ],
+      "gender": null,
+      "example": "D'accord, ils arrivent.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "sur",
+      "word": "sûr",
+      "en": "sûr",
+      "sourceId": "sure",
+      "ru": [
+        "уверенный",
+        "надёжный",
+        "верный"
+      ],
+      "gender": null,
+      "example": "Je suis sûr de ma réponse.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "jamais",
+      "word": "jamais",
+      "en": "jamais",
+      "sourceId": "never",
+      "ru": [
+        "никогда"
+      ],
+      "gender": null,
+      "example": "Je ne mange jamais de viande.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "lointain",
+      "word": "lointain",
+      "en": "lointain",
+      "sourceId": "far",
+      "ru": [
+        "далёкий",
+        "дальний",
+        "далече"
+      ],
+      "gender": null,
+      "example": "Il habite dans un pays lointain.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "auparavant",
+      "word": "auparavant",
+      "en": "auparavant",
+      "sourceId": "before",
+      "ru": [
+        "ранее",
+        "раньше",
+        "заранее"
+      ],
+      "gender": null,
+      "example": "Il avait déjà visité cette ville auparavant.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "chose",
+      "word": "chose",
+      "en": "chose",
+      "sourceId": "thing",
+      "ru": [
+        "вещь",
+        "нечто",
+        "предмет"
+      ],
+      "gender": "f",
+      "example": "C'est une chose étrange.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bon",
+      "word": "bon",
+      "en": "bon",
+      "sourceId": "good",
+      "ru": [
+        "добрый",
+        "хороший",
+        "искусный"
+      ],
+      "gender": null,
+      "example": "C'est un bon livre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "quelque-chose",
+      "word": "quelque chose",
+      "en": "quelque chose",
+      "sourceId": "something",
+      "ru": [
+        "что-то",
+        "кое-что",
+        "нечто"
+      ],
+      "gender": null,
+      "example": "Il y a quelque chose dans la boîte.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "autre",
+      "word": "autre",
+      "en": "autre",
+      "sourceId": "else",
+      "ru": [
+        "ещё",
+        "кроме",
+        "другой"
+      ],
+      "gender": null,
+      "example": "Il y avait autre chose ici.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "gars",
+      "word": "gars",
+      "en": "gars",
+      "sourceId": "guy",
+      "ru": [
+        "люди",
+        "шкот"
+      ],
+      "gender": "m",
+      "example": "C'est un gars sympa.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "trouver",
+      "word": "trouver",
+      "en": "trouver",
+      "sourceId": "find",
+      "ru": [
+        "находить"
+      ],
+      "gender": null,
+      "example": "Peux-tu trouver mes clés ?",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "s-il-vous-plait",
+      "word": "s'il vous plaît",
+      "en": "s'il vous plaît",
+      "sourceId": "please",
+      "ru": [
+        "будь добр",
+        "будь добра",
+        "будьте добры"
+      ],
+      "gender": null,
+      "example": "Donnez-moi un café, s'il vous plaît.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "interjection"
+    },
+    {
+      "id": "dehors",
+      "word": "dehors",
+      "en": "dehors",
+      "sourceId": "out",
+      "ru": [
+        "аут",
+        "удалённый",
+        "вне"
+      ],
+      "gender": null,
+      "example": "Il attend dehors.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "en-retour",
+      "word": "en retour",
+      "en": "en retour",
+      "sourceId": "back--descriptions",
+      "ru": [
+        "задний",
+        "обратный"
+      ],
+      "gender": null,
+      "example": "Les pièces en retour sont ici.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "place",
+      "word": "place",
+      "en": "place",
+      "sourceId": "room",
+      "ru": [
+        "возможность",
+        "место",
+        "пространство"
+      ],
+      "gender": "f",
+      "example": "Il n'y a pas assez de place pour tout le monde.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cycle",
+      "word": "cycle",
+      "en": "cycle",
+      "sourceId": "cycle",
+      "ru": [
+        "цикл",
+        "оборот",
+        "ездить на велосипеде"
+      ],
+      "gender": "m",
+      "example": "Le cycle de la vie est fascinant.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "habitude",
+      "word": "habitude",
+      "en": "habitude",
+      "sourceId": "habit",
+      "ru": [
+        "обычай",
+        "привычка",
+        "обыкновение"
+      ],
+      "gender": "f",
+      "example": "Il a pris l'habitude de se lever tôt.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "comportement",
+      "word": "comportement",
+      "en": "comportement",
+      "sourceId": "behavior",
+      "ru": [
+        "поведение"
+      ],
+      "gender": "m",
+      "example": "Il a un comportement exemplaire en classe.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nous",
+      "word": "nous",
+      "en": "nous",
+      "sourceId": "us",
+      "ru": [
+        "нам",
+        "нас",
+        "нами"
+      ],
+      "gender": null,
+      "example": "Il nous a vus hier.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "constamment",
+      "word": "constamment",
+      "en": "constamment",
+      "sourceId": "constantly",
+      "ru": [
+        "постоянно"
+      ],
+      "gender": null,
+      "example": "Il se plaint constamment de la météo.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "tete",
+      "word": "tête",
+      "en": "tête",
+      "sourceId": "lead",
+      "ru": [
+        "вести",
+        "лидировать"
+      ],
+      "gender": "f",
+      "example": "Elle est à la tête de l'équipe.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "solution",
+      "word": "solution",
+      "en": "solution",
+      "sourceId": "solution",
+      "ru": [
+        "решение",
+        "раствор"
+      ],
+      "gender": "f",
+      "example": "Il a trouvé une solution à ce problème.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "nouveau",
+      "word": "nouveau",
+      "en": "nouveau",
+      "sourceId": "new",
+      "ru": [
+        "новый",
+        "Нью"
+      ],
+      "gender": null,
+      "example": "J'ai acheté une nouvelle voiture.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "placer",
+      "word": "placer",
+      "en": "placer",
+      "sourceId": "place",
+      "ru": [
+        "помещать",
+        "класть"
+      ],
+      "gender": null,
+      "example": "Veuillez placer la tasse ici.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "temps",
+      "word": "temps",
+      "en": "temps",
+      "sourceId": "time",
+      "ru": [
+        "время",
+        "час",
+        "времена"
+      ],
+      "gender": "m",
+      "example": "Le temps passe très vite.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "encore",
+      "word": "encore",
+      "en": "encore",
+      "sourceId": "yet",
+      "ru": [
+        "ещё",
+        "однако"
+      ],
+      "gender": null,
+      "example": "Elle n'a pas encore fini.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "un",
+      "word": "un",
+      "en": "un",
+      "sourceId": "one",
+      "ru": [
+        "один",
+        "единственный",
+        "тот самый"
+      ],
+      "gender": null,
+      "example": "J'ai un frère.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "creer",
+      "word": "créer",
+      "en": "créer",
+      "sourceId": "create",
+      "ru": [
+        "создавать"
+      ],
+      "gender": null,
+      "example": "Veuillez créer un nouveau compte.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "sur",
+      "word": "sûr",
+      "en": "sûr",
+      "sourceId": "safe",
+      "ru": [
+        "в безопасности",
+        "безопасный",
+        "сейф"
+      ],
+      "gender": null,
+      "example": "Il est sûr de marcher ici.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "enfant",
+      "word": "enfant",
+      "en": "enfant",
+      "sourceId": "child",
+      "ru": [
+        "ребёнок",
+        "дитя",
+        "чадо"
+      ],
+      "gender": "m",
+      "example": "L'enfant joue dans le jardin.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "erudit",
+      "word": "érudit",
+      "en": "érudit",
+      "sourceId": "learned",
+      "ru": [
+        "научный",
+        "учёный",
+        "эрудированный"
+      ],
+      "gender": null,
+      "example": "Il a écrit un article très érudit sur l'histoire ancienne.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "pousser",
+      "word": "pousser",
+      "en": "pousser",
+      "sourceId": "push",
+      "ru": [
+        "толчок",
+        "толкать",
+        "пихать"
+      ],
+      "gender": null,
+      "example": "Il faut pousser la porte pour entrer.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "gens",
+      "word": "gens",
+      "en": "gens",
+      "sourceId": "people",
+      "ru": [
+        "люди",
+        "люд",
+        "народ"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de gens dans la rue.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "absent",
+      "word": "absent",
+      "en": "absent",
+      "sourceId": "away",
+      "ru": [
+        "далеко",
+        "недоступно",
+        "прочь"
+      ],
+      "gender": null,
+      "example": "Il est absent aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "blesse",
+      "word": "blessé",
+      "en": "blessé",
+      "sourceId": "hurt",
+      "ru": [
+        "повреждённый",
+        "пострадавший",
+        "раненый"
+      ],
+      "gender": null,
+      "example": "Il a aidé le soldat blessé.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "maintenant",
+      "word": "maintenant",
+      "en": "maintenant",
+      "sourceId": "now",
+      "ru": [
+        "сейчас",
+        "ныне",
+        "теперь"
+      ],
+      "gender": null,
+      "example": "Je travaille maintenant.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "adulte",
+      "word": "adulte",
+      "en": "adulte",
+      "sourceId": "adult",
+      "ru": [
+        "взрослый",
+        "взрослая"
+      ],
+      "gender": "m",
+      "example": "Cet adulte travaille dans un bureau.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "encore",
+      "word": "encore",
+      "en": "encore",
+      "sourceId": "still",
+      "ru": [
+        "всё ещё",
+        "тем не менее"
+      ],
+      "gender": null,
+      "example": "Il attend encore dehors.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "demarrer",
+      "word": "démarrer",
+      "en": "démarrer",
+      "sourceId": "start",
+      "ru": [
+        "начинать"
+      ],
+      "gender": null,
+      "example": "Il faut démarrer le moteur.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "signifier",
+      "word": "signifier",
+      "en": "signifier",
+      "sourceId": "mean",
+      "ru": [
+        "значить",
+        "иметь в виду"
+      ],
+      "gender": null,
+      "example": "Je veux signifier que je ne suis pas seul.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "signifier",
+      "word": "signifier",
+      "en": "signifier",
+      "sourceId": "mean--verbs",
+      "ru": [
+        "означать"
+      ],
+      "gender": null,
+      "example": "L'argent, ce qui signifie que quelqu'un doit travailler.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "seul",
+      "word": "seul",
+      "en": "seul",
+      "sourceId": "alone",
+      "ru": [
+        "один",
+        "сам",
+        "одинокий"
+      ],
+      "gender": null,
+      "example": "Il préfère travailler seul.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "employe",
+      "word": "employé",
+      "en": "employé",
+      "sourceId": "employee",
+      "ru": [
+        "работник",
+        "работница",
+        "служащая"
+      ],
+      "gender": "m",
+      "example": "Il est un employé très efficace.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "client",
+      "word": "client",
+      "en": "client",
+      "sourceId": "customer",
+      "ru": [
+        "клиент",
+        "заказчик",
+        "заказчица"
+      ],
+      "gender": "m",
+      "example": "Le client attend son café.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "si",
+      "word": "si",
+      "en": "si",
+      "sourceId": "that",
+      "ru": [
+        "настолько",
+        "так",
+        "чтобы"
+      ],
+      "gender": null,
+      "example": "Il est si gentil.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "peut-etre",
+      "word": "peut-être",
+      "en": "peut-être",
+      "sourceId": "maybe",
+      "ru": [
+        "может быть",
+        "возможно"
+      ],
+      "gender": null,
+      "example": "On peut-être se voir demain.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "quiconque",
+      "word": "quiconque",
+      "en": "quiconque",
+      "sourceId": "anyone",
+      "ru": [
+        "всякий",
+        "кто угодно",
+        "кто бы то ни было"
+      ],
+      "gender": null,
+      "example": "Quiconque souhaite participer doit s'inscrire.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "mauvais",
+      "word": "mauvais",
+      "en": "mauvais",
+      "sourceId": "bad",
+      "ru": [
+        "злой",
+        "плохой",
+        "лихой"
+      ],
+      "gender": null,
+      "example": "C'est une mauvaise idée.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "profondement",
+      "word": "profondément",
+      "en": "profondément",
+      "sourceId": "deeply",
+      "ru": [
+        "глубоко"
+      ],
+      "gender": null,
+      "example": "Il a réfléchi profondément à cette question.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "adv"
+    },
+    {
+      "id": "sentiment",
+      "word": "sentiment",
+      "en": "sentiment",
+      "sourceId": "feeling",
+      "ru": [
+        "чувство",
+        "чувствительный",
+        "ощущение"
+      ],
+      "gender": "m",
+      "example": "Il a un sentiment de bonheur.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "comprendre",
+      "word": "comprendre",
+      "en": "comprendre",
+      "sourceId": "understand",
+      "ru": [
+        "понимать"
+      ],
+      "gender": null,
+      "example": "Est-ce que vous comprenez ?",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "reve",
+      "word": "rêve",
+      "en": "rêve",
+      "sourceId": "dream--general",
+      "ru": [
+        "сон",
+        "грёза",
+        "сновидение"
+      ],
+      "gender": "m",
+      "example": "Tu avais des rêves et tu as rencontré de la résistance.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "reve",
+      "word": "rêve",
+      "en": "rêve",
+      "sourceId": "dream",
+      "ru": [
+        "мечтать",
+        "видеть сны"
+      ],
+      "gender": "m",
+      "example": "Venez aujourd'hui et obtenez le canapé de vos rêves.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "resistance",
+      "word": "résistance",
+      "en": "résistance",
+      "sourceId": "resistance",
+      "ru": [
+        "отпор",
+        "сопротивление"
+      ],
+      "gender": "f",
+      "example": "La résistance au changement est naturelle.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "soutenir",
+      "word": "soutenir",
+      "en": "soutenir",
+      "sourceId": "support",
+      "ru": [
+        "поддерживать"
+      ],
+      "gender": null,
+      "example": "Je soutiens cette idée.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "chemin",
+      "word": "chemin",
+      "en": "chemin",
+      "sourceId": "way",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "gender": "m",
+      "example": "C'est le bon chemin pour aller à la gare.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "atteindre",
+      "word": "atteindre",
+      "en": "atteindre",
+      "sourceId": "achieve",
+      "ru": [
+        "выполнить",
+        "выполнять",
+        "осуществить"
+      ],
+      "gender": null,
+      "example": "Il a réussi à atteindre ses objectifs.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "experience",
+      "word": "expérience",
+      "en": "expérience",
+      "sourceId": "experience",
+      "ru": [
+        "опыт",
+        "переживание",
+        "испытывать"
+      ],
+      "gender": "f",
+      "example": "Elle a beaucoup d'expérience dans ce domaine.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "commencer",
+      "word": "commencer",
+      "en": "commencer",
+      "sourceId": "begin",
+      "ru": [
+        "начинать"
+      ],
+      "gender": null,
+      "example": "Commençons la leçon.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "attendre",
+      "word": "attendre",
+      "en": "attendre",
+      "sourceId": "expect",
+      "ru": [
+        "ожидать",
+        "рассчитывать"
+      ],
+      "gender": null,
+      "example": "J'attends de bonnes nouvelles.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "interesse",
+      "word": "intéressé",
+      "en": "intéressé",
+      "sourceId": "interested",
+      "ru": [
+        "заинтересованный"
+      ],
+      "gender": null,
+      "example": "Il est très intéressé par ce projet.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "car",
+      "word": "car",
+      "en": "car",
+      "sourceId": "for",
+      "ru": [
+        "ибо",
+        "из-за того, что",
+        "потому что"
+      ],
+      "gender": null,
+      "example": "Je ne peux pas sortir, car il pleut.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "conjunction"
+    },
+    {
+      "id": "sentier",
+      "word": "sentier",
+      "en": "sentier",
+      "sourceId": "path",
+      "ru": [
+        "дорожка",
+        "тропа",
+        "тропинка"
+      ],
+      "gender": "m",
+      "example": "Nous avons suivi un petit sentier à travers la forêt.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "voyant",
+      "word": "voyant",
+      "en": "voyant",
+      "sourceId": "seeing",
+      "ru": [
+        "видящий",
+        "зрячий",
+        "видение"
+      ],
+      "gender": null,
+      "example": "Il est un homme voyant.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "certainement",
+      "word": "certainement",
+      "en": "certainement",
+      "sourceId": "certainly",
+      "ru": [
+        "конечно",
+        "безусловно"
+      ],
+      "gender": null,
+      "example": "Je vais certainement vous aider.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "genial",
+      "word": "génial",
+      "en": "génial",
+      "sourceId": "great",
+      "ru": [
+        "великолепный",
+        "замечательный",
+        "отличный"
+      ],
+      "gender": null,
+      "example": "C'est une idée géniale.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "critique",
+      "word": "critique",
+      "en": "critique",
+      "sourceId": "review",
+      "ru": [
+        "пересмотр",
+        "повторение",
+        "рецензия"
+      ],
+      "gender": "f",
+      "example": "J'ai lu une critique positive de ce film.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "exercice",
+      "word": "exercice",
+      "en": "exercice",
+      "sourceId": "exercise",
+      "ru": [
+        "упражнение",
+        "практика",
+        "тренировка"
+      ],
+      "gender": "m",
+      "example": "Je fais mes exercices de français tous les jours.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "role",
+      "word": "rôle",
+      "en": "rôle",
+      "sourceId": "role",
+      "ru": [
+        "должность",
+        "роль"
+      ],
+      "gender": "m",
+      "example": "Il joue un rôle important dans cette entreprise.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "jouer",
+      "word": "jouer",
+      "en": "jouer",
+      "sourceId": "play",
+      "ru": [
+        "играть"
+      ],
+      "gender": null,
+      "example": "Les enfants aiment jouer dehors.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "par-interim",
+      "word": "par intérim",
+      "en": "par intérim",
+      "sourceId": "acting",
+      "ru": [
+        "врио",
+        "и.о",
+        "исполняющий обязанности"
+      ],
+      "gender": null,
+      "example": "Le directeur par intérim a signé le document.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "oui",
+      "word": "oui",
+      "en": "oui",
+      "sourceId": "yes",
+      "ru": [
+        "да"
+      ],
+      "gender": null,
+      "example": "Oui, je veux bien venir avec toi.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "interjection"
+    },
+    {
+      "id": "se-sentir",
+      "word": "se sentir",
+      "en": "se sentir",
+      "sourceId": "feel",
+      "ru": [
+        "чувствовать"
+      ],
+      "gender": null,
+      "example": "Je me sens mieux maintenant.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "imbecile",
+      "word": "imbécile",
+      "en": "imbécile",
+      "sourceId": "fool",
+      "ru": [
+        "дурак",
+        "глупец"
+      ],
+      "gender": "m",
+      "example": "Tu es un imbécile de voyager seul.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "proces-verbal",
+      "word": "procès-verbal",
+      "en": "procès-verbal",
+      "sourceId": "minutes",
+      "ru": [
+        "протокол"
+      ],
+      "gender": "m",
+      "example": "Le secrétaire a rédigé le procès-verbal de la réunion.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "permettre",
+      "word": "permettre",
+      "en": "permettre",
+      "sourceId": "let",
+      "ru": [
+        "позволять"
+      ],
+      "gender": null,
+      "example": "Laissez-moi expliquer.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "essayer",
+      "word": "essayer",
+      "en": "essayer",
+      "sourceId": "try",
+      "ru": [
+        "пробовать",
+        "пытаться"
+      ],
+      "gender": null,
+      "example": "Tu dois essayer encore.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "etape",
+      "word": "étape",
+      "en": "étape",
+      "sourceId": "stage",
+      "ru": [
+        "стадия",
+        "фаза",
+        "этап"
+      ],
+      "gender": "f",
+      "example": "Nous sommes à la dernière étape du projet.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "nuit",
+      "word": "nuit",
+      "en": "nuit",
+      "sourceId": "night",
+      "ru": [
+        "ночь",
+        "вечер",
+        "ночёвка"
+      ],
+      "gender": "f",
+      "example": "La nuit est tombée sur la ville.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "gauche",
+      "word": "gauche",
+      "en": "gauche",
+      "sourceId": "left",
+      "ru": [
+        "левый",
+        "либеральный",
+        "слева"
+      ],
+      "gender": null,
+      "example": "Il a pris la direction de gauche.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "donner-un-coup-de-pied",
+      "word": "donner un coup de pied",
+      "en": "donner un coup de pied",
+      "sourceId": "kick",
+      "ru": [
+        "пинок",
+        "пнуть",
+        "пинать"
+      ],
+      "gender": null,
+      "example": "Il a donné un coup de pied dans le ballon.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "maison",
+      "word": "maison",
+      "en": "maison",
+      "sourceId": "house",
+      "ru": [
+        "палата",
+        "дом",
+        "династия"
+      ],
+      "gender": "f",
+      "example": "J'habite dans une grande maison.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "moi-meme",
+      "word": "moi-même",
+      "en": "moi-même",
+      "sourceId": "myself",
+      "ru": [
+        "я сама",
+        "я сам",
+        "ся"
+      ],
+      "gender": null,
+      "example": "Je l'ai fait moi-même.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "payer",
+      "word": "payer",
+      "en": "payer",
+      "sourceId": "pay",
+      "ru": [
+        "платить"
+      ],
+      "gender": null,
+      "example": "Je vais payer par carte.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "prix",
+      "word": "prix",
+      "en": "prix",
+      "sourceId": "price",
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "gender": "m",
+      "example": "Le prix de cette voiture est trop élevé.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "maison",
+      "word": "maison",
+      "en": "maison",
+      "sourceId": "home",
+      "ru": [
+        "дом",
+        "домой",
+        "дома"
+      ],
+      "gender": null,
+      "example": "Rentrons à la maison maintenant.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tardif",
+      "word": "tardif",
+      "en": "tardif",
+      "sourceId": "late",
+      "ru": [
+        "поздно",
+        "поздний",
+        "запоздалый"
+      ],
+      "gender": null,
+      "example": "Il a présenté des excuses tardives pour son retard.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "deja",
+      "word": "déjà",
+      "en": "déjà",
+      "sourceId": "already",
+      "ru": [
+        "уже",
+        "ранее",
+        "раньше"
+      ],
+      "gender": null,
+      "example": "Il est déjà parti.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "endormi",
+      "word": "endormi",
+      "en": "endormi",
+      "sourceId": "sleeping",
+      "ru": [
+        "спальный",
+        "сон"
+      ],
+      "gender": null,
+      "example": "Le bébé est endormi dans son berceau.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "minuit",
+      "word": "minuit",
+      "en": "minuit",
+      "sourceId": "midnight",
+      "ru": [
+        "полночь"
+      ],
+      "gender": "m",
+      "example": "Le train part à minuit.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "habituellement",
+      "word": "habituellement",
+      "en": "habituellement",
+      "sourceId": "usually",
+      "ru": [
+        "обычно"
+      ],
+      "gender": null,
+      "example": "Je bois habituellement du thé le matin.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "aller",
+      "word": "aller",
+      "en": "aller",
+      "sourceId": "go",
+      "ru": [
+        "идти",
+        "ехать"
+      ],
+      "gender": null,
+      "example": "Je vais au travail en bus.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "lit",
+      "word": "lit",
+      "en": "lit",
+      "sourceId": "bed",
+      "ru": [
+        "кровать",
+        "койка",
+        "ложе"
+      ],
+      "gender": "m",
+      "example": "Il est fatigué et va se coucher dans son lit.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "important",
+      "word": "important",
+      "en": "important",
+      "sourceId": "important",
+      "ru": [
+        "важный",
+        "значимый"
+      ],
+      "gender": null,
+      "example": "C'est une décision très importante pour l'entreprise.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "verre",
+      "word": "verre",
+      "en": "verre",
+      "sourceId": "glass",
+      "ru": [
+        "стекло",
+        "бокал",
+        "стакан"
+      ],
+      "gender": "m",
+      "example": "Il boit de l'eau dans un verre.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "course-a-pied",
+      "word": "course à pied",
+      "en": "course à pied",
+      "sourceId": "running",
+      "ru": [
+        "подряд",
+        "бег",
+        "бегание"
+      ],
+      "gender": "f",
+      "example": "La course à pied est un excellent exercice pour la santé.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "deprime",
+      "word": "déprimé",
+      "en": "déprimé",
+      "sourceId": "down",
+      "ru": [
+        "снижающийся",
+        "печальный",
+        "подавленный"
+      ],
+      "gender": null,
+      "example": "Il se sent un peu déprimé aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "arriver",
+      "word": "arriver",
+      "en": "arriver",
+      "sourceId": "happen",
+      "ru": [
+        "случаться",
+        "происходить"
+      ],
+      "gender": null,
+      "example": "Qu'est-ce qui est arrivé ?",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "en-fait",
+      "word": "en fait",
+      "en": "en fait",
+      "sourceId": "actually",
+      "ru": [
+        "на самом деле",
+        "вообще-то"
+      ],
+      "gender": null,
+      "example": "En fait, je connais déjà la réponse.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "feutre",
+      "word": "feutre",
+      "en": "feutre",
+      "sourceId": "felt",
+      "ru": [
+        "фетр",
+        "войлок"
+      ],
+      "gender": "m",
+      "example": "Ce chapeau est fait de feutre.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "en-colere",
+      "word": "en colère",
+      "en": "en colère",
+      "sourceId": "angry",
+      "ru": [
+        "злой",
+        "гневный",
+        "разгневанный"
+      ],
+      "gender": null,
+      "example": "Il est très en colère contre son frère.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "parce-que",
+      "word": "parce que",
+      "en": "parce que",
+      "sourceId": "because",
+      "ru": [
+        "из-за",
+        "потому что",
+        "ведь"
+      ],
+      "gender": null,
+      "example": "Je suis fatigué parce que j'ai beaucoup travaillé.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "desole",
+      "word": "désolé",
+      "en": "désolé",
+      "sourceId": "sorry",
+      "ru": [
+        "жаль",
+        "огорчённый",
+        "сожалеющий"
+      ],
+      "gender": null,
+      "example": "Je suis vraiment désolé pour ce qui est arrivé.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "en-haut",
+      "word": "en haut",
+      "en": "en haut",
+      "sourceId": "up",
+      "ru": [
+        "вверх",
+        "вверху",
+        "наверх"
+      ],
+      "gender": null,
+      "example": "Il est monté en haut de la tour.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "soir",
+      "word": "soir",
+      "en": "soir",
+      "sourceId": "evening",
+      "ru": [
+        "вечер",
+        "день",
+        "закат жизни"
+      ],
+      "gender": "m",
+      "example": "Nous restons à la maison le soir.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ensemble",
+      "word": "ensemble",
+      "en": "ensemble",
+      "sourceId": "together",
+      "ru": [
+        "вместе",
+        "совместно",
+        "сообща"
+      ],
+      "gender": null,
+      "example": "Nous travaillons ensemble sur ce projet.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "fonctionnel",
+      "word": "fonctionnel",
+      "en": "fonctionnel",
+      "sourceId": "working",
+      "ru": [
+        "рабочий",
+        "работоспособный",
+        "рабочая"
+      ],
+      "gender": null,
+      "example": "Le système est maintenant fonctionnel.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "droit",
+      "word": "droit",
+      "en": "droit",
+      "sourceId": "straight",
+      "ru": [
+        "прямой",
+        "прямо",
+        "прямая"
+      ],
+      "gender": null,
+      "example": "Il trace une ligne droite sur la feuille.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "honnete",
+      "word": "honnête",
+      "en": "honnête",
+      "sourceId": "honest",
+      "ru": [
+        "честный",
+        "искренний",
+        "правдивый"
+      ],
+      "gender": null,
+      "example": "Il est toujours honnête avec ses amis.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "sentir",
+      "word": "sentir",
+      "en": "sentir",
+      "sourceId": "smell-smelt-smelt",
+      "ru": [
+        "пахнуть",
+        "нюхать"
+      ],
+      "gender": null,
+      "example": "Les fleurs sentent bon.",
+      "exampleTranslated": true,
+      "level": "C1",
+      "pos": "v"
+    },
+    {
+      "id": "souffle",
+      "word": "souffle",
+      "en": "souffle",
+      "sourceId": "breath",
+      "ru": [
+        "вздох",
+        "дыхание"
+      ],
+      "gender": "m",
+      "example": "Il a repris son souffle après avoir couru.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "biere",
+      "word": "bière",
+      "en": "bière",
+      "sourceId": "beer",
+      "ru": [
+        "пиво"
+      ],
+      "gender": "f",
+      "example": "Je voudrais une bière fraîche, s'il vous plaît.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "decrire",
+      "word": "décrire",
+      "en": "décrire",
+      "sourceId": "describe",
+      "ru": [
+        "описывать"
+      ],
+      "gender": null,
+      "example": "Veuillez décrire l'image.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "difficile",
+      "word": "difficile",
+      "en": "difficile",
+      "sourceId": "difficult",
+      "ru": [
+        "трудный",
+        "тяжёлый",
+        "тяжкий"
+      ],
+      "gender": null,
+      "example": "C'est un exercice très difficile.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "jour",
+      "word": "jour",
+      "en": "jour",
+      "sourceId": "day",
+      "ru": [
+        "день",
+        "сутки",
+        "световой день"
+      ],
+      "gender": "m",
+      "example": "Il travaille toute la journée.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "avoir-besoin-de",
+      "word": "avoir besoin de",
+      "en": "avoir besoin de",
+      "sourceId": "need",
+      "ru": [
+        "нуждаться",
+        "нужно"
+      ],
+      "gender": null,
+      "example": "J'ai besoin d'aide.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "calme",
+      "word": "calme",
+      "en": "calme",
+      "sourceId": "calm",
+      "ru": [
+        "спокойный",
+        "тихий",
+        "покой"
+      ],
+      "gender": null,
+      "example": "La mer est très calme aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "se-detendre",
+      "word": "se détendre",
+      "en": "se détendre",
+      "sourceId": "relax",
+      "ru": [
+        "расслабляться"
+      ],
+      "gender": null,
+      "example": "Alors, détendez-vous simplement, mon seigneur.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "toujours",
+      "word": "toujours",
+      "en": "toujours",
+      "sourceId": "always",
+      "ru": [
+        "всегда",
+        "вечно",
+        "постоянно"
+      ],
+      "gender": null,
+      "example": "Il est toujours en retard.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "entrepot",
+      "word": "entrepôt",
+      "en": "entrepôt",
+      "sourceId": "store",
+      "ru": [
+        "склад",
+        "хранилище",
+        "запас"
+      ],
+      "gender": "m",
+      "example": "Les marchandises sont stockées dans un grand entrepôt.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "correct",
+      "word": "correct",
+      "en": "correct",
+      "sourceId": "right",
+      "ru": [
+        "правильный",
+        "правый",
+        "подходящий"
+      ],
+      "gender": null,
+      "example": "C'est la bonne réponse.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "famille",
+      "word": "famille",
+      "en": "famille",
+      "sourceId": "family",
+      "ru": [
+        "семья",
+        "семейный",
+        "семейство"
+      ],
+      "gender": "f",
+      "example": "Ma famille habite en ville.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "exiger",
+      "word": "exiger",
+      "en": "exiger",
+      "sourceId": "require",
+      "ru": [
+        "требовать",
+        "нуждаться"
+      ],
+      "gender": null,
+      "example": "Ce travail exige de l'expérience.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "fric",
+      "word": "fric",
+      "en": "fric",
+      "sourceId": "money",
+      "ru": [
+        "бабки",
+        "башли",
+        "баблосы"
+      ],
+      "gender": "m",
+      "example": "Il a gagné beaucoup de fric avec son nouveau projet.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "moyen",
+      "word": "moyen",
+      "en": "moyen",
+      "sourceId": "means",
+      "ru": [
+        "способ",
+        "средство",
+        "богатство"
+      ],
+      "gender": "m",
+      "example": "C'est le meilleur moyen de réussir.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "quelqu-un",
+      "word": "quelqu'un",
+      "en": "quelqu'un",
+      "sourceId": "someone",
+      "ru": [
+        "кто-то",
+        "кое-кто",
+        "кто-нибудь"
+      ],
+      "gender": null,
+      "example": "Il y a quelqu'un à la porte.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "a-moins-que",
+      "word": "à moins que",
+      "en": "à moins que",
+      "sourceId": "unless",
+      "ru": [
+        "если только не",
+        "пока не"
+      ],
+      "gender": null,
+      "example": "Ne partez pas à moins que je ne vous appelle.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "conjunction"
+    },
+    {
+      "id": "professionnel",
+      "word": "professionnel",
+      "en": "professionnel",
+      "sourceId": "professional",
+      "ru": [
+        "профессиональный",
+        "профессионал",
+        "профессионалка"
+      ],
+      "gender": "m",
+      "example": "Il est un vrai professionnel dans son domaine.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "etudiant",
+      "word": "étudiant",
+      "en": "étudiant",
+      "sourceId": "student",
+      "ru": [
+        "студент",
+        "студентка",
+        "учащаяся"
+      ],
+      "gender": "m",
+      "example": "Il est étudiant à l'université.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "considerer",
+      "word": "considérer",
+      "en": "considérer",
+      "sourceId": "consider",
+      "ru": [
+        "рассматривать",
+        "считать"
+      ],
+      "gender": null,
+      "example": "Veuillez considérer mon offre.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "travail",
+      "word": "travail",
+      "en": "travail",
+      "sourceId": "job",
+      "ru": [
+        "дело",
+        "задание",
+        "задача"
+      ],
+      "gender": "m",
+      "example": "Il cherche un nouveau travail.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "jour",
+      "word": "jour",
+      "en": "jour",
+      "sourceId": "days",
+      "ru": [
+        "дни"
+      ],
+      "gender": "m",
+      "example": "Il travaille tous les jours.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "beau",
+      "word": "beau",
+      "en": "beau",
+      "sourceId": "fair",
+      "ru": [
+        "красивый",
+        "прекрасный",
+        "светлый"
+      ],
+      "gender": null,
+      "example": "Elle a un beau visage.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "permission",
+      "word": "permission",
+      "en": "permission",
+      "sourceId": "permission",
+      "ru": [
+        "позволение",
+        "разрешение"
+      ],
+      "gender": "f",
+      "example": "Il a demandé la permission de partir plus tôt.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faute",
+      "word": "faute",
+      "en": "faute",
+      "sourceId": "fault",
+      "ru": [
+        "вина",
+        "ошибка"
+      ],
+      "gender": "f",
+      "example": "Ce n'est pas ma faute, tu sais.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "garder",
+      "word": "garder",
+      "en": "garder",
+      "sourceId": "keep",
+      "ru": [
+        "хранить",
+        "продолжать"
+      ],
+      "gender": null,
+      "example": "Vous pouvez garder la monnaie.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "devenir",
+      "word": "devenir",
+      "en": "devenir",
+      "sourceId": "become",
+      "ru": [
+        "становиться"
+      ],
+      "gender": null,
+      "example": "Elle a décidé de devenir enseignante.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "avocat",
+      "word": "avocat",
+      "en": "avocat",
+      "sourceId": "lawyer",
+      "ru": [
+        "юрист",
+        "адвокат",
+        "юристка"
+      ],
+      "gender": "m",
+      "example": "Mon frère est avocat dans un grand cabinet.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "finir",
+      "word": "finir",
+      "en": "finir",
+      "sourceId": "finish",
+      "ru": [
+        "заканчивать"
+      ],
+      "gender": null,
+      "example": "Tu dois finir ton travail.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "loi",
+      "word": "loi",
+      "en": "loi",
+      "sourceId": "law",
+      "ru": [
+        "закон",
+        "право"
+      ],
+      "gender": "f",
+      "example": "La loi interdit de voler.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ecole",
+      "word": "école",
+      "en": "école",
+      "sourceId": "school",
+      "ru": [
+        "школа",
+        "училище",
+        "косяк"
+      ],
+      "gender": "f",
+      "example": "Les enfants vont à l'école tous les matins.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tout",
+      "word": "tout",
+      "en": "tout",
+      "sourceId": "everything",
+      "ru": [
+        "всё"
+      ],
+      "gender": null,
+      "example": "Il a tout mangé.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "pendant-que",
+      "word": "pendant que",
+      "en": "pendant que",
+      "sourceId": "while",
+      "ru": [
+        "в то время как",
+        "пока"
+      ],
+      "gender": null,
+      "example": "Pendant que je cuisinais, elle a mis la table.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "conjunction"
+    },
+    {
+      "id": "marche",
+      "word": "marche",
+      "en": "marche",
+      "sourceId": "walking",
+      "ru": [
+        "ходячий",
+        "ходьба",
+        "хождение"
+      ],
+      "gender": "f",
+      "example": "La marche est un excellent exercice pour la santé.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "autour",
+      "word": "autour",
+      "en": "autour",
+      "sourceId": "around",
+      "ru": [
+        "вокруг",
+        "кругом",
+        "по кругу"
+      ],
+      "gender": null,
+      "example": "Il y a des arbres tout autour.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "campus",
+      "word": "campus",
+      "en": "campus",
+      "sourceId": "campus",
+      "ru": [
+        "кампус"
+      ],
+      "gender": "m",
+      "example": "Le campus est très animé pendant la journée.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "donner",
+      "word": "donner",
+      "en": "donner",
+      "sourceId": "give",
+      "ru": [
+        "давать"
+      ],
+      "gender": null,
+      "example": "Donnez-moi une minute.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "indice",
+      "word": "indice",
+      "en": "indice",
+      "sourceId": "hint",
+      "ru": [
+        "намёк"
+      ],
+      "gender": "m",
+      "example": "Vous essayez de leur donner un indice et ils ne partent pas.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "exterieur",
+      "word": "extérieur",
+      "en": "extérieur",
+      "sourceId": "outside",
+      "ru": [
+        "внешний",
+        "наружный",
+        "снаружи"
+      ],
+      "gender": null,
+      "example": "Il fait froid à l'extérieur.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "parler",
+      "word": "parler",
+      "en": "parler",
+      "sourceId": "talk",
+      "ru": [
+        "говорить",
+        "разговаривать"
+      ],
+      "gender": null,
+      "example": "Nous nous parlons tous les jours.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "gerer",
+      "word": "gérer",
+      "en": "gérer",
+      "sourceId": "manage",
+      "ru": [
+        "управлять",
+        "справляться"
+      ],
+      "gender": null,
+      "example": "Elle doit gérer une boutique.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "diplome",
+      "word": "diplômé",
+      "en": "diplômé",
+      "sourceId": "graduate",
+      "ru": [
+        "выпускник",
+        "выпускница",
+        "дипломант"
+      ],
+      "gender": "m",
+      "example": "Il est diplômé de l'université de Paris.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "naissance",
+      "word": "naissance",
+      "en": "naissance",
+      "sourceId": "birth",
+      "ru": [
+        "роды",
+        "рождение"
+      ],
+      "gender": "f",
+      "example": "La naissance de leur enfant a changé leur vie.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cout",
+      "word": "coût",
+      "en": "coût",
+      "sourceId": "cost",
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "gender": "m",
+      "example": "Le coût de ce projet est très élevé.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "changer",
+      "word": "changer",
+      "en": "changer",
+      "sourceId": "change--verbs",
+      "ru": [
+        "менять",
+        "изменяться"
+      ],
+      "gender": null,
+      "example": "Ou vais-je changer les couches à la maison parce que tu...",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "d-abord",
+      "word": "d'abord",
+      "en": "d'abord",
+      "sourceId": "first",
+      "ru": [
+        "первый",
+        "в первую очередь",
+        "во-первых"
+      ],
+      "gender": null,
+      "example": "D'abord, nous allons manger, ensuite nous irons au cinéma.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "vie",
+      "word": "vie",
+      "en": "vie",
+      "sourceId": "life",
+      "ru": [
+        "живот",
+        "жизнь",
+        "житие"
+      ],
+      "gender": "f",
+      "example": "La vie est belle.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "desire",
+      "word": "désiré",
+      "en": "désiré",
+      "sourceId": "wanted",
+      "ru": [
+        "желаемый",
+        "желанный",
+        "нужный"
+      ],
+      "gender": null,
+      "example": "C'est le résultat désiré.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "architecte",
+      "word": "architecte",
+      "en": "architecte",
+      "sourceId": "architect",
+      "ru": [
+        "архитектор",
+        "архитекторка",
+        "архитекторша"
+      ],
+      "gender": "m",
+      "example": "Elle est une architecte célèbre.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "vendre",
+      "word": "vendre",
+      "en": "vendre",
+      "sourceId": "sell",
+      "ru": [
+        "продавать"
+      ],
+      "gender": null,
+      "example": "Ils vendent des fruits frais.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "meuble",
+      "word": "meuble",
+      "en": "meuble",
+      "sourceId": "furniture",
+      "ru": [
+        "мебель",
+        "предмет мебели"
+      ],
+      "gender": "m",
+      "example": "Ce meuble est très ancien.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "eteint",
+      "word": "éteint",
+      "en": "éteint",
+      "sourceId": "off",
+      "ru": [
+        "выкл",
+        "выключить",
+        "гнилой"
+      ],
+      "gender": null,
+      "example": "La lumière est éteinte.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "gros",
+      "word": "gros",
+      "en": "gros",
+      "sourceId": "fat",
+      "ru": [
+        "толстый",
+        "жирный",
+        "полный"
+      ],
+      "gender": null,
+      "example": "Il a un gros chat.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "aider",
+      "word": "aider",
+      "en": "aider",
+      "sourceId": "help",
+      "ru": [
+        "помогать"
+      ],
+      "gender": null,
+      "example": "Pouvez-vous m'aider ?",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "indiquer",
+      "word": "indiquer",
+      "en": "indiquer",
+      "sourceId": "point",
+      "ru": [
+        "указывать"
+      ],
+      "gender": null,
+      "example": "Veuillez indiquer la carte.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "entier",
+      "word": "entier",
+      "en": "entier",
+      "sourceId": "whole",
+      "ru": [
+        "целый",
+        "весь",
+        "полный"
+      ],
+      "gender": null,
+      "example": "J'ai mangé la pomme entière.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "apprendre",
+      "word": "apprendre",
+      "en": "apprendre",
+      "sourceId": "learn",
+      "ru": [
+        "учить",
+        "узнавать"
+      ],
+      "gender": null,
+      "example": "J'apprends l'anglais tous les jours.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "regler",
+      "word": "régler",
+      "en": "régler",
+      "sourceId": "set",
+      "ru": [
+        "устанавливать",
+        "ставить"
+      ],
+      "gender": null,
+      "example": "Veuillez régler une minuterie.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "reaction",
+      "word": "réaction",
+      "en": "réaction",
+      "sourceId": "reaction",
+      "ru": [
+        "реакция"
+      ],
+      "gender": "f",
+      "example": "Sa réaction a été immédiate.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "assez",
+      "word": "assez",
+      "en": "assez",
+      "sourceId": "quite",
+      "ru": [
+        "весьма",
+        "вполне",
+        "изрядно"
+      ],
+      "gender": null,
+      "example": "Il fait assez froid aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "normal",
+      "word": "normal",
+      "en": "normal",
+      "sourceId": "normal",
+      "ru": [
+        "нормальный",
+        "обычный",
+        "обыкновенный"
+      ],
+      "gender": null,
+      "example": "C'est une journée tout à fait normale.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "bonjour",
+      "word": "bonjour",
+      "en": "bonjour",
+      "sourceId": "hello",
+      "ru": [
+        "привет",
+        "добрый день",
+        "здорово"
+      ],
+      "gender": null,
+      "example": "Bonjour, comment allez-vous ?",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "fatigue",
+      "word": "fatigué",
+      "en": "fatigué",
+      "sourceId": "tired",
+      "ru": [
+        "утомлённый",
+        "усталый",
+        "уставший"
+      ],
+      "gender": null,
+      "example": "Je suis très fatigué après cette longue journée.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "passer",
+      "word": "passer",
+      "en": "passer",
+      "sourceId": "spend",
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "gender": null,
+      "example": "Je passe du temps avec mes amis.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "regarder",
+      "word": "regarder",
+      "en": "regarder",
+      "sourceId": "look",
+      "ru": [
+        "смотреть",
+        "выглядеть"
+      ],
+      "gender": null,
+      "example": "Il faut regarder le ciel.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "traiter",
+      "word": "traiter",
+      "en": "traiter",
+      "sourceId": "deal",
+      "ru": [
+        "иметь дело",
+        "торговать"
+      ],
+      "gender": null,
+      "example": "Il faut traiter ce problème.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "capitaine",
+      "word": "capitaine",
+      "en": "capitaine",
+      "sourceId": "captain",
+      "ru": [
+        "капитан"
+      ],
+      "gender": "m",
+      "example": "Le capitaine dirige le navire avec assurance.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "empire",
+      "word": "empire",
+      "en": "empire",
+      "sourceId": "empire",
+      "ru": [
+        "империя",
+        "царство"
+      ],
+      "gender": "m",
+      "example": "L'Empire romain a dominé la Méditerranée pendant des siècles.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vallee",
+      "word": "vallée",
+      "en": "vallée",
+      "sourceId": "valley",
+      "ru": [
+        "долина",
+        "дол"
+      ],
+      "gender": "f",
+      "example": "La rivière coule au fond de la vallée.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chambre",
+      "word": "chambre",
+      "en": "chambre",
+      "sourceId": "bedroom",
+      "ru": [
+        "спальня"
+      ],
+      "gender": "f",
+      "example": "Ma chambre est très lumineuse.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vivant",
+      "word": "vivant",
+      "en": "vivant",
+      "sourceId": "living",
+      "ru": [
+        "жить",
+        "жизненный",
+        "живой"
+      ],
+      "gender": null,
+      "example": "C'est une langue vivante.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "etude",
+      "word": "étude",
+      "en": "étude",
+      "sourceId": "studies",
+      "ru": [
+        "учение",
+        "исследование"
+      ],
+      "gender": "f",
+      "example": "Elle poursuit ses études à l'université.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "salle-de-bain",
+      "word": "salle de bain",
+      "en": "salle de bain",
+      "sourceId": "bathroom",
+      "ru": [
+        "ванная",
+        "ванная комната"
+      ],
+      "gender": "f",
+      "example": "La salle de bain est très propre.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tuteur",
+      "word": "tuteur",
+      "en": "tuteur",
+      "sourceId": "parent",
+      "ru": [
+        "опекун",
+        "попечитель",
+        "попечительница"
+      ],
+      "gender": "m",
+      "example": "Il est le tuteur légal de l'enfant.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "moderne",
+      "word": "moderne",
+      "en": "moderne",
+      "sourceId": "modern",
+      "ru": [
+        "современный"
+      ],
+      "gender": null,
+      "example": "C'est un bâtiment très moderne.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "design",
+      "word": "design",
+      "en": "design",
+      "sourceId": "design",
+      "ru": [
+        "дизайн",
+        "план",
+        "конструкция"
+      ],
+      "gender": "m",
+      "example": "Le design de cette chaise est très moderne.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "classique",
+      "word": "classique",
+      "en": "classique",
+      "sourceId": "classic",
+      "ru": [
+        "классический",
+        "образец",
+        "классика"
+      ],
+      "gender": "m",
+      "example": "Ce film est un classique du cinéma.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "style",
+      "word": "style",
+      "en": "style",
+      "sourceId": "style",
+      "ru": [
+        "стиль",
+        "слог",
+        "манера"
+      ],
+      "gender": "m",
+      "example": "Il a un style d'écriture très élégant.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "passe",
+      "word": "passé",
+      "en": "passé",
+      "sourceId": "past--grammar",
+      "ru": [
+        "прошлое"
+      ],
+      "gender": "m",
+      "example": "Le passé est ici, et ils sont tous respectables.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "respectable",
+      "word": "respectable",
+      "en": "respectable",
+      "sourceId": "respectable",
+      "ru": [
+        "почтенный",
+        "респектабельный",
+        "уважаемый"
+      ],
+      "gender": null,
+      "example": "C'est une famille très respectable.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "quel",
+      "word": "quel",
+      "en": "quel",
+      "sourceId": "what",
+      "ru": [
+        "которая",
+        "которое",
+        "который"
+      ],
+      "gender": null,
+      "example": "Quel livre veux-tu lire ?",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "credit",
+      "word": "crédit",
+      "en": "crédit",
+      "sourceId": "credit",
+      "ru": [
+        "вера",
+        "доверие",
+        "должное"
+      ],
+      "gender": "m",
+      "example": "Il a acheté cette voiture à crédit.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "dire",
+      "word": "dire",
+      "en": "dire",
+      "sourceId": "say",
+      "ru": [
+        "говорить",
+        "сказать"
+      ],
+      "gender": null,
+      "example": "Qu'a-t-elle voulu dire ?",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "probleme",
+      "word": "problème",
+      "en": "problème",
+      "sourceId": "problem",
+      "ru": [
+        "проблема",
+        "задание",
+        "задача"
+      ],
+      "gender": "m",
+      "example": "C'est un problème difficile à résoudre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "voile",
+      "word": "voile",
+      "en": "voile",
+      "sourceId": "sail",
+      "ru": [
+        "парус",
+        "боевая рубка",
+        "ветрило"
+      ],
+      "gender": "f",
+      "example": "Le bateau a hissé la voile pour profiter du vent.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "haut",
+      "word": "haut",
+      "en": "haut",
+      "sourceId": "high",
+      "ru": [
+        "высокий",
+        "высоко",
+        "балдёж"
+      ],
+      "gender": null,
+      "example": "La montagne est très haute.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "mer",
+      "word": "mer",
+      "en": "mer",
+      "sourceId": "sea",
+      "ru": [
+        "море"
+      ],
+      "gender": "f",
+      "example": "La mer est calme aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "de-qualite",
+      "word": "de qualité",
+      "en": "de qualité",
+      "sourceId": "quality",
+      "ru": [
+        "высококачественный",
+        "доброкачественный",
+        "качественный"
+      ],
+      "gender": null,
+      "example": "C'est un produit de qualité.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "laisser",
+      "word": "laisser",
+      "en": "laisser",
+      "sourceId": "leave",
+      "ru": [
+        "уходить",
+        "оставлять"
+      ],
+      "gender": null,
+      "example": "Laissez la porte ouverte.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "porte",
+      "word": "porte",
+      "en": "porte",
+      "sourceId": "door",
+      "ru": [
+        "дверь",
+        "двери"
+      ],
+      "gender": "f",
+      "example": "Elle a fermé la porte à clé.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "aujourd-hui",
+      "word": "aujourd'hui",
+      "en": "aujourd'hui",
+      "sourceId": "today",
+      "ru": [
+        "сегодня",
+        "в настоящее время",
+        "теперь"
+      ],
+      "gender": null,
+      "example": "Il fait beau aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "table",
+      "word": "table",
+      "en": "table",
+      "sourceId": "table",
+      "ru": [
+        "стол",
+        "поднос",
+        "таблица"
+      ],
+      "gender": "f",
+      "example": "Le livre est sur la table.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sol",
+      "word": "sol",
+      "en": "sol",
+      "sourceId": "floor",
+      "ru": [
+        "пол",
+        "настил",
+        "дно"
+      ],
+      "gender": "m",
+      "example": "Il y a un tapis sur le sol.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "lampe",
+      "word": "lampe",
+      "en": "lampe",
+      "sourceId": "lamp",
+      "ru": [
+        "лампа",
+        "лампочка",
+        "светильник"
+      ],
+      "gender": "f",
+      "example": "Elle a allumé la lampe pour lire.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "capital",
+      "word": "capital",
+      "en": "capital",
+      "sourceId": "capital",
+      "ru": [
+        "капитель",
+        "богатство",
+        "капитал"
+      ],
+      "gender": "m",
+      "example": "Il a investi tout son capital dans cette entreprise.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "avenue",
+      "word": "avenue",
+      "en": "avenue",
+      "sourceId": "avenue",
+      "ru": [
+        "авеню",
+        "проспект"
+      ],
+      "gender": "f",
+      "example": "Il habite sur une grande avenue.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "profiter",
+      "word": "profiter",
+      "en": "profiter",
+      "sourceId": "enjoy",
+      "ru": [
+        "наслаждаться",
+        "получать удовольствие",
+        "получить удовольствие"
+      ],
+      "gender": null,
+      "example": "Je profite de mes vacances au soleil.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "nom",
+      "word": "nom",
+      "en": "nom",
+      "sourceId": "name",
+      "ru": [
+        "имя",
+        "название",
+        "наименование"
+      ],
+      "gender": "m",
+      "example": "Quel est votre nom ?",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tourner",
+      "word": "tourner",
+      "en": "tourner",
+      "sourceId": "turn",
+      "ru": [
+        "поворачивать",
+        "становиться"
+      ],
+      "gender": null,
+      "example": "Il faut tourner à gauche ici.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "appareil-photo",
+      "word": "appareil photo",
+      "en": "appareil photo",
+      "sourceId": "camera",
+      "ru": [
+        "камера",
+        "фотоаппарат",
+        "фотокамера"
+      ],
+      "gender": "m",
+      "example": "J'ai acheté un nouvel appareil photo pour mes vacances.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "matiere",
+      "word": "matière",
+      "en": "matière",
+      "sourceId": "matter",
+      "ru": [
+        "вещество",
+        "материал",
+        "вопрос"
+      ],
+      "gender": "f",
+      "example": "La matière est composée d'atomes.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "sortie",
+      "word": "sortie",
+      "en": "sortie",
+      "sourceId": "exit",
+      "ru": [
+        "выход",
+        "выезд",
+        "выйти"
+      ],
+      "gender": "f",
+      "example": "La sortie est au fond du couloir.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ami",
+      "word": "ami",
+      "en": "ami",
+      "sourceId": "friend",
+      "ru": [
+        "друг",
+        "подруга",
+        "товарищ"
+      ],
+      "gender": "m",
+      "example": "C'est ma meilleure amie.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "mince",
+      "word": "mince",
+      "en": "mince",
+      "sourceId": "man",
+      "ru": [
+        "муж",
+        "блин",
+        "чёрт"
+      ],
+      "gender": null,
+      "example": "Mince, j'ai oublié mes clés !",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "interjection"
+    },
+    {
+      "id": "acheter",
+      "word": "acheter",
+      "en": "acheter",
+      "sourceId": "buy",
+      "ru": [
+        "покупать"
+      ],
+      "gender": null,
+      "example": "J'achète du pain tous les jours.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "ouvrir",
+      "word": "ouvrir",
+      "en": "ouvrir",
+      "sourceId": "open",
+      "ru": [
+        "открывать"
+      ],
+      "gender": null,
+      "example": "Veuillez ouvrir la fenêtre.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "fermer",
+      "word": "fermer",
+      "en": "fermer",
+      "sourceId": "shut",
+      "ru": [
+        "закрывать",
+        "запирать"
+      ],
+      "gender": null,
+      "example": "Il faut fermer la porte à clé.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "bon-marche",
+      "word": "bon marché",
+      "en": "bon marché",
+      "sourceId": "cheap",
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "gender": null,
+      "example": "Ce restaurant est très bon marché.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "nettoyer",
+      "word": "nettoyer",
+      "en": "nettoyer",
+      "sourceId": "clean",
+      "ru": [
+        "чистить",
+        "убирать"
+      ],
+      "gender": null,
+      "example": "Tu peux nettoyer ça, s'il te plaît ?",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "tenir",
+      "word": "tenir",
+      "en": "tenir",
+      "sourceId": "hold",
+      "ru": [
+        "держать"
+      ],
+      "gender": null,
+      "example": "Tiens-moi la main.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "metre",
+      "word": "mètre",
+      "en": "mètre",
+      "sourceId": "meter",
+      "ru": [
+        "счётчик",
+        "измеритель",
+        "размер"
+      ],
+      "gender": "m",
+      "example": "Le compteur d'électricité affiche la consommation en mètres cubes.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lire",
+      "word": "lire",
+      "en": "lire",
+      "sourceId": "read",
+      "ru": [
+        "читать"
+      ],
+      "gender": null,
+      "example": "Je dois lire chaque soir.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "excellent",
+      "word": "excellent",
+      "en": "excellent",
+      "sourceId": "fine",
+      "ru": [
+        "великолепный",
+        "высококачественный",
+        "отличный"
+      ],
+      "gender": null,
+      "example": "C'est un excellent travail.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "bec",
+      "word": "bec",
+      "en": "bec",
+      "sourceId": "bill",
+      "ru": [
+        "клюв",
+        "алебарда"
+      ],
+      "gender": "m",
+      "example": "L'oiseau a un bec pointu.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "devoir",
+      "word": "devoir",
+      "en": "devoir",
+      "sourceId": "must",
+      "ru": [
+        "муст",
+        "должен",
+        "должна"
+      ],
+      "gender": null,
+      "example": "Je dois partir maintenant.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "trip",
+      "ru": [
+        "путешествие",
+        "поездка",
+        "спотыкание"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un long voyage en train.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "brisant",
+      "word": "brisant",
+      "en": "brisant",
+      "sourceId": "breaker",
+      "ru": [
+        "бурун"
+      ],
+      "gender": "m",
+      "example": "Le bateau a été secoué par les brisants près de la côte.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "fermer",
+      "word": "fermer",
+      "en": "fermer",
+      "sourceId": "close",
+      "ru": [
+        "закрывать"
+      ],
+      "gender": null,
+      "example": "Veuillez fermer la porte.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "electricite",
+      "word": "électricité",
+      "en": "électricité",
+      "sourceId": "electricity",
+      "ru": [
+        "электричество",
+        "ток",
+        "электроэнергия"
+      ],
+      "gender": "f",
+      "example": "L'électricité est indispensable dans la vie moderne.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "recevoir",
+      "word": "recevoir",
+      "en": "recevoir",
+      "sourceId": "get",
+      "ru": [
+        "получать",
+        "доставать"
+      ],
+      "gender": null,
+      "example": "As-tu reçu mon message ?",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "bizarre",
+      "word": "bizarre",
+      "en": "bizarre",
+      "sourceId": "weird",
+      "ru": [
+        "странный"
+      ],
+      "gender": null,
+      "example": "C'est une histoire vraiment bizarre.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "de-toute-facon",
+      "word": "de toute façon",
+      "en": "de toute façon",
+      "sourceId": "anyway",
+      "ru": [
+        "в любом случае",
+        "так или иначе"
+      ],
+      "gender": null,
+      "example": "De toute façon, parlons du plan.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "causer",
+      "word": "causer",
+      "en": "causer",
+      "sourceId": "cause",
+      "ru": [
+        "вызывать",
+        "причинять"
+      ],
+      "gender": null,
+      "example": "La pluie peut causer des inondations.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "boite",
+      "word": "boîte",
+      "en": "boîte",
+      "sourceId": "box",
+      "ru": [
+        "бокс",
+        "квадрат",
+        "коробка"
+      ],
+      "gender": "f",
+      "example": "Il a mis ses affaires dans une boîte en carton.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "expert",
+      "word": "expert",
+      "en": "expert",
+      "sourceId": "expert",
+      "ru": [
+        "экспертный",
+        "знаток",
+        "специалист"
+      ],
+      "gender": "m",
+      "example": "Il est un expert en informatique.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "clair",
+      "word": "clair",
+      "en": "clair",
+      "sourceId": "light",
+      "ru": [
+        "яркий",
+        "светлый",
+        "бледный"
+      ],
+      "gender": null,
+      "example": "Elle a les yeux bleu clair.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "ensuite",
+      "word": "ensuite",
+      "en": "ensuite",
+      "sourceId": "next",
+      "ru": [
+        "затем",
+        "далее"
+      ],
+      "gender": null,
+      "example": "Ouvrez ensuite la deuxième page.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "construit",
+      "word": "construit",
+      "en": "construit",
+      "sourceId": "built",
+      "ru": [
+        "построенный"
+      ],
+      "gender": null,
+      "example": "Ce pont a été construit en 1990.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "batiment",
+      "word": "bâtiment",
+      "en": "bâtiment",
+      "sourceId": "building",
+      "ru": [
+        "строительство",
+        "стройка",
+        "дом"
+      ],
+      "gender": "m",
+      "example": "Ce bâtiment est très ancien.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "vieux",
+      "word": "vieux",
+      "en": "vieux",
+      "sourceId": "old",
+      "ru": [
+        "старый",
+        "пожилой",
+        "в возрасте"
+      ],
+      "gender": null,
+      "example": "C'est un vieux livre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "meilleur",
+      "word": "meilleur",
+      "en": "meilleur",
+      "sourceId": "better",
+      "ru": [
+        "лучший",
+        "лучше",
+        "улучшиться"
+      ],
+      "gender": null,
+      "example": "C'est la meilleure solution pour nous.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "question",
+      "word": "question",
+      "en": "question",
+      "sourceId": "question",
+      "ru": [
+        "вопрос",
+        "предмет",
+        "допрашивать"
+      ],
+      "gender": "f",
+      "example": "J'ai une question à vous poser.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "comment",
+      "word": "comment",
+      "en": "comment",
+      "sourceId": "how",
+      "ru": [
+        "как",
+        "насколько",
+        "каким образом"
+      ],
+      "gender": null,
+      "example": "Comment vas-tu ?",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "n-importe-quoi",
+      "word": "n'importe quoi",
+      "en": "n'importe quoi",
+      "sourceId": "anything",
+      "ru": [
+        "всё",
+        "всё, что угодно",
+        "что угодно"
+      ],
+      "gender": null,
+      "example": "Il peut manger n'importe quoi.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "securite",
+      "word": "sécurité",
+      "en": "sécurité",
+      "sourceId": "security",
+      "ru": [
+        "безопасность",
+        "надёжность",
+        "гарантия"
+      ],
+      "gender": "f",
+      "example": "La sécurité est une priorité absolue pour cette entreprise.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "pouvoir",
+      "word": "pouvoir",
+      "en": "pouvoir",
+      "sourceId": "power",
+      "ru": [
+        "власть",
+        "влияние"
+      ],
+      "gender": "m",
+      "example": "Le président a beaucoup de pouvoir.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "annuler",
+      "word": "annuler",
+      "en": "annuler",
+      "sourceId": "cancel",
+      "ru": [
+        "зачеркнуть",
+        "зачёркивать",
+        "аннулировать"
+      ],
+      "gender": null,
+      "example": "Il a dû annuler son voyage à cause de la pluie.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "plat",
+      "word": "plat",
+      "en": "plat",
+      "sourceId": "even",
+      "ru": [
+        "плоский",
+        "гладкий",
+        "ровный"
+      ],
+      "gender": null,
+      "example": "La surface de la table est bien plate.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "passer",
+      "word": "passer",
+      "en": "passer",
+      "sourceId": "pass",
+      "ru": [
+        "проходить",
+        "передавать"
+      ],
+      "gender": null,
+      "example": "Peux-tu me passer le sel ?",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "a-travers",
+      "word": "à travers",
+      "en": "à travers",
+      "sourceId": "through",
+      "ru": [
+        "через",
+        "сквозь"
+      ],
+      "gender": null,
+      "example": "Il regarde à travers la fenêtre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "preposition"
+    },
+    {
+      "id": "partie",
+      "word": "partie",
+      "en": "partie",
+      "sourceId": "part",
+      "ru": [
+        "часть",
+        "доля",
+        "роль"
+      ],
+      "gender": "f",
+      "example": "Une grande partie du travail est terminée.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "circuit",
+      "word": "circuit",
+      "en": "circuit",
+      "sourceId": "circuit",
+      "ru": [
+        "вращение",
+        "кругооборот",
+        "обход"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait le tour du circuit en voiture.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "il",
+      "word": "il",
+      "en": "il",
+      "sourceId": "he",
+      "ru": [
+        "он"
+      ],
+      "gender": null,
+      "example": "Il mange une pomme.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "se-tenir-debout",
+      "word": "se tenir debout",
+      "en": "se tenir debout",
+      "sourceId": "stand",
+      "ru": [
+        "стоять"
+      ],
+      "gender": null,
+      "example": "Il faut se lever.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "idiot",
+      "word": "idiot",
+      "en": "idiot",
+      "sourceId": "idiot",
+      "ru": [
+        "идиот"
+      ],
+      "gender": "m",
+      "example": "Je suis vraiment un idiot.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lui",
+      "word": "lui",
+      "en": "lui",
+      "sourceId": "him",
+      "ru": [
+        "его",
+        "ему"
+      ],
+      "gender": null,
+      "example": "Je lui ai donné le livre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "jamais",
+      "word": "jamais",
+      "en": "jamais",
+      "sourceId": "ever",
+      "ru": [
+        "когда-либо",
+        "когда-нибудь"
+      ],
+      "gender": null,
+      "example": "C'est la plus belle chose que j'aie jamais vue.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "derriere",
+      "word": "derrière",
+      "en": "derrière",
+      "sourceId": "behind",
+      "ru": [
+        "сзади",
+        "вспять",
+        "назад"
+      ],
+      "gender": null,
+      "example": "Il y a un jardin derrière.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "regarder",
+      "word": "regarder",
+      "en": "regarder",
+      "sourceId": "watch",
+      "ru": [
+        "смотреть",
+        "наблюдать"
+      ],
+      "gender": null,
+      "example": "J'aime regarder des films le week-end.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "marche",
+      "word": "marche",
+      "en": "marche",
+      "sourceId": "step",
+      "ru": [
+        "ступенька",
+        "ступень",
+        "подножка"
+      ],
+      "gender": "f",
+      "example": "Il y a trois marches pour entrer dans la maison.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "dedans",
+      "word": "dedans",
+      "en": "dedans",
+      "sourceId": "inside",
+      "ru": [
+        "внутренний",
+        "внутри",
+        "внутрь"
+      ],
+      "gender": null,
+      "example": "Il fait froid dehors, entrons dedans.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "fenetre",
+      "word": "fenêtre",
+      "en": "fenêtre",
+      "sourceId": "window",
+      "ru": [
+        "окно",
+        "окошко"
+      ],
+      "gender": "f",
+      "example": "Il regarde par la fenêtre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chance",
+      "word": "chance",
+      "en": "chance",
+      "sourceId": "chance",
+      "ru": [
+        "шанс",
+        "возможность",
+        "случайность"
+      ],
+      "gender": "f",
+      "example": "Il a une chance de réussir son examen.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vrai",
+      "word": "vrai",
+      "en": "vrai",
+      "sourceId": "true",
+      "ru": [
+        "верный",
+        "истинный",
+        "правдивый"
+      ],
+      "gender": null,
+      "example": "C'est une histoire vraie.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "moment",
+      "word": "moment",
+      "en": "moment",
+      "sourceId": "moment",
+      "ru": [
+        "момент силы",
+        "миг",
+        "момент"
+      ],
+      "gender": "m",
+      "example": "Attends un moment, s'il te plaît.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "croire",
+      "word": "croire",
+      "en": "croire",
+      "sourceId": "believe",
+      "ru": [
+        "верить",
+        "считать"
+      ],
+      "gender": null,
+      "example": "Je veux te croire.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "possible",
+      "word": "possible",
+      "en": "possible",
+      "sourceId": "possible",
+      "ru": [
+        "возможный",
+        "вероятный",
+        "выполнимый"
+      ],
+      "gender": null,
+      "example": "Il est possible qu'il vienne demain.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "commande",
+      "word": "commande",
+      "en": "commande",
+      "sourceId": "order",
+      "ru": [
+        "заказ",
+        "заказывать"
+      ],
+      "gender": "f",
+      "example": "Passez commande de The Window Within de Mary Klein et de son",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "a-l-interieur-de",
+      "word": "à l'intérieur de",
+      "en": "à l'intérieur de",
+      "sourceId": "within",
+      "ru": [
+        "внутри"
+      ],
+      "gender": null,
+      "example": "Il y a un trésor à l'intérieur de cette boîte.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "preposition"
+    },
+    {
+      "id": "audio",
+      "word": "audio",
+      "en": "audio",
+      "sourceId": "audio",
+      "ru": [
+        "аудио",
+        "звуковой"
+      ],
+      "gender": null,
+      "example": "Le système audio est en panne.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "programme",
+      "word": "programme",
+      "en": "programme",
+      "sourceId": "program",
+      "ru": [
+        "программа",
+        "програмка",
+        "писать программу"
+      ],
+      "gender": "m",
+      "example": "J'ai écrit un nouveau programme informatique.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "guide",
+      "word": "guide",
+      "en": "guide",
+      "sourceId": "guide",
+      "ru": [
+        "гид",
+        "проводник",
+        "проводница"
+      ],
+      "gender": "m",
+      "example": "Le guide nous a montré les monuments de la ville.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ouverture",
+      "word": "ouverture",
+      "en": "ouverture",
+      "sourceId": "opening",
+      "ru": [
+        "открытие",
+        "отверстие",
+        "проход"
+      ],
+      "gender": "f",
+      "example": "Il y a une petite ouverture dans le mur.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "stock",
+      "word": "stock",
+      "en": "stock",
+      "sourceId": "stock",
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "gender": "m",
+      "example": "Le magasin a beaucoup de stock en ce moment.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "positif",
+      "word": "positif",
+      "en": "positif",
+      "sourceId": "plus",
+      "ru": [
+        "плюс",
+        "положительный"
+      ],
+      "gender": null,
+      "example": "C'est un résultat positif pour l'entreprise.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "expedition",
+      "word": "expédition",
+      "en": "expédition",
+      "sourceId": "shipping",
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "gender": "f",
+      "example": "Les frais d'expédition sont offerts.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "appeler",
+      "word": "appeler",
+      "en": "appeler",
+      "sourceId": "call",
+      "ru": [
+        "звонить",
+        "называть"
+      ],
+      "gender": null,
+      "example": "Appelez-moi plus tard.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "graphique",
+      "word": "graphique",
+      "en": "graphique",
+      "sourceId": "chart",
+      "ru": [
+        "морская карта",
+        "график",
+        "диаграмма"
+      ],
+      "gender": "m",
+      "example": "Le graphique montre une augmentation des ventes.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ebauche",
+      "word": "ébauche",
+      "en": "ébauche",
+      "sourceId": "draft",
+      "ru": [
+        "глоток",
+        "набросок",
+        "эскиз"
+      ],
+      "gender": "f",
+      "example": "Il a présenté une première ébauche de son projet.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "en-papier",
+      "word": "en papier",
+      "en": "en papier",
+      "sourceId": "paper",
+      "ru": [
+        "бумага",
+        "бумажный",
+        "статья"
+      ],
+      "gender": null,
+      "example": "J'ai acheté un sac en papier.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "dossier",
+      "word": "dossier",
+      "en": "dossier",
+      "sourceId": "folder",
+      "ru": [
+        "папка",
+        "скоросшиватель",
+        "директория"
+      ],
+      "gender": "m",
+      "example": "J'ai rangé les documents dans un dossier.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "etiquette",
+      "word": "étiquette",
+      "en": "étiquette",
+      "sourceId": "label",
+      "ru": [
+        "бирка",
+        "лейбл",
+        "наклейка"
+      ],
+      "gender": "f",
+      "example": "J'ai enlevé l'étiquette du nouveau vêtement.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ruban",
+      "word": "ruban",
+      "en": "ruban",
+      "sourceId": "tape",
+      "ru": [
+        "лента",
+        "кассета",
+        "записывать"
+      ],
+      "gender": "m",
+      "example": "Elle a attaché le cadeau avec un ruban rouge.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "limaille",
+      "word": "limaille",
+      "en": "limaille",
+      "sourceId": "filing",
+      "ru": [
+        "опилка",
+        "стружка"
+      ],
+      "gender": "f",
+      "example": "Il a ramassé la limaille de fer avec un aimant.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "de-rechange",
+      "word": "de rechange",
+      "en": "de rechange",
+      "sourceId": "spare",
+      "ru": [
+        "свободный",
+        "запасной"
+      ],
+      "gender": null,
+      "example": "J'ai une roue de rechange dans le coffre.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "cle",
+      "word": "clé",
+      "en": "clé",
+      "sourceId": "key",
+      "ru": [
+        "ключ",
+        "важнейший",
+        "ведущий"
+      ],
+      "gender": null,
+      "example": "Je ne trouve pas ma clé.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "petit",
+      "word": "petit",
+      "en": "petit",
+      "sourceId": "little",
+      "ru": [
+        "маленький",
+        "малый",
+        "мало"
+      ],
+      "gender": null,
+      "example": "C'est un petit chien.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "sembler",
+      "word": "sembler",
+      "en": "sembler",
+      "sourceId": "sound",
+      "ru": [
+        "звук",
+        "звучать"
+      ],
+      "gender": null,
+      "example": "Ce petit bruit ne semble pas être un astéroïde.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "arrivee",
+      "word": "arrivée",
+      "en": "arrivée",
+      "sourceId": "coming",
+      "ru": [
+        "наступление",
+        "приход"
+      ],
+      "gender": "f",
+      "example": "L'arrivée du printemps est toujours un moment joyeux.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "proche",
+      "word": "proche",
+      "en": "proche",
+      "sourceId": "closer",
+      "ru": [
+        "ближе"
+      ],
+      "gender": "m",
+      "example": "Il est un proche de la famille.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "casser",
+      "word": "casser",
+      "en": "casser",
+      "sourceId": "break",
+      "ru": [
+        "ломать",
+        "перерывать"
+      ],
+      "gender": null,
+      "example": "Ne pas casser le verre.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "avis",
+      "word": "avis",
+      "en": "avis",
+      "sourceId": "notice",
+      "ru": [
+        "объявление",
+        "уведомление",
+        "извещение"
+      ],
+      "gender": "m",
+      "example": "Veuillez lire cet avis avant d'entrer.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "bouclier",
+      "word": "bouclier",
+      "en": "bouclier",
+      "sourceId": "shield",
+      "ru": [
+        "щит"
+      ],
+      "gender": "m",
+      "example": "Le chevalier se protège avec son bouclier.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "monsieur",
+      "word": "monsieur",
+      "en": "monsieur",
+      "sourceId": "sir",
+      "ru": [
+        "господин",
+        "сэр",
+        "товарищ"
+      ],
+      "gender": "m",
+      "example": "Bonjour monsieur, comment allez-vous ?",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "terre",
+      "word": "terre",
+      "en": "terre",
+      "sourceId": "earth",
+      "ru": [
+        "земля",
+        "грунт",
+        "почва"
+      ],
+      "gender": "f",
+      "example": "Les plantes ont besoin d'une bonne terre pour pousser.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "piece",
+      "word": "pièce",
+      "en": "pièce",
+      "sourceId": "piece",
+      "ru": [
+        "кусок",
+        "часть",
+        "штука"
+      ],
+      "gender": "f",
+      "example": "Il a mangé une pièce de gâteau.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vous-meme",
+      "word": "vous-même",
+      "en": "vous-même",
+      "sourceId": "yourself",
+      "ru": [
+        "ся",
+        "себя",
+        "вы сами"
+      ],
+      "gender": null,
+      "example": "Vous devez le faire vous-même.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "plein",
+      "word": "plein",
+      "en": "plein",
+      "sourceId": "full",
+      "ru": [
+        "полный",
+        "заполненный",
+        "наполненный"
+      ],
+      "gender": null,
+      "example": "Le verre est plein d'eau.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "memoire",
+      "word": "mémoire",
+      "en": "mémoire",
+      "sourceId": "memory",
+      "ru": [
+        "память",
+        "воспоминание"
+      ],
+      "gender": "f",
+      "example": "Elle a une excellente mémoire.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "progres",
+      "word": "progrès",
+      "en": "progrès",
+      "sourceId": "progress",
+      "ru": [
+        "продвижение",
+        "прогресс"
+      ],
+      "gender": "m",
+      "example": "Nous faisons des progrès rapides dans notre projet.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "esprit",
+      "word": "esprit",
+      "en": "esprit",
+      "sourceId": "mind",
+      "ru": [
+        "ум",
+        "разум",
+        "интеллект"
+      ],
+      "gender": "m",
+      "example": "Il a un esprit très vif.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pouvoir",
+      "word": "pouvoir",
+      "en": "pouvoir",
+      "sourceId": "may",
+      "ru": [
+        "боярышник",
+        "мочь",
+        "можно"
+      ],
+      "gender": null,
+      "example": "Je peux venir avec vous.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "construire",
+      "word": "construire",
+      "en": "construire",
+      "sourceId": "build",
+      "ru": [
+        "строить"
+      ],
+      "gender": null,
+      "example": "Ils aiment construire des maisons.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "mur",
+      "word": "mur",
+      "en": "mur",
+      "sourceId": "wall",
+      "ru": [
+        "стена",
+        "вал"
+      ],
+      "gender": "m",
+      "example": "Il a peint le mur en bleu.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "mettre",
+      "word": "mettre",
+      "en": "mettre",
+      "sourceId": "put",
+      "ru": [
+        "класть",
+        "ставить"
+      ],
+      "gender": null,
+      "example": "Il faut mettre le livre sur la table.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "proteger",
+      "word": "protéger",
+      "en": "protéger",
+      "sourceId": "protect",
+      "ru": [
+        "защищать"
+      ],
+      "gender": null,
+      "example": "Il faut protéger votre peau.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "lui-meme",
+      "word": "lui-même",
+      "en": "lui-même",
+      "sourceId": "himself",
+      "ru": [
+        "сам",
+        "себе",
+        "себя"
+      ],
+      "gender": null,
+      "example": "Il a réparé la voiture lui-même.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "monde",
+      "word": "monde",
+      "en": "monde",
+      "sourceId": "world",
+      "ru": [
+        "мир",
+        "свет",
+        "вселенная"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de pays dans le monde.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "naturel",
+      "word": "naturel",
+      "en": "naturel",
+      "sourceId": "natural",
+      "ru": [
+        "естественный",
+        "натуральный",
+        "бекар"
+      ],
+      "gender": null,
+      "example": "Il a un talent naturel pour la musique.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "souvent",
+      "word": "souvent",
+      "en": "souvent",
+      "sourceId": "often",
+      "ru": [
+        "часто",
+        "зачастую",
+        "частенько"
+      ],
+      "gender": null,
+      "example": "Je vais souvent au cinéma.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "conscient",
+      "word": "conscient",
+      "en": "conscient",
+      "sourceId": "aware",
+      "ru": [
+        "в курсе",
+        "знать",
+        "осведомлённый"
+      ],
+      "gender": null,
+      "example": "Il est conscient des risques.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "relation",
+      "word": "relation",
+      "en": "relation",
+      "sourceId": "relationship",
+      "ru": [
+        "связь",
+        "отношение",
+        "взаимоотношение"
+      ],
+      "gender": "f",
+      "example": "Ils ont une relation très solide.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "arreter",
+      "word": "arrêter",
+      "en": "arrêter",
+      "sourceId": "stop",
+      "ru": [
+        "останавливать",
+        "прекращать"
+      ],
+      "gender": null,
+      "example": "Veuillez arrêter de parler.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "depuis-que",
+      "word": "depuis que",
+      "en": "depuis que",
+      "sourceId": "since",
+      "ru": [
+        "с тех пор"
+      ],
+      "gender": null,
+      "example": "Je ne l'ai pas vu depuis qu'il est parti.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "conjunction"
+    },
+    {
+      "id": "verrouille",
+      "word": "verrouillé",
+      "en": "verrouillé",
+      "sourceId": "locked",
+      "ru": [
+        "запертый",
+        "закрытый",
+        "залоченый"
+      ],
+      "gender": null,
+      "example": "La porte est verrouillée.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "pret",
+      "word": "prêt",
+      "en": "prêt",
+      "sourceId": "ready",
+      "ru": [
+        "готовый"
+      ],
+      "gender": null,
+      "example": "Je suis prêt à partir.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "controle",
+      "word": "contrôle",
+      "en": "contrôle",
+      "sourceId": "control",
+      "ru": [
+        "власть",
+        "контроль",
+        "управлять"
+      ],
+      "gender": "m",
+      "example": "Il a perdu le contrôle de sa voiture.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "vivre",
+      "word": "vivre",
+      "en": "vivre",
+      "sourceId": "live",
+      "ru": [
+        "жить"
+      ],
+      "gender": null,
+      "example": "Je veux vivre en ville.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "libre",
+      "word": "libre",
+      "en": "libre",
+      "sourceId": "free",
+      "ru": [
+        "свободный",
+        "вольный",
+        "бесплатно"
+      ],
+      "gender": null,
+      "example": "Il est enfin libre de faire ce qu'il veut.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "choisir",
+      "word": "choisir",
+      "en": "choisir",
+      "sourceId": "choose",
+      "ru": [
+        "выбирать"
+      ],
+      "gender": null,
+      "example": "Veuillez choisir une couleur.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "hair",
+      "word": "haïr",
+      "en": "haïr",
+      "sourceId": "hate",
+      "ru": [
+        "ненавидеть"
+      ],
+      "gender": null,
+      "example": "Je hais le mensonge.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "difficile",
+      "word": "difficile",
+      "en": "difficile",
+      "sourceId": "rough",
+      "ru": [
+        "трудный",
+        "тяжёлый",
+        "суровый"
+      ],
+      "gender": null,
+      "example": "La vie est parfois difficile.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "faire",
+      "word": "faire",
+      "en": "faire",
+      "sourceId": "make",
+      "ru": [
+        "делать",
+        "изготавливать"
+      ],
+      "gender": null,
+      "example": "Je fais le petit-déjeuner tous les jours.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "entrer",
+      "word": "entrer",
+      "en": "entrer",
+      "sourceId": "enter",
+      "ru": [
+        "входить"
+      ],
+      "gender": null,
+      "example": "Entrez doucement dans la pièce.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "action",
+      "word": "action",
+      "en": "action",
+      "sourceId": "doing",
+      "ru": [
+        "действие",
+        "дело",
+        "деяние"
+      ],
+      "gender": "f",
+      "example": "Il est fier de son action.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "drole",
+      "word": "drôle",
+      "en": "drôle",
+      "sourceId": "funny",
+      "ru": [
+        "забавный",
+        "прикольный",
+        "смешной"
+      ],
+      "gender": null,
+      "example": "C'est une histoire très drôle.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "traduire",
+      "word": "traduire",
+      "en": "traduire",
+      "sourceId": "translate",
+      "ru": [
+        "перевести",
+        "переводить"
+      ],
+      "gender": null,
+      "example": "Il faut traduire ce texte en français.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "terre",
+      "word": "terre",
+      "en": "terre",
+      "sourceId": "land",
+      "ru": [
+        "земля",
+        "земли",
+        "суша"
+      ],
+      "gender": "f",
+      "example": "Ces terres vous saluent.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "atterrir",
+      "word": "atterrir",
+      "en": "atterrir",
+      "sourceId": "land--verbs",
+      "ru": [
+        "приземляться"
+      ],
+      "gender": null,
+      "example": "Je viens d'atterrir.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "tout-le-monde",
+      "word": "tout le monde",
+      "en": "tout le monde",
+      "sourceId": "everyone",
+      "ru": [
+        "все",
+        "всякий",
+        "каждый"
+      ],
+      "gender": null,
+      "example": "Tout le monde est arrivé à l'heure.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "bienvenu",
+      "word": "bienvenu",
+      "en": "bienvenu",
+      "sourceId": "welcome",
+      "ru": [
+        "желанный",
+        "добро пожаловать",
+        "приветствовать"
+      ],
+      "gender": null,
+      "example": "Vous êtes le bienvenu ici.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "academie",
+      "word": "académie",
+      "en": "académie",
+      "sourceId": "academy",
+      "ru": [
+        "школа",
+        "академия",
+        "училище"
+      ],
+      "gender": "f",
+      "example": "Elle étudie à l'académie des beaux-arts.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "remercier",
+      "word": "remercier",
+      "en": "remercier",
+      "sourceId": "thank",
+      "ru": [
+        "благодарить",
+        "поблагодарить"
+      ],
+      "gender": null,
+      "example": "Je veux vous remercier pour votre aide.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "au-revoir",
+      "word": "au revoir",
+      "en": "au revoir",
+      "sourceId": "bye",
+      "ru": [
+        "бай-бай",
+        "пока",
+        "увидеться"
+      ],
+      "gender": null,
+      "example": "Au revoir, à demain !",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "interjection"
+    },
+    {
+      "id": "circulation",
+      "word": "circulation",
+      "en": "circulation",
+      "sourceId": "traffic",
+      "ru": [
+        "движение",
+        "трафик",
+        "торговля"
+      ],
+      "gender": "f",
+      "example": "La circulation est dense ce matin.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "terrible",
+      "word": "terrible",
+      "en": "terrible",
+      "sourceId": "terrible",
+      "ru": [
+        "жуткий",
+        "страшный",
+        "ужасный"
+      ],
+      "gender": null,
+      "example": "Il fait un temps terrible aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "precoce",
+      "word": "précoce",
+      "en": "précoce",
+      "sourceId": "early",
+      "ru": [
+        "ранний",
+        "рано"
+      ],
+      "gender": null,
+      "example": "Il a un talent précoce pour la musique.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "matin",
+      "word": "matin",
+      "en": "matin",
+      "sourceId": "morning",
+      "ru": [
+        "утро",
+        "время до полудня",
+        "дополуденное время"
+      ],
+      "gender": "m",
+      "example": "Je bois du thé chaque matin.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "bebe",
+      "word": "bébé",
+      "en": "bébé",
+      "sourceId": "baby",
+      "ru": [
+        "ребёнок",
+        "младенец",
+        "беби"
+      ],
+      "gender": "m",
+      "example": "Le bébé dort paisiblement dans son berceau.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "demander",
+      "word": "demander",
+      "en": "demander",
+      "sourceId": "ask",
+      "ru": [
+        "спрашивать",
+        "просить"
+      ],
+      "gender": null,
+      "example": "Tu peux demander quelque chose.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "faux",
+      "word": "faux",
+      "en": "faux",
+      "sourceId": "wrong",
+      "ru": [
+        "не тот",
+        "неверный",
+        "неправильный"
+      ],
+      "gender": null,
+      "example": "C'est la mauvaise réponse, elle est fausse.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "repondre",
+      "word": "répondre",
+      "en": "répondre",
+      "sourceId": "answer",
+      "ru": [
+        "отвечать"
+      ],
+      "gender": null,
+      "example": "Veuillez répondre à la question.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "boisson",
+      "word": "boisson",
+      "en": "boisson",
+      "sourceId": "drink",
+      "ru": [
+        "пить"
+      ],
+      "gender": "f",
+      "example": "L'eau est la meilleure boisson.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plusieurs",
+      "word": "plusieurs",
+      "en": "plusieurs",
+      "sourceId": "several",
+      "ru": [
+        "некоторый",
+        "несколько",
+        "различный"
+      ],
+      "gender": null,
+      "example": "J'ai plusieurs idées pour ce projet.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "determiner"
+    },
+    {
+      "id": "fois",
+      "word": "fois",
+      "en": "fois",
+      "sourceId": "times",
+      "ru": [
+        "на"
+      ],
+      "gender": null,
+      "example": "Deux fois trois font six.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "preposition"
+    },
+    {
+      "id": "an",
+      "word": "an",
+      "en": "an",
+      "sourceId": "year",
+      "ru": [
+        "год",
+        "лет",
+        "година"
+      ],
+      "gender": "m",
+      "example": "Il a vingt ans.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "necessaire",
+      "word": "nécessaire",
+      "en": "nécessaire",
+      "sourceId": "necessary",
+      "ru": [
+        "необходимый",
+        "нужный",
+        "неизбежный"
+      ],
+      "gender": null,
+      "example": "Il est nécessaire de partir tôt.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "personne",
+      "word": "personne",
+      "en": "personne",
+      "sourceId": "person",
+      "ru": [
+        "личность",
+        "особа",
+        "персона"
+      ],
+      "gender": "f",
+      "example": "C'est une personne très gentille.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "desactive",
+      "word": "désactivé",
+      "en": "désactivé",
+      "sourceId": "disabled",
+      "ru": [
+        "деактивированный",
+        "инвалидный",
+        "отключенный"
+      ],
+      "gender": null,
+      "example": "Le compte utilisateur est désactivé.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "fonder",
+      "word": "fonder",
+      "en": "fonder",
+      "sourceId": "found",
+      "ru": [
+        "основывать",
+        "основать",
+        "учредить"
+      ],
+      "gender": null,
+      "example": "Ils ont décidé de fonder une nouvelle entreprise.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "apparence",
+      "word": "apparence",
+      "en": "apparence",
+      "sourceId": "looks",
+      "ru": [
+        "внешность",
+        "наружность"
+      ],
+      "gender": "f",
+      "example": "Elle soigne beaucoup son apparence.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "la",
+      "word": "là",
+      "en": "là",
+      "sourceId": "there",
+      "ru": [
+        "есть",
+        "иметься",
+        "там"
+      ],
+      "gender": null,
+      "example": "Il est là-bas.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "continuer",
+      "word": "continuer",
+      "en": "continuer",
+      "sourceId": "continue",
+      "ru": [
+        "продолжать"
+      ],
+      "gender": null,
+      "example": "Veuillez continuer.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "cote",
+      "word": "côté",
+      "en": "côté",
+      "sourceId": "side",
+      "ru": [
+        "бок",
+        "сторона"
+      ],
+      "gender": "m",
+      "example": "Il s'est assis à mes côtés.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "copie",
+      "word": "copie",
+      "en": "copie",
+      "sourceId": "copy",
+      "ru": [
+        "копия",
+        "дубликат",
+        "подделка"
+      ],
+      "gender": "f",
+      "example": "J'ai fait une copie du document.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "soi-meme",
+      "word": "soi-même",
+      "en": "soi-même",
+      "sourceId": "itself",
+      "ru": [
+        "ся",
+        "оно само",
+        "сам себя"
+      ],
+      "gender": null,
+      "example": "Le chat se nettoie lui-même.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "miroir",
+      "word": "miroir",
+      "en": "miroir",
+      "sourceId": "mirror",
+      "ru": [
+        "зеркало",
+        "зерцало",
+        "дубликат"
+      ],
+      "gender": "m",
+      "example": "Elle se regarde dans le miroir.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "peau",
+      "word": "peau",
+      "en": "peau",
+      "sourceId": "hide",
+      "ru": [
+        "кожа",
+        "шкура",
+        "прятать"
+      ],
+      "gender": "f",
+      "example": "Le chasseur a tanné la peau de l'animal.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "entree",
+      "word": "entrée",
+      "en": "entrée",
+      "sourceId": "entrance",
+      "ru": [
+        "вход",
+        "вхождение",
+        "въезд"
+      ],
+      "gender": "f",
+      "example": "L'entrée du musée se trouve au bout de la rue.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "marcher",
+      "word": "marcher",
+      "en": "marcher",
+      "sourceId": "walk",
+      "ru": [
+        "ходить",
+        "гулять"
+      ],
+      "gender": null,
+      "example": "Je dois marcher jusqu'à l'école.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "office",
+      "word": "office",
+      "en": "office",
+      "sourceId": "office",
+      "ru": [
+        "обряд",
+        "служба",
+        "пост"
+      ],
+      "gender": "m",
+      "example": "Il assiste à l'office religieux tous les dimanches.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "enorme",
+      "word": "énorme",
+      "en": "énorme",
+      "sourceId": "huge",
+      "ru": [
+        "громадный",
+        "здоровенный",
+        "огромный"
+      ],
+      "gender": null,
+      "example": "Il a mangé une énorme part de gâteau.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "deplacer",
+      "word": "déplacer",
+      "en": "déplacer",
+      "sourceId": "move",
+      "ru": [
+        "двигаться",
+        "переезжать"
+      ],
+      "gender": null,
+      "example": "Veuillez déplacer votre voiture.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "realiser",
+      "word": "réaliser",
+      "en": "réaliser",
+      "sourceId": "realize",
+      "ru": [
+        "осознавать",
+        "понимать"
+      ],
+      "gender": null,
+      "example": "Je réalise mon erreur.",
+      "exampleTranslated": true,
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "rien",
+      "word": "rien",
+      "en": "rien",
+      "sourceId": "nothing",
+      "ru": [
+        "ничто",
+        "ничего"
+      ],
+      "gender": null,
+      "example": "Je ne vois rien.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "sens",
+      "word": "sens",
+      "en": "sens",
+      "sourceId": "sense",
+      "ru": [
+        "чувство",
+        "чувствовать",
+        "ощущение"
+      ],
+      "gender": "m",
+      "example": "Il a un bon sens de l'orientation.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chien",
+      "word": "chien",
+      "en": "chien",
+      "sourceId": "dog",
+      "ru": [
+        "собака",
+        "пёс",
+        "псина"
+      ],
+      "gender": "m",
+      "example": "Mon chien aime courir dans le parc.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "dessiner",
+      "word": "dessiner",
+      "en": "dessiner",
+      "sourceId": "draw",
+      "ru": [
+        "рисовать"
+      ],
+      "gender": null,
+      "example": "Il faut dessiner un cercle.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "detail",
+      "word": "détail",
+      "en": "détail",
+      "sourceId": "detail",
+      "ru": [
+        "деталь",
+        "подробность",
+        "тонкость"
+      ],
+      "gender": "m",
+      "example": "Il a expliqué le projet dans les moindres détails.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "en": "distance",
+      "sourceId": "distance",
+      "ru": [
+        "расстояние",
+        "дистанция",
+        "отдалённость"
+      ],
+      "gender": "f",
+      "example": "La distance entre Paris et Lyon est d'environ 400 kilomètres.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "poker",
+      "word": "poker",
+      "en": "poker",
+      "sourceId": "poker",
+      "ru": [
+        "кочерга",
+        "покер"
+      ],
+      "gender": "m",
+      "example": "Il joue au poker avec ses amis tous les vendredis.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "visage",
+      "word": "visage",
+      "en": "visage",
+      "sourceId": "face",
+      "ru": [
+        "лицо",
+        "лик",
+        "ебало"
+      ],
+      "gender": "m",
+      "example": "Elle a un beau visage.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "dangereux",
+      "word": "dangereux",
+      "en": "dangereux",
+      "sourceId": "dangerous",
+      "ru": [
+        "опасный",
+        "рискованный"
+      ],
+      "gender": null,
+      "example": "Il est dangereux de traverser la rue ici.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "metro",
+      "word": "métro",
+      "en": "métro",
+      "sourceId": "subway",
+      "ru": [
+        "метро",
+        "метрополитен",
+        "подземка"
+      ],
+      "gender": "m",
+      "example": "Je prends le métro pour aller au travail.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "systeme",
+      "word": "système",
+      "en": "système",
+      "sourceId": "system",
+      "ru": [
+        "система"
+      ],
+      "gender": "m",
+      "example": "Ce nouveau système est très efficace.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "centaine",
+      "word": "centaine",
+      "en": "centaine",
+      "sourceId": "hundred",
+      "ru": [
+        "сотенная",
+        "сотня",
+        "стодолларовка"
+      ],
+      "gender": "f",
+      "example": "Il y a une centaine de personnes dans la salle.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parfois",
+      "word": "parfois",
+      "en": "parfois",
+      "sourceId": "sometimes",
+      "ru": [
+        "иногда",
+        "временами",
+        "подчас"
+      ],
+      "gender": null,
+      "example": "Il va parfois au cinéma le dimanche.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "effraye",
+      "word": "effrayé",
+      "en": "effrayé",
+      "sourceId": "afraid",
+      "ru": [
+        "бояться",
+        "боящийся",
+        "испуганный"
+      ],
+      "gender": null,
+      "example": "L'enfant effrayé se cache derrière sa mère.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "perdu",
+      "word": "perdu",
+      "en": "perdu",
+      "sourceId": "lost",
+      "ru": [
+        "заблудиться",
+        "потерянный",
+        "пропавший"
+      ],
+      "gender": null,
+      "example": "Il est perdu dans la forêt.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "abaisser",
+      "word": "abaisser",
+      "en": "abaisser",
+      "sourceId": "lower",
+      "ru": [
+        "нижний",
+        "опускать",
+        "опустить"
+      ],
+      "gender": null,
+      "example": "Il faut abaisser le rideau.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "niveau",
+      "word": "niveau",
+      "en": "niveau",
+      "sourceId": "level",
+      "ru": [
+        "ровный",
+        "ватерпас",
+        "уровень"
+      ],
+      "gender": "m",
+      "example": "Le niveau de l'eau monte.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "entier",
+      "word": "entier",
+      "en": "entier",
+      "sourceId": "entire",
+      "ru": [
+        "весь",
+        "полный",
+        "целый"
+      ],
+      "gender": null,
+      "example": "J'ai mangé le gâteau entier.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "structure",
+      "word": "structure",
+      "en": "structure",
+      "sourceId": "structure",
+      "ru": [
+        "структура",
+        "структурировать"
+      ],
+      "gender": "f",
+      "example": "La structure de ce bâtiment est impressionnante.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "probablement",
+      "word": "probablement",
+      "en": "probablement",
+      "sourceId": "probably",
+      "ru": [
+        "вероятно",
+        "скорее всего"
+      ],
+      "gender": null,
+      "example": "Elle arrivera probablement bientôt.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "ville",
+      "word": "ville",
+      "en": "ville",
+      "sourceId": "city",
+      "ru": [
+        "город",
+        "град"
+      ],
+      "gender": "f",
+      "example": "Paris est une grande ville.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "carte",
+      "word": "carte",
+      "en": "carte",
+      "sourceId": "map",
+      "ru": [
+        "карта",
+        "план",
+        "пестрокрыльница изменчивая"
+      ],
+      "gender": "f",
+      "example": "Cette carte montre la vieille ville.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "cache",
+      "word": "caché",
+      "en": "caché",
+      "sourceId": "hidden",
+      "ru": [
+        "спрятанный",
+        "потаённый",
+        "скрытый"
+      ],
+      "gender": null,
+      "example": "Il y a un trésor caché dans ce jardin.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "proverbe",
+      "word": "proverbe",
+      "en": "proverbe",
+      "sourceId": "saying",
+      "ru": [
+        "поговорка",
+        "пословица",
+        "присказка"
+      ],
+      "gender": "m",
+      "example": "Il y a un vieux proverbe qui dit que le temps, c'est de l'argent.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "preuve",
+      "word": "preuve",
+      "en": "preuve",
+      "sourceId": "evidence",
+      "ru": [
+        "доказательство",
+        "свидетельство",
+        "улика"
+      ],
+      "gender": "f",
+      "example": "Il n'y a aucune preuve de sa culpabilité.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "serieux",
+      "word": "sérieux",
+      "en": "sérieux",
+      "sourceId": "serious",
+      "ru": [
+        "серьёзный"
+      ],
+      "gender": null,
+      "example": "Il est un étudiant très sérieux.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "dieu",
+      "word": "dieu",
+      "en": "dieu",
+      "sourceId": "god",
+      "ru": [
+        "бог",
+        "божество",
+        "божок"
+      ],
+      "gender": "m",
+      "example": "Il croit en un seul Dieu.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "attendre",
+      "word": "attendre",
+      "en": "attendre",
+      "sourceId": "wait",
+      "ru": [
+        "ждать"
+      ],
+      "gender": null,
+      "example": "Veuillez attendre ici.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "he",
+      "word": "hé",
+      "en": "hé",
+      "sourceId": "hey",
+      "ru": [
+        "эй",
+        "э"
+      ],
+      "gender": null,
+      "example": "Hé, tu m'entends ?",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "demain",
+      "word": "demain",
+      "en": "demain",
+      "sourceId": "tomorrow",
+      "ru": [
+        "завтра"
+      ],
+      "gender": null,
+      "example": "Nous partirons demain.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "paire",
+      "word": "paire",
+      "en": "paire",
+      "sourceId": "two",
+      "ru": [
+        "пара",
+        "двойка",
+        "два"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une paire de chaussures.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "heure",
+      "word": "heure",
+      "en": "heure",
+      "sourceId": "hour",
+      "ru": [
+        "час",
+        "время",
+        "година"
+      ],
+      "gender": "f",
+      "example": "Il est deux heures de l'après-midi.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "heures-supplementaires",
+      "word": "heures supplémentaires",
+      "en": "heures supplémentaires",
+      "sourceId": "overtime",
+      "ru": [
+        "сверхурочно",
+        "сверхурочная работа",
+        "сверхурочное время"
+      ],
+      "gender": "f",
+      "example": "Elle a fait beaucoup d'heures supplémentaires ce mois-ci.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "rechercher",
+      "word": "rechercher",
+      "en": "rechercher",
+      "sourceId": "research",
+      "ru": [
+        "исследование",
+        "исследовать",
+        "расследовать"
+      ],
+      "gender": null,
+      "example": "Les scientifiques vont rechercher un remède contre cette maladie.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "signe",
+      "word": "signe",
+      "en": "signe",
+      "sourceId": "sign",
+      "ru": [
+        "вывеска",
+        "знак",
+        "знамение"
+      ],
+      "gender": "m",
+      "example": "Il a fait un signe de la main pour dire au revoir.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "corde",
+      "word": "corde",
+      "en": "corde",
+      "sourceId": "rope",
+      "ru": [
+        "верёвка"
+      ],
+      "gender": "f",
+      "example": "Attachez la corde à votre précieux destrier.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "approvisionnement",
+      "word": "approvisionnement",
+      "en": "approvisionnement",
+      "sourceId": "supply",
+      "ru": [
+        "поставка",
+        "предложение",
+        "снабжение"
+      ],
+      "gender": "m",
+      "example": "L'approvisionnement en eau est essentiel pour la ville.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "connecter",
+      "word": "connecter",
+      "en": "connecter",
+      "sourceId": "connect",
+      "ru": [
+        "подключать",
+        "подключить",
+        "подсоединить"
+      ],
+      "gender": null,
+      "example": "Il faut connecter l'imprimante à l'ordinateur.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "egalite",
+      "word": "égalité",
+      "en": "égalité",
+      "sourceId": "tie",
+      "ru": [
+        "равный счёт",
+        "ничья",
+        "связь"
+      ],
+      "gender": "f",
+      "example": "Le match s'est terminé sur une égalité.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "nous-memes",
+      "word": "nous-mêmes",
+      "en": "nous-mêmes",
+      "sourceId": "ourselves",
+      "ru": [
+        "себя",
+        "сами"
+      ],
+      "gender": null,
+      "example": "Nous avons préparé le dîner nous-mêmes.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "copain",
+      "word": "copain",
+      "en": "copain",
+      "sourceId": "buddy",
+      "ru": [
+        "друг",
+        "дружок",
+        "дружище"
+      ],
+      "gender": null,
+      "example": "Il est mon meilleur copain.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "materiel",
+      "word": "matériel",
+      "en": "matériel",
+      "sourceId": "material",
+      "ru": [
+        "важный",
+        "материальный",
+        "материал"
+      ],
+      "gender": null,
+      "example": "Il a besoin d'une aide matérielle pour son projet.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "specifique",
+      "word": "spécifique",
+      "en": "spécifique",
+      "sourceId": "specific",
+      "ru": [
+        "явный",
+        "конкретный",
+        "специфический"
+      ],
+      "gender": null,
+      "example": "Ce problème nécessite une solution spécifique.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "esquisse",
+      "word": "esquisse",
+      "en": "esquisse",
+      "sourceId": "sketch",
+      "ru": [
+        "набросок",
+        "скетч",
+        "эскиз"
+      ],
+      "gender": "f",
+      "example": "L'artiste a réalisé une esquisse rapide du paysage.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "fou",
+      "word": "fou",
+      "en": "fou",
+      "sourceId": "crazy",
+      "ru": [
+        "сумасшедший",
+        "безумный",
+        "неадекватный"
+      ],
+      "gender": null,
+      "example": "Il a eu une idée complètement folle.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "suivre",
+      "word": "suivre",
+      "en": "suivre",
+      "sourceId": "follow",
+      "ru": [
+        "следовать",
+        "следить"
+      ],
+      "gender": null,
+      "example": "Il faut suivre les panneaux.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "lever-du-soleil",
+      "word": "lever du soleil",
+      "en": "lever du soleil",
+      "sourceId": "sunrise",
+      "ru": [
+        "(утренняя) заря",
+        "восход солнца",
+        "восход"
+      ],
+      "gender": "m",
+      "example": "Nous nous sommes levés avant le lever du soleil.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "figure",
+      "word": "figure",
+      "en": "figure",
+      "sourceId": "figure",
+      "ru": [
+        "рисунок",
+        "образ",
+        "лицо"
+      ],
+      "gender": "f",
+      "example": "Elle a une belle figure.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "dont",
+      "word": "dont",
+      "en": "dont",
+      "sourceId": "whose",
+      "ru": [
+        "чей",
+        "чейный"
+      ],
+      "gender": null,
+      "example": "C'est l'homme dont la voiture est en panne.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "determiner"
+    },
+    {
+      "id": "a-peine",
+      "word": "à peine",
+      "en": "à peine",
+      "sourceId": "barely",
+      "ru": [
+        "лишь",
+        "еле-еле",
+        "только"
+      ],
+      "gender": null,
+      "example": "Il est à peine arrivé.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "adv"
+    },
+    {
+      "id": "capable",
+      "word": "capable",
+      "en": "capable",
+      "sourceId": "able",
+      "ru": [
+        "в состоянии",
+        "способный",
+        "умелый"
+      ],
+      "gender": null,
+      "example": "Il est capable de résoudre ce problème.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "montrer",
+      "word": "montrer",
+      "en": "montrer",
+      "sourceId": "show",
+      "ru": [
+        "показывать"
+      ],
+      "gender": null,
+      "example": "Veuillez me montrer votre billet.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "toast",
+      "word": "toast",
+      "en": "toast",
+      "sourceId": "toast",
+      "ru": [
+        "тост",
+        "здравица",
+        "поджаривать"
+      ],
+      "gender": "m",
+      "example": "Il a porté un toast en l'honneur des mariés.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "influence",
+      "word": "influence",
+      "en": "influence",
+      "sourceId": "influence",
+      "ru": [
+        "влияние",
+        "влиятельность",
+        "воздействие"
+      ],
+      "gender": "f",
+      "example": "Il a une grande influence sur ses amis.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "medicament",
+      "word": "médicament",
+      "en": "médicament",
+      "sourceId": "drug",
+      "ru": [
+        "лекарство",
+        "дурь",
+        "наркотик"
+      ],
+      "gender": "m",
+      "example": "Il doit prendre ce médicament tous les matins.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "nombre",
+      "word": "nombre",
+      "en": "nombre",
+      "sourceId": "count",
+      "ru": [
+        "считать",
+        "подсчитывать"
+      ],
+      "gender": "m",
+      "example": "Ne sous-estimez pas le nombre des Verseaux.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vide",
+      "word": "vide",
+      "en": "vide",
+      "sourceId": "empty",
+      "ru": [
+        "пустой",
+        "порожний",
+        "опустошать"
+      ],
+      "gender": null,
+      "example": "La bouteille est vide.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "pierre",
+      "word": "pierre",
+      "en": "pierre",
+      "sourceId": "stone",
+      "ru": [
+        "камень",
+        "каменный",
+        "драгоценный камень"
+      ],
+      "gender": "f",
+      "example": "Il a lancé une pierre dans la rivière.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "construction",
+      "word": "construction",
+      "en": "construction",
+      "sourceId": "construction",
+      "ru": [
+        "конструкция",
+        "построение",
+        "сооружение"
+      ],
+      "gender": "f",
+      "example": "La construction de ce bâtiment a duré deux ans.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "travailleur",
+      "word": "travailleur",
+      "en": "travailleur",
+      "sourceId": "worker",
+      "ru": [
+        "рабочий",
+        "работник",
+        "работница"
+      ],
+      "gender": "m",
+      "example": "Le travailleur est arrivé tôt ce matin.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "piscine",
+      "word": "piscine",
+      "en": "piscine",
+      "sourceId": "pool",
+      "ru": [
+        "лужа",
+        "пул",
+        "фонд"
+      ],
+      "gender": "f",
+      "example": "Nous allons nager à la piscine.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ouais",
+      "word": "ouais",
+      "en": "ouais",
+      "sourceId": "yeah",
+      "ru": [
+        "да!",
+        "е!",
+        "ура!"
+      ],
+      "gender": null,
+      "example": "Ouais, on y va !",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "dernier",
+      "word": "dernier",
+      "en": "dernier",
+      "sourceId": "last",
+      "ru": [
+        "последний",
+        "завершающий",
+        "заключительный"
+      ],
+      "gender": null,
+      "example": "C'est le dernier train de la soirée.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "etude",
+      "word": "étude",
+      "en": "étude",
+      "sourceId": "studying",
+      "ru": [
+        "изучение",
+        "исследование",
+        "обучение"
+      ],
+      "gender": "f",
+      "example": "L'étude de cette langue demande beaucoup de temps.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "venir",
+      "word": "venir",
+      "en": "venir",
+      "sourceId": "come",
+      "ru": [
+        "приходить"
+      ],
+      "gender": null,
+      "example": "Veuillez venir ici, s'il vous plaît.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "tournage",
+      "word": "tournage",
+      "en": "tournage",
+      "sourceId": "filming",
+      "ru": [
+        "киносъёмка",
+        "съёмка"
+      ],
+      "gender": "m",
+      "example": "Le tournage du film a duré trois mois.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bien-portant",
+      "word": "bien portant",
+      "en": "bien portant",
+      "sourceId": "well",
+      "ru": [
+        "здоровый",
+        "хорошо",
+        "как следует"
+      ],
+      "gender": null,
+      "example": "Il est en bonne santé et se sent bien portant.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "couper",
+      "word": "couper",
+      "en": "couper",
+      "sourceId": "cut",
+      "ru": [
+        "резать"
+      ],
+      "gender": null,
+      "example": "Il faut couper le papier avec précaution.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "beau",
+      "word": "beau",
+      "en": "beau",
+      "sourceId": "beautiful",
+      "ru": [
+        "красивый",
+        "лепый",
+        "прекрасный"
+      ],
+      "gender": null,
+      "example": "C'est un très beau paysage.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "merveille",
+      "word": "merveille",
+      "en": "merveille",
+      "sourceId": "wonder",
+      "ru": [
+        "удивление",
+        "диво",
+        "чудо"
+      ],
+      "gender": "f",
+      "example": "C'est une merveille de la nature.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "stupide",
+      "word": "stupide",
+      "en": "stupide",
+      "sourceId": "stupid",
+      "ru": [
+        "глупый",
+        "дурной",
+        "неумный"
+      ],
+      "gender": null,
+      "example": "C'est une idée stupide.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "aimer",
+      "word": "aimer",
+      "en": "aimer",
+      "sourceId": "love",
+      "ru": [
+        "любить"
+      ],
+      "gender": null,
+      "example": "J'aime cet endroit.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "lent",
+      "word": "lent",
+      "en": "lent",
+      "sourceId": "slow",
+      "ru": [
+        "медленный",
+        "замедлять"
+      ],
+      "gender": null,
+      "example": "Il marche d'un pas lent.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "peu",
+      "word": "peu",
+      "en": "peu",
+      "sourceId": "bit",
+      "ru": [
+        "немного"
+      ],
+      "gender": "m",
+      "example": "J'ai un peu faim.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "goutte",
+      "word": "goutte",
+      "en": "goutte",
+      "sourceId": "drop",
+      "ru": [
+        "капля",
+        "драже",
+        "леденец"
+      ],
+      "gender": "f",
+      "example": "Il y a une goutte d'eau sur la table.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "peu-importe",
+      "word": "peu importe",
+      "en": "peu importe",
+      "sourceId": "whatever",
+      "ru": [
+        "без разницы"
+      ],
+      "gender": null,
+      "example": "Peu importe ce que tu penses, je vais y aller.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "preposition"
+    },
+    {
+      "id": "waouh",
+      "word": "waouh",
+      "en": "waouh",
+      "sourceId": "wow",
+      "ru": [
+        "вау",
+        "ура",
+        "ух ты"
+      ],
+      "gender": null,
+      "example": "Waouh, c'est magnifique !",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "triste",
+      "word": "triste",
+      "en": "triste",
+      "sourceId": "sad",
+      "ru": [
+        "грустный",
+        "печальный",
+        "скорбный"
+      ],
+      "gender": null,
+      "example": "Il est très triste aujourd'hui.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "jambe",
+      "word": "jambe",
+      "en": "jambe",
+      "sourceId": "leg",
+      "ru": [
+        "нога",
+        "ножка"
+      ],
+      "gender": "f",
+      "example": "Il s'est cassé la jambe en jouant au football.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "telechargement",
+      "word": "téléchargement",
+      "en": "téléchargement",
+      "sourceId": "download",
+      "ru": [
+        "скачивание",
+        "даунлоуд",
+        "скачка"
+      ],
+      "gender": "m",
+      "example": "Le téléchargement du fichier est terminé.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "charge",
+      "word": "charge",
+      "en": "charge",
+      "sourceId": "load",
+      "ru": [
+        "груз",
+        "нагрузка",
+        "грузить"
+      ],
+      "gender": "f",
+      "example": "La voiture supporte une lourde charge.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vetement",
+      "word": "vêtement",
+      "en": "vêtement",
+      "sourceId": "clothes",
+      "ru": [
+        "одежда",
+        "одёжа"
+      ],
+      "gender": "m",
+      "example": "Il porte des vêtements chauds en hiver.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "infime",
+      "word": "infime",
+      "en": "infime",
+      "sourceId": "minute",
+      "ru": [
+        "мелкий",
+        "мельчайший",
+        "незначительный"
+      ],
+      "gender": null,
+      "example": "Il y a une différence infime entre ces deux couleurs.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "verifier",
+      "word": "vérifier",
+      "en": "vérifier",
+      "sourceId": "check",
+      "ru": [
+        "проверять"
+      ],
+      "gender": null,
+      "example": "Veuillez vérifier votre e-mail.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "tirer",
+      "word": "tirer",
+      "en": "tirer",
+      "sourceId": "pull",
+      "ru": [
+        "тянуть"
+      ],
+      "gender": null,
+      "example": "Il faut tirer la porte.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "respirer",
+      "word": "respirer",
+      "en": "respirer",
+      "sourceId": "breathe",
+      "ru": [
+        "дышать",
+        "вдохнуть",
+        "вдыхать"
+      ],
+      "gender": null,
+      "example": "Il est difficile de respirer dans cette pièce.",
+      "exampleTranslated": false,
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "holding",
+      "word": "holding",
+      "en": "holding",
+      "sourceId": "holding",
+      "ru": [
+        "владение",
+        "холдинг",
+        "судебное решение"
+      ],
+      "gender": "m",
+      "example": "Cette entreprise possède un vaste holding financier.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "liberation",
+      "word": "libération",
+      "en": "libération",
+      "sourceId": "release",
+      "ru": [
+        "освобождение",
+        "версия",
+        "выпуск"
+      ],
+      "gender": "f",
+      "example": "La libération des otages a été annoncée ce matin.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "rester",
+      "word": "rester",
+      "en": "rester",
+      "sourceId": "stay",
+      "ru": [
+        "оставаться"
+      ],
+      "gender": null,
+      "example": "Tu peux rester avec nous ce soir.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "manivelle",
+      "word": "poignée",
+      "en": "poignée",
+      "sourceId": "handle--supplies",
+      "ru": [
+        "ручка",
+        "рукоятка",
+        "рукоять"
+      ],
+      "gender": "f",
+      "example": "La poignée de la valise est cassée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pensee",
+      "word": "pensée",
+      "en": "pensée",
+      "sourceId": "thinking",
+      "ru": [
+        "мышление"
+      ],
+      "gender": "f",
+      "example": "La pensée critique est essentielle pour résoudre ce problème.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "partout",
+      "word": "partout",
+      "en": "partout",
+      "sourceId": "everywhere",
+      "ru": [
+        "везде",
+        "всюду",
+        "повсюду"
+      ],
+      "gender": null,
+      "example": "Il y a des fleurs partout dans le jardin.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "atteindre",
+      "word": "atteindre",
+      "en": "atteindre",
+      "sourceId": "reach",
+      "ru": [
+        "достигать",
+        "добираться"
+      ],
+      "gender": null,
+      "example": "Nous avons atteint la gare.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "message",
+      "word": "message",
+      "en": "message",
+      "sourceId": "message",
+      "ru": [
+        "сообщение",
+        "СМС",
+        "месседж"
+      ],
+      "gender": "m",
+      "example": "J'ai reçu un message de mon ami.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "bientot",
+      "word": "bientôt",
+      "en": "bientôt",
+      "sourceId": "soon",
+      "ru": [
+        "скоро",
+        "вскоре"
+      ],
+      "gender": null,
+      "example": "Je te verrai bientôt.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "ouvert",
+      "word": "ouvert",
+      "en": "ouvert",
+      "sourceId": "opened",
+      "ru": [
+        "открытый"
+      ],
+      "gender": null,
+      "example": "Le magasin est ouvert.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "regle",
+      "word": "règle",
+      "en": "règle",
+      "sourceId": "rule",
+      "ru": [
+        "правило",
+        "господство",
+        "правление"
+      ],
+      "gender": "f",
+      "example": "Il faut respecter les règles du jeu.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "offrir",
+      "word": "offrir",
+      "en": "offrir",
+      "sourceId": "offer",
+      "ru": [
+        "предлагать"
+      ],
+      "gender": null,
+      "example": "Ils offrent une réduction.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "opportunite",
+      "word": "opportunité",
+      "en": "opportunité",
+      "sourceId": "opportunity",
+      "ru": [
+        "возможность",
+        "шанс",
+        "удобный случай"
+      ],
+      "gender": "f",
+      "example": "C'est une excellente opportunité pour apprendre le français.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "incroyable",
+      "word": "incroyable",
+      "en": "incroyable",
+      "sourceId": "amazing",
+      "ru": [
+        "восхитительный",
+        "изумительный",
+        "поразительный"
+      ],
+      "gender": null,
+      "example": "C'est une vue incroyable.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "long",
+      "word": "long",
+      "en": "long",
+      "sourceId": "long",
+      "ru": [
+        "длинный",
+        "долгий",
+        "далеко"
+      ],
+      "gender": null,
+      "example": "Ce chemin est très long.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "boucle",
+      "word": "boucle",
+      "en": "boucle",
+      "sourceId": "loop",
+      "ru": [
+        "петля",
+        "схема",
+        "цепь"
+      ],
+      "gender": "f",
+      "example": "Il a fait une boucle avec la corde.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "trainer",
+      "word": "traîner",
+      "en": "traîner",
+      "sourceId": "drag",
+      "ru": [
+        "тянуть",
+        "тащить",
+        "волочить"
+      ],
+      "gender": null,
+      "example": "Il a dû traîner sa valise lourde jusqu'à la gare.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "cercle",
+      "word": "cercle",
+      "en": "cercle",
+      "sourceId": "circle",
+      "ru": [
+        "круг",
+        "окружность",
+        "диск"
+      ],
+      "gender": "m",
+      "example": "Il a dessiné un cercle parfait sur la feuille.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cependant",
+      "word": "cependant",
+      "en": "cependant",
+      "sourceId": "however",
+      "ru": [
+        "однако",
+        "тем не менее"
+      ],
+      "gender": null,
+      "example": "Il pleuvait, nous sommes cependant sortis.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "enfance",
+      "word": "enfance",
+      "en": "enfance",
+      "sourceId": "childhood",
+      "ru": [
+        "детство"
+      ],
+      "gender": "f",
+      "example": "J'ai passé mon enfance à la campagne.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "reel",
+      "word": "réel",
+      "en": "réel",
+      "sourceId": "real",
+      "ru": [
+        "настоящий",
+        "действительный",
+        "истинный"
+      ],
+      "gender": null,
+      "example": "C'est un danger réel.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "desordre",
+      "word": "désordre",
+      "en": "désordre",
+      "sourceId": "mess",
+      "ru": [
+        "бардак",
+        "беспорядок",
+        "кавардак"
+      ],
+      "gender": "m",
+      "example": "Il y a un grand désordre dans sa chambre.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "rappeler",
+      "word": "rappeler",
+      "en": "rappeler",
+      "sourceId": "remind",
+      "ru": [
+        "напоминать"
+      ],
+      "gender": null,
+      "example": "Rappelle-lui ce qu'est l'amour.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "moins",
+      "word": "moins",
+      "en": "moins",
+      "sourceId": "less",
+      "ru": [
+        "меньше",
+        "менее"
+      ],
+      "gender": null,
+      "example": "Il travaille moins que son frère.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "se-souvenir",
+      "word": "se souvenir",
+      "en": "se souvenir",
+      "sourceId": "remember",
+      "ru": [
+        "помнить"
+      ],
+      "gender": null,
+      "example": "Souviens-toi de mon nom.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "bande",
+      "word": "bande",
+      "en": "bande",
+      "sourceId": "strip",
+      "ru": [
+        "полоска",
+        "полоса",
+        "снимать"
+      ],
+      "gender": "f",
+      "example": "Il a mis une bande adhésive sur la coupure.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chemise",
+      "word": "chemise",
+      "en": "chemise",
+      "sourceId": "shirt",
+      "ru": [
+        "рубашка",
+        "сорочка"
+      ],
+      "gender": "f",
+      "example": "Il porte une chemise blanche.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "quelque-part",
+      "word": "quelque part",
+      "en": "quelque part",
+      "sourceId": "somewhere",
+      "ru": [
+        "где-нибудь",
+        "где-то",
+        "куда-нибудь"
+      ],
+      "gender": null,
+      "example": "J'ai laissé mes clés quelque part dans la maison.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "eux-memes",
+      "word": "eux-mêmes",
+      "en": "eux-mêmes",
+      "sourceId": "themselves",
+      "ru": [
+        "себя",
+        "они сами"
+      ],
+      "gender": null,
+      "example": "Ils ont fait le travail eux-mêmes.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "avance",
+      "word": "avancé",
+      "en": "avancé",
+      "sourceId": "advanced",
+      "ru": [
+        "передовой",
+        "продвинутый"
+      ],
+      "gender": null,
+      "example": "Il suit un cours de français avancé.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "original",
+      "word": "original",
+      "en": "original",
+      "sourceId": "original",
+      "ru": [
+        "первоначальный",
+        "исходный",
+        "оригинальный"
+      ],
+      "gender": null,
+      "example": "C'est une idée originale.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "pensee",
+      "word": "pensée",
+      "en": "pensée",
+      "sourceId": "thought",
+      "ru": [
+        "мысль",
+        "дума",
+        "идея"
+      ],
+      "gender": "f",
+      "example": "Il est plongé dans ses pensées.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "douleur",
+      "word": "douleur",
+      "en": "douleur",
+      "sourceId": "pain",
+      "ru": [
+        "боль",
+        "мука",
+        "страдание"
+      ],
+      "gender": "f",
+      "example": "Elle ressent une vive douleur dans le dos.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "peur",
+      "word": "peur",
+      "en": "peur",
+      "sourceId": "fear",
+      "ru": [
+        "страх",
+        "боязнь",
+        "опасение"
+      ],
+      "gender": "f",
+      "example": "Il a peur du noir.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "simplement",
+      "word": "simplement",
+      "en": "simplement",
+      "sourceId": "simply",
+      "ru": [
+        "просто",
+        "попросту",
+        "только"
+      ],
+      "gender": null,
+      "example": "C'est simplement une question de temps.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "exister",
+      "word": "exister",
+      "en": "exister",
+      "sourceId": "exist",
+      "ru": [
+        "существовать"
+      ],
+      "gender": null,
+      "example": "Des problèmes continuent d'exister.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "meilleur",
+      "word": "meilleur",
+      "en": "meilleur",
+      "sourceId": "best",
+      "ru": [
+        "лучший",
+        "наилучший",
+        "всё возможное"
+      ],
+      "gender": null,
+      "example": "C'est le meilleur film que j'ai jamais vu.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "manger",
+      "word": "manger",
+      "en": "manger",
+      "sourceId": "eat",
+      "ru": [
+        "есть"
+      ],
+      "gender": null,
+      "example": "Il faut manger plus de légumes.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "assistant",
+      "word": "assistant",
+      "en": "assistant",
+      "sourceId": "assistant",
+      "ru": [
+        "вспомогательный",
+        "ассистент",
+        "ассистентка"
+      ],
+      "gender": "m",
+      "example": "Mon assistant m'aide à organiser mon emploi du temps.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "directeur",
+      "word": "directeur",
+      "en": "directeur",
+      "sourceId": "manager",
+      "ru": [
+        "менеджер",
+        "директор",
+        "директриса"
+      ],
+      "gender": "m",
+      "example": "Le directeur de l'entreprise organise une réunion.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "courir",
+      "word": "courir",
+      "en": "courir",
+      "sourceId": "run",
+      "ru": [
+        "бегать"
+      ],
+      "gender": null,
+      "example": "Je vais courir le matin.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "poulet",
+      "word": "poulet",
+      "en": "poulet",
+      "sourceId": "chicken",
+      "ru": [
+        "курица",
+        "цыплёнок",
+        "курятина"
+      ],
+      "gender": "m",
+      "example": "Nous mangeons du poulet pour le dîner.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "principal",
+      "word": "principal",
+      "en": "principal",
+      "sourceId": "head",
+      "ru": [
+        "голова",
+        "головной",
+        "главный"
+      ],
+      "gender": null,
+      "example": "C'est la raison principale de son départ.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "fin",
+      "word": "fin",
+      "en": "fin",
+      "sourceId": "end",
+      "ru": [
+        "конец",
+        "смерть",
+        "край"
+      ],
+      "gender": "f",
+      "example": "C'est la fin du film.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "en": "route",
+      "sourceId": "road",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "gender": "f",
+      "example": "La route est longue.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "vraiment",
+      "word": "vraiment",
+      "en": "vraiment",
+      "sourceId": "really",
+      "ru": [
+        "действительно",
+        "правда",
+        "да?"
+      ],
+      "gender": null,
+      "example": "Tu as gagné le concours ? Vraiment ?",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "interjection"
+    },
+    {
+      "id": "rapide",
+      "word": "rapide",
+      "en": "rapide",
+      "sourceId": "fast",
+      "ru": [
+        "крепкий",
+        "прочный",
+        "скорый"
+      ],
+      "gender": null,
+      "example": "Il court très rapide.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "dormir",
+      "word": "dormir",
+      "en": "dormir",
+      "sourceId": "sleep",
+      "ru": [
+        "спать"
+      ],
+      "gender": null,
+      "example": "Les enfants ont besoin de suffisamment de sommeil.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "deviner",
+      "word": "deviner",
+      "en": "deviner",
+      "sourceId": "guess",
+      "ru": [
+        "догадка",
+        "гадать",
+        "догадываться"
+      ],
+      "gender": null,
+      "example": "Je ne peux pas deviner ce qu'il pense.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "inventaire",
+      "word": "inventaire",
+      "en": "inventaire",
+      "sourceId": "inventory",
+      "ru": [
+        "запас",
+        "инвентарь",
+        "опись"
+      ],
+      "gender": "m",
+      "example": "Nous devons faire l'inventaire de nos stocks avant la fin du mois.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "femme",
+      "word": "femme",
+      "en": "femme",
+      "sourceId": "wife",
+      "ru": [
+        "жена",
+        "жёнка",
+        "супруга"
+      ],
+      "gender": "f",
+      "example": "Ma femme travaille dans un hôpital.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "agacant",
+      "word": "agaçant",
+      "en": "agaçant",
+      "sourceId": "annoying",
+      "ru": [
+        "раздражающий"
+      ],
+      "gender": null,
+      "example": "Le petit et agaçant.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "raison",
+      "word": "raison",
+      "en": "raison",
+      "sourceId": "reason",
+      "ru": [
+        "основание",
+        "повод",
+        "причина"
+      ],
+      "gender": "f",
+      "example": "Il y a une bonne raison pour son absence.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "boisson",
+      "word": "boisson",
+      "en": "boisson",
+      "sourceId": "drinking",
+      "ru": [
+        "питьё"
+      ],
+      "gender": "f",
+      "example": "Il a besoin d'une boisson fraîche.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "colere",
+      "word": "colère",
+      "en": "colère",
+      "sourceId": "anger",
+      "ru": [
+        "злость",
+        "гнев",
+        "злоба"
+      ],
+      "gender": "f",
+      "example": "Il a crié de colère.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "attaque",
+      "word": "attaque",
+      "en": "attaque",
+      "sourceId": "attack",
+      "ru": [
+        "нападение",
+        "атака",
+        "наступление"
+      ],
+      "gender": "f",
+      "example": "L'attaque a eu lieu pendant la nuit.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cerveau",
+      "word": "cerveau",
+      "en": "cerveau",
+      "sourceId": "brain",
+      "ru": [
+        "мозг",
+        "голова",
+        "башка"
+      ],
+      "gender": "m",
+      "example": "Le cerveau est l'organe central du système nerveux.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nature",
+      "word": "nature",
+      "en": "nature",
+      "sourceId": "nature",
+      "ru": [
+        "природа",
+        "натура",
+        "сущность"
+      ],
+      "gender": "f",
+      "example": "J'aime passer du temps dans la nature.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "honnetement",
+      "word": "honnêtement",
+      "en": "honnêtement",
+      "sourceId": "honestly",
+      "ru": [
+        "честно говоря"
+      ],
+      "gender": null,
+      "example": "Honnêtement, je n'en ai aucune idée, AQ.",
+      "exampleTranslated": true,
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "idee",
+      "word": "idée",
+      "en": "idée",
+      "sourceId": "idea",
+      "ru": [
+        "идея",
+        "мысль"
+      ],
+      "gender": "f",
+      "example": "C'est une excellente idée.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "dur",
+      "word": "dur",
+      "en": "dur",
+      "sourceId": "hard",
+      "ru": [
+        "жёсткий",
+        "твёрдый",
+        "крепкий"
+      ],
+      "gender": null,
+      "example": "Ce pain est très dur.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "sauvegarder",
+      "word": "sauvegarder",
+      "en": "sauvegarder",
+      "sourceId": "save",
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "gender": null,
+      "example": "Pensez à sauvegarder votre progression.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "sol",
+      "word": "sol",
+      "en": "sol",
+      "sourceId": "ground",
+      "ru": [
+        "земля",
+        "молотый",
+        "грунт"
+      ],
+      "gender": "m",
+      "example": "Il est tombé par terre sur le sol.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ou-que",
+      "word": "où que",
+      "en": "où que",
+      "sourceId": "wherever",
+      "ru": [
+        "где бы ни"
+      ],
+      "gender": null,
+      "example": "Où que vous alliez, prenez votre téléphone.",
+      "exampleTranslated": true,
+      "level": "C1",
+      "pos": "conjunction"
+    },
+    {
+      "id": "inquietude",
+      "word": "inquiétude",
+      "en": "inquiétude",
+      "sourceId": "worry",
+      "ru": [
+        "беспокойство",
+        "волнение",
+        "забота"
+      ],
+      "gender": "f",
+      "example": "Son inquiétude grandissait à mesure que la nuit tombait.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "universite",
+      "word": "université",
+      "en": "université",
+      "sourceId": "university",
+      "ru": [
+        "университет"
+      ],
+      "gender": "f",
+      "example": "Elle étudie à l'université.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "visiter",
+      "word": "visiter",
+      "en": "visiter",
+      "sourceId": "visit",
+      "ru": [
+        "посещать"
+      ],
+      "gender": null,
+      "example": "Il faut visiter le musée.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "n-importe-ou",
+      "word": "n'importe où",
+      "en": "n'importe où",
+      "sourceId": "anywhere",
+      "ru": [
+        "где угодно",
+        "где-либо",
+        "где-нибудь"
+      ],
+      "gender": null,
+      "example": "Tu peux t'asseoir n'importe où.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "librement",
+      "word": "librement",
+      "en": "librement",
+      "sourceId": "freely",
+      "ru": [
+        "вольно",
+        "свободно"
+      ],
+      "gender": null,
+      "example": "Vous pouvez parler librement.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "adv"
+    },
+    {
+      "id": "rural",
+      "word": "rural",
+      "en": "rural",
+      "sourceId": "country",
+      "ru": [
+        "деревенский",
+        "сельский",
+        "край"
+      ],
+      "gender": null,
+      "example": "Il vit dans une zone rurale.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "liberte",
+      "word": "liberté",
+      "en": "liberté",
+      "sourceId": "freedom",
+      "ru": [
+        "свобода",
+        "вольность",
+        "воля"
+      ],
+      "gender": "f",
+      "example": "La liberté est un droit fondamental.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "analyse",
+      "word": "analyse",
+      "en": "analyse",
+      "sourceId": "analysis",
+      "ru": [
+        "исследование",
+        "анализ",
+        "разбор"
+      ],
+      "gender": "f",
+      "example": "Cette analyse est très détaillée.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "apparaitre",
+      "word": "apparaître",
+      "en": "apparaître",
+      "sourceId": "appear",
+      "ru": [
+        "появляться",
+        "казаться"
+      ],
+      "gender": null,
+      "example": "Un arc-en-ciel est apparu.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "test",
+      "word": "test",
+      "en": "test",
+      "sourceId": "test",
+      "ru": [
+        "тест",
+        "испытание",
+        "проба"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un test de français.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "effectuer",
+      "word": "effectuer",
+      "en": "effectuer",
+      "sourceId": "perform--verbs",
+      "ru": [
+        "провести",
+        "проводить",
+        "выступать"
+      ],
+      "gender": null,
+      "example": "Normal, aucun autre test à effectuer.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "planete",
+      "word": "planète",
+      "en": "planète",
+      "sourceId": "planet",
+      "ru": [
+        "планета"
+      ],
+      "gender": "f",
+      "example": "La Terre est une planète du système solaire.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "saut",
+      "word": "saut",
+      "en": "saut",
+      "sourceId": "hop",
+      "ru": [
+        "прыжок",
+        "скачок",
+        "подпрыгивать"
+      ],
+      "gender": "m",
+      "example": "Il a fait un petit saut par-dessus la flaque d'eau.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sous-sol",
+      "word": "sous-sol",
+      "en": "sous-sol",
+      "sourceId": "basement",
+      "ru": [
+        "подвал",
+        "подвальный этаж",
+        "цокольный этаж"
+      ],
+      "gender": "m",
+      "example": "Nous avons rangé les vieux cartons au sous-sol.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "confirmer",
+      "word": "confirmer",
+      "en": "confirmer",
+      "sourceId": "confirm",
+      "ru": [
+        "подкрепить",
+        "подкреплять",
+        "подтвердить"
+      ],
+      "gender": null,
+      "example": "Il a confirmé sa présence à la réunion.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "emplacement",
+      "word": "emplacement",
+      "en": "emplacement",
+      "sourceId": "location",
+      "ru": [
+        "место",
+        "местонахождение",
+        "местоположение"
+      ],
+      "gender": "m",
+      "example": "L'emplacement de cet hôtel est idéal.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "gentil",
+      "word": "gentil",
+      "en": "gentil",
+      "sourceId": "nice",
+      "ru": [
+        "милый",
+        "приятный",
+        "симпатичный"
+      ],
+      "gender": null,
+      "example": "Il est très gentil avec tout le monde.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "magasinage",
+      "word": "magasinage",
+      "en": "magasinage",
+      "sourceId": "shopping",
+      "ru": [
+        "купля",
+        "покупка",
+        "покупки"
+      ],
+      "gender": "m",
+      "example": "J'aime faire du magasinage le samedi.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "entreprise",
+      "word": "entreprise",
+      "en": "entreprise",
+      "sourceId": "company",
+      "ru": [
+        "компания",
+        "общество",
+        "товарищество"
+      ],
+      "gender": "f",
+      "example": "Elle travaille dans une grande entreprise.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "machine",
+      "word": "machine",
+      "en": "machine",
+      "sourceId": "machine",
+      "ru": [
+        "машина",
+        "аппарат",
+        "машинка"
+      ],
+      "gender": "f",
+      "example": "Cette machine fonctionne à l'électricité.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "plus",
+      "word": "plus",
+      "en": "plus",
+      "sourceId": "anymore",
+      "ru": [
+        "больше не",
+        "уже не"
+      ],
+      "gender": null,
+      "example": "Je ne travaille plus ici.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "territoire",
+      "word": "territoire",
+      "en": "territoire",
+      "sourceId": "territory",
+      "ru": [
+        "земля",
+        "территория",
+        "местность"
+      ],
+      "gender": "m",
+      "example": "Ce territoire appartient à la France.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "enregistre",
+      "word": "enregistré",
+      "en": "enregistré",
+      "sourceId": "recorded",
+      "ru": [
+        "записанный",
+        "зарегистрированный"
+      ],
+      "gender": null,
+      "example": "Le concert a été enregistré en direct.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "histoire",
+      "word": "histoire",
+      "en": "histoire",
+      "sourceId": "history",
+      "ru": [
+        "история",
+        "летопись"
+      ],
+      "gender": "f",
+      "example": "J'aime beaucoup étudier l'histoire de France.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "peut-etre",
+      "word": "peut-être",
+      "en": "peut-être",
+      "sourceId": "perhaps",
+      "ru": [
+        "возможно",
+        "пожалуй"
+      ],
+      "gender": null,
+      "example": "Peut-être qu'il n'y a rien.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "ecrire",
+      "word": "écrire",
+      "en": "écrire",
+      "sourceId": "write",
+      "ru": [
+        "писать"
+      ],
+      "gender": null,
+      "example": "Veuillez écrire votre nom ici.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "decision",
+      "word": "décision",
+      "en": "décision",
+      "sourceId": "decision",
+      "ru": [
+        "решение",
+        "определение"
+      ],
+      "gender": "f",
+      "example": "Il a pris une décision importante.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    }
+  ]
+}

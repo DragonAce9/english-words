@@ -1,0 +1,25 @@
+{
+  "name": "english-words",
+  "private": true,
+  "workspaces": [
+    "packages/api",
+    "packages/web"
+  ],
+  "scripts": {
+    "dev:api": "npm run dev -w @english-words/api",
+    "dev:web": "npm run dev -w @english-words/web",
+    "tunnel": "cloudflared tunnel --url http://localhost:3000",
+    "build": "npm run build -w @english-words/web && npm run build -w @english-words/api",
+    "test": "npm run test -w @english-words/api",
+    "simulate-tribute": "npm run simulate-tribute -w @english-words/api",
+    "import:dict": "tsx scripts/import-freedict.ts",
+    "import:media": "tsx scripts/import-media.ts",
+    "os:catalog": "tsx scripts/os-catalog.ts",
+    "import:popular": "tsx scripts/import-popular.ts",
+    "reimport:media": "tsx scripts/reimport-media.ts",
+    "tag:cefr": "tsx scripts/tag-cefr-and-blocks.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

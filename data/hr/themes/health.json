@@ -1,0 +1,9773 @@
+{
+  "id": "health",
+  "title": "Здоровье",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "bol",
+      "word": "bol",
+      "en": "bol",
+      "ru": [
+        "боль",
+        "болеть"
+      ],
+      "example": "Ne mogu izdržati ovu bol.",
+      "level": "A2",
+      "sourceId": "ache",
+      "sourceIds": [
+        "ache"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ovisnost",
+      "word": "ovisnost",
+      "en": "ovisnost",
+      "ru": [
+        "зависимость",
+        "аддикция",
+        "пристрастие"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "addiction",
+      "sourceIds": [
+        "addiction"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pomoc",
+      "word": "pomoć",
+      "en": "pomoć",
+      "ru": [
+        "помощь",
+        "помощник",
+        "помогать"
+      ],
+      "example": "Bez tvoje pomoći on ne bi uspio.",
+      "level": "A2",
+      "sourceId": "aid",
+      "sourceIds": [
+        "aid"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alkohol",
+      "word": "alkohol",
+      "en": "alkohol",
+      "ru": [
+        "спирт",
+        "алкоголь",
+        "алкогольный напиток"
+      ],
+      "example": "To pivo sadrži 5% alkohola.",
+      "level": "B1",
+      "sourceId": "alcohol",
+      "sourceIds": [
+        "alcohol"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bezalkoholan",
+      "word": "bezalkoholan",
+      "en": "bezalkoholan",
+      "ru": [
+        "безалкогольный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "alcohol-free",
+      "sourceIds": [
+        "alcohol-free"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "alkoholni",
+      "word": "alkoholni",
+      "en": "alkoholni",
+      "ru": [
+        "алкогольный",
+        "алкоголик",
+        "алкаш"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "alcoholic",
+      "sourceIds": [
+        "alcoholic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "alkoholizam",
+      "word": "alkoholizam",
+      "en": "alkoholizam",
+      "ru": [
+        "алкоголизм",
+        "алкогольное отравление"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "alcoholism",
+      "sourceIds": [
+        "alcoholism"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ziv",
+      "word": "živ",
+      "en": "živ",
+      "ru": [
+        "живой",
+        "в живых"
+      ],
+      "example": "Fadil ne živi sam. On ima obitelj.",
+      "level": "B2",
+      "sourceId": "alive",
+      "sourceIds": [
+        "alive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alergija",
+      "word": "alergija",
+      "en": "alergija",
+      "ru": [
+        "аллергия"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "allergy",
+      "sourceIds": [
+        "allergy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hitna-pomoc",
+      "word": "hitna pomoć",
+      "en": "hitna pomoć",
+      "ru": [
+        "скорая помощь",
+        "автомобиль скорой помощи",
+        "карета"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "ambulance",
+      "sourceIds": [
+        "ambulance"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "astma",
+      "word": "astma",
+      "en": "astma",
+      "ru": [
+        "астма"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "asthma",
+      "sourceIds": [
+        "asthma"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bakterijski",
+      "word": "bakterijski",
+      "en": "bakterijski",
+      "ru": [
+        "бактериальный"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "bacterial",
+      "sourceIds": [
+        "bacterial"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "celav",
+      "word": "ćelav",
+      "en": "ćelav",
+      "ru": [
+        "лысый"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "bald",
+      "sourceIds": [
+        "bald"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zavoj",
+      "word": "zavoj",
+      "en": "zavoj",
+      "ru": [
+        "бинт",
+        "бандаж",
+        "повязка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "bandage",
+      "sourceIds": [
+        "bandage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rodjenje",
+      "word": "rođenje",
+      "en": "rođenje",
+      "ru": [
+        "роды",
+        "рождение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "birth",
+      "sourceIds": [
+        "birth"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "krv",
+      "word": "krv",
+      "en": "krv",
+      "ru": [
+        "кровь"
+      ],
+      "example": "Gorko za jezik, ali okrijepljujuće za krv.",
+      "level": "A2",
+      "sourceId": "blood",
+      "sourceIds": [
+        "blood"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mozak",
+      "word": "mozak",
+      "en": "mozak",
+      "ru": [
+        "мозг",
+        "голова",
+        "башка"
+      ],
+      "example": "Sva živa bića imaju mozak, osim Toma.",
+      "level": "A2",
+      "sourceId": "brain",
+      "sourceIds": [
+        "brain"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "disanje",
+      "word": "disanje",
+      "en": "disanje",
+      "ru": [
+        "дыхание",
+        "вздох"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "breath",
+      "sourceIds": [
+        "breath"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "rak",
+      "word": "rak",
+      "en": "rak",
+      "ru": [
+        "рак",
+        "злокачественная опухоль"
+      ],
+      "example": "Znanstvenici još nisu pronašli lijek za rak.",
+      "level": "A2",
+      "sourceId": "cancer",
+      "sourceIds": [
+        "cancer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pregled",
+      "word": "pregled",
+      "en": "pregled",
+      "ru": [
+        "медосмотр",
+        "осмотр",
+        "проверка"
+      ],
+      "example": "Više bi mi odgovarao pregled ujutro.",
+      "level": "C2",
+      "sourceId": "checkup",
+      "sourceIds": [
+        "checkup"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "klinika",
+      "word": "klinika",
+      "en": "klinika",
+      "ru": [
+        "клиника",
+        "амбулатория",
+        "лечебница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "clinic",
+      "sourceIds": [
+        "clinic"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "klinicki",
+      "word": "klinički",
+      "en": "klinički",
+      "ru": [
+        "клинический",
+        "медицинский"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "clinical",
+      "sourceIds": [
+        "clinical"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kasljati",
+      "word": "kašljati",
+      "en": "kašljati",
+      "ru": [
+        "кашель",
+        "кашлять",
+        "кашлянуть"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "cough",
+      "sourceIds": [
+        "cough"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lijek",
+      "word": "lijek",
+      "en": "lijek",
+      "ru": [
+        "лекарство",
+        "лечение",
+        "исцеление"
+      ],
+      "example": "Znanstvenici još nisu pronašli lijek za rak.",
+      "level": "B2",
+      "sourceId": "cure",
+      "sourceIds": [
+        "cure"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mrtav",
+      "word": "mrtav",
+      "en": "mrtav",
+      "ru": [
+        "мёртвый",
+        "безжизненный",
+        "неработающий"
+      ],
+      "example": "Ako ne učiniš to, mrtav si.",
+      "level": "A2",
+      "sourceId": "dead",
+      "sourceIds": [
+        "dead"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "smrtan",
+      "word": "smrtan",
+      "en": "smrtan",
+      "ru": [
+        "смертельный",
+        "смертоносный",
+        "убийственный"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "deadly",
+      "sourceIds": [
+        "deadly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "smrt",
+      "word": "smrt",
+      "en": "smrt",
+      "ru": [
+        "смерть",
+        "гибель",
+        "кончина"
+      ],
+      "example": "Obećao je svojoj voljenoj vjernost do smrti.",
+      "level": "A2",
+      "sourceId": "death",
+      "sourceIds": [
+        "death"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "smrtan",
+      "word": "smrtan",
+      "en": "smrtan",
+      "ru": [
+        "смертельный",
+        "роковой",
+        "фатальный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "deathly",
+      "sourceIds": [
+        "deathly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zubni",
+      "word": "zubni",
+      "en": "zubni",
+      "ru": [
+        "стоматологический",
+        "зубной"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dental",
+      "sourceIds": [
+        "dental"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zubar",
+      "word": "zubar",
+      "en": "zubar",
+      "ru": [
+        "дантист",
+        "зубной",
+        "зубной врач"
+      ],
+      "example": "Najbolje je ići zubaru u određenim razmacima.",
+      "level": "A2",
+      "sourceId": "dentist",
+      "sourceIds": [
+        "dentist"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stomatologija",
+      "word": "stomatologija",
+      "en": "stomatologija",
+      "ru": [
+        "лечение зубов",
+        "одонтология",
+        "стоматология"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "dentistry",
+      "sourceIds": [
+        "dentistry"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dijabetes",
+      "word": "dijabetes",
+      "en": "dijabetes",
+      "ru": [
+        "диабет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diabetes",
+      "sourceIds": [
+        "diabetes"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "prehrana",
+      "word": "prehrana",
+      "en": "prehrana",
+      "ru": [
+        "диета",
+        "диетический"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "diet",
+      "sourceIds": [
+        "diet"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prljav",
+      "word": "prljav",
+      "en": "prljav",
+      "ru": [
+        "грязный",
+        "испачканный",
+        "подло"
+      ],
+      "example": "Mama kupa psa, jer je prljav.",
+      "level": "B2",
+      "sourceId": "dirty",
+      "sourceIds": [
+        "dirty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "invaliditet",
+      "word": "invaliditet",
+      "en": "invaliditet",
+      "ru": [
+        "инвалидность",
+        "нетрудоспособность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "disability",
+      "sourceIds": [
+        "disability"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "invalid",
+      "word": "invalid",
+      "en": "invalid",
+      "ru": [
+        "инвалид",
+        "нетрудоспособный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "disabled",
+      "sourceIds": [
+        "disabled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bolest",
+      "word": "bolest",
+      "en": "bolest",
+      "ru": [
+        "болезнь",
+        "хворь",
+        "заболевание"
+      ],
+      "example": "Bolest iz djetinjstva ju je oslijepila.",
+      "level": "A2",
+      "sourceId": "disease",
+      "sourceIds": [
+        "disease"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bolestan",
+      "word": "bolestan",
+      "en": "bolestan",
+      "ru": [
+        "больной"
+      ],
+      "example": "Ne može doći jer je bolestan.",
+      "level": "C2",
+      "sourceId": "diseased",
+      "sourceIds": [
+        "diseased"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lijecnik",
+      "word": "liječnik",
+      "en": "liječnik",
+      "ru": [
+        "врач",
+        "доктор"
+      ],
+      "example": "Kao dijete sam želio postati liječnik.",
+      "level": "A1",
+      "sourceId": "doctor",
+      "sourceIds": [
+        "doctor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "doza",
+      "word": "doza",
+      "en": "doza",
+      "ru": [
+        "доза",
+        "порция"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "dose",
+      "sourceIds": [
+        "dose"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tonuti",
+      "word": "tonuti",
+      "en": "tonuti",
+      "ru": [
+        "тонуть"
+      ],
+      "example": "Posada je morala napustiti brod koji je tone.",
+      "level": "C2",
+      "sourceId": "drown",
+      "sourceIds": [
+        "drown"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "droga",
+      "word": "droga",
+      "en": "droga",
+      "ru": [
+        "лекарство",
+        "дурь",
+        "наркотик"
+      ],
+      "example": "Fadil je tražio drogu i novac.",
+      "level": "A2",
+      "sourceId": "drug",
+      "sourceIds": [
+        "drug"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hitna-pomoc",
+      "word": "hitna pomoć",
+      "en": "hitna pomoć",
+      "ru": [
+        "неотложка",
+        "отделение неотложной помощи",
+        "реанимация"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "emergency",
+      "sourceIds": [
+        "emergency"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "energija",
+      "word": "energija",
+      "en": "energija",
+      "ru": [
+        "энергия"
+      ],
+      "example": "Vjetar je jeftin i čist izvor energije",
+      "level": "A1",
+      "sourceId": "energy",
+      "sourceIds": [
+        "energy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vjezba",
+      "word": "vježba",
+      "en": "vježba",
+      "ru": [
+        "упражнение",
+        "практика",
+        "тренировка"
+      ],
+      "example": "Tom vježba klavir svaki dan.",
+      "level": "A2",
+      "sourceId": "exercise",
+      "sourceIds": [
+        "exercise"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "onesvijestiti-se",
+      "word": "onesvijestiti se",
+      "en": "onesvijestiti se",
+      "ru": [
+        "падать в обморок"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "faint",
+      "sourceIds": [
+        "faint"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "post",
+      "word": "post",
+      "en": "post",
+      "ru": [
+        "пост",
+        "голодание"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fasting",
+      "sourceIds": [
+        "fasting"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "groznica",
+      "word": "groznica",
+      "en": "groznica",
+      "ru": [
+        "жар",
+        "лихорадка",
+        "горячка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fever",
+      "sourceIds": [
+        "fever"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "fitnes",
+      "word": "fitnes",
+      "en": "fitnes",
+      "ru": [
+        "фитнес",
+        "хорошая физическая форма"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fitness",
+      "sourceIds": [
+        "fitness"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gripa",
+      "word": "gripa",
+      "en": "gripa",
+      "ru": [
+        "грипп",
+        "инфлюэнца"
+      ],
+      "example": "Sigurno imaš gripu.",
+      "level": "B2",
+      "sourceId": "flu",
+      "sourceIds": [
+        "flu"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "glavobolja",
+      "word": "glavobolja",
+      "en": "glavobolja",
+      "ru": [
+        "головная боль"
+      ],
+      "example": "Najgore glavobolje su uzrokovane nedovoljno shvaćenim idejama.",
+      "level": "A2",
+      "sourceId": "headache",
+      "sourceIds": [
+        "headache"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zdravlje",
+      "word": "zdravlje",
+      "en": "zdravlje",
+      "ru": [
+        "здоровье",
+        "здравие"
+      ],
+      "example": "Ona se jako brine o njegovom zdravlju.",
+      "level": "A1",
+      "sourceId": "health",
+      "sourceIds": [
+        "health"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zdrav",
+      "word": "zdrav",
+      "en": "zdrav",
+      "ru": [
+        "здоровый",
+        "полезный"
+      ],
+      "example": "Seoski zrak je zdraviji od gradskog.",
+      "level": "A2",
+      "sourceId": "healthy",
+      "sourceIds": [
+        "healthy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sluh",
+      "word": "sluh",
+      "en": "sluh",
+      "ru": [
+        "слышащий",
+        "слух",
+        "разбирательство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hearing",
+      "sourceIds": [
+        "hearing"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "srce",
+      "word": "srce",
+      "en": "srce",
+      "ru": [
+        "сердце"
+      ],
+      "example": "Blago Čistima Srcem: Oni Će Boga Gledati!",
+      "level": "A2",
+      "sourceId": "heart",
+      "sourceIds": [
+        "heart"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bolnica",
+      "word": "bolnica",
+      "en": "bolnica",
+      "ru": [
+        "больница",
+        "госпиталь",
+        "клиника"
+      ],
+      "example": "Inzistirala je da on ode u bolnicu.",
+      "level": "A1",
+      "sourceId": "hospital",
+      "sourceIds": [
+        "hospital"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hospitalizacija",
+      "word": "hospitalizacija",
+      "en": "hospitalizacija",
+      "ru": [
+        "госпитализация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hospitalization",
+      "sourceIds": [
+        "hospitalization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hospitalizovati",
+      "word": "hospitalizovati",
+      "en": "hospitalizovati",
+      "ru": [
+        "поместить в больницу",
+        "помещать в больницу",
+        "госпитализировать"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hospitalize",
+      "sourceIds": [
+        "hospitalize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ozlijedjen",
+      "word": "ozlijeđen",
+      "en": "ozlijeđen",
+      "ru": [
+        "повреждённый",
+        "пострадавший",
+        "раненый"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "hurt",
+      "sourceIds": [
+        "hurt"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "higijena",
+      "word": "higijena",
+      "en": "higijena",
+      "ru": [
+        "гигиена"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "hygiene",
+      "sourceIds": [
+        "hygiene"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bolestan",
+      "word": "bolestan",
+      "en": "bolestan",
+      "ru": [
+        "больной",
+        "хворый"
+      ],
+      "example": "Ne može doći jer je bolestan.",
+      "level": "A1",
+      "sourceId": "ill",
+      "sourceIds": [
+        "ill"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bolest",
+      "word": "bolest",
+      "en": "bolest",
+      "ru": [
+        "болезнь",
+        "хворь",
+        "недуг"
+      ],
+      "example": "Bolest iz djetinjstva ju je oslijepila.",
+      "level": "B2",
+      "sourceId": "illness",
+      "sourceIds": [
+        "illness"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "infekcija",
+      "word": "infekcija",
+      "en": "infekcija",
+      "ru": [
+        "инфекция",
+        "заражение",
+        "зараза"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "infection",
+      "sourceIds": [
+        "infection"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "injekcija",
+      "word": "injekcija",
+      "en": "injekcija",
+      "ru": [
+        "инъекция",
+        "вливание",
+        "впрыскивание"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "injection",
+      "sourceIds": [
+        "injection"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ozljeda",
+      "word": "ozljeda",
+      "en": "ozljeda",
+      "ru": [
+        "рана",
+        "повреждение",
+        "ранение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "injury",
+      "sourceIds": [
+        "injury"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "koji-svrbi",
+      "word": "koji svrbi",
+      "en": "koji svrbi",
+      "ru": [
+        "зудящий"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "itchy",
+      "sourceIds": [
+        "itchy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zivot",
+      "word": "život",
+      "en": "život",
+      "ru": [
+        "жизнь"
+      ],
+      "example": "Besmisleno je dokoličariti za vrijeme studentskog života.",
+      "level": "A1",
+      "sourceId": "life",
+      "sourceIds": [
+        "life"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pluca",
+      "word": "pluća",
+      "en": "pluća",
+      "ru": [
+        "лёгкое"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "lung",
+      "sourceIds": [
+        "lung"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "masaza",
+      "word": "masaža",
+      "en": "masaža",
+      "ru": [
+        "массаж",
+        "делать массаж",
+        "массировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "massage",
+      "sourceIds": [
+        "massage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "masazer",
+      "word": "masažer",
+      "en": "masažer",
+      "ru": [
+        "массажёр"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "massager",
+      "sourceIds": [
+        "massager"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "medicinski",
+      "word": "medicinski",
+      "en": "medicinski",
+      "ru": [
+        "врачебный",
+        "медицинский"
+      ],
+      "example": "Mary je umirovljena medicinska sestra.",
+      "level": "A1",
+      "sourceId": "medical",
+      "sourceIds": [
+        "medical"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lijek",
+      "word": "lijek",
+      "en": "lijek",
+      "ru": [
+        "лекарство",
+        "лекарственное средство",
+        "медикамент"
+      ],
+      "example": "Znanstvenici još nisu pronašli lijek za rak.",
+      "level": "A1",
+      "sourceId": "medicine",
+      "sourceIds": [
+        "medicine"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mentalni",
+      "word": "mentalni",
+      "en": "mentalni",
+      "ru": [
+        "умственный"
+      ],
+      "example": "Njegov mentalni razvoj bio je spor.",
+      "level": "B1",
+      "sourceId": "mental",
+      "sourceIds": [
+        "mental"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mentalno",
+      "word": "mentalno",
+      "en": "mentalno",
+      "ru": [
+        "мысленно",
+        "умственно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "mentally",
+      "sourceIds": [
+        "mentally"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "medicinska-sestra",
+      "word": "medicinska sestra",
+      "en": "medicinska sestra",
+      "ru": [
+        "медсестра",
+        "фельдшер",
+        "медбрат"
+      ],
+      "example": "Mary je umirovljena medicinska sestra.",
+      "level": "A1",
+      "sourceId": "nurse",
+      "sourceIds": [
+        "nurse"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "njegovateljski",
+      "word": "njegovateljski",
+      "en": "njegovateljski",
+      "ru": [
+        "медсестринский",
+        "сестринский",
+        "медсестринское дело"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nursing",
+      "sourceIds": [
+        "nursing"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prehrana",
+      "word": "prehrana",
+      "en": "prehrana",
+      "ru": [
+        "питание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nutrition",
+      "sourceIds": [
+        "nutrition"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nutritivni",
+      "word": "nutritivni",
+      "en": "nutritivni",
+      "ru": [
+        "питательный"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "nutritional",
+      "sourceIds": [
+        "nutritional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "nutricionista",
+      "word": "nutricionista",
+      "en": "nutricionista",
+      "ru": [
+        "диетврач",
+        "диетолог"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "nutritionist",
+      "sourceIds": [
+        "nutritionist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "operacija",
+      "word": "operacija",
+      "en": "operacija",
+      "ru": [
+        "действие",
+        "операция"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "operation",
+      "sourceIds": [
+        "operation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "operativan",
+      "word": "operativan",
+      "en": "operativan",
+      "ru": [
+        "оперативный",
+        "действовать"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "operational",
+      "sourceIds": [
+        "operational"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "oralni",
+      "word": "oralni",
+      "en": "oralni",
+      "ru": [
+        "оральный",
+        "ротовой",
+        "устный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "oral",
+      "sourceIds": [
+        "oral"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "oralno",
+      "word": "oralno",
+      "en": "oralno",
+      "ru": [
+        "орально",
+        "устно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "orally",
+      "sourceIds": [
+        "orally"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "bol",
+      "word": "bol",
+      "en": "bol",
+      "ru": [
+        "боль",
+        "мука",
+        "страдание"
+      ],
+      "example": "Ne mogu izdržati ovu bol.",
+      "level": "A2",
+      "sourceId": "pain",
+      "sourceIds": [
+        "pain"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pacijent",
+      "word": "pacijent",
+      "en": "pacijent",
+      "ru": [
+        "пациент",
+        "терпеливый",
+        "больная"
+      ],
+      "example": "Liječnik je pregledao više od 50 pacijenata toga dana.",
+      "level": "A2",
+      "sourceId": "patient",
+      "sourceIds": [
+        "patient"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "strpljivo",
+      "word": "strpljivo",
+      "en": "strpljivo",
+      "ru": [
+        "терпеливо"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "patiently",
+      "sourceIds": [
+        "patiently"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "ispijen",
+      "word": "ispijen",
+      "en": "ispijen",
+      "ru": [
+        "измождённый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "peaked",
+      "sourceIds": [
+        "peaked"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ljekarna",
+      "word": "ljekarna",
+      "en": "ljekarna",
+      "ru": [
+        "аптека",
+        "фармацевтика",
+        "фармация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pharmacy",
+      "sourceIds": [
+        "pharmacy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "fizicki",
+      "word": "fizički",
+      "en": "fizički",
+      "ru": [
+        "материальный",
+        "телесный",
+        "физический"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "physical",
+      "sourceIds": [
+        "physical"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "fizicki",
+      "word": "fizički",
+      "en": "fizički",
+      "ru": [
+        "физически"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "physically",
+      "sourceIds": [
+        "physically"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lijecnik",
+      "word": "liječnik",
+      "en": "liječnik",
+      "ru": [
+        "врач",
+        "врачиха",
+        "доктор"
+      ],
+      "example": "Kao dijete sam želio postati liječnik.",
+      "level": "B1",
+      "sourceId": "physician",
+      "sourceIds": [
+        "physician"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tableta",
+      "word": "tableta",
+      "en": "tableta",
+      "ru": [
+        "таблетка",
+        "пилюля",
+        "противозачаточная таблетка"
+      ],
+      "example": "Tom svaki dan pije tablete s vitaminima i mineralima.",
+      "level": "A2",
+      "sourceId": "pill",
+      "sourceIds": [
+        "pill"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trudnoca",
+      "word": "trudnoća",
+      "en": "trudnoća",
+      "ru": [
+        "беременность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pregnancy",
+      "sourceIds": [
+        "pregnancy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trudna",
+      "word": "trudna",
+      "en": "trudna",
+      "ru": [
+        "беременный",
+        "брюхатый",
+        "в положении"
+      ],
+      "example": "Jesam li trudna?",
+      "level": "B1",
+      "sourceId": "pregnant--health",
+      "sourceIds": [
+        "pregnant--health"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recept",
+      "word": "recept",
+      "en": "recept",
+      "ru": [
+        "медицинский рецепт",
+        "предписание"
+      ],
+      "example": "Trebat ćeš pronaći jeftinije, zamjenske sastojke, iako svoj recept temeljiš na bakinom.",
+      "level": "B1",
+      "sourceId": "prescription",
+      "sourceIds": [
+        "prescription"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sprijeciti",
+      "word": "spriječiti",
+      "en": "spriječiti",
+      "ru": [
+        "мешать",
+        "помешать",
+        "предотвратить"
+      ],
+      "example": "Volio bih znati kako spriječiti svađu svoje djece.",
+      "level": "B1",
+      "sourceId": "prevent",
+      "sourceIds": [
+        "prevent"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prevencija",
+      "word": "prevencija",
+      "en": "prevencija",
+      "ru": [
+        "предотвращение",
+        "профилактика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "prevention",
+      "sourceIds": [
+        "prevention"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bjelancevina",
+      "word": "bjelančevina",
+      "en": "bjelančevina",
+      "ru": [
+        "белок",
+        "протеин"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "protein",
+      "sourceIds": [
+        "protein"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "povracati",
+      "word": "povraćati",
+      "en": "povraćati",
+      "ru": [
+        "блевать"
+      ],
+      "example": "Povraća mi se.",
+      "level": "C2",
+      "sourceId": "puke",
+      "sourceIds": [
+        "puke"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puls",
+      "word": "puls",
+      "en": "puls",
+      "ru": [
+        "пульс",
+        "импульс"
+      ],
+      "example": "Imam nepravilan puls.",
+      "level": "B1",
+      "sourceId": "pulse",
+      "sourceIds": [
+        "pulse"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oporaviti-se",
+      "word": "oporaviti se",
+      "en": "oporaviti se",
+      "ru": [
+        "выздоравливать",
+        "поправляться"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "recover",
+      "sourceIds": [
+        "recover"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "oporavak",
+      "word": "oporavak",
+      "en": "oporavak",
+      "ru": [
+        "выздоровление",
+        "восстановление"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "recovery",
+      "sourceIds": [
+        "recovery"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "olaksanje",
+      "word": "olakšanje",
+      "en": "olakšanje",
+      "ru": [
+        "облегчение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "relief",
+      "sourceIds": [
+        "relief"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "siguran",
+      "word": "siguran",
+      "en": "siguran",
+      "ru": [
+        "в безопасности",
+        "безопасный",
+        "сейф"
+      ],
+      "example": "Jesi li siguran da želiš to učinti?",
+      "level": "A2",
+      "sourceId": "safe",
+      "sourceIds": [
+        "safe"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sigurno",
+      "word": "sigurno",
+      "en": "sigurno",
+      "ru": [
+        "безопасно",
+        "благополучно"
+      ],
+      "example": "Sigurno je jesen najbolje doba za učiti.",
+      "level": "C1",
+      "sourceId": "safely",
+      "sourceIds": [
+        "safely"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "snimka",
+      "word": "snimka",
+      "en": "snimka",
+      "ru": [
+        "сканирование",
+        "скан",
+        "снимок"
+      ],
+      "example": "Vidio sam snimku.",
+      "level": "B1",
+      "sourceId": "scan",
+      "sourceIds": [
+        "scan"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "skener",
+      "word": "skener",
+      "en": "skener",
+      "ru": [
+        "сканер"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "scanner",
+      "sourceIds": [
+        "scanner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bolestan",
+      "word": "bolestan",
+      "en": "bolestan",
+      "ru": [
+        "больной",
+        "блевота"
+      ],
+      "example": "Ne može doći jer je bolestan.",
+      "level": "A1",
+      "sourceId": "sick",
+      "sourceIds": [
+        "sick"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bolezljiv",
+      "word": "boležljiv",
+      "en": "boležljiv",
+      "ru": [
+        "болезненный",
+        "чахлый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sickly",
+      "sourceIds": [
+        "sickly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sestra",
+      "word": "sestra",
+      "en": "sestra",
+      "ru": [
+        "сестра",
+        "медсестра"
+      ],
+      "example": "Imam dvije sestre koje su obje udane.",
+      "level": "A1",
+      "sourceId": "sister",
+      "sourceIds": [
+        "sister"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spavati",
+      "word": "spavati",
+      "en": "spavati",
+      "ru": [
+        "спать"
+      ],
+      "example": "Jučer sam išao spavati u deset sati.",
+      "level": "A1",
+      "sourceId": "sleep",
+      "sourceIds": [
+        "sleep"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spavaci",
+      "word": "spavaći",
+      "en": "spavaći",
+      "ru": [
+        "спальный",
+        "сон"
+      ],
+      "example": "Svatko ima svoju spavaću sobu.",
+      "level": "B2",
+      "sourceId": "sleeping",
+      "sourceIds": [
+        "sleeping"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dim",
+      "word": "dim",
+      "en": "dim",
+      "ru": [
+        "дым",
+        "чад",
+        "курево"
+      ],
+      "example": "Gdje je vatra, tu je i dim.",
+      "level": "B2",
+      "sourceId": "smoke",
+      "sourceIds": [
+        "smoke"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dimljeni",
+      "word": "dimljeni",
+      "en": "dimljeni",
+      "ru": [
+        "копчёный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "smoked",
+      "sourceIds": [
+        "smoked"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pusac",
+      "word": "pušač",
+      "en": "pušač",
+      "ru": [
+        "курящий",
+        "курец",
+        "курильщик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "smoker",
+      "sourceIds": [
+        "smoker"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pusenje",
+      "word": "pušenje",
+      "en": "pušenje",
+      "ru": [
+        "курение"
+      ],
+      "example": "Imam poteškoće uvjeriti ju o opasnostima pušenja.",
+      "level": "B1",
+      "sourceId": "smoking",
+      "sourceIds": [
+        "smoking"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sapun",
+      "word": "sapun",
+      "en": "sapun",
+      "ru": [
+        "мыло",
+        "мылить",
+        "намылить"
+      ],
+      "example": "Tom mora da je pokušavao ovo očistiti bez sapuna.",
+      "level": "B2",
+      "sourceId": "soap",
+      "sourceIds": [
+        "soap"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zdrav",
+      "word": "zdrav",
+      "en": "zdrav",
+      "ru": [
+        "здоровый",
+        "крепкий",
+        "надёжный"
+      ],
+      "example": "Seoski zrak je zdraviji od gradskog.",
+      "level": "A1",
+      "sourceId": "sound--health",
+      "sourceIds": [
+        "sound--health"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "toplice",
+      "word": "toplice",
+      "en": "toplice",
+      "ru": [
+        "баня",
+        "лечебный источник",
+        "онсэн"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spa",
+      "sourceIds": [
+        "spa"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pritisak",
+      "word": "pritisak",
+      "en": "pritisak",
+      "ru": [
+        "давление",
+        "нажим",
+        "напряжение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stress",
+      "sourceIds": [
+        "stress"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pod-stresom",
+      "word": "pod stresom",
+      "en": "pod stresom",
+      "ru": [
+        "в состоянии стресса",
+        "напряжённый",
+        "ударный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stressed",
+      "sourceIds": [
+        "stressed"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "operacija",
+      "word": "operacija",
+      "en": "operacija",
+      "ru": [
+        "операция",
+        "хирургия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "surgery",
+      "sourceIds": [
+        "surgery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prezivjeti",
+      "word": "preživjeti",
+      "en": "preživjeti",
+      "ru": [
+        "выживать",
+        "выжить",
+        "пережить"
+      ],
+      "example": "S takvom cijenom vaš proizvod neće preživjeti konkurenciju na japanskom tržištu.",
+      "level": "C1",
+      "sourceId": "survive",
+      "sourceIds": [
+        "survive"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "simptom",
+      "word": "simptom",
+      "en": "simptom",
+      "ru": [
+        "признак",
+        "симптом",
+        "знак"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "symptom",
+      "sourceIds": [
+        "symptom"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "simptomatican",
+      "word": "simptomatičan",
+      "en": "simptomatičan",
+      "ru": [
+        "симптоматичный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "symptomatic",
+      "sourceIds": [
+        "symptomatic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tableta",
+      "word": "tableta",
+      "en": "tableta",
+      "ru": [
+        "таблетка"
+      ],
+      "example": "Tom svaki dan pije tablete s vitaminima i mineralima.",
+      "level": "B2",
+      "sourceId": "tablet",
+      "sourceIds": [
+        "tablet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "temperatura",
+      "word": "temperatura",
+      "en": "temperatura",
+      "ru": [
+        "температура",
+        "горячка",
+        "жар"
+      ],
+      "example": "Želimo ti izmjeriti tjelesnu temperaturu.",
+      "level": "A2",
+      "sourceId": "temperature",
+      "sourceIds": [
+        "temperature"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "test",
+      "word": "test",
+      "en": "test",
+      "ru": [
+        "тест",
+        "испытание",
+        "проба"
+      ],
+      "example": "Dobro sam se pripremio za taj test.",
+      "level": "A1",
+      "sourceId": "test",
+      "sourceIds": [
+        "test"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "testiranje",
+      "word": "testiranje",
+      "en": "testiranje",
+      "ru": [
+        "тестирование"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "testing",
+      "sourceIds": [
+        "testing"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "terapija",
+      "word": "terapija",
+      "en": "terapija",
+      "ru": [
+        "лечение",
+        "терапия"
+      ],
+      "example": "Mnogi ljudi su bili protiv genske terapije poradi etičkih načela.",
+      "level": "B1",
+      "sourceId": "therapy",
+      "sourceIds": [
+        "therapy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umoran",
+      "word": "umoran",
+      "en": "umoran",
+      "ru": [
+        "утомлённый",
+        "усталый",
+        "уставший"
+      ],
+      "example": "Tako sam umoran da ne mogu učiti.",
+      "level": "B2",
+      "sourceId": "tired",
+      "sourceIds": [
+        "tired"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tretman",
+      "word": "tretman",
+      "en": "tretman",
+      "ru": [
+        "лечение",
+        "обращение",
+        "обхождение"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "treatment",
+      "sourceIds": [
+        "treatment"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nezdrav",
+      "word": "nezdrav",
+      "en": "nezdrav",
+      "ru": [
+        "вредный",
+        "нездоровый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "unhealthy",
+      "sourceIds": [
+        "unhealthy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "cjepivo",
+      "word": "cjepivo",
+      "en": "cjepivo",
+      "ru": [
+        "прививка",
+        "вакцина"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "vaccine",
+      "sourceIds": [
+        "vaccine"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "virus",
+      "word": "virus",
+      "en": "virus",
+      "ru": [
+        "вирус",
+        "компьютерный вирус"
+      ],
+      "example": "Virus mi je pokvario računalo.",
+      "level": "B1",
+      "sourceId": "virus",
+      "sourceIds": [
+        "virus"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vitamin",
+      "word": "vitamin",
+      "en": "vitamin",
+      "ru": [
+        "витамин"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "vitamin",
+      "sourceIds": [
+        "vitamin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "povracanje",
+      "word": "povraćanje",
+      "en": "povraćanje",
+      "ru": [
+        "рвота"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "vomit",
+      "sourceIds": [
+        "vomit"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "prati",
+      "word": "prati",
+      "en": "prati",
+      "ru": [
+        "мыть"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "wash",
+      "sourceIds": [
+        "wash"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "pranje",
+      "word": "pranje",
+      "en": "pranje",
+      "ru": [
+        "мытьё",
+        "мойка",
+        "промывка"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "washing",
+      "sourceIds": [
+        "washing"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "zdrav",
+      "word": "zdrav",
+      "en": "zdrav",
+      "ru": [
+        "здоровый",
+        "хорошо",
+        "как следует"
+      ],
+      "example": "Seoski zrak je zdraviji od gradskog.",
+      "level": "A1",
+      "sourceId": "well",
+      "sourceIds": [
+        "well"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wellness",
+      "word": "wellness",
+      "en": "wellness",
+      "ru": [
+        "хорошее самочувствие",
+        "оздоровление"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "wellness",
+      "sourceIds": [
+        "wellness"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rana",
+      "word": "rana",
+      "en": "rana",
+      "ru": [
+        "рана",
+        "травма",
+        "ранение"
+      ],
+      "example": "Tom je očito bio ovdje rano jutros.",
+      "level": "A2",
+      "sourceId": "wound",
+      "sourceIds": [
+        "wound"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ranjen",
+      "word": "ranjen",
+      "en": "ranjen",
+      "ru": [
+        "раненый"
+      ],
+      "example": "Bio je ranjen u borbi.",
+      "level": "C2",
+      "sourceId": "wounded",
+      "sourceIds": [
+        "wounded"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "farmacija",
+      "word": "farmacija",
+      "en": "farmacija",
+      "ru": [
+        "фармацевтика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pharma",
+      "sourceIds": [
+        "pharma"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "farmaceutski",
+      "word": "farmaceutski",
+      "en": "farmaceutski",
+      "ru": [
+        "фармацевтический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pharmaceutical",
+      "sourceIds": [
+        "pharmaceutical"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "odmoriti-se",
+      "word": "odmoriti se",
+      "en": "odmoriti se",
+      "ru": [
+        "расслабляться"
+      ],
+      "example": "Želim se malo odmoriti jer je domaća zadaća gotova.",
+      "level": "B1",
+      "sourceId": "relax",
+      "sourceIds": [
+        "relax"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hormon",
+      "word": "hormon",
+      "en": "hormon",
+      "ru": [
+        "гормон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hormone",
+      "sourceIds": [
+        "hormone"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "aromaterapija",
+      "word": "aromaterapija",
+      "en": "aromaterapija",
+      "ru": [
+        "ароматерапия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "aromatherapy",
+      "sourceIds": [
+        "aromatherapy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "njega",
+      "word": "njega",
+      "en": "njega",
+      "ru": [
+        "уход за собой"
+      ],
+      "example": "Njega su pokopali u njegovom rodnom gradu.",
+      "level": "C2",
+      "sourceId": "grooming",
+      "sourceIds": [
+        "grooming"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nicanje-zuba",
+      "word": "nicanje zuba",
+      "en": "nicanje zuba",
+      "ru": [
+        "прорезывание зубов"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "teething",
+      "sourceIds": [
+        "teething"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "pijan",
+      "word": "pijan",
+      "en": "pijan",
+      "ru": [
+        "выпивший"
+      ],
+      "example": "Ovaj čovjek je pijan.",
+      "level": "B1",
+      "sourceId": "drunk",
+      "sourceIds": [
+        "drunk"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "povracati",
+      "word": "povraćati",
+      "en": "povraćati",
+      "ru": [
+        "тошнить",
+        "рвать"
+      ],
+      "example": "Povraća mi se.",
+      "level": "B1",
+      "sourceId": "barf",
+      "sourceIds": [
+        "barf"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trankvilizator",
+      "word": "trankvilizator",
+      "en": "trankvilizator",
+      "ru": [
+        "транквилизатор",
+        "успокоительное"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tranquilizer",
+      "sourceIds": [
+        "tranquilizer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "abortus",
+      "word": "abortus",
+      "en": "abortus",
+      "ru": [
+        "аборт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "abortion",
+      "sourceIds": [
+        "abortion"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bogalj",
+      "word": "bogalj",
+      "en": "bogalj",
+      "ru": [
+        "калека"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cripple",
+      "sourceIds": [
+        "cripple"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "razoran",
+      "word": "razoran",
+      "en": "razoran",
+      "ru": [
+        "калечащий",
+        "разрушительный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crippling",
+      "sourceIds": [
+        "crippling"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kihanje",
+      "word": "kihanje",
+      "en": "kihanje",
+      "ru": [
+        "чихание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sneeze",
+      "sourceIds": [
+        "sneeze"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "svarljiv",
+      "word": "svarljiv",
+      "en": "svarljiv",
+      "ru": [
+        "усвояемый",
+        "понятный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "digestible",
+      "sourceIds": [
+        "digestible"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bradavica",
+      "word": "bradavica",
+      "en": "bradavica",
+      "ru": [
+        "бородавка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wart",
+      "sourceIds": [
+        "wart"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krvariti",
+      "word": "krvariti",
+      "en": "krvariti",
+      "ru": [
+        "кровоточить"
+      ],
+      "example": "Moje koljeno krvari.",
+      "level": "B1",
+      "sourceId": "bleed",
+      "sourceIds": [
+        "bleed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rehabilitacija",
+      "word": "rehabilitacija",
+      "en": "rehabilitacija",
+      "ru": [
+        "реабилитация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rehab",
+      "sourceIds": [
+        "rehab"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bolnicar",
+      "word": "bolničar",
+      "en": "bolničar",
+      "ru": [
+        "фельдшер",
+        "парамедик"
+      ],
+      "example": "Bolničarka je koristila tlakomjer kako bi mi izmjerila krvni tlak.",
+      "level": "B1",
+      "sourceId": "paramedic",
+      "sourceIds": [
+        "paramedic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "propisivati",
+      "word": "propisivati",
+      "en": "propisivati",
+      "ru": [
+        "прописывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "prescribe",
+      "sourceIds": [
+        "prescribe"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kokain",
+      "word": "kokain",
+      "en": "kokain",
+      "ru": [
+        "кокаин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cocaine",
+      "sourceIds": [
+        "cocaine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zavisan",
+      "word": "zavisan",
+      "en": "zavisan",
+      "ru": [
+        "зависимый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "addicted",
+      "sourceIds": [
+        "addicted"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "heroin",
+      "word": "heroin",
+      "en": "heroin",
+      "ru": [
+        "героин"
+      ],
+      "example": "On je ovisnik o heroinu.",
+      "level": "B1",
+      "sourceId": "heroin",
+      "sourceIds": [
+        "heroin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tampon",
+      "word": "tampon",
+      "en": "tampon",
+      "ru": [
+        "тампон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tampon",
+      "sourceIds": [
+        "tampon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "upala-pluca",
+      "word": "upala pluća",
+      "en": "upala pluća",
+      "ru": [
+        "пневмония",
+        "воспаление легких"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pneumonia",
+      "sourceIds": [
+        "pneumonia"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "koronarni",
+      "word": "koronarni",
+      "en": "koronarni",
+      "ru": [
+        "коронарный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "coronary",
+      "sourceIds": [
+        "coronary"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "oteci",
+      "word": "oteći",
+      "en": "oteći",
+      "ru": [
+        "опухать",
+        "раздуваться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "swell",
+      "sourceIds": [
+        "swell"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "fekalije",
+      "word": "fekalije",
+      "en": "fekalije",
+      "ru": [
+        "фекалии"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "feces",
+      "sourceIds": [
+        "feces"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "iscrpljenost",
+      "word": "iscrpljenost",
+      "en": "iscrpljenost",
+      "ru": [
+        "истощение",
+        "усталость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "exhaustion",
+      "sourceIds": [
+        "exhaustion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dijagnostikovati",
+      "word": "dijagnostikovati",
+      "en": "dijagnostikovati",
+      "ru": [
+        "диагностировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diagnose",
+      "sourceIds": [
+        "diagnose"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ispao",
+      "word": "ispao",
+      "en": "ispao",
+      "ru": [
+        "выпавший"
+      ],
+      "example": "Gospodine, ispao vam je novčanik!",
+      "level": "B1",
+      "sourceId": "prolapsed",
+      "sourceIds": [
+        "prolapsed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cervikalni",
+      "word": "cervikalni",
+      "en": "cervikalni",
+      "ru": [
+        "цервикальный",
+        "шейный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cervical",
+      "sourceIds": [
+        "cervical"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prolaps",
+      "word": "prolaps",
+      "en": "prolaps",
+      "ru": [
+        "выпадение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "prolapse",
+      "sourceIds": [
+        "prolapse"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mastitis",
+      "word": "mastitis",
+      "en": "mastitis",
+      "ru": [
+        "мастит"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mastitis",
+      "sourceIds": [
+        "mastitis"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ulcerirati",
+      "word": "ulcerirati",
+      "en": "ulcerirati",
+      "ru": [
+        "изъязвляться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ulcerate",
+      "sourceIds": [
+        "ulcerate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "antibiotik",
+      "word": "antibiotik",
+      "en": "antibiotik",
+      "ru": [
+        "антибиотик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "antibiotic",
+      "sourceIds": [
+        "antibiotic"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "davati",
+      "word": "davati",
+      "en": "davati",
+      "ru": [
+        "назначать",
+        "управлять",
+        "давать лекарство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "administer",
+      "sourceIds": [
+        "administer"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "apsces",
+      "word": "apsces",
+      "en": "apsces",
+      "ru": [
+        "абсцесс",
+        "гнойник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "abscess",
+      "sourceIds": [
+        "abscess"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "otrovati",
+      "word": "otrovati",
+      "en": "otrovati",
+      "ru": [
+        "отравлять"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "poison",
+      "sourceIds": [
+        "poison"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "napad",
+      "word": "napad",
+      "en": "napad",
+      "ru": [
+        "приступ",
+        "период",
+        "соревнование"
+      ],
+      "example": "Počeli su snažnim napadom protiv neprijatelja.",
+      "level": "B1",
+      "sourceId": "bout",
+      "sourceIds": [
+        "bout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "proljev",
+      "word": "proljev",
+      "en": "proljev",
+      "ru": [
+        "диарея",
+        "понос"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diarrhea",
+      "sourceIds": [
+        "diarrhea"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "salmonela",
+      "word": "salmonela",
+      "en": "salmonela",
+      "ru": [
+        "сальмонелла"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "salmonella",
+      "sourceIds": [
+        "salmonella"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "depresija",
+      "word": "depresija",
+      "en": "depresija",
+      "ru": [
+        "депрессия",
+        "углубление"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "depression",
+      "sourceIds": [
+        "depression"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "demencija",
+      "word": "demencija",
+      "en": "demencija",
+      "ru": [
+        "деменция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dementia",
+      "sourceIds": [
+        "dementia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "izlijeciti",
+      "word": "izliječiti",
+      "en": "izliječiti",
+      "ru": [
+        "исцелять",
+        "заживать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "heal",
+      "sourceIds": [
+        "heal"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ugusiti-se",
+      "word": "ugušiti se",
+      "en": "ugušiti se",
+      "ru": [
+        "давиться",
+        "задыхаться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "choke",
+      "sourceIds": [
+        "choke"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "suicidalan",
+      "word": "suicidalan",
+      "en": "suicidalan",
+      "ru": [
+        "суицидальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "suicidal",
+      "sourceIds": [
+        "suicidal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zatvor",
+      "word": "zatvor",
+      "en": "zatvor",
+      "ru": [
+        "запор"
+      ],
+      "example": "Posjetila je svog muža u zatvoru.",
+      "level": "B1",
+      "sourceId": "constipation",
+      "sourceIds": [
+        "constipation"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gljivicni",
+      "word": "gljivični",
+      "en": "gljivični",
+      "ru": [
+        "грибковый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fungal",
+      "sourceIds": [
+        "fungal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "halucinogen",
+      "word": "halucinogen",
+      "en": "halucinogen",
+      "ru": [
+        "галлюциногенный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hallucinogenic",
+      "sourceIds": [
+        "hallucinogenic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zarazan",
+      "word": "zarazan",
+      "en": "zarazan",
+      "ru": [
+        "вызывающий привыкание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "addictive",
+      "sourceIds": [
+        "addictive",
+        "habit-forming"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "smrtonosan",
+      "word": "smrtonosan",
+      "en": "smrtonosan",
+      "ru": [
+        "смертельный",
+        "роковой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fatal",
+      "sourceIds": [
+        "fatal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bolestan",
+      "word": "bolestan",
+      "en": "bolestan",
+      "ru": [
+        "нездоровый",
+        "больной"
+      ],
+      "example": "Ne može doći jer je bolestan.",
+      "level": "B1",
+      "sourceId": "unwell",
+      "sourceIds": [
+        "unwell"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zdravstvo",
+      "word": "zdravstvo",
+      "en": "zdravstvo",
+      "ru": [
+        "здравоохранение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "healthcare",
+      "sourceIds": [
+        "healthcare"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "gerijatrijski",
+      "word": "gerijatrijski",
+      "en": "gerijatrijski",
+      "ru": [
+        "гериатрический",
+        "старческий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "geriatric",
+      "sourceIds": [
+        "geriatric"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "inkontinencija",
+      "word": "inkontinencija",
+      "en": "inkontinencija",
+      "ru": [
+        "недержание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "incontinence",
+      "sourceIds": [
+        "incontinence"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mucnina",
+      "word": "mučnina",
+      "en": "mučnina",
+      "ru": [
+        "тошнота"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nausea",
+      "sourceIds": [
+        "nausea"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "olaksati",
+      "word": "olakšati",
+      "en": "olakšati",
+      "ru": [
+        "облегчать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "relieve",
+      "sourceIds": [
+        "relieve",
+        "alleviate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nelagodnost",
+      "word": "nelagodnost",
+      "en": "nelagodnost",
+      "ru": [
+        "дискомфорт",
+        "неудобство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "discomfort",
+      "sourceIds": [
+        "discomfort"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "analgetik",
+      "word": "analgetik",
+      "en": "analgetik",
+      "ru": [
+        "обезболивающее"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "analgesic",
+      "sourceIds": [
+        "analgesic"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "artritis",
+      "word": "artritis",
+      "en": "artritis",
+      "ru": [
+        "артрит"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "arthritis",
+      "sourceIds": [
+        "arthritis"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "lijekovi",
+      "word": "lijekovi",
+      "en": "lijekovi",
+      "ru": [
+        "лекарства"
+      ],
+      "example": "Neki lijekovi će ti više odmoći nego pomoći.",
+      "level": "B1",
+      "sourceId": "meds",
+      "sourceIds": [
+        "meds"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lijek",
+      "word": "lijek",
+      "en": "lijek",
+      "ru": [
+        "лекарство",
+        "медикаменты"
+      ],
+      "example": "Znanstvenici još nisu pronašli lijek za rak.",
+      "level": "B1",
+      "sourceId": "medication",
+      "sourceIds": [
+        "medication"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kastracija",
+      "word": "kastracija",
+      "en": "kastracija",
+      "ru": [
+        "кастрация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "castration",
+      "sourceIds": [
+        "castration"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "gladovati",
+      "word": "gladovati",
+      "en": "gladovati",
+      "ru": [
+        "голодать"
+      ],
+      "example": "Više volim gladovati, nego krasti.",
+      "level": "B1",
+      "sourceId": "starve",
+      "sourceIds": [
+        "starve"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "uracunljiv",
+      "word": "uračunljiv",
+      "en": "uračunljiv",
+      "ru": [
+        "здравомыслящий",
+        "вменяемый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sane",
+      "sourceIds": [
+        "sane"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bolest",
+      "word": "bolest",
+      "en": "bolest",
+      "ru": [
+        "болезнь",
+        "тошнота"
+      ],
+      "example": "Bolest iz djetinjstva ju je oslijepila.",
+      "level": "B1",
+      "sourceId": "sickness",
+      "sourceIds": [
+        "sickness"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bijesan",
+      "word": "bijesan",
+      "en": "bijesan",
+      "ru": [
+        "бессонный"
+      ],
+      "example": "Bezbojne zelene ideje spavaju bijesno.",
+      "level": "B1",
+      "sourceId": "sleepless",
+      "sourceIds": [
+        "sleepless"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kirurski",
+      "word": "kirurški",
+      "en": "kirurški",
+      "ru": [
+        "хирургический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "surgical",
+      "sourceIds": [
+        "surgical"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kirurg",
+      "word": "kirurg",
+      "en": "kirurg",
+      "ru": [
+        "хирург"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "surgeon",
+      "sourceIds": [
+        "surgeon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odmah",
+      "word": "odmah",
+      "en": "odmah",
+      "ru": [
+        "срочно"
+      ],
+      "example": "Elizabeta je odmah počela igrati ponovno.",
+      "level": "B1",
+      "sourceId": "stat",
+      "sourceIds": [
+        "stat"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aneurizma",
+      "word": "aneurizma",
+      "en": "aneurizma",
+      "ru": [
+        "аневризма"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "aneurysm",
+      "sourceIds": [
+        "aneurysm"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krvarenje",
+      "word": "krvarenje",
+      "en": "krvarenje",
+      "ru": [
+        "кровоизлияние"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hemorrhage",
+      "sourceIds": [
+        "hemorrhage"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "trauma",
+      "word": "trauma",
+      "en": "trauma",
+      "ru": [
+        "травма"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trauma",
+      "sourceIds": [
+        "trauma"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pocetak",
+      "word": "početak",
+      "en": "početak",
+      "ru": [
+        "начало",
+        "приступ"
+      ],
+      "example": "Ona će stići u Tokio početkom sljedećeg mjeseca.",
+      "level": "B1",
+      "sourceId": "onset",
+      "sourceIds": [
+        "onset"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "napad",
+      "word": "napad",
+      "en": "napad",
+      "ru": [
+        "припадок"
+      ],
+      "example": "Počeli su snažnim napadom protiv neprijatelja.",
+      "level": "B1",
+      "sourceId": "seizure",
+      "sourceIds": [
+        "seizure"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diazepam",
+      "word": "diazepam",
+      "en": "diazepam",
+      "ru": [
+        "диазепам"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diazepam",
+      "sourceIds": [
+        "diazepam"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kompletna-krvna-slika",
+      "word": "kompletna krvna slika",
+      "en": "kompletna krvna slika",
+      "ru": [
+        "общий анализ крови"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cbc",
+      "sourceIds": [
+        "cbc"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "medicinski-pregled",
+      "word": "medicinski pregled",
+      "en": "medicinski pregled",
+      "ru": [
+        "медицинское обследование"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "work-up",
+      "sourceIds": [
+        "work-up",
+        "workup"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rektalni",
+      "word": "rektalni",
+      "en": "rektalni",
+      "ru": [
+        "ректальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rectal",
+      "sourceIds": [
+        "rectal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ispit",
+      "word": "ispit",
+      "en": "ispit",
+      "ru": [
+        "экзамен",
+        "осмотр"
+      ],
+      "example": "Tom je varao na ispitu iz povijesti.",
+      "level": "B1",
+      "sourceId": "exam",
+      "sourceIds": [
+        "exam"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zaobici",
+      "word": "zaobići",
+      "en": "zaobići",
+      "ru": [
+        "обходить",
+        "шунтировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bypass",
+      "sourceIds": [
+        "bypass"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "iscjelitelj",
+      "word": "iscjelitelj",
+      "en": "iscjelitelj",
+      "ru": [
+        "целитель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "healer",
+      "sourceIds": [
+        "healer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hipokratov",
+      "word": "hipokratov",
+      "en": "hipokratov",
+      "ru": [
+        "гиппократов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hippocratic",
+      "sourceIds": [
+        "hippocratic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "apendektomija",
+      "word": "apendektomija",
+      "en": "apendektomija",
+      "ru": [
+        "аппендэктомия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "appendectomy",
+      "sourceIds": [
+        "appendectomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sedativ",
+      "word": "sedativ",
+      "en": "sedativ",
+      "ru": [
+        "успокаивающий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sedative",
+      "sourceIds": [
+        "sedative"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "osamucen",
+      "word": "ošamućen",
+      "en": "ošamućen",
+      "ru": [
+        "одурманенный",
+        "разбитый"
+      ],
+      "example": "Bio sam ošamućen.",
+      "level": "B1",
+      "sourceId": "groggy",
+      "sourceIds": [
+        "groggy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "podvezati",
+      "word": "podvezati",
+      "en": "podvezati",
+      "ru": [
+        "перевязывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ligate",
+      "sourceIds": [
+        "ligate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ispirati",
+      "word": "ispirati",
+      "en": "ispirati",
+      "ru": [
+        "орошать",
+        "промывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "irrigate",
+      "sourceIds": [
+        "irrigate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nesterilan",
+      "word": "nesterilan",
+      "en": "nesterilan",
+      "ru": [
+        "нестерильный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unsterile",
+      "sourceIds": [
+        "unsterile"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "skalpel",
+      "word": "skalpel",
+      "en": "skalpel",
+      "ru": [
+        "скальпель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "scalpel",
+      "sourceIds": [
+        "scalpel"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "stegnuti",
+      "word": "stegnuti",
+      "en": "stegnuti",
+      "ru": [
+        "зажимать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "clamp",
+      "sourceIds": [
+        "clamp"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hemofilicar",
+      "word": "hemofiličar",
+      "en": "hemofiličar",
+      "ru": [
+        "кровоточащий",
+        "страдающий гемофилией"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bleeder",
+      "sourceIds": [
+        "bleeder"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "usisavanje",
+      "word": "usisavanje",
+      "en": "usisavanje",
+      "ru": [
+        "всасывание",
+        "отсасывание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "suction",
+      "sourceIds": [
+        "suction"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "narkoman",
+      "word": "narkoman",
+      "en": "narkoman",
+      "ru": [
+        "наркоман",
+        "хлам"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "junky",
+      "sourceIds": [
+        "junky"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "postoperativni",
+      "word": "postoperativni",
+      "en": "postoperativni",
+      "ru": [
+        "послеоперационный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "post-operative",
+      "sourceIds": [
+        "post-operative",
+        "post-op"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "dijagnoza",
+      "word": "dijagnoza",
+      "en": "dijagnoza",
+      "ru": [
+        "диагноз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diagnosis",
+      "sourceIds": [
+        "diagnosis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "imobilizacija",
+      "word": "imobilizacija",
+      "en": "imobilizacija",
+      "ru": [
+        "наложение шины"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "splinting",
+      "sourceIds": [
+        "splinting"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lorazepam",
+      "word": "lorazepam",
+      "en": "lorazepam",
+      "ru": [
+        "лоразепам"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lorazepam",
+      "sourceIds": [
+        "lorazepam"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fenobarbital",
+      "word": "fenobarbital",
+      "en": "fenobarbital",
+      "ru": [
+        "фенобарбитал"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "phenobarbital",
+      "sourceIds": [
+        "phenobarbital"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ventrikularna-fibrilacija",
+      "word": "ventrikularna fibrilacija",
+      "en": "ventrikularna fibrilacija",
+      "ru": [
+        "фибрилляция желудочков"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ventricular-fibrillation",
+      "sourceIds": [
+        "ventricular-fibrillation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "poremecaj",
+      "word": "poremećaj",
+      "en": "poremećaj",
+      "ru": [
+        "расстройство",
+        "беспорядок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "disorder",
+      "sourceIds": [
+        "disorder"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "usiti",
+      "word": "ušiti",
+      "en": "ušiti",
+      "ru": [
+        "накладывать швы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "suture",
+      "sourceIds": [
+        "suture"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "anoksija",
+      "word": "anoksija",
+      "en": "anoksija",
+      "ru": [
+        "аноксия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "anoxia",
+      "sourceIds": [
+        "anoxia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kronican",
+      "word": "kroničan",
+      "en": "kroničan",
+      "ru": [
+        "хронический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chronic",
+      "sourceIds": [
+        "chronic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bubrezni",
+      "word": "bubrežni",
+      "en": "bubrežni",
+      "ru": [
+        "почечный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "renal",
+      "sourceIds": [
+        "renal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "acidoza",
+      "word": "acidoza",
+      "en": "acidoza",
+      "ru": [
+        "ацидоз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "acidosis",
+      "sourceIds": [
+        "acidosis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tumor",
+      "word": "tumor",
+      "en": "tumor",
+      "ru": [
+        "опухоль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tumor",
+      "sourceIds": [
+        "tumor"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "lezija",
+      "word": "lezija",
+      "en": "lezija",
+      "ru": [
+        "поражение",
+        "повреждение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lesion",
+      "sourceIds": [
+        "lesion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kicmeni",
+      "word": "kičmeni",
+      "en": "kičmeni",
+      "ru": [
+        "спинной",
+        "позвоночный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spinal",
+      "sourceIds": [
+        "spinal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "angiogram",
+      "word": "angiogram",
+      "en": "angiogram",
+      "ru": [
+        "ангиограмма"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "angiogram",
+      "sourceIds": [
+        "angiogram"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "subarahnoidalni",
+      "word": "subarahnoidalni",
+      "en": "subarahnoidalni",
+      "ru": [
+        "субарахноидальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "subarachnoid",
+      "sourceIds": [
+        "subarachnoid"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "komplikacija",
+      "word": "komplikacija",
+      "en": "komplikacija",
+      "ru": [
+        "осложнение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "complication",
+      "sourceIds": [
+        "complication"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "plucni",
+      "word": "plućni",
+      "en": "plućni",
+      "ru": [
+        "легочный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pulmonary",
+      "sourceIds": [
+        "pulmonary"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "embolus",
+      "word": "embolus",
+      "en": "embolus",
+      "ru": [
+        "эмбол"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "embolus",
+      "sourceIds": [
+        "embolus"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "heparin",
+      "word": "heparin",
+      "en": "heparin",
+      "ru": [
+        "гепарин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "heparin",
+      "sourceIds": [
+        "heparin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "les",
+      "word": "leš",
+      "en": "leš",
+      "ru": [
+        "труп"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cadaver",
+      "sourceIds": [
+        "cadaver"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "toksican",
+      "word": "toksičan",
+      "en": "toksičan",
+      "ru": [
+        "токсичный",
+        "ядовитый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "toxic",
+      "sourceIds": [
+        "toxic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sindrom",
+      "word": "sindrom",
+      "en": "sindrom",
+      "ru": [
+        "синдром"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "syndrome",
+      "sourceIds": [
+        "syndrome"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "traumatican",
+      "word": "traumatičan",
+      "en": "traumatičan",
+      "ru": [
+        "травматичный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "traumatic",
+      "sourceIds": [
+        "traumatic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bolan",
+      "word": "bolan",
+      "en": "bolan",
+      "ru": [
+        "болезненный"
+      ],
+      "example": "To je bolan i osjetljiv proces.",
+      "level": "B1",
+      "sourceId": "painful",
+      "sourceIds": [
+        "painful"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gusteracni",
+      "word": "gušteračni",
+      "en": "gušteračni",
+      "ru": [
+        "панкреатический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pancreatic",
+      "sourceIds": [
+        "pancreatic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "rotavirus",
+      "word": "rotavirus",
+      "en": "rotavirus",
+      "ru": [
+        "ротавирус"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rotavirus",
+      "sourceIds": [
+        "rotavirus"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "megakolon",
+      "word": "megakolon",
+      "en": "megakolon",
+      "ru": [
+        "мегаколон",
+        "расширение толстой кишки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "megacolon",
+      "sourceIds": [
+        "megacolon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "perforacija",
+      "word": "perforacija",
+      "en": "perforacija",
+      "ru": [
+        "перфорация",
+        "прободение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "perforation",
+      "sourceIds": [
+        "perforation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sepsa",
+      "word": "sepsa",
+      "en": "sepsa",
+      "ru": [
+        "сепсис",
+        "заражение крови"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sepsis",
+      "sourceIds": [
+        "sepsis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "neoplazija",
+      "word": "neoplazija",
+      "en": "neoplazija",
+      "ru": [
+        "неоплазия",
+        "новообразование"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "neoplasia",
+      "sourceIds": [
+        "neoplasia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dehidracija",
+      "word": "dehidracija",
+      "en": "dehidracija",
+      "ru": [
+        "обезвоживание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dehydration",
+      "sourceIds": [
+        "dehydration"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krvni-pritisak",
+      "word": "krvni pritisak",
+      "en": "krvni pritisak",
+      "ru": [
+        "артериальное давление"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "blood-pressure",
+      "sourceIds": [
+        "blood-pressure"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tahikardija",
+      "word": "tahikardija",
+      "en": "tahikardija",
+      "ru": [
+        "тахикардия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tachycardia",
+      "sourceIds": [
+        "tachycardia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ozeblina",
+      "word": "ozeblina",
+      "en": "ozeblina",
+      "ru": [
+        "обморожение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frostbite",
+      "sourceIds": [
+        "frostbite"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cefazolin",
+      "word": "cefazolin",
+      "en": "cefazolin",
+      "ru": [
+        "цефазолин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cefazolin",
+      "sourceIds": [
+        "cefazolin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "intravenozan",
+      "word": "intravenozan",
+      "en": "intravenozan",
+      "ru": [
+        "внутривенный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "intravenous",
+      "sourceIds": [
+        "intravenous",
+        "iv"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ponovo-zagrijati",
+      "word": "ponovo zagrijati",
+      "en": "ponovo zagrijati",
+      "ru": [
+        "повторно нагревать",
+        "согревать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rewarm",
+      "sourceIds": [
+        "rewarm"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "autoamputacija",
+      "word": "autoamputacija",
+      "en": "autoamputacija",
+      "ru": [
+        "самоампутация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "autoamputation",
+      "sourceIds": [
+        "autoamputation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kraniotomija",
+      "word": "kraniotomija",
+      "en": "kraniotomija",
+      "ru": [
+        "краниотомия",
+        "трепанация черепа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "craniotomy",
+      "sourceIds": [
+        "craniotomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "biloma",
+      "word": "biloma",
+      "en": "biloma",
+      "ru": [
+        "билома"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "biloma",
+      "sourceIds": [
+        "biloma"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "intraperitonealni",
+      "word": "intraperitonealni",
+      "en": "intraperitonealni",
+      "ru": [
+        "внутрибрюшинный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "intraperitoneal",
+      "sourceIds": [
+        "intraperitoneal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "paralizovati",
+      "word": "paralizovati",
+      "en": "paralizovati",
+      "ru": [
+        "парализовать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paralyze",
+      "sourceIds": [
+        "paralyze",
+        "paralyse"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "magnetska-rezonancija",
+      "word": "magnetska rezonancija",
+      "en": "magnetska rezonancija",
+      "ru": [
+        "МРТ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mri",
+      "sourceIds": [
+        "mri"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "gorusica",
+      "word": "gorušica",
+      "en": "gorušica",
+      "ru": [
+        "изжога"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "heartburn",
+      "sourceIds": [
+        "heartburn"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "antacid",
+      "word": "antacid",
+      "en": "antacid",
+      "ru": [
+        "антацид",
+        "средство от изжоги"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "antacid",
+      "sourceIds": [
+        "antacid"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ortopedski",
+      "word": "ortopedski",
+      "en": "ortopedski",
+      "ru": [
+        "ортопедический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "orthopedic",
+      "sourceIds": [
+        "orthopedic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "amputacija",
+      "word": "amputacija",
+      "en": "amputacija",
+      "ru": [
+        "ампутация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "amputation",
+      "sourceIds": [
+        "amputation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ultrazvuk",
+      "word": "ultrazvuk",
+      "en": "ultrazvuk",
+      "ru": [
+        "ультразвук",
+        "УЗИ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ultrasound",
+      "sourceIds": [
+        "ultrasound"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "akuser",
+      "word": "akušer",
+      "en": "akušer",
+      "ru": [
+        "акушер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "obstetrician",
+      "sourceIds": [
+        "obstetrician"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "izdrzljivost",
+      "word": "izdržljivost",
+      "en": "izdržljivost",
+      "ru": [
+        "выносливость",
+        "терпение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "endurance",
+      "sourceIds": [
+        "endurance"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "amputirati",
+      "word": "amputirati",
+      "en": "amputirati",
+      "ru": [
+        "ампутировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "amputate",
+      "sourceIds": [
+        "amputate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "laminotomija",
+      "word": "laminotomija",
+      "en": "laminotomija",
+      "ru": [
+        "ламинотомия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "laminotomy",
+      "sourceIds": [
+        "laminotomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kompresija",
+      "word": "kompresija",
+      "en": "kompresija",
+      "ru": [
+        "сжатие",
+        "компрессия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "compression",
+      "sourceIds": [
+        "compression"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "peteljka",
+      "word": "peteljka",
+      "en": "peteljka",
+      "ru": [
+        "ножка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pedicle",
+      "sourceIds": [
+        "pedicle"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "slomiti",
+      "word": "slomiti",
+      "en": "slomiti",
+      "ru": [
+        "ломать"
+      ],
+      "example": "Nemoj slomiti moj novi stol.",
+      "level": "B1",
+      "sourceId": "fracture",
+      "sourceIds": [
+        "fracture"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "slomljen",
+      "word": "slomljen",
+      "en": "slomljen",
+      "ru": [
+        "сломанный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fractured",
+      "sourceIds": [
+        "fractured"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "osteosinteza",
+      "word": "osteosinteza",
+      "en": "osteosinteza",
+      "ru": [
+        "остеосинтез"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "osteosynthesis",
+      "sourceIds": [
+        "osteosynthesis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "amputiran",
+      "word": "amputiran",
+      "en": "amputiran",
+      "ru": [
+        "ампутированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "amputated",
+      "sourceIds": [
+        "amputated"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "hipotermican",
+      "word": "hipotermičan",
+      "en": "hipotermičan",
+      "ru": [
+        "гипотермический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypothermic",
+      "sourceIds": [
+        "hypothermic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "davalac",
+      "word": "davalac",
+      "en": "davalac",
+      "ru": [
+        "донор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "donor",
+      "sourceIds": [
+        "donor"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "flaster",
+      "word": "flaster",
+      "en": "flaster",
+      "ru": [
+        "пластырь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "band-aid",
+      "sourceIds": [
+        "band-aid"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "otpustiti",
+      "word": "otpustiti",
+      "en": "otpustiti",
+      "ru": [
+        "выписывать",
+        "разряжать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "discharge",
+      "sourceIds": [
+        "discharge"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "puci",
+      "word": "pući",
+      "en": "pući",
+      "ru": [
+        "разрывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rupture",
+      "sourceIds": [
+        "rupture"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "prosiriti",
+      "word": "proširiti",
+      "en": "proširiti",
+      "ru": [
+        "расширять",
+        "расширяться"
+      ],
+      "example": "Tvrtka se namjerava proširiti u Kinu.",
+      "level": "B1",
+      "sourceId": "dilate",
+      "sourceIds": [
+        "dilate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atropin",
+      "word": "atropin",
+      "en": "atropin",
+      "ru": [
+        "атропин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "atropine",
+      "sourceIds": [
+        "atropine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pulsni-oksimetar",
+      "word": "pulsni oksimetar",
+      "en": "pulsni oksimetar",
+      "ru": [
+        "пульсоксиметр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pulse-oximeter",
+      "sourceIds": [
+        "pulse-oximeter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "medijastinum",
+      "word": "medijastinum",
+      "en": "medijastinum",
+      "ru": [
+        "средостение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mediastinum",
+      "sourceIds": [
+        "mediastinum"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "edem",
+      "word": "edem",
+      "en": "edem",
+      "ru": [
+        "отек"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "edema",
+      "sourceIds": [
+        "edema"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "manitol",
+      "word": "manitol",
+      "en": "manitol",
+      "ru": [
+        "маннитол"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mannitol",
+      "sourceIds": [
+        "mannitol"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "deksametazon",
+      "word": "deksametazon",
+      "en": "deksametazon",
+      "ru": [
+        "дексаметазон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dexamethasone",
+      "sourceIds": [
+        "dexamethasone"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fenitoin",
+      "word": "fenitoin",
+      "en": "fenitoin",
+      "ru": [
+        "фенитоин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "phenytoin",
+      "sourceIds": [
+        "phenytoin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sediran",
+      "word": "sediran",
+      "en": "sediran",
+      "ru": [
+        "одурманенный",
+        "под седацией"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gorked",
+      "sourceIds": [
+        "gorked"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "roznjacni",
+      "word": "rožnjačni",
+      "en": "rožnjačni",
+      "ru": [
+        "роговичный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "corneal",
+      "sourceIds": [
+        "corneal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "refleks",
+      "word": "refleks",
+      "en": "refleks",
+      "ru": [
+        "рефлекс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reflex",
+      "sourceIds": [
+        "reflex"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "testosteron",
+      "word": "testosteron",
+      "en": "testosteron",
+      "ru": [
+        "тестостерон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "testosterone",
+      "sourceIds": [
+        "testosterone"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "resecirati",
+      "word": "resecirati",
+      "en": "resecirati",
+      "ru": [
+        "резекция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "resect",
+      "sourceIds": [
+        "resect"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "mozdana-smrt",
+      "word": "moždana smrt",
+      "en": "moždana smrt",
+      "ru": [
+        "смерть мозга"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brain-dead",
+      "sourceIds": [
+        "brain-dead"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dopamin",
+      "word": "dopamin",
+      "en": "dopamin",
+      "ru": [
+        "дофамин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dopamine",
+      "sourceIds": [
+        "dopamine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "transfundovati",
+      "word": "transfundovati",
+      "en": "transfundovati",
+      "ru": [
+        "переливать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transfuse",
+      "sourceIds": [
+        "transfuse"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "radiolog",
+      "word": "radiolog",
+      "en": "radiolog",
+      "ru": [
+        "радиолог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "radiologist",
+      "sourceIds": [
+        "radiologist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "aortni",
+      "word": "aortni",
+      "en": "aortni",
+      "ru": [
+        "аортальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "aortic",
+      "sourceIds": [
+        "aortic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "presorni",
+      "word": "presorni",
+      "en": "presorni",
+      "ru": [
+        "прессорный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pressor",
+      "sourceIds": [
+        "pressor"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "transfuzija-krvi",
+      "word": "transfuzija krvi",
+      "en": "transfuzija krvi",
+      "ru": [
+        "переливание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transfusion",
+      "sourceIds": [
+        "transfusion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "presadjivati",
+      "word": "presađivati",
+      "en": "presađivati",
+      "ru": [
+        "пересаживать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transplant",
+      "sourceIds": [
+        "transplant"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nosa",
+      "word": "noša",
+      "en": "noša",
+      "ru": [
+        "судно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bedpan",
+      "sourceIds": [
+        "bedpan"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "na-otvorenom-srcu",
+      "word": "na otvorenom srcu",
+      "en": "na otvorenom srcu",
+      "ru": [
+        "на открытом сердце"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "open-heart",
+      "sourceIds": [
+        "open-heart"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kalemiti",
+      "word": "kalemiti",
+      "en": "kalemiti",
+      "ru": [
+        "прививать",
+        "пересаживать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "graft",
+      "sourceIds": [
+        "graft"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hemipelvektomija",
+      "word": "hemipelvektomija",
+      "en": "hemipelvektomija",
+      "ru": [
+        "гемипельвэктомия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hemipelvectomy",
+      "sourceIds": [
+        "hemipelvectomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kolica-za-pacijente",
+      "word": "kolica za pacijente",
+      "en": "kolica za pacijente",
+      "ru": [
+        "каталка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gurney",
+      "sourceIds": [
+        "gurney"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "kauterizacija",
+      "word": "kauterizacija",
+      "en": "kauterizacija",
+      "ru": [
+        "прижигание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cauterization",
+      "sourceIds": [
+        "cauterization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mrtvorodjenje",
+      "word": "mrtvorođenje",
+      "en": "mrtvorođenje",
+      "ru": [
+        "мертворождение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stillbirth",
+      "sourceIds": [
+        "stillbirth"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "osakatiti",
+      "word": "osakatiti",
+      "en": "osakatiti",
+      "ru": [
+        "калечить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "maim",
+      "sourceIds": [
+        "maim"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "otecen",
+      "word": "otečen",
+      "en": "otečen",
+      "ru": [
+        "опухший"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "swollen",
+      "sourceIds": [
+        "swollen"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "rez",
+      "word": "rez",
+      "en": "rez",
+      "ru": [
+        "разрез"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "incision",
+      "sourceIds": [
+        "incision"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "porodjaj",
+      "word": "porođaj",
+      "en": "porođaj",
+      "ru": [
+        "роды"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "childbirth",
+      "sourceIds": [
+        "childbirth"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ovisnik",
+      "word": "ovisnik",
+      "en": "ovisnik",
+      "ru": [
+        "зависимый человек",
+        "наркоман"
+      ],
+      "example": "On je ovisnik o heroinu.",
+      "level": "B1",
+      "sourceId": "addict",
+      "sourceIds": [
+        "addict"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "udar",
+      "word": "udar",
+      "en": "udar",
+      "ru": [
+        "удар",
+        "инсульт",
+        "штрих"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stroke",
+      "sourceIds": [
+        "stroke"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ugusiti",
+      "word": "ugušiti",
+      "en": "ugušiti",
+      "ru": [
+        "задыхаться",
+        "душить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "suffocate",
+      "sourceIds": [
+        "suffocate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "narkotik",
+      "word": "narkotik",
+      "en": "narkotik",
+      "ru": [
+        "наркотик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "narcotic",
+      "sourceIds": [
+        "narcotic"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "terapeut",
+      "word": "terapeut",
+      "en": "terapeut",
+      "ru": [
+        "терапевт",
+        "психотерапевт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "therapist",
+      "sourceIds": [
+        "therapist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "imun",
+      "word": "imun",
+      "en": "imun",
+      "ru": [
+        "иммунный",
+        "невосприимчивый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "immune",
+      "sourceIds": [
+        "immune"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "trijezan",
+      "word": "trijezan",
+      "en": "trijezan",
+      "ru": [
+        "трезвый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sober",
+      "sourceIds": [
+        "sober"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "samoubojstvo",
+      "word": "samoubojstvo",
+      "en": "samoubojstvo",
+      "ru": [
+        "самоубийство"
+      ],
+      "example": "Heroj romana počinio samoubojstvo.",
+      "level": "B1",
+      "sourceId": "suicide",
+      "sourceIds": [
+        "suicide"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "predoziranje",
+      "word": "predoziranje",
+      "en": "predoziranje",
+      "ru": [
+        "передозировка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "overdose",
+      "sourceIds": [
+        "overdose"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "lijek",
+      "word": "lijek",
+      "en": "lijek",
+      "ru": [
+        "средство",
+        "лекарство"
+      ],
+      "example": "Znanstvenici još nisu pronašli lijek za rak.",
+      "level": "B1",
+      "sourceId": "remedy",
+      "sourceIds": [
+        "remedy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lijeciti",
+      "word": "liječiti",
+      "en": "liječiti",
+      "ru": [
+        "лечить",
+        "давать лекарство"
+      ],
+      "example": "Bolje spriječiti nego liječiti.",
+      "level": "B1",
+      "sourceId": "medicate",
+      "sourceIds": [
+        "medicate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ljekoviti",
+      "word": "ljekoviti",
+      "en": "ljekoviti",
+      "ru": [
+        "лекарственный",
+        "содержащий лекарство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "medicated",
+      "sourceIds": [
+        "medicated"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "izbirljivac",
+      "word": "izbirljivac",
+      "en": "izbirljivac",
+      "ru": [
+        "малоежка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undereater",
+      "sourceIds": [
+        "undereater"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "terminalno",
+      "word": "terminalno",
+      "en": "terminalno",
+      "ru": [
+        "неизлечимо",
+        "в конечном счете"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "terminally",
+      "sourceIds": [
+        "terminally"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "gladovanje",
+      "word": "gladovanje",
+      "en": "gladovanje",
+      "ru": [
+        "голод"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "starvation",
+      "sourceIds": [
+        "starvation"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "neurotik",
+      "word": "neurotik",
+      "en": "neurotik",
+      "ru": [
+        "невротический",
+        "невротик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "neurotic",
+      "sourceIds": [
+        "neurotic"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gubavac",
+      "word": "gubavac",
+      "en": "gubavac",
+      "ru": [
+        "прокаженный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "leper",
+      "sourceIds": [
+        "leper"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ugraditi",
+      "word": "ugraditi",
+      "en": "ugraditi",
+      "ru": [
+        "вживлять",
+        "имплантировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "implant",
+      "sourceIds": [
+        "implant"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "paranoican",
+      "word": "paranoičan",
+      "en": "paranoičan",
+      "ru": [
+        "параноидальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paranoid",
+      "sourceIds": [
+        "paranoid"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mamuran",
+      "word": "mamuran",
+      "en": "mamuran",
+      "ru": [
+        "с похмельем"
+      ],
+      "example": "Danas sam mamuran.",
+      "level": "B1",
+      "sourceId": "hungover",
+      "sourceIds": [
+        "hungover"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ogrebotina",
+      "word": "ogrebotina",
+      "en": "ogrebotina",
+      "ru": [
+        "ссадина",
+        "абразия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "abrasion",
+      "sourceIds": [
+        "abrasion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "svjestan",
+      "word": "svjestan",
+      "en": "svjestan",
+      "ru": [
+        "сознательный",
+        "в сознании"
+      ],
+      "example": "Nije svjestan da nema vremena za te stvari.",
+      "level": "B1",
+      "sourceId": "conscious",
+      "sourceIds": [
+        "conscious"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bubuljicav",
+      "word": "bubuljičav",
+      "en": "bubuljičav",
+      "ru": [
+        "прыщавый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pimply",
+      "sourceIds": [
+        "pimply"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "paracetamol",
+      "word": "paracetamol",
+      "en": "paracetamol",
+      "ru": [
+        "парацетамол"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paracetamol",
+      "sourceIds": [
+        "paracetamol"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "raniti",
+      "word": "raniti",
+      "en": "raniti",
+      "ru": [
+        "ранить",
+        "травмировать"
+      ],
+      "example": "Tko rano rani, dvije sreće grabi.",
+      "level": "B1",
+      "sourceId": "injure",
+      "sourceIds": [
+        "injure"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ozlijedjen",
+      "word": "ozlijeđen",
+      "en": "ozlijeđen",
+      "ru": [
+        "раненый",
+        "пострадавший"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "injured",
+      "sourceIds": [
+        "injured"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "nagonski-povracati",
+      "word": "nagonski povraćati",
+      "en": "nagonski povraćati",
+      "ru": [
+        "рвать",
+        "тошнить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "retch",
+      "sourceIds": [
+        "retch"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zarazan",
+      "word": "zarazan",
+      "en": "zarazan",
+      "ru": [
+        "заразный",
+        "инфекционный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "contagious",
+      "sourceIds": [
+        "contagious"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "trzajna-ozljeda-vrata",
+      "word": "trzajna ozljeda vrata",
+      "en": "trzajna ozljeda vrata",
+      "ru": [
+        "хлыстовая травма"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "whiplash",
+      "sourceIds": [
+        "whiplash"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "klinicki",
+      "word": "klinički",
+      "en": "klinički",
+      "ru": [
+        "клинически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "clinically",
+      "sourceIds": [
+        "clinically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "opustiti-se",
+      "word": "opustiti se",
+      "en": "opustiti se",
+      "ru": [
+        "расслабляться",
+        "декомпрессия"
+      ],
+      "example": "Dobro ti ide. Samo se opusti. Budi svoj.",
+      "level": "B1",
+      "sourceId": "decompress",
+      "sourceIds": [
+        "decompress"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kateter",
+      "word": "kateter",
+      "en": "kateter",
+      "ru": [
+        "катетер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "catheter",
+      "sourceIds": [
+        "catheter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "koncem-cistiti-zube",
+      "word": "koncem čistiti zube",
+      "en": "koncem čistiti zube",
+      "ru": [
+        "чистить зубной нитью"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "floss",
+      "sourceIds": [
+        "floss"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "halucinacija",
+      "word": "halucinacija",
+      "en": "halucinacija",
+      "ru": [
+        "галлюцинация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hallucination",
+      "sourceIds": [
+        "hallucination"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "odjel",
+      "word": "odjel",
+      "en": "odjel",
+      "ru": [
+        "палата",
+        "подопечный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ward",
+      "sourceIds": [
+        "ward"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "traumatizirati",
+      "word": "traumatizirati",
+      "en": "traumatizirati",
+      "ru": [
+        "травмировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "traumatize",
+      "sourceIds": [
+        "traumatize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hemoroid",
+      "word": "hemoroid",
+      "en": "hemoroid",
+      "ru": [
+        "геморрой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hemorrhoid",
+      "sourceIds": [
+        "hemorrhoid"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kolorektalni",
+      "word": "kolorektalni",
+      "en": "kolorektalni",
+      "ru": [
+        "колоректальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "colorectal",
+      "sourceIds": [
+        "colorectal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "resekcija",
+      "word": "resekcija",
+      "en": "resekcija",
+      "ru": [
+        "резекция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "resection",
+      "sourceIds": [
+        "resection"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mrtvacnica",
+      "word": "mrtvačnica",
+      "en": "mrtvačnica",
+      "ru": [
+        "морг"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "morgue",
+      "sourceIds": [
+        "morgue",
+        "mortuary"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ludost",
+      "word": "ludost",
+      "en": "ludost",
+      "ru": [
+        "безумие"
+      ],
+      "example": "Ludost je prešla granicu.",
+      "level": "B1",
+      "sourceId": "insanity",
+      "sourceIds": [
+        "insanity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "energija",
+      "word": "energija",
+      "en": "energija",
+      "ru": [
+        "энергия",
+        "бодрость"
+      ],
+      "example": "Vjetar je jeftin i čist izvor energije",
+      "level": "B1",
+      "sourceId": "pep",
+      "sourceIds": [
+        "pep"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "posttraumatski",
+      "word": "posttraumatski",
+      "en": "posttraumatski",
+      "ru": [
+        "посттравматический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "post-traumatic",
+      "sourceIds": [
+        "post-traumatic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "halucinirati",
+      "word": "halucinirati",
+      "en": "halucinirati",
+      "ru": [
+        "галлюцинировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hallucinate",
+      "sourceIds": [
+        "hallucinate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zatezanje-lica",
+      "word": "zatezanje lica",
+      "en": "zatezanje lica",
+      "ru": [
+        "подтяжка лица",
+        "рестайлинг"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "facelift",
+      "sourceIds": [
+        "facelift"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "dezinficirati",
+      "word": "dezinficirati",
+      "en": "dezinficirati",
+      "ru": [
+        "дезинфицировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sanitize",
+      "sourceIds": [
+        "sanitize",
+        "disinfect"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kozmeticki",
+      "word": "kozmetički",
+      "en": "kozmetički",
+      "ru": [
+        "косметический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cosmetic",
+      "sourceIds": [
+        "cosmetic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "osteoporoza",
+      "word": "osteoporoza",
+      "en": "osteoporoza",
+      "ru": [
+        "остеопороз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "osteoporosis",
+      "sourceIds": [
+        "osteoporosis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "alergican",
+      "word": "alergičan",
+      "en": "alergičan",
+      "ru": [
+        "аллергический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "allergic",
+      "sourceIds": [
+        "allergic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "hripati",
+      "word": "hripati",
+      "en": "hripati",
+      "ru": [
+        "хрип",
+        "хрипеть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wheeze",
+      "sourceIds": [
+        "wheeze"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "bolan",
+      "word": "bolan",
+      "en": "bolan",
+      "ru": [
+        "больной",
+        "воспаленный"
+      ],
+      "example": "To je bolan i osjetljiv proces.",
+      "level": "B1",
+      "sourceId": "sore",
+      "sourceIds": [
+        "sore"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parafilni",
+      "word": "parafilni",
+      "en": "parafilni",
+      "ru": [
+        "парафильный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paraphilic",
+      "sourceIds": [
+        "paraphilic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "meditacija",
+      "word": "meditacija",
+      "en": "meditacija",
+      "ru": [
+        "медитация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "meditation",
+      "sourceIds": [
+        "meditation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "svijest",
+      "word": "svijest",
+      "en": "svijest",
+      "ru": [
+        "сознание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "consciousness",
+      "sourceIds": [
+        "consciousness"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "metamfetamin",
+      "word": "metamfetamin",
+      "en": "metamfetamin",
+      "ru": [
+        "метамфетамин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "methamphetamine",
+      "sourceIds": [
+        "methamphetamine",
+        "meth"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "lsd",
+      "word": "LSD",
+      "en": "LSD",
+      "ru": [
+        "ЛСД"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lsd",
+      "sourceIds": [
+        "lsd"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "narkoman",
+      "word": "narkoman",
+      "en": "narkoman",
+      "ru": [
+        "наркоман (метамфетамин)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tweaker",
+      "sourceIds": [
+        "tweaker"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "psihijatrijski",
+      "word": "psihijatrijski",
+      "en": "psihijatrijski",
+      "ru": [
+        "психиатрический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "psychiatric",
+      "sourceIds": [
+        "psychiatric"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "narkoman",
+      "word": "narkoman",
+      "en": "narkoman",
+      "ru": [
+        "наркоман"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crankhead",
+      "sourceIds": [
+        "crankhead",
+        "junkie",
+        "druggie"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ubrizgati",
+      "word": "ubrizgati",
+      "en": "ubrizgati",
+      "ru": [
+        "вводить (инъекцию)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "inject",
+      "sourceIds": [
+        "inject"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "gluhoca",
+      "word": "gluhoća",
+      "en": "gluhoća",
+      "ru": [
+        "глухота"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "deafness",
+      "sourceIds": [
+        "deafness"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "koma",
+      "word": "koma",
+      "en": "koma",
+      "ru": [
+        "кома"
+      ],
+      "example": "Komu se sviđa brazilianska glazba? Ja!",
+      "level": "B1",
+      "sourceId": "coma",
+      "sourceIds": [
+        "coma"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bezbolno",
+      "word": "bezbolno",
+      "en": "bezbolno",
+      "ru": [
+        "безболезненно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "painlessly",
+      "sourceIds": [
+        "painlessly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "osip",
+      "word": "osip",
+      "en": "osip",
+      "ru": [
+        "сыпь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rash",
+      "sourceIds": [
+        "rash"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sakacenje",
+      "word": "sakaćenje",
+      "en": "sakaćenje",
+      "ru": [
+        "увечье"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mutilation",
+      "sourceIds": [
+        "mutilation"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "ubrizgati-u-venu",
+      "word": "ubrizgati u venu",
+      "en": "ubrizgati u venu",
+      "ru": [
+        "основная магистраль",
+        "вводить внутривенно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mainline",
+      "sourceIds": [
+        "mainline"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "gojaznost",
+      "word": "gojaznost",
+      "en": "gojaznost",
+      "ru": [
+        "ожирение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "obesity",
+      "sourceIds": [
+        "obesity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krhak",
+      "word": "krhak",
+      "en": "krhak",
+      "ru": [
+        "хрупкий",
+        "хилый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frail",
+      "sourceIds": [
+        "frail"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "proteza",
+      "word": "proteza",
+      "en": "proteza",
+      "ru": [
+        "скоба",
+        "брекеты"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brace",
+      "sourceIds": [
+        "brace"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kratkovidost",
+      "word": "kratkovidost",
+      "en": "kratkovidost",
+      "ru": [
+        "близорукость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "myopia",
+      "sourceIds": [
+        "myopia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nesanica",
+      "word": "nesanica",
+      "en": "nesanica",
+      "ru": [
+        "бессонница"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "insomnia",
+      "sourceIds": [
+        "insomnia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "statin",
+      "word": "statin",
+      "en": "statin",
+      "ru": [
+        "статин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "statin",
+      "sourceIds": [
+        "statin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kondom",
+      "word": "kondom",
+      "en": "kondom",
+      "ru": [
+        "презерватив"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "condom",
+      "sourceIds": [
+        "condom"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "razderotina",
+      "word": "razderotina",
+      "en": "razderotina",
+      "ru": [
+        "рваная рана"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "laceration",
+      "sourceIds": [
+        "laceration"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "toksin",
+      "word": "toksin",
+      "en": "toksin",
+      "ru": [
+        "токсин",
+        "яд"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "toxin",
+      "sourceIds": [
+        "toxin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kolesterol",
+      "word": "kolesterol",
+      "en": "kolesterol",
+      "ru": [
+        "холестерин"
+      ],
+      "example": "Moj kolesterol je visok.",
+      "level": "B1",
+      "sourceId": "cholesterol",
+      "sourceIds": [
+        "cholesterol"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ehinacea",
+      "word": "ehinacea",
+      "en": "ehinacea",
+      "ru": [
+        "эхинацея"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "echinacea",
+      "sourceIds": [
+        "echinacea"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "neoperabilan",
+      "word": "neoperabilan",
+      "en": "neoperabilan",
+      "ru": [
+        "неоперабельный",
+        "неработающий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "inoperable",
+      "sourceIds": [
+        "inoperable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kemoterapija",
+      "word": "kemoterapija",
+      "en": "kemoterapija",
+      "ru": [
+        "химиотерапия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chemotherapy",
+      "sourceIds": [
+        "chemotherapy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "respirator",
+      "word": "respirator",
+      "en": "respirator",
+      "ru": [
+        "респиратор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "respirator",
+      "sourceIds": [
+        "respirator"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "invalidska-kolica",
+      "word": "invalidska kolica",
+      "en": "invalidska kolica",
+      "ru": [
+        "инвалидная коляска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wheelchair",
+      "sourceIds": [
+        "wheelchair"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "marihuana",
+      "word": "marihuana",
+      "en": "marihuana",
+      "ru": [
+        "марихуана"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "marijuana",
+      "sourceIds": [
+        "marijuana"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "talk",
+      "word": "talk",
+      "en": "talk",
+      "ru": [
+        "тальк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "talcum",
+      "sourceIds": [
+        "talcum"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "osamucen",
+      "word": "ošamućen",
+      "en": "ošamućen",
+      "ru": [
+        "головокружительный",
+        "легкомысленный"
+      ],
+      "example": "Bio sam ošamućen.",
+      "level": "B1",
+      "sourceId": "light-headed",
+      "sourceIds": [
+        "light-headed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "erektilni",
+      "word": "erektilni",
+      "en": "erektilni",
+      "ru": [
+        "эректильный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "erectile",
+      "sourceIds": [
+        "erectile"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "disfunkcija",
+      "word": "disfunkcija",
+      "en": "disfunkcija",
+      "ru": [
+        "дисфункция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dysfunction",
+      "sourceIds": [
+        "dysfunction"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "autopsija",
+      "word": "autopsija",
+      "en": "autopsija",
+      "ru": [
+        "вскрытие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "autopsy",
+      "sourceIds": [
+        "autopsy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bocnuti",
+      "word": "bocnuti",
+      "en": "bocnuti",
+      "ru": [
+        "тыкать",
+        "колоть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "jab",
+      "sourceIds": [
+        "jab"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lijecnik",
+      "word": "liječnik",
+      "en": "liječnik",
+      "ru": [
+        "доктор"
+      ],
+      "example": "Kao dijete sam želio postati liječnik.",
+      "level": "B1",
+      "sourceId": "doc",
+      "sourceIds": [
+        "doc"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bolnicar",
+      "word": "bolničar",
+      "en": "bolničar",
+      "ru": [
+        "медик"
+      ],
+      "example": "Bolničarka je koristila tlakomjer kako bi mi izmjerila krvni tlak.",
+      "level": "B1",
+      "sourceId": "medic",
+      "sourceIds": [
+        "medic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "medijastinalni",
+      "word": "medijastinalni",
+      "en": "medijastinalni",
+      "ru": [
+        "средостенный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mediastinal",
+      "sourceIds": [
+        "mediastinal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "perikardiocenteza",
+      "word": "perikardiocenteza",
+      "en": "perikardiocenteza",
+      "ru": [
+        "перикардиоцентез"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pericardiocentesis",
+      "sourceIds": [
+        "pericardiocentesis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pneumotoraks",
+      "word": "pneumotoraks",
+      "en": "pneumotoraks",
+      "ru": [
+        "пневмоторакс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pneumothorax",
+      "sourceIds": [
+        "pneumothorax"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "respiratorni",
+      "word": "respiratorni",
+      "en": "respiratorni",
+      "ru": [
+        "дыхательный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "respiratory",
+      "sourceIds": [
+        "respiratory"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "udahnuti",
+      "word": "udahnuti",
+      "en": "udahnuti",
+      "ru": [
+        "вдыхать"
+      ],
+      "example": "Tom duboko udahnu.",
+      "level": "B1",
+      "sourceId": "inhale",
+      "sourceIds": [
+        "inhale"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tetanus",
+      "word": "tetanus",
+      "en": "tetanus",
+      "ru": [
+        "столбняк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tetanus",
+      "sourceIds": [
+        "tetanus"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kontuzija",
+      "word": "kontuzija",
+      "en": "kontuzija",
+      "ru": [
+        "ушиб"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "contusion",
+      "sourceIds": [
+        "contusion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "srcani",
+      "word": "srčani",
+      "en": "srčani",
+      "ru": [
+        "сердечный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cardiac",
+      "sourceIds": [
+        "cardiac"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zgrusavati-se",
+      "word": "zgrušavati se",
+      "en": "zgrušavati se",
+      "ru": [
+        "свертываться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "clot",
+      "sourceIds": [
+        "clot"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "podveza",
+      "word": "podveza",
+      "en": "podveza",
+      "ru": [
+        "жгут"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tourniquet",
+      "sourceIds": [
+        "tourniquet"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "intubirati",
+      "word": "intubirati",
+      "en": "intubirati",
+      "ru": [
+        "интубировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "intubate",
+      "sourceIds": [
+        "intubate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hitni-centar",
+      "word": "hitni centar",
+      "en": "hitni centar",
+      "ru": [
+        "отделение неотложной помощи"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "emergency-room",
+      "sourceIds": [
+        "emergency-room"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bez-reakcije",
+      "word": "bez reakcije",
+      "en": "bez reakcije",
+      "ru": [
+        "неотвечающий",
+        "без сознания"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unresponsive",
+      "sourceIds": [
+        "unresponsive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sterilizirati",
+      "word": "sterilizirati",
+      "en": "sterilizirati",
+      "ru": [
+        "стерилизовать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sterilize",
+      "sourceIds": [
+        "sterilize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "sedacija",
+      "word": "sedacija",
+      "en": "sedacija",
+      "ru": [
+        "седация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sedation",
+      "sourceIds": [
+        "sedation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cisticni",
+      "word": "cistični",
+      "en": "cistični",
+      "ru": [
+        "кистозный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cystic",
+      "sourceIds": [
+        "cystic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "fibroza",
+      "word": "fibroza",
+      "en": "fibroza",
+      "ru": [
+        "фиброз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fibrosis",
+      "sourceIds": [
+        "fibrosis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "respirator",
+      "word": "respirator",
+      "en": "respirator",
+      "ru": [
+        "аппарат искусственной вентиляции легких"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ventilator",
+      "sourceIds": [
+        "ventilator"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "umoran",
+      "word": "umoran",
+      "en": "umoran",
+      "ru": [
+        "утомленный"
+      ],
+      "example": "Tako sam umoran da ne mogu učiti.",
+      "level": "B1",
+      "sourceId": "fatigued",
+      "sourceIds": [
+        "fatigued"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dekompresivni",
+      "word": "dekompresivni",
+      "en": "dekompresivni",
+      "ru": [
+        "декомпрессионный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decompressive",
+      "sourceIds": [
+        "decompressive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kraniektomija",
+      "word": "kraniektomija",
+      "en": "kraniektomija",
+      "ru": [
+        "краниэктомия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "craniectomy",
+      "sourceIds": [
+        "craniectomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "oblog",
+      "word": "oblog",
+      "en": "oblog",
+      "ru": [
+        "компресс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "compress",
+      "sourceIds": [
+        "compress"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "komatozan",
+      "word": "komatozan",
+      "en": "komatozan",
+      "ru": [
+        "коматозный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "comatose",
+      "sourceIds": [
+        "comatose"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "intenzivna-njega",
+      "word": "intenzivna njega",
+      "en": "intenzivna njega",
+      "ru": [
+        "реанимация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "icu",
+      "sourceIds": [
+        "icu"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hipotenzivan",
+      "word": "hipotenzivan",
+      "en": "hipotenzivan",
+      "ru": [
+        "гипотензивный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypotensive",
+      "sourceIds": [
+        "hypotensive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "formirati-kilu",
+      "word": "formirati kilu",
+      "en": "formirati kilu",
+      "ru": [
+        "грыжевой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "herniate",
+      "sourceIds": [
+        "herniate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kauterizirati",
+      "word": "kauterizirati",
+      "en": "kauterizirati",
+      "ru": [
+        "прижигать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cauterize",
+      "sourceIds": [
+        "cauterize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "carski-rez",
+      "word": "carski rez",
+      "en": "carski rez",
+      "ru": [
+        "кесарево сечение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crash-section",
+      "sourceIds": [
+        "crash-section"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bez-svijesti",
+      "word": "bez svijesti",
+      "en": "bez svijesti",
+      "ru": [
+        "бессознательный",
+        "без сознания"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unconscious",
+      "sourceIds": [
+        "unconscious"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "psihijatar",
+      "word": "psihijatar",
+      "en": "psihijatar",
+      "ru": [
+        "психиатр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "psychiatrist",
+      "sourceIds": [
+        "psychiatrist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zarazan",
+      "word": "zarazan",
+      "en": "zarazan",
+      "ru": [
+        "инфекционный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "infectious",
+      "sourceIds": [
+        "infectious"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "karantena",
+      "word": "karantena",
+      "en": "karantena",
+      "ru": [
+        "карантин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "quarantine",
+      "sourceIds": [
+        "quarantine"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sterilan",
+      "word": "sterilan",
+      "en": "sterilan",
+      "ru": [
+        "стерильный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sterile",
+      "sourceIds": [
+        "sterile"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "fentanil",
+      "word": "fentanil",
+      "en": "fentanil",
+      "ru": [
+        "фентанил"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fentanyl",
+      "sourceIds": [
+        "fentanyl"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hospis",
+      "word": "hospis",
+      "en": "hospis",
+      "ru": [
+        "хоспис"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hospice",
+      "sourceIds": [
+        "hospice"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ultrazvuk",
+      "word": "ultrazvuk",
+      "en": "ultrazvuk",
+      "ru": [
+        "УЗИ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sonogram",
+      "sourceIds": [
+        "sonogram"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ginekolog",
+      "word": "ginekolog",
+      "en": "ginekolog",
+      "ru": [
+        "гинеколог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ob-gyn",
+      "sourceIds": [
+        "ob-gyn"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ortodont",
+      "word": "ortodont",
+      "en": "ortodont",
+      "ru": [
+        "ортодонт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "orthodontist",
+      "sourceIds": [
+        "orthodontist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sistolni",
+      "word": "sistolni",
+      "en": "sistolni",
+      "ru": [
+        "систолический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "systolic",
+      "sourceIds": [
+        "systolic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ekg",
+      "word": "EKG",
+      "en": "EKG",
+      "ru": [
+        "ЭКГ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ekg",
+      "sourceIds": [
+        "ekg"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pedijatrija",
+      "word": "pedijatrija",
+      "en": "pedijatrija",
+      "ru": [
+        "педиатрия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pediatrics",
+      "sourceIds": [
+        "pediatrics"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "snimiti-rendgenom",
+      "word": "snimiti rendgenom",
+      "en": "snimiti rendgenom",
+      "ru": [
+        "делать рентген"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "x-ray",
+      "sourceIds": [
+        "x-ray"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "sarkom",
+      "word": "sarkom",
+      "en": "sarkom",
+      "ru": [
+        "саркома"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sarcoma",
+      "sourceIds": [
+        "sarcoma"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "jajnicki",
+      "word": "jajnički",
+      "en": "jajnički",
+      "ru": [
+        "яичниковый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ovarian",
+      "sourceIds": [
+        "ovarian"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "benigan",
+      "word": "benigan",
+      "en": "benigan",
+      "ru": [
+        "доброкачественный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "benign",
+      "sourceIds": [
+        "benign"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "dopler",
+      "word": "dopler",
+      "en": "dopler",
+      "ru": [
+        "доплер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "doppler",
+      "sourceIds": [
+        "doppler"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "venozan",
+      "word": "venozan",
+      "en": "venozan",
+      "ru": [
+        "венозный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "venous",
+      "sourceIds": [
+        "venous"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tromboza",
+      "word": "tromboza",
+      "en": "tromboza",
+      "ru": [
+        "тромбоз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "thrombosis",
+      "sourceIds": [
+        "thrombosis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "antikoagulacija",
+      "word": "antikoagulacija",
+      "en": "antikoagulacija",
+      "ru": [
+        "антикоагуляция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "anticoagulation",
+      "sourceIds": [
+        "anticoagulation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "biopsija",
+      "word": "biopsija",
+      "en": "biopsija",
+      "ru": [
+        "биопсия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "biopsy",
+      "sourceIds": [
+        "biopsy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "glomerulonefritis",
+      "word": "glomerulonefritis",
+      "en": "glomerulonefritis",
+      "ru": [
+        "гломерулонефрит"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "glomerulonephritis",
+      "sourceIds": [
+        "glomerulonephritis"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "autoimuni",
+      "word": "autoimuni",
+      "en": "autoimuni",
+      "ru": [
+        "аутоиммунный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "autoimmune",
+      "sourceIds": [
+        "autoimmune"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "probavni",
+      "word": "probavni",
+      "en": "probavni",
+      "ru": [
+        "пищеварительный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "digestive",
+      "sourceIds": [
+        "digestive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "fallot",
+      "word": "Fallot",
+      "en": "Fallot",
+      "ru": [
+        "фалло"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fallot",
+      "sourceIds": [
+        "fallot"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "atrezija",
+      "word": "atrezija",
+      "en": "atrezija",
+      "ru": [
+        "атрезия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "atresia",
+      "sourceIds": [
+        "atresia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "intrakranijalni-pritisak",
+      "word": "intrakranijalni pritisak",
+      "en": "intrakranijalni pritisak",
+      "ru": [
+        "внутричерепное давление"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "icp",
+      "sourceIds": [
+        "icp"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "transventrikularni",
+      "word": "transventrikularni",
+      "en": "transventrikularni",
+      "ru": [
+        "трансвентрикулярный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transventricular",
+      "sourceIds": [
+        "transventricular"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ventrikulotomija",
+      "word": "ventrikulotomija",
+      "en": "ventrikulotomija",
+      "ru": [
+        "вентрикулотомия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ventriculotomy",
+      "sourceIds": [
+        "ventriculotomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ponovo-oboljeti",
+      "word": "ponovo oboljeti",
+      "en": "ponovo oboljeti",
+      "ru": [
+        "впадать обратно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "relapse",
+      "sourceIds": [
+        "relapse"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "netolerantan-na-laktozu",
+      "word": "netolerantan na laktozu",
+      "en": "netolerantan na laktozu",
+      "ru": [
+        "с непереносимостью лактозы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lactose-intolerant",
+      "sourceIds": [
+        "lactose-intolerant"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "paraplegicar",
+      "word": "paraplegičar",
+      "en": "paraplegičar",
+      "ru": [
+        "параплегик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paraplegic",
+      "sourceIds": [
+        "paraplegic"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pedikura",
+      "word": "pedikura",
+      "en": "pedikura",
+      "ru": [
+        "педикюр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pedicure",
+      "sourceIds": [
+        "pedicure"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "postmenopauzalni",
+      "word": "postmenopauzalni",
+      "en": "postmenopauzalni",
+      "ru": [
+        "постменопаузальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "postmenopausal",
+      "sourceIds": [
+        "postmenopausal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "petehijalni",
+      "word": "petehijalni",
+      "en": "petehijalni",
+      "ru": [
+        "петехиальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "petechial",
+      "sourceIds": [
+        "petechial"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "davljenje",
+      "word": "davljenje",
+      "en": "davljenje",
+      "ru": [
+        "удушение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "strangulation",
+      "sourceIds": [
+        "strangulation"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "mamurluk",
+      "word": "mamurluk",
+      "en": "mamurluk",
+      "ru": [
+        "похмелье"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hangover",
+      "sourceIds": [
+        "hangover"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "iscasiti",
+      "word": "iščašiti",
+      "en": "iščašiti",
+      "ru": [
+        "вывихнуть",
+        "сместить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dislocate",
+      "sourceIds": [
+        "dislocate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "psorijaza",
+      "word": "psorijaza",
+      "en": "psorijaza",
+      "ru": [
+        "псориаз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "psoriasis",
+      "sourceIds": [
+        "psoriasis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dermatolog",
+      "word": "dermatolog",
+      "en": "dermatolog",
+      "ru": [
+        "дерматолог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dermatologist",
+      "sourceIds": [
+        "dermatologist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "opasan-po-zivot",
+      "word": "opasan po život",
+      "en": "opasan po život",
+      "ru": [
+        "опасный для жизни"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "life-threatening",
+      "sourceIds": [
+        "life-threatening"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "patoloski",
+      "word": "patološki",
+      "en": "patološki",
+      "ru": [
+        "патологический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pathological",
+      "sourceIds": [
+        "pathological"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "septican",
+      "word": "septičan",
+      "en": "septičan",
+      "ru": [
+        "септический",
+        "зараженный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "septic",
+      "sourceIds": [
+        "septic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kardiolog",
+      "word": "kardiolog",
+      "en": "kardiolog",
+      "ru": [
+        "кардиолог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cardiologist",
+      "sourceIds": [
+        "cardiologist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ocvrsnuti",
+      "word": "očvrsnuti",
+      "en": "očvrsnuti",
+      "ru": [
+        "закалять",
+        "укреплять"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "toughen",
+      "sourceIds": [
+        "toughen"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "stetan",
+      "word": "štetan",
+      "en": "štetan",
+      "ru": [
+        "вредный"
+      ],
+      "example": "Pušenje je štetno za zdravlje.",
+      "level": "B1",
+      "sourceId": "harmful",
+      "sourceIds": [
+        "harmful"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "boljka",
+      "word": "boljka",
+      "en": "boljka",
+      "ru": [
+        "недуг",
+        "болезнь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ailment",
+      "sourceIds": [
+        "ailment"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "uremija",
+      "word": "uremija",
+      "en": "uremija",
+      "ru": [
+        "уремия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "uraemia",
+      "sourceIds": [
+        "uraemia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "uremijski",
+      "word": "uremijski",
+      "en": "uremijski",
+      "ru": [
+        "уремический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "uraemic",
+      "sourceIds": [
+        "uraemic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pogorsati",
+      "word": "pogoršati",
+      "en": "pogoršati",
+      "ru": [
+        "обострять",
+        "усугублять"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "exacerbate",
+      "sourceIds": [
+        "exacerbate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "doziranje",
+      "word": "doziranje",
+      "en": "doziranje",
+      "ru": [
+        "дозировка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dosage",
+      "sourceIds": [
+        "dosage"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "nekroza",
+      "word": "nekroza",
+      "en": "nekroza",
+      "ru": [
+        "некроз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "necrosis",
+      "sourceIds": [
+        "necrosis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zaraziti",
+      "word": "zaraziti",
+      "en": "zaraziti",
+      "ru": [
+        "заражать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "infect",
+      "sourceIds": [
+        "infect"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zarazen",
+      "word": "zaražen",
+      "en": "zaražen",
+      "ru": [
+        "зараженный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "infected",
+      "sourceIds": [
+        "infected"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mezentericni",
+      "word": "mezenterični",
+      "en": "mezenterični",
+      "ru": [
+        "брыжеечный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mesenteric",
+      "sourceIds": [
+        "mesenteric"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "nedovoljnost",
+      "word": "nedovoljnost",
+      "en": "nedovoljnost",
+      "ru": [
+        "недостаточность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "insufficiency",
+      "sourceIds": [
+        "insufficiency"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "traheostomija",
+      "word": "traheostomija",
+      "en": "traheostomija",
+      "ru": [
+        "трахеостомия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tracheostomy",
+      "sourceIds": [
+        "tracheostomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "stetoskop",
+      "word": "stetoskop",
+      "en": "stetoskop",
+      "ru": [
+        "стетоскоп"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stethoscope",
+      "sourceIds": [
+        "stethoscope"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dijaliza",
+      "word": "dijaliza",
+      "en": "dijaliza",
+      "ru": [
+        "диализ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dialysis",
+      "sourceIds": [
+        "dialysis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "embolija",
+      "word": "embolija",
+      "en": "embolija",
+      "ru": [
+        "эмболия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "embolism",
+      "sourceIds": [
+        "embolism"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ortostatika",
+      "word": "ortostatika",
+      "en": "ortostatika",
+      "ru": [
+        "ортостатика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "orthostatics",
+      "sourceIds": [
+        "orthostatics"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kuga",
+      "word": "kuga",
+      "en": "kuga",
+      "ru": [
+        "чума",
+        "бедствие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "plague",
+      "sourceIds": [
+        "plague"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "okrepljenje",
+      "word": "okrepljenje",
+      "en": "okrepljenje",
+      "ru": [
+        "тонизирующее средство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pick-me-up",
+      "sourceIds": [
+        "pick-me-up"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "klizma",
+      "word": "klizma",
+      "en": "klizma",
+      "ru": [
+        "клизма"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "enema",
+      "sourceIds": [
+        "enema"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "angioedem",
+      "word": "angioedem",
+      "en": "angioedem",
+      "ru": [
+        "ангионевротический отек"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "angioedema",
+      "sourceIds": [
+        "angioedema"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "steroid",
+      "word": "steroid",
+      "en": "steroid",
+      "ru": [
+        "стероид"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "steroid",
+      "sourceIds": [
+        "steroid"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "antihistaminik",
+      "word": "antihistaminik",
+      "en": "antihistaminik",
+      "ru": [
+        "антигистаминное средство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "antihistamine",
+      "sourceIds": [
+        "antihistamine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "aspirin",
+      "word": "aspirin",
+      "en": "aspirin",
+      "ru": [
+        "аспирин"
+      ],
+      "example": "Imaš li aspirin pri ruci?",
+      "level": "B1",
+      "sourceId": "aspirin",
+      "sourceIds": [
+        "aspirin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "preznojen",
+      "word": "preznojen",
+      "en": "preznojen",
+      "ru": [
+        "потогонный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diaphoretic",
+      "sourceIds": [
+        "diaphoretic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gaza",
+      "word": "gaza",
+      "en": "gaza",
+      "ru": [
+        "марля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gauze",
+      "sourceIds": [
+        "gauze"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "aritmija",
+      "word": "aritmija",
+      "en": "aritmija",
+      "ru": [
+        "аритмия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "arrhythmia",
+      "sourceIds": [
+        "arrhythmia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dijabeticki",
+      "word": "dijabetički",
+      "en": "dijabetički",
+      "ru": [
+        "диабетический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "diabetic",
+      "sourceIds": [
+        "diabetic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "inzulin",
+      "word": "inzulin",
+      "en": "inzulin",
+      "ru": [
+        "инсулин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "insulin",
+      "sourceIds": [
+        "insulin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hipoglikemijski",
+      "word": "hipoglikemijski",
+      "en": "hipoglikemijski",
+      "ru": [
+        "гипогликемический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypoglycaemic",
+      "sourceIds": [
+        "hypoglycaemic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "samostalno-primijenjen",
+      "word": "samostalno primijenjen",
+      "en": "samostalno primijenjen",
+      "ru": [
+        "самостоятельно вводимый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "self-administered",
+      "sourceIds": [
+        "self-administered"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "proglasen-invalidom",
+      "word": "proglašen invalidom",
+      "en": "proglašen invalidom",
+      "ru": [
+        "признанный инвалидом"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "invalided",
+      "sourceIds": [
+        "invalided"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "psihosomatski",
+      "word": "psihosomatski",
+      "en": "psihosomatski",
+      "ru": [
+        "психосоматический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "psychosomatic",
+      "sourceIds": [
+        "psychosomatic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gusenje",
+      "word": "gušenje",
+      "en": "gušenje",
+      "ru": [
+        "асфиксия",
+        "удушье"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "asphyxiation",
+      "sourceIds": [
+        "asphyxiation"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "psihopat",
+      "word": "psihopat",
+      "en": "psihopat",
+      "ru": [
+        "психопат"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "psychopath",
+      "sourceIds": [
+        "psychopath"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drhtanje",
+      "word": "drhtanje",
+      "en": "drhtanje",
+      "ru": [
+        "дрожь",
+        "тремор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tremor",
+      "sourceIds": [
+        "tremor"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "nikotin",
+      "word": "nikotin",
+      "en": "nikotin",
+      "ru": [
+        "никотин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nicotine",
+      "sourceIds": [
+        "nicotine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "visokofunkcionalan",
+      "word": "visokofunkcionalan",
+      "en": "visokofunkcionalan",
+      "ru": [
+        "высокофункциональный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "high-functioning",
+      "sourceIds": [
+        "high-functioning"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mrtvorodjen",
+      "word": "mrtvorođen",
+      "en": "mrtvorođen",
+      "ru": [
+        "мертворожденный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stillborn",
+      "sourceIds": [
+        "stillborn"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "paraliziran",
+      "word": "paraliziran",
+      "en": "paraliziran",
+      "ru": [
+        "парализованный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paralytic",
+      "sourceIds": [
+        "paralytic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "probava",
+      "word": "probava",
+      "en": "probava",
+      "ru": [
+        "пищеварение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "digestion",
+      "sourceIds": [
+        "digestion"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ekcem",
+      "word": "ekcem",
+      "en": "ekcem",
+      "ru": [
+        "экзема"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eczema",
+      "sourceIds": [
+        "eczema"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "krvotok",
+      "word": "krvotok",
+      "en": "krvotok",
+      "ru": [
+        "кровоток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bloodstream",
+      "sourceIds": [
+        "bloodstream"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dezinfekcijsko-sredstvo",
+      "word": "dezinfekcijsko sredstvo",
+      "en": "dezinfekcijsko sredstvo",
+      "ru": [
+        "дезинфицирующее средство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "disinfectant",
+      "sourceIds": [
+        "disinfectant"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "botoks",
+      "word": "botoks",
+      "en": "botoks",
+      "ru": [
+        "ботокс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "botox",
+      "sourceIds": [
+        "botox"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ugusiti",
+      "word": "ugušiti",
+      "en": "ugušiti",
+      "ru": [
+        "задыхаться",
+        "душить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "asphyxiate",
+      "sourceIds": [
+        "asphyxiate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "varikozan",
+      "word": "varikozan",
+      "en": "varikozan",
+      "ru": [
+        "варикозный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "varicose",
+      "sourceIds": [
+        "varicose"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "svrbjeti",
+      "word": "svrbjeti",
+      "en": "svrbjeti",
+      "ru": [
+        "чесаться"
+      ],
+      "example": "Cijelo tijelo me svrbi.",
+      "level": "B1",
+      "sourceId": "itch",
+      "sourceIds": [
+        "itch"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hipnoza",
+      "word": "hipnoza",
+      "en": "hipnoza",
+      "ru": [
+        "гипноз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypnosis",
+      "sourceIds": [
+        "hypnosis"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "konjunktivitis",
+      "word": "konjunktivitis",
+      "en": "konjunktivitis",
+      "ru": [
+        "конъюнктивит"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pinkeye",
+      "sourceIds": [
+        "pinkeye"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "laksativ",
+      "word": "laksativ",
+      "en": "laksativ",
+      "ru": [
+        "слабительное"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "laxative",
+      "sourceIds": [
+        "laxative"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "adrenalin",
+      "word": "adrenalin",
+      "en": "adrenalin",
+      "ru": [
+        "эпинефрин",
+        "адреналин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "epinephrine",
+      "sourceIds": [
+        "epinephrine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "s-malo-vlakana",
+      "word": "s malo vlakana",
+      "en": "s malo vlakana",
+      "ru": [
+        "с низким содержанием клетчатки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "low-fiber",
+      "sourceIds": [
+        "low-fiber"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "apneja",
+      "word": "apneja",
+      "en": "apneja",
+      "ru": [
+        "апноэ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "apnea",
+      "sourceIds": [
+        "apnea"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "otorinolaringolog",
+      "word": "otorinolaringolog",
+      "en": "otorinolaringolog",
+      "ru": [
+        "отоларинголог",
+        "ЛОР"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "otolaryngologist",
+      "sourceIds": [
+        "otolaryngologist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "proktolog",
+      "word": "proktolog",
+      "en": "proktolog",
+      "ru": [
+        "проктолог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "proctologist",
+      "sourceIds": [
+        "proctologist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ebola",
+      "word": "ebola",
+      "en": "ebola",
+      "ru": [
+        "эбола"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ebola",
+      "sourceIds": [
+        "ebola"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "potres-mozga",
+      "word": "potres mozga",
+      "en": "potres mozga",
+      "ru": [
+        "сотрясение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "concussion",
+      "sourceIds": [
+        "concussion"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dijeteticar",
+      "word": "dijetetičar",
+      "en": "dijetetičar",
+      "ru": [
+        "диетолог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dietician",
+      "sourceIds": [
+        "dietician"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hipoalergen",
+      "word": "hipoalergen",
+      "en": "hipoalergen",
+      "ru": [
+        "гипоаллергенный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypoallergenic",
+      "sourceIds": [
+        "hypoallergenic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "opustanje",
+      "word": "opuštanje",
+      "en": "opuštanje",
+      "ru": [
+        "расслабление",
+        "отдых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "relaxation",
+      "sourceIds": [
+        "relaxation"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "venericni",
+      "word": "venerični",
+      "en": "venerični",
+      "ru": [
+        "венерический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "venereal",
+      "sourceIds": [
+        "venereal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kolonoskopija",
+      "word": "kolonoskopija",
+      "en": "kolonoskopija",
+      "ru": [
+        "колоноскопия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "colonoscopy",
+      "sourceIds": [
+        "colonoscopy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "polip",
+      "word": "polip",
+      "en": "polip",
+      "ru": [
+        "полип"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "polyp",
+      "sourceIds": [
+        "polyp"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "agonija",
+      "word": "agonija",
+      "en": "agonija",
+      "ru": [
+        "мучение",
+        "агония"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "agony",
+      "sourceIds": [
+        "agony"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kontraceptiv",
+      "word": "kontraceptiv",
+      "en": "kontraceptiv",
+      "ru": [
+        "контрацептив"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "contraceptive",
+      "sourceIds": [
+        "contraceptive"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "skidati-mrtve-celije",
+      "word": "skidati mrtve ćelije",
+      "en": "skidati mrtve ćelije",
+      "ru": [
+        "отшелушивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "exfoliate",
+      "sourceIds": [
+        "exfoliate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "usmrtiti-strujom",
+      "word": "usmrtiti strujom",
+      "en": "usmrtiti strujom",
+      "ru": [
+        "убить электрическим током"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "electrocute",
+      "sourceIds": [
+        "electrocute"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "morfij",
+      "word": "morfij",
+      "en": "morfij",
+      "ru": [
+        "морфин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "morphine",
+      "sourceIds": [
+        "morphine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "razum",
+      "word": "razum",
+      "en": "razum",
+      "ru": [
+        "здравомыслие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sanity",
+      "sourceIds": [
+        "sanity"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "daltonist",
+      "word": "daltonist",
+      "en": "daltonist",
+      "ru": [
+        "дальтоник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "color-blind",
+      "sourceIds": [
+        "color-blind"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "akupunktura",
+      "word": "akupunktura",
+      "en": "akupunktura",
+      "ru": [
+        "иглоукалывание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "acupuncture",
+      "sourceIds": [
+        "acupuncture"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "terapeutski",
+      "word": "terapeutski",
+      "en": "terapeutski",
+      "ru": [
+        "терапевтический",
+        "лечебный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "therapeutic",
+      "sourceIds": [
+        "therapeutic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lepra",
+      "word": "lepra",
+      "en": "lepra",
+      "ru": [
+        "проказа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "leprosy",
+      "sourceIds": [
+        "leprosy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "epidemija",
+      "word": "epidemija",
+      "en": "epidemija",
+      "ru": [
+        "эпидемия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "epidemic",
+      "sourceIds": [
+        "epidemic"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "metabolizam",
+      "word": "metabolizam",
+      "en": "metabolizam",
+      "ru": [
+        "метаболизм"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "metabolism",
+      "sourceIds": [
+        "metabolism"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "histerektomija",
+      "word": "histerektomija",
+      "en": "histerektomija",
+      "ru": [
+        "гистерэктомия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hysterectomy",
+      "sourceIds": [
+        "hysterectomy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dermatitis",
+      "word": "dermatitis",
+      "en": "dermatitis",
+      "ru": [
+        "дерматит"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dermatitis",
+      "sourceIds": [
+        "dermatitis"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kirurski",
+      "word": "kirurški",
+      "en": "kirurški",
+      "ru": [
+        "хирургически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "surgically",
+      "sourceIds": [
+        "surgically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "neuroloski",
+      "word": "neurološki",
+      "en": "neurološki",
+      "ru": [
+        "неврологический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "neurological",
+      "sourceIds": [
+        "neurological"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mucan",
+      "word": "mučan",
+      "en": "mučan",
+      "ru": [
+        "тошнотворный",
+        "вызывающий тошноту"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nauseous",
+      "sourceIds": [
+        "nauseous"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sanitacija",
+      "word": "sanitacija",
+      "en": "sanitacija",
+      "ru": [
+        "санитария",
+        "гигиена"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sanitation",
+      "sourceIds": [
+        "sanitation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "klaustrofobija",
+      "word": "klaustrofobija",
+      "en": "klaustrofobija",
+      "ru": [
+        "клаустрофобия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "claustrophobia",
+      "sourceIds": [
+        "claustrophobia"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prozac",
+      "word": "Prozac",
+      "en": "Prozac",
+      "ru": [
+        "прозак"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "prozac",
+      "sourceIds": [
+        "prozac"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "antidepresiv",
+      "word": "antidepresiv",
+      "en": "antidepresiv",
+      "ru": [
+        "антидепрессант"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "antidepressant",
+      "sourceIds": [
+        "antidepressant"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "staka",
+      "word": "štaka",
+      "en": "štaka",
+      "ru": [
+        "костыль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crutch",
+      "sourceIds": [
+        "crutch"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bezbolan",
+      "word": "bezbolan",
+      "en": "bezbolan",
+      "ru": [
+        "безболезненный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "painless",
+      "sourceIds": [
+        "painless"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "internist",
+      "word": "internist",
+      "en": "internist",
+      "ru": [
+        "терапевт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "internist",
+      "sourceIds": [
+        "internist"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "distrofija",
+      "word": "distrofija",
+      "en": "distrofija",
+      "ru": [
+        "дистрофия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dystrophy",
+      "sourceIds": [
+        "dystrophy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "detoks",
+      "word": "detoks",
+      "en": "detoks",
+      "ru": [
+        "детокс",
+        "очищение организма"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "detox",
+      "sourceIds": [
+        "detox"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cir",
+      "word": "čir",
+      "en": "čir",
+      "ru": [
+        "язва"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ulcer",
+      "sourceIds": [
+        "ulcer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pedijatrijski",
+      "word": "pedijatrijski",
+      "en": "pedijatrijski",
+      "ru": [
+        "педиатрический"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pediatric",
+      "sourceIds": [
+        "pediatric"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pubertet",
+      "word": "pubertet",
+      "en": "pubertet",
+      "ru": [
+        "половая зрелость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "puberty",
+      "sourceIds": [
+        "puberty"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bolesno",
+      "word": "bolesno",
+      "en": "bolesno",
+      "ru": [
+        "болезненно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "morbidly",
+      "sourceIds": [
+        "morbidly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gojazan",
+      "word": "gojazan",
+      "en": "gojazan",
+      "ru": [
+        "тучный",
+        "страдающий ожирением"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "obese",
+      "sourceIds": [
+        "obese"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "utrnulost",
+      "word": "utrnulost",
+      "en": "utrnulost",
+      "ru": [
+        "оцепенение",
+        "онемение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "numbness",
+      "sourceIds": [
+        "numbness"
+      ],
+      "pos": "n",
+      "gender": "f"
+    }
+  ]
+}

@@ -1,0 +1,4198 @@
+{
+  "id": "money",
+  "title": "Деньги",
+  "paid": true,
+  "blockId": "society",
+  "words": [
+    {
+      "id": "tili",
+      "word": "tili",
+      "en": "tili",
+      "ru": [
+        "счёт",
+        "отчёт"
+      ],
+      "example": "Tuomas ei ole vielä ottanut tiliään käyttöön.",
+      "level": "A1",
+      "sourceId": "account",
+      "sourceIds": [
+        "account"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tilivelvollisuus",
+      "word": "tilivelvollisuus",
+      "en": "tilivelvollisuus",
+      "ru": [
+        "ответственность",
+        "отчётность",
+        "подотчётность"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "accountability",
+      "sourceIds": [
+        "accountability"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vastuussa",
+      "word": "vastuussa",
+      "en": "vastuussa",
+      "ru": [
+        "ответственный",
+        "подотчётный"
+      ],
+      "example": "Et ole vastuussa siitä, mitä Tom teki.",
+      "level": "C2",
+      "sourceId": "accountable",
+      "sourceIds": [
+        "accountable"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kirjanpito",
+      "word": "kirjanpito",
+      "en": "kirjanpito",
+      "ru": [
+        "бухгалтерский учёт",
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "example": "Osaatko hoitaa kirjanpitoa?",
+      "level": "C2",
+      "sourceId": "accountancy",
+      "sourceIds": [
+        "accountancy"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kirjanpitaja",
+      "word": "kirjanpitäjä",
+      "en": "kirjanpitäjä",
+      "ru": [
+        "бухгалтер"
+      ],
+      "example": "Olen kirjanpitäjä.",
+      "level": "C2",
+      "sourceId": "accountant",
+      "sourceIds": [
+        "accountant"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laskentatoimi",
+      "word": "laskentatoimi",
+      "en": "laskentatoimi",
+      "ru": [
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "accounting",
+      "sourceIds": [
+        "accounting"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tarjota",
+      "word": "tarjota",
+      "en": "tarjota",
+      "ru": [
+        "быть в состоянии",
+        "позволить",
+        "позволять"
+      ],
+      "example": "Hotellin sijainti kukkulalla tarjoaa hyvän näköalan lahdelle.",
+      "level": "B2",
+      "sourceId": "afford",
+      "sourceIds": [
+        "afford"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kohtuuhintainen",
+      "word": "kohtuuhintainen",
+      "en": "kohtuuhintainen",
+      "ru": [
+        "доступный"
+      ],
+      "example": "Tom etsi kohtuuhintaista syömäpaikkaa.",
+      "level": "B1",
+      "sourceId": "affordable",
+      "sourceIds": [
+        "affordable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "omaisuusera",
+      "word": "omaisuuserä",
+      "en": "omaisuuserä",
+      "ru": [
+        "актив",
+        "авуары",
+        "активы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "asset",
+      "sourceIds": [
+        "asset"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "omaisuus",
+      "word": "omaisuus",
+      "en": "omaisuus",
+      "ru": [
+        "актив"
+      ],
+      "example": "Yanni myi koko omaisuutensa kerätäkseen rahaa paluulippuun.",
+      "level": "B1",
+      "sourceId": "assets",
+      "sourceIds": [
+        "assets"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saldo",
+      "word": "saldo",
+      "en": "saldo",
+      "ru": [
+        "баланс",
+        "остаток на счёте"
+      ],
+      "example": "Mikä on pankkitilini saldo tässä kuussa?",
+      "level": "A2",
+      "sourceId": "balance",
+      "sourceIds": [
+        "balance"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tasapainoinen",
+      "word": "tasapainoinen",
+      "en": "tasapainoinen",
+      "ru": [
+        "сбалансированный"
+      ],
+      "example": "Hedelmät ja vihannekset ovat olennainen osa tasapainoista ruokavaliota.",
+      "level": "B2",
+      "sourceId": "balanced",
+      "sourceIds": [
+        "balanced"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pankki",
+      "word": "pankki",
+      "en": "pankki",
+      "ru": [
+        "банк"
+      ],
+      "example": "En tiennyt, että kotisi lähellä oli pankki.",
+      "level": "A2",
+      "sourceId": "bank",
+      "sourceIds": [
+        "bank"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pankkiiri",
+      "word": "pankkiiri",
+      "en": "pankkiiri",
+      "ru": [
+        "банкир",
+        "банкирша",
+        "банкомёт"
+      ],
+      "example": "Tomi haluaa olla isona pankkiiri.",
+      "level": "C2",
+      "sourceId": "banker",
+      "sourceIds": [
+        "banker"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pankkiala",
+      "word": "pankkiala",
+      "en": "pankkiala",
+      "ru": [
+        "банковское дело",
+        "банкинг",
+        "вираж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "banking",
+      "sourceIds": [
+        "banking"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "konkurssissa",
+      "word": "konkurssissa",
+      "en": "konkurssissa",
+      "ru": [
+        "обанкротившийся",
+        "банкрот",
+        "банкротить"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "bankrupt",
+      "sourceIds": [
+        "bankrupt"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "konkurssi",
+      "word": "konkurssi",
+      "en": "konkurssi",
+      "ru": [
+        "банкротство",
+        "несостоятельность"
+      ],
+      "example": "Uutiset yrityksen konkurssista eivät tulleet yllätyksenä kenellekään.",
+      "level": "B2",
+      "sourceId": "bankruptcy",
+      "sourceIds": [
+        "bankruptcy"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "etu",
+      "word": "etu",
+      "en": "etu",
+      "ru": [
+        "благо",
+        "выгода",
+        "льгота"
+      ],
+      "example": "Monikansallinen yhtiö on ennakoinut suurtuotannon etujen toteuttamisen.",
+      "level": "A2",
+      "sourceId": "benefit",
+      "sourceIds": [
+        "benefit"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lasku",
+      "word": "lasku",
+      "en": "lasku",
+      "ru": [
+        "счёт",
+        "банкнота"
+      ],
+      "example": "Sinun ei olisi pitänyt maksaa sitä laskua.",
+      "level": "A2",
+      "sourceId": "bill",
+      "sourceIds": [
+        "bill"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miljardoori",
+      "word": "miljardööri",
+      "en": "miljardööri",
+      "ru": [
+        "миллиардер",
+        "миллиардерша"
+      ],
+      "example": "Miljardöörillä on viisi kotia neljässä eri maassa.",
+      "level": "C2",
+      "sourceId": "billionaire",
+      "sourceIds": [
+        "billionaire"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bondi",
+      "word": "bondi",
+      "en": "bondi",
+      "ru": [
+        "облигация",
+        "долговое обязательство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bond",
+      "sourceIds": [
+        "bond"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "bonus",
+      "word": "bonus",
+      "en": "bonus",
+      "ru": [
+        "бонус",
+        "надбавка",
+        "премия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bonus",
+      "sourceIds": [
+        "bonus"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "budjetti",
+      "word": "budjetti",
+      "en": "budjetti",
+      "ru": [
+        "бюджетный",
+        "бюджет",
+        "смета"
+      ],
+      "example": "Minä arvioin tuotantokulujen olevan 36 % budjetista.",
+      "level": "A2",
+      "sourceId": "budget",
+      "sourceIds": [
+        "budget"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paaoma",
+      "word": "pääoma",
+      "en": "pääoma",
+      "ru": [
+        "капитель",
+        "богатство",
+        "капитал"
+      ],
+      "example": "Tämä on pääomaa. Kertyköön sitä!",
+      "level": "A2",
+      "sourceId": "capital",
+      "sourceIds": [
+        "capital"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paaomaintensiivinen",
+      "word": "pääomaintensiivinen",
+      "en": "pääomaintensiivinen",
+      "ru": [
+        "капиталоёмкий"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capital-intensive",
+      "sourceIds": [
+        "capital-intensive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "paaomitus",
+      "word": "pääomitus",
+      "en": "pääomitus",
+      "ru": [
+        "капитализация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalisation",
+      "sourceIds": [
+        "capitalisation"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kapitalismi",
+      "word": "kapitalismi",
+      "en": "kapitalismi",
+      "ru": [
+        "капитализм"
+      ],
+      "example": "Me pakenimme feodalismista, me voimme paeta myös kapitalismista.",
+      "level": "C2",
+      "sourceId": "capitalism",
+      "sourceIds": [
+        "capitalism"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kapitalistinen",
+      "word": "kapitalistinen",
+      "en": "kapitalistinen",
+      "ru": [
+        "капиталистический",
+        "капиталист"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalist",
+      "sourceIds": [
+        "capitalist"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "muuttaa-rahaksi",
+      "word": "muuttaa rahaksi",
+      "en": "muuttaa rahaksi",
+      "ru": [
+        "капитализировать",
+        "превращать в капитал"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalize",
+      "sourceIds": [
+        "capitalize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kortti",
+      "word": "kortti",
+      "en": "kortti",
+      "ru": [
+        "карта",
+        "козырь",
+        "карточка"
+      ],
+      "example": "Kortin pelaamista varten tarvitaan mukaan vielä yksi.",
+      "level": "A1",
+      "sourceId": "card",
+      "sourceIds": [
+        "card"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kateinen",
+      "word": "käteinen",
+      "en": "käteinen",
+      "ru": [
+        "деньги",
+        "нал",
+        "наличные деньги"
+      ],
+      "example": "Tomi kertoi minulle tarvitsevansa jonkin verran käteistä.",
+      "level": "A2",
+      "sourceId": "cash",
+      "sourceIds": [
+        "cash"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sentti",
+      "word": "sentti",
+      "en": "sentti",
+      "ru": [
+        "цент"
+      ],
+      "example": "Hänellä on metri viisikymmentä senttiä leveä sänky.",
+      "level": "B1",
+      "sourceId": "cent",
+      "sourceIds": [
+        "cent"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaihtoraha",
+      "word": "vaihtoraha",
+      "en": "vaihtoraha",
+      "ru": [
+        "сдача"
+      ],
+      "example": "Anteeksi, mutta minulla ei ole lainkaan vaihtorahaa.",
+      "level": "A2",
+      "sourceId": "change",
+      "sourceIds": [
+        "change"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hyvantekevaisyysjarjesto",
+      "word": "hyväntekeväisyysjärjestö",
+      "en": "hyväntekeväisyysjärjestö",
+      "ru": [
+        "благотворительная организация",
+        "благотворительное общество",
+        "благотворительный фонд"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "charity",
+      "sourceIds": [
+        "charity"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "halpa",
+      "word": "halpa",
+      "en": "halpa",
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "example": "Elämä on liian lyhyt halvan viinin juomiseen.",
+      "level": "A2",
+      "sourceId": "cheap",
+      "sourceIds": [
+        "cheap"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "halvalla",
+      "word": "halvalla",
+      "en": "halvalla",
+      "ru": [
+        "дёшево"
+      ],
+      "example": "Hyvää keittoa ei voi saa halvalla lihalla.",
+      "level": "C2",
+      "sourceId": "cheaply",
+      "sourceIds": [
+        "cheaply"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolikko",
+      "word": "kolikko",
+      "en": "kolikko",
+      "ru": [
+        "монета",
+        "жетон",
+        "фишка"
+      ],
+      "example": "1 jenin kolikon omakustannushinta on 3 jeniä.",
+      "level": "B2",
+      "sourceId": "coin",
+      "sourceIds": [
+        "coin"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kompensaatio",
+      "word": "kompensaatio",
+      "en": "kompensaatio",
+      "ru": [
+        "возмещение",
+        "компенсация",
+        "уравнивание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "compensation",
+      "sourceIds": [
+        "compensation"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "hinta",
+      "word": "hinta",
+      "en": "hinta",
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "example": "He toivoivat myyvänsä osakkeet vielä korkeampaan hintaan.",
+      "level": "A1",
+      "sourceId": "cost",
+      "sourceIds": [
+        "cost"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kallis",
+      "word": "kallis",
+      "en": "kallis",
+      "ru": [
+        "дорогой",
+        "дорогостоящий",
+        "ценный"
+      ],
+      "example": "Mikä on tähän mennessä ostamistasi vaatteista kallein?",
+      "level": "C2",
+      "sourceId": "costly",
+      "sourceIds": [
+        "costly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luotto",
+      "word": "luotto",
+      "en": "luotto",
+      "ru": [
+        "кредит",
+        "заём"
+      ],
+      "example": "Voit ostaa nyt ja maksaa myöhemmin luotolla.",
+      "level": "A1",
+      "sourceId": "credit",
+      "sourceIds": [
+        "credit"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valuutta",
+      "word": "valuutta",
+      "en": "valuutta",
+      "ru": [
+        "валюта",
+        "распространённость",
+        "употребительность"
+      ],
+      "example": "Ulkomaan valuuttojen vaihtokurssit vaihtelevat päivittäin.",
+      "level": "A2",
+      "sourceId": "currency",
+      "sourceIds": [
+        "currency"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "debet-vienti",
+      "word": "debet-vienti",
+      "en": "debet-vienti",
+      "ru": [
+        "дебет"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "debit",
+      "sourceIds": [
+        "debit"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "velka",
+      "word": "velka",
+      "en": "velka",
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязанность"
+      ],
+      "example": "Luulenpa, että sinä olet minulle pusun velkaa.",
+      "level": "A2",
+      "sourceId": "debt",
+      "sourceIds": [
+        "debt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "talletus",
+      "word": "talletus",
+      "en": "talletus",
+      "ru": [
+        "вклад",
+        "депозит",
+        "залог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "deposit",
+      "sourceIds": [
+        "deposit"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "viraltapano",
+      "word": "viraltapano",
+      "en": "viraltapano",
+      "ru": [
+        "смещение с должности",
+        "осаждение",
+        "отложение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "deposition",
+      "sourceIds": [
+        "deposition"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sailo",
+      "word": "säilö",
+      "en": "säilö",
+      "ru": [
+        "депозитарий",
+        "склад",
+        "хранилище"
+      ],
+      "example": "Hän varasti rahani säilöstä.",
+      "level": "C2",
+      "sourceId": "depository",
+      "sourceIds": [
+        "depository"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alennus",
+      "word": "alennus",
+      "en": "alennus",
+      "ru": [
+        "дисконт",
+        "скидка"
+      ],
+      "example": "Alennukset eivät koske kaikkia tuotteita ja ravintoloita.",
+      "level": "A2",
+      "sourceId": "discount",
+      "sourceIds": [
+        "discount"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dollari",
+      "word": "dollari",
+      "en": "dollari",
+      "ru": [
+        "доллар"
+      ],
+      "example": "Arvioimme, että vahinkoa syntyi tuhannen dollarin arvosta.",
+      "level": "B1",
+      "sourceId": "dollar",
+      "sourceIds": [
+        "dollar"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lahjoittaa",
+      "word": "lahjoittaa",
+      "en": "lahjoittaa",
+      "ru": [
+        "давать",
+        "дарить",
+        "дать"
+      ],
+      "example": "Aliina lahjoitti vähistä varoistaan puolet Mannerheimin Lastensuojeluliitolle.",
+      "level": "B2",
+      "sourceId": "donate",
+      "sourceIds": [
+        "donate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lahjoitus",
+      "word": "lahjoitus",
+      "en": "lahjoitus",
+      "ru": [
+        "пожертвование",
+        "дар",
+        "донат"
+      ],
+      "example": "Sisäänpääsy on ilmainen, mutta lahjoitukset ovat tervetulleita.",
+      "level": "B2",
+      "sourceId": "donation",
+      "sourceIds": [
+        "donation"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "velvollisuus",
+      "word": "velvollisuus",
+      "en": "velvollisuus",
+      "ru": [
+        "долг",
+        "обязанность",
+        "сбор"
+      ],
+      "example": "En halua ottaa enää lisää velvollisuuksia.",
+      "level": "B1",
+      "sourceId": "duty",
+      "sourceIds": [
+        "duty"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tienata",
+      "word": "tienata",
+      "en": "tienata",
+      "ru": [
+        "зарабатывать",
+        "заработать",
+        "заслуживать"
+      ],
+      "example": "Hän ei tienaa yli 50 dollaria viikossa.",
+      "level": "B1",
+      "sourceId": "earn",
+      "sourceIds": [
+        "earn"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tulot",
+      "word": "tulot",
+      "en": "tulot",
+      "ru": [
+        "доход",
+        "заработок",
+        "прибыль"
+      ],
+      "example": "Kuusi numeroiset tulot eivät ole harvinaisia lääkäreille.",
+      "level": "B1",
+      "sourceId": "earnings",
+      "sourceIds": [
+        "earnings"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taloudellinen",
+      "word": "taloudellinen",
+      "en": "taloudellinen",
+      "ru": [
+        "хозяйственный",
+        "экономический"
+      ],
+      "example": "Et voi luottaa hänen taloudelliseen apuunsa.",
+      "level": "A2",
+      "sourceId": "economic",
+      "sourceIds": [
+        "economic"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taloudellinen",
+      "word": "taloudellinen",
+      "en": "taloudellinen",
+      "ru": [
+        "бережливый",
+        "экономный",
+        "экономичный"
+      ],
+      "example": "Et voi luottaa hänen taloudelliseen apuunsa.",
+      "level": "C2",
+      "sourceId": "economical",
+      "sourceIds": [
+        "economical"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taloudellisesti",
+      "word": "taloudellisesti",
+      "en": "taloudellisesti",
+      "ru": [
+        "бережливо",
+        "расчётливо"
+      ],
+      "example": "Viime vuosi oli taloudellisesti epävarmaa aikaa.",
+      "level": "C2",
+      "sourceId": "economically",
+      "sourceIds": [
+        "economically"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ekonomia",
+      "word": "ekonomia",
+      "en": "ekonomia",
+      "ru": [
+        "экономика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "economics",
+      "sourceIds": [
+        "economics"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "talous",
+      "word": "talous",
+      "en": "talous",
+      "ru": [
+        "экономика",
+        "хозяйство"
+      ],
+      "example": "Japanin taloudessa oli ennennäkemätön nousukausi tuohon aikaan.",
+      "level": "A2",
+      "sourceId": "economy",
+      "sourceIds": [
+        "economy"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oma-paaoma",
+      "word": "oma pääoma",
+      "en": "oma pääoma",
+      "ru": [
+        "собственный капитал",
+        "акции"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "equity",
+      "sourceIds": [
+        "equity"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "euro",
+      "word": "euro",
+      "en": "euro",
+      "ru": [
+        "евро"
+      ],
+      "example": "Sadan euron seteli osuu käteen vain harvoin.",
+      "level": "B1",
+      "sourceId": "euro",
+      "sourceIds": [
+        "euro"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaihto",
+      "word": "vaihto",
+      "en": "vaihto",
+      "ru": [
+        "обмен",
+        "биржа",
+        "обмениваться"
+      ],
+      "example": "Lyijytäytekynän lyijyn vaihto on jotenkin ihan hauskaa.",
+      "level": "A2",
+      "sourceId": "exchange",
+      "sourceIds": [
+        "exchange"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kallis",
+      "word": "kallis",
+      "en": "kallis",
+      "ru": [
+        "дорогой"
+      ],
+      "example": "Mikä on tähän mennessä ostamistasi vaatteista kallein?",
+      "level": "B1",
+      "sourceId": "expensive",
+      "sourceIds": [
+        "expensive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kalliisti",
+      "word": "kalliisti",
+      "en": "kalliisti",
+      "ru": [
+        "дорого"
+      ],
+      "example": "Myö kalliisti henkesi, nuori mies.",
+      "level": "C2",
+      "sourceId": "expensively",
+      "sourceIds": [
+        "expensively"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palkkio",
+      "word": "palkkio",
+      "en": "palkkio",
+      "ru": [
+        "сбор",
+        "взнос",
+        "вознаграждение"
+      ],
+      "example": "En muista saaneeni siitä työstä palkkiota.",
+      "level": "A2",
+      "sourceId": "fee",
+      "sourceIds": [
+        "fee"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rahoittaa",
+      "word": "rahoittaa",
+      "en": "rahoittaa",
+      "ru": [
+        "финансы",
+        "профинансировать",
+        "финансировать"
+      ],
+      "example": "Osallistujat ovat hakeneet rahoitusta monilta rahastoilta rahoittaakseen projektin.",
+      "level": "A2",
+      "sourceId": "finance",
+      "sourceIds": [
+        "finance"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taloudellinen",
+      "word": "taloudellinen",
+      "en": "taloudellinen",
+      "ru": [
+        "финансовый"
+      ],
+      "example": "Et voi luottaa hänen taloudelliseen apuunsa.",
+      "level": "A1",
+      "sourceId": "financial",
+      "sourceIds": [
+        "financial"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rahallisesti",
+      "word": "rahallisesti",
+      "en": "rahallisesti",
+      "ru": [
+        "финансово"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "financially",
+      "sourceIds": [
+        "financially"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "fiskaalinen",
+      "word": "fiskaalinen",
+      "en": "fiskaalinen",
+      "ru": [
+        "фискальный",
+        "финансовый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fiscal",
+      "sourceIds": [
+        "fiscal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "rahasto",
+      "word": "rahasto",
+      "en": "rahasto",
+      "ru": [
+        "капитал",
+        "фонд",
+        "профинансировать"
+      ],
+      "example": "Osallistujat ovat hakeneet rahoitusta monilta rahastoilta rahoittaakseen projektin.",
+      "level": "A2",
+      "sourceId": "fund",
+      "sourceIds": [
+        "fund"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rahoitus",
+      "word": "rahoitus",
+      "en": "rahoitus",
+      "ru": [
+        "финансирование"
+      ],
+      "example": "Renessanssin aikana taiteilijat olivat riippuvaisia mesenaattiensa rahoituksesta.",
+      "level": "A2",
+      "sourceId": "funding",
+      "sourceIds": [
+        "funding"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rahasto",
+      "word": "rahasto",
+      "en": "rahasto",
+      "ru": [
+        "ресурс",
+        "средство",
+        "фонд"
+      ],
+      "example": "Osallistujat ovat hakeneet rahoitusta monilta rahastoilta rahoittaakseen projektin.",
+      "level": "A2",
+      "sourceId": "funds",
+      "sourceIds": [
+        "funds"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "apuraha",
+      "word": "apuraha",
+      "en": "apuraha",
+      "ru": [
+        "грант",
+        "субсидия",
+        "дарение"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "grant",
+      "sourceIds": [
+        "grant"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tosin",
+      "word": "tosin",
+      "en": "tosin",
+      "ru": [
+        "действительно",
+        "правда",
+        "согласен"
+      ],
+      "example": "Tosin sanoen, hänkö on siis taitelija?",
+      "level": "B1",
+      "sourceId": "granted",
+      "sourceIds": [
+        "granted"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tulot",
+      "word": "tulot",
+      "en": "tulot",
+      "ru": [
+        "доход",
+        "заработок",
+        "поступления"
+      ],
+      "example": "Kuusi numeroiset tulot eivät ole harvinaisia lääkäreille.",
+      "level": "A2",
+      "sourceId": "income",
+      "sourceIds": [
+        "income"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maksuera",
+      "word": "maksuerä",
+      "en": "maksuerä",
+      "ru": [
+        "взнос",
+        "рассрочка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "installment",
+      "sourceIds": [
+        "installment"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vakuutus",
+      "word": "vakuutus",
+      "en": "vakuutus",
+      "ru": [
+        "страховка",
+        "страхование"
+      ],
+      "example": "Huvijahtia varten kannattaa kyllä hankkia erillinen vakuutus.",
+      "level": "A1",
+      "sourceId": "insurance",
+      "sourceIds": [
+        "insurance"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "korko",
+      "word": "korko",
+      "en": "korko",
+      "ru": [
+        "процент",
+        "ставка",
+        "интерес"
+      ],
+      "example": "Otimme lainan, jossa on korkea korko.",
+      "level": "A1",
+      "sourceId": "interest",
+      "sourceIds": [
+        "interest"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "koroton",
+      "word": "koroton",
+      "en": "koroton",
+      "ru": [
+        "беспроцентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "interest-free",
+      "sourceIds": [
+        "interest-free"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kiinnostunut",
+      "word": "kiinnostunut",
+      "en": "kiinnostunut",
+      "ru": [
+        "заинтересованный"
+      ],
+      "example": "Emilia on valtavan kiinnostunut teetaiteesta ja kukka-asetelmista.",
+      "level": "A2",
+      "sourceId": "interested",
+      "sourceIds": [
+        "interested"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kiinnostuneesti",
+      "word": "kiinnostuneesti",
+      "en": "kiinnostuneesti",
+      "ru": [
+        "заинтересованно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "interestedly",
+      "sourceIds": [
+        "interestedly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "sijoittaa",
+      "word": "sijoittaa",
+      "en": "sijoittaa",
+      "ru": [
+        "вкладывать",
+        "вложить",
+        "покрыть"
+      ],
+      "example": "En kykene edes sijoittamaan Saksaa kartalle. Häpeä!",
+      "level": "B2",
+      "sourceId": "invest",
+      "sourceIds": [
+        "invest"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sijoitus",
+      "word": "sijoitus",
+      "en": "sijoitus",
+      "ru": [
+        "инвестирование",
+        "инвестиция",
+        "вклад"
+      ],
+      "example": "Palkan lisäksi hän saa tuloja sijoituksistaan.",
+      "level": "A2",
+      "sourceId": "investment",
+      "sourceIds": [
+        "investment"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sijoittaja",
+      "word": "sijoittaja",
+      "en": "sijoittaja",
+      "ru": [
+        "вкладчик",
+        "вкладчица",
+        "инвестор"
+      ],
+      "example": "Iso sijoittaja osti osakkeet.",
+      "level": "B1",
+      "sourceId": "investor",
+      "sourceIds": [
+        "investor"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lasku",
+      "word": "lasku",
+      "en": "lasku",
+      "ru": [
+        "счёт",
+        "инвойс",
+        "накладная"
+      ],
+      "example": "Sinun ei olisi pitänyt maksaa sitä laskua.",
+      "level": "C1",
+      "sourceId": "invoice",
+      "sourceIds": [
+        "invoice"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puute",
+      "word": "puute",
+      "en": "puute",
+      "ru": [
+        "нехватка"
+      ],
+      "example": "Englanninkielen tutkija ei ollut tietoinen maalaisjärjen puutteestaan.",
+      "level": "B1",
+      "sourceId": "lack",
+      "sourceIds": [
+        "lack"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "velka",
+      "word": "velka",
+      "en": "velka",
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязательство"
+      ],
+      "example": "Luulenpa, että sinä olet minulle pusun velkaa.",
+      "level": "B1",
+      "sourceId": "liability",
+      "sourceIds": [
+        "liability"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laina",
+      "word": "laina",
+      "en": "laina",
+      "ru": [
+        "заём",
+        "кредит",
+        "ссуда"
+      ],
+      "example": "Ei Tom ollut se, joka lainasi autoani.",
+      "level": "A2",
+      "sourceId": "loan",
+      "sourceIds": [
+        "loan"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menetys",
+      "word": "menetys",
+      "en": "menetys",
+      "ru": [
+        "потеря",
+        "пропажа",
+        "утеря"
+      ],
+      "example": "Hänen kuolemansa oli suuri menetys yrityksellemme.",
+      "level": "A2",
+      "sourceId": "loss",
+      "sourceIds": [
+        "loss"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miljonaari",
+      "word": "miljonääri",
+      "en": "miljonääri",
+      "ru": [
+        "миллионер",
+        "миллионерша"
+      ],
+      "example": "Miksi meistä on niin tärkeää tulla miljonääriksi?",
+      "level": "C2",
+      "sourceId": "millionaire",
+      "sourceIds": [
+        "millionaire"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "raha",
+      "word": "raha",
+      "en": "raha",
+      "ru": [
+        "деньги",
+        "валюта",
+        "средства"
+      ],
+      "example": "\"Raha on hyvä renki, mutta huono isäntä.\"",
+      "level": "A1",
+      "sourceId": "money",
+      "sourceIds": [
+        "money"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asuntolaina",
+      "word": "asuntolaina",
+      "en": "asuntolaina",
+      "ru": [
+        "ипотека"
+      ],
+      "example": "Minulla on suuri asuntolaina.",
+      "level": "A2",
+      "sourceId": "mortgage",
+      "sourceIds": [
+        "mortgage"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asuntolainavakuudellinen",
+      "word": "asuntolainavakuudellinen",
+      "en": "asuntolainavakuudellinen",
+      "ru": [
+        "обеспечиваемый ипотекой"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "mortgage-backed",
+      "sourceIds": [
+        "mortgage-backed"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "maksaa",
+      "word": "maksaa",
+      "en": "maksaa",
+      "ru": [
+        "платить"
+      ],
+      "example": "En ole varma kuinka paljon sinulle maksetaan.",
+      "level": "A1",
+      "sourceId": "pay",
+      "sourceIds": [
+        "pay"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maksu",
+      "word": "maksu",
+      "en": "maksu",
+      "ru": [
+        "платёж",
+        "оплата",
+        "плата"
+      ],
+      "example": "Maksu sisältää myös tutkimuksen tekemiseen tarvittavien erikoisosaamispalveluiden kulut.",
+      "level": "A1",
+      "sourceId": "payment",
+      "sourceIds": [
+        "payment"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "elake",
+      "word": "eläke",
+      "en": "eläke",
+      "ru": [
+        "пенсия"
+      ],
+      "example": "Tom jäi eläkkeelle kun hän oli kuusikymmentäviisi.",
+      "level": "B2",
+      "sourceId": "pension",
+      "sourceIds": [
+        "pension"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "elakelainen",
+      "word": "eläkeläinen",
+      "en": "eläkeläinen",
+      "ru": [
+        "пенсионер",
+        "пенсионерка"
+      ],
+      "example": "Tänään on viimeinen työpäiväni. Huomenna olen eläkeläinen.",
+      "level": "C2",
+      "sourceId": "pensioner",
+      "sourceIds": [
+        "pensioner"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prosentti",
+      "word": "prosentti",
+      "en": "prosentti",
+      "ru": [
+        "процент"
+      ],
+      "example": "31 prosenttia Saksan sähköstä tulee uudistuvista energianlähteistä.",
+      "level": "A2",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prosentti",
+      "word": "prosentti",
+      "en": "prosentti",
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "example": "31 prosenttia Saksan sähköstä tulee uudistuvista energianlähteistä.",
+      "level": "B1",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "persentiili",
+      "word": "persentiili",
+      "en": "persentiili",
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "prosentuaalinen",
+      "word": "prosentuaalinen",
+      "en": "prosentuaalinen",
+      "ru": [
+        "процентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "koyha",
+      "word": "köyhä",
+      "en": "köyhä",
+      "ru": [
+        "бедный",
+        "малоимущий"
+      ],
+      "example": "He sanoivat että he olivat todella köyhiä.",
+      "level": "A2",
+      "sourceId": "poor",
+      "sourceIds": [
+        "poor"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "punta",
+      "word": "punta",
+      "en": "punta",
+      "ru": [
+        "фунт стерлингов"
+      ],
+      "example": "Häntä sakotettiin viisi puntaa juopuneena ajamisesta.",
+      "level": "B2",
+      "sourceId": "pound",
+      "sourceIds": [
+        "pound",
+        "quid"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puute",
+      "word": "puute",
+      "en": "puute",
+      "ru": [
+        "бедность",
+        "беднота",
+        "недостаток"
+      ],
+      "example": "Englanninkielen tutkija ei ollut tietoinen maalaisjärjen puutteestaan.",
+      "level": "B1",
+      "sourceId": "poverty",
+      "sourceIds": [
+        "poverty"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hinta",
+      "word": "hinta",
+      "en": "hinta",
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "example": "He toivoivat myyvänsä osakkeet vielä korkeampaan hintaan.",
+      "level": "A1",
+      "sourceId": "price",
+      "sourceIds": [
+        "price"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "etu",
+      "word": "etu",
+      "en": "etu",
+      "ru": [
+        "выгода",
+        "доход",
+        "нажива"
+      ],
+      "example": "Monikansallinen yhtiö on ennakoinut suurtuotannon etujen toteuttamisen.",
+      "level": "B1",
+      "sourceId": "profit",
+      "sourceIds": [
+        "profit"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "omaisuus",
+      "word": "omaisuus",
+      "en": "omaisuus",
+      "ru": [
+        "имущество",
+        "собственность",
+        "недвижимость"
+      ],
+      "example": "Yanni myi koko omaisuutensa kerätäkseen rahaa paluulippuun.",
+      "level": "A1",
+      "sourceId": "property",
+      "sourceIds": [
+        "property"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kukkaro",
+      "word": "kukkaro",
+      "en": "kukkaro",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "мошна"
+      ],
+      "example": "Hän avasi kukkaronsa ja otti esiin shekkivihkon.",
+      "level": "A2",
+      "sourceId": "purse",
+      "sourceIds": [
+        "purse"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kurssi",
+      "word": "kurssi",
+      "en": "kurssi",
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "example": "Tämä kurssi on avuksi oikean ääntämisen omaksumisessa.",
+      "level": "A1",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luokitus",
+      "word": "luokitus",
+      "en": "luokitus",
+      "ru": [
+        "рейтинг"
+      ],
+      "example": "Luokituksissa on eri tasoja, joille asiat luokitellaan tiettyjen kriteerien mukaisesti.",
+      "level": "A1",
+      "sourceId": "rating",
+      "sourceIds": [
+        "rating"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuitti",
+      "word": "kuitti",
+      "en": "kuitti",
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "example": "Saisinko kuitin, kiitos. Minun täytyy seurata kulujani.",
+      "level": "B2",
+      "sourceId": "receipt",
+      "sourceIds": [
+        "receipt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palautus",
+      "word": "palautus",
+      "en": "palautus",
+      "ru": [
+        "возврат",
+        "возвращённая сумма",
+        "возмещение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "refund",
+      "sourceIds": [
+        "refund"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "elakkeelle-siirtyminen",
+      "word": "eläkkeelle siirtyminen",
+      "en": "eläkkeelle siirtyminen",
+      "ru": [
+        "выход на пенсию",
+        "пенсия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "retirement",
+      "sourceIds": [
+        "retirement"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tulot",
+      "word": "tulot",
+      "en": "tulot",
+      "ru": [
+        "доход",
+        "выручка",
+        "поступление"
+      ],
+      "example": "Kuusi numeroiset tulot eivät ole harvinaisia lääkäreille.",
+      "level": "B1",
+      "sourceId": "revenue",
+      "sourceIds": [
+        "revenue"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rikas",
+      "word": "rikas",
+      "en": "rikas",
+      "ru": [
+        "богатый",
+        "зажиточный",
+        "имущий"
+      ],
+      "example": "En ole enää yhtä rikas kuin ennen.",
+      "level": "B1",
+      "sourceId": "rich",
+      "sourceIds": [
+        "rich"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rikkaudet",
+      "word": "rikkaudet",
+      "en": "rikkaudet",
+      "ru": [
+        "богатство"
+      ],
+      "example": "Rikkaudet eivät tyydytä minua.",
+      "level": "C2",
+      "sourceId": "riches",
+      "sourceIds": [
+        "riches"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "runsaasti",
+      "word": "runsaasti",
+      "en": "runsaasti",
+      "ru": [
+        "богато"
+      ],
+      "example": "Missä on runsaasti valoa, on synkkä varjo.",
+      "level": "C2",
+      "sourceId": "richly",
+      "sourceIds": [
+        "richly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turvallinen",
+      "word": "turvallinen",
+      "en": "turvallinen",
+      "ru": [
+        "в безопасности",
+        "безопасный",
+        "сейф"
+      ],
+      "example": "Japanissa ei ole enää yhtäkään turvallista paikkaa.",
+      "level": "A2",
+      "sourceId": "safe",
+      "sourceIds": [
+        "safe"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palkka",
+      "word": "palkka",
+      "en": "palkka",
+      "ru": [
+        "зарплата",
+        "жалование",
+        "заработная плата"
+      ],
+      "example": "Aion pistää koko tämän kuun palkkani vaatteisiin.",
+      "level": "B1",
+      "sourceId": "salary",
+      "sourceIds": [
+        "salary"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saastaa",
+      "word": "säästää",
+      "en": "säästää",
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "example": "Jos teet vaatteet omin käsin, säästät rahaa.",
+      "level": "A1",
+      "sourceId": "save",
+      "sourceIds": [
+        "save"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saastot",
+      "word": "säästöt",
+      "en": "säästöt",
+      "ru": [
+        "экономия",
+        "накопление",
+        "сбережение"
+      ],
+      "example": "Tomin säästöt kuluvat loppuun pian.",
+      "level": "B1",
+      "sourceId": "saving",
+      "sourceIds": [
+        "saving"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jakaa",
+      "word": "jakaa",
+      "en": "jakaa",
+      "ru": [
+        "делиться"
+      ],
+      "example": "Hän jakoi jokaiselle lapselle kullekin kaksi omenaa.",
+      "level": "A1",
+      "sourceId": "share",
+      "sourceIds": [
+        "share"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yhteinen",
+      "word": "yhteinen",
+      "en": "yhteinen",
+      "ru": [
+        "общий",
+        "совместный"
+      ],
+      "example": "Ei minulla ollut mitään yhteistä heidän kanssaan.",
+      "level": "B1",
+      "sourceId": "shared",
+      "sourceIds": [
+        "shared"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jako",
+      "word": "jako",
+      "en": "jako",
+      "ru": [
+        "раздел",
+        "разделение"
+      ],
+      "example": "En tätä autoa jaoin Nissania.",
+      "level": "B1",
+      "sourceId": "sharing",
+      "sourceIds": [
+        "sharing"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kayttaa",
+      "word": "käyttää",
+      "en": "käyttää",
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "example": "\"Minun olisi pitänyt käyttää kondomia\", valitti Tomi.",
+      "level": "B1",
+      "sourceId": "spend",
+      "sourceIds": [
+        "spend"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "punta",
+      "word": "punta",
+      "en": "punta",
+      "ru": [
+        "стерлинг",
+        "фунт"
+      ],
+      "example": "Häntä sakotettiin viisi puntaa juopuneena ajamisesta.",
+      "level": "B1",
+      "sourceId": "sterling",
+      "sourceIds": [
+        "sterling"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "varasto",
+      "word": "varasto",
+      "en": "varasto",
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "example": "Tämä tuote on tällä hetkellä varastosta loppu.",
+      "level": "A1",
+      "sourceId": "stock",
+      "sourceIds": [
+        "stock"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "osakkeet",
+      "word": "osakkeet",
+      "en": "osakkeet",
+      "ru": [
+        "акции"
+      ],
+      "example": "He toivoivat myyvänsä osakkeet vielä korkeampaan hintaan.",
+      "level": "B1",
+      "sourceId": "stocks",
+      "sourceIds": [
+        "stocks"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vero",
+      "word": "vero",
+      "en": "vero",
+      "ru": [
+        "налог",
+        "дань",
+        "подать"
+      ],
+      "example": "Ei ole mitään hyvän kuuman kylvyn veroista.",
+      "level": "A1",
+      "sourceId": "tax",
+      "sourceIds": [
+        "tax"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tippi",
+      "word": "tippi",
+      "en": "tippi",
+      "ru": [
+        "чаевые"
+      ],
+      "example": "Paljonko Espanjassa annetaan tippiä?",
+      "level": "B1",
+      "sourceId": "tip",
+      "sourceIds": [
+        "tip"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maksu",
+      "word": "maksu",
+      "en": "maksu",
+      "ru": [
+        "плата",
+        "пошлина",
+        "сбор"
+      ],
+      "example": "Maksu sisältää myös tutkimuksen tekemiseen tarvittavien erikoisosaamispalveluiden kulut.",
+      "level": "B1",
+      "sourceId": "toll",
+      "sourceIds": [
+        "toll"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transaktio",
+      "word": "transaktio",
+      "en": "transaktio",
+      "ru": [
+        "сделка",
+        "операция",
+        "проводка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transaction",
+      "sourceIds": [
+        "transaction"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "liiketoiminnallinen",
+      "word": "liiketoiminnallinen",
+      "en": "liiketoiminnallinen",
+      "ru": [
+        "трансактный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "transactional",
+      "sourceIds": [
+        "transactional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "siirto",
+      "word": "siirto",
+      "en": "siirto",
+      "ru": [
+        "перевод",
+        "передача",
+        "переход"
+      ],
+      "example": "Tässä tilanteessa yksikin väärä siirto johtaa heti mattiin.",
+      "level": "A2",
+      "sourceId": "transfer",
+      "sourceIds": [
+        "transfer"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arvo",
+      "word": "arvo",
+      "en": "arvo",
+      "ru": [
+        "ценность",
+        "важность",
+        "значение"
+      ],
+      "example": "Arvioimme, että vahinkoa syntyi tuhannen dollarin arvosta.",
+      "level": "A1",
+      "sourceId": "value",
+      "sourceIds": [
+        "value"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alv",
+      "word": "ALV",
+      "en": "ALV",
+      "ru": [
+        "НДС"
+      ],
+      "example": "ALV on Saksassa 19 prosenttia.",
+      "level": "B1",
+      "sourceId": "vat",
+      "sourceIds": [
+        "vat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palkka",
+      "word": "palkka",
+      "en": "palkka",
+      "ru": [
+        "жалование",
+        "заработная плата",
+        "заработок"
+      ],
+      "example": "Aion pistää koko tämän kuun palkkani vaatteisiin.",
+      "level": "B2",
+      "sourceId": "wage",
+      "sourceIds": [
+        "wage"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lompakko",
+      "word": "lompakko",
+      "en": "lompakko",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "портмоне"
+      ],
+      "example": "Hän pisti kätensä taskuun ja etsi lompakkoaan.",
+      "level": "A2",
+      "sourceId": "wallet",
+      "sourceIds": [
+        "wallet"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rikkaus",
+      "word": "rikkaus",
+      "en": "rikkaus",
+      "ru": [
+        "благосостояние",
+        "богатство",
+        "изобилие"
+      ],
+      "example": "Sinun ei pitäisi kunnioittaa miestä rikkauden tähden.",
+      "level": "B2",
+      "sourceId": "wealth",
+      "sourceIds": [
+        "wealth"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vetaa-pois",
+      "word": "vetää pois",
+      "en": "vetää pois",
+      "ru": [
+        "брать назад",
+        "забирать",
+        "забрать"
+      ],
+      "example": "Hän veti hänet pois mudasta.",
+      "level": "C2",
+      "sourceId": "withdraw",
+      "sourceIds": [
+        "withdraw"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nosto",
+      "word": "nosto",
+      "en": "nosto",
+      "ru": [
+        "вывод",
+        "снятие"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "withdrawal",
+      "sourceIds": [
+        "withdrawal"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sulkeutunut",
+      "word": "sulkeutunut",
+      "en": "sulkeutunut",
+      "ru": [
+        "бука",
+        "затворник"
+      ],
+      "example": "Tom on sulkeutunut ja ujo.",
+      "level": "C2",
+      "sourceId": "withdrawn",
+      "sourceIds": [
+        "withdrawn"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arvoinen",
+      "word": "arvoinen",
+      "en": "arvoinen",
+      "ru": [
+        "заслуживающий",
+        "стоить",
+        "стоящий"
+      ],
+      "example": "Elokuussa ei lehdillä ollut mitään kirjoittamisen arvoista.",
+      "level": "A2",
+      "sourceId": "worth",
+      "sourceIds": [
+        "worth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arpu",
+      "word": "ARPU",
+      "en": "ARPU",
+      "ru": [
+        "средняя выручка на одного пользователя"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "arpu",
+      "sourceIds": [
+        "arpu"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kannibalisointi",
+      "word": "kannibalisointi",
+      "en": "kannibalisointi",
+      "ru": [
+        "каннибализация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cannibalization",
+      "sourceIds": [
+        "cannibalization"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kassavirta",
+      "word": "kassavirta",
+      "en": "kassavirta",
+      "ru": [
+        "денежный поток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cashflow",
+      "sourceIds": [
+        "cashflow"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "markkinoiden-valinen",
+      "word": "markkinoiden välinen",
+      "en": "markkinoiden välinen",
+      "ru": [
+        "межрыночный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cross-market",
+      "sourceIds": [
+        "cross-market"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "freemium",
+      "word": "freemium",
+      "en": "freemium",
+      "ru": [
+        "фримиум"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "freemium",
+      "sourceIds": [
+        "freemium"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sijoitusluokan",
+      "word": "sijoitusluokan",
+      "en": "sijoitusluokan",
+      "ru": [
+        "инвестиционного уровня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "investor-grade",
+      "sourceIds": [
+        "investor-grade"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tunne-asiakkaasi",
+      "word": "tunne asiakkaasi",
+      "en": "tunne asiakkaasi",
+      "ru": [
+        "знай своего клиента",
+        "идентификация клиента"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kyc",
+      "sourceIds": [
+        "kyc"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "monetisointi",
+      "word": "monetisointi",
+      "en": "monetisointi",
+      "ru": [
+        "монетизация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "monetization",
+      "sourceIds": [
+        "monetization"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "qr-maksu",
+      "word": "QR-maksu",
+      "en": "QR-maksu",
+      "ru": [
+        "транзакция по QR-коду"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "qr-transaction",
+      "sourceIds": [
+        "qr-transaction"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "myyntikelpoinen",
+      "word": "myyntikelpoinen",
+      "en": "myyntikelpoinen",
+      "ru": [
+        "ликвидный",
+        "пригодный для продажи"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sellable",
+      "sourceIds": [
+        "sellable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "liikevaihto",
+      "word": "liikevaihto",
+      "en": "liikevaihto",
+      "ru": [
+        "оборот"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "turnover",
+      "sourceIds": [
+        "turnover"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sillinki",
+      "word": "šillinki",
+      "en": "šillinki",
+      "ru": [
+        "шиллинг"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shilling",
+      "sourceIds": [
+        "shilling"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "olla-velkaa",
+      "word": "olla velkaa",
+      "en": "olla velkaa",
+      "ru": [
+        "быть должным"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "owe",
+      "sourceIds": [
+        "owe"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "taala",
+      "word": "taala",
+      "en": "taala",
+      "ru": [
+        "доллар",
+        "самец оленя"
+      ],
+      "example": "En maksa 40 taalaa ainokaisesta kirjasta.",
+      "level": "B1",
+      "sourceId": "buck",
+      "sourceIds": [
+        "buck"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laskea-hintaa",
+      "word": "laskea hintaa",
+      "en": "laskea hintaa",
+      "ru": [
+        "удешевлять",
+        "обесценивать"
+      ],
+      "example": "Hyväksyn ehdot jos lasket hintaa.",
+      "level": "B1",
+      "sourceId": "cheapen",
+      "sourceIds": [
+        "cheapen"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "onni",
+      "word": "onni",
+      "en": "onni",
+      "ru": [
+        "удача",
+        "состояние"
+      ],
+      "example": "Emme voi syyttää kaikkesta huonosta onneasi Tomia.",
+      "level": "B1",
+      "sourceId": "fortune",
+      "sourceIds": [
+        "fortune"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tukku",
+      "word": "tukku",
+      "en": "tukku",
+      "ru": [
+        "пачка",
+        "комок"
+      ],
+      "example": "Vähittäiskauppias ostaa tukkuna ja myy kuluttajille.",
+      "level": "B1",
+      "sourceId": "wad",
+      "sourceIds": [
+        "wad"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panttilainaamo",
+      "word": "panttilainaamo",
+      "en": "panttilainaamo",
+      "ru": [
+        "ломбард"
+      ],
+      "example": "Hän lunasti kellonsa panttilainaamosta.",
+      "level": "B1",
+      "sourceId": "pawnshop",
+      "sourceIds": [
+        "pawnshop"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autoliike",
+      "word": "autoliike",
+      "en": "autoliike",
+      "ru": [
+        "дилерский центр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dealership",
+      "sourceIds": [
+        "dealership"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "shekkivihko",
+      "word": "shekkivihko",
+      "en": "shekkivihko",
+      "ru": [
+        "чековая книжка"
+      ],
+      "example": "Hän avasi kukkaronsa ja otti esiin shekkivihkon.",
+      "level": "B1",
+      "sourceId": "checkbook",
+      "sourceIds": [
+        "checkbook"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuottoisa",
+      "word": "tuottoisa",
+      "en": "tuottoisa",
+      "ru": [
+        "выгодный",
+        "прибыльный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "profitable",
+      "sourceIds": [
+        "profitable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tuottoisa",
+      "word": "tuottoisa",
+      "en": "tuottoisa",
+      "ru": [
+        "прибыльный",
+        "выгодный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gainful",
+      "sourceIds": [
+        "gainful"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tuotto",
+      "word": "tuotto",
+      "en": "tuotto",
+      "ru": [
+        "выручка"
+      ],
+      "example": "Sijoituksesta on taattu kuuden prosentin tuotto.",
+      "level": "B1",
+      "sourceId": "takings",
+      "sourceIds": [
+        "takings"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "varakas",
+      "word": "varakas",
+      "en": "varakas",
+      "ru": [
+        "богатый"
+      ],
+      "example": "Sanotaan, että tuo vuokraisäntä oli aikoinaan varakas.",
+      "level": "B1",
+      "sourceId": "wealthy",
+      "sourceIds": [
+        "wealthy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arvonta",
+      "word": "arvonta",
+      "en": "arvonta",
+      "ru": [
+        "лотерея"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lottery",
+      "sourceIds": [
+        "lottery"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "osakkeenomistaja",
+      "word": "osakkeenomistaja",
+      "en": "osakkeenomistaja",
+      "ru": [
+        "акционер"
+      ],
+      "example": "Olen tämän yrityksen osakkeenomistaja.",
+      "level": "B1",
+      "sourceId": "shareholder",
+      "sourceIds": [
+        "shareholder"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lyoda-vetoa",
+      "word": "lyödä vetoa",
+      "en": "lyödä vetoa",
+      "ru": [
+        "держать пари",
+        "делать ставку"
+      ],
+      "example": "Lyön vaikka vetoa siitä, että olet väärässä.",
+      "level": "B1",
+      "sourceId": "bet",
+      "sourceIds": [
+        "bet"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valtionkassa",
+      "word": "valtionkassa",
+      "en": "valtionkassa",
+      "ru": [
+        "казначейство",
+        "казна"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "treasury",
+      "sourceIds": [
+        "treasury"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kulu",
+      "word": "kulu",
+      "en": "kulu",
+      "ru": [
+        "расход",
+        "трата"
+      ],
+      "example": "Historian kulussa vanhat ajatukset antavat tietä uusille.",
+      "level": "B1",
+      "sourceId": "expense",
+      "sourceIds": [
+        "expense"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lainata",
+      "word": "lainata",
+      "en": "lainata",
+      "ru": [
+        "занимать",
+        "брать взаймы"
+      ],
+      "example": "\"Voinko lainata tätä kynää?\" \"Joo, ole hyvä.\"",
+      "level": "B1",
+      "sourceId": "borrow",
+      "sourceIds": [
+        "borrow"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuhlailu",
+      "word": "tuhlailu",
+      "en": "tuhlailu",
+      "ru": [
+        "расточительность",
+        "экстравагантность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "extravagance",
+      "sourceIds": [
+        "extravagance"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "hyvin-sijoitettu",
+      "word": "hyvin sijoitettu",
+      "en": "hyvin sijoitettu",
+      "ru": [
+        "хорошо вложенный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "well-invested",
+      "sourceIds": [
+        "well-invested"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tuhlari",
+      "word": "tuhlari",
+      "en": "tuhlari",
+      "ru": [
+        "расточитель"
+      ],
+      "example": "Tyttö oli kasvanut ilman rahaa ja mentyään naimisiin hänestä tuli tuhlari.",
+      "level": "B1",
+      "sourceId": "spendthrift",
+      "sourceIds": [
+        "spendthrift"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ryostaa",
+      "word": "ryöstää",
+      "en": "ryöstää",
+      "ru": [
+        "грабить"
+      ],
+      "example": "Se mies ryösti häneltä kaikki hänen rahansa.",
+      "level": "B1",
+      "sourceId": "rob",
+      "sourceIds": [
+        "rob"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lahjoa",
+      "word": "lahjoa",
+      "en": "lahjoa",
+      "ru": [
+        "давать взятку"
+      ],
+      "example": "Tuon tuomarin lahjominen ei onnistu.",
+      "level": "B1",
+      "sourceId": "bribe",
+      "sourceIds": [
+        "bribe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "penny",
+      "word": "penny",
+      "en": "penny",
+      "ru": [
+        "пенни"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "penny",
+      "sourceIds": [
+        "penny"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "magnaatti",
+      "word": "magnaatti",
+      "en": "magnaatti",
+      "ru": [
+        "магнат"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tycoon",
+      "sourceIds": [
+        "tycoon"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vuokrasaannelty",
+      "word": "vuokrasäännelty",
+      "en": "vuokrasäännelty",
+      "ru": [
+        "с регулируемой арендной платой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rent-controlled",
+      "sourceIds": [
+        "rent-controlled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "valittaja",
+      "word": "välittäjä",
+      "en": "välittäjä",
+      "ru": [
+        "брокер",
+        "посредник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "broker",
+      "sourceIds": [
+        "broker"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tilikirja",
+      "word": "tilikirja",
+      "en": "tilikirja",
+      "ru": [
+        "бухгалтерская книга"
+      ],
+      "example": "Tomi väärensi tilikirjoja.",
+      "level": "B1",
+      "sourceId": "ledger",
+      "sourceIds": [
+        "ledger"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "takavarikoida",
+      "word": "takavarikoida",
+      "en": "takavarikoida",
+      "ru": [
+        "конфисковать"
+      ],
+      "example": "USA:n tulli halusi takavarikoida Australian ulkoministerin vegemiten.",
+      "level": "B1",
+      "sourceId": "confiscate",
+      "sourceIds": [
+        "confiscate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lainata",
+      "word": "lainata",
+      "en": "lainata",
+      "ru": [
+        "одалживать",
+        "давать взаймы"
+      ],
+      "example": "\"Voinko lainata tätä kynää?\" \"Joo, ole hyvä.\"",
+      "level": "B1",
+      "sourceId": "lend",
+      "sourceIds": [
+        "lend"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pyykata-ja-silittaa",
+      "word": "pyykätä ja silittää",
+      "en": "pyykätä ja silittää",
+      "ru": [
+        "отмывать (деньги)",
+        "стирать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "launder",
+      "sourceIds": [
+        "launder"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "toimivalta",
+      "word": "toimivalta",
+      "en": "toimivalta",
+      "ru": [
+        "круг полномочий",
+        "компетенция",
+        "ведение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "remit",
+      "sourceIds": [
+        "remit"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vitonen",
+      "word": "vitonen",
+      "en": "vitonen",
+      "ru": [
+        "пятифунтовая купюра"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fiver",
+      "sourceIds": [
+        "fiver"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pelata-uhkapelia",
+      "word": "pelata uhkapeliä",
+      "en": "pelata uhkapeliä",
+      "ru": [
+        "рисковать",
+        "играть в азартные игры"
+      ],
+      "example": "Kadotit siis kaikki rahasi? Se opettaa sinut pelaamaan uhkapeliä.",
+      "level": "B1",
+      "sourceId": "gamble",
+      "sourceIds": [
+        "gamble"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vuokrata",
+      "word": "vuokrata",
+      "en": "vuokrata",
+      "ru": [
+        "арендовать"
+      ],
+      "example": "Onko tässä lähistöllä paikkaa, josta voi vuokrata polkupyörän?",
+      "level": "B1",
+      "sourceId": "lease",
+      "sourceIds": [
+        "lease"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kymmensenttinen",
+      "word": "kymmensenttinen",
+      "en": "kymmensenttinen",
+      "ru": [
+        "десятицентовик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dime",
+      "sourceIds": [
+        "dime"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "luottokortti",
+      "word": "luottokortti",
+      "en": "luottokortti",
+      "ru": [
+        "кредитная карта"
+      ],
+      "example": "Jonkun on aika ottaa hallitukselta luottokortti pois.",
+      "level": "B1",
+      "sourceId": "credit-card",
+      "sourceIds": [
+        "credit-card"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "huijaus",
+      "word": "huijaus",
+      "en": "huijaus",
+      "ru": [
+        "мошенничество",
+        "афера"
+      ],
+      "example": "Minähän sanoin sinulle, että se on huijaus.",
+      "level": "B1",
+      "sourceId": "scam",
+      "sourceIds": [
+        "scam"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lainapelaaja",
+      "word": "lainapelaaja",
+      "en": "lainapelaaja",
+      "ru": [
+        "заемщик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "loanee",
+      "sourceIds": [
+        "loanee"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "valmistevero",
+      "word": "valmistevero",
+      "en": "valmistevero",
+      "ru": [
+        "акциз",
+        "акцизный сбор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "excise",
+      "sourceIds": [
+        "excise"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tuhlari",
+      "word": "tuhlari",
+      "en": "tuhlari",
+      "ru": [
+        "транжира",
+        "покупатель"
+      ],
+      "example": "Tyttö oli kasvanut ilman rahaa ja mentyään naimisiin hänestä tuli tuhlari.",
+      "level": "B1",
+      "sourceId": "spender",
+      "sourceIds": [
+        "spender"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laskea",
+      "word": "laskea",
+      "en": "laskea",
+      "ru": [
+        "обесцениваться"
+      ],
+      "example": "En pysty koskaan erottamaan milloin lasket leikkiä.",
+      "level": "B1",
+      "sourceId": "depreciate",
+      "sourceIds": [
+        "depreciate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "likvidointi",
+      "word": "likvidointi",
+      "en": "likvidointi",
+      "ru": [
+        "ликвидация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquidation",
+      "sourceIds": [
+        "liquidation"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "arvonalennus",
+      "word": "arvonalennus",
+      "en": "arvonalennus",
+      "ru": [
+        "обесценивание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "depreciation",
+      "sourceIds": [
+        "depreciation"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "taantuma",
+      "word": "taantuma",
+      "en": "taantuma",
+      "ru": [
+        "спад",
+        "рецессия"
+      ],
+      "example": "Taantuma on ajanut palkansaajat vaikeaan tilanteeseen.",
+      "level": "B1",
+      "sourceId": "recession",
+      "sourceIds": [
+        "recession"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kiristys",
+      "word": "kiristys",
+      "en": "kiristys",
+      "ru": [
+        "вымогательство",
+        "обыск"
+      ],
+      "example": "Tuo on kiristystä.",
+      "level": "B1",
+      "sourceId": "shakedown",
+      "sourceIds": [
+        "shakedown"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "offshore",
+      "word": "offshore-",
+      "en": "offshore-",
+      "ru": [
+        "офшорный",
+        "прибрежный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "offshore",
+      "sourceIds": [
+        "offshore"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "maksu",
+      "word": "maksu",
+      "en": "maksu",
+      "ru": [
+        "выплата"
+      ],
+      "example": "Maksu sisältää myös tutkimuksen tekemiseen tarvittavien erikoisosaamispalveluiden kulut.",
+      "level": "B1",
+      "sourceId": "payout",
+      "sourceIds": [
+        "payout"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "varainhankintatilaisuus",
+      "word": "varainhankintatilaisuus",
+      "en": "varainhankintatilaisuus",
+      "ru": [
+        "сбор средств",
+        "мероприятие по сбору средств"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fundraiser",
+      "sourceIds": [
+        "fundraiser"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kavaltaa",
+      "word": "kavaltaa",
+      "en": "kavaltaa",
+      "ru": [
+        "растрачивать",
+        "присваивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "embezzle",
+      "sourceIds": [
+        "embezzle"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "paasta-takuita-vastaan",
+      "word": "päästä takuita vastaan",
+      "en": "päästä takuita vastaan",
+      "ru": [
+        "выходить под залог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bail",
+      "sourceIds": [
+        "bail"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "sekki",
+      "word": "sekki",
+      "en": "sekki",
+      "ru": [
+        "чек"
+      ],
+      "example": "Te hyväksytte Tomin sekit, joten miksette minun?",
+      "level": "B1",
+      "sourceId": "cheque",
+      "sourceIds": [
+        "cheque"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaytetty",
+      "word": "käytetty",
+      "en": "käytetty",
+      "ru": [
+        "потраченный"
+      ],
+      "example": "Minulla ei ole varaa ostaa käytettyä autoa.",
+      "level": "B1",
+      "sourceId": "spent",
+      "sourceIds": [
+        "spent"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ulosmittaus",
+      "word": "ulosmittaus",
+      "en": "ulosmittaus",
+      "ru": [
+        "лишение права выкупа заложенного имущества"
+      ],
+      "example": "Tomin auto on otettu ulosmittaukseen.",
+      "level": "B1",
+      "sourceId": "foreclosure",
+      "sourceIds": [
+        "foreclosure"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matalakorkoinen",
+      "word": "matalakorkoinen",
+      "en": "matalakorkoinen",
+      "ru": [
+        "низкопроцентный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "low-interest",
+      "sourceIds": [
+        "low-interest"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "miljoonan-dollarin",
+      "word": "miljoonan dollarin",
+      "en": "miljoonan dollarin",
+      "ru": [
+        "миллионный",
+        "очень дорогой"
+      ],
+      "example": "Isä antoi miljoonan dollarin pikkulainan.",
+      "level": "B1",
+      "sourceId": "million-dollar",
+      "sourceIds": [
+        "million-dollar"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ennalta-maksettava",
+      "word": "ennalta maksettava",
+      "en": "ennalta maksettava",
+      "ru": [
+        "предоплатный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pay-as-you-go",
+      "sourceIds": [
+        "pay-as-you-go"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pankkiautomaatti",
+      "word": "pankkiautomaatti",
+      "en": "pankkiautomaatti",
+      "ru": [
+        "банкомат"
+      ],
+      "example": "Anteeksi, mutta onko tässä lähellä pankkiautomaattia?",
+      "level": "B1",
+      "sourceId": "atm",
+      "sourceIds": [
+        "atm"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vakavarainen",
+      "word": "vakavarainen",
+      "en": "vakavarainen",
+      "ru": [
+        "хорошо капитализированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "well-capitalized",
+      "sourceIds": [
+        "well-capitalized"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "edullinen",
+      "word": "edullinen",
+      "en": "edullinen",
+      "ru": [
+        "недорогой",
+        "бюджетный"
+      ],
+      "example": "Mikä palveluntarjoaja on halvin? Entä edullisin?",
+      "level": "B1",
+      "sourceId": "low-dollar",
+      "sourceIds": [
+        "low-dollar"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuottoisa",
+      "word": "tuottoisa",
+      "en": "tuottoisa",
+      "ru": [
+        "прибыльный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lucrative",
+      "sourceIds": [
+        "lucrative"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "elatusapu",
+      "word": "elatusapu",
+      "en": "elatusapu",
+      "ru": [
+        "алименты"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "alimony",
+      "sourceIds": [
+        "alimony"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "leikata-alta",
+      "word": "leikata alta",
+      "en": "leikata alta",
+      "ru": [
+        "подрезать",
+        "сбивать цены"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercut",
+      "sourceIds": [
+        "undercut"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "peso",
+      "word": "peso",
+      "en": "peso",
+      "ru": [
+        "песо"
+      ],
+      "example": "Korkeintaan se maksaa kymmenen pesoa.",
+      "level": "B1",
+      "sourceId": "peso",
+      "sourceIds": [
+        "peso"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saastavaisyys",
+      "word": "säästäväisyys",
+      "en": "säästäväisyys",
+      "ru": [
+        "бережливость",
+        "экономность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frugality",
+      "sourceIds": [
+        "frugality"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "saada-takaisin",
+      "word": "saada takaisin",
+      "en": "saada takaisin",
+      "ru": [
+        "возмещать",
+        "окупать"
+      ],
+      "example": "Hallitus yrittää saada asioita takaisin raiteilleen.",
+      "level": "B1",
+      "sourceId": "recoup",
+      "sourceIds": [
+        "recoup"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vahvan-kassan-omaava",
+      "word": "vahvan kassan omaava",
+      "en": "vahvan kassan omaava",
+      "ru": [
+        "богатый наличными"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cash-rich",
+      "sourceIds": [
+        "cash-rich"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "likvidoida",
+      "word": "likvidoida",
+      "en": "likvidoida",
+      "ru": [
+        "ликвидировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquidate",
+      "sourceIds": [
+        "liquidate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "alipaaomitettu",
+      "word": "alipääomitettu",
+      "en": "alipääomitettu",
+      "ru": [
+        "недокапитализированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercapitalized",
+      "sourceIds": [
+        "undercapitalized"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "likviditeetti",
+      "word": "likviditeetti",
+      "en": "likviditeetti",
+      "ru": [
+        "ликвидность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquidity",
+      "sourceIds": [
+        "liquidity"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kiristaa",
+      "word": "kiristää",
+      "en": "kiristää",
+      "ru": [
+        "вымогать"
+      ],
+      "example": "Turvavyö: turvavyö kiinnitetään, kiristetään ja avataan näin.",
+      "level": "B1",
+      "sourceId": "extort",
+      "sourceIds": [
+        "extort"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eraantynyt",
+      "word": "erääntynyt",
+      "en": "erääntynyt",
+      "ru": [
+        "просроченный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "delinquent",
+      "sourceIds": [
+        "delinquent"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pidatysoikeus",
+      "word": "pidätysoikeus",
+      "en": "pidätysoikeus",
+      "ru": [
+        "право удержания имущества"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lien",
+      "sourceIds": [
+        "lien"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sijoittaa-uudelleen",
+      "word": "sijoittaa uudelleen",
+      "en": "sijoittaa uudelleen",
+      "ru": [
+        "реинвестировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reinvest",
+      "sourceIds": [
+        "reinvest"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "vaarin-hankittu",
+      "word": "väärin hankittu",
+      "en": "väärin hankittu",
+      "ru": [
+        "нечестно нажитый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ill-gotten",
+      "sourceIds": [
+        "ill-gotten"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kinner",
+      "word": "kinner",
+      "en": "kinner",
+      "ru": [
+        "закладывать в ломбард"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hock",
+      "sourceIds": [
+        "hock"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hyodyntaa",
+      "word": "hyödyntää",
+      "en": "hyödyntää",
+      "ru": [
+        "использовать с выгодой"
+      ],
+      "example": "Tulen hyödyntäminen voidaan nähdä ihmisen huomattavimpana keksintönä.",
+      "level": "B1",
+      "sourceId": "parlay",
+      "sourceIds": [
+        "parlay"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "toimeentulo",
+      "word": "toimeentulo",
+      "en": "toimeentulo",
+      "ru": [
+        "средства к существованию"
+      ],
+      "example": "Hän teki kovasti työtä perheensä toimeentulon eteen.",
+      "level": "B1",
+      "sourceId": "livelihood",
+      "sourceIds": [
+        "livelihood"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "takavarikoida",
+      "word": "takavarikoida",
+      "en": "takavarikoida",
+      "ru": [
+        "конфисковать",
+        "задерживать"
+      ],
+      "example": "USA:n tulli halusi takavarikoida Australian ulkoministerin vegemiten.",
+      "level": "B1",
+      "sourceId": "impound",
+      "sourceIds": [
+        "impound"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vakuuttaa",
+      "word": "vakuuttaa",
+      "en": "vakuuttaa",
+      "ru": [
+        "страховать"
+      ],
+      "example": "Tomi yrittää vakuuttaa Marin lähtemään Bostoniin kanssaan.",
+      "level": "B1",
+      "sourceId": "insure",
+      "sourceIds": [
+        "insure"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verovelvollinen",
+      "word": "verovelvollinen",
+      "en": "verovelvollinen",
+      "ru": [
+        "налогоплательщик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "taxpayer",
+      "sourceIds": [
+        "taxpayer"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "omavastuu",
+      "word": "omavastuu",
+      "en": "omavastuu",
+      "ru": [
+        "франшиза",
+        "вычитаемый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "deductible",
+      "sourceIds": [
+        "deductible"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "korvaus",
+      "word": "korvaus",
+      "en": "korvaus",
+      "ru": [
+        "компенсация",
+        "бесплатный"
+      ],
+      "example": "Uhreilla on oikeus saada korvaus kärsitystä vahingosta.",
+      "level": "B1",
+      "sourceId": "comp",
+      "sourceIds": [
+        "comp"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taskuraha",
+      "word": "taskuraha",
+      "en": "taskuraha",
+      "ru": [
+        "карманные деньги",
+        "пособие"
+      ],
+      "example": "Älä tuhlaa taskurahojasi.",
+      "level": "B1",
+      "sourceId": "allowance",
+      "sourceIds": [
+        "allowance"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palkankorotus",
+      "word": "palkankorotus",
+      "en": "palkankorotus",
+      "ru": [
+        "повышение зарплаты"
+      ],
+      "example": "Tomilla ei ollut rohkeutta pyytää johtajaltaan palkankorotusta.",
+      "level": "B1",
+      "sourceId": "pay-raise",
+      "sourceIds": [
+        "pay-raise"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palkkapaiva",
+      "word": "palkkapäivä",
+      "en": "palkkapäivä",
+      "ru": [
+        "день зарплаты"
+      ],
+      "example": "Huomenna on hartaasti odotettu palkkapäivä.",
+      "level": "B1",
+      "sourceId": "payday",
+      "sourceIds": [
+        "payday"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kasvaa",
+      "word": "kasvaa",
+      "en": "kasvaa",
+      "ru": [
+        "накапливаться",
+        "нарастать"
+      ],
+      "example": "\"Kas vain!\", sanoi kasvain ja kasvoi vain.",
+      "level": "B1",
+      "sourceId": "accrue",
+      "sourceIds": [
+        "accrue"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tienaaja",
+      "word": "tienaaja",
+      "en": "tienaaja",
+      "ru": [
+        "кормилец",
+        "зарабатывающий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "earner",
+      "sourceIds": [
+        "earner"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "nikkeli",
+      "word": "nikkeli",
+      "en": "nikkeli",
+      "ru": [
+        "никель",
+        "пять центов"
+      ],
+      "example": "Nikkeli on kova, hopean valkoinen metalli.",
+      "level": "B1",
+      "sourceId": "nickel",
+      "sourceIds": [
+        "nickel"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

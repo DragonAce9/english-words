@@ -1,0 +1,4777 @@
+{
+  "id": "transport",
+  "title": "Транспорт",
+  "paid": true,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "aeroport",
+      "word": "aéroport",
+      "en": "aéroport",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "gender": "m",
+      "example": "Nous sommes arrivés à l'aéroport en avance.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "billet",
+      "word": "billet",
+      "en": "billet",
+      "sourceId": "ticket",
+      "sourceIds": [
+        "ticket"
+      ],
+      "ru": [
+        "билет",
+        "лицензия",
+        "разрешение"
+      ],
+      "gender": "m",
+      "example": "J'ai acheté un billet pour Londres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depart",
+      "word": "départ",
+      "en": "départ",
+      "sourceId": "departure",
+      "sourceIds": [
+        "departure"
+      ],
+      "ru": [
+        "отправление",
+        "вылет",
+        "отклонение"
+      ],
+      "gender": "m",
+      "example": "Le départ est à six heures du matin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "arrivee",
+      "word": "arrivée",
+      "en": "arrivée",
+      "sourceId": "arrival",
+      "sourceIds": [
+        "arrival"
+      ],
+      "ru": [
+        "прибытие",
+        "приезд",
+        "прилёт"
+      ],
+      "gender": "f",
+      "example": "Veuillez patienter dans le hall des arrivées.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "carte",
+      "word": "carte",
+      "en": "carte",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "gender": "f",
+      "example": "Cette carte montre la vieille ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "accident",
+      "word": "accident",
+      "en": "accident",
+      "sourceId": "accident",
+      "sourceIds": [
+        "accident"
+      ],
+      "ru": [
+        "ДТП",
+        "ч. п",
+        "авария"
+      ],
+      "gender": "m",
+      "example": "Il a eu un accident de voiture hier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "accidentel",
+      "word": "accidentel",
+      "en": "accidentel",
+      "sourceId": "accidental",
+      "sourceIds": [
+        "accidental"
+      ],
+      "ru": [
+        "неожиданный",
+        "случайный"
+      ],
+      "gender": null,
+      "example": "C'était une rencontre accidentelle dans la rue.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "sourceId": "aircraft",
+      "sourceIds": [
+        "aircraft"
+      ],
+      "ru": [
+        "самолёт",
+        "летательный аппарат",
+        "воздушное судно"
+      ],
+      "gender": "m",
+      "example": "L'avion a décollé à l'heure prévue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "compagnie-aerienne",
+      "word": "compagnie aérienne",
+      "en": "compagnie aérienne",
+      "sourceId": "airline",
+      "sourceIds": [
+        "airline"
+      ],
+      "ru": [
+        "авиакомпания",
+        "авиалинии",
+        "авиапредприятие"
+      ],
+      "gender": "f",
+      "example": "Cette compagnie aérienne propose des vols directs vers Paris.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "avion-de-ligne",
+      "word": "avion de ligne",
+      "en": "avion de ligne",
+      "sourceId": "airliner",
+      "sourceIds": [
+        "airliner"
+      ],
+      "ru": [
+        "авиалайнер",
+        "воздушный лайнер",
+        "пассажирский самолёт"
+      ],
+      "gender": "m",
+      "example": "L'avion de ligne a atterri à l'heure.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "sourceId": "airplane",
+      "sourceIds": [
+        "airplane"
+      ],
+      "ru": [
+        "самолёт",
+        "аэроплан"
+      ],
+      "gender": "m",
+      "example": "L'avion décolle à l'heure prévue.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "automobile",
+      "word": "automobile",
+      "en": "automobile",
+      "sourceId": "automotive",
+      "sourceIds": [
+        "automotive"
+      ],
+      "ru": [
+        "самоходный",
+        "авто",
+        "автомобильный"
+      ],
+      "gender": null,
+      "example": "L'industrie automobile est très importante en France.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "aviation",
+      "word": "aviation",
+      "en": "aviation",
+      "sourceId": "aviation",
+      "sourceIds": [
+        "aviation"
+      ],
+      "ru": [
+        "авиация",
+        "воздухоплавание"
+      ],
+      "gender": "f",
+      "example": "Elle travaille dans le secteur de l'aviation.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "ceinture",
+      "word": "ceinture",
+      "en": "ceinture",
+      "sourceId": "belt",
+      "sourceIds": [
+        "belt"
+      ],
+      "ru": [
+        "ремень",
+        "пояс"
+      ],
+      "gender": "f",
+      "example": "Il a attaché sa ceinture de sécurité.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "velo",
+      "word": "vélo",
+      "en": "vélo",
+      "sourceId": "bicycle",
+      "sourceIds": [
+        "bicycle"
+      ],
+      "ru": [
+        "велосипед",
+        "велик",
+        "педалировать"
+      ],
+      "gender": "m",
+      "example": "Je vais au travail à vélo.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "velo",
+      "word": "vélo",
+      "en": "vélo",
+      "sourceId": "bike",
+      "sourceIds": [
+        "bike"
+      ],
+      "ru": [
+        "велосипед",
+        "мотоцикл",
+        "велик"
+      ],
+      "gender": "m",
+      "example": "Je vais au travail à vélo.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bateau",
+      "word": "bateau",
+      "en": "bateau",
+      "sourceId": "boat",
+      "sourceIds": [
+        "boat"
+      ],
+      "ru": [
+        "лодка",
+        "бот",
+        "ладья"
+      ],
+      "gender": "m",
+      "example": "Le bateau navigue sur la rivière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "freiner",
+      "word": "freiner",
+      "en": "freiner",
+      "sourceId": "brake",
+      "sourceIds": [
+        "brake"
+      ],
+      "ru": [
+        "тормоз",
+        "тормозить",
+        "затормозить"
+      ],
+      "gender": null,
+      "example": "Il faut freiner avant le virage.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "freinage",
+      "word": "freinage",
+      "en": "freinage",
+      "sourceId": "braking",
+      "sourceIds": [
+        "braking"
+      ],
+      "ru": [
+        "торможение"
+      ],
+      "gender": "m",
+      "example": "Le freinage brusque a surpris les passagers.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "pont",
+      "word": "pont",
+      "en": "pont",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "ru": [
+        "мост"
+      ],
+      "gender": "m",
+      "example": "Le pont traverse la rivière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bus",
+      "word": "bus",
+      "en": "bus",
+      "sourceId": "bus",
+      "sourceIds": [
+        "bus"
+      ],
+      "ru": [
+        "автобус"
+      ],
+      "gender": "m",
+      "example": "Je prends le bus pour aller au travail.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cabane",
+      "word": "cabane",
+      "en": "cabane",
+      "sourceId": "cabin",
+      "sourceIds": [
+        "cabin"
+      ],
+      "ru": [
+        "домик",
+        "лачуга",
+        "хижина"
+      ],
+      "gender": "f",
+      "example": "Nous avons passé le week-end dans une petite cabane en bois.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "capitaine",
+      "word": "capitaine",
+      "en": "capitaine",
+      "sourceId": "captain",
+      "sourceIds": [
+        "captain"
+      ],
+      "ru": [
+        "капитан"
+      ],
+      "gender": "m",
+      "example": "Le capitaine dirige le navire avec assurance.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "voiture",
+      "word": "voiture",
+      "en": "voiture",
+      "sourceId": "car",
+      "sourceIds": [
+        "car"
+      ],
+      "ru": [
+        "авто",
+        "автомашина",
+        "автомобиль"
+      ],
+      "gender": "f",
+      "example": "Elle conduit une nouvelle voiture.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "carrosse",
+      "word": "carrosse",
+      "en": "carrosse",
+      "sourceId": "carriage",
+      "sourceIds": [
+        "carriage"
+      ],
+      "ru": [
+        "карета",
+        "воз",
+        "повозка"
+      ],
+      "gender": "m",
+      "example": "Le roi voyageait dans un carrosse doré.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chaussee",
+      "word": "chaussée",
+      "en": "chaussée",
+      "sourceId": "carriageway",
+      "sourceIds": [
+        "carriageway"
+      ],
+      "ru": [
+        "проезжая часть"
+      ],
+      "gender": "f",
+      "example": "La voiture roule sur la chaussée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "carrosse",
+      "word": "carrosse",
+      "en": "carrosse",
+      "sourceId": "coach",
+      "sourceIds": [
+        "coach"
+      ],
+      "ru": [
+        "дилижанс",
+        "карета",
+        "коляска"
+      ],
+      "gender": "m",
+      "example": "Le roi voyageait dans un carrosse doré.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boussole",
+      "word": "boussole",
+      "en": "boussole",
+      "sourceId": "compass",
+      "sourceIds": [
+        "compass"
+      ],
+      "ru": [
+        "буссоль",
+        "компас",
+        "диапазон"
+      ],
+      "gender": "f",
+      "example": "Il utilise une boussole pour s'orienter en forêt.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "accident",
+      "word": "accident",
+      "en": "accident",
+      "sourceId": "crash",
+      "sourceIds": [
+        "crash"
+      ],
+      "ru": [
+        "грохот",
+        "треск",
+        "авария"
+      ],
+      "gender": "m",
+      "example": "Il a eu un grave accident de voiture.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "equipage",
+      "word": "équipage",
+      "en": "équipage",
+      "sourceId": "crew",
+      "sourceIds": [
+        "crew"
+      ],
+      "ru": [
+        "бригада",
+        "коллектив",
+        "команда"
+      ],
+      "gender": "m",
+      "example": "L'équipage du navire est prêt à partir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "passage-pieton",
+      "word": "passage piéton",
+      "en": "passage piéton",
+      "sourceId": "crosswalk",
+      "sourceIds": [
+        "crosswalk"
+      ],
+      "ru": [
+        "пешеходный переход"
+      ],
+      "gender": "m",
+      "example": "Il traverse la rue sur le passage piéton.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "croisiere",
+      "word": "croisière",
+      "en": "croisière",
+      "sourceId": "cruise",
+      "sourceIds": [
+        "cruise"
+      ],
+      "ru": [
+        "круиз",
+        "морское путешествие",
+        "плавание"
+      ],
+      "gender": "f",
+      "example": "Nous avons fait une croisière dans les Caraïbes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "croiseur",
+      "word": "croiseur",
+      "en": "croiseur",
+      "sourceId": "cruiser",
+      "sourceIds": [
+        "cruiser"
+      ],
+      "ru": [
+        "крейсер"
+      ],
+      "gender": "m",
+      "example": "Le croiseur a quitté le port ce matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cycle",
+      "word": "cycle",
+      "en": "cycle",
+      "sourceId": "cycle",
+      "sourceIds": [
+        "cycle"
+      ],
+      "ru": [
+        "цикл",
+        "оборот",
+        "ездить на велосипеде"
+      ],
+      "gender": "m",
+      "example": "Le cycle de la vie est fascinant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cyclisme",
+      "word": "cyclisme",
+      "en": "cyclisme",
+      "sourceId": "cycling",
+      "sourceIds": [
+        "cycling"
+      ],
+      "ru": [
+        "езда на велосипеде",
+        "велоезда",
+        "велосипедный спорт"
+      ],
+      "gender": "m",
+      "example": "Le cyclisme est un sport très populaire en France.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "retard",
+      "word": "retard",
+      "en": "retard",
+      "sourceId": "delay",
+      "sourceIds": [
+        "delay"
+      ],
+      "ru": [
+        "задержка",
+        "опоздание",
+        "промедление"
+      ],
+      "gender": "m",
+      "example": "Le train a eu un retard de dix minutes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "diesel",
+      "word": "diesel",
+      "en": "diesel",
+      "sourceId": "diesel",
+      "sourceIds": [
+        "diesel"
+      ],
+      "ru": [
+        "дизель",
+        "дизельное топливо",
+        "солярка"
+      ],
+      "gender": "m",
+      "example": "Le moteur de cette voiture fonctionne au diesel.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "en": "direction",
+      "sourceId": "direction",
+      "sourceIds": [
+        "direction"
+      ],
+      "ru": [
+        "направление",
+        "режиссура",
+        "руководство"
+      ],
+      "gender": "f",
+      "example": "Il a pris la bonne direction pour arriver à la gare.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "conduire",
+      "word": "conduire",
+      "en": "conduire",
+      "sourceId": "drive",
+      "sourceIds": [
+        "drive"
+      ],
+      "ru": [
+        "водить"
+      ],
+      "gender": null,
+      "example": "Je conduis pour aller au travail.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "conducteur",
+      "word": "conducteur",
+      "en": "conducteur",
+      "sourceId": "driver",
+      "sourceIds": [
+        "driver"
+      ],
+      "ru": [
+        "водитель",
+        "водительница",
+        "погонщик"
+      ],
+      "gender": "m",
+      "example": "Le conducteur a garé sa voiture devant la maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "moteur",
+      "word": "moteur",
+      "en": "moteur",
+      "sourceId": "driving",
+      "sourceIds": [
+        "driving"
+      ],
+      "ru": [
+        "движущий",
+        "приводной",
+        "вождение"
+      ],
+      "gender": null,
+      "example": "La force motrice est essentielle pour ce mécanisme.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "moteur",
+      "word": "moteur",
+      "en": "moteur",
+      "sourceId": "engine",
+      "sourceIds": [
+        "engine"
+      ],
+      "ru": [
+        "мотор",
+        "двигатель"
+      ],
+      "gender": "m",
+      "example": "Le moteur de la voiture est en panne.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "ingenieur",
+      "word": "ingénieur",
+      "en": "ingénieur",
+      "sourceId": "engineer",
+      "sourceIds": [
+        "engineer"
+      ],
+      "ru": [
+        "инженер",
+        "машинист",
+        "инженерка"
+      ],
+      "gender": "m",
+      "example": "Elle travaille comme ingénieur dans cette entreprise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tarif",
+      "word": "tarif",
+      "en": "tarif",
+      "sourceId": "fare",
+      "sourceIds": [
+        "fare"
+      ],
+      "ru": [
+        "плата за проезд",
+        "стоимость проезда",
+        "тариф"
+      ],
+      "gender": "m",
+      "example": "Le tarif du billet de train a augmenté.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "rapide",
+      "word": "rapide",
+      "en": "rapide",
+      "sourceId": "fast",
+      "sourceIds": [
+        "fast"
+      ],
+      "ru": [
+        "крепкий",
+        "прочный",
+        "скорый"
+      ],
+      "gender": null,
+      "example": "Il court très rapide.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "ferry",
+      "word": "ferry",
+      "en": "ferry",
+      "sourceId": "ferry",
+      "sourceIds": [
+        "ferry",
+        "ferryboat"
+      ],
+      "ru": [
+        "паром"
+      ],
+      "gender": "m",
+      "example": "Le ferry traverse la Manche tous les jours.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "carburant",
+      "word": "carburant",
+      "en": "carburant",
+      "sourceId": "fuel",
+      "sourceIds": [
+        "fuel"
+      ],
+      "ru": [
+        "горючее",
+        "топливо"
+      ],
+      "gender": "m",
+      "example": "Il faut faire le plein de carburant avant de partir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "garage",
+      "word": "garage",
+      "en": "garage",
+      "sourceId": "garage",
+      "sourceIds": [
+        "garage"
+      ],
+      "ru": [
+        "гараж",
+        "станция техобслуживания",
+        "автосервис"
+      ],
+      "gender": "m",
+      "example": "Je gare ma voiture dans le garage.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "essence",
+      "word": "essence",
+      "en": "essence",
+      "sourceId": "gas",
+      "sourceIds": [
+        "gas"
+      ],
+      "ru": [
+        "бензин",
+        "топливо"
+      ],
+      "gender": "f",
+      "example": "C'est moi, de la station-service.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "port",
+      "word": "port",
+      "en": "port",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "gender": "m",
+      "example": "Le bateau est entré dans le port.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "helicoptere",
+      "word": "hélicoptère",
+      "en": "hélicoptère",
+      "sourceId": "helicopter",
+      "sourceIds": [
+        "helicopter"
+      ],
+      "ru": [
+        "вертолёт",
+        "геликоптер"
+      ],
+      "gender": "m",
+      "example": "L'hélicoptère a atterri sur le toit de l'hôpital.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "casque",
+      "word": "casque",
+      "en": "casque",
+      "sourceId": "helmet",
+      "sourceIds": [
+        "helmet"
+      ],
+      "ru": [
+        "шлем",
+        "каска",
+        "шелом"
+      ],
+      "gender": "m",
+      "example": "Il porte un casque pour faire du vélo.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "gender": "f",
+      "example": "Nous prenons l'autoroute pour aller à Paris.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brigand",
+      "word": "brigand",
+      "en": "brigand",
+      "sourceId": "highwayman",
+      "sourceIds": [
+        "highwayman"
+      ],
+      "ru": [
+        "разбойник с большой дороги"
+      ],
+      "gender": "m",
+      "example": "Le brigand a attaqué la diligence sur la route isolée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "carrefour",
+      "word": "carrefour",
+      "en": "carrefour",
+      "sourceId": "intersection",
+      "sourceIds": [
+        "intersection"
+      ],
+      "ru": [
+        "перекрёсток",
+        "пересечение"
+      ],
+      "gender": "m",
+      "example": "Il y a un accident au carrefour.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "journey",
+      "sourceIds": [
+        "journey"
+      ],
+      "ru": [
+        "путешествие",
+        "вояж",
+        "поездка"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un long voyage en train.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "allee",
+      "word": "allée",
+      "en": "allée",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "gender": "f",
+      "example": "Nous avons marché dans une allée bordée d'arbres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "licence",
+      "word": "licence",
+      "en": "licence",
+      "sourceId": "license",
+      "sourceIds": [
+        "license"
+      ],
+      "ru": [
+        "лицензия",
+        "разрешение",
+        "удостоверение"
+      ],
+      "gender": "f",
+      "example": "Il a obtenu sa licence de pilote.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "machine",
+      "word": "machine",
+      "en": "machine",
+      "sourceId": "machine",
+      "sourceIds": [
+        "machine"
+      ],
+      "ru": [
+        "машина",
+        "аппарат",
+        "машинка"
+      ],
+      "gender": "f",
+      "example": "Cette machine fonctionne à l'électricité.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "machine",
+      "word": "machine",
+      "en": "machine",
+      "sourceId": "machinery",
+      "sourceIds": [
+        "machinery"
+      ],
+      "ru": [
+        "машина",
+        "оборудование",
+        "механизм"
+      ],
+      "gender": "f",
+      "example": "Cette machine est très performante.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "mappage",
+      "word": "mappage",
+      "en": "mappage",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "ru": [
+        "отображение"
+      ],
+      "gender": "m",
+      "example": "Le mappage des données est essentiel pour la migration.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "moteur",
+      "word": "moteur",
+      "en": "moteur",
+      "sourceId": "motor",
+      "sourceIds": [
+        "motor"
+      ],
+      "ru": [
+        "двигатель",
+        "автомобильный",
+        "моторный"
+      ],
+      "gender": null,
+      "example": "Il a une activité motrice intense.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "moto",
+      "word": "moto",
+      "en": "moto",
+      "sourceId": "motorcycle",
+      "sourceIds": [
+        "motorcycle",
+        "motorbike"
+      ],
+      "ru": [
+        "мотоцикл"
+      ],
+      "gender": "f",
+      "example": "Il va au travail en moto.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "gender": "f",
+      "example": "Nous prenons l'autoroute pour aller à Paris.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "navigation",
+      "word": "navigation",
+      "en": "navigation",
+      "sourceId": "navigation",
+      "sourceIds": [
+        "navigation"
+      ],
+      "ru": [
+        "навигация",
+        "судоходство",
+        "мореплавание"
+      ],
+      "gender": "f",
+      "example": "La navigation sur ce fleuve est difficile en hiver.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "de-navigation",
+      "word": "de navigation",
+      "en": "de navigation",
+      "sourceId": "navigational",
+      "sourceIds": [
+        "navigational"
+      ],
+      "ru": [
+        "навигационный"
+      ],
+      "gender": null,
+      "example": "Les instruments de navigation sont essentiels pour les pilotes.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "parc",
+      "word": "parc",
+      "en": "parc",
+      "sourceId": "park",
+      "sourceIds": [
+        "park"
+      ],
+      "ru": [
+        "парк",
+        "парковать",
+        "ставить на парковку"
+      ],
+      "gender": "m",
+      "example": "Nous nous promenons dans le parc.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "parking",
+      "word": "parking",
+      "en": "parking",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "gender": "m",
+      "example": "Il y a un grand parking devant le supermarché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "passager",
+      "word": "passager",
+      "en": "passager",
+      "sourceId": "passenger",
+      "sourceIds": [
+        "passenger"
+      ],
+      "ru": [
+        "пассажир",
+        "пассажирка"
+      ],
+      "gender": "m",
+      "example": "Le passager a oublié son sac dans le train.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "pieton",
+      "word": "piéton",
+      "en": "piéton",
+      "sourceId": "pedestrian",
+      "sourceIds": [
+        "pedestrian"
+      ],
+      "ru": [
+        "пешеход"
+      ],
+      "gender": null,
+      "example": "Il y a beaucoup de piétons dans cette rue.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "pietonnisation",
+      "word": "piétonnisation",
+      "en": "piétonnisation",
+      "sourceId": "pedestrianization",
+      "sourceIds": [
+        "pedestrianization"
+      ],
+      "ru": [
+        "пешеходизация"
+      ],
+      "gender": "f",
+      "example": "La piétonnisation du centre-ville a réduit la pollution.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "pilote",
+      "word": "pilote",
+      "en": "pilote",
+      "sourceId": "pilot",
+      "sourceIds": [
+        "pilot"
+      ],
+      "ru": [
+        "пилот",
+        "летчик"
+      ],
+      "gender": null,
+      "example": "Le pilote a fait atterrir l'avion en douceur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "sourceId": "plane",
+      "sourceIds": [
+        "plane",
+        "aeroplane"
+      ],
+      "ru": [
+        "самолёт"
+      ],
+      "gender": null,
+      "example": "L'avion décolle à l'heure.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "quai",
+      "word": "quai",
+      "en": "quai",
+      "sourceId": "platform",
+      "sourceIds": [
+        "platform"
+      ],
+      "ru": [
+        "перрон",
+        "платформа",
+        "подиум"
+      ],
+      "gender": "m",
+      "example": "Le train arrive au quai numéro trois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "babord",
+      "word": "bâbord",
+      "en": "bâbord",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "gender": null,
+      "example": "Le navire a viré à bâbord.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "porteur",
+      "word": "porteur",
+      "en": "porteur",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "gender": "m",
+      "example": "Le porteur a monté mes valises dans la chambre.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "chemin-de-fer",
+      "word": "chemin de fer",
+      "en": "chemin de fer",
+      "sourceId": "railway",
+      "sourceIds": [
+        "railway"
+      ],
+      "ru": [
+        "железнодорожный путь",
+        "колея",
+        "железная дорога"
+      ],
+      "gender": "m",
+      "example": "Le chemin de fer traverse toute la région.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "cheminot",
+      "word": "cheminot",
+      "en": "cheminot",
+      "sourceId": "railwayman",
+      "sourceIds": [
+        "railwayman"
+      ],
+      "ru": [
+        "железнодорожник"
+      ],
+      "gender": "m",
+      "example": "Le cheminot vérifie les billets des passagers.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "trajet",
+      "word": "trajet",
+      "en": "trajet",
+      "sourceId": "ride",
+      "sourceIds": [
+        "ride"
+      ],
+      "ru": [
+        "тачка",
+        "езда",
+        "катание"
+      ],
+      "gender": "m",
+      "example": "Le trajet en train dure deux heures.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "en": "route",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "gender": "f",
+      "example": "La route est longue.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "detourne",
+      "word": "détourné",
+      "en": "détourné",
+      "sourceId": "roundabout",
+      "sourceIds": [
+        "roundabout"
+      ],
+      "ru": [
+        "окольный",
+        "кружный",
+        "непрямой"
+      ],
+      "gender": null,
+      "example": "Il a pris un chemin détourné pour éviter les embouteillages.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "en": "route",
+      "sourceId": "route",
+      "sourceIds": [
+        "route"
+      ],
+      "ru": [
+        "путь",
+        "курс",
+        "дорога"
+      ],
+      "gender": "f",
+      "example": "Nous avons pris la route la plus courte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "routage",
+      "word": "routage",
+      "en": "routage",
+      "sourceId": "routing",
+      "sourceIds": [
+        "routing"
+      ],
+      "ru": [
+        "маршрутизация"
+      ],
+      "gender": "m",
+      "example": "Le routage des données est essentiel pour le fonctionnement du réseau.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "piste",
+      "word": "piste",
+      "en": "piste",
+      "sourceId": "runway",
+      "sourceIds": [
+        "runway"
+      ],
+      "ru": [
+        "взлетно-посадочная полоса"
+      ],
+      "gender": "f",
+      "example": "L'avion s'est aligné sur la piste pour le décollage.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "voile",
+      "word": "voile",
+      "en": "voile",
+      "sourceId": "sail",
+      "sourceIds": [
+        "sail"
+      ],
+      "ru": [
+        "парус"
+      ],
+      "gender": "f",
+      "example": "Le bateau a déployé sa grande voile.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "voile",
+      "word": "voile",
+      "en": "voile",
+      "sourceId": "sailing",
+      "sourceIds": [
+        "sailing"
+      ],
+      "ru": [
+        "парусный спорт"
+      ],
+      "gender": "f",
+      "example": "Il pratique la voile tous les week-ends.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "trottinette",
+      "word": "trottinette",
+      "en": "trottinette",
+      "sourceId": "scooter",
+      "sourceIds": [
+        "scooter"
+      ],
+      "ru": [
+        "самокат",
+        "мотороллер",
+        "скутер"
+      ],
+      "gender": "f",
+      "example": "Elle va à l'école en trottinette.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "siege",
+      "word": "siège",
+      "en": "siège",
+      "sourceId": "seat",
+      "sourceIds": [
+        "seat"
+      ],
+      "ru": [
+        "седалище",
+        "сиденье",
+        "место"
+      ],
+      "gender": "m",
+      "example": "Veuillez prendre votre siège.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "navire",
+      "word": "navire",
+      "en": "navire",
+      "sourceId": "ship",
+      "sourceIds": [
+        "ship"
+      ],
+      "ru": [
+        "корабль",
+        "судно",
+        "пароход"
+      ],
+      "gender": "m",
+      "example": "Le navire a quitté le port ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "expediteur",
+      "word": "expéditeur",
+      "en": "expéditeur",
+      "sourceId": "shipper",
+      "sourceIds": [
+        "shipper"
+      ],
+      "ru": [
+        "грузоотправитель",
+        "отправитель",
+        "товароотправитель"
+      ],
+      "gender": "m",
+      "example": "L'expéditeur a envoyé le colis ce matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "expedition",
+      "word": "expédition",
+      "en": "expédition",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "gender": "f",
+      "example": "Les frais d'expédition sont offerts.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "trottoir",
+      "word": "trottoir",
+      "en": "trottoir",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "gender": "m",
+      "example": "Il marche sur le trottoir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "lent",
+      "word": "lent",
+      "en": "lent",
+      "sourceId": "slow",
+      "sourceIds": [
+        "slow"
+      ],
+      "ru": [
+        "медленный",
+        "замедлять"
+      ],
+      "gender": null,
+      "example": "Il marche d'un pas lent.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "lentement",
+      "word": "lentement",
+      "en": "lentement",
+      "sourceId": "slowly",
+      "sourceIds": [
+        "slowly"
+      ],
+      "ru": [
+        "медленно"
+      ],
+      "gender": null,
+      "example": "Il marche lentement dans la rue.",
+      "level": "B2",
+      "pos": "adv"
+    },
+    {
+      "id": "vitesse",
+      "word": "vitesse",
+      "en": "vitesse",
+      "sourceId": "speed",
+      "sourceIds": [
+        "speed"
+      ],
+      "ru": [
+        "скорость"
+      ],
+      "gender": "f",
+      "example": "La vitesse de la voiture est limitée à 50 km/h.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "exces-de-vitesse",
+      "word": "excès de vitesse",
+      "en": "excès de vitesse",
+      "sourceId": "speeding",
+      "sourceIds": [
+        "speeding"
+      ],
+      "ru": [
+        "превышение скорости"
+      ],
+      "gender": "m",
+      "example": "Il a reçu une amende pour excès de vitesse.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "gare",
+      "word": "gare",
+      "en": "gare",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "gender": "f",
+      "example": "Le train part de la gare centrale.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "immobile",
+      "word": "immobile",
+      "en": "immobile",
+      "sourceId": "stationary",
+      "sourceIds": [
+        "stationary"
+      ],
+      "ru": [
+        "неподвижный",
+        "стационарный"
+      ],
+      "gender": null,
+      "example": "La voiture est restée immobile pendant des heures.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "chef-de-gare",
+      "word": "chef de gare",
+      "en": "chef de gare",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "ru": [
+        "начальник станции"
+      ],
+      "gender": "m",
+      "example": "Le chef de gare a sifflé le départ du train.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "arreter",
+      "word": "arrêter",
+      "en": "arrêter",
+      "sourceId": "stop",
+      "sourceIds": [
+        "stop"
+      ],
+      "ru": [
+        "останавливать",
+        "прекращать"
+      ],
+      "gender": null,
+      "example": "Arrêtez de parler, s'il vous plaît.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "rue",
+      "word": "rue",
+      "en": "rue",
+      "sourceId": "street",
+      "sourceIds": [
+        "street"
+      ],
+      "ru": [
+        "улица"
+      ],
+      "gender": "f",
+      "example": "Il habite dans une petite rue calme.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "metro",
+      "word": "métro",
+      "en": "métro",
+      "sourceId": "subway",
+      "sourceIds": [
+        "subway"
+      ],
+      "ru": [
+        "метро",
+        "метрополитен",
+        "подземка"
+      ],
+      "gender": "m",
+      "example": "Je prends le métro pour aller au travail.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "taxi",
+      "word": "taxi",
+      "en": "taxi",
+      "sourceId": "taxi",
+      "sourceIds": [
+        "taxi"
+      ],
+      "ru": [
+        "такси",
+        "таксомотор"
+      ],
+      "gender": "m",
+      "example": "J'ai pris un taxi pour aller à la gare.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "peage",
+      "word": "péage",
+      "en": "péage",
+      "sourceId": "toll",
+      "sourceIds": [
+        "toll"
+      ],
+      "ru": [
+        "плата",
+        "пошлина",
+        "сбор"
+      ],
+      "gender": "m",
+      "example": "Nous avons dû payer un péage sur l'autoroute.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voie",
+      "word": "voie",
+      "en": "voie",
+      "sourceId": "track",
+      "sourceIds": [
+        "track"
+      ],
+      "ru": [
+        "колея",
+        "железнодорожный путь"
+      ],
+      "gender": "f",
+      "example": "Le train arrive sur la voie numéro quatre.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "circulation",
+      "word": "circulation",
+      "en": "circulation",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "gender": "f",
+      "example": "La circulation est très dense ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "train",
+      "word": "train",
+      "en": "train",
+      "sourceId": "train",
+      "sourceIds": [
+        "train"
+      ],
+      "ru": [
+        "поезд",
+        "вереница",
+        "караван"
+      ],
+      "gender": "m",
+      "example": "Le train arrive à la gare à huit heures.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tramway",
+      "word": "tramway",
+      "en": "tramway",
+      "sourceId": "tram",
+      "sourceIds": [
+        "tram"
+      ],
+      "ru": [
+        "трамвай",
+        "вагонетка"
+      ],
+      "gender": "m",
+      "example": "Le tramway arrive à la station.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "transit",
+      "word": "transit",
+      "en": "transit",
+      "sourceId": "transit",
+      "sourceIds": [
+        "transit"
+      ],
+      "ru": [
+        "переход",
+        "транзит",
+        "перевозка"
+      ],
+      "gender": "m",
+      "example": "Les marchandises sont en transit vers le port.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "transition",
+      "word": "transition",
+      "en": "transition",
+      "sourceId": "transition",
+      "sourceIds": [
+        "transition"
+      ],
+      "ru": [
+        "переход",
+        "превращение",
+        "транзиция"
+      ],
+      "gender": "f",
+      "example": "La transition vers les énergies renouvelables est nécessaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "transitoire",
+      "word": "transitoire",
+      "en": "transitoire",
+      "sourceId": "transitional",
+      "sourceIds": [
+        "transitional"
+      ],
+      "ru": [
+        "переходный",
+        "первоначальный"
+      ],
+      "gender": null,
+      "example": "Nous traversons une période transitoire.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "transitif",
+      "word": "transitif",
+      "en": "transitif",
+      "sourceId": "transitive",
+      "sourceIds": [
+        "transitive"
+      ],
+      "ru": [
+        "переходный"
+      ],
+      "gender": null,
+      "example": "Un verbe transitif nécessite un complément d'objet.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "transitivite",
+      "word": "transitivité",
+      "en": "transitivité",
+      "sourceId": "transitivity",
+      "sourceIds": [
+        "transitivity"
+      ],
+      "ru": [
+        "переходность",
+        "транзитивность"
+      ],
+      "gender": "f",
+      "example": "La transitivité d'un verbe détermine s'il peut avoir un complément d'objet direct.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "transitoire",
+      "word": "transitoire",
+      "en": "transitoire",
+      "sourceId": "transitory",
+      "sourceIds": [
+        "transitory"
+      ],
+      "ru": [
+        "временный",
+        "кратковременный",
+        "мимолётный"
+      ],
+      "gender": null,
+      "example": "Le succès de cette mode fut transitoire.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "transport",
+      "word": "transport",
+      "en": "transport",
+      "sourceId": "transport",
+      "sourceIds": [
+        "transport"
+      ],
+      "ru": [
+        "перевозка",
+        "транспортировка",
+        "транспорт"
+      ],
+      "gender": "m",
+      "example": "Le transport en commun est très pratique dans cette ville.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "transport",
+      "word": "transport",
+      "en": "transport",
+      "sourceId": "transportation",
+      "sourceIds": [
+        "transportation"
+      ],
+      "ru": [
+        "транспорт",
+        "перевозка",
+        "переправка"
+      ],
+      "gender": "m",
+      "example": "Le transport en commun est très développé dans cette ville.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "voyager",
+      "word": "voyager",
+      "en": "voyager",
+      "sourceId": "travel",
+      "sourceIds": [
+        "travel"
+      ],
+      "ru": [
+        "путешествовать"
+      ],
+      "gender": null,
+      "example": "Nous voyageons en été.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "voyageur",
+      "word": "voyageur",
+      "en": "voyageur",
+      "sourceId": "traveller",
+      "sourceIds": [
+        "traveller"
+      ],
+      "ru": [
+        "путник",
+        "путница",
+        "путешественник"
+      ],
+      "gender": "m",
+      "example": "Le voyageur attend son train sur le quai.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "travelling",
+      "sourceIds": [
+        "travelling"
+      ],
+      "ru": [
+        "путешествие"
+      ],
+      "gender": "m",
+      "example": "J'adore les voyages en train.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "trip",
+      "sourceIds": [
+        "trip"
+      ],
+      "ru": [
+        "путешествие",
+        "поездка",
+        "спотыкание"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un long voyage en train.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "camion",
+      "word": "camion",
+      "en": "camion",
+      "sourceId": "truck",
+      "sourceIds": [
+        "truck"
+      ],
+      "ru": [
+        "грузовик",
+        "грузовая машина",
+        "грузовой автомобиль"
+      ],
+      "gender": "m",
+      "example": "Le camion transporte des marchandises sur l'autoroute.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coffre",
+      "word": "coffre",
+      "en": "coffre",
+      "sourceId": "trunk",
+      "sourceIds": [
+        "trunk"
+      ],
+      "ru": [
+        "багажник"
+      ],
+      "gender": "m",
+      "example": "J'ai mis mes valises dans le coffre de la voiture.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "tunnel",
+      "word": "tunnel",
+      "en": "tunnel",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "gender": "m",
+      "example": "Le train traverse un long tunnel.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "fourgon",
+      "word": "fourgon",
+      "en": "fourgon",
+      "sourceId": "van",
+      "sourceIds": [
+        "van"
+      ],
+      "ru": [
+        "вэн",
+        "фура",
+        "фургон"
+      ],
+      "gender": "m",
+      "example": "Il a chargé ses meubles dans le fourgon.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vehicule",
+      "word": "véhicule",
+      "en": "véhicule",
+      "sourceId": "vehicle",
+      "sourceIds": [
+        "vehicle"
+      ],
+      "ru": [
+        "перевозочное средство",
+        "транспортное средство",
+        "средство передачи"
+      ],
+      "gender": "m",
+      "example": "Le véhicule est garé devant la maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "navire",
+      "word": "navire",
+      "en": "navire",
+      "sourceId": "vessel",
+      "sourceIds": [
+        "vessel"
+      ],
+      "ru": [
+        "судно",
+        "корабль"
+      ],
+      "gender": "m",
+      "example": "Le navire a quitté le port ce matin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "wagon",
+      "word": "wagon",
+      "en": "wagon",
+      "sourceId": "wagon",
+      "sourceIds": [
+        "wagon"
+      ],
+      "ru": [
+        "повозка",
+        "вагон",
+        "фургон"
+      ],
+      "gender": "m",
+      "example": "Le train est composé de plusieurs wagons.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "charretier",
+      "word": "charretier",
+      "en": "charretier",
+      "sourceId": "wagoner",
+      "sourceIds": [
+        "wagoner"
+      ],
+      "ru": [
+        "возница",
+        "извозчик"
+      ],
+      "gender": "m",
+      "example": "Le charretier guidait ses chevaux sur le chemin de terre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chemin",
+      "word": "chemin",
+      "en": "chemin",
+      "sourceId": "way",
+      "sourceIds": [
+        "way"
+      ],
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "gender": "m",
+      "example": "C'est le bon chemin pour aller à la gare.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "roue",
+      "word": "roue",
+      "en": "roue",
+      "sourceId": "wheel",
+      "sourceIds": [
+        "wheel"
+      ],
+      "ru": [
+        "колесо",
+        "штурвал"
+      ],
+      "gender": "f",
+      "example": "La voiture a une roue crevée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-roues",
+      "word": "à roues",
+      "en": "à roues",
+      "sourceId": "wheeled",
+      "sourceIds": [
+        "wheeled"
+      ],
+      "ru": [
+        "колёсный"
+      ],
+      "gender": null,
+      "example": "C'est un véhicule à roues très rapide.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "parachute",
+      "word": "parachute",
+      "en": "parachute",
+      "sourceId": "parachute",
+      "sourceIds": [
+        "parachute"
+      ],
+      "ru": [
+        "парашют"
+      ],
+      "gender": "m",
+      "example": "Sans parachute ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "diriger",
+      "word": "diriger",
+      "en": "diriger",
+      "sourceId": "steer",
+      "sourceIds": [
+        "steer"
+      ],
+      "ru": [
+        "управлять",
+        "направлять"
+      ],
+      "gender": null,
+      "example": "Il faut diriger le bateau vers le port.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "expressway",
+      "sourceIds": [
+        "expressway"
+      ],
+      "ru": [
+        "скоростная автомагистраль"
+      ],
+      "gender": "f",
+      "example": "Nous avons pris l'autoroute pour aller plus vite.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "helice",
+      "word": "hélice",
+      "en": "hélice",
+      "sourceId": "propeller",
+      "sourceIds": [
+        "propeller"
+      ],
+      "ru": [
+        "пропеллер",
+        "винт"
+      ],
+      "gender": "f",
+      "example": "Fabriqué à partir d'une hélice récupérée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "embrayage",
+      "word": "embrayage",
+      "en": "embrayage",
+      "sourceId": "clutch",
+      "sourceIds": [
+        "clutch"
+      ],
+      "ru": [
+        "сцепление"
+      ],
+      "gender": "m",
+      "example": "Il a dû changer l'embrayage de sa voiture.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tracteur",
+      "word": "tracteur",
+      "en": "tracteur",
+      "sourceId": "tractor",
+      "sourceIds": [
+        "tractor"
+      ],
+      "ru": [
+        "трактор"
+      ],
+      "gender": "m",
+      "example": "Le fermier conduit son tracteur dans le champ.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "essieu",
+      "word": "essieu",
+      "en": "essieu",
+      "sourceId": "axle",
+      "sourceIds": [
+        "axle"
+      ],
+      "ru": [
+        "ось"
+      ],
+      "gender": "m",
+      "example": "Vous avez une boîte de vitesses et un essieu arrière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "suspension",
+      "word": "suspension",
+      "en": "suspension",
+      "sourceId": "suspension",
+      "sourceIds": [
+        "suspension"
+      ],
+      "ru": [
+        "подвеска"
+      ],
+      "gender": "f",
+      "example": "Il n'y a pas de suspension.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "camion",
+      "word": "camion",
+      "en": "camion",
+      "sourceId": "lorry",
+      "sourceIds": [
+        "lorry"
+      ],
+      "ru": [
+        "грузовик"
+      ],
+      "gender": "m",
+      "example": "Le camion transporte des marchandises.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chariot-elevateur",
+      "word": "chariot élévateur",
+      "en": "chariot élévateur",
+      "sourceId": "forklift",
+      "sourceIds": [
+        "forklift"
+      ],
+      "ru": [
+        "вилочный погрузчик"
+      ],
+      "gender": "m",
+      "example": "Alors le chariot élévateur est ici.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "taxi",
+      "word": "taxi",
+      "en": "taxi",
+      "sourceId": "cab",
+      "sourceIds": [
+        "cab"
+      ],
+      "ru": [
+        "такси",
+        "кабина"
+      ],
+      "gender": "m",
+      "example": "Il s'est allongé dans le taxi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pedale",
+      "word": "pédale",
+      "en": "pédale",
+      "sourceId": "pedal",
+      "sourceIds": [
+        "pedal"
+      ],
+      "ru": [
+        "крутить педали"
+      ],
+      "gender": "f",
+      "example": "Deux pédales de frein et 8 000 boutons.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "trajet",
+      "word": "trajet",
+      "en": "trajet",
+      "sourceId": "commute",
+      "sourceIds": [
+        "commute"
+      ],
+      "ru": [
+        "ездить на работу",
+        "поездка на работу"
+      ],
+      "gender": "m",
+      "example": "Ce n'est pas un mauvais trajet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "demi-tour",
+      "word": "demi-tour",
+      "en": "demi-tour",
+      "sourceId": "u-turn",
+      "sourceIds": [
+        "u-turn"
+      ],
+      "ru": [
+        "разворот"
+      ],
+      "gender": "m",
+      "example": "une série de demi-tours comme ça,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "phare",
+      "word": "phare",
+      "en": "phare",
+      "sourceId": "headlight",
+      "sourceIds": [
+        "headlight",
+        "headlamp"
+      ],
+      "ru": [
+        "фара"
+      ],
+      "gender": "m",
+      "example": "avec mes phares allumés.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chariot",
+      "word": "chariot",
+      "en": "chariot",
+      "sourceId": "trolley",
+      "sourceIds": [
+        "trolley"
+      ],
+      "ru": [
+        "тележка",
+        "трамвай"
+      ],
+      "gender": "m",
+      "example": "Il a poussé le chariot dans le supermarché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "foule",
+      "word": "foule",
+      "en": "foule",
+      "sourceId": "drove",
+      "sourceIds": [
+        "drove"
+      ],
+      "ru": [
+        "водить",
+        "ехать"
+      ],
+      "gender": "f",
+      "example": "Ils se retirent en foule, Votre Grâce.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parking",
+      "word": "parking",
+      "en": "parking",
+      "sourceId": "carpark",
+      "sourceIds": [
+        "carpark"
+      ],
+      "ru": [
+        "парковка"
+      ],
+      "gender": "m",
+      "example": "Et je pourrais essayer le parking.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "remorquer",
+      "word": "remorquer",
+      "en": "remorquer",
+      "sourceId": "tow",
+      "sourceIds": [
+        "tow"
+      ],
+      "ru": [
+        "буксировать"
+      ],
+      "gender": null,
+      "example": "Il faut les remorquer hors du parking.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bmw",
+      "word": "BMW",
+      "en": "BMW",
+      "sourceId": "beemer",
+      "sourceIds": [
+        "beemer",
+        "bmw"
+      ],
+      "ru": [
+        "БМВ"
+      ],
+      "gender": "m/f",
+      "example": "Va chercher ma BMW au garage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "avion-a-reaction",
+      "word": "avion à réaction",
+      "en": "avion à réaction",
+      "sourceId": "jet",
+      "sourceIds": [
+        "jet"
+      ],
+      "ru": [
+        "реактивный самолет"
+      ],
+      "gender": "m",
+      "example": "Le décalage horaire va nous tuer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ascenseur",
+      "word": "ascenseur",
+      "en": "ascenseur",
+      "sourceId": "elevator",
+      "sourceIds": [
+        "elevator"
+      ],
+      "ru": [
+        "лифт"
+      ],
+      "gender": "m",
+      "example": "Prenez l'ascenseur pour monter au troisième étage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "drague",
+      "word": "drague",
+      "en": "drague",
+      "sourceId": "pickup",
+      "sourceIds": [
+        "pickup"
+      ],
+      "ru": [
+        "пикап",
+        "подбор"
+      ],
+      "gender": "f",
+      "example": "C'est une façon de trouver une bonne phrase de drague.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "accrochage",
+      "word": "accrochage",
+      "en": "accrochage",
+      "sourceId": "fender-bender",
+      "sourceIds": [
+        "fender-bender"
+      ],
+      "ru": [
+        "незначительное ДТП"
+      ],
+      "gender": "m",
+      "example": "Il a eu un petit accrochage en ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "automobiliste",
+      "word": "automobiliste",
+      "en": "automobiliste",
+      "sourceId": "motorist",
+      "sourceIds": [
+        "motorist"
+      ],
+      "ru": [
+        "автомобилист"
+      ],
+      "gender": "m",
+      "example": "Cela semble provenir d'un magasin de remises pour automobilistes de Southall.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faire-un-ecart",
+      "word": "faire un écart",
+      "en": "faire un écart",
+      "sourceId": "swerve",
+      "sourceIds": [
+        "swerve"
+      ],
+      "ru": [
+        "сворачивать",
+        "резко менять направление"
+      ],
+      "gender": null,
+      "example": "Un piéton a été renversé par un automobiliste qui a fait un écart pour éviter un vélo.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "desarconner",
+      "word": "désarçonner",
+      "en": "désarçonner",
+      "sourceId": "unhorse",
+      "sourceIds": [
+        "unhorse"
+      ],
+      "ru": [
+        "сбрасывать с лошади"
+      ],
+      "gender": null,
+      "example": "Il vient d'être désarçonné.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "stand",
+      "word": "stand",
+      "en": "stand",
+      "sourceId": "stall",
+      "sourceIds": [
+        "stall"
+      ],
+      "ru": [
+        "заглохнуть",
+        "тянуть время"
+      ],
+      "gender": "m",
+      "example": "Il y a un stand de réparation au marché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "garde-corps",
+      "word": "garde-corps",
+      "en": "garde-corps",
+      "sourceId": "rail",
+      "sourceIds": [
+        "rail"
+      ],
+      "ru": [
+        "рельс",
+        "перила"
+      ],
+      "gender": "m",
+      "example": "Il est passé par-dessus le garde-corps.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "quille",
+      "word": "quille",
+      "en": "quille",
+      "sourceId": "keel",
+      "sourceIds": [
+        "keel"
+      ],
+      "ru": [
+        "киль"
+      ],
+      "gender": "f",
+      "example": "Le bateau a une quille solide.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pont",
+      "word": "pont",
+      "en": "pont",
+      "sourceId": "deck",
+      "sourceIds": [
+        "deck"
+      ],
+      "ru": [
+        "палуба"
+      ],
+      "gender": "m",
+      "example": "Le navire a un pont très spacieux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "canot-pneumatique",
+      "word": "canot pneumatique",
+      "en": "canot pneumatique",
+      "sourceId": "dinghy",
+      "sourceIds": [
+        "dinghy"
+      ],
+      "ru": [
+        "шлюпка",
+        "надувная лодка"
+      ],
+      "gender": "m",
+      "example": "Ils sont partis dans leurs canots pneumatiques.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "deraper",
+      "word": "déraper",
+      "en": "déraper",
+      "sourceId": "skid",
+      "sourceIds": [
+        "skid"
+      ],
+      "ru": [
+        "скользить",
+        "заносить"
+      ],
+      "gender": null,
+      "example": "La voiture a dérapé sur la route verglacée.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "decapotable",
+      "word": "décapotable",
+      "en": "décapotable",
+      "sourceId": "open-top",
+      "sourceIds": [
+        "open-top"
+      ],
+      "ru": [
+        "с открытым верхом"
+      ],
+      "gender": "f",
+      "example": "Depuis un bus décapotable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "train-d-atterrissage",
+      "word": "train d'atterrissage",
+      "en": "train d'atterrissage",
+      "sourceId": "undercarriage",
+      "sourceIds": [
+        "undercarriage"
+      ],
+      "ru": [
+        "шасси",
+        "ходовая часть"
+      ],
+      "gender": "m",
+      "example": "Il faut saisir le train d'atterrissage pour monter à bord.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "demarrer",
+      "word": "démarrer",
+      "en": "démarrer",
+      "sourceId": "jump-start",
+      "sourceIds": [
+        "jump-start"
+      ],
+      "ru": [
+        "заводить двигатель",
+        "стимулировать"
+      ],
+      "gender": null,
+      "example": "Il faut démarrer cette fichue machine.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "motard",
+      "word": "motard",
+      "en": "motard",
+      "sourceId": "biker",
+      "sourceIds": [
+        "biker"
+      ],
+      "ru": [
+        "байкер",
+        "велосипедист"
+      ],
+      "gender": "m",
+      "example": "Il porte des bottes de motard et un jean.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "retroviseur",
+      "word": "rétroviseur",
+      "en": "rétroviseur",
+      "sourceId": "rearview",
+      "sourceIds": [
+        "rearview"
+      ],
+      "ru": [
+        "вид сзади"
+      ],
+      "gender": "m",
+      "example": "Dans votre rétroviseur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "quai",
+      "word": "quai",
+      "en": "quai",
+      "sourceId": "dock",
+      "sourceIds": [
+        "dock"
+      ],
+      "ru": [
+        "швартоваться"
+      ],
+      "gender": "m",
+      "example": "Restez sur le quai.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "zeppelin",
+      "word": "zeppelin",
+      "en": "zeppelin",
+      "sourceId": "zeppelin",
+      "sourceIds": [
+        "zeppelin"
+      ],
+      "ru": [
+        "цеппелин",
+        "дирижабль"
+      ],
+      "gender": "m",
+      "example": "Le zeppelin survolait la ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cote-droit",
+      "word": "côté droit",
+      "en": "côté droit",
+      "sourceId": "nearside",
+      "sourceIds": [
+        "nearside"
+      ],
+      "ru": [
+        "ближняя сторона"
+      ],
+      "gender": "m",
+      "example": "Jamie pourrait courir sur le côté droit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "supercar",
+      "word": "supercar",
+      "en": "supercar",
+      "sourceId": "supercar",
+      "sourceIds": [
+        "supercar"
+      ],
+      "ru": [
+        "суперкар"
+      ],
+      "gender": "f",
+      "example": "J'ai mis deux supercars face à face.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "berline-a-hayon",
+      "word": "berline à hayon",
+      "en": "berline à hayon",
+      "sourceId": "hatchback",
+      "sourceIds": [
+        "hatchback"
+      ],
+      "ru": [
+        "хэтчбек"
+      ],
+      "gender": "f",
+      "example": "Maintenant, deux berlines à hayon familiales.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "citroen",
+      "word": "Citroën",
+      "en": "Citroën",
+      "sourceId": "citroen",
+      "sourceIds": [
+        "citroen"
+      ],
+      "ru": [
+        "ситроен"
+      ],
+      "gender": "f",
+      "example": "C'est le Citroën Berlingo Multispace et je l'admets...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "multispace",
+      "word": "multispace",
+      "en": "multispace",
+      "sourceId": "multispace",
+      "sourceIds": [
+        "multispace"
+      ],
+      "ru": [
+        "мультиспейс"
+      ],
+      "gender": "m",
+      "example": "C'est le Citroën Berlingo Multispace et je dois admettre...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "essence",
+      "word": "essence",
+      "en": "essence",
+      "sourceId": "petrol",
+      "sourceIds": [
+        "petrol"
+      ],
+      "ru": [
+        "бензин"
+      ],
+      "gender": "f",
+      "example": "Ce moteur à essence de deux litres est très puissant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "capot",
+      "word": "capot",
+      "en": "capot",
+      "sourceId": "bonnet",
+      "sourceIds": [
+        "bonnet"
+      ],
+      "ru": [
+        "капот"
+      ],
+      "gender": "m",
+      "example": "Avec ça sous le capot, ce serait",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hayon",
+      "word": "hayon",
+      "en": "hayon",
+      "sourceId": "tailgate",
+      "sourceIds": [
+        "tailgate"
+      ],
+      "ru": [
+        "задний борт",
+        "ехать слишком близко"
+      ],
+      "gender": "m",
+      "example": "Parce que, si nous ouvrons le hayon",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pare-chocs",
+      "word": "pare-chocs",
+      "en": "pare-chocs",
+      "sourceId": "bumper",
+      "sourceIds": [
+        "bumper"
+      ],
+      "ru": [
+        "бампер"
+      ],
+      "gender": "m",
+      "example": "Cela signifie qu'ils vont changer les pare-chocs et le capot.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voiture-de-course",
+      "word": "voiture de course",
+      "en": "voiture de course",
+      "sourceId": "racecar",
+      "sourceIds": [
+        "racecar"
+      ],
+      "ru": [
+        "гоночный автомобиль"
+      ],
+      "gender": "f",
+      "example": "Comme vous le faites, parmi les plus grandes voitures de course du monde.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coupe",
+      "word": "coupé",
+      "en": "coupé",
+      "sourceId": "coupe",
+      "sourceIds": [
+        "coupe"
+      ],
+      "ru": [
+        "купе"
+      ],
+      "gender": "m",
+      "example": "Il a acheté un coupé sport rouge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cabriolet",
+      "word": "cabriolet",
+      "en": "cabriolet",
+      "sourceId": "cabriolet",
+      "sourceIds": [
+        "cabriolet",
+        "convertible",
+        "drop-head"
+      ],
+      "ru": [
+        "кабриолет"
+      ],
+      "gender": "m",
+      "example": "Il conduit un cabriolet rouge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boite-de-vitesses",
+      "word": "boîte de vitesses",
+      "en": "boîte de vitesses",
+      "sourceId": "gearbox",
+      "sourceIds": [
+        "gearbox"
+      ],
+      "ru": [
+        "коробка передач"
+      ],
+      "gender": "f",
+      "example": "Les boîtes de vitesses automatiques changent les rapports pour vous.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "accelerer",
+      "word": "accélérer",
+      "en": "accélérer",
+      "sourceId": "rev",
+      "sourceIds": [
+        "rev"
+      ],
+      "ru": [
+        "увеличивать обороты"
+      ],
+      "gender": null,
+      "example": "Nous allons réduire un peu l'accélération.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "papillon",
+      "word": "papillon",
+      "en": "papillon",
+      "sourceId": "gullwing",
+      "sourceIds": [
+        "gullwing"
+      ],
+      "ru": [
+        "крыло чайки"
+      ],
+      "gender": "m",
+      "example": "La voiture est équipée de portes papillon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pneu",
+      "word": "pneu",
+      "en": "pneu",
+      "sourceId": "tyre",
+      "sourceIds": [
+        "tyre"
+      ],
+      "ru": [
+        "шина"
+      ],
+      "gender": "m",
+      "example": "Cela sollicite vraiment les pneus extérieurs.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sous-virage",
+      "word": "sous-virage",
+      "en": "sous-virage",
+      "sourceId": "understeer",
+      "sourceIds": [
+        "understeer"
+      ],
+      "ru": [
+        "недостаточная поворачиваемость"
+      ],
+      "gender": null,
+      "example": "Un enchaînement gauche-droite délicat qui provoque du sous-virage.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "survirage",
+      "word": "survirage",
+      "en": "survirage",
+      "sourceId": "oversteer",
+      "sourceIds": [
+        "oversteer"
+      ],
+      "ru": [
+        "избыточная поворачиваемость"
+      ],
+      "gender": "f",
+      "example": "La voiture a un survirage important dans ce virage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "derapage",
+      "word": "dérapage",
+      "en": "dérapage",
+      "sourceId": "tailslide",
+      "sourceIds": [
+        "tailslide"
+      ],
+      "ru": [
+        "занос задней оси"
+      ],
+      "gender": "m",
+      "example": "Un léger dérapage, mais il est toujours en piste.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "volvo",
+      "word": "Volvo",
+      "en": "Volvo",
+      "sourceId": "volvo",
+      "sourceIds": [
+        "volvo"
+      ],
+      "ru": [
+        "вольво"
+      ],
+      "gender": "f",
+      "example": "Je veux cette voiture, c'est une Volvo.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "airbag",
+      "word": "airbag",
+      "en": "airbag",
+      "sourceId": "airbag",
+      "sourceIds": [
+        "airbag"
+      ],
+      "ru": [
+        "подушка безопасности"
+      ],
+      "gender": "m",
+      "example": "Cette voiture est équipée d'un airbag.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hyundai",
+      "word": "Hyundai",
+      "en": "Hyundai",
+      "sourceId": "hyundai",
+      "sourceIds": [
+        "hyundai"
+      ],
+      "ru": [
+        "Хёндай"
+      ],
+      "gender": null,
+      "example": "Nous avons parlé avec Hyundai.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "nissan",
+      "word": "Nissan",
+      "en": "Nissan",
+      "sourceId": "nissan",
+      "sourceIds": [
+        "nissan"
+      ],
+      "ru": [
+        "Ниссан"
+      ],
+      "gender": "f",
+      "example": "Nous avons parlé à Nissan, ils ont dit non.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "daewoo",
+      "word": "Daewoo",
+      "en": "Daewoo",
+      "sourceId": "daewoo",
+      "sourceIds": [
+        "daewoo"
+      ],
+      "ru": [
+        "Дэу"
+      ],
+      "gender": "f",
+      "example": "Nous avons parlé à Daewoo, ils ont dit non.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "suzuki",
+      "word": "Suzuki",
+      "en": "Suzuki",
+      "sourceId": "suzuki",
+      "sourceIds": [
+        "suzuki"
+      ],
+      "ru": [
+        "Сузуки"
+      ],
+      "gender": "f",
+      "example": "Ensuite, nous avons parlé à Suzuki et ils ont dit...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "supertanquer",
+      "word": "superpétrolier",
+      "en": "superpétrolier",
+      "sourceId": "supertanker",
+      "sourceIds": [
+        "supertanker"
+      ],
+      "ru": [
+        "супертанкер"
+      ],
+      "gender": "m",
+      "example": "Un superpétrolier traverse le détroit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tout-terrain",
+      "word": "tout-terrain",
+      "en": "tout-terrain",
+      "sourceId": "off-road",
+      "sourceIds": [
+        "off-road"
+      ],
+      "ru": [
+        "внедорожный"
+      ],
+      "gender": null,
+      "example": "Transformez-le en voiture tout-terrain.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "berline",
+      "word": "berline",
+      "en": "berline",
+      "sourceId": "saloon",
+      "sourceIds": [
+        "saloon"
+      ],
+      "ru": [
+        "седан",
+        "салон"
+      ],
+      "gender": "f",
+      "example": "Voici des nouvelles d'une nouvelle berline sportive Mazda...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mazda",
+      "word": "Mazda",
+      "en": "Mazda",
+      "sourceId": "mazda",
+      "sourceIds": [
+        "mazda"
+      ],
+      "ru": [
+        "Мазда"
+      ],
+      "gender": "f",
+      "example": "Les gens n'achètent pas de Mazda parce qu'ils en ont désespérément besoin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depasser",
+      "word": "dépasser",
+      "en": "dépasser",
+      "sourceId": "overtake",
+      "sourceIds": [
+        "overtake"
+      ],
+      "ru": [
+        "обгонять"
+      ],
+      "gender": null,
+      "example": "J'ai été dépassé par Barry Smith.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "porte-gobelet",
+      "word": "porte-gobelet",
+      "en": "porte-gobelet",
+      "sourceId": "cup-holder",
+      "sourceIds": [
+        "cup-holder"
+      ],
+      "ru": [
+        "подстаканник"
+      ],
+      "gender": "f",
+      "example": "Et, comme sur une voiture normale, il n'y a pas de porte-gobelet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "motocycliste",
+      "word": "motocycliste",
+      "en": "motocycliste",
+      "sourceId": "motorcyclist",
+      "sourceIds": [
+        "motorcyclist"
+      ],
+      "ru": [
+        "мотоциклист"
+      ],
+      "gender": "m",
+      "example": "Eddie Kidd, le légendaire motocycliste de cascade.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "feu-stop",
+      "word": "feu stop",
+      "en": "feu stop",
+      "sourceId": "brake-light",
+      "sourceIds": [
+        "brake-light"
+      ],
+      "ru": [
+        "стоп-сигнал"
+      ],
+      "gender": "m",
+      "example": "Les feux stop clignotaient.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chassis",
+      "word": "châssis",
+      "en": "châssis",
+      "sourceId": "chassis",
+      "sourceIds": [
+        "chassis"
+      ],
+      "ru": [
+        "шасси",
+        "кузов"
+      ],
+      "gender": "m",
+      "example": "Ce mauvais châssis rend la conduite vraiment instable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "limousine",
+      "word": "limousine",
+      "en": "limousine",
+      "sourceId": "limousine",
+      "sourceIds": [
+        "limousine"
+      ],
+      "ru": [
+        "лимузин"
+      ],
+      "gender": "f",
+      "example": "Ils sont assis à l'arrière d'une limousine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "arceau-de-securite",
+      "word": "arceau de sécurité",
+      "en": "arceau de sécurité",
+      "sourceId": "roll-cage",
+      "sourceIds": [
+        "roll-cage"
+      ],
+      "ru": [
+        "каркас безопасности"
+      ],
+      "gender": "m",
+      "example": "On a installé un arceau de sécurité dans la voiture.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tachymetre",
+      "word": "tachymètre",
+      "en": "tachymètre",
+      "sourceId": "speedo",
+      "sourceIds": [
+        "speedo"
+      ],
+      "ru": [
+        "спидометр"
+      ],
+      "gender": "m",
+      "example": "Le tachymètre indique la vitesse actuelle du véhicule.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "citadine",
+      "word": "citadine",
+      "en": "citadine",
+      "sourceId": "supermini",
+      "sourceIds": [
+        "supermini"
+      ],
+      "ru": [
+        "супермини"
+      ],
+      "gender": "f",
+      "example": "Si vous voulez une citadine, c'est le moment d'en acheter une.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "kilometrage",
+      "word": "kilométrage",
+      "en": "kilométrage",
+      "sourceId": "mileage",
+      "sourceIds": [
+        "mileage"
+      ],
+      "ru": [
+        "пробег",
+        "расход топлива"
+      ],
+      "gender": "m",
+      "example": "Si vous êtes une personne qui fait peu de kilométrage...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "frein-a-main",
+      "word": "frein à main",
+      "en": "frein à main",
+      "sourceId": "handbrake",
+      "sourceIds": [
+        "handbrake"
+      ],
+      "ru": [
+        "ручной тормоз"
+      ],
+      "gender": "m",
+      "example": "Il a fait un virage au frein à main.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vol-de-voiture-pour-le-plaisir",
+      "word": "vol de voiture pour le plaisir",
+      "en": "vol de voiture pour le plaisir",
+      "sourceId": "joyriding",
+      "sourceIds": [
+        "joyriding"
+      ],
+      "ru": [
+        "угон автомобиля ради развлечения"
+      ],
+      "gender": "m",
+      "example": "Il a été arrêté pour vol de voiture pour le plaisir.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chicane",
+      "word": "chicane",
+      "en": "chicane",
+      "sourceId": "chicane",
+      "sourceIds": [
+        "chicane"
+      ],
+      "ru": [
+        "шикана",
+        "препятствие"
+      ],
+      "gender": "f",
+      "example": "Il a ralenti avant la chicane.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pedalo",
+      "word": "pédalo",
+      "en": "pédalo",
+      "sourceId": "pedalo",
+      "sourceIds": [
+        "pedalo"
+      ],
+      "ru": [
+        "водный велосипед"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait du pédalo sur le lac.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hulement",
+      "word": "hululement",
+      "en": "hululement",
+      "sourceId": "hoot",
+      "sourceIds": [
+        "hoot"
+      ],
+      "ru": [
+        "гудок",
+        "ухать"
+      ],
+      "gender": "m",
+      "example": "On entendait le hululement d'une chouette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "de-bord",
+      "word": "de bord",
+      "en": "de bord",
+      "sourceId": "on-board",
+      "sourceIds": [
+        "on-board"
+      ],
+      "ru": [
+        "бортовой"
+      ],
+      "gender": null,
+      "example": "dans l'ordinateur de bord.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "grille",
+      "word": "grille",
+      "en": "grille",
+      "sourceId": "grille",
+      "sourceIds": [
+        "grille"
+      ],
+      "ru": [
+        "решетка"
+      ],
+      "gender": null,
+      "example": "Il y a de la poussière sur la grille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "propulsion",
+      "word": "propulsion",
+      "en": "propulsion",
+      "sourceId": "rear-wheel",
+      "sourceIds": [
+        "rear-wheel"
+      ],
+      "ru": [
+        "заднеприводный"
+      ],
+      "gender": "f",
+      "example": "C'est une voiture sportive à propulsion.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-moteur-arriere",
+      "word": "à moteur arrière",
+      "en": "à moteur arrière",
+      "sourceId": "rear-engine",
+      "sourceIds": [
+        "rear-engine"
+      ],
+      "ru": [
+        "заднемоторный"
+      ],
+      "gender": null,
+      "example": "C'est une voiture à moteur arrière, encore.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "autobahn",
+      "sourceIds": [
+        "autobahn"
+      ],
+      "ru": [
+        "автобан"
+      ],
+      "gender": "f",
+      "example": "Sur les autoroutes, vous pouvez rouler vite.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-moteur-central",
+      "word": "à moteur central",
+      "en": "à moteur central",
+      "sourceId": "mid-engine",
+      "sourceIds": [
+        "mid-engine"
+      ],
+      "ru": [
+        "среднемоторный"
+      ],
+      "gender": null,
+      "example": "Une voiture de route à moteur central.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "non-attache",
+      "word": "non attaché",
+      "en": "non attaché",
+      "sourceId": "unbelted",
+      "sourceIds": [
+        "unbelted"
+      ],
+      "ru": [
+        "непристегнутый"
+      ],
+      "gender": null,
+      "example": "Les passagers non attachés courent un grand danger.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "ceinture-de-securite",
+      "word": "ceinture de sécurité",
+      "en": "ceinture de sécurité",
+      "sourceId": "seatbelt",
+      "sourceIds": [
+        "seatbelt"
+      ],
+      "ru": [
+        "ремень безопасности"
+      ],
+      "gender": "f",
+      "example": "ceux qui ne portent pas leur ceinture de sécurité.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "homologue",
+      "word": "homologué",
+      "en": "homologué",
+      "sourceId": "road-legal",
+      "sourceIds": [
+        "road-legal"
+      ],
+      "ru": [
+        "допущенный к эксплуатации на дорогах"
+      ],
+      "gender": null,
+      "example": "Sur le circuit, si le véhicule est homologué pour la route.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "pare-brise",
+      "word": "pare-brise",
+      "en": "pare-brise",
+      "sourceId": "windscreen",
+      "sourceIds": [
+        "windscreen",
+        "windshield"
+      ],
+      "ru": [
+        "лобовое стекло"
+      ],
+      "gender": "m",
+      "example": "Il faut changer le pare-brise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tricycle",
+      "word": "tricycle",
+      "en": "tricycle",
+      "sourceId": "tricycle",
+      "sourceIds": [
+        "tricycle"
+      ],
+      "ru": [
+        "трехколесный велосипед"
+      ],
+      "gender": "m",
+      "example": "Elle était sur son tricycle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "collision",
+      "word": "collision",
+      "en": "collision",
+      "sourceId": "collision",
+      "sourceIds": [
+        "collision"
+      ],
+      "ru": [
+        "столкновение"
+      ],
+      "gender": "f",
+      "example": "une collision de désirs",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "toit-ouvrant",
+      "word": "toit ouvrant",
+      "en": "toit ouvrant",
+      "sourceId": "sunroof",
+      "sourceIds": [
+        "sunroof"
+      ],
+      "ru": [
+        "люк в крыше автомобиля"
+      ],
+      "gender": "m",
+      "example": "Regarde à travers ton toit ouvrant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bateau-a-moteur",
+      "word": "bateau à moteur",
+      "en": "bateau à moteur",
+      "sourceId": "motorboat",
+      "sourceIds": [
+        "motorboat",
+        "powerboat"
+      ],
+      "ru": [
+        "моторная лодка"
+      ],
+      "gender": "m",
+      "example": "On dirait qu'il a pris l'un des bateaux à moteur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "station-de-lavage",
+      "word": "station de lavage",
+      "en": "station de lavage",
+      "sourceId": "car-wash",
+      "sourceIds": [
+        "car-wash"
+      ],
+      "ru": [
+        "автомойка"
+      ],
+      "gender": "f",
+      "example": "Amenez votre véhicule à votre station de lavage professionnelle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "patrouille-d-observation",
+      "word": "patrouille d'observation",
+      "en": "patrouille d'observation",
+      "sourceId": "ride-along",
+      "sourceIds": [
+        "ride-along"
+      ],
+      "ru": [
+        "совместный выезд"
+      ],
+      "gender": "f",
+      "example": "Je t'emmènerai en patrouille d'observation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "camion-a-roues-jumelees",
+      "word": "camion à roues jumelées",
+      "en": "camion à roues jumelées",
+      "sourceId": "dually",
+      "sourceIds": [
+        "dually"
+      ],
+      "ru": [
+        "пикап с двойными колесами"
+      ],
+      "gender": "m",
+      "example": "Il conduit un camion à roues jumelées pour transporter de lourdes charges.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "navette",
+      "word": "navette",
+      "en": "navette",
+      "sourceId": "shuttle",
+      "sourceIds": [
+        "shuttle"
+      ],
+      "ru": [
+        "шаттл",
+        "челнок"
+      ],
+      "gender": "f",
+      "example": "La navette est toujours en retard.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chauffeur-de-taxi",
+      "word": "chauffeur de taxi",
+      "en": "chauffeur de taxi",
+      "sourceId": "cabbie",
+      "sourceIds": [
+        "cabbie"
+      ],
+      "ru": [
+        "таксист"
+      ],
+      "gender": "m",
+      "example": "Le chauffeur de taxi a pris un raccourci.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cockpit",
+      "word": "cockpit",
+      "en": "cockpit",
+      "sourceId": "cockpit",
+      "sourceIds": [
+        "cockpit"
+      ],
+      "ru": [
+        "кабина пилота"
+      ],
+      "gender": "m",
+      "example": "par les fenêtres du cockpit",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "autobus-a-imperiale",
+      "word": "autobus à impériale",
+      "en": "autobus à impériale",
+      "sourceId": "decker",
+      "sourceIds": [
+        "decker"
+      ],
+      "ru": [
+        "двухэтажный (автобус)"
+      ],
+      "gender": "m",
+      "example": "Il a pris un autobus à impériale pour visiter la ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "monospace",
+      "word": "monospace",
+      "en": "monospace",
+      "sourceId": "minivan",
+      "sourceIds": [
+        "minivan"
+      ],
+      "ru": [
+        "минивэн"
+      ],
+      "gender": "m",
+      "example": "Mais j'ai aussi un monospace.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ponton",
+      "word": "ponton",
+      "en": "ponton",
+      "sourceId": "pontoon",
+      "sourceIds": [
+        "pontoon"
+      ],
+      "ru": [
+        "понтон"
+      ],
+      "gender": "m",
+      "example": "Guy a coupé le bout d'un ponton.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plein",
+      "word": "plein",
+      "en": "plein",
+      "sourceId": "fill-up",
+      "sourceIds": [
+        "fill-up"
+      ],
+      "ru": [
+        "заправка"
+      ],
+      "gender": "m",
+      "example": "pour cinq dollars à chaque plein.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ancre",
+      "word": "ancre",
+      "en": "ancre",
+      "sourceId": "anchor",
+      "sourceIds": [
+        "anchor"
+      ],
+      "ru": [
+        "якорь",
+        "якорить"
+      ],
+      "gender": "f",
+      "example": "avec une ancre attachée autour de votre torse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "travaux-routiers",
+      "word": "travaux routiers",
+      "en": "travaux routiers",
+      "sourceId": "roadwork",
+      "sourceIds": [
+        "roadwork"
+      ],
+      "ru": [
+        "дорожные работы"
+      ],
+      "gender": "m/f",
+      "example": "Il y a des travaux routiers sur l'autoroute.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "point-de-depot",
+      "word": "point de dépôt",
+      "en": "point de dépôt",
+      "sourceId": "drop-off",
+      "sourceIds": [
+        "drop-off"
+      ],
+      "ru": [
+        "место высадки",
+        "снижение"
+      ],
+      "gender": "m",
+      "example": "Le Lucky Cat était leur point de dépôt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tramway",
+      "word": "tramway",
+      "en": "tramway",
+      "sourceId": "tramway",
+      "sourceIds": [
+        "tramway"
+      ],
+      "ru": [
+        "трамвайные пути",
+        "трамвай"
+      ],
+      "gender": "m",
+      "example": "Le tramway arrive à la station.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "autobus-a-imperiale",
+      "word": "autobus à impériale",
+      "en": "autobus à impériale",
+      "sourceId": "routemaster",
+      "sourceIds": [
+        "routemaster"
+      ],
+      "ru": [
+        "двухэтажный автобус"
+      ],
+      "gender": "m",
+      "example": "Il est monté dans un autobus à impériale pour traverser la ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-bord",
+      "word": "à bord",
+      "en": "à bord",
+      "sourceId": "onboard",
+      "sourceIds": [
+        "onboard"
+      ],
+      "ru": [
+        "на борту"
+      ],
+      "gender": null,
+      "example": "Cette corde garantira qu'ils ne pourront plus vous prendre à bord.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "prius",
+      "word": "Prius",
+      "en": "Prius",
+      "sourceId": "prius",
+      "sourceIds": [
+        "prius"
+      ],
+      "ru": [
+        "приус"
+      ],
+      "gender": "f",
+      "example": "La technologie d'une Prius.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hypercar",
+      "word": "hypercar",
+      "en": "hypercar",
+      "sourceId": "hypercar",
+      "sourceIds": [
+        "hypercar"
+      ],
+      "ru": [
+        "гиперкар"
+      ],
+      "gender": "f",
+      "example": "Ces hypercars hybrides sont impressionnantes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mclaren",
+      "word": "McLaren",
+      "en": "McLaren",
+      "sourceId": "mclaren",
+      "sourceIds": [
+        "mclaren"
+      ],
+      "ru": [
+        "макларен"
+      ],
+      "gender": "f",
+      "example": "La McLaren P1 est une voiture de sport impressionnante.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "porsche",
+      "word": "Porsche",
+      "en": "Porsche",
+      "sourceId": "porsche",
+      "sourceIds": [
+        "porsche"
+      ],
+      "ru": [
+        "порше"
+      ],
+      "gender": "f",
+      "example": "Une Porsche 918 ennuyeuse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "miles-par-gallon",
+      "word": "miles par gallon",
+      "en": "miles par gallon",
+      "sourceId": "mpg",
+      "sourceIds": [
+        "mpg"
+      ],
+      "ru": [
+        "миль на галлон"
+      ],
+      "gender": "f",
+      "example": "La voiture consomme 94 miles par gallon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-quatre-roues",
+      "word": "à quatre roues",
+      "en": "à quatre roues",
+      "sourceId": "four-wheel",
+      "sourceIds": [
+        "four-wheel"
+      ],
+      "ru": [
+        "четырехколесный"
+      ],
+      "gender": null,
+      "example": "La voiture est équipée d'une transmission à quatre roues motrices.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "schooner",
+      "word": "schooner",
+      "en": "schooner",
+      "sourceId": "schooner",
+      "sourceIds": [
+        "schooner"
+      ],
+      "ru": [
+        "шхуна"
+      ],
+      "gender": "m",
+      "example": "Il a commandé un schooner de sherry.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "anti-roulis",
+      "word": "anti-roulis",
+      "en": "anti-roulis",
+      "sourceId": "anti-roll",
+      "sourceIds": [
+        "anti-roll"
+      ],
+      "ru": [
+        "противооткатный"
+      ],
+      "gender": null,
+      "example": "Les barres anti-roulis améliorent la stabilité du véhicule.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "aerodrome",
+      "word": "aérodrome",
+      "en": "aérodrome",
+      "sourceId": "airfield",
+      "sourceIds": [
+        "airfield"
+      ],
+      "ru": [
+        "аэродром"
+      ],
+      "gender": "m",
+      "example": "Ce n'est pas un aérodrome.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "degagement",
+      "word": "dégagement",
+      "en": "dégagement",
+      "sourceId": "run-off",
+      "sourceIds": [
+        "run-off"
+      ],
+      "ru": [
+        "сток",
+        "зона вылета"
+      ],
+      "gender": "m",
+      "example": "Il n'y a pas de zone de dégagement ou de glissière de sécurité.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "glissiere-de-securite",
+      "word": "glissière de sécurité",
+      "en": "glissière de sécurité",
+      "sourceId": "armco",
+      "sourceIds": [
+        "armco"
+      ],
+      "ru": [
+        "отбойник"
+      ],
+      "gender": "f",
+      "example": "Il n'y a pas de zone de dégagement ni de glissière de sécurité.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "derapant",
+      "word": "dérapant",
+      "en": "dérapant",
+      "sourceId": "drifty",
+      "sourceIds": [
+        "drifty"
+      ],
+      "ru": [
+        "дрифтующий"
+      ],
+      "gender": null,
+      "example": "Les virages sont dérapants et cahoteux.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "detourner",
+      "word": "détourner",
+      "en": "détourner",
+      "sourceId": "hijack",
+      "sourceIds": [
+        "hijack"
+      ],
+      "ru": [
+        "угон"
+      ],
+      "gender": null,
+      "example": "Il a détourné ce camion.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "a-basse-vitesse",
+      "word": "à basse vitesse",
+      "en": "à basse vitesse",
+      "sourceId": "low-speed",
+      "sourceIds": [
+        "low-speed"
+      ],
+      "ru": [
+        "низкоскоростной"
+      ],
+      "gender": null,
+      "example": "dans les virages à basse vitesse,",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "quad",
+      "word": "quad",
+      "en": "quad",
+      "sourceId": "quad",
+      "sourceIds": [
+        "quad"
+      ],
+      "ru": [
+        "квадроцикл"
+      ],
+      "gender": "m",
+      "example": "Il fait du quad dans la forêt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vol-de-voiture",
+      "word": "vol de voiture",
+      "en": "vol de voiture",
+      "sourceId": "carjacking",
+      "sourceIds": [
+        "carjacking"
+      ],
+      "ru": [
+        "угон автомобиля"
+      ],
+      "gender": "m",
+      "example": "Il y a 35 vols de voiture chaque jour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voler-une-voiture",
+      "word": "voler une voiture",
+      "en": "voler une voiture",
+      "sourceId": "carjack",
+      "sourceIds": [
+        "carjack"
+      ],
+      "ru": [
+        "угнать автомобиль"
+      ],
+      "gender": null,
+      "example": "Il a été arrêté pour avoir volé une voiture.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "a-grande-vitesse",
+      "word": "à grande vitesse",
+      "en": "à grande vitesse",
+      "sourceId": "high-speed",
+      "sourceIds": [
+        "high-speed"
+      ],
+      "ru": [
+        "высокоскоростной"
+      ],
+      "gender": null,
+      "example": "Beaucoup de conduite à grande vitesse.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "demarrer-en-direct",
+      "word": "démarrer en direct",
+      "en": "démarrer en direct",
+      "sourceId": "hotwire",
+      "sourceIds": [
+        "hotwire"
+      ],
+      "ru": [
+        "завести машину без ключа"
+      ],
+      "gender": null,
+      "example": "Je vais la démarrer en direct.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "carrosserie",
+      "word": "carrosserie",
+      "en": "carrosserie",
+      "sourceId": "bodywork",
+      "sourceIds": [
+        "bodywork"
+      ],
+      "ru": [
+        "кузов автомобиля"
+      ],
+      "gender": "f",
+      "example": "La carrosserie de la voiture est endommagée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "en-etat-de-rouler",
+      "word": "en état de rouler",
+      "en": "en état de rouler",
+      "sourceId": "roadworthy",
+      "sourceIds": [
+        "roadworthy"
+      ],
+      "ru": [
+        "пригодный для эксплуатации на дорогах"
+      ],
+      "gender": null,
+      "example": "Du début jusqu'à ce qu'il soit en état de rouler.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "a-propulsion",
+      "word": "à propulsion",
+      "en": "à propulsion",
+      "sourceId": "rear-wheel-drive",
+      "sourceIds": [
+        "rear-wheel-drive"
+      ],
+      "ru": [
+        "заднеприводный"
+      ],
+      "gender": null,
+      "example": "C'est une voiture à propulsion.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "aeroglisseur",
+      "word": "aéroglisseur",
+      "en": "aéroglisseur",
+      "sourceId": "hovercraft",
+      "sourceIds": [
+        "hovercraft"
+      ],
+      "ru": [
+        "судно на воздушной подушке"
+      ],
+      "gender": "m",
+      "example": "Nous avons traversé la Manche en aéroglisseur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "quatre-roues-motrices",
+      "word": "quatre roues motrices",
+      "en": "quatre roues motrices",
+      "sourceId": "all-wheel",
+      "sourceIds": [
+        "all-wheel"
+      ],
+      "ru": [
+        "полноприводный"
+      ],
+      "gender": null,
+      "example": "avec quatre roues motrices,",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "transporteur",
+      "word": "transporteur",
+      "en": "transporteur",
+      "sourceId": "transporter",
+      "sourceIds": [
+        "transporter"
+      ],
+      "ru": [
+        "транспортировщик",
+        "грузовик"
+      ],
+      "gender": "m",
+      "example": "Le transporteur a livré les marchandises à temps.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "industrie-automobile",
+      "word": "industrie automobile",
+      "en": "industrie automobile",
+      "sourceId": "carmaking",
+      "sourceIds": [
+        "carmaking"
+      ],
+      "ru": [
+        "автомобилестроение"
+      ],
+      "gender": "f",
+      "example": "L'industrie automobile est en pleine mutation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voiture-de-tourisme",
+      "word": "voiture de tourisme",
+      "en": "voiture de tourisme",
+      "sourceId": "tourer",
+      "sourceIds": [
+        "tourer"
+      ],
+      "ru": [
+        "туристический автомобиль"
+      ],
+      "gender": "f",
+      "example": "Cette voiture de tourisme est idéale pour les longs trajets.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "deux-portes",
+      "word": "deux portes",
+      "en": "deux portes",
+      "sourceId": "two-door",
+      "sourceIds": [
+        "two-door"
+      ],
+      "ru": [
+        "двухдверный"
+      ],
+      "gender": null,
+      "example": "Une nouvelle voiture deux portes décapotable.",
+      "level": "B1",
+      "pos": "numeral"
+    },
+    {
+      "id": "miles-par-heure",
+      "word": "miles par heure",
+      "en": "miles par heure",
+      "sourceId": "mph",
+      "sourceIds": [
+        "mph"
+      ],
+      "ru": [
+        "миль в час"
+      ],
+      "gender": "f",
+      "example": "une seconde et une vitesse de pointe de 1 mile par heure.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "constructeur-automobile",
+      "word": "constructeur automobile",
+      "en": "constructeur automobile",
+      "sourceId": "carmaker",
+      "sourceIds": [
+        "carmaker"
+      ],
+      "ru": [
+        "автопроизводитель"
+      ],
+      "gender": "m",
+      "example": "Vous connaissez les constructeurs automobiles actuels.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "levier-de-vitesses",
+      "word": "levier de vitesses",
+      "en": "levier de vitesses",
+      "sourceId": "gearstick",
+      "sourceIds": [
+        "gearstick"
+      ],
+      "ru": [
+        "рычаг переключения передач"
+      ],
+      "gender": "m",
+      "example": "Il a installé un levier de vitesses avec un pommeau personnalisé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vedette-rapide",
+      "word": "vedette rapide",
+      "en": "vedette rapide",
+      "sourceId": "speedboat",
+      "sourceIds": [
+        "speedboat"
+      ],
+      "ru": [
+        "быстроходный катер"
+      ],
+      "gender": "f",
+      "example": "derrière notre vedette rapide.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "klaxon",
+      "word": "klaxon",
+      "en": "klaxon",
+      "sourceId": "klaxon",
+      "sourceIds": [
+        "klaxon"
+      ],
+      "ru": [
+        "клаксон",
+        "сирена"
+      ],
+      "gender": "m",
+      "example": "plutôt qu'un klaxon",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voiture-puissante",
+      "word": "voiture puissante",
+      "en": "voiture puissante",
+      "sourceId": "muscle-car",
+      "sourceIds": [
+        "muscle-car"
+      ],
+      "ru": [
+        "мощный автомобиль"
+      ],
+      "gender": "f",
+      "example": "C'était la capitale des voitures puissantes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "peinture",
+      "word": "peinture",
+      "en": "peinture",
+      "sourceId": "paintwork",
+      "sourceIds": [
+        "paintwork"
+      ],
+      "ru": [
+        "лакокрасочное покрытие"
+      ],
+      "gender": "f",
+      "example": "La voiture a une belle peinture orange.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tonnage",
+      "word": "tonnage",
+      "en": "tonnage",
+      "sourceId": "tonnage",
+      "sourceIds": [
+        "tonnage"
+      ],
+      "ru": [
+        "тоннаж"
+      ],
+      "gender": "m",
+      "example": "Le prix au tonnage des dossiers est élevé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "superhighway",
+      "sourceIds": [
+        "superhighway"
+      ],
+      "ru": [
+        "автострада"
+      ],
+      "gender": "f",
+      "example": "L'autoroute de l'information a révolutionné la communication.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "traineau",
+      "word": "traîneau",
+      "en": "traîneau",
+      "sourceId": "sleigh",
+      "sourceIds": [
+        "sleigh"
+      ],
+      "ru": [
+        "сани"
+      ],
+      "gender": "m",
+      "example": "Il se promène en traîneau tiré par un cheval.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "paquebot",
+      "word": "paquebot",
+      "en": "paquebot",
+      "sourceId": "steamship",
+      "sourceIds": [
+        "steamship"
+      ],
+      "ru": [
+        "пароход"
+      ],
+      "gender": "m",
+      "example": "Le paquebot traverse l'océan.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "camion",
+      "word": "camion",
+      "en": "camion",
+      "sourceId": "truckload",
+      "sourceIds": [
+        "truckload"
+      ],
+      "ru": [
+        "грузовик",
+        "полный грузовик"
+      ],
+      "gender": "m",
+      "example": "Il a dit qu'il y a un camion complet.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

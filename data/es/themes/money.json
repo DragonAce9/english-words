@@ -1,0 +1,4442 @@
+{
+  "id": "money",
+  "title": "Деньги",
+  "paid": true,
+  "blockId": "society",
+  "words": [
+    {
+      "id": "cuenta",
+      "word": "cuenta",
+      "en": "cuenta",
+      "ru": [
+        "счёт",
+        "отчёт"
+      ],
+      "example": "Alberto se negó a pagar la cuenta.",
+      "level": "A1",
+      "sourceId": "account",
+      "sourceIds": [
+        "account"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "responsabilidad",
+      "word": "responsabilidad",
+      "en": "responsabilidad",
+      "ru": [
+        "ответственность",
+        "отчётность",
+        "подотчётность"
+      ],
+      "example": "Debéis ser consciente de vuestras responsabilidades familiares.",
+      "level": "B2",
+      "sourceId": "accountability",
+      "sourceIds": [
+        "accountability"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hacer-rendir-cuentas",
+      "word": "hacer rendir cuentas",
+      "en": "hacer rendir cuentas",
+      "ru": [
+        "ответственный",
+        "подотчётный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "accountable",
+      "sourceIds": [
+        "accountable"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "contabilidad",
+      "word": "contabilidad",
+      "en": "contabilidad",
+      "ru": [
+        "бухгалтерский учёт",
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "example": "Falsificaron la contabilidad para evadir impuestos.",
+      "level": "C2",
+      "sourceId": "accountancy",
+      "sourceIds": [
+        "accountancy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "contador",
+      "word": "contador",
+      "en": "contador",
+      "ru": [
+        "бухгалтер"
+      ],
+      "example": "El contador y el cajero son hermanos.",
+      "level": "C2",
+      "sourceId": "accountant",
+      "sourceIds": [
+        "accountant"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "contabilidad",
+      "word": "contabilidad",
+      "en": "contabilidad",
+      "ru": [
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "example": "Falsificaron la contabilidad para evadir impuestos.",
+      "level": "A2",
+      "sourceId": "accounting",
+      "sourceIds": [
+        "accounting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "permitirse",
+      "word": "permitirse",
+      "en": "permitirse",
+      "ru": [
+        "быть в состоянии",
+        "позволить",
+        "позволять"
+      ],
+      "example": "No todos pueden permitirse hacer lo que tú.",
+      "level": "B2",
+      "sourceId": "afford",
+      "sourceIds": [
+        "afford"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asequible",
+      "word": "asequible",
+      "en": "asequible",
+      "ru": [
+        "доступный"
+      ],
+      "example": "Tenemos productos asequibles para todo tipo de presupuesto.",
+      "level": "B1",
+      "sourceId": "affordable",
+      "sourceIds": [
+        "affordable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valor",
+      "word": "valor",
+      "en": "valor",
+      "ru": [
+        "актив",
+        "авуары",
+        "активы"
+      ],
+      "example": "A que no tienes valor para hacerlo.",
+      "level": "B1",
+      "sourceId": "asset",
+      "sourceIds": [
+        "asset"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "partida-del-activo",
+      "word": "partida del activo",
+      "en": "partida del activo",
+      "ru": [
+        "актив"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "assets",
+      "sourceIds": [
+        "assets"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "balance",
+      "word": "balance",
+      "en": "balance",
+      "ru": [
+        "баланс",
+        "остаток на счёте"
+      ],
+      "example": "Un balance puede ser positivo o negativo.",
+      "level": "A2",
+      "sourceId": "balance",
+      "sourceIds": [
+        "balance"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "equilibrado",
+      "word": "equilibrado",
+      "en": "equilibrado",
+      "ru": [
+        "сбалансированный"
+      ],
+      "example": "Un espíritu equilibrado en un cuerpo equilibrado.",
+      "level": "B2",
+      "sourceId": "balanced",
+      "sourceIds": [
+        "balanced"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banco",
+      "word": "banco",
+      "en": "banco",
+      "ru": [
+        "банк"
+      ],
+      "example": "A menudo me tumbo en este banco.",
+      "level": "A2",
+      "sourceId": "bank",
+      "sourceIds": [
+        "bank"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banquero",
+      "word": "banquero",
+      "en": "banquero",
+      "ru": [
+        "банкир",
+        "банкирша",
+        "банкомёт"
+      ],
+      "example": "La vida de un banquero es difícil.",
+      "level": "C2",
+      "sourceId": "banker",
+      "sourceIds": [
+        "banker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banca",
+      "word": "banca",
+      "en": "banca",
+      "ru": [
+        "банковское дело",
+        "банкинг",
+        "вираж"
+      ],
+      "example": "Fumando, él se sentó en la banca.",
+      "level": "B1",
+      "sourceId": "banking",
+      "sourceIds": [
+        "banking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arruinado",
+      "word": "arruinado",
+      "en": "arruinado",
+      "ru": [
+        "обанкротившийся",
+        "банкрот",
+        "банкротить"
+      ],
+      "example": "Eres tonto porque lo has arruinado todo.",
+      "level": "C2",
+      "sourceId": "bankrupt",
+      "sourceIds": [
+        "bankrupt"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quiebra",
+      "word": "quiebra",
+      "en": "quiebra",
+      "ru": [
+        "банкротство",
+        "несостоятельность"
+      ],
+      "example": "Quiebra el chocolate en trozos más pequeños.",
+      "level": "B2",
+      "sourceId": "bankruptcy",
+      "sourceIds": [
+        "bankruptcy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beneficio",
+      "word": "beneficio",
+      "en": "beneficio",
+      "ru": [
+        "благо",
+        "выгода",
+        "льгота"
+      ],
+      "example": "El objetivo es siempre el máximo beneficio.",
+      "level": "A2",
+      "sourceId": "benefit",
+      "sourceIds": [
+        "benefit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuenta",
+      "word": "cuenta",
+      "en": "cuenta",
+      "ru": [
+        "счёт",
+        "банкнота"
+      ],
+      "example": "Alberto se negó a pagar la cuenta.",
+      "level": "A2",
+      "sourceId": "bill",
+      "sourceIds": [
+        "bill"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "billonario",
+      "word": "billonario",
+      "en": "billonario",
+      "ru": [
+        "миллиардер",
+        "миллиардерша"
+      ],
+      "example": "Tom es un billonario.",
+      "level": "C2",
+      "sourceId": "billionaire",
+      "sourceIds": [
+        "billionaire"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bono",
+      "word": "bono",
+      "en": "bono",
+      "ru": [
+        "облигация",
+        "долговое обязательство"
+      ],
+      "example": "Bono y Sinatra brindaron su nueva amistad.",
+      "level": "B1",
+      "sourceId": "bond",
+      "sourceIds": [
+        "bond"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prima",
+      "word": "prima",
+      "en": "prima",
+      "ru": [
+        "бонус",
+        "надбавка",
+        "премия"
+      ],
+      "example": "\"¿De qué nacionalidad son tus primos?\" \"Mexicana.\"",
+      "level": "B1",
+      "sourceId": "bonus",
+      "sourceIds": [
+        "bonus"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "presupuesto",
+      "word": "presupuesto",
+      "en": "presupuesto",
+      "ru": [
+        "бюджетный",
+        "бюджет",
+        "смета"
+      ],
+      "example": "El presupuesto fue recortado hasta el límite.",
+      "level": "A2",
+      "sourceId": "budget",
+      "sourceIds": [
+        "budget"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capital",
+      "word": "capital",
+      "en": "capital",
+      "ru": [
+        "капитель",
+        "богатство",
+        "капитал"
+      ],
+      "example": "Buenos Aires es la capital de Argentina.",
+      "level": "A2",
+      "sourceId": "capital",
+      "sourceIds": [
+        "capital"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "intensivo-en-capital",
+      "word": "intensivo en capital",
+      "en": "intensivo en capital",
+      "ru": [
+        "капиталоёмкий"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capital-intensive",
+      "sourceIds": [
+        "capital-intensive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mayusculacion",
+      "word": "mayusculación",
+      "en": "mayusculación",
+      "ru": [
+        "капитализация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalisation",
+      "sourceIds": [
+        "capitalisation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "capitalismo",
+      "word": "capitalismo",
+      "en": "capitalismo",
+      "ru": [
+        "капитализм"
+      ],
+      "example": "La democracia es la fachada del capitalismo.",
+      "level": "C2",
+      "sourceId": "capitalism",
+      "sourceIds": [
+        "capitalism"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capitalista",
+      "word": "capitalista",
+      "en": "capitalista",
+      "ru": [
+        "капиталистический",
+        "капиталист"
+      ],
+      "example": "Tom es un capitalista de riesgo.",
+      "level": "C2",
+      "sourceId": "capitalist",
+      "sourceIds": [
+        "capitalist"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capitalizar",
+      "word": "capitalizar",
+      "en": "capitalizar",
+      "ru": [
+        "капитализировать",
+        "превращать в капитал"
+      ],
+      "example": "El que la gente está intentando capitalizar esta crisis está claro.",
+      "level": "C2",
+      "sourceId": "capitalize",
+      "sourceIds": [
+        "capitalize"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carta",
+      "word": "carta",
+      "en": "carta",
+      "ru": [
+        "карта",
+        "козырь",
+        "карточка"
+      ],
+      "example": "\"Quisiera jugar a las cartas.\" \"Yo también.\"",
+      "level": "A1",
+      "sourceId": "card",
+      "sourceIds": [
+        "card"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "efectivo",
+      "word": "efectivo",
+      "en": "efectivo",
+      "ru": [
+        "деньги",
+        "нал",
+        "наличные деньги"
+      ],
+      "example": "Esos misiles son cien por ciento efectivos.",
+      "level": "A2",
+      "sourceId": "cash",
+      "sourceIds": [
+        "cash"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centavo",
+      "word": "centavo",
+      "en": "centavo",
+      "ru": [
+        "цент"
+      ],
+      "example": "\"Seis centavos por segundo\" le recordó Bob.",
+      "level": "B1",
+      "sourceId": "cent",
+      "sourceIds": [
+        "cent"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cambio",
+      "word": "cambio",
+      "en": "cambio",
+      "ru": [
+        "сдача"
+      ],
+      "example": "A algunos empleados les gusta el cambio.",
+      "level": "A2",
+      "sourceId": "change",
+      "sourceIds": [
+        "change"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caridad",
+      "word": "caridad",
+      "en": "caridad",
+      "ru": [
+        "благотворительная организация",
+        "благотворительное общество",
+        "благотворительный фонд"
+      ],
+      "example": "Caridad con trompeta, no vale una puñeta.",
+      "level": "B2",
+      "sourceId": "charity",
+      "sourceIds": [
+        "charity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barato",
+      "word": "barato",
+      "en": "barato",
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "example": "Coger el metro en Pequín es barato.",
+      "level": "A2",
+      "sourceId": "cheap",
+      "sourceIds": [
+        "cheap"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barato",
+      "word": "barato",
+      "en": "barato",
+      "ru": [
+        "дёшево"
+      ],
+      "example": "Coger el metro en Pequín es barato.",
+      "level": "C2",
+      "sourceId": "cheaply",
+      "sourceIds": [
+        "cheaply"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moneda",
+      "word": "moneda",
+      "en": "moneda",
+      "ru": [
+        "монета",
+        "жетон",
+        "фишка"
+      ],
+      "example": "A él le gusta coleccionar monedas viejas.",
+      "level": "B2",
+      "sourceId": "coin",
+      "sourceIds": [
+        "coin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "contrapartida",
+      "word": "contrapartida",
+      "en": "contrapartida",
+      "ru": [
+        "возмещение",
+        "компенсация",
+        "уравнивание"
+      ],
+      "example": "Este trabajo es duro, pero tiene otras contrapartidas.",
+      "level": "B1",
+      "sourceId": "compensation",
+      "sourceIds": [
+        "compensation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "costo",
+      "word": "costo",
+      "en": "costo",
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "example": "El costo no ha sido ningún problema.",
+      "level": "A1",
+      "sourceId": "cost",
+      "sourceIds": [
+        "cost"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caro",
+      "word": "caro",
+      "en": "caro",
+      "ru": [
+        "дорогой",
+        "дорогостоящий",
+        "ценный"
+      ],
+      "example": "-¿Te suena mi cara? -Ahora no caigo.",
+      "level": "C2",
+      "sourceId": "costly",
+      "sourceIds": [
+        "costly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "credito",
+      "word": "crédito",
+      "en": "crédito",
+      "ru": [
+        "кредит",
+        "заём"
+      ],
+      "example": "Aceptamos todas las tarjetas de crédito importantes.",
+      "level": "A1",
+      "sourceId": "credit",
+      "sourceIds": [
+        "credit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moneda",
+      "word": "moneda",
+      "en": "moneda",
+      "ru": [
+        "валюта",
+        "распространённость",
+        "употребительность"
+      ],
+      "example": "A él le gusta coleccionar monedas viejas.",
+      "level": "A2",
+      "sourceId": "currency",
+      "sourceIds": [
+        "currency"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "debito",
+      "word": "débito",
+      "en": "débito",
+      "ru": [
+        "дебет"
+      ],
+      "example": "Estoy pagando con esta tarjeta de débito.",
+      "level": "C2",
+      "sourceId": "debit",
+      "sourceIds": [
+        "debit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deuda",
+      "word": "deuda",
+      "en": "deuda",
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязанность"
+      ],
+      "example": "Es necesario saldar esa deuda cuanto antes.",
+      "level": "A2",
+      "sourceId": "debt",
+      "sourceIds": [
+        "debt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deposito",
+      "word": "depósito",
+      "en": "depósito",
+      "ru": [
+        "вклад",
+        "депозит",
+        "залог"
+      ],
+      "example": "El depósito me suele durar una semana.",
+      "level": "B1",
+      "sourceId": "deposit",
+      "sourceIds": [
+        "deposit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deposicion",
+      "word": "deposición",
+      "en": "deposición",
+      "ru": [
+        "смещение с должности",
+        "осаждение",
+        "отложение"
+      ],
+      "example": "¿De qué color son tus deposiciones?",
+      "level": "C2",
+      "sourceId": "deposition",
+      "sourceIds": [
+        "deposition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "depositorio",
+      "word": "depositorio",
+      "en": "depositorio",
+      "ru": [
+        "депозитарий",
+        "склад",
+        "хранилище"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "depository",
+      "sourceIds": [
+        "depository"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "descuento",
+      "word": "descuento",
+      "en": "descuento",
+      "ru": [
+        "дисконт",
+        "скидка"
+      ],
+      "example": "A lo mejor puedo conseguirte un descuento.",
+      "level": "A2",
+      "sourceId": "discount",
+      "sourceIds": [
+        "discount"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dolar",
+      "word": "dólar",
+      "en": "dólar",
+      "ru": [
+        "доллар"
+      ],
+      "example": "A todos nosotros nos dieron trescientos dólares.",
+      "level": "B1",
+      "sourceId": "dollar",
+      "sourceIds": [
+        "dollar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "donar",
+      "word": "donar",
+      "en": "donar",
+      "ru": [
+        "давать",
+        "дарить",
+        "дать"
+      ],
+      "example": "Amar es donarse de cuerpo y alma.",
+      "level": "B2",
+      "sourceId": "donate",
+      "sourceIds": [
+        "donate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "donacion",
+      "word": "donación",
+      "en": "donación",
+      "ru": [
+        "пожертвование",
+        "дар",
+        "донат"
+      ],
+      "example": "Esta organización depende completamente de donaciones voluntarias.",
+      "level": "B2",
+      "sourceId": "donation",
+      "sourceIds": [
+        "donation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deber",
+      "word": "deber",
+      "en": "deber",
+      "ru": [
+        "долг",
+        "обязанность",
+        "сбор"
+      ],
+      "example": "\"He debido usar condón\", se lamentó Tom.",
+      "level": "B1",
+      "sourceId": "duty",
+      "sourceIds": [
+        "duty"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ganar",
+      "word": "ganar",
+      "en": "ganar",
+      "ru": [
+        "зарабатывать",
+        "заработать",
+        "заслуживать"
+      ],
+      "example": "A Tom no le importa quién gana.",
+      "level": "B1",
+      "sourceId": "earn",
+      "sourceIds": [
+        "earn"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ganancia",
+      "word": "ganancia",
+      "en": "ganancia",
+      "ru": [
+        "доход",
+        "заработок",
+        "прибыль"
+      ],
+      "example": "El gasto es mayor que la ganancia.",
+      "level": "B1",
+      "sourceId": "earnings",
+      "sourceIds": [
+        "earnings"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "economico",
+      "word": "económico",
+      "en": "económico",
+      "ru": [
+        "хозяйственный",
+        "экономический"
+      ],
+      "example": "El desarrollo económico es importante para África.",
+      "level": "A2",
+      "sourceId": "economic",
+      "sourceIds": [
+        "economic"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "economico",
+      "word": "económico",
+      "en": "económico",
+      "ru": [
+        "бережливый",
+        "экономный",
+        "экономичный"
+      ],
+      "example": "El desarrollo económico es importante para África.",
+      "level": "C2",
+      "sourceId": "economical",
+      "sourceIds": [
+        "economical"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "economicamente",
+      "word": "económicamente",
+      "en": "económicamente",
+      "ru": [
+        "бережливо",
+        "расчётливо"
+      ],
+      "example": "Él es económicamente independiente de sus padres.",
+      "level": "C2",
+      "sourceId": "economically",
+      "sourceIds": [
+        "economically"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "economia",
+      "word": "economía",
+      "en": "economía",
+      "ru": [
+        "экономика"
+      ],
+      "example": "El ministro de Economía lo explicará mañana.",
+      "level": "B1",
+      "sourceId": "economics",
+      "sourceIds": [
+        "economics"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "economia",
+      "word": "economía",
+      "en": "economía",
+      "ru": [
+        "экономика",
+        "хозяйство"
+      ],
+      "example": "El ministro de Economía lo explicará mañana.",
+      "level": "A2",
+      "sourceId": "economy",
+      "sourceIds": [
+        "economy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patrimonio-neto",
+      "word": "patrimonio neto",
+      "en": "patrimonio neto",
+      "ru": [
+        "собственный капитал",
+        "акции"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "equity",
+      "sourceIds": [
+        "equity"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "euro",
+      "word": "euro",
+      "en": "euro",
+      "ru": [
+        "евро"
+      ],
+      "example": "Cada uno de ellos tiene diez euros.",
+      "level": "B1",
+      "sourceId": "euro",
+      "sourceIds": [
+        "euro"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "intercambio",
+      "word": "intercambio",
+      "en": "intercambio",
+      "ru": [
+        "обмен",
+        "биржа",
+        "обмениваться"
+      ],
+      "example": "Busco persona italiana para hacer intercambio italiano-español.",
+      "level": "A2",
+      "sourceId": "exchange",
+      "sourceIds": [
+        "exchange"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caro",
+      "word": "caro",
+      "en": "caro",
+      "ru": [
+        "дорогой"
+      ],
+      "example": "-¿Te suena mi cara? -Ahora no caigo.",
+      "level": "B1",
+      "sourceId": "expensive",
+      "sourceIds": [
+        "expensive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "costosamente",
+      "word": "costosamente",
+      "en": "costosamente",
+      "ru": [
+        "дорого"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "expensively",
+      "sourceIds": [
+        "expensively"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "cuota",
+      "word": "cuota",
+      "en": "cuota",
+      "ru": [
+        "сбор",
+        "взнос",
+        "вознаграждение"
+      ],
+      "example": "Empezaremos al considerar el concepto de \"cuota\".",
+      "level": "A2",
+      "sourceId": "fee",
+      "sourceIds": [
+        "fee"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "financiar",
+      "word": "financiar",
+      "en": "financiar",
+      "ru": [
+        "финансы",
+        "профинансировать",
+        "финансировать"
+      ],
+      "example": "El ayuntamiento financia parte de la obra.",
+      "level": "A2",
+      "sourceId": "finance",
+      "sourceIds": [
+        "finance"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "financiero",
+      "word": "financiero",
+      "en": "financiero",
+      "ru": [
+        "финансовый"
+      ],
+      "example": "Argelia está enfrentando una gran crisis financiera.",
+      "level": "A1",
+      "sourceId": "financial",
+      "sourceIds": [
+        "financial"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "financieramente",
+      "word": "financieramente",
+      "en": "financieramente",
+      "ru": [
+        "финансово"
+      ],
+      "example": "Mis vecinos son financieramente estables, es decir, ricos.",
+      "level": "C2",
+      "sourceId": "financially",
+      "sourceIds": [
+        "financially"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fiscal",
+      "word": "fiscal",
+      "en": "fiscal",
+      "ru": [
+        "фискальный",
+        "финансовый"
+      ],
+      "example": "El fiscal no consiguió encerrar al asesino.",
+      "level": "B1",
+      "sourceId": "fiscal",
+      "sourceIds": [
+        "fiscal"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fondo",
+      "word": "fondo",
+      "en": "fondo",
+      "ru": [
+        "капитал",
+        "фонд",
+        "профинансировать"
+      ],
+      "example": "Abandonamos el proyecto por falta de fondos.",
+      "level": "A2",
+      "sourceId": "fund",
+      "sourceIds": [
+        "fund"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fondos",
+      "word": "fondos",
+      "en": "fondos",
+      "ru": [
+        "финансирование"
+      ],
+      "example": "Abandonamos el proyecto por falta de fondos.",
+      "level": "A2",
+      "sourceId": "funding",
+      "sourceIds": [
+        "funding"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fondos",
+      "word": "fondos",
+      "en": "fondos",
+      "ru": [
+        "ресурс",
+        "средство",
+        "фонд"
+      ],
+      "example": "Abandonamos el proyecto por falta de fondos.",
+      "level": "A2",
+      "sourceId": "funds",
+      "sourceIds": [
+        "funds"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beca",
+      "word": "beca",
+      "en": "beca",
+      "ru": [
+        "грант",
+        "субсидия",
+        "дарение"
+      ],
+      "example": "Es probable que consiga la beca.",
+      "level": "A2",
+      "sourceId": "grant",
+      "sourceIds": [
+        "grant"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "renta",
+      "word": "renta",
+      "en": "renta",
+      "ru": [
+        "доход",
+        "заработок",
+        "поступления"
+      ],
+      "example": "Tom rara vez olvida pagar la renta.",
+      "level": "A2",
+      "sourceId": "income",
+      "sourceIds": [
+        "income"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "instalacion",
+      "word": "instalación",
+      "en": "instalación",
+      "ru": [
+        "взнос",
+        "рассрочка"
+      ],
+      "example": "Con la instalación geotérmica puedo tener calefacción.",
+      "level": "C2",
+      "sourceId": "installment",
+      "sourceIds": [
+        "installment"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seguro",
+      "word": "seguro",
+      "en": "seguro",
+      "ru": [
+        "страховка",
+        "страхование"
+      ],
+      "example": "Aquí estás protegida. Este lugar es seguro.",
+      "level": "A1",
+      "sourceId": "insurance",
+      "sourceIds": [
+        "insurance"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "interes",
+      "word": "interés",
+      "en": "interés",
+      "ru": [
+        "процент",
+        "ставка",
+        "интерес"
+      ],
+      "example": "Aunque son gemelos, no comparten muchos intereses.",
+      "level": "A1",
+      "sourceId": "interest",
+      "sourceIds": [
+        "interest"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sin-intereses",
+      "word": "sin intereses",
+      "en": "sin intereses",
+      "ru": [
+        "беспроцентный"
+      ],
+      "example": "Le presté 500 dólares sin intereses.",
+      "level": "C2",
+      "sourceId": "interest-free",
+      "sourceIds": [
+        "interest-free"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "interesado",
+      "word": "interesado",
+      "en": "interesado",
+      "ru": [
+        "заинтересованный"
+      ],
+      "example": "Creo que ella está interesada en vos.",
+      "level": "A2",
+      "sourceId": "interested",
+      "sourceIds": [
+        "interested"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "interesadamente",
+      "word": "interesadamente",
+      "en": "interesadamente",
+      "ru": [
+        "заинтересованно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "interestedly",
+      "sourceIds": [
+        "interestedly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "invertir",
+      "word": "invertir",
+      "en": "invertir",
+      "ru": [
+        "вкладывать",
+        "вложить",
+        "покрыть"
+      ],
+      "example": "Al invertir sabiamente, ella acumuló una fortuna.",
+      "level": "B2",
+      "sourceId": "invest",
+      "sourceIds": [
+        "invest"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "inversion",
+      "word": "inversión",
+      "en": "inversión",
+      "ru": [
+        "инвестирование",
+        "инвестиция",
+        "вклад"
+      ],
+      "example": "Ella se benefició de la buena inversión.",
+      "level": "A2",
+      "sourceId": "investment",
+      "sourceIds": [
+        "investment"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "inversor",
+      "word": "inversor",
+      "en": "inversor",
+      "ru": [
+        "вкладчик",
+        "вкладчица",
+        "инвестор"
+      ],
+      "example": "Aun así, los inversores se mantuvieron cautelosos.",
+      "level": "B1",
+      "sourceId": "investor",
+      "sourceIds": [
+        "investor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "factura",
+      "word": "factura",
+      "en": "factura",
+      "ru": [
+        "счёт",
+        "инвойс",
+        "накладная"
+      ],
+      "example": "Deme una factura por los libros comprados.",
+      "level": "C1",
+      "sourceId": "invoice",
+      "sourceIds": [
+        "invoice"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "falta",
+      "word": "falta",
+      "en": "falta",
+      "ru": [
+        "нехватка"
+      ],
+      "example": "A Lasse a veces le falta experiencia.",
+      "level": "B1",
+      "sourceId": "lack",
+      "sourceIds": [
+        "lack"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lastre",
+      "word": "lastre",
+      "en": "lastre",
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязательство"
+      ],
+      "example": "Tomás es un lastre para la familia.",
+      "level": "B1",
+      "sourceId": "liability",
+      "sourceIds": [
+        "liability"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prestamo",
+      "word": "préstamo",
+      "en": "préstamo",
+      "ru": [
+        "заём",
+        "кредит",
+        "ссуда"
+      ],
+      "example": "Esta palabra es un préstamo del francés.",
+      "level": "A2",
+      "sourceId": "loan",
+      "sourceIds": [
+        "loan"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "perdida",
+      "word": "pérdida",
+      "en": "pérdida",
+      "ru": [
+        "потеря",
+        "пропажа",
+        "утеря"
+      ],
+      "example": "Aprender nunca es una pérdida de tiempo.",
+      "level": "A2",
+      "sourceId": "loss",
+      "sourceIds": [
+        "loss"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "millonario",
+      "word": "millonario",
+      "en": "millonario",
+      "ru": [
+        "миллионер",
+        "миллионерша"
+      ],
+      "example": "Ella es la prometida de un millonario.",
+      "level": "C2",
+      "sourceId": "millionaire",
+      "sourceIds": [
+        "millionaire"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dinero",
+      "word": "dinero",
+      "en": "dinero",
+      "ru": [
+        "деньги",
+        "валюта",
+        "средства"
+      ],
+      "example": "A decir verdad, no he traído dinero.",
+      "level": "A1",
+      "sourceId": "money",
+      "sourceIds": [
+        "money"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hipoteca",
+      "word": "hipoteca",
+      "en": "hipoteca",
+      "ru": [
+        "ипотека"
+      ],
+      "example": "Fue desahuciada por no pagar la hipoteca.",
+      "level": "A2",
+      "sourceId": "mortgage",
+      "sourceIds": [
+        "mortgage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "respaldado-por-hipotecas",
+      "word": "respaldado por hipotecas",
+      "en": "respaldado por hipotecas",
+      "ru": [
+        "обеспечиваемый ипотекой"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "mortgage-backed",
+      "sourceIds": [
+        "mortgage-backed"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pagar",
+      "word": "pagar",
+      "en": "pagar",
+      "ru": [
+        "платить"
+      ],
+      "example": "Además aún no he pagado este lugar.",
+      "level": "A1",
+      "sourceId": "pay",
+      "sourceIds": [
+        "pay"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pago",
+      "word": "pago",
+      "en": "pago",
+      "ru": [
+        "платёж",
+        "оплата",
+        "плата"
+      ],
+      "example": "No te obligo a un pago excesivo.",
+      "level": "A1",
+      "sourceId": "payment",
+      "sourceIds": [
+        "payment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pension",
+      "word": "pensión",
+      "en": "pensión",
+      "ru": [
+        "пенсия"
+      ],
+      "example": "Ella tiene que vivir de la pensión.",
+      "level": "B2",
+      "sourceId": "pension",
+      "sourceIds": [
+        "pension"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pensionista",
+      "word": "pensionista",
+      "en": "pensionista",
+      "ru": [
+        "пенсионер",
+        "пенсионерка"
+      ],
+      "example": "Él no tiene trabajo. Es un pensionista.",
+      "level": "C2",
+      "sourceId": "pensioner",
+      "sourceIds": [
+        "pensioner"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por-ciento",
+      "word": "por ciento",
+      "en": "por ciento",
+      "ru": [
+        "процент"
+      ],
+      "example": "China estuvo aislada por cientos de años.",
+      "level": "A2",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porcentaje",
+      "word": "porcentaje",
+      "en": "porcentaje",
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "example": "¿Qué porcentaje de gente habla tres idiomas?",
+      "level": "B1",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "percentil",
+      "word": "percentil",
+      "en": "percentil",
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "porcentual",
+      "word": "porcentual",
+      "en": "porcentual",
+      "ru": [
+        "процентный"
+      ],
+      "example": "El margen de error la encuesta es de tres puntos porcentuales.",
+      "level": "C2",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pobre",
+      "word": "pobre",
+      "en": "pobre",
+      "ru": [
+        "бедный",
+        "малоимущий"
+      ],
+      "example": "A ella no le gustaba ser pobre.",
+      "level": "A2",
+      "sourceId": "poor",
+      "sourceIds": [
+        "poor"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "libra",
+      "word": "libra",
+      "en": "libra",
+      "ru": [
+        "фунт стерлингов"
+      ],
+      "example": "\"Más o menos cuatro libras\", dice Bob.",
+      "level": "B2",
+      "sourceId": "pound",
+      "sourceIds": [
+        "pound",
+        "quid"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pobreza",
+      "word": "pobreza",
+      "en": "pobreza",
+      "ru": [
+        "бедность",
+        "беднота",
+        "недостаток"
+      ],
+      "example": "Es urgente erradicar la pobreza en África.",
+      "level": "B1",
+      "sourceId": "poverty",
+      "sourceIds": [
+        "poverty"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "precio",
+      "word": "precio",
+      "en": "precio",
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "example": "Argelia subvenciona los precios de los combustibles.",
+      "level": "A1",
+      "sourceId": "price",
+      "sourceIds": [
+        "price"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "provecho",
+      "word": "provecho",
+      "en": "provecho",
+      "ru": [
+        "выгода",
+        "доход",
+        "нажива"
+      ],
+      "example": "Pero en realidad no le saco provecho.",
+      "level": "B1",
+      "sourceId": "profit",
+      "sourceIds": [
+        "profit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "propiedad",
+      "word": "propiedad",
+      "en": "propiedad",
+      "ru": [
+        "имущество",
+        "собственность",
+        "недвижимость"
+      ],
+      "example": "Bordeé la propiedad. Nunca traspasé sus linderos.",
+      "level": "A1",
+      "sourceId": "property",
+      "sourceIds": [
+        "property"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bolsa",
+      "word": "bolsa",
+      "en": "bolsa",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "мошна"
+      ],
+      "example": "Dentro de la bolsa eclosionan los huevos.",
+      "level": "A2",
+      "sourceId": "purse",
+      "sourceIds": [
+        "purse"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tasa",
+      "word": "tasa",
+      "en": "tasa",
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "example": "La tasa de desempleo bajó un 15%.",
+      "level": "A1",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calificacion",
+      "word": "calificación",
+      "en": "calificación",
+      "ru": [
+        "рейтинг"
+      ],
+      "example": "Mi calificación en el examen será baja.",
+      "level": "A1",
+      "sourceId": "rating",
+      "sourceIds": [
+        "rating"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recibo",
+      "word": "recibo",
+      "en": "recibo",
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "example": "A menudo recibo una carta de él.",
+      "level": "B2",
+      "sourceId": "receipt",
+      "sourceIds": [
+        "receipt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reembolso",
+      "word": "reembolso",
+      "en": "reembolso",
+      "ru": [
+        "возврат",
+        "возвращённая сумма",
+        "возмещение"
+      ],
+      "example": "Exigo un reembolso de mi dinero.",
+      "level": "B2",
+      "sourceId": "refund",
+      "sourceIds": [
+        "refund"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "retirada",
+      "word": "retirada",
+      "en": "retirada",
+      "ru": [
+        "выход на пенсию",
+        "пенсия"
+      ],
+      "example": "El ejército soviético comenzó su retirada de Afganistán.",
+      "level": "B1",
+      "sourceId": "retirement",
+      "sourceIds": [
+        "retirement"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "retorno",
+      "word": "retorno",
+      "en": "retorno",
+      "ru": [
+        "доход",
+        "выручка",
+        "поступление"
+      ],
+      "example": "Sera como la diarrea, es salida sin retorno.",
+      "level": "B1",
+      "sourceId": "revenue",
+      "sourceIds": [
+        "revenue"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rico",
+      "word": "rico",
+      "en": "rico",
+      "ru": [
+        "богатый",
+        "зажиточный",
+        "имущий"
+      ],
+      "example": "Adriana es de Costa Rica. Es costarricense.",
+      "level": "B1",
+      "sourceId": "rich",
+      "sourceIds": [
+        "rich"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "riqueza",
+      "word": "riqueza",
+      "en": "riqueza",
+      "ru": [
+        "богатство"
+      ],
+      "example": "Argelia redistribuye la riqueza a sus pobres.",
+      "level": "C2",
+      "sourceId": "riches",
+      "sourceIds": [
+        "riches"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ricamente",
+      "word": "ricamente",
+      "en": "ricamente",
+      "ru": [
+        "богато"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "richly",
+      "sourceIds": [
+        "richly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "seguro",
+      "word": "seguro",
+      "en": "seguro",
+      "ru": [
+        "в безопасности",
+        "безопасный",
+        "сейф"
+      ],
+      "example": "Aquí estás protegida. Este lugar es seguro.",
+      "level": "A2",
+      "sourceId": "safe",
+      "sourceIds": [
+        "safe"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sueldo",
+      "word": "sueldo",
+      "en": "sueldo",
+      "ru": [
+        "зарплата",
+        "жалование",
+        "заработная плата"
+      ],
+      "example": "El sueldo de este mes fue alto.",
+      "level": "B1",
+      "sourceId": "salary",
+      "sourceIds": [
+        "salary"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salvar",
+      "word": "salvar",
+      "en": "salvar",
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "example": "Aquí estarás a salvo de cualquier peligro.",
+      "level": "A1",
+      "sourceId": "save",
+      "sourceIds": [
+        "save"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ahorros",
+      "word": "ahorros",
+      "en": "ahorros",
+      "ru": [
+        "экономия",
+        "накопление",
+        "сбережение"
+      ],
+      "example": "Habrá que echar mano de los ahorros.",
+      "level": "B1",
+      "sourceId": "saving",
+      "sourceIds": [
+        "saving"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "compartir",
+      "word": "compartir",
+      "en": "compartir",
+      "ru": [
+        "делиться"
+      ],
+      "example": "Ambos compartían el mismo sentido del humor.",
+      "level": "A1",
+      "sourceId": "share",
+      "sourceIds": [
+        "share"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "compartido",
+      "word": "compartido",
+      "en": "compartido",
+      "ru": [
+        "общий",
+        "совместный"
+      ],
+      "example": "El dolor compartido es medio dolor.",
+      "level": "B1",
+      "sourceId": "shared",
+      "sourceIds": [
+        "shared"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "intercambio",
+      "word": "intercambio",
+      "en": "intercambio",
+      "ru": [
+        "раздел",
+        "разделение"
+      ],
+      "example": "Busco persona italiana para hacer intercambio italiano-español.",
+      "level": "B1",
+      "sourceId": "sharing",
+      "sourceIds": [
+        "sharing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasar",
+      "word": "pasar",
+      "en": "pasar",
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "example": "\"¡Ay!\" \"¿Qué pasa?\" \"He pisado una chincheta\".",
+      "level": "B1",
+      "sourceId": "spend",
+      "sourceIds": [
+        "spend"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "libra-esterlina",
+      "word": "libra esterlina",
+      "en": "libra esterlina",
+      "ru": [
+        "стерлинг",
+        "фунт"
+      ],
+      "example": "Doce peniques era un chelín y veinte chelines eran una libra esterlina.",
+      "level": "B1",
+      "sourceId": "sterling",
+      "sourceIds": [
+        "sterling"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "inventario",
+      "word": "inventario",
+      "en": "inventario",
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "example": "Estamos haciendo el inventario anual.",
+      "level": "A1",
+      "sourceId": "stock",
+      "sourceIds": [
+        "stock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acciones",
+      "word": "acciones",
+      "en": "acciones",
+      "ru": [
+        "акции"
+      ],
+      "example": "Ella admitió que sus acciones fueron inapropiadas.",
+      "level": "B1",
+      "sourceId": "stocks",
+      "sourceIds": [
+        "stocks"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tasa",
+      "word": "tasa",
+      "en": "tasa",
+      "ru": [
+        "налог",
+        "дань",
+        "подать"
+      ],
+      "example": "La tasa de desempleo bajó un 15%.",
+      "level": "A1",
+      "sourceId": "tax",
+      "sourceIds": [
+        "tax"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "propina",
+      "word": "propina",
+      "en": "propina",
+      "ru": [
+        "чаевые"
+      ],
+      "example": "No es educado negarle propina al mozo.",
+      "level": "B1",
+      "sourceId": "tip",
+      "sourceIds": [
+        "tip"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "peaje",
+      "word": "peaje",
+      "en": "peaje",
+      "ru": [
+        "плата",
+        "пошлина",
+        "сбор"
+      ],
+      "example": "Algunos conductores exigen la devolución del peaje.",
+      "level": "B1",
+      "sourceId": "toll",
+      "sourceIds": [
+        "toll"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transaccion",
+      "word": "transacción",
+      "en": "transacción",
+      "ru": [
+        "сделка",
+        "операция",
+        "проводка"
+      ],
+      "example": "Las transacciones financieras dejaron un rastro informático.",
+      "level": "B1",
+      "sourceId": "transaction",
+      "sourceIds": [
+        "transaction"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transaccional",
+      "word": "transaccional",
+      "en": "transaccional",
+      "ru": [
+        "трансактный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "transactional",
+      "sourceIds": [
+        "transactional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "transferencia",
+      "word": "transferencia",
+      "en": "transferencia",
+      "ru": [
+        "перевод",
+        "передача",
+        "переход"
+      ],
+      "example": "Ahora dame los datos para la transferencia.",
+      "level": "A2",
+      "sourceId": "transfer",
+      "sourceIds": [
+        "transfer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valor",
+      "word": "valor",
+      "en": "valor",
+      "ru": [
+        "ценность",
+        "важность",
+        "значение"
+      ],
+      "example": "A que no tienes valor para hacerlo.",
+      "level": "A1",
+      "sourceId": "value",
+      "sourceIds": [
+        "value"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "iva",
+      "word": "IVA",
+      "en": "IVA",
+      "ru": [
+        "НДС"
+      ],
+      "example": "El IVA es un impuesto al consumo.",
+      "level": "B1",
+      "sourceId": "vat",
+      "sourceIds": [
+        "vat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sueldo",
+      "word": "sueldo",
+      "en": "sueldo",
+      "ru": [
+        "жалование",
+        "заработная плата",
+        "заработок"
+      ],
+      "example": "El sueldo de este mes fue alto.",
+      "level": "B2",
+      "sourceId": "wage",
+      "sourceIds": [
+        "wage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cartera",
+      "word": "cartera",
+      "en": "cartera",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "портмоне"
+      ],
+      "example": "Creo que se me perdió la cartera.",
+      "level": "A2",
+      "sourceId": "wallet",
+      "sourceIds": [
+        "wallet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "riqueza",
+      "word": "riqueza",
+      "en": "riqueza",
+      "ru": [
+        "благосостояние",
+        "богатство",
+        "изобилие"
+      ],
+      "example": "Argelia redistribuye la riqueza a sus pobres.",
+      "level": "B2",
+      "sourceId": "wealth",
+      "sourceIds": [
+        "wealth"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "retirar",
+      "word": "retirar",
+      "en": "retirar",
+      "ru": [
+        "брать назад",
+        "забирать",
+        "забрать"
+      ],
+      "example": "A usted le he retirado el 'tú'.",
+      "level": "C2",
+      "sourceId": "withdraw",
+      "sourceIds": [
+        "withdraw"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "retirada",
+      "word": "retirada",
+      "en": "retirada",
+      "ru": [
+        "вывод",
+        "снятие"
+      ],
+      "example": "El ejército soviético comenzó su retirada de Afganistán.",
+      "level": "C1",
+      "sourceId": "withdrawal",
+      "sourceIds": [
+        "withdrawal"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "retraido",
+      "word": "retraído",
+      "en": "retraído",
+      "ru": [
+        "бука",
+        "затворник"
+      ],
+      "example": "Es una muchacha muy silenciosa y retraída.",
+      "level": "C2",
+      "sourceId": "withdrawn",
+      "sourceIds": [
+        "withdrawn"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valioso",
+      "word": "valioso",
+      "en": "valioso",
+      "ru": [
+        "заслуживающий",
+        "стоить",
+        "стоящий"
+      ],
+      "example": "Cuida tu salud. Tu vida es valiosa.",
+      "level": "A2",
+      "sourceId": "worth",
+      "sourceIds": [
+        "worth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "canibalizacion",
+      "word": "canibalización",
+      "en": "canibalización",
+      "ru": [
+        "каннибализация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cannibalization",
+      "sourceIds": [
+        "cannibalization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "intermercado",
+      "word": "intermercado",
+      "en": "intermercado",
+      "ru": [
+        "межрыночный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cross-market",
+      "sourceIds": [
+        "cross-market"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "de-grado-de-inversion",
+      "word": "de grado de inversión",
+      "en": "de grado de inversión",
+      "ru": [
+        "инвестиционного уровня"
+      ],
+      "example": "Muchas gracias, señor. Le garantizo que ha hecho una buena inversión.",
+      "level": "B1",
+      "sourceId": "investor-grade",
+      "sourceIds": [
+        "investor-grade"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "monetizacion",
+      "word": "monetización",
+      "en": "monetización",
+      "ru": [
+        "монетизация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "monetization",
+      "sourceIds": [
+        "monetization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vendible",
+      "word": "vendible",
+      "en": "vendible",
+      "ru": [
+        "ликвидный",
+        "пригодный для продажи"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sellable",
+      "sourceIds": [
+        "sellable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "facturacion",
+      "word": "facturación",
+      "en": "facturación",
+      "ru": [
+        "оборот"
+      ],
+      "example": "La facturación anual de esta empresa es obscena.",
+      "level": "B1",
+      "sourceId": "turnover",
+      "sourceIds": [
+        "turnover"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chelin",
+      "word": "chelín",
+      "en": "chelín",
+      "ru": [
+        "шиллинг"
+      ],
+      "example": "Me costó más de quince chelines.",
+      "level": "B1",
+      "sourceId": "shilling",
+      "sourceIds": [
+        "shilling"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deber",
+      "word": "deber",
+      "en": "deber",
+      "ru": [
+        "быть должным"
+      ],
+      "example": "\"He debido usar condón\", se lamentó Tom.",
+      "level": "B1",
+      "sourceId": "owe",
+      "sourceIds": [
+        "owe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pavo",
+      "word": "pavo",
+      "en": "pavo",
+      "ru": [
+        "доллар",
+        "самец оленя"
+      ],
+      "example": "Estás más orgulloso que un pavo real.",
+      "level": "B1",
+      "sourceId": "buck",
+      "sourceIds": [
+        "buck"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "desencarecer",
+      "word": "desencarecer",
+      "en": "desencarecer",
+      "ru": [
+        "удешевлять",
+        "обесценивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheapen",
+      "sourceIds": [
+        "cheapen"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "fortuna",
+      "word": "fortuna",
+      "en": "fortuna",
+      "ru": [
+        "удача",
+        "состояние"
+      ],
+      "example": "Al invertir sabiamente, ella acumuló una fortuna.",
+      "level": "B1",
+      "sourceId": "fortune",
+      "sourceIds": [
+        "fortune"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fajo",
+      "word": "fajo",
+      "en": "fajo",
+      "ru": [
+        "пачка",
+        "комок"
+      ],
+      "example": "Tomás quemó un fajo de billetes.",
+      "level": "B1",
+      "sourceId": "wad",
+      "sourceIds": [
+        "wad"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casa-de-empeno",
+      "word": "casa de empeño",
+      "en": "casa de empeño",
+      "ru": [
+        "ломбард"
+      ],
+      "example": "La policía está poniendo todo su empeño en investigar el caso.",
+      "level": "B1",
+      "sourceId": "pawnshop",
+      "sourceIds": [
+        "pawnshop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "concesionario",
+      "word": "concesionario",
+      "en": "concesionario",
+      "ru": [
+        "дилерский центр"
+      ],
+      "example": "Fuimos al concesionario a recoger el coche.",
+      "level": "B1",
+      "sourceId": "dealership",
+      "sourceIds": [
+        "dealership"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rentable",
+      "word": "rentable",
+      "en": "rentable",
+      "ru": [
+        "выгодный",
+        "прибыльный"
+      ],
+      "example": "Ese modelo de negocio nunca será rentable.",
+      "level": "B1",
+      "sourceId": "profitable",
+      "sourceIds": [
+        "profitable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "remunerado",
+      "word": "remunerado",
+      "en": "remunerado",
+      "ru": [
+        "прибыльный",
+        "выгодный"
+      ],
+      "example": "Es difícil encontrar un curro permanente bien remunerado.",
+      "level": "B1",
+      "sourceId": "gainful",
+      "sourceIds": [
+        "gainful"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rico",
+      "word": "rico",
+      "en": "rico",
+      "ru": [
+        "богатый"
+      ],
+      "example": "Adriana es de Costa Rica. Es costarricense.",
+      "level": "B1",
+      "sourceId": "wealthy",
+      "sourceIds": [
+        "wealthy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "loteria",
+      "word": "lotería",
+      "en": "lotería",
+      "ru": [
+        "лотерея"
+      ],
+      "example": "Felicidades a los agraciados de la lotería.",
+      "level": "B1",
+      "sourceId": "lottery",
+      "sourceIds": [
+        "lottery"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "accionista",
+      "word": "accionista",
+      "en": "accionista",
+      "ru": [
+        "акционер"
+      ],
+      "example": "El accionista principal es este hombre.",
+      "level": "B1",
+      "sourceId": "shareholder",
+      "sourceIds": [
+        "shareholder"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "apostar",
+      "word": "apostar",
+      "en": "apostar",
+      "ru": [
+        "держать пари",
+        "делать ставку"
+      ],
+      "example": "A usted no le gusta apostar, ¿verdad?",
+      "level": "B1",
+      "sourceId": "bet",
+      "sourceIds": [
+        "bet"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tesoro",
+      "word": "tesoro",
+      "en": "tesoro",
+      "ru": [
+        "казначейство",
+        "казна"
+      ],
+      "example": "Algunos libros de la biblioteca son tesoros.",
+      "level": "B1",
+      "sourceId": "treasury",
+      "sourceIds": [
+        "treasury"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gasto",
+      "word": "gasto",
+      "en": "gasto",
+      "ru": [
+        "расход",
+        "трата"
+      ],
+      "example": "Contribuyo de buena gana a los gastos.",
+      "level": "B1",
+      "sourceId": "expense",
+      "sourceIds": [
+        "expense"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pedir-prestado",
+      "word": "pedir prestado",
+      "en": "pedir prestado",
+      "ru": [
+        "занимать",
+        "брать взаймы"
+      ],
+      "example": "Me gustaría pedir prestados unos trescientos dólares.",
+      "level": "B1",
+      "sourceId": "borrow",
+      "sourceIds": [
+        "borrow"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "extravagancia",
+      "word": "extravagancia",
+      "en": "extravagancia",
+      "ru": [
+        "расточительность",
+        "экстравагантность"
+      ],
+      "example": "El corbatín le da un aire de extravagancia.",
+      "level": "B1",
+      "sourceId": "extravagance",
+      "sourceIds": [
+        "extravagance"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bien-invertido",
+      "word": "bien invertido",
+      "en": "bien invertido",
+      "ru": [
+        "хорошо вложенный"
+      ],
+      "example": "Será un dinero bien invertido.",
+      "level": "B1",
+      "sourceId": "well-invested",
+      "sourceIds": [
+        "well-invested"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prodigo",
+      "word": "pródigo",
+      "en": "pródigo",
+      "ru": [
+        "расточитель"
+      ],
+      "example": "El hijo pródigo volvió a casa.",
+      "level": "B1",
+      "sourceId": "spendthrift",
+      "sourceIds": [
+        "spendthrift"
+      ],
+      "pos": "adj",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "robar",
+      "word": "robar",
+      "en": "robar",
+      "ru": [
+        "грабить"
+      ],
+      "example": "A Tom le han robado el reloj.",
+      "level": "B1",
+      "sourceId": "rob",
+      "sourceIds": [
+        "rob"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comprar",
+      "word": "comprar",
+      "en": "comprar",
+      "ru": [
+        "давать взятку"
+      ],
+      "example": "\"¿Ella compró un reloj?\" \"Sí, así es.\"",
+      "level": "B1",
+      "sourceId": "bribe",
+      "sourceIds": [
+        "bribe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "penique",
+      "word": "penique",
+      "en": "penique",
+      "ru": [
+        "пенни"
+      ],
+      "example": "Las naranjas cuestan 7 peniques cada una.",
+      "level": "B1",
+      "sourceId": "penny",
+      "sourceIds": [
+        "penny"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pez-gordo",
+      "word": "pez gordo",
+      "en": "pez gordo",
+      "ru": [
+        "магнат"
+      ],
+      "example": "Tengo entendido que es un pez gordo canadiense.",
+      "level": "B1",
+      "sourceId": "tycoon",
+      "sourceIds": [
+        "tycoon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-renta-controlada",
+      "word": "de renta controlada",
+      "en": "de renta controlada",
+      "ru": [
+        "с регулируемой арендной платой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rent-controlled",
+      "sourceIds": [
+        "rent-controlled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "corredor",
+      "word": "corredor",
+      "en": "corredor",
+      "ru": [
+        "брокер",
+        "посредник"
+      ],
+      "example": "El corredor apretó en la última vuelta.",
+      "level": "B1",
+      "sourceId": "broker",
+      "sourceIds": [
+        "broker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "libro-mayor",
+      "word": "libro mayor",
+      "en": "libro mayor",
+      "ru": [
+        "бухгалтерская книга"
+      ],
+      "example": "Los libros ocupan la mayor parte de su habitación.",
+      "level": "B1",
+      "sourceId": "ledger",
+      "sourceIds": [
+        "ledger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "confiscar",
+      "word": "confiscar",
+      "en": "confiscar",
+      "ru": [
+        "конфисковать"
+      ],
+      "example": "El profesor confiscó el móvil de Tom.",
+      "level": "B1",
+      "sourceId": "confiscate",
+      "sourceIds": [
+        "confiscate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prestar",
+      "word": "prestar",
+      "en": "prestar",
+      "ru": [
+        "одалживать",
+        "давать взаймы"
+      ],
+      "example": "Con el semáforo parpadeante debes prestar atención.",
+      "level": "B1",
+      "sourceId": "lend",
+      "sourceIds": [
+        "lend"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lavar",
+      "word": "lavar",
+      "en": "lavar",
+      "ru": [
+        "отмывать (деньги)",
+        "стирать"
+      ],
+      "example": "A Tom no le gusta lavar platos.",
+      "level": "B1",
+      "sourceId": "launder",
+      "sourceIds": [
+        "launder"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "remitir",
+      "word": "remitir",
+      "en": "remitir",
+      "ru": [
+        "круг полномочий",
+        "компетенция",
+        "ведение"
+      ],
+      "example": "El dolor no remitía con los analgésicos.",
+      "level": "B1",
+      "sourceId": "remit",
+      "sourceIds": [
+        "remit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "timbear",
+      "word": "timbear",
+      "en": "timbear",
+      "ru": [
+        "рисковать",
+        "играть в азартные игры"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gamble",
+      "sourceIds": [
+        "gamble"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "arrendamiento",
+      "word": "arrendamiento",
+      "en": "arrendamiento",
+      "ru": [
+        "арендовать"
+      ],
+      "example": "¿Hay una cláusula en el contrato de arrendamiento con respecto a eso?",
+      "level": "B1",
+      "sourceId": "lease",
+      "sourceIds": [
+        "lease"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moneda-de-diez-centavos",
+      "word": "moneda de diez centavos",
+      "en": "moneda de diez centavos",
+      "ru": [
+        "десятицентовик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dime",
+      "sourceIds": [
+        "dime"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tarjeta-de-credito",
+      "word": "tarjeta de crédito",
+      "en": "tarjeta de crédito",
+      "ru": [
+        "кредитная карта"
+      ],
+      "example": "Aceptamos todas las tarjetas de crédito importantes.",
+      "level": "B1",
+      "sourceId": "credit-card",
+      "sourceIds": [
+        "credit-card"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estafa",
+      "word": "estafa",
+      "en": "estafa",
+      "ru": [
+        "мошенничество",
+        "афера"
+      ],
+      "example": "Mary estaba entre las condenadas por estafa.",
+      "level": "B1",
+      "sourceId": "scam",
+      "sourceIds": [
+        "scam"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "depreciar",
+      "word": "depreciar",
+      "en": "depreciar",
+      "ru": [
+        "обесцениваться"
+      ],
+      "example": "La construcción de una fábrica en las cercanías depreció el terreno.",
+      "level": "B1",
+      "sourceId": "depreciate",
+      "sourceIds": [
+        "depreciate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "liquidacion",
+      "word": "liquidación",
+      "en": "liquidación",
+      "ru": [
+        "ликвидация"
+      ],
+      "example": "En aquel comercio hay una liquidación.",
+      "level": "B1",
+      "sourceId": "liquidation",
+      "sourceIds": [
+        "liquidation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "depreciacion",
+      "word": "depreciación",
+      "en": "depreciación",
+      "ru": [
+        "обесценивание"
+      ],
+      "example": "¿Genera inflación la depreciación del yen?",
+      "level": "B1",
+      "sourceId": "depreciation",
+      "sourceIds": [
+        "depreciation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recesion",
+      "word": "recesión",
+      "en": "recesión",
+      "ru": [
+        "спад",
+        "рецессия"
+      ],
+      "example": "La economía mundial está ahora en recesión.",
+      "level": "B1",
+      "sourceId": "recession",
+      "sourceIds": [
+        "recession"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mar-adentro",
+      "word": "mar adentro",
+      "en": "mar adentro",
+      "ru": [
+        "офшорный",
+        "прибрежный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "offshore",
+      "sourceIds": [
+        "offshore"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "pago",
+      "word": "pago",
+      "en": "pago",
+      "ru": [
+        "выплата"
+      ],
+      "example": "No te obligo a un pago excesivo.",
+      "level": "B1",
+      "sourceId": "payout",
+      "sourceIds": [
+        "payout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recaudacion-de-fondos",
+      "word": "recaudación de fondos",
+      "en": "recaudación de fondos",
+      "ru": [
+        "сбор средств",
+        "мероприятие по сбору средств"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fundraiser",
+      "sourceIds": [
+        "fundraiser"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "malversar",
+      "word": "malversar",
+      "en": "malversar",
+      "ru": [
+        "растрачивать",
+        "присваивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "embezzle",
+      "sourceIds": [
+        "embezzle"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "fianza",
+      "word": "fianza",
+      "en": "fianza",
+      "ru": [
+        "выходить под залог"
+      ],
+      "example": "Eludió la cárcel con una fianza.",
+      "level": "B1",
+      "sourceId": "bail",
+      "sourceIds": [
+        "bail"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cheque",
+      "word": "cheque",
+      "en": "cheque",
+      "ru": [
+        "чек"
+      ],
+      "example": "En esta ventanilla puede cobrar su cheque.",
+      "level": "B1",
+      "sourceId": "cheque",
+      "sourceIds": [
+        "cheque"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gastado",
+      "word": "gastado",
+      "en": "gastado",
+      "ru": [
+        "потраченный"
+      ],
+      "example": "El scénario de esa película es gastado.",
+      "level": "B1",
+      "sourceId": "spent",
+      "sourceIds": [
+        "spent"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "embargo",
+      "word": "embargo",
+      "en": "embargo",
+      "ru": [
+        "лишение права выкупа заложенного имущества"
+      ],
+      "example": "El relato, sin embargo, presenta lagunas importantes.",
+      "level": "B1",
+      "sourceId": "foreclosure",
+      "sourceIds": [
+        "foreclosure"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-bajo-interes",
+      "word": "de bajo interés",
+      "en": "de bajo interés",
+      "ru": [
+        "низкопроцентный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "low-interest",
+      "sourceIds": [
+        "low-interest"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "millonario",
+      "word": "millonario",
+      "en": "millonario",
+      "ru": [
+        "миллионный",
+        "очень дорогой"
+      ],
+      "example": "Ella es la prometida de un millonario.",
+      "level": "B1",
+      "sourceId": "million-dollar",
+      "sourceIds": [
+        "million-dollar"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prepago",
+      "word": "prepago",
+      "en": "prepago",
+      "ru": [
+        "предоплатный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pay-as-you-go",
+      "sourceIds": [
+        "pay-as-you-go"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cajero-automatico",
+      "word": "cajero automático",
+      "en": "cajero automático",
+      "ru": [
+        "банкомат"
+      ],
+      "example": "¿Donde está el cajero automático más cercano?",
+      "level": "B1",
+      "sourceId": "atm",
+      "sourceIds": [
+        "atm"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bien-capitalizado",
+      "word": "bien capitalizado",
+      "en": "bien capitalizado",
+      "ru": [
+        "хорошо капитализированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "well-capitalized",
+      "sourceIds": [
+        "well-capitalized"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "barato",
+      "word": "barato",
+      "en": "barato",
+      "ru": [
+        "недорогой",
+        "бюджетный"
+      ],
+      "example": "Coger el metro en Pequín es barato.",
+      "level": "B1",
+      "sourceId": "low-dollar",
+      "sourceIds": [
+        "low-dollar"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lucrativo",
+      "word": "lucrativo",
+      "en": "lucrativo",
+      "ru": [
+        "прибыльный"
+      ],
+      "example": "Ella siempre está pensando en planes lucrativos.",
+      "level": "B1",
+      "sourceId": "lucrative",
+      "sourceIds": [
+        "lucrative"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimentos",
+      "word": "alimentos",
+      "en": "alimentos",
+      "ru": [
+        "алименты"
+      ],
+      "example": "En esa tienda solamente venden alimentos procesados.",
+      "level": "B1",
+      "sourceId": "alimony",
+      "sourceIds": [
+        "alimony"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "undercut",
+      "word": "undercut",
+      "en": "undercut",
+      "ru": [
+        "подрезать",
+        "сбивать цены"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercut",
+      "sourceIds": [
+        "undercut"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "peso",
+      "word": "peso",
+      "en": "peso",
+      "ru": [
+        "песо"
+      ],
+      "example": "Cada día me peso en una balanza.",
+      "level": "B1",
+      "sourceId": "peso",
+      "sourceIds": [
+        "peso"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frugalidad",
+      "word": "frugalidad",
+      "en": "frugalidad",
+      "ru": [
+        "бережливость",
+        "экономность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frugality",
+      "sourceIds": [
+        "frugality"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "recuperar",
+      "word": "recuperar",
+      "en": "recuperar",
+      "ru": [
+        "возмещать",
+        "окупать"
+      ],
+      "example": "\"¿Se recuperará pronto?\" \"Me temo que no.\"",
+      "level": "B1",
+      "sourceId": "recoup",
+      "sourceIds": [
+        "recoup"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "con-mucha-liquidez",
+      "word": "con mucha liquidez",
+      "en": "con mucha liquidez",
+      "ru": [
+        "богатый наличными"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cash-rich",
+      "sourceIds": [
+        "cash-rich"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "liquidar",
+      "word": "liquidar",
+      "en": "liquidar",
+      "ru": [
+        "ликвидировать"
+      ],
+      "example": "El que liquida deudas, ¡se vuelve más rico!",
+      "level": "B1",
+      "sourceId": "liquidate",
+      "sourceIds": [
+        "liquidate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "liquidez",
+      "word": "liquidez",
+      "en": "liquidez",
+      "ru": [
+        "ликвидность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquidity",
+      "sourceIds": [
+        "liquidity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "extorsionar",
+      "word": "extorsionar",
+      "en": "extorsionar",
+      "ru": [
+        "вымогать"
+      ],
+      "example": "Las extorsiones son habituales entre los delincuentes.",
+      "level": "B1",
+      "sourceId": "extort",
+      "sourceIds": [
+        "extort"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "delincuente",
+      "word": "delincuente",
+      "en": "delincuente",
+      "ru": [
+        "просроченный"
+      ],
+      "example": "La policía tumbó y maniató al delincuente.",
+      "level": "B1",
+      "sourceId": "delinquent",
+      "sourceIds": [
+        "delinquent"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "derecho-de-retencion",
+      "word": "derecho de retención",
+      "en": "derecho de retención",
+      "ru": [
+        "право удержания имущества"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lien",
+      "sourceIds": [
+        "lien"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "reinvertir",
+      "word": "reinvertir",
+      "en": "reinvertir",
+      "ru": [
+        "реинвестировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reinvest",
+      "sourceIds": [
+        "reinvest"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "mal-habido",
+      "word": "mal habido",
+      "en": "mal habido",
+      "ru": [
+        "нечестно нажитый"
+      ],
+      "example": "Creo que ha habido un malentendido.",
+      "level": "B1",
+      "sourceId": "ill-gotten",
+      "sourceIds": [
+        "ill-gotten"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "empenarse",
+      "word": "empeñarse",
+      "en": "empeñarse",
+      "ru": [
+        "закладывать в ломбард"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hock",
+      "sourceIds": [
+        "hock"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "modo-de-ganarse-la-vida",
+      "word": "modo de ganarse la vida",
+      "en": "modo de ganarse la vida",
+      "ru": [
+        "средства к существованию"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "livelihood",
+      "sourceIds": [
+        "livelihood"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "confiscar",
+      "word": "confiscar",
+      "en": "confiscar",
+      "ru": [
+        "конфисковать",
+        "задерживать"
+      ],
+      "example": "El profesor confiscó el móvil de Tom.",
+      "level": "B1",
+      "sourceId": "impound",
+      "sourceIds": [
+        "impound"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asegurar",
+      "word": "asegurar",
+      "en": "asegurar",
+      "ru": [
+        "страховать"
+      ],
+      "example": "Algunos científicos aseguran que el alma existe.",
+      "level": "B1",
+      "sourceId": "insure",
+      "sourceIds": [
+        "insure"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "contribuyente",
+      "word": "contribuyente",
+      "en": "contribuyente",
+      "ru": [
+        "налогоплательщик"
+      ],
+      "example": "El contribuyente no quiere hablar de su trabajo.",
+      "level": "B1",
+      "sourceId": "taxpayer",
+      "sourceIds": [
+        "taxpayer"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deducible",
+      "word": "deducible",
+      "en": "deducible",
+      "ru": [
+        "франшиза",
+        "вычитаемый"
+      ],
+      "example": "Toda contribución es deducible de impuestos.",
+      "level": "B1",
+      "sourceId": "deductible",
+      "sourceIds": [
+        "deductible"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "propina",
+      "word": "propina",
+      "en": "propina",
+      "ru": [
+        "карманные деньги",
+        "пособие"
+      ],
+      "example": "No es educado negarle propina al mozo.",
+      "level": "B1",
+      "sourceId": "allowance",
+      "sourceIds": [
+        "allowance"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aumento-de-sueldo",
+      "word": "aumento de sueldo",
+      "en": "aumento de sueldo",
+      "ru": [
+        "повышение зарплаты"
+      ],
+      "example": "Ellos pidieron un aumento de sueldo.",
+      "level": "B1",
+      "sourceId": "pay-raise",
+      "sourceIds": [
+        "pay-raise"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recompensa",
+      "word": "recompensa",
+      "en": "recompensa",
+      "ru": [
+        "день зарплаты"
+      ],
+      "example": "La recompensa es el trabajo bien hecho.",
+      "level": "B1",
+      "sourceId": "payday",
+      "sourceIds": [
+        "payday"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aumentar",
+      "word": "aumentar",
+      "en": "aumentar",
+      "ru": [
+        "накапливаться",
+        "нарастать"
+      ],
+      "example": "Aumentando la velocidad solo obtendremos más errores.",
+      "level": "B1",
+      "sourceId": "accrue",
+      "sourceIds": [
+        "accrue"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "niquel",
+      "word": "níquel",
+      "en": "níquel",
+      "ru": [
+        "никель",
+        "пять центов"
+      ],
+      "example": "El níquel es un elemento de transición.",
+      "level": "B1",
+      "sourceId": "nickel",
+      "sourceIds": [
+        "nickel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "es-cierto",
+      "word": "es cierto",
+      "en": "es cierto",
+      "ru": [
+        "действительно",
+        "правда",
+        "согласен"
+      ],
+      "example": "\"¿Es eso cierto?!\" \"¡Lo juro por Dios!\"",
+      "level": "B1",
+      "sourceId": "granted",
+      "sourceIds": [
+        "granted"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arpu",
+      "word": "ARPU",
+      "en": "ARPU",
+      "ru": [
+        "средняя выручка на одного пользователя"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "arpu",
+      "sourceIds": [
+        "arpu"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "flujo-de-caja",
+      "word": "flujo de caja",
+      "en": "flujo de caja",
+      "ru": [
+        "денежный поток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cashflow",
+      "sourceIds": [
+        "cashflow"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "freemium",
+      "word": "freemium",
+      "en": "freemium",
+      "ru": [
+        "фримиум"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "freemium",
+      "sourceIds": [
+        "freemium"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kyc",
+      "word": "KYC",
+      "en": "KYC",
+      "ru": [
+        "знай своего клиента",
+        "идентификация клиента"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kyc",
+      "sourceIds": [
+        "kyc"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "transaccion-por-qr",
+      "word": "transacción por QR",
+      "en": "transacción por QR",
+      "ru": [
+        "транзакция по QR-коду"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "qr-transaction",
+      "sourceIds": [
+        "qr-transaction"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "chequera",
+      "word": "chequera",
+      "en": "chequera",
+      "ru": [
+        "чековая книжка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "checkbook",
+      "sourceIds": [
+        "checkbook"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "recaudacion",
+      "word": "recaudación",
+      "en": "recaudación",
+      "ru": [
+        "выручка"
+      ],
+      "example": "La recaudación de la velada será destinada a una organización benéfica.",
+      "level": "B1",
+      "sourceId": "takings",
+      "sourceIds": [
+        "takings"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "billete-de-cinco-libras",
+      "word": "billete de cinco libras",
+      "en": "billete de cinco libras",
+      "ru": [
+        "пятифунтовая купюра"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fiver",
+      "sourceIds": [
+        "fiver"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "jugador-cedido",
+      "word": "jugador cedido",
+      "en": "jugador cedido",
+      "ru": [
+        "заемщик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "loanee",
+      "sourceIds": [
+        "loanee"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "impuesto-especial",
+      "word": "impuesto especial",
+      "en": "impuesto especial",
+      "ru": [
+        "акциз",
+        "акцизный сбор"
+      ],
+      "example": "Se impuso un impuesto especial a los coches importados.",
+      "level": "B1",
+      "sourceId": "excise",
+      "sourceIds": [
+        "excise"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gastador",
+      "word": "gastador",
+      "en": "gastador",
+      "ru": [
+        "транжира",
+        "покупатель"
+      ],
+      "example": "Quiero ser el menos gastador.",
+      "level": "B1",
+      "sourceId": "spender",
+      "sourceIds": [
+        "spender"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "extorsion",
+      "word": "extorsión",
+      "en": "extorsión",
+      "ru": [
+        "вымогательство",
+        "обыск"
+      ],
+      "example": "Las extorsiones son habituales entre los delincuentes.",
+      "level": "B1",
+      "sourceId": "shakedown",
+      "sourceIds": [
+        "shakedown"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "descapitalizado",
+      "word": "descapitalizado",
+      "en": "descapitalizado",
+      "ru": [
+        "недокапитализированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercapitalized",
+      "sourceIds": [
+        "undercapitalized"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sacar-partido",
+      "word": "sacar partido",
+      "en": "sacar partido",
+      "ru": [
+        "использовать с выгодой"
+      ],
+      "example": "Deberías sacarle el máximo partido a tus capacidades.",
+      "level": "B1",
+      "sourceId": "parlay",
+      "sourceIds": [
+        "parlay"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "invitar",
+      "word": "invitar",
+      "en": "invitar",
+      "ru": [
+        "компенсация",
+        "бесплатный"
+      ],
+      "example": "Deberías haberle invitado, pero no lo hiciste.",
+      "level": "B1",
+      "sourceId": "comp",
+      "sourceIds": [
+        "comp"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sosten-de-la-familia",
+      "word": "sostén de la familia",
+      "en": "sostén de la familia",
+      "ru": [
+        "кормилец",
+        "зарабатывающий"
+      ],
+      "example": "Él tenía una gran familia que sostener.",
+      "level": "B1",
+      "sourceId": "earner",
+      "sourceIds": [
+        "earner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

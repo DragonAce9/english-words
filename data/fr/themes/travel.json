@@ -1,0 +1,4021 @@
+{
+  "id": "travel",
+  "title": "Путешествия",
+  "paid": false,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "aeroport",
+      "word": "aéroport",
+      "en": "aéroport",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "gender": "m",
+      "example": "Nous sommes arrivés à l'aéroport en avance.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "billet",
+      "word": "billet",
+      "en": "billet",
+      "sourceId": "ticket",
+      "sourceIds": [
+        "ticket"
+      ],
+      "ru": [
+        "билет",
+        "лицензия",
+        "разрешение"
+      ],
+      "gender": "m",
+      "example": "J'ai acheté un billet pour Londres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "passeport",
+      "word": "passeport",
+      "en": "passeport",
+      "sourceId": "passport",
+      "sourceIds": [
+        "passport"
+      ],
+      "ru": [
+        "паспорт",
+        "заграничный паспорт",
+        "загран"
+      ],
+      "gender": "m",
+      "example": "N'oublie pas ton passeport à la maison.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bagages",
+      "word": "bagages",
+      "en": "bagages",
+      "sourceId": "luggage",
+      "sourceIds": [
+        "luggage"
+      ],
+      "ru": [
+        "багаж",
+        "кладь",
+        "поклажа"
+      ],
+      "gender": "m",
+      "example": "Ses bagages l'attendaient sur le tapis roulant.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "hotel",
+      "word": "hôtel",
+      "en": "hôtel",
+      "sourceId": "hotel",
+      "sourceIds": [
+        "hotel"
+      ],
+      "ru": [
+        "отель",
+        "гостиница"
+      ],
+      "gender": "m",
+      "example": "L'hôtel est proche de la gare.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "vol",
+      "word": "vol",
+      "en": "vol",
+      "sourceId": "flight",
+      "sourceIds": [
+        "flight"
+      ],
+      "ru": [
+        "рейс",
+        "полёт",
+        "бегство"
+      ],
+      "gender": "m",
+      "example": "Notre vol a été retardé d'une heure.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depart",
+      "word": "départ",
+      "en": "départ",
+      "sourceId": "departure",
+      "sourceIds": [
+        "departure"
+      ],
+      "ru": [
+        "отправление",
+        "вылет",
+        "отклонение"
+      ],
+      "gender": "m",
+      "example": "Le départ est à six heures du matin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "arrivee",
+      "word": "arrivée",
+      "en": "arrivée",
+      "sourceId": "arrival",
+      "sourceIds": [
+        "arrival"
+      ],
+      "ru": [
+        "прибытие",
+        "приезд",
+        "прилёт"
+      ],
+      "gender": "f",
+      "example": "Veuillez patienter dans le hall des arrivées.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "carte",
+      "word": "carte",
+      "en": "carte",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "gender": "f",
+      "example": "Cette carte montre la vieille ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "valise",
+      "word": "valise",
+      "en": "valise",
+      "sourceId": "suitcase",
+      "sourceIds": [
+        "suitcase"
+      ],
+      "ru": [
+        "чемодан"
+      ],
+      "gender": "f",
+      "example": "Il a fait sa valise hier soir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "frontiere",
+      "word": "frontière",
+      "en": "frontière",
+      "sourceId": "border",
+      "sourceIds": [
+        "border"
+      ],
+      "ru": [
+        "граница",
+        "кордон",
+        "межа"
+      ],
+      "gender": "f",
+      "example": "Nous avons traversé la frontière à pied.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "touriste",
+      "word": "touriste",
+      "en": "touriste",
+      "sourceId": "tourist",
+      "sourceIds": [
+        "tourist"
+      ],
+      "ru": [
+        "турист",
+        "путешественник",
+        "путешественница"
+      ],
+      "gender": "m",
+      "example": "Beaucoup de touristes visitent le musée.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "etranger",
+      "word": "étranger",
+      "en": "étranger",
+      "sourceId": "abroad",
+      "sourceIds": [
+        "abroad"
+      ],
+      "ru": [
+        "за границей",
+        "за границу",
+        "за кордоном"
+      ],
+      "gender": "m",
+      "example": "Il travaille à l'étranger.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "logement",
+      "word": "logement",
+      "en": "logement",
+      "sourceId": "accommodation",
+      "sourceIds": [
+        "accommodation"
+      ],
+      "ru": [
+        "жильё",
+        "жилище",
+        "расквартирование"
+      ],
+      "gender": "m",
+      "example": "Nous cherchons un logement près de l'université.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "aventure",
+      "word": "aventure",
+      "en": "aventure",
+      "sourceId": "adventure",
+      "sourceIds": [
+        "adventure"
+      ],
+      "ru": [
+        "приключение",
+        "событие",
+        "авантюра"
+      ],
+      "gender": "f",
+      "example": "Nous avons vécu une aventure incroyable en montagne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aventurier",
+      "word": "aventurier",
+      "en": "aventurier",
+      "sourceId": "adventurer",
+      "sourceIds": [
+        "adventurer"
+      ],
+      "ru": [
+        "искатель приключений",
+        "искательница приключений",
+        "авантюрист"
+      ],
+      "gender": "m",
+      "example": "Il est un grand aventurier qui a parcouru le monde entier.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "aventuriere",
+      "word": "aventurière",
+      "en": "aventurière",
+      "sourceId": "adventuress",
+      "sourceIds": [
+        "adventuress"
+      ],
+      "ru": [
+        "авантюристка"
+      ],
+      "gender": "f",
+      "example": "Elle est une véritable aventurière qui parcourt le monde entier.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "sourceId": "aircraft",
+      "sourceIds": [
+        "aircraft"
+      ],
+      "ru": [
+        "самолёт",
+        "летательный аппарат",
+        "воздушное судно"
+      ],
+      "gender": "m",
+      "example": "L'avion a décollé à l'heure prévue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "compagnie-aerienne",
+      "word": "compagnie aérienne",
+      "en": "compagnie aérienne",
+      "sourceId": "airline",
+      "sourceIds": [
+        "airline"
+      ],
+      "ru": [
+        "авиакомпания",
+        "авиалинии",
+        "авиапредприятие"
+      ],
+      "gender": "f",
+      "example": "Cette compagnie aérienne propose des vols directs vers Paris.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "avion-de-ligne",
+      "word": "avion de ligne",
+      "en": "avion de ligne",
+      "sourceId": "airliner",
+      "sourceIds": [
+        "airliner"
+      ],
+      "ru": [
+        "авиалайнер",
+        "воздушный лайнер",
+        "пассажирский самолёт"
+      ],
+      "gender": "m",
+      "example": "L'avion de ligne a atterri à l'heure.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "sourceId": "airplane",
+      "sourceIds": [
+        "airplane"
+      ],
+      "ru": [
+        "самолёт",
+        "аэроплан"
+      ],
+      "gender": "m",
+      "example": "L'avion décolle à l'heure prévue.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "avenue",
+      "word": "avenue",
+      "en": "avenue",
+      "sourceId": "avenue",
+      "sourceIds": [
+        "avenue"
+      ],
+      "ru": [
+        "авеню",
+        "проспект"
+      ],
+      "gender": "f",
+      "example": "Il habite sur une grande avenue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sac-a-dos",
+      "word": "sac à dos",
+      "en": "sac à dos",
+      "sourceId": "backpack",
+      "sourceIds": [
+        "backpack"
+      ],
+      "ru": [
+        "рюкзак",
+        "ранец"
+      ],
+      "gender": "m",
+      "example": "J'ai mis mes livres dans mon sac à dos.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "routard",
+      "word": "routard",
+      "en": "routard",
+      "sourceId": "backpacker",
+      "sourceIds": [
+        "backpacker"
+      ],
+      "ru": [
+        "бэкпэкер",
+        "пеший турист",
+        "пешая туристка"
+      ],
+      "gender": "m",
+      "example": "Le routard voyage avec un sac à dos.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "randonnee",
+      "word": "randonnée",
+      "en": "randonnée",
+      "sourceId": "backpacking",
+      "sourceIds": [
+        "backpacking"
+      ],
+      "ru": [
+        "бэкпэкинг"
+      ],
+      "gender": "f",
+      "example": "Il adore partir en randonnée avec son sac à dos.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "balcon",
+      "word": "balcon",
+      "en": "balcon",
+      "sourceId": "balcony",
+      "sourceIds": [
+        "balcony"
+      ],
+      "ru": [
+        "балкон"
+      ],
+      "gender": "m",
+      "example": "Nous avons pris le petit-déjeuner sur le balcon.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "plage",
+      "word": "plage",
+      "en": "plage",
+      "sourceId": "beach",
+      "sourceIds": [
+        "beach"
+      ],
+      "ru": [
+        "пляж",
+        "взморье"
+      ],
+      "gender": "f",
+      "example": "Nous allons à la plage cet après-midi.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "velo",
+      "word": "vélo",
+      "en": "vélo",
+      "sourceId": "bicycle",
+      "sourceIds": [
+        "bicycle"
+      ],
+      "ru": [
+        "велосипед",
+        "велик",
+        "педалировать"
+      ],
+      "gender": "m",
+      "example": "Je vais au travail à vélo.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "embarquement",
+      "word": "embarquement",
+      "en": "embarquement",
+      "sourceId": "boarding",
+      "sourceIds": [
+        "boarding"
+      ],
+      "ru": [
+        "посадка",
+        "абордаж"
+      ],
+      "gender": "m",
+      "example": "L'embarquement pour le vol AF123 commence à la porte B4.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bateau",
+      "word": "bateau",
+      "en": "bateau",
+      "sourceId": "boat",
+      "sourceIds": [
+        "boat"
+      ],
+      "ru": [
+        "лодка",
+        "бот",
+        "ладья"
+      ],
+      "gender": "m",
+      "example": "Le bateau navigue sur la rivière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "reservation",
+      "word": "réservation",
+      "en": "réservation",
+      "sourceId": "booking",
+      "sourceIds": [
+        "booking"
+      ],
+      "ru": [
+        "бронирование",
+        "бронь"
+      ],
+      "gender": "f",
+      "example": "J'ai fait une réservation pour deux personnes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "boulevard",
+      "word": "boulevard",
+      "en": "boulevard",
+      "sourceId": "boulevard",
+      "sourceIds": [
+        "boulevard"
+      ],
+      "ru": [
+        "бульвар",
+        "проспект"
+      ],
+      "gender": "m",
+      "example": "Il habite sur un grand boulevard.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "pont",
+      "word": "pont",
+      "en": "pont",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "ru": [
+        "мост"
+      ],
+      "gender": "m",
+      "example": "Le pont traverse la rivière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bus",
+      "word": "bus",
+      "en": "bus",
+      "sourceId": "bus",
+      "sourceIds": [
+        "bus"
+      ],
+      "ru": [
+        "автобус"
+      ],
+      "gender": "m",
+      "example": "Je prends le bus pour aller au travail.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cabane",
+      "word": "cabane",
+      "en": "cabane",
+      "sourceId": "cabin",
+      "sourceIds": [
+        "cabin"
+      ],
+      "ru": [
+        "домик",
+        "лачуга",
+        "хижина"
+      ],
+      "gender": "f",
+      "example": "Nous avons passé le week-end dans une petite cabane en bois.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "camping",
+      "word": "camping",
+      "en": "camping",
+      "sourceId": "camping",
+      "sourceIds": [
+        "camping"
+      ],
+      "ru": [
+        "проживание в лагере",
+        "жизнь в палатке"
+      ],
+      "gender": "m",
+      "example": "Nous faisons du camping cet été.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voiture",
+      "word": "voiture",
+      "en": "voiture",
+      "sourceId": "car",
+      "sourceIds": [
+        "car"
+      ],
+      "ru": [
+        "авто",
+        "автомашина",
+        "автомобиль"
+      ],
+      "gender": "f",
+      "example": "Elle conduit une nouvelle voiture.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "carrosse",
+      "word": "carrosse",
+      "en": "carrosse",
+      "sourceId": "carriage",
+      "sourceIds": [
+        "carriage"
+      ],
+      "ru": [
+        "карета",
+        "воз",
+        "повозка"
+      ],
+      "gender": "m",
+      "example": "Le roi voyageait dans un carrosse doré.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chaussee",
+      "word": "chaussée",
+      "en": "chaussée",
+      "sourceId": "carriageway",
+      "sourceIds": [
+        "carriageway"
+      ],
+      "ru": [
+        "проезжая часть"
+      ],
+      "gender": "f",
+      "example": "La voiture roule sur la chaussée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chateau",
+      "word": "château",
+      "en": "château",
+      "sourceId": "castle",
+      "sourceIds": [
+        "castle"
+      ],
+      "ru": [
+        "замок"
+      ],
+      "gender": "m",
+      "example": "Le château est situé sur la colline.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "roque",
+      "word": "roque",
+      "en": "roque",
+      "sourceId": "castling",
+      "sourceIds": [
+        "castling"
+      ],
+      "ru": [
+        "рокировка"
+      ],
+      "gender": "m",
+      "example": "Le roque est un coup spécial au jeu d'échecs.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cathedrale",
+      "word": "cathédrale",
+      "en": "cathédrale",
+      "sourceId": "cathedral",
+      "sourceIds": [
+        "cathedral"
+      ],
+      "ru": [
+        "кафедральный собор",
+        "собор"
+      ],
+      "gender": "f",
+      "example": "La cathédrale Notre-Dame est un monument historique.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "enregistrement",
+      "word": "enregistrement",
+      "en": "enregistrement",
+      "sourceId": "check-in",
+      "sourceIds": [
+        "check-in"
+      ],
+      "ru": [
+        "регистрация",
+        "чек-ин"
+      ],
+      "gender": "m",
+      "example": "L'enregistrement pour le vol se fait au comptoir numéro quatre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "caisse",
+      "word": "caisse",
+      "en": "caisse",
+      "sourceId": "checkout",
+      "sourceIds": [
+        "checkout"
+      ],
+      "ru": [
+        "касса"
+      ],
+      "gender": "f",
+      "example": "Je fais la queue à la caisse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "carrosse",
+      "word": "carrosse",
+      "en": "carrosse",
+      "sourceId": "coach",
+      "sourceIds": [
+        "coach"
+      ],
+      "ru": [
+        "дилижанс",
+        "карета",
+        "коляска"
+      ],
+      "gender": "m",
+      "example": "Le roi voyageait dans un carrosse doré.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cote",
+      "word": "côte",
+      "en": "côte",
+      "sourceId": "coast",
+      "sourceIds": [
+        "coast"
+      ],
+      "ru": [
+        "побережье",
+        "морской берег",
+        "берег"
+      ],
+      "gender": "f",
+      "example": "Nous avons passé nos vacances sur la côte.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "caboteur",
+      "word": "caboteur",
+      "en": "caboteur",
+      "sourceId": "coaster",
+      "sourceIds": [
+        "coaster"
+      ],
+      "ru": [
+        "поморянин",
+        "каботажное судно"
+      ],
+      "gender": "m",
+      "example": "Le petit caboteur transporte des marchandises le long de la côte.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "boussole",
+      "word": "boussole",
+      "en": "boussole",
+      "sourceId": "compass",
+      "sourceIds": [
+        "compass"
+      ],
+      "ru": [
+        "компас"
+      ],
+      "gender": "f",
+      "example": "Il utilise une boussole pour s'orienter en forêt.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "compassion",
+      "word": "compassion",
+      "en": "compassion",
+      "sourceId": "compassion",
+      "sourceIds": [
+        "compassion"
+      ],
+      "ru": [
+        "сострадание",
+        "сопереживание",
+        "сочувствие"
+      ],
+      "gender": "f",
+      "example": "Il a fait preuve d'une grande compassion envers les victimes.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "compatissant",
+      "word": "compatissant",
+      "en": "compatissant",
+      "sourceId": "compassionate",
+      "sourceIds": [
+        "compassionate"
+      ],
+      "ru": [
+        "сострадающий",
+        "сочувствующий"
+      ],
+      "gender": null,
+      "example": "Elle est très compatissante envers les personnes âgées.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "confirmer",
+      "word": "confirmer",
+      "en": "confirmer",
+      "sourceId": "confirm",
+      "sourceIds": [
+        "confirm"
+      ],
+      "ru": [
+        "подкрепить",
+        "подкреплять",
+        "подтвердить"
+      ],
+      "gender": null,
+      "example": "Il a confirmé sa présence à la réunion.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "confirmation",
+      "word": "confirmation",
+      "en": "confirmation",
+      "sourceId": "confirmation",
+      "sourceIds": [
+        "confirmation"
+      ],
+      "ru": [
+        "подтверждение"
+      ],
+      "gender": "f",
+      "example": "J'attends la confirmation de ma réservation.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "confirme",
+      "word": "confirmé",
+      "en": "confirmé",
+      "sourceId": "confirmed",
+      "sourceIds": [
+        "confirmed"
+      ],
+      "ru": [
+        "подтвержденный"
+      ],
+      "gender": null,
+      "example": "Le rendez-vous est confirmé pour demain.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "rural",
+      "word": "rural",
+      "en": "rural",
+      "sourceId": "country",
+      "sourceIds": [
+        "country"
+      ],
+      "ru": [
+        "деревенский",
+        "сельский",
+        "край"
+      ],
+      "gender": null,
+      "example": "Il vit dans une zone rurale.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "campagne",
+      "word": "campagne",
+      "en": "campagne",
+      "sourceId": "countryside",
+      "sourceIds": [
+        "countryside"
+      ],
+      "ru": [
+        "сельская местность",
+        "деревня",
+        "село"
+      ],
+      "gender": "f",
+      "example": "Nous passons le week-end à la campagne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "passage-pieton",
+      "word": "passage piéton",
+      "en": "passage piéton",
+      "sourceId": "crosswalk",
+      "sourceIds": [
+        "crosswalk"
+      ],
+      "ru": [
+        "пешеходный переход"
+      ],
+      "gender": "m",
+      "example": "Il traverse la rue sur le passage piéton.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "croisiere",
+      "word": "croisière",
+      "en": "croisière",
+      "sourceId": "cruise",
+      "sourceIds": [
+        "cruise"
+      ],
+      "ru": [
+        "круиз",
+        "морское путешествие",
+        "плавание"
+      ],
+      "gender": "f",
+      "example": "Nous avons fait une croisière dans les Caraïbes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "croiseur",
+      "word": "croiseur",
+      "en": "croiseur",
+      "sourceId": "cruiser",
+      "sourceIds": [
+        "cruiser"
+      ],
+      "ru": [
+        "крейсер"
+      ],
+      "gender": "m",
+      "example": "Le croiseur a quitté le port ce matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "douane",
+      "word": "douane",
+      "en": "douane",
+      "sourceId": "customs",
+      "sourceIds": [
+        "customs"
+      ],
+      "ru": [
+        "таможня",
+        "таможенный сбор",
+        "таможенная пошлина"
+      ],
+      "gender": "f",
+      "example": "Nous avons dû déclarer nos achats à la douane.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "retard",
+      "word": "retard",
+      "en": "retard",
+      "sourceId": "delay",
+      "sourceIds": [
+        "delay"
+      ],
+      "ru": [
+        "задержка",
+        "опоздание",
+        "промедление"
+      ],
+      "gender": "m",
+      "example": "Le train a eu un retard de dix minutes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "destination",
+      "word": "destination",
+      "en": "destination",
+      "sourceId": "destination",
+      "sourceIds": [
+        "destination"
+      ],
+      "ru": [
+        "место назначения",
+        "пункт назначения",
+        "назначение"
+      ],
+      "gender": "f",
+      "example": "Quelle est votre destination finale ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "en": "direction",
+      "sourceId": "direction",
+      "sourceIds": [
+        "direction"
+      ],
+      "ru": [
+        "направление",
+        "режиссура",
+        "руководство"
+      ],
+      "gender": "f",
+      "example": "Il a pris la bonne direction pour arriver à la gare.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "district",
+      "word": "district",
+      "en": "district",
+      "sourceId": "district",
+      "sourceIds": [
+        "district"
+      ],
+      "ru": [
+        "дистрикт",
+        "область",
+        "округ"
+      ],
+      "gender": "m",
+      "example": "Il habite dans le district financier de la ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "centre-ville",
+      "word": "centre-ville",
+      "en": "centre-ville",
+      "sourceId": "downtown",
+      "sourceIds": [
+        "downtown"
+      ],
+      "ru": [
+        "деловая часть города",
+        "сити",
+        "центр"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de magasins dans le centre-ville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "conducteur",
+      "word": "conducteur",
+      "en": "conducteur",
+      "sourceId": "driver",
+      "sourceIds": [
+        "driver"
+      ],
+      "ru": [
+        "водитель",
+        "водительница",
+        "погонщик"
+      ],
+      "gender": "m",
+      "example": "Le conducteur a garé sa voiture devant la maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "est",
+      "word": "est",
+      "en": "est",
+      "sourceId": "east",
+      "sourceIds": [
+        "east"
+      ],
+      "ru": [
+        "восточный",
+        "ост",
+        "восток"
+      ],
+      "gender": "m",
+      "example": "Le soleil se lève à l'est.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "ambassade",
+      "word": "ambassade",
+      "en": "ambassade",
+      "sourceId": "embassy",
+      "sourceIds": [
+        "embassy"
+      ],
+      "ru": [
+        "посольство"
+      ],
+      "gender": "f",
+      "example": "Il travaille à l'ambassade de France.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "excursion",
+      "word": "excursion",
+      "en": "excursion",
+      "sourceId": "excursion",
+      "sourceIds": [
+        "excursion"
+      ],
+      "ru": [
+        "экскурсия",
+        "экскурс"
+      ],
+      "gender": "f",
+      "example": "Nous avons fait une excursion en montagne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "explorer",
+      "word": "explorer",
+      "en": "explorer",
+      "sourceId": "explore",
+      "sourceIds": [
+        "explore"
+      ],
+      "ru": [
+        "исследовать",
+        "осматривать",
+        "осмотреть"
+      ],
+      "gender": null,
+      "example": "Nous allons explorer cette grotte demain.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "explorateur",
+      "word": "explorateur",
+      "en": "explorateur",
+      "sourceId": "explorer",
+      "sourceIds": [
+        "explorer"
+      ],
+      "ru": [
+        "исследователь",
+        "исследовательница",
+        "зонд"
+      ],
+      "gender": "m",
+      "example": "L'explorateur a découvert une nouvelle île.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tarif",
+      "word": "tarif",
+      "en": "tarif",
+      "sourceId": "fare",
+      "sourceIds": [
+        "fare"
+      ],
+      "ru": [
+        "плата за проезд",
+        "стоимость проезда",
+        "тариф"
+      ],
+      "gender": "m",
+      "example": "Le tarif du billet de train a augmenté.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "ferry",
+      "word": "ferry",
+      "en": "ferry",
+      "sourceId": "ferry",
+      "sourceIds": [
+        "ferry"
+      ],
+      "ru": [
+        "паром"
+      ],
+      "gender": "m",
+      "example": "Le ferry traverse la Manche tous les jours.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "etranger",
+      "word": "étranger",
+      "en": "étranger",
+      "sourceId": "foreign",
+      "sourceIds": [
+        "foreign"
+      ],
+      "ru": [
+        "иностранный",
+        "заграничный",
+        "зарубежный"
+      ],
+      "gender": null,
+      "example": "Il parle une langue étrangère.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "etranger",
+      "word": "étranger",
+      "en": "étranger",
+      "sourceId": "foreigner",
+      "sourceIds": [
+        "foreigner"
+      ],
+      "ru": [
+        "иноземец",
+        "иноземка",
+        "иностранец"
+      ],
+      "gender": "m",
+      "example": "Il est étranger dans ce pays.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "etrangete",
+      "word": "étrangeté",
+      "en": "étrangeté",
+      "sourceId": "foreignness",
+      "sourceIds": [
+        "foreignness"
+      ],
+      "ru": [
+        "чуждость"
+      ],
+      "gender": "f",
+      "example": "Il ressentait une certaine étrangeté dans ce nouveau pays.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "portail",
+      "word": "portail",
+      "en": "portail",
+      "sourceId": "gate",
+      "sourceIds": [
+        "gate"
+      ],
+      "ru": [
+        "ворота",
+        "врата",
+        "калитка"
+      ],
+      "gender": "m",
+      "example": "Il a fermé le portail derrière lui.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "invite",
+      "word": "invité",
+      "en": "invité",
+      "sourceId": "guest",
+      "sourceIds": [
+        "guest"
+      ],
+      "ru": [
+        "гость",
+        "гостья",
+        "клиент"
+      ],
+      "gender": "m",
+      "example": "Nous avons invité nos amis à dîner.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "guide",
+      "word": "guide",
+      "en": "guide",
+      "sourceId": "guide",
+      "sourceIds": [
+        "guide"
+      ],
+      "ru": [
+        "гид",
+        "проводник",
+        "проводница"
+      ],
+      "gender": "m",
+      "example": "Le guide nous a montré les monuments de la ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "port",
+      "word": "port",
+      "en": "port",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "gender": "m",
+      "example": "Le bateau est entré dans le port.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "helicoptere",
+      "word": "hélicoptère",
+      "en": "hélicoptère",
+      "sourceId": "helicopter",
+      "sourceIds": [
+        "helicopter"
+      ],
+      "ru": [
+        "вертолёт",
+        "геликоптер"
+      ],
+      "gender": "m",
+      "example": "L'hélicoptère a atterri sur le toit de l'hôpital.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "gender": "f",
+      "example": "Nous prenons l'autoroute pour aller à Paris.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brigand",
+      "word": "brigand",
+      "en": "brigand",
+      "sourceId": "highwayman",
+      "sourceIds": [
+        "highwayman"
+      ],
+      "ru": [
+        "разбойник с большой дороги"
+      ],
+      "gender": "m",
+      "example": "Le brigand a attaqué la diligence sur la route isolée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "vacances",
+      "word": "vacances",
+      "en": "vacances",
+      "sourceId": "holiday",
+      "sourceIds": [
+        "holiday"
+      ],
+      "ru": [
+        "отпуск",
+        "праздник",
+        "каникулы"
+      ],
+      "gender": "f",
+      "example": "Je pars en vacances en juillet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vacancier",
+      "word": "vacancier",
+      "en": "vacancier",
+      "sourceId": "holiday-maker",
+      "sourceIds": [
+        "holiday-maker"
+      ],
+      "ru": [
+        "курортник",
+        "курортница",
+        "отдыхающий"
+      ],
+      "gender": "m",
+      "example": "Les vacanciers profitent du soleil sur la plage.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "auberge-de-jeunesse",
+      "word": "auberge de jeunesse",
+      "en": "auberge de jeunesse",
+      "sourceId": "hostel",
+      "sourceIds": [
+        "hostel"
+      ],
+      "ru": [
+        "мини-отель",
+        "общежитие",
+        "турбаза"
+      ],
+      "gender": "f",
+      "example": "Nous avons réservé une nuit dans une auberge de jeunesse.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "auberge",
+      "word": "auberge",
+      "en": "auberge",
+      "sourceId": "inn",
+      "sourceIds": [
+        "inn"
+      ],
+      "ru": [
+        "гостиница",
+        "корчма",
+        "постоялый двор"
+      ],
+      "gender": "f",
+      "example": "Nous avons passé la nuit dans une petite auberge de campagne.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "carrefour",
+      "word": "carrefour",
+      "en": "carrefour",
+      "sourceId": "intersection",
+      "sourceIds": [
+        "intersection"
+      ],
+      "ru": [
+        "перекрёсток",
+        "пересечение"
+      ],
+      "gender": "m",
+      "example": "Il y a un accident au carrefour.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "couvrir",
+      "word": "couvrir",
+      "en": "couvrir",
+      "sourceId": "island",
+      "sourceIds": [
+        "island"
+      ],
+      "ru": [
+        "остров",
+        "покрыть",
+        "покрывать"
+      ],
+      "gender": null,
+      "example": "La neige va couvrir tout le jardin.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "journey",
+      "sourceIds": [
+        "journey"
+      ],
+      "ru": [
+        "путешествие",
+        "вояж",
+        "поездка"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un long voyage en train.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "allee",
+      "word": "allée",
+      "en": "allée",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "gender": "f",
+      "example": "Nous avons marché dans une allée bordée d'arbres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "laisser",
+      "word": "laisser",
+      "en": "laisser",
+      "sourceId": "leave",
+      "sourceIds": [
+        "leave"
+      ],
+      "ru": [
+        "уходить",
+        "оставлять"
+      ],
+      "gender": null,
+      "example": "Laisse la porte ouverte.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "limite",
+      "word": "limite",
+      "en": "limite",
+      "sourceId": "limit",
+      "sourceIds": [
+        "limit"
+      ],
+      "ru": [
+        "граница",
+        "предел",
+        "лимит"
+      ],
+      "gender": "f",
+      "example": "Il y a une limite à sa patience.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hall",
+      "word": "hall",
+      "en": "hall",
+      "sourceId": "lobby",
+      "sourceIds": [
+        "lobby"
+      ],
+      "ru": [
+        "холл",
+        "вестибюль",
+        "коридор"
+      ],
+      "gender": "m",
+      "example": "Nous attendons nos amis dans le hall de l'hôtel.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "pavillon",
+      "word": "pavillon",
+      "en": "pavillon",
+      "sourceId": "lodge",
+      "sourceIds": [
+        "lodge"
+      ],
+      "ru": [
+        "домик",
+        "будка",
+        "сторожка"
+      ],
+      "gender": "m",
+      "example": "Ils ont passé le week-end dans un petit pavillon de chasse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "locataire",
+      "word": "locataire",
+      "en": "locataire",
+      "sourceId": "lodger",
+      "sourceIds": [
+        "lodger"
+      ],
+      "ru": [
+        "жилец",
+        "жилица",
+        "квартирант"
+      ],
+      "gender": "m",
+      "example": "Le locataire paie son loyer chaque mois.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "logement",
+      "word": "logement",
+      "en": "logement",
+      "sourceId": "lodging",
+      "sourceIds": [
+        "lodging"
+      ],
+      "ru": [
+        "жилище",
+        "жильё",
+        "ночлег"
+      ],
+      "gender": "m",
+      "example": "Il cherche un logement près de son travail.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "mappage",
+      "word": "mappage",
+      "en": "mappage",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "ru": [
+        "отображение"
+      ],
+      "gender": "m",
+      "example": "Le mappage des données est essentiel pour la migration.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "monument",
+      "word": "monument",
+      "en": "monument",
+      "sourceId": "monument",
+      "sourceIds": [
+        "monument"
+      ],
+      "ru": [
+        "памятник",
+        "монумент"
+      ],
+      "gender": "m",
+      "example": "La tour Eiffel est un monument célèbre à Paris.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "monumental",
+      "word": "monumental",
+      "en": "monumental",
+      "sourceId": "monumental",
+      "sourceIds": [
+        "monumental"
+      ],
+      "ru": [
+        "монументальный"
+      ],
+      "gender": null,
+      "example": "Cette statue est vraiment monumentale.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "motel",
+      "word": "motel",
+      "en": "motel",
+      "sourceId": "motel",
+      "sourceIds": [
+        "motel"
+      ],
+      "ru": [
+        "автопансионат",
+        "мотель"
+      ],
+      "gender": "m",
+      "example": "Nous avons passé la nuit dans un motel au bord de l'autoroute.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "moto",
+      "word": "moto",
+      "en": "moto",
+      "sourceId": "motorcycle",
+      "sourceIds": [
+        "motorcycle"
+      ],
+      "ru": [
+        "мотоцикл"
+      ],
+      "gender": "f",
+      "example": "Il va au travail en moto.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "autoroute",
+      "word": "autoroute",
+      "en": "autoroute",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "gender": "f",
+      "example": "Nous prenons l'autoroute pour aller à Paris.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "musee",
+      "word": "musée",
+      "en": "musée",
+      "sourceId": "museum",
+      "sourceIds": [
+        "museum"
+      ],
+      "ru": [
+        "музей"
+      ],
+      "gender": "m",
+      "example": "Nous avons visité le musée hier.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "nord",
+      "word": "nord",
+      "en": "nord",
+      "sourceId": "north",
+      "sourceIds": [
+        "north"
+      ],
+      "ru": [
+        "северный",
+        "север",
+        "к северу"
+      ],
+      "gender": null,
+      "example": "Le vent vient du nord.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "palais",
+      "word": "palais",
+      "en": "palais",
+      "sourceId": "palace",
+      "sourceIds": [
+        "palace"
+      ],
+      "ru": [
+        "дворец",
+        "чертог"
+      ],
+      "gender": "m",
+      "example": "Le roi habite dans un grand palais.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "parking",
+      "word": "parking",
+      "en": "parking",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "gender": "m",
+      "example": "Il y a un grand parking devant le supermarché.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "passager",
+      "word": "passager",
+      "en": "passager",
+      "sourceId": "passenger",
+      "sourceIds": [
+        "passenger"
+      ],
+      "ru": [
+        "пассажир",
+        "пассажирка"
+      ],
+      "gender": "m",
+      "example": "Le passager a oublié son sac dans le train.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "pieton",
+      "word": "piéton",
+      "en": "piéton",
+      "sourceId": "pedestrian",
+      "sourceIds": [
+        "pedestrian"
+      ],
+      "ru": [
+        "пешеход"
+      ],
+      "gender": null,
+      "example": "Il y a beaucoup de piétons dans cette rue.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "pietonnisation",
+      "word": "piétonnisation",
+      "en": "piétonnisation",
+      "sourceId": "pedestrianization",
+      "sourceIds": [
+        "pedestrianization"
+      ],
+      "ru": [
+        "пешеходизация"
+      ],
+      "gender": "f",
+      "example": "La piétonnisation du centre-ville a réduit la pollution.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "pilote",
+      "word": "pilote",
+      "en": "pilote",
+      "sourceId": "pilot",
+      "sourceIds": [
+        "pilot"
+      ],
+      "ru": [
+        "пилот",
+        "летчик"
+      ],
+      "gender": null,
+      "example": "Le pilote a fait atterrir l'avion en douceur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "avion",
+      "word": "avion",
+      "en": "avion",
+      "sourceId": "plane",
+      "sourceIds": [
+        "plane"
+      ],
+      "ru": [
+        "самолёт"
+      ],
+      "gender": null,
+      "example": "L'avion décolle à l'heure.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "quai",
+      "word": "quai",
+      "en": "quai",
+      "sourceId": "platform",
+      "sourceIds": [
+        "platform"
+      ],
+      "ru": [
+        "перрон",
+        "платформа",
+        "подиум"
+      ],
+      "gender": "m",
+      "example": "Le train arrive au quai numéro trois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "babord",
+      "word": "bâbord",
+      "en": "bâbord",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "gender": null,
+      "example": "Le navire a viré à bâbord.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "porteur",
+      "word": "porteur",
+      "en": "porteur",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "gender": "m",
+      "example": "Le porteur a monté mes valises dans la chambre.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "chemin-de-fer",
+      "word": "chemin de fer",
+      "en": "chemin de fer",
+      "sourceId": "railway",
+      "sourceIds": [
+        "railway"
+      ],
+      "ru": [
+        "железнодорожный путь",
+        "колея",
+        "железная дорога"
+      ],
+      "gender": "m",
+      "example": "Le chemin de fer traverse toute la région.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "cheminot",
+      "word": "cheminot",
+      "en": "cheminot",
+      "sourceId": "railwayman",
+      "sourceIds": [
+        "railwayman"
+      ],
+      "ru": [
+        "железнодорожник"
+      ],
+      "gender": "m",
+      "example": "Le cheminot vérifie les billets des passagers.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "reception",
+      "word": "réception",
+      "en": "réception",
+      "sourceId": "reception",
+      "sourceIds": [
+        "reception"
+      ],
+      "ru": [
+        "стойка регистрации",
+        "приёмная"
+      ],
+      "gender": "f",
+      "example": "Veuillez vous présenter à la réception pour récupérer vos clés.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "receptionniste",
+      "word": "réceptionniste",
+      "en": "réceptionniste",
+      "sourceId": "receptionist",
+      "sourceIds": [
+        "receptionist"
+      ],
+      "ru": [
+        "администратор",
+        "портье",
+        "регистратор"
+      ],
+      "gender": "m",
+      "example": "La réceptionniste m'a donné la clé de ma chambre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "reservation",
+      "word": "réservation",
+      "en": "réservation",
+      "sourceId": "reservation",
+      "sourceIds": [
+        "reservation"
+      ],
+      "ru": [
+        "бронирование",
+        "заказ"
+      ],
+      "gender": "f",
+      "example": "J'ai fait une réservation pour deux personnes au restaurant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "station-balneaire",
+      "word": "station balnéaire",
+      "en": "station balnéaire",
+      "sourceId": "resort",
+      "sourceIds": [
+        "resort"
+      ],
+      "ru": [
+        "здравница",
+        "курорт",
+        "убежище"
+      ],
+      "gender": "f",
+      "example": "Nous passons nos vacances dans une station balnéaire.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "en": "route",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "gender": "f",
+      "example": "La route est longue.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "detourne",
+      "word": "détourné",
+      "en": "détourné",
+      "sourceId": "roundabout",
+      "sourceIds": [
+        "roundabout"
+      ],
+      "ru": [
+        "окольный",
+        "кружный",
+        "непрямой"
+      ],
+      "gender": null,
+      "example": "Il a pris un chemin détourné pour éviter les embouteillages.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "en": "route",
+      "sourceId": "route",
+      "sourceIds": [
+        "route"
+      ],
+      "ru": [
+        "путь",
+        "курс",
+        "дорога"
+      ],
+      "gender": "f",
+      "example": "Nous avons pris la route la plus courte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "routage",
+      "word": "routage",
+      "en": "routage",
+      "sourceId": "routing",
+      "sourceIds": [
+        "routing"
+      ],
+      "ru": [
+        "маршрутизация"
+      ],
+      "gender": "m",
+      "example": "Le routage des données est essentiel pour le fonctionnement du réseau.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "piste",
+      "word": "piste",
+      "en": "piste",
+      "sourceId": "runway",
+      "sourceIds": [
+        "runway",
+        "tarmac"
+      ],
+      "ru": [
+        "взлетно-посадочная полоса"
+      ],
+      "gender": "f",
+      "example": "L'avion s'est aligné sur la piste pour le décollage.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "safari",
+      "word": "safari",
+      "en": "safari",
+      "sourceId": "safari",
+      "sourceIds": [
+        "safari"
+      ],
+      "ru": [
+        "сафари"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un safari au Kenya.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "siege",
+      "word": "siège",
+      "en": "siège",
+      "sourceId": "seat",
+      "sourceIds": [
+        "seat"
+      ],
+      "ru": [
+        "седалище",
+        "сиденье",
+        "место"
+      ],
+      "gender": "m",
+      "example": "Veuillez prendre votre siège.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "securite",
+      "word": "sécurité",
+      "en": "sécurité",
+      "sourceId": "security",
+      "sourceIds": [
+        "security"
+      ],
+      "ru": [
+        "безопасность",
+        "надёжность",
+        "гарантия"
+      ],
+      "gender": "f",
+      "example": "La sécurité est une priorité absolue pour cette entreprise.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "navire",
+      "word": "navire",
+      "en": "navire",
+      "sourceId": "ship",
+      "sourceIds": [
+        "ship"
+      ],
+      "ru": [
+        "корабль",
+        "судно",
+        "пароход"
+      ],
+      "gender": "m",
+      "example": "Le navire a quitté le port ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "expediteur",
+      "word": "expéditeur",
+      "en": "expéditeur",
+      "sourceId": "shipper",
+      "sourceIds": [
+        "shipper"
+      ],
+      "ru": [
+        "грузоотправитель",
+        "отправитель",
+        "товароотправитель"
+      ],
+      "gender": "m",
+      "example": "L'expéditeur a envoyé le colis ce matin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "expedition",
+      "word": "expédition",
+      "en": "expédition",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "gender": "f",
+      "example": "Les frais d'expédition sont offerts.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "trottoir",
+      "word": "trottoir",
+      "en": "trottoir",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "gender": "m",
+      "example": "Il marche sur le trottoir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "tourisme",
+      "word": "tourisme",
+      "en": "tourisme",
+      "sourceId": "sightseeing",
+      "sourceIds": [
+        "sightseeing"
+      ],
+      "ru": [
+        "осмотр достопримечательностей"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait du tourisme toute la journée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sud",
+      "word": "sud",
+      "en": "sud",
+      "sourceId": "south",
+      "sourceIds": [
+        "south"
+      ],
+      "ru": [
+        "южный",
+        "юг",
+        "зюйд"
+      ],
+      "gender": null,
+      "example": "Le vent souffle du sud.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "souvenir",
+      "word": "souvenir",
+      "en": "souvenir",
+      "sourceId": "souvenir",
+      "sourceIds": [
+        "souvenir"
+      ],
+      "ru": [
+        "сувенир"
+      ],
+      "gender": "m",
+      "example": "J'ai acheté un petit souvenir de Paris.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "carre",
+      "word": "carré",
+      "en": "carré",
+      "sourceId": "square",
+      "sourceIds": [
+        "square"
+      ],
+      "ru": [
+        "квадратный",
+        "квадрат",
+        "прямоугольный"
+      ],
+      "gender": null,
+      "example": "Il a dessiné un petit carré sur la feuille.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "gare",
+      "word": "gare",
+      "en": "gare",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "gender": "f",
+      "example": "Le train part de la gare centrale.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "immobile",
+      "word": "immobile",
+      "en": "immobile",
+      "sourceId": "stationary",
+      "sourceIds": [
+        "stationary"
+      ],
+      "ru": [
+        "неподвижный",
+        "стационарный"
+      ],
+      "gender": null,
+      "example": "La voiture est restée immobile pendant des heures.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "chef-de-gare",
+      "word": "chef de gare",
+      "en": "chef de gare",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "ru": [
+        "начальник станции"
+      ],
+      "gender": "m",
+      "example": "Le chef de gare a sifflé le départ du train.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "banlieue",
+      "word": "banlieue",
+      "en": "banlieue",
+      "sourceId": "suburb",
+      "sourceIds": [
+        "suburb"
+      ],
+      "ru": [
+        "пригород",
+        "предместье",
+        "округ"
+      ],
+      "gender": "f",
+      "example": "Il habite en banlieue parisienne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "metro",
+      "word": "métro",
+      "en": "métro",
+      "sourceId": "subway",
+      "sourceIds": [
+        "subway"
+      ],
+      "ru": [
+        "метро",
+        "метрополитен",
+        "подземка"
+      ],
+      "gender": "m",
+      "example": "Je prends le métro pour aller au travail.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "taxi",
+      "word": "taxi",
+      "en": "taxi",
+      "sourceId": "taxi",
+      "sourceIds": [
+        "taxi"
+      ],
+      "ru": [
+        "такси",
+        "таксомотор"
+      ],
+      "gender": "m",
+      "example": "J'ai pris un taxi pour aller à la gare.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "terminal",
+      "word": "terminal",
+      "en": "terminal",
+      "sourceId": "terminal",
+      "sourceIds": [
+        "terminal"
+      ],
+      "ru": [
+        "терминал",
+        "аэровокзал",
+        "конечная станция"
+      ],
+      "gender": null,
+      "example": "Le vol part du terminal 2.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "horaire",
+      "word": "horaire",
+      "en": "horaire",
+      "sourceId": "timetable",
+      "sourceIds": [
+        "timetable"
+      ],
+      "ru": [
+        "график",
+        "расписание"
+      ],
+      "gender": "m",
+      "example": "Veuillez consulter l'horaire des trains avant de partir.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "tournee",
+      "word": "tournée",
+      "en": "tournée",
+      "sourceId": "tour",
+      "sourceIds": [
+        "tour"
+      ],
+      "ru": [
+        "путешествие",
+        "поездка",
+        "турне"
+      ],
+      "gender": "f",
+      "example": "Le groupe de musique commence sa tournée européenne demain.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tourisme",
+      "word": "tourisme",
+      "en": "tourisme",
+      "sourceId": "tourism",
+      "sourceIds": [
+        "tourism"
+      ],
+      "ru": [
+        "туризм"
+      ],
+      "gender": "m",
+      "example": "Le tourisme est une activité importante pour l'économie de ce pays.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "touristique",
+      "word": "touristique",
+      "en": "touristique",
+      "sourceId": "touristic",
+      "sourceIds": [
+        "touristic"
+      ],
+      "ru": [
+        "туристический"
+      ],
+      "gender": null,
+      "example": "C'est une région très touristique en été.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "circulation",
+      "word": "circulation",
+      "en": "circulation",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "gender": "f",
+      "example": "La circulation est très dense ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "sentier",
+      "word": "sentier",
+      "en": "sentier",
+      "sourceId": "trail",
+      "sourceIds": [
+        "trail"
+      ],
+      "ru": [
+        "след",
+        "дорожка",
+        "стёжка"
+      ],
+      "gender": "m",
+      "example": "Nous avons suivi le sentier à travers la forêt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "remorque",
+      "word": "remorque",
+      "en": "remorque",
+      "sourceId": "trailer",
+      "sourceIds": [
+        "trailer"
+      ],
+      "ru": [
+        "прицеп",
+        "трейлер"
+      ],
+      "gender": "f",
+      "example": "Il a accroché la remorque à sa voiture.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "train",
+      "word": "train",
+      "en": "train",
+      "sourceId": "train",
+      "sourceIds": [
+        "train"
+      ],
+      "ru": [
+        "поезд",
+        "вереница",
+        "караван"
+      ],
+      "gender": "m",
+      "example": "Le train arrive à la gare à huit heures.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tramway",
+      "word": "tramway",
+      "en": "tramway",
+      "sourceId": "tram",
+      "sourceIds": [
+        "tram"
+      ],
+      "ru": [
+        "трамвай",
+        "вагонетка"
+      ],
+      "gender": "m",
+      "example": "Le tramway arrive à la station.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "voyager",
+      "word": "voyager",
+      "en": "voyager",
+      "sourceId": "travel",
+      "sourceIds": [
+        "travel"
+      ],
+      "ru": [
+        "путешествовать"
+      ],
+      "gender": null,
+      "example": "Nous voyageons en été.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "voyageur",
+      "word": "voyageur",
+      "en": "voyageur",
+      "sourceId": "traveller",
+      "sourceIds": [
+        "traveller"
+      ],
+      "ru": [
+        "путник",
+        "путница",
+        "путешественник"
+      ],
+      "gender": "m",
+      "example": "Le voyageur attend son train sur le quai.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "travelling",
+      "sourceIds": [
+        "travelling"
+      ],
+      "ru": [
+        "путешествие"
+      ],
+      "gender": "m",
+      "example": "J'adore les voyages en train.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "trip",
+      "sourceIds": [
+        "trip"
+      ],
+      "ru": [
+        "путешествие",
+        "поездка",
+        "спотыкание"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un long voyage en train.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "camion",
+      "word": "camion",
+      "en": "camion",
+      "sourceId": "truck",
+      "sourceIds": [
+        "truck"
+      ],
+      "ru": [
+        "грузовик",
+        "грузовая машина",
+        "грузовой автомобиль"
+      ],
+      "gender": "m",
+      "example": "Le camion transporte des marchandises sur l'autoroute.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tunnel",
+      "word": "tunnel",
+      "en": "tunnel",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "gender": "m",
+      "example": "Le train traverse un long tunnel.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "deballer",
+      "word": "déballer",
+      "en": "déballer",
+      "sourceId": "unpack",
+      "sourceIds": [
+        "unpack"
+      ],
+      "ru": [
+        "распаковывать",
+        "распаковать"
+      ],
+      "gender": null,
+      "example": "Je dois déballer mes valises après le voyage.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "vacances",
+      "word": "vacances",
+      "en": "vacances",
+      "sourceId": "vacation",
+      "sourceIds": [
+        "vacation"
+      ],
+      "ru": [
+        "отпуск",
+        "каникулы",
+        "отгул"
+      ],
+      "gender": "f",
+      "example": "Je pars en vacances la semaine prochaine.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fourgon",
+      "word": "fourgon",
+      "en": "fourgon",
+      "sourceId": "van",
+      "sourceIds": [
+        "van"
+      ],
+      "ru": [
+        "вэн",
+        "фура",
+        "фургон"
+      ],
+      "gender": "m",
+      "example": "Il a chargé ses meubles dans le fourgon.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vehicule",
+      "word": "véhicule",
+      "en": "véhicule",
+      "sourceId": "vehicle",
+      "sourceIds": [
+        "vehicle"
+      ],
+      "ru": [
+        "перевозочное средство",
+        "транспортное средство",
+        "средство передачи"
+      ],
+      "gender": "m",
+      "example": "Le véhicule est garé devant la maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "navire",
+      "word": "navire",
+      "en": "navire",
+      "sourceId": "vessel",
+      "sourceIds": [
+        "vessel"
+      ],
+      "ru": [
+        "судно",
+        "корабль"
+      ],
+      "gender": "m",
+      "example": "Le navire a quitté le port ce matin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "visa",
+      "word": "visa",
+      "en": "visa",
+      "sourceId": "visa",
+      "sourceIds": [
+        "visa"
+      ],
+      "ru": [
+        "виза"
+      ],
+      "gender": "m",
+      "example": "J'ai besoin d'un visa pour voyager dans ce pays.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "visiter",
+      "word": "visiter",
+      "en": "visiter",
+      "sourceId": "visit",
+      "sourceIds": [
+        "visit"
+      ],
+      "ru": [
+        "посещать"
+      ],
+      "gender": null,
+      "example": "Visitez le musée.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "visiteur",
+      "word": "visiteur",
+      "en": "visiteur",
+      "sourceId": "visitor",
+      "sourceIds": [
+        "visitor"
+      ],
+      "ru": [
+        "гость",
+        "гостья",
+        "посетитель"
+      ],
+      "gender": "m",
+      "example": "Le visiteur attend à la réception.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "en": "voyage",
+      "sourceId": "voyage",
+      "sourceIds": [
+        "voyage"
+      ],
+      "ru": [
+        "путешествие",
+        "вояж",
+        "плавание"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un long voyage en train.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "wagon",
+      "word": "wagon",
+      "en": "wagon",
+      "sourceId": "wagon",
+      "sourceIds": [
+        "wagon"
+      ],
+      "ru": [
+        "повозка",
+        "вагон",
+        "фургон"
+      ],
+      "gender": "m",
+      "example": "Le train est composé de plusieurs wagons.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "charretier",
+      "word": "charretier",
+      "en": "charretier",
+      "sourceId": "wagoner",
+      "sourceIds": [
+        "wagoner"
+      ],
+      "ru": [
+        "возница",
+        "извозчик"
+      ],
+      "gender": "m",
+      "example": "Le charretier guidait ses chevaux sur le chemin de terre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "ouest",
+      "word": "ouest",
+      "en": "ouest",
+      "sourceId": "west",
+      "sourceIds": [
+        "west"
+      ],
+      "ru": [
+        "западный",
+        "запад",
+        "вест"
+      ],
+      "gender": "m",
+      "example": "Le soleil se couche à l'ouest.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "phare",
+      "word": "phare",
+      "en": "phare",
+      "sourceId": "beacon",
+      "sourceIds": [
+        "beacon"
+      ],
+      "ru": [
+        "маяк",
+        "сигнальный огонь"
+      ],
+      "gender": "m",
+      "example": "Le phare guide les navires dans la nuit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "outre-mer",
+      "word": "outre-mer",
+      "en": "outre-mer",
+      "sourceId": "overseas",
+      "sourceIds": [
+        "overseas"
+      ],
+      "ru": [
+        "за морем",
+        "заграничный"
+      ],
+      "gender": "f",
+      "example": "Nous envoyons nos muffins outre-mer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "jetee",
+      "word": "jetée",
+      "en": "jetée",
+      "sourceId": "pier",
+      "sourceIds": [
+        "pier"
+      ],
+      "ru": [
+        "пирс",
+        "причал"
+      ],
+      "gender": "f",
+      "example": "et une jetée réhabilitée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fete-foraine",
+      "word": "fête foraine",
+      "en": "fête foraine",
+      "sourceId": "funfair",
+      "sourceIds": [
+        "funfair"
+      ],
+      "ru": [
+        "ярмарка",
+        "парк аттракционов"
+      ],
+      "gender": "f",
+      "example": "C'est comme une fête foraine médiévale.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "errer",
+      "word": "errer",
+      "en": "errer",
+      "sourceId": "wander",
+      "sourceIds": [
+        "wander"
+      ],
+      "ru": [
+        "бродить",
+        "странствовать"
+      ],
+      "gender": null,
+      "example": "Mais quelqu'un a erré trop près.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bloque",
+      "word": "bloqué",
+      "en": "bloqué",
+      "sourceId": "stranded",
+      "sourceIds": [
+        "stranded"
+      ],
+      "ru": [
+        "оказавшийся в безвыходном положении"
+      ],
+      "gender": null,
+      "example": "Les randonneurs sont restés bloqués par la tempête.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "randonneur",
+      "word": "randonneur",
+      "en": "randonneur",
+      "sourceId": "hiker",
+      "sourceIds": [
+        "hiker"
+      ],
+      "ru": [
+        "турист",
+        "пеший путешественник"
+      ],
+      "gender": "m",
+      "example": "Il est venu en aide aux grimpeurs et aux randonneurs bloqués.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aerien",
+      "word": "aérien",
+      "en": "aérien",
+      "sourceId": "airborne",
+      "sourceIds": [
+        "airborne"
+      ],
+      "ru": [
+        "воздушный",
+        "находящийся в воздухе"
+      ],
+      "gender": null,
+      "example": "Ils pensent que c'est un chien aérien.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "caravane",
+      "word": "caravane",
+      "en": "caravane",
+      "sourceId": "caravan",
+      "sourceIds": [
+        "caravan"
+      ],
+      "ru": [
+        "дом на колесах",
+        "караван"
+      ],
+      "gender": "f",
+      "example": "Nous avons passé nos vacances dans un terrain de caravane.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "expedition",
+      "word": "expédition",
+      "en": "expédition",
+      "sourceId": "expedition",
+      "sourceIds": [
+        "expedition"
+      ],
+      "ru": [
+        "экспедиция"
+      ],
+      "gender": "f",
+      "example": "L'expédition d'hier a été difficile.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tente",
+      "word": "tente",
+      "en": "tente",
+      "sourceId": "tent",
+      "sourceIds": [
+        "tent"
+      ],
+      "ru": [
+        "палатка"
+      ],
+      "gender": "f",
+      "example": "Nous avons monté la tente près de la rivière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "route-royale",
+      "word": "route royale",
+      "en": "route royale",
+      "sourceId": "kingsroad",
+      "sourceIds": [
+        "kingsroad"
+      ],
+      "ru": [
+        "королевская дорога"
+      ],
+      "gender": "f",
+      "example": "Tes ennuis sur la route royale.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "heberger",
+      "word": "héberger",
+      "en": "héberger",
+      "sourceId": "accommodate",
+      "sourceIds": [
+        "accommodate"
+      ],
+      "ru": [
+        "размещать",
+        "приспосабливать"
+      ],
+      "gender": null,
+      "example": "Cet hôtel peut héberger jusqu'à cent personnes.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "errer",
+      "word": "errer",
+      "en": "errer",
+      "sourceId": "roam",
+      "sourceIds": [
+        "roam"
+      ],
+      "ru": [
+        "бродить",
+        "скитаться"
+      ],
+      "gender": null,
+      "example": "Alors tu erres.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "a-cheval",
+      "word": "à cheval",
+      "en": "à cheval",
+      "sourceId": "horseback",
+      "sourceIds": [
+        "horseback"
+      ],
+      "ru": [
+        "верхом на лошади"
+      ],
+      "gender": null,
+      "example": "Pour un homme à cheval,",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "flotte",
+      "word": "flotte",
+      "en": "flotte",
+      "sourceId": "fleet",
+      "sourceIds": [
+        "fleet"
+      ],
+      "ru": [
+        "флот"
+      ],
+      "gender": "f",
+      "example": "et a brûlé sa propre flotte au large de Lancehélion",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "marin",
+      "word": "marin",
+      "en": "marin",
+      "sourceId": "sailor",
+      "sourceIds": [
+        "sailor"
+      ],
+      "ru": [
+        "моряк"
+      ],
+      "gender": "m",
+      "example": "Il donne les marins westerosi en pâture aux crabes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bagages",
+      "word": "bagages",
+      "en": "bagages",
+      "sourceId": "baggage",
+      "sourceIds": [
+        "baggage"
+      ],
+      "ru": [
+        "багаж"
+      ],
+      "gender": "m",
+      "example": "Le train de bagages est-il prêt ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "partir",
+      "word": "partir",
+      "en": "partir",
+      "sourceId": "depart",
+      "sourceIds": [
+        "depart"
+      ],
+      "ru": [
+        "отправляться",
+        "уезжать"
+      ],
+      "gender": null,
+      "example": "La chasse royale se prépare à partir.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "navigable",
+      "word": "navigable",
+      "en": "navigable",
+      "sourceId": "seaworthy",
+      "sourceIds": [
+        "seaworthy"
+      ],
+      "ru": [
+        "мореходный"
+      ],
+      "gender": null,
+      "example": "Il reste peut-être 18 navires navigables.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "lei",
+      "word": "lei",
+      "en": "lei",
+      "sourceId": "lei",
+      "sourceIds": [
+        "lei"
+      ],
+      "ru": [
+        "лей (гавайское ожерелье)"
+      ],
+      "gender": "m",
+      "example": "Elle porte un lei de fleurs autour du cou.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aloha",
+      "word": "aloha",
+      "en": "aloha",
+      "sourceId": "aloha",
+      "sourceIds": [
+        "aloha"
+      ],
+      "ru": [
+        "алоха"
+      ],
+      "gender": "m",
+      "example": "Il m'a dit aloha en arrivant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "preembarquement",
+      "word": "préembarquement",
+      "en": "préembarquement",
+      "sourceId": "pre-boarding",
+      "sourceIds": [
+        "pre-boarding"
+      ],
+      "ru": [
+        "предпосадка"
+      ],
+      "gender": "m",
+      "example": "L'annonce de préembarquement a été faite.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "compagnie-aerienne",
+      "word": "compagnie aérienne",
+      "en": "compagnie aérienne",
+      "sourceId": "airway",
+      "sourceIds": [
+        "airway"
+      ],
+      "ru": [
+        "дыхательные пути",
+        "авиалиния"
+      ],
+      "gender": "f",
+      "example": "pour le vol LLT154 de la compagnie aérienne Lusit",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "zone-sous-douane",
+      "word": "zone sous douane",
+      "en": "zone sous douane",
+      "sourceId": "airside",
+      "sourceIds": [
+        "airside"
+      ],
+      "ru": [
+        "контролируемая зона аэропорта"
+      ],
+      "gender": "f",
+      "example": "Pourquoi est-il en zone sous douane ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "entrant",
+      "word": "entrant",
+      "en": "entrant",
+      "sourceId": "inbound",
+      "sourceIds": [
+        "inbound"
+      ],
+      "ru": [
+        "входящий",
+        "прибывающий"
+      ],
+      "gender": null,
+      "example": "Intel a indiqué que la cible était entrante.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "carrousel",
+      "word": "carrousel",
+      "en": "carrousel",
+      "sourceId": "carousel",
+      "sourceIds": [
+        "carousel"
+      ],
+      "ru": [
+        "карусель",
+        "лента выдачи багажа"
+      ],
+      "gender": "f",
+      "example": "Dirigez-vous vers le carrousel à bagages.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "zone-publique",
+      "word": "zone publique",
+      "en": "zone publique",
+      "sourceId": "landside",
+      "sourceIds": [
+        "landside"
+      ],
+      "ru": [
+        "общедоступная зона аэропорта"
+      ],
+      "gender": "f",
+      "example": "Le suspect est maintenant dans la zone publique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "carte-postale",
+      "word": "carte postale",
+      "en": "carte postale",
+      "sourceId": "postcard",
+      "sourceIds": [
+        "postcard"
+      ],
+      "ru": [
+        "открытка"
+      ],
+      "gender": "f",
+      "example": "Une carte postale d'Istanbul, de tous les endroits possibles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maison-d-hotes",
+      "word": "maison d'hôtes",
+      "en": "maison d'hôtes",
+      "sourceId": "guesthouse",
+      "sourceIds": [
+        "guesthouse"
+      ],
+      "ru": [
+        "гостевой дом",
+        "пансион"
+      ],
+      "gender": "f",
+      "example": "Elle ouvre une maison d'hôtes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "randonneur",
+      "word": "randonneur",
+      "en": "randonneur",
+      "sourceId": "rambler",
+      "sourceIds": [
+        "rambler"
+      ],
+      "ru": [
+        "путешественник",
+        "пеший турист"
+      ],
+      "gender": "m",
+      "example": "L'association des randonneurs organise des sorties en montagne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "surbooker",
+      "word": "surbooker",
+      "en": "surbooker",
+      "sourceId": "double-book",
+      "sourceIds": [
+        "double-book"
+      ],
+      "ru": [
+        "забронировать дважды"
+      ],
+      "gender": null,
+      "example": "Oups, j'ai surbooké mon emploi du temps.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "promenade",
+      "word": "promenade",
+      "en": "promenade",
+      "sourceId": "walkabout",
+      "sourceIds": [
+        "walkabout"
+      ],
+      "ru": [
+        "прогулка",
+        "пешая экскурсия"
+      ],
+      "gender": "f",
+      "example": "Il est parti en promenade dans la forêt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faire-de-l-autostop",
+      "word": "faire de l'autostop",
+      "en": "faire de l'autostop",
+      "sourceId": "hitchhike",
+      "sourceIds": [
+        "hitchhike"
+      ],
+      "ru": [
+        "путешествовать автостопом"
+      ],
+      "gender": null,
+      "example": "Elle fait de l'autostop, et celui qui la prend...",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "voie-navigable",
+      "word": "voie navigable",
+      "en": "voie navigable",
+      "sourceId": "waterway",
+      "sourceIds": [
+        "waterway"
+      ],
+      "ru": [
+        "водный путь"
+      ],
+      "gender": "f",
+      "example": "Nous avons emprunté cette voie navigable en bateau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "randonnee",
+      "word": "randonnée",
+      "en": "randonnée",
+      "sourceId": "hike",
+      "sourceIds": [
+        "hike"
+      ],
+      "ru": [
+        "ходить в поход"
+      ],
+      "gender": "f",
+      "example": "Ce n'est pas une simple randonnée dans la nature.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "camping-car",
+      "word": "camping-car",
+      "en": "camping-car",
+      "sourceId": "camper",
+      "sourceIds": [
+        "camper"
+      ],
+      "ru": [
+        "турист",
+        "отдыхающий в палатке",
+        "дом на колесах"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de circulation, surtout des camping-cars locaux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sac-de-sport",
+      "word": "sac de sport",
+      "en": "sac de sport",
+      "sourceId": "duffel",
+      "sourceIds": [
+        "duffel"
+      ],
+      "ru": [
+        "вещмешок"
+      ],
+      "gender": "m",
+      "example": "Vous portez un sac de sport.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "camping",
+      "word": "camping",
+      "en": "camping",
+      "sourceId": "campsite",
+      "sourceIds": [
+        "campsite"
+      ],
+      "ru": [
+        "кемпинг",
+        "место для лагеря"
+      ],
+      "gender": "m",
+      "example": "Les corps ont été traînés hors du camping.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "yacht",
+      "word": "yacht",
+      "en": "yacht",
+      "sourceId": "yacht",
+      "sourceIds": [
+        "yacht"
+      ],
+      "ru": [
+        "яхта"
+      ],
+      "gender": "m",
+      "example": "d'un homme nu sur un yacht à Majorque",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bronzer",
+      "word": "bronzer",
+      "en": "bronzer",
+      "sourceId": "sunbathe",
+      "sourceIds": [
+        "sunbathe"
+      ],
+      "ru": [
+        "загорать"
+      ],
+      "gender": null,
+      "example": "pendant que je bronzais.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "devier",
+      "word": "dévier",
+      "en": "dévier",
+      "sourceId": "reroute",
+      "sourceIds": [
+        "reroute"
+      ],
+      "ru": [
+        "изменять маршрут"
+      ],
+      "gender": null,
+      "example": "Le bus a dû dévier de son itinéraire habituel à cause des travaux.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bord-de-mer",
+      "word": "bord de mer",
+      "en": "bord de mer",
+      "sourceId": "seaside",
+      "sourceIds": [
+        "seaside"
+      ],
+      "ru": [
+        "морское побережье"
+      ],
+      "gender": "m",
+      "example": "Nous y voilà, ma vieille, en route pour le bord de mer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hotesse-de-l-air",
+      "word": "hôtesse de l'air",
+      "en": "hôtesse de l'air",
+      "sourceId": "stewardess",
+      "sourceIds": [
+        "stewardess"
+      ],
+      "ru": [
+        "стюардесса"
+      ],
+      "gender": "f",
+      "example": "Les hôtesses de l'air sont très professionnelles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "place-pour-les-jambes",
+      "word": "place pour les jambes",
+      "en": "place pour les jambes",
+      "sourceId": "legroom",
+      "sourceIds": [
+        "legroom"
+      ],
+      "ru": [
+        "место для ног"
+      ],
+      "gender": "f",
+      "example": "Il n'y a absolument aucune place pour les jambes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "inter-etats",
+      "word": "inter-États",
+      "en": "inter-États",
+      "sourceId": "interstate",
+      "sourceIds": [
+        "interstate"
+      ],
+      "ru": [
+        "междуштатный",
+        "межгосударственный"
+      ],
+      "gender": "m/f",
+      "example": "J'appelle pour un avis de recherche inter-États.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "par-dessus-bord",
+      "word": "par-dessus bord",
+      "en": "par-dessus bord",
+      "sourceId": "overboard",
+      "sourceIds": [
+        "overboard"
+      ],
+      "ru": [
+        "за борт"
+      ],
+      "gender": null,
+      "example": "jusqu'à ce que quelqu'un tombe par-dessus bord.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "camping-car",
+      "word": "camping-car",
+      "en": "camping-car",
+      "sourceId": "rv",
+      "sourceIds": [
+        "rv"
+      ],
+      "ru": [
+        "дом на колесах"
+      ],
+      "gender": "m",
+      "example": "Le camping-car va démarrer maintenant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "interurbain",
+      "word": "interurbain",
+      "en": "interurbain",
+      "sourceId": "long-distance",
+      "sourceIds": [
+        "long-distance"
+      ],
+      "ru": [
+        "междугородний",
+        "на дальние дистанции"
+      ],
+      "gender": null,
+      "example": "Un service interurbain est disponible.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "detour",
+      "word": "détour",
+      "en": "détour",
+      "sourceId": "detour",
+      "sourceIds": [
+        "detour"
+      ],
+      "ru": [
+        "объезд"
+      ],
+      "gender": "m",
+      "example": "Eh bien, un petit détour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "naviguer",
+      "word": "naviguer",
+      "en": "naviguer",
+      "sourceId": "navigate",
+      "sourceIds": [
+        "navigate"
+      ],
+      "ru": [
+        "ориентироваться",
+        "управлять"
+      ],
+      "gender": null,
+      "example": "Tu peux naviguer sur Internet.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "randonnee",
+      "word": "randonnée",
+      "en": "randonnée",
+      "sourceId": "trek",
+      "sourceIds": [
+        "trek"
+      ],
+      "ru": [
+        "поход",
+        "путешествие"
+      ],
+      "gender": "f",
+      "example": "Nous partons pour une longue randonnée en montagne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mayday",
+      "word": "mayday",
+      "en": "mayday",
+      "sourceId": "mayday",
+      "sourceIds": [
+        "mayday"
+      ],
+      "ru": [
+        "сигнал бедствия"
+      ],
+      "gender": "m",
+      "example": "Le pilote a lancé un mayday.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "concierge",
+      "word": "concierge",
+      "en": "concierge",
+      "sourceId": "concierge",
+      "sourceIds": [
+        "concierge"
+      ],
+      "ru": [
+        "консьерж"
+      ],
+      "gender": "m",
+      "example": "Je ne suis pas votre concierge de police personnel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "flaner",
+      "word": "flâner",
+      "en": "flâner",
+      "sourceId": "ramble",
+      "sourceIds": [
+        "ramble"
+      ],
+      "ru": [
+        "бродить",
+        "прогуливаться"
+      ],
+      "gender": null,
+      "example": "Il aime flâner dans les rues de Paris.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "hors-saison",
+      "word": "hors-saison",
+      "en": "hors-saison",
+      "sourceId": "off-season",
+      "sourceIds": [
+        "off-season"
+      ],
+      "ru": [
+        "не сезон",
+        "межсезонье"
+      ],
+      "gender": null,
+      "example": "En 2009, une série de cambriolages a eu lieu hors-saison.",
+      "level": "B1",
+      "pos": "preposition"
+    },
+    {
+      "id": "chasseur",
+      "word": "chasseur",
+      "en": "chasseur",
+      "sourceId": "bellhop",
+      "sourceIds": [
+        "bellhop"
+      ],
+      "ru": [
+        "носильщик"
+      ],
+      "gender": "m",
+      "example": "Le chasseur a monté mes bagages dans ma chambre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "s-acclimater",
+      "word": "s'acclimater",
+      "en": "s'acclimater",
+      "sourceId": "acclimatise",
+      "sourceIds": [
+        "acclimatise"
+      ],
+      "ru": [
+        "акклиматизироваться"
+      ],
+      "gender": null,
+      "example": "Il s'est clairement acclimaté.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "boite-a-gants",
+      "word": "boîte à gants",
+      "en": "boîte à gants",
+      "sourceId": "compartment",
+      "sourceIds": [
+        "compartment"
+      ],
+      "ru": [
+        "отделение",
+        "купе"
+      ],
+      "gender": "f",
+      "example": "Il a rangé ses papiers dans la boîte à gants.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tous-frais-payes",
+      "word": "tous frais payés",
+      "en": "tous frais payés",
+      "sourceId": "all-expenses-paid",
+      "sourceIds": [
+        "all-expenses-paid"
+      ],
+      "ru": [
+        "все включено"
+      ],
+      "gender": null,
+      "example": "Un voyage tous frais payés à Paris.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "a-bord",
+      "word": "à bord",
+      "en": "à bord",
+      "sourceId": "aboard",
+      "sourceIds": [
+        "aboard"
+      ],
+      "ru": [
+        "на борту"
+      ],
+      "gender": null,
+      "example": "Bienvenue à bord, Simpson.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "caraibe",
+      "word": "caraïbe",
+      "en": "caraïbe",
+      "sourceId": "caribbean",
+      "sourceIds": [
+        "caribbean"
+      ],
+      "ru": [
+        "карибский"
+      ],
+      "gender": null,
+      "example": "Une croisière caraïbe.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "voiturier",
+      "word": "voiturier",
+      "en": "voiturier",
+      "sourceId": "valet",
+      "sourceIds": [
+        "valet"
+      ],
+      "ru": [
+        "парковщик",
+        "камердинер"
+      ],
+      "gender": "m",
+      "example": "Il a confié sa voiture au voiturier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "embarquer",
+      "word": "embarquer",
+      "en": "embarquer",
+      "sourceId": "embark",
+      "sourceIds": [
+        "embark"
+      ],
+      "ru": [
+        "садиться на корабль",
+        "начинать"
+      ],
+      "gender": null,
+      "example": "En fait, elle embarque.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "voyageur",
+      "word": "voyageur",
+      "en": "voyageur",
+      "sourceId": "traveler",
+      "sourceIds": [
+        "traveler"
+      ],
+      "ru": [
+        "путешественник"
+      ],
+      "gender": "m",
+      "example": "à tous les voyageurs",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

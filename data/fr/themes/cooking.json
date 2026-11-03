@@ -1,0 +1,2446 @@
+{
+  "id": "cooking",
+  "title": "Готовка",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "cuisson",
+      "word": "cuisson",
+      "en": "cuisson",
+      "sourceId": "bake",
+      "sourceIds": [
+        "bake"
+      ],
+      "ru": [
+        "печь",
+        "выпекание",
+        "запекание"
+      ],
+      "gender": "f",
+      "example": "La cuisson du pain prend une heure.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cuit-au-four",
+      "word": "cuit au four",
+      "en": "cuit au four",
+      "sourceId": "baked",
+      "sourceIds": [
+        "baked"
+      ],
+      "ru": [
+        "запечённый",
+        "печёный"
+      ],
+      "gender": null,
+      "example": "J'aime manger du poisson cuit au four.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "patisserie",
+      "word": "pâtisserie",
+      "en": "pâtisserie",
+      "sourceId": "baking",
+      "sourceIds": [
+        "baking"
+      ],
+      "ru": [
+        "выпечка",
+        "выпекание"
+      ],
+      "gender": "f",
+      "example": "J'adore l'odeur de la pâtisserie fraîche le matin.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "amer",
+      "word": "amer",
+      "en": "amer",
+      "sourceId": "bitter",
+      "sourceIds": [
+        "bitter"
+      ],
+      "ru": [
+        "горький",
+        "мучительный",
+        "суровый"
+      ],
+      "gender": null,
+      "example": "Ce café est trop amer.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "amerement",
+      "word": "amèrement",
+      "en": "amèrement",
+      "sourceId": "bitterly",
+      "sourceIds": [
+        "bitterly"
+      ],
+      "ru": [
+        "горько"
+      ],
+      "gender": null,
+      "example": "Il a pleuré amèrement après la nouvelle.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "furoncle",
+      "word": "furoncle",
+      "en": "furoncle",
+      "sourceId": "boil",
+      "sourceIds": [
+        "boil"
+      ],
+      "ru": [
+        "нарыв",
+        "фурункул",
+        "чирей"
+      ],
+      "gender": "m",
+      "example": "Il a un furoncle douloureux sur le bras.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bouilli",
+      "word": "bouilli",
+      "en": "bouilli",
+      "sourceId": "boiled",
+      "sourceIds": [
+        "boiled"
+      ],
+      "ru": [
+        "варёный",
+        "отварной",
+        "кипячёный"
+      ],
+      "gender": null,
+      "example": "J'ai mangé un œuf bouilli ce matin.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "chaudiere",
+      "word": "chaudière",
+      "en": "chaudière",
+      "sourceId": "boiler",
+      "sourceIds": [
+        "boiler"
+      ],
+      "ru": [
+        "котёл",
+        "бойлер",
+        "кипятильник"
+      ],
+      "gender": "f",
+      "example": "La chaudière est en panne, nous n'avons plus d'eau chaude.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "ebullition",
+      "word": "ébullition",
+      "en": "ébullition",
+      "sourceId": "boiling",
+      "sourceIds": [
+        "boiling"
+      ],
+      "ru": [
+        "кипение"
+      ],
+      "gender": "f",
+      "example": "L'eau est en ébullition.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "bol",
+      "word": "bol",
+      "en": "bol",
+      "sourceId": "bowl",
+      "sourceIds": [
+        "bowl"
+      ],
+      "ru": [
+        "миска",
+        "пиала",
+        "плошка"
+      ],
+      "gender": "m",
+      "example": "Il mange ses céréales dans un grand bol.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brulure",
+      "word": "brûlure",
+      "en": "brûlure",
+      "sourceId": "burn",
+      "sourceIds": [
+        "burn"
+      ],
+      "ru": [
+        "жечь",
+        "сжигать",
+        "подгорать"
+      ],
+      "gender": "f",
+      "example": "Elle a soigné sa brûlure avec de la crème.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bruleur",
+      "word": "brûleur",
+      "en": "brûleur",
+      "sourceId": "burner",
+      "sourceIds": [
+        "burner"
+      ],
+      "ru": [
+        "горелка",
+        "конфорка",
+        "механизм для записи CD"
+      ],
+      "gender": "m",
+      "example": "Il faut allumer le brûleur de la gazinière.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "brulant",
+      "word": "brûlant",
+      "en": "brûlant",
+      "sourceId": "burning",
+      "sourceIds": [
+        "burning"
+      ],
+      "ru": [
+        "горящий"
+      ],
+      "gender": null,
+      "example": "Il a touché la poêle brûlante.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "beurre",
+      "word": "beurre",
+      "en": "beurre",
+      "sourceId": "butter",
+      "sourceIds": [
+        "butter"
+      ],
+      "ru": [
+        "масло",
+        "сливочное масло",
+        "намазать маслом"
+      ],
+      "gender": "m",
+      "example": "J'aime mettre du beurre sur mon pain.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "chef",
+      "word": "chef",
+      "en": "chef",
+      "sourceId": "chef",
+      "sourceIds": [
+        "chef"
+      ],
+      "ru": [
+        "повар",
+        "старший кок",
+        "шеф-повар"
+      ],
+      "gender": "m",
+      "example": "Le chef prépare un délicieux repas.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "couper",
+      "word": "couper",
+      "en": "couper",
+      "sourceId": "chop",
+      "sourceIds": [
+        "chop"
+      ],
+      "ru": [
+        "рубить",
+        "нарезать",
+        "разрубать"
+      ],
+      "gender": null,
+      "example": "Il faut couper les légumes en petits morceaux.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "hachoir",
+      "word": "hachoir",
+      "en": "hachoir",
+      "sourceId": "chopper",
+      "sourceIds": [
+        "chopper"
+      ],
+      "ru": [
+        "вертушка",
+        "резак",
+        "секач"
+      ],
+      "gender": "m",
+      "example": "Utilisez le hachoir pour couper les herbes finement.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cuisiner",
+      "word": "cuisiner",
+      "en": "cuisiner",
+      "sourceId": "cook",
+      "sourceIds": [
+        "cook"
+      ],
+      "ru": [
+        "готовить"
+      ],
+      "gender": null,
+      "example": "Je cuisine le dîner.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "cuit",
+      "word": "cuit",
+      "en": "cuit",
+      "sourceId": "cooked",
+      "sourceIds": [
+        "cooked"
+      ],
+      "ru": [
+        "варёный",
+        "приготовленный",
+        "сваренный"
+      ],
+      "gender": null,
+      "example": "Le riz est déjà cuit.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "cuisiniere",
+      "word": "cuisinière",
+      "en": "cuisinière",
+      "sourceId": "cooker",
+      "sourceIds": [
+        "cooker"
+      ],
+      "ru": [
+        "печка",
+        "плита"
+      ],
+      "gender": "f",
+      "example": "La cuisinière est tombée en panne ce matin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cuisine",
+      "word": "cuisine",
+      "en": "cuisine",
+      "sourceId": "cooking",
+      "sourceIds": [
+        "cooking"
+      ],
+      "ru": [
+        "готовка",
+        "кулинария",
+        "стряпня"
+      ],
+      "gender": "f",
+      "example": "Elle adore la cuisine italienne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cours",
+      "word": "cours",
+      "en": "cours",
+      "sourceId": "course",
+      "sourceIds": [
+        "course"
+      ],
+      "ru": [
+        "блюдо",
+        "курс блюд"
+      ],
+      "gender": "m",
+      "example": "Je ne peux pas assister à ce cours.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "crouton",
+      "word": "croûton",
+      "en": "croûton",
+      "sourceId": "croutons",
+      "sourceIds": [
+        "croutons"
+      ],
+      "ru": [
+        "гренки",
+        "сухарики"
+      ],
+      "gender": "m",
+      "example": "J'ajoute des croûtons à ma soupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "tasse",
+      "word": "tasse",
+      "en": "tasse",
+      "sourceId": "cup",
+      "sourceIds": [
+        "cup"
+      ],
+      "ru": [
+        "чашка",
+        "чаша",
+        "кубок"
+      ],
+      "gender": "f",
+      "example": "Elle boit une tasse de thé.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "couper",
+      "word": "couper",
+      "en": "couper",
+      "sourceId": "cut",
+      "sourceIds": [
+        "cut"
+      ],
+      "ru": [
+        "резать"
+      ],
+      "gender": null,
+      "example": "Coupez le papier soigneusement.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "cutter",
+      "word": "cutter",
+      "en": "cutter",
+      "sourceId": "cutter",
+      "sourceIds": [
+        "cutter"
+      ],
+      "ru": [
+        "резчик",
+        "резчица",
+        "резак"
+      ],
+      "gender": "m",
+      "example": "Il a utilisé un cutter pour ouvrir le carton.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "decoupe",
+      "word": "découpe",
+      "en": "découpe",
+      "sourceId": "cutting",
+      "sourceIds": [
+        "cutting"
+      ],
+      "ru": [
+        "режущий",
+        "закройка",
+        "нарезание"
+      ],
+      "gender": "f",
+      "example": "La découpe du tissu doit être précise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "delicieux",
+      "word": "délicieux",
+      "en": "délicieux",
+      "sourceId": "delicious",
+      "sourceIds": [
+        "delicious"
+      ],
+      "ru": [
+        "вкусный",
+        "вкусно",
+        "лакомый"
+      ],
+      "gender": null,
+      "example": "Le gâteau était délicieux.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "delicatesse",
+      "word": "délicatesse",
+      "en": "délicatesse",
+      "sourceId": "deliciousness",
+      "sourceIds": [
+        "deliciousness"
+      ],
+      "ru": [
+        "вкуснота"
+      ],
+      "gender": "f",
+      "example": "La délicatesse de ce plat est incroyable.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "plat",
+      "word": "plat",
+      "en": "plat",
+      "sourceId": "dish",
+      "sourceIds": [
+        "dish"
+      ],
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "миска"
+      ],
+      "gender": "m",
+      "example": "Ce plat est délicieux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vaisselle",
+      "word": "vaisselle",
+      "en": "vaisselle",
+      "sourceId": "dishes--cooking",
+      "sourceIds": [
+        "dishes--cooking"
+      ],
+      "ru": [
+        "мытьё посуды"
+      ],
+      "gender": "f",
+      "example": "Je dois faire la vaisselle après le dîner.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "pate",
+      "word": "pâte",
+      "en": "pâte",
+      "sourceId": "dough",
+      "sourceIds": [
+        "dough"
+      ],
+      "ru": [
+        "тесто"
+      ],
+      "gender": "f",
+      "example": "Elle prépare une pâte pour faire du pain.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "saveur",
+      "word": "saveur",
+      "en": "saveur",
+      "sourceId": "flavor",
+      "sourceIds": [
+        "flavor"
+      ],
+      "ru": [
+        "вкус",
+        "аромат",
+        "букет"
+      ],
+      "gender": "f",
+      "example": "Cette glace a une saveur délicieuse.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "assaisonnement",
+      "word": "assaisonnement",
+      "en": "assaisonnement",
+      "sourceId": "flavoring",
+      "sourceIds": [
+        "flavoring"
+      ],
+      "ru": [
+        "приправа"
+      ],
+      "gender": "m",
+      "example": "Cet assaisonnement relève le goût de la soupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "farine",
+      "word": "farine",
+      "en": "farine",
+      "sourceId": "flour",
+      "sourceIds": [
+        "flour"
+      ],
+      "ru": [
+        "мука"
+      ],
+      "gender": "f",
+      "example": "Il faut ajouter de la farine pour épaissir la sauce.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "fourchette",
+      "word": "fourchette",
+      "en": "fourchette",
+      "sourceId": "fork",
+      "sourceIds": [
+        "fork"
+      ],
+      "ru": [
+        "вилка"
+      ],
+      "gender": "f",
+      "example": "Elle mange avec une fourchette.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "congelateur",
+      "word": "congélateur",
+      "en": "congélateur",
+      "sourceId": "freezer",
+      "sourceIds": [
+        "freezer"
+      ],
+      "ru": [
+        "морозильник",
+        "морозильная камера"
+      ],
+      "gender": "m",
+      "example": "J'ai mis la viande dans le congélateur.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "frais",
+      "word": "frais",
+      "en": "frais",
+      "sourceId": "fresh",
+      "sourceIds": [
+        "fresh"
+      ],
+      "ru": [
+        "свежий"
+      ],
+      "gender": null,
+      "example": "J'aime manger des fruits frais le matin.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "frit",
+      "word": "frit",
+      "en": "frit",
+      "sourceId": "fried",
+      "sourceIds": [
+        "fried"
+      ],
+      "ru": [
+        "жареный"
+      ],
+      "gender": null,
+      "example": "J'aime manger du poisson frit.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "frire",
+      "word": "frire",
+      "en": "frire",
+      "sourceId": "fry",
+      "sourceIds": [
+        "fry"
+      ],
+      "ru": [
+        "жарить"
+      ],
+      "gender": null,
+      "example": "Il faut frire les pommes de terre dans de l'huile chaude.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "verre",
+      "word": "verre",
+      "en": "verre",
+      "sourceId": "glass",
+      "sourceIds": [
+        "glass"
+      ],
+      "ru": [
+        "стекло",
+        "бокал",
+        "стакан"
+      ],
+      "gender": "m",
+      "example": "Il boit de l'eau dans un verre.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "gril",
+      "word": "gril",
+      "en": "gril",
+      "sourceId": "grill",
+      "sourceIds": [
+        "grill"
+      ],
+      "ru": [
+        "решётка",
+        "барбекю",
+        "барбекюшница"
+      ],
+      "gender": "m",
+      "example": "Il fait cuire la viande sur le gril.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "grille",
+      "word": "grillé",
+      "en": "grillé",
+      "sourceId": "grilled",
+      "sourceIds": [
+        "grilled"
+      ],
+      "ru": [
+        "жареный"
+      ],
+      "gender": null,
+      "example": "J'ai mangé un poulet grillé pour le déjeuner.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "viande-hachee",
+      "word": "viande hachée",
+      "en": "viande hachée",
+      "sourceId": "ground-meat",
+      "sourceIds": [
+        "ground-meat"
+      ],
+      "ru": [
+        "фарш"
+      ],
+      "gender": "f",
+      "example": "J'ai besoin de viande hachée pour préparer des spaghettis bolognaise.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chaleur",
+      "word": "chaleur",
+      "en": "chaleur",
+      "sourceId": "heat",
+      "sourceIds": [
+        "heat"
+      ],
+      "ru": [
+        "тепло",
+        "жара",
+        "жар"
+      ],
+      "gender": "f",
+      "example": "La chaleur du soleil est agréable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "herbe",
+      "word": "herbe",
+      "en": "herbe",
+      "sourceId": "herb",
+      "sourceIds": [
+        "herb"
+      ],
+      "ru": [
+        "пряная трава",
+        "зелень"
+      ],
+      "gender": "f",
+      "example": "J'ai ajouté des herbes fraîches à la sauce.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "ingredient",
+      "word": "ingrédient",
+      "en": "ingrédient",
+      "sourceId": "ingredient",
+      "sourceIds": [
+        "ingredient"
+      ],
+      "ru": [
+        "ингредиент",
+        "компонент",
+        "составная часть"
+      ],
+      "gender": "m",
+      "example": "La liste des ingrédients est indiquée sur l'emballage.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "aide-cuisinier",
+      "word": "aide-cuisinier",
+      "en": "aide-cuisinier",
+      "sourceId": "kitchenhand",
+      "sourceIds": [
+        "kitchenhand"
+      ],
+      "ru": [
+        "помощник повара",
+        "помощница повара"
+      ],
+      "gender": "m",
+      "example": "L'aide-cuisinier prépare les légumes pour le chef.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "couteau",
+      "word": "couteau",
+      "en": "couteau",
+      "sourceId": "knife",
+      "sourceIds": [
+        "knife"
+      ],
+      "ru": [
+        "нож",
+        "ножик",
+        "перо"
+      ],
+      "gender": "m",
+      "example": "Il coupe le pain avec un couteau.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "faire-fondre",
+      "word": "faire fondre",
+      "en": "faire fondre",
+      "sourceId": "melt-down",
+      "sourceIds": [
+        "melt-down"
+      ],
+      "ru": [
+        "расплавить"
+      ],
+      "gender": null,
+      "example": "Il faut faire fondre le chocolat au bain-marie.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "menu",
+      "word": "menu",
+      "en": "menu",
+      "sourceId": "menu",
+      "sourceIds": [
+        "menu"
+      ],
+      "ru": [
+        "меню"
+      ],
+      "gender": "m",
+      "example": "Pourrais-je voir le menu, s'il vous plaît ?",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "micro-ondes",
+      "word": "micro-ondes",
+      "en": "micro-ondes",
+      "sourceId": "microwave",
+      "sourceIds": [
+        "microwave"
+      ],
+      "ru": [
+        "микроволна",
+        "готовить в микроволновой печи"
+      ],
+      "gender": "m",
+      "example": "Je réchauffe mon déjeuner au micro-ondes.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "melanger",
+      "word": "mélanger",
+      "en": "mélanger",
+      "sourceId": "mix",
+      "sourceIds": [
+        "mix"
+      ],
+      "ru": [
+        "смешивать",
+        "смесь",
+        "мешать"
+      ],
+      "gender": null,
+      "example": "Il faut bien mélanger les ingrédients.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mixte",
+      "word": "mixte",
+      "en": "mixte",
+      "sourceId": "mixed",
+      "sourceIds": [
+        "mixed"
+      ],
+      "ru": [
+        "смешанный"
+      ],
+      "gender": null,
+      "example": "C'est une école mixte.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "huile",
+      "word": "huile",
+      "en": "huile",
+      "sourceId": "oil",
+      "sourceIds": [
+        "oil"
+      ],
+      "ru": [
+        "масло",
+        "нефть",
+        "петролеум"
+      ],
+      "gender": "f",
+      "example": "Il faut ajouter un peu d'huile dans la poêle.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "four",
+      "word": "four",
+      "en": "four",
+      "sourceId": "oven",
+      "sourceIds": [
+        "oven"
+      ],
+      "ru": [
+        "печь",
+        "духовка",
+        "печка"
+      ],
+      "gender": "m",
+      "example": "Je fais cuire le gâteau dans le four.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "poele",
+      "word": "poêle",
+      "en": "poêle",
+      "sourceId": "pan",
+      "sourceIds": [
+        "pan"
+      ],
+      "ru": [
+        "противень",
+        "сковорода",
+        "кастрюля"
+      ],
+      "gender": "f",
+      "example": "Elle fait chauffer l'huile dans la poêle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "peau",
+      "word": "peau",
+      "en": "peau",
+      "sourceId": "peel",
+      "sourceIds": [
+        "peel"
+      ],
+      "ru": [
+        "кожица",
+        "корка",
+        "кожура"
+      ],
+      "gender": "f",
+      "example": "Il faut enlever la peau de l'orange avant de la manger.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "eplucheur",
+      "word": "éplucheur",
+      "en": "éplucheur",
+      "sourceId": "peeler",
+      "sourceIds": [
+        "peeler"
+      ],
+      "ru": [
+        "картофелечистка"
+      ],
+      "gender": "m",
+      "example": "J'utilise un éplucheur pour préparer les pommes de terre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "epluchure",
+      "word": "épluchure",
+      "en": "épluchure",
+      "sourceId": "peeling",
+      "sourceIds": [
+        "peeling"
+      ],
+      "ru": [
+        "кожица",
+        "корка",
+        "очистки"
+      ],
+      "gender": "f",
+      "example": "Il a mis les épluchures de pommes dans le compost.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "poivre",
+      "word": "poivre",
+      "en": "poivre",
+      "sourceId": "pepper",
+      "sourceIds": [
+        "pepper"
+      ],
+      "ru": [
+        "перец",
+        "чёрный перец",
+        "перчить"
+      ],
+      "gender": "m",
+      "example": "Ajoutez une pincée de poivre dans la soupe.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "assiette",
+      "word": "assiette",
+      "en": "assiette",
+      "sourceId": "plate",
+      "sourceIds": [
+        "plate"
+      ],
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "блюдце"
+      ],
+      "gender": "f",
+      "example": "Elle pose l'assiette sur la table.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "portion",
+      "word": "portion",
+      "en": "portion",
+      "sourceId": "portion",
+      "sourceIds": [
+        "portion"
+      ],
+      "ru": [
+        "доля",
+        "часть",
+        "пай"
+      ],
+      "gender": "f",
+      "example": "Il a mangé une petite portion de gâteau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pot",
+      "word": "pot",
+      "en": "pot",
+      "sourceId": "pot",
+      "sourceIds": [
+        "pot"
+      ],
+      "ru": [
+        "горшок",
+        "банка",
+        "кастрюля"
+      ],
+      "gender": "m",
+      "example": "Il fait bouillir de l'eau dans un grand pot.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "verser",
+      "word": "verser",
+      "en": "verser",
+      "sourceId": "pour",
+      "sourceIds": [
+        "pour"
+      ],
+      "ru": [
+        "лить",
+        "излить",
+        "изливать"
+      ],
+      "gender": null,
+      "example": "Il verse du lait dans son café.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "preparation",
+      "word": "préparation",
+      "en": "préparation",
+      "sourceId": "preparation",
+      "sourceIds": [
+        "preparation"
+      ],
+      "ru": [
+        "подготовка",
+        "приготовление",
+        "препарат"
+      ],
+      "gender": "f",
+      "example": "La préparation de ce plat prend beaucoup de temps.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "preparer",
+      "word": "préparer",
+      "en": "préparer",
+      "sourceId": "prepare",
+      "sourceIds": [
+        "prepare"
+      ],
+      "ru": [
+        "готовить",
+        "подготавливать"
+      ],
+      "gender": null,
+      "example": "Prépare-toi pour l'examen.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "preparer-un-repas",
+      "word": "préparer un repas",
+      "en": "préparer un repas",
+      "sourceId": "prepare-a-meal",
+      "sourceIds": [
+        "prepare-a-meal"
+      ],
+      "ru": [
+        "готовить еду"
+      ],
+      "gender": null,
+      "example": "Je vais préparer un repas pour mes amis ce soir.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "prepare",
+      "word": "préparé",
+      "en": "préparé",
+      "sourceId": "prepared",
+      "sourceIds": [
+        "prepared"
+      ],
+      "ru": [
+        "готовый",
+        "подготовленный"
+      ],
+      "gender": null,
+      "example": "Le dîner est déjà préparé.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "preparation",
+      "word": "préparation",
+      "en": "préparation",
+      "sourceId": "preparedness",
+      "sourceIds": [
+        "preparedness"
+      ],
+      "ru": [
+        "готовность",
+        "подготовленность"
+      ],
+      "gender": "f",
+      "example": "La préparation est la clé du succès.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cru",
+      "word": "cru",
+      "en": "cru",
+      "sourceId": "raw",
+      "sourceIds": [
+        "raw"
+      ],
+      "ru": [
+        "сырой",
+        "необработанный"
+      ],
+      "gender": null,
+      "example": "Il ne faut pas manger de la viande crue.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "recette",
+      "word": "recette",
+      "en": "recette",
+      "sourceId": "recipe",
+      "sourceIds": [
+        "recipe"
+      ],
+      "ru": [
+        "рецепт"
+      ],
+      "gender": "f",
+      "example": "J'ai trouvé une excellente recette de gâteau au chocolat.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "roti",
+      "word": "rôti",
+      "en": "rôti",
+      "sourceId": "roast",
+      "sourceIds": [
+        "roast"
+      ],
+      "ru": [
+        "жарить",
+        "жареный",
+        "жаркое"
+      ],
+      "gender": null,
+      "example": "J'aime manger du poulet rôti.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "salade",
+      "word": "salade",
+      "en": "salade",
+      "sourceId": "salad",
+      "sourceIds": [
+        "salad"
+      ],
+      "ru": [
+        "салат"
+      ],
+      "gender": "f",
+      "example": "J'ai commandé une salade verte.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sale",
+      "word": "salé",
+      "en": "salé",
+      "sourceId": "salt",
+      "sourceIds": [
+        "salt"
+      ],
+      "ru": [
+        "соль",
+        "солить"
+      ],
+      "gender": null,
+      "example": "Ce plat est trop salé.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "sale",
+      "word": "salé",
+      "en": "salé",
+      "sourceId": "salted",
+      "sourceIds": [
+        "salted"
+      ],
+      "ru": [
+        "солёный"
+      ],
+      "gender": null,
+      "example": "J'aime manger du beurre salé.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "sale",
+      "word": "salé",
+      "en": "salé",
+      "sourceId": "salty",
+      "sourceIds": [
+        "salty"
+      ],
+      "ru": [
+        "солёный",
+        "соляной"
+      ],
+      "gender": null,
+      "example": "Cette soupe est trop salée.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "sauce",
+      "word": "sauce",
+      "en": "sauce",
+      "sourceId": "sauce",
+      "sourceIds": [
+        "sauce"
+      ],
+      "ru": [
+        "соус",
+        "подливка"
+      ],
+      "gender": "f",
+      "example": "Cette sauce est délicieuse avec le poisson.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "soucoupe",
+      "word": "soucoupe",
+      "en": "soucoupe",
+      "sourceId": "saucer",
+      "sourceIds": [
+        "saucer"
+      ],
+      "ru": [
+        "блюдце"
+      ],
+      "gender": "f",
+      "example": "Elle a posé sa tasse sur la soucoupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "assaisonnement",
+      "word": "assaisonnement",
+      "en": "assaisonnement",
+      "sourceId": "seasoning",
+      "sourceIds": [
+        "seasoning"
+      ],
+      "ru": [
+        "приправа",
+        "специя"
+      ],
+      "gender": "m",
+      "example": "Cet assaisonnement relève le goût de la soupe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "servir",
+      "word": "servir",
+      "en": "servir",
+      "sourceId": "serve--cooking",
+      "sourceIds": [
+        "serve--cooking"
+      ],
+      "ru": [
+        "подавать"
+      ],
+      "gender": null,
+      "example": "Ils servent le petit-déjeuner jusqu'à dix heures.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "serveur",
+      "word": "serveur",
+      "en": "serveur",
+      "sourceId": "server",
+      "sourceIds": [
+        "server"
+      ],
+      "ru": [
+        "сервер",
+        "официант",
+        "официантка"
+      ],
+      "gender": "m",
+      "example": "Le serveur a apporté les plats à notre table.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "portion",
+      "word": "portion",
+      "en": "portion",
+      "sourceId": "serving",
+      "sourceIds": [
+        "serving"
+      ],
+      "ru": [
+        "обслуживание",
+        "порция"
+      ],
+      "gender": "f",
+      "example": "Il a mangé une grande portion de gâteau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tranche",
+      "word": "tranche",
+      "en": "tranche",
+      "sourceId": "slice",
+      "sourceIds": [
+        "slice"
+      ],
+      "ru": [
+        "ломоть",
+        "кусок",
+        "кусочек"
+      ],
+      "gender": "f",
+      "example": "Elle a coupé une fine tranche de pain.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "trancheuse",
+      "word": "trancheuse",
+      "en": "trancheuse",
+      "sourceId": "slicer",
+      "sourceIds": [
+        "slicer"
+      ],
+      "ru": [
+        "мясорезка"
+      ],
+      "gender": "f",
+      "example": "Elle utilise une trancheuse pour couper le jambon.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "soupe",
+      "word": "soupe",
+      "en": "soupe",
+      "sourceId": "soup",
+      "sourceIds": [
+        "soup"
+      ],
+      "ru": [
+        "суп",
+        "похлёбка",
+        "уха"
+      ],
+      "gender": "f",
+      "example": "La soupe est chaude et savoureuse.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "acide",
+      "word": "acide",
+      "en": "acide",
+      "sourceId": "sour",
+      "sourceIds": [
+        "sour"
+      ],
+      "ru": [
+        "кислый",
+        "прокисший"
+      ],
+      "gender": null,
+      "example": "Ce citron est très acide.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "epice",
+      "word": "épice",
+      "en": "épice",
+      "sourceId": "spice",
+      "sourceIds": [
+        "spice"
+      ],
+      "ru": [
+        "пряность",
+        "приправа",
+        "специя"
+      ],
+      "gender": "f",
+      "example": "Cette épice donne un goût délicieux au plat.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "epice-spicy",
+      "word": "épicé",
+      "en": "épicé",
+      "sourceId": "spicy",
+      "sourceIds": [
+        "spicy"
+      ],
+      "ru": [
+        "острый",
+        "пряный"
+      ],
+      "gender": null,
+      "example": "J'adore manger des plats épicés.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "cuillere",
+      "word": "cuillère",
+      "en": "cuillère",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "ru": [
+        "ложка",
+        "ложечка"
+      ],
+      "gender": "f",
+      "example": "Elle mange sa soupe avec une cuillère.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "vapeur",
+      "word": "vapeur",
+      "en": "vapeur",
+      "sourceId": "steam",
+      "sourceIds": [
+        "steam"
+      ],
+      "ru": [
+        "пар"
+      ],
+      "gender": "f",
+      "example": "La vapeur s'échappe de la bouilloire.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "cuiseur-vapeur",
+      "word": "cuiseur-vapeur",
+      "en": "cuiseur-vapeur",
+      "sourceId": "steamer",
+      "sourceIds": [
+        "steamer"
+      ],
+      "ru": [
+        "пароварка"
+      ],
+      "gender": "m",
+      "example": "Je fais cuire mes légumes dans un cuiseur-vapeur.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cuisson-a-la-vapeur",
+      "word": "cuisson à la vapeur",
+      "en": "cuisson à la vapeur",
+      "sourceId": "steaming",
+      "sourceIds": [
+        "steaming"
+      ],
+      "ru": [
+        "готовка на пару"
+      ],
+      "gender": "f",
+      "example": "La cuisson à la vapeur préserve les vitamines des légumes.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "remuer",
+      "word": "remuer",
+      "en": "remuer",
+      "sourceId": "stir",
+      "sourceIds": [
+        "stir"
+      ],
+      "ru": [
+        "мешать",
+        "размешивать"
+      ],
+      "gender": null,
+      "example": "Il faut remuer la soupe pour qu'elle ne brûle pas.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "cuisiniere",
+      "word": "cuisinière",
+      "en": "cuisinière",
+      "sourceId": "stove",
+      "sourceIds": [
+        "stove"
+      ],
+      "ru": [
+        "плита",
+        "печка",
+        "плитка"
+      ],
+      "gender": "f",
+      "example": "Elle fait cuire le dîner sur la cuisinière.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fourrage",
+      "word": "fourrage",
+      "en": "fourrage",
+      "sourceId": "stover",
+      "sourceIds": [
+        "stover"
+      ],
+      "ru": [
+        "грубые корма для скота"
+      ],
+      "gender": "m",
+      "example": "Le bétail se nourrit de fourrage pendant l'hiver.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sucre",
+      "word": "sucre",
+      "en": "sucre",
+      "sourceId": "sugar",
+      "sourceIds": [
+        "sugar"
+      ],
+      "ru": [
+        "сахар",
+        "сахарить"
+      ],
+      "gender": "m",
+      "example": "Il met deux morceaux de sucre dans son café.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "epilation-au-sucre",
+      "word": "épilation au sucre",
+      "en": "épilation au sucre",
+      "sourceId": "sugaring",
+      "sourceIds": [
+        "sugaring"
+      ],
+      "ru": [
+        "шугаринг"
+      ],
+      "gender": "f",
+      "example": "Elle préfère l'épilation au sucre pour sa peau sensible.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sucre-sweet",
+      "word": "sucré",
+      "en": "sucré",
+      "sourceId": "sweet",
+      "sourceIds": [
+        "sweet"
+      ],
+      "ru": [
+        "сладкий",
+        "конфета"
+      ],
+      "gender": null,
+      "example": "Ce dessert est très sucré.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "doucement",
+      "word": "doucement",
+      "en": "doucement",
+      "sourceId": "sweetly",
+      "sourceIds": [
+        "sweetly"
+      ],
+      "ru": [
+        "сладко"
+      ],
+      "gender": null,
+      "example": "Elle chante doucement.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "bonbon",
+      "word": "bonbon",
+      "en": "bonbon",
+      "sourceId": "sweets",
+      "sourceIds": [
+        "sweets"
+      ],
+      "ru": [
+        "конфета",
+        "кондитерские изделия",
+        "сладость"
+      ],
+      "gender": "m",
+      "example": "Les enfants adorent manger des bonbons.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "gout",
+      "word": "goût",
+      "en": "goût",
+      "sourceId": "taste",
+      "sourceIds": [
+        "taste"
+      ],
+      "ru": [
+        "вкус",
+        "склонность",
+        "пробовать"
+      ],
+      "gender": "m",
+      "example": "Je veux imposer des goûts, pas seulement les satisfaire.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "degustation",
+      "word": "dégustation",
+      "en": "dégustation",
+      "sourceId": "tasting",
+      "sourceIds": [
+        "tasting"
+      ],
+      "ru": [
+        "дегустация",
+        "пробование"
+      ],
+      "gender": "f",
+      "example": "La dégustation de vin commence par l'observation de la robe.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "minuteur",
+      "word": "minuteur",
+      "en": "minuteur",
+      "sourceId": "timer",
+      "sourceIds": [
+        "timer"
+      ],
+      "ru": [
+        "таймер",
+        "реле времени"
+      ],
+      "gender": "m",
+      "example": "Réglez le minuteur sur dix minutes pour la cuisson.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "levure",
+      "word": "levure",
+      "en": "levure",
+      "sourceId": "yeast",
+      "sourceIds": [
+        "yeast"
+      ],
+      "ru": [
+        "дрожжи"
+      ],
+      "gender": "f",
+      "example": "Il faut ajouter de la levure pour faire lever la pâte.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "ragout",
+      "word": "ragoût",
+      "en": "ragoût",
+      "sourceId": "stew",
+      "sourceIds": [
+        "stew"
+      ],
+      "ru": [
+        "тушить"
+      ],
+      "gender": "m",
+      "example": "Ils sont aussi excellents dans les ragoûts.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "friable",
+      "word": "friable",
+      "en": "friable",
+      "sourceId": "friable",
+      "sourceIds": [
+        "friable"
+      ],
+      "ru": [
+        "рассыпчатый",
+        "хрупкий"
+      ],
+      "gender": null,
+      "example": "La surface friable du sol.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "graisse",
+      "word": "graisse",
+      "en": "graisse",
+      "sourceId": "grease",
+      "sourceIds": [
+        "grease"
+      ],
+      "ru": [
+        "смазка",
+        "жир"
+      ],
+      "gender": "f",
+      "example": "Il faut mettre de la graisse sur la chaîne du vélo.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "escarpe",
+      "word": "escarpé",
+      "en": "escarpé",
+      "sourceId": "steep",
+      "sourceIds": [
+        "steep"
+      ],
+      "ru": [
+        "замачивать",
+        "настаивать"
+      ],
+      "gender": null,
+      "example": "C'est la rive la plus escarpée.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "melanger",
+      "word": "mélanger",
+      "en": "mélanger",
+      "sourceId": "blend",
+      "sourceIds": [
+        "blend"
+      ],
+      "ru": [
+        "смешивать",
+        "смесь"
+      ],
+      "gender": null,
+      "example": "Ils vont bien se mélanger.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "seche-au-soleil",
+      "word": "séché au soleil",
+      "en": "séché au soleil",
+      "sourceId": "sun-dried",
+      "sourceIds": [
+        "sun-dried"
+      ],
+      "ru": [
+        "вяленый на солнце"
+      ],
+      "gender": null,
+      "example": "Des crevettes de rivière séchées au soleil.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "brochette",
+      "word": "brochette",
+      "en": "brochette",
+      "sourceId": "skewer",
+      "sourceIds": [
+        "skewer"
+      ],
+      "ru": [
+        "шампур",
+        "нанизывать"
+      ],
+      "gender": "f",
+      "example": "La viande est mise sur une brochette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "soiree-de-rencontre",
+      "word": "soirée de rencontre",
+      "en": "soirée de rencontre",
+      "sourceId": "mixer",
+      "sourceIds": [
+        "mixer"
+      ],
+      "ru": [
+        "миксер"
+      ],
+      "gender": "f",
+      "example": "Nous nous sommes rencontrés lors de la soirée de rencontre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "se-preparer",
+      "word": "se préparer",
+      "en": "se préparer",
+      "sourceId": "brew",
+      "sourceIds": [
+        "brew"
+      ],
+      "ru": [
+        "варить",
+        "заваривать"
+      ],
+      "gender": null,
+      "example": "Une grosse merde se prépare.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "cueillir",
+      "word": "cueillir",
+      "en": "cueillir",
+      "sourceId": "pluck",
+      "sourceIds": [
+        "pluck"
+      ],
+      "ru": [
+        "щипать",
+        "ощипывать",
+        "срывать"
+      ],
+      "gender": null,
+      "example": "ralentir le temps pendant que je cueille",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "couverts",
+      "word": "couverts",
+      "en": "couverts",
+      "sourceId": "flatware",
+      "sourceIds": [
+        "flatware"
+      ],
+      "ru": [
+        "столовые приборы"
+      ],
+      "gender": "f",
+      "example": "Est-ce qu'on a tous les couverts ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rape",
+      "word": "râpe",
+      "en": "râpe",
+      "sourceId": "grater",
+      "sourceIds": [
+        "grater"
+      ],
+      "ru": [
+        "терка"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une nouvelle râpe à fromage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tamiser",
+      "word": "tamiser",
+      "en": "tamiser",
+      "sourceId": "sift",
+      "sourceIds": [
+        "sift"
+      ],
+      "ru": [
+        "просеивать",
+        "отсеивать"
+      ],
+      "gender": null,
+      "example": "Alors que je tamisais les décombres.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "sculpter",
+      "word": "sculpter",
+      "en": "sculpter",
+      "sourceId": "carve",
+      "sourceIds": [
+        "carve"
+      ],
+      "ru": [
+        "вырезать",
+        "резать"
+      ],
+      "gender": null,
+      "example": "Quelque chose est sculpté.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bouilloire",
+      "word": "bouilloire",
+      "en": "bouilloire",
+      "sourceId": "kettle",
+      "sourceIds": [
+        "kettle"
+      ],
+      "ru": [
+        "чайник"
+      ],
+      "gender": "f",
+      "example": "La bouilloire vient de siffler si tu en veux une.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "deboucher",
+      "word": "déboucher",
+      "en": "déboucher",
+      "sourceId": "uncork",
+      "sourceIds": [
+        "uncork"
+      ],
+      "ru": [
+        "откупоривать"
+      ],
+      "gender": null,
+      "example": "Il faut déboucher la bouteille de vin.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "feu-doux",
+      "word": "feu doux",
+      "en": "feu doux",
+      "sourceId": "low-heat",
+      "sourceIds": [
+        "low-heat"
+      ],
+      "ru": [
+        "слабый огонь"
+      ],
+      "gender": "m",
+      "example": "Le secret est une réduction à feu doux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cuillere-a-cafe",
+      "word": "cuillère à café",
+      "en": "cuillère à café",
+      "sourceId": "teaspoon",
+      "sourceIds": [
+        "teaspoon"
+      ],
+      "ru": [
+        "чайная ложка"
+      ],
+      "gender": "f",
+      "example": "Deux cuillères à café.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tremper",
+      "word": "tremper",
+      "en": "tremper",
+      "sourceId": "dip",
+      "sourceIds": [
+        "dip"
+      ],
+      "ru": [
+        "погружение",
+        "соус"
+      ],
+      "gender": null,
+      "example": "Trempe-les dans le lait.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "garnir",
+      "word": "garnir",
+      "en": "garnir",
+      "sourceId": "garnish",
+      "sourceIds": [
+        "garnish"
+      ],
+      "ru": [
+        "украшать блюдо"
+      ],
+      "gender": null,
+      "example": "Il faut garnir le plat avec des herbes fraîches.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "fouet",
+      "word": "fouet",
+      "en": "fouet",
+      "sourceId": "whisk",
+      "sourceIds": [
+        "whisk"
+      ],
+      "ru": [
+        "венчик",
+        "взбивать"
+      ],
+      "gender": "m",
+      "example": "Il faut battre les œufs avec un fouet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "desherber",
+      "word": "désherber",
+      "en": "désherber",
+      "sourceId": "weed",
+      "sourceIds": [
+        "weed"
+      ],
+      "ru": [
+        "полоть"
+      ],
+      "gender": null,
+      "example": "Il faut désherber le jardin avant l'été.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "couper-en-des",
+      "word": "couper en dés",
+      "en": "couper en dés",
+      "sourceId": "dice",
+      "sourceIds": [
+        "dice"
+      ],
+      "ru": [
+        "нарезать кубиками"
+      ],
+      "gender": null,
+      "example": "Coupez les légumes en dés.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mariner",
+      "word": "mariner",
+      "en": "mariner",
+      "sourceId": "marinate",
+      "sourceIds": [
+        "marinate"
+      ],
+      "ru": [
+        "мариновать"
+      ],
+      "gender": null,
+      "example": "Il aurait pu faire mariner un poulet.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "marinade",
+      "word": "marinade",
+      "en": "marinade",
+      "sourceId": "marinade",
+      "sourceIds": [
+        "marinade"
+      ],
+      "ru": [
+        "маринад"
+      ],
+      "gender": "f",
+      "example": "La sauce barbecue peut servir de marinade.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "epaissir",
+      "word": "épaissir",
+      "en": "épaissir",
+      "sourceId": "thicken",
+      "sourceIds": [
+        "thicken"
+      ],
+      "ru": [
+        "густеть",
+        "загущать"
+      ],
+      "gender": null,
+      "example": "Il faut épaissir la sauce avec un peu de farine.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bruler",
+      "word": "brûler",
+      "en": "brûler",
+      "sourceId": "sear",
+      "sourceIds": [
+        "sear"
+      ],
+      "ru": [
+        "обжигать",
+        "поджаривать"
+      ],
+      "gender": null,
+      "example": "Un téléphone a brûlé la peau humaine.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "diluer",
+      "word": "diluer",
+      "en": "diluer",
+      "sourceId": "dilute",
+      "sourceIds": [
+        "dilute"
+      ],
+      "ru": [
+        "разбавлять"
+      ],
+      "gender": null,
+      "example": "Il dilue la marque Lucifer !",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "poele",
+      "word": "poêle",
+      "en": "poêle",
+      "sourceId": "skillet",
+      "sourceIds": [
+        "skillet"
+      ],
+      "ru": [
+        "сковорода"
+      ],
+      "gender": "f",
+      "example": "Il disparaît comme de la salive sur une poêle chaude.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "refrigerer",
+      "word": "réfrigérer",
+      "en": "réfrigérer",
+      "sourceId": "refrigerate",
+      "sourceIds": [
+        "refrigerate"
+      ],
+      "ru": [
+        "охлаждать"
+      ],
+      "gender": null,
+      "example": "Il faut réfrigérer les aliments rapidement.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "refrigere",
+      "word": "réfrigéré",
+      "en": "réfrigéré",
+      "sourceId": "refrigerated",
+      "sourceIds": [
+        "refrigerated"
+      ],
+      "ru": [
+        "охлажденный"
+      ],
+      "gender": null,
+      "example": "Le stockage et les unités réfrigérées...",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "ecraser",
+      "word": "écraser",
+      "en": "écraser",
+      "sourceId": "mash",
+      "sourceIds": [
+        "mash"
+      ],
+      "ru": [
+        "разминать",
+        "пюре"
+      ],
+      "gender": null,
+      "example": "Écrasez l'accélérateur.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "theiere",
+      "word": "théière",
+      "en": "théière",
+      "sourceId": "teapot",
+      "sourceIds": [
+        "teapot"
+      ],
+      "ru": [
+        "чайник"
+      ],
+      "gender": "f",
+      "example": "Plus on utilise la théière, mieux c'est.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hacher",
+      "word": "hacher",
+      "en": "hacher",
+      "sourceId": "mince",
+      "sourceIds": [
+        "mince"
+      ],
+      "ru": [
+        "рубить",
+        "шинковать"
+      ],
+      "gender": null,
+      "example": "Hachez les deux autres.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "friteuse",
+      "word": "friteuse",
+      "en": "friteuse",
+      "sourceId": "fryer",
+      "sourceIds": [
+        "fryer"
+      ],
+      "ru": [
+        "фритюрница"
+      ],
+      "gender": "f",
+      "example": "Au fond de la friteuse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tablier",
+      "word": "tablier",
+      "en": "tablier",
+      "sourceId": "apron",
+      "sourceIds": [
+        "apron"
+      ],
+      "ru": [
+        "фартук"
+      ],
+      "gender": "m",
+      "example": "par des hommes en tablier,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vermicelle",
+      "word": "vermicelle",
+      "en": "vermicelle",
+      "sourceId": "sprinkle",
+      "sourceIds": [
+        "sprinkle"
+      ],
+      "ru": [
+        "щепотка",
+        "брызги"
+      ],
+      "gender": "m",
+      "example": "Ajoute des vermicelles sur ce gâteau !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vinaigre",
+      "word": "vinaigre",
+      "en": "vinaigre",
+      "sourceId": "vinegar",
+      "sourceIds": [
+        "vinegar"
+      ],
+      "ru": [
+        "уксус"
+      ],
+      "gender": "m",
+      "example": "des poivrons au vinaigre",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pocher",
+      "word": "pocher",
+      "en": "pocher",
+      "sourceId": "poach",
+      "sourceIds": [
+        "poach"
+      ],
+      "ru": [
+        "варить яйцо пашот",
+        "браконьерствовать"
+      ],
+      "gender": null,
+      "example": "Je n'aime pas les œufs pochés.",
+      "level": "B1",
+      "pos": "v"
+    }
+  ]
+}

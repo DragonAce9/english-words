@@ -1,0 +1,36 @@
+{
+  "character": "moti",
+  "version": 5,
+  "canvas": 512,
+  "displaySize": 128,
+  "frameMs": 21,
+  "frames": 145,
+  "actionDurationMs": 3045,
+  "notes": "512px storyboard clips, every source frame, played at 4x (21ms). Graduated stays a still. stage-bg.webp backdrop.",
+  "clips": {
+    "idle-graduated": { "image": "idle-graduated.webp", "meta": "idle-graduated.json", "status": "ready" },
+    "idle-cryo": { "image": "idle-cryo.webp", "meta": "idle-cryo.json", "status": "ready" }
+  },
+  "loops": {
+    "idle": { "image": "idle.webp", "still": "idle-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "coins": { "image": "coins.webp", "still": "coins-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "sad": { "image": "sad.webp", "still": "sad-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "feed": { "image": "feed.webp", "still": "feed-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "play": { "image": "play.webp", "still": "play-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "wave": { "image": "wave.webp", "still": "wave-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "cold": { "image": "cold.webp", "still": "cold-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "correct": { "image": "correct.webp", "still": "correct-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "drink": { "image": "drink.webp", "still": "drink-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "exam-passed": { "image": "exam-passed.webp", "still": "exam-passed-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "newword": { "image": "newword.webp", "still": "newword-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "shy": { "image": "shy.webp", "still": "shy-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "sleep": { "image": "sleep.webp", "still": "sleep-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "sneeze": { "image": "sneeze.webp", "still": "sneeze-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "stretch": { "image": "stretch.webp", "still": "stretch-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "test-passed": { "image": "test-passed.webp", "still": "test-passed-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "unfreeze": { "image": "unfreeze.webp", "still": "unfreeze-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "wrong": { "image": "wrong.webp", "still": "wrong-still.webp", "frames": 145, "frameMs": 21, "loop": true },
+    "yawn": { "image": "yawn.webp", "still": "yawn-still.webp", "frames": 145, "frameMs": 21, "loop": true }
+  },
+  "background": { "image": "stage-bg.webp", "status": "ready" }
+}

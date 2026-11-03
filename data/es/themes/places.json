@@ -1,0 +1,4281 @@
+{
+  "id": "places",
+  "title": "Город",
+  "paid": true,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "dirigir",
+      "word": "dirigir",
+      "en": "dirigir",
+      "ru": [
+        "адрес",
+        "адресовать",
+        "обратиться"
+      ],
+      "example": "\"¿A dónde se dirige?\" \"Voy hacia Chicago.\"",
+      "level": "A1",
+      "sourceId": "address",
+      "sourceIds": [
+        "address"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aeropuerto",
+      "word": "aeropuerto",
+      "en": "aeropuerto",
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "example": "Al llegar, me recogerán en el aeropuerto.",
+      "level": "A2",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "callejon",
+      "word": "callejón",
+      "en": "callejón",
+      "ru": [
+        "аллея",
+        "переулок"
+      ],
+      "example": "Detrás de mi casa hay un callejón.",
+      "level": "C2",
+      "sourceId": "alley",
+      "sourceIds": [
+        "alley"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dondequiera",
+      "word": "dondequiera",
+      "en": "dondequiera",
+      "ru": [
+        "где угодно",
+        "где-либо",
+        "где-нибудь"
+      ],
+      "example": "Dondequiera que mires podrás ver niños jugando.",
+      "level": "B1",
+      "sourceId": "anywhere",
+      "sourceIds": [
+        "anywhere"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "departamento",
+      "word": "departamento",
+      "en": "departamento",
+      "ru": [
+        "квартира",
+        "апартамент"
+      ],
+      "example": "Busqué por todos lados un departamento pequeño.",
+      "level": "A1",
+      "sourceId": "apartment",
+      "sourceIds": [
+        "apartment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "area",
+      "word": "área",
+      "en": "área",
+      "ru": [
+        "площадь",
+        "область",
+        "край"
+      ],
+      "example": "El área de mi casa es enorme.",
+      "level": "A1",
+      "sourceId": "area",
+      "sourceIds": [
+        "area"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alrededor-de",
+      "word": "alrededor de",
+      "en": "alrededor de",
+      "ru": [
+        "вокруг",
+        "кругом",
+        "по кругу"
+      ],
+      "example": "Alrededor de la ciudad corre un río.",
+      "level": "A1",
+      "sourceId": "around",
+      "sourceIds": [
+        "around"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "avenida",
+      "word": "avenida",
+      "en": "avenida",
+      "ru": [
+        "авеню",
+        "проспект"
+      ],
+      "example": "Esa avenida culmina en una gran plaza.",
+      "level": "B1",
+      "sourceId": "avenue",
+      "sourceIds": [
+        "avenue"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banco",
+      "word": "banco",
+      "en": "banco",
+      "ru": [
+        "банк"
+      ],
+      "example": "A menudo me tumbo en este banco.",
+      "level": "A2",
+      "sourceId": "bank",
+      "sourceIds": [
+        "bank"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banquero",
+      "word": "banquero",
+      "en": "banquero",
+      "ru": [
+        "банкир",
+        "банкирша",
+        "банкомёт"
+      ],
+      "example": "La vida de un banquero es difícil.",
+      "level": "C2",
+      "sourceId": "banker",
+      "sourceIds": [
+        "banker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bar",
+      "word": "bar",
+      "en": "bar",
+      "ru": [
+        "бар",
+        "стойка"
+      ],
+      "example": "El bar era un campo de nabos.",
+      "level": "A2",
+      "sourceId": "bar",
+      "sourceIds": [
+        "bar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "base",
+      "word": "base",
+      "en": "base",
+      "ru": [
+        "база",
+        "базис",
+        "основа"
+      ],
+      "example": "El vocabulario es la base del idioma.",
+      "level": "A2",
+      "sourceId": "base",
+      "sourceIds": [
+        "base"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuarto-de-bano",
+      "word": "cuarto de baño",
+      "en": "cuarto de baño",
+      "ru": [
+        "ванная комната"
+      ],
+      "example": "Esta casa tiene dos cuartos de baño.",
+      "level": "A1",
+      "sourceId": "bathroom",
+      "sourceIds": [
+        "bathroom"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muelle",
+      "word": "muelle",
+      "en": "muelle",
+      "ru": [
+        "гнедой",
+        "отсек",
+        "залив"
+      ],
+      "example": "Se rompió un muelle de mi cama.",
+      "level": "A2",
+      "sourceId": "bay",
+      "sourceIds": [
+        "bay"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "playa",
+      "word": "playa",
+      "en": "playa",
+      "ru": [
+        "пляж",
+        "взморье"
+      ],
+      "example": "Bruno tenía la playa para él solo.",
+      "level": "A1",
+      "sourceId": "beach",
+      "sourceIds": [
+        "beach"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manzana",
+      "word": "manzana",
+      "en": "manzana",
+      "ru": [
+        "квартал",
+        "городской квартал"
+      ],
+      "example": "A la chica le dio algunas manzanas.",
+      "level": "A2",
+      "sourceId": "block",
+      "sourceIds": [
+        "block"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "boulevard",
+      "word": "boulevard",
+      "en": "boulevard",
+      "ru": [
+        "бульвар",
+        "проспект"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "boulevard",
+      "sourceIds": [
+        "boulevard"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "puente",
+      "word": "puente",
+      "en": "puente",
+      "ru": [
+        "мост"
+      ],
+      "example": "A enemigo que huye, puente de plata.",
+      "level": "B1",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "construccion",
+      "word": "construcción",
+      "en": "construcción",
+      "ru": [
+        "строительство",
+        "стройка",
+        "дом"
+      ],
+      "example": "Desconocemos la fecha exacta de su construcción.",
+      "level": "A1",
+      "sourceId": "building",
+      "sourceIds": [
+        "building"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "campus",
+      "word": "campus",
+      "en": "campus",
+      "ru": [
+        "кампус"
+      ],
+      "example": "Por el momento estoy en el campus.",
+      "level": "A2",
+      "sourceId": "campus",
+      "sourceIds": [
+        "campus"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabo",
+      "word": "cabo",
+      "en": "cabo",
+      "ru": [
+        "мыс"
+      ],
+      "example": "A ver si podemos llevarlo a cabo.",
+      "level": "B1",
+      "sourceId": "cape",
+      "sourceIds": [
+        "cape"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capital",
+      "word": "capital",
+      "en": "capital",
+      "ru": [
+        "капитель",
+        "богатство",
+        "капитал"
+      ],
+      "example": "Buenos Aires es la capital de Argentina.",
+      "level": "A2",
+      "sourceId": "capital",
+      "sourceIds": [
+        "capital"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "castillo",
+      "word": "castillo",
+      "en": "castillo",
+      "ru": [
+        "замок"
+      ],
+      "example": "Antes había un castillo en la colina.",
+      "level": "B1",
+      "sourceId": "castle",
+      "sourceIds": [
+        "castle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "enroque",
+      "word": "enroque",
+      "en": "enroque",
+      "ru": [
+        "рокировка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "castling",
+      "sourceIds": [
+        "castling"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "catedral",
+      "word": "catedral",
+      "en": "catedral",
+      "ru": [
+        "кафедральный собор",
+        "собор"
+      ],
+      "example": "En España hay gran abundancia de catedrales.",
+      "level": "C1",
+      "sourceId": "cathedral",
+      "sourceIds": [
+        "cathedral"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centro",
+      "word": "centro",
+      "en": "centro",
+      "ru": [
+        "центр",
+        "середина",
+        "средина"
+      ],
+      "example": "A menudo los domingos voy al centro.",
+      "level": "A1",
+      "sourceId": "center",
+      "sourceIds": [
+        "center"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestuario",
+      "word": "vestuario",
+      "en": "vestuario",
+      "ru": [
+        "примерочная"
+      ],
+      "example": "El vestuario de las chicas está limpio.",
+      "level": "B1",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "iglesia",
+      "word": "iglesia",
+      "en": "iglesia",
+      "ru": [
+        "церковь",
+        "костёл",
+        "кирха"
+      ],
+      "example": "El niño no fue a la iglesia.",
+      "level": "A2",
+      "sourceId": "church",
+      "sourceIds": [
+        "church"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cine",
+      "word": "cine",
+      "en": "cine",
+      "ru": [
+        "кинотеатр",
+        "кино",
+        "киношка"
+      ],
+      "example": "A Tom le gusta ir al cine.",
+      "level": "B1",
+      "sourceId": "cinema",
+      "sourceIds": [
+        "cinema"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciudadano",
+      "word": "ciudadano",
+      "en": "ciudadano",
+      "ru": [
+        "гражданин",
+        "гражданка",
+        "подданная"
+      ],
+      "example": "La ciudad fue abandonada por los ciudadanos.",
+      "level": "B2",
+      "sourceId": "citizen",
+      "sourceIds": [
+        "citizen"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciudad",
+      "word": "ciudad",
+      "en": "ciudad",
+      "ru": [
+        "город",
+        "град"
+      ],
+      "example": "A María la enterraron en esta ciudad.",
+      "level": "A1",
+      "sourceId": "city",
+      "sourceIds": [
+        "city"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "costa",
+      "word": "costa",
+      "en": "costa",
+      "ru": [
+        "побережье",
+        "морской берег",
+        "берег"
+      ],
+      "example": "Adriana es de Costa Rica. Es costarricense.",
+      "level": "A2",
+      "sourceId": "coast",
+      "sourceIds": [
+        "coast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "girar",
+      "word": "girar",
+      "en": "girar",
+      "ru": [
+        "угол",
+        "перекресток"
+      ],
+      "example": "Aquel tiovivo giraba a una velocidad demencial.",
+      "level": "B1",
+      "sourceId": "corner",
+      "sourceIds": [
+        "corner"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "campo",
+      "word": "campo",
+      "en": "campo",
+      "ru": [
+        "сельская местность",
+        "деревня",
+        "село"
+      ],
+      "example": "Anna extraña su casa en el campo.",
+      "level": "C2",
+      "sourceId": "countryside",
+      "sourceIds": [
+        "countryside"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "condado",
+      "word": "condado",
+      "en": "condado",
+      "ru": [
+        "графство",
+        "округ",
+        "уезд"
+      ],
+      "example": "Esta es la mejor escuela del condado.",
+      "level": "A1",
+      "sourceId": "county",
+      "sourceIds": [
+        "county"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patio",
+      "word": "patio",
+      "en": "patio",
+      "ru": [
+        "двор",
+        "суд"
+      ],
+      "example": "El bebé llegó gateando hasta el patio.",
+      "level": "A1",
+      "sourceId": "court--places",
+      "sourceIds": [
+        "court--places"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-traves",
+      "word": "de través",
+      "en": "de través",
+      "ru": [
+        "перекрёстный",
+        "поперечный",
+        "сердитый"
+      ],
+      "example": "A través de mí reinan los reyes.",
+      "level": "A2",
+      "sourceId": "cross",
+      "sourceIds": [
+        "cross"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cruce",
+      "word": "cruce",
+      "en": "cruce",
+      "ru": [
+        "перекрёсток",
+        "пересечение",
+        "переезд"
+      ],
+      "example": "Deberías tener más cuidado en un cruce.",
+      "level": "B2",
+      "sourceId": "crossing",
+      "sourceIds": [
+        "crossing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "distancia",
+      "word": "distancia",
+      "en": "distancia",
+      "ru": [
+        "расстояние",
+        "дистанция",
+        "отдалённость"
+      ],
+      "example": "A esta distancia veo mejor sin gafas.",
+      "level": "A2",
+      "sourceId": "distance",
+      "sourceIds": [
+        "distance"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "distrito",
+      "word": "distrito",
+      "en": "distrito",
+      "ru": [
+        "дистрикт",
+        "область",
+        "округ"
+      ],
+      "example": "Distrito postal y distrito municipal son diferentes.",
+      "level": "A1",
+      "sourceId": "district",
+      "sourceIds": [
+        "district"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centro",
+      "word": "centro",
+      "en": "centro",
+      "ru": [
+        "деловая часть города",
+        "сити",
+        "центр"
+      ],
+      "example": "A menudo los domingos voy al centro.",
+      "level": "B1",
+      "sourceId": "downtown",
+      "sourceIds": [
+        "downtown"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oriental",
+      "word": "oriental",
+      "en": "oriental",
+      "ru": [
+        "восточный"
+      ],
+      "example": "El ruso es una lengua eslava oriental.",
+      "level": "B1",
+      "sourceId": "eastern",
+      "sourceIds": [
+        "eastern"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oriental",
+      "word": "oriental",
+      "en": "oriental",
+      "ru": [
+        "житель Востока",
+        "жительница Востока",
+        "уроженец Востока"
+      ],
+      "example": "El ruso es una lengua eslava oriental.",
+      "level": "C2",
+      "sourceId": "easterner",
+      "sourceIds": [
+        "easterner"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "embajada",
+      "word": "embajada",
+      "en": "embajada",
+      "ru": [
+        "посольство"
+      ],
+      "example": "Disculpe, ¿dónde se ubica la embajada estadounidense?",
+      "level": "C1",
+      "sourceId": "embassy",
+      "sourceIds": [
+        "embassy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "entrada",
+      "word": "entrada",
+      "en": "entrada",
+      "ru": [
+        "вход",
+        "вхождение",
+        "въезд"
+      ],
+      "example": "Deberíamos quitarnos los zapatos en la entrada.",
+      "level": "B2",
+      "sourceId": "entrance",
+      "sourceIds": [
+        "entrance"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "entrada",
+      "word": "entrada",
+      "en": "entrada",
+      "ru": [
+        "вход",
+        "въезд",
+        "вступление"
+      ],
+      "example": "Deberíamos quitarnos los zapatos en la entrada.",
+      "level": "A2",
+      "sourceId": "entry",
+      "sourceIds": [
+        "entry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por-todas-partes",
+      "word": "por todas partes",
+      "en": "por todas partes",
+      "ru": [
+        "везде",
+        "всюду",
+        "повсюду"
+      ],
+      "example": "El culpable dejó pistas por todas partes.",
+      "level": "B2",
+      "sourceId": "everywhere",
+      "sourceIds": [
+        "everywhere"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salida",
+      "word": "salida",
+      "en": "salida",
+      "ru": [
+        "выход",
+        "выезд",
+        "выйти"
+      ],
+      "example": "Coja la segunda salida en la rotonda.",
+      "level": "B1",
+      "sourceId": "exit",
+      "sourceIds": [
+        "exit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tejido",
+      "word": "tejido",
+      "en": "tejido",
+      "ru": [
+        "здание",
+        "постройка",
+        "структура"
+      ],
+      "example": "El tejido muscular consta de innumerables células.",
+      "level": "B1",
+      "sourceId": "fabric",
+      "sourceIds": [
+        "fabric"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "facilidades",
+      "word": "facilidades",
+      "en": "facilidades",
+      "ru": [
+        "объект",
+        "сооружение",
+        "удобство"
+      ],
+      "example": "Lo siento, no tengo facilidades.",
+      "level": "A2",
+      "sourceId": "facility",
+      "sourceIds": [
+        "facility"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "planta",
+      "word": "planta",
+      "en": "planta",
+      "ru": [
+        "завод",
+        "фабрика",
+        "комбинат"
+      ],
+      "example": "-¿En qué planta vive? -En la novena.",
+      "level": "B1",
+      "sourceId": "factory",
+      "sourceIds": [
+        "factory"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "campo",
+      "word": "campo",
+      "en": "campo",
+      "ru": [
+        "поле"
+      ],
+      "example": "Anna extraña su casa en el campo.",
+      "level": "A1",
+      "sourceId": "field",
+      "sourceIds": [
+        "field"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reservado",
+      "word": "reservado",
+      "en": "reservado",
+      "ru": [
+        "примерочная комната"
+      ],
+      "example": "Esta zona es reservada para los discapacitados.",
+      "level": "C1",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "pos": "adj",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fuerte",
+      "word": "fuerte",
+      "en": "fuerte",
+      "ru": [
+        "форт"
+      ],
+      "example": "Aunque él es muy viejo, es fuerte.",
+      "level": "B1",
+      "sourceId": "fort",
+      "sourceIds": [
+        "fort"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fuente",
+      "word": "fuente",
+      "en": "fuente",
+      "ru": [
+        "фонтан",
+        "источник",
+        "кладезь"
+      ],
+      "example": "El aspartamo es una fuente de fenilalanina.",
+      "level": "C1",
+      "sourceId": "fountain",
+      "sourceIds": [
+        "fountain"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jardin",
+      "word": "jardín",
+      "en": "jardín",
+      "ru": [
+        "сад",
+        "парк",
+        "огород"
+      ],
+      "example": "A mi esposa le gusta su jardín.",
+      "level": "A1",
+      "sourceId": "garden",
+      "sourceIds": [
+        "garden"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puerta",
+      "word": "puerta",
+      "en": "puerta",
+      "ru": [
+        "ворота",
+        "врата",
+        "калитка"
+      ],
+      "example": "A canas honradas, no hay puertas cerradas.",
+      "level": "B2",
+      "sourceId": "gate",
+      "sourceIds": [
+        "gate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puerta",
+      "word": "puerta",
+      "en": "puerta",
+      "ru": [
+        "вход",
+        "ворота",
+        "шлюз"
+      ],
+      "example": "A canas honradas, no hay puertas cerradas.",
+      "level": "B1",
+      "sourceId": "gateway",
+      "sourceIds": [
+        "gateway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puerto",
+      "word": "puerto",
+      "en": "puerto",
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "example": "El barco está ahora en el puerto.",
+      "level": "B2",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aqui",
+      "word": "aquí",
+      "en": "aquí",
+      "ru": [
+        "здесь",
+        "тут",
+        "сюда"
+      ],
+      "example": "\"No hay árbol aquí\", gruñó el perro.",
+      "level": "A1",
+      "sourceId": "here",
+      "sourceIds": [
+        "here"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autopista",
+      "word": "autopista",
+      "en": "autopista",
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "example": "Ayer hubo un accidente en la autopista.",
+      "level": "B1",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "en-casa",
+      "word": "en casa",
+      "en": "en casa",
+      "ru": [
+        "дом",
+        "домой",
+        "дома"
+      ],
+      "example": "\"Hola.\" \"Hola, ¿es la casa de Bianca?\"",
+      "level": "A1",
+      "sourceId": "home",
+      "sourceIds": [
+        "home"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hogareno",
+      "word": "hogareño",
+      "en": "hogareño",
+      "ru": [
+        "невзрачный"
+      ],
+      "example": "La vida hogareña estaba siendo investigada por ojos ajenos.",
+      "level": "C2",
+      "sourceId": "homely",
+      "sourceIds": [
+        "homely"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hospital",
+      "word": "hospital",
+      "en": "hospital",
+      "ru": [
+        "больница",
+        "госпиталь",
+        "клиника"
+      ],
+      "example": "Cogió un taxi para ir al hospital.",
+      "level": "A1",
+      "sourceId": "hospital",
+      "sourceIds": [
+        "hospital"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hospitalidad",
+      "word": "hospitalidad",
+      "en": "hospitalidad",
+      "ru": [
+        "гостеприимство",
+        "радушие",
+        "хлебосольство"
+      ],
+      "example": "En Yemen nos sentimos acogidos con extraordinaria hospitalidad.",
+      "level": "B2",
+      "sourceId": "hospitality",
+      "sourceIds": [
+        "hospitality"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hospitalizacion",
+      "word": "hospitalización",
+      "en": "hospitalización",
+      "ru": [
+        "госпитализация"
+      ],
+      "example": "Una ambulancia lo llevó al hospital, y comenzó su hospitalización.",
+      "level": "C2",
+      "sourceId": "hospitalization",
+      "sourceIds": [
+        "hospitalization"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hospitalizar",
+      "word": "hospitalizar",
+      "en": "hospitalizar",
+      "ru": [
+        "поместить в больницу",
+        "помещать в больницу",
+        "госпитализировать"
+      ],
+      "example": "El doctor le aconsejó que se hospitalizara.",
+      "level": "C2",
+      "sourceId": "hospitalize",
+      "sourceIds": [
+        "hospitalize"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "albergue",
+      "word": "albergue",
+      "en": "albergue",
+      "ru": [
+        "мини-отель",
+        "общежитие",
+        "турбаза"
+      ],
+      "example": "Hay otro albergue donde todavía hay sitio.",
+      "level": "C1",
+      "sourceId": "hostel",
+      "sourceIds": [
+        "hostel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hotel",
+      "word": "hotel",
+      "en": "hotel",
+      "ru": [
+        "отель",
+        "гостиница"
+      ],
+      "example": "A veces me quedo en un hotel.",
+      "level": "A1",
+      "sourceId": "hotel",
+      "sourceIds": [
+        "hotel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casa",
+      "word": "casa",
+      "en": "casa",
+      "ru": [
+        "дом",
+        "здание"
+      ],
+      "example": "\"Hola.\" \"Hola, ¿es la casa de Bianca?\"",
+      "level": "A1",
+      "sourceId": "house",
+      "sourceIds": [
+        "house"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alojamiento",
+      "word": "alojamiento",
+      "en": "alojamiento",
+      "ru": [
+        "жильё",
+        "кожух",
+        "корпус"
+      ],
+      "example": "Este hotel tiene alojamiento para 1000 clientes.",
+      "level": "A2",
+      "sourceId": "housing",
+      "sourceIds": [
+        "housing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dentro",
+      "word": "dentro",
+      "en": "dentro",
+      "ru": [
+        "внутренний",
+        "внутри",
+        "внутрь"
+      ],
+      "example": "Aquí dentro hace un poco de frío.",
+      "level": "A2",
+      "sourceId": "inside",
+      "sourceIds": [
+        "inside"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "isla",
+      "word": "isla",
+      "en": "isla",
+      "ru": [
+        "остров",
+        "покрыть",
+        "покрывать"
+      ],
+      "example": "A la isla la azotó el tifón.",
+      "level": "A1",
+      "sourceId": "island",
+      "sourceIds": [
+        "island"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carcel",
+      "word": "cárcel",
+      "en": "cárcel",
+      "ru": [
+        "тюрьма"
+      ],
+      "example": "Ayer pasé la noche en la cárcel.",
+      "level": "C1",
+      "sourceId": "jail",
+      "sourceIds": [
+        "jail"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lago",
+      "word": "lago",
+      "en": "lago",
+      "ru": [
+        "озеро"
+      ],
+      "example": "Agarra tus patines. El lago está congelado.",
+      "level": "A2",
+      "sourceId": "lake",
+      "sourceIds": [
+        "lake"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camino",
+      "word": "camino",
+      "en": "camino",
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "example": "A la izquierda hay un camino secreto.",
+      "level": "B1",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "biblioteca",
+      "word": "biblioteca",
+      "en": "biblioteca",
+      "ru": [
+        "библиотека"
+      ],
+      "example": "\"¿Por dónde queda la biblioteca?\" \"Por allá.\"",
+      "level": "A1",
+      "sourceId": "library",
+      "sourceIds": [
+        "library"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "local",
+      "word": "local",
+      "en": "local",
+      "ru": [
+        "локальный",
+        "местный",
+        "туземец"
+      ],
+      "example": "Compremos cerveza local para llevar como recuerdo.",
+      "level": "A1",
+      "sourceId": "local",
+      "sourceIds": [
+        "local"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ubicacion",
+      "word": "ubicación",
+      "en": "ubicación",
+      "ru": [
+        "место",
+        "местонахождение",
+        "местоположение"
+      ],
+      "example": "El departamento legal no cambiará de ubicación.",
+      "level": "A1",
+      "sourceId": "location",
+      "sourceIds": [
+        "location"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centro-comercial",
+      "word": "centro comercial",
+      "en": "centro comercial",
+      "ru": [
+        "молл",
+        "торговый центр"
+      ],
+      "example": "Hay tres tiendas en el centro comercial.",
+      "level": "B2",
+      "sourceId": "mall",
+      "sourceIds": [
+        "mall"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mapa",
+      "word": "mapa",
+      "en": "mapa",
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "example": "Círculos rojos en el mapa marcan escuelas.",
+      "level": "A1",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mapeo",
+      "word": "mapeo",
+      "en": "mapeo",
+      "ru": [
+        "отображение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "marino",
+      "word": "marino",
+      "en": "marino",
+      "ru": [
+        "морской",
+        "морской пехотинец",
+        "солдат морской пехоты"
+      ],
+      "example": "Compró un traje azul marino muy bonito.",
+      "level": "B1",
+      "sourceId": "marine",
+      "sourceIds": [
+        "marine"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mercado",
+      "word": "mercado",
+      "en": "mercado",
+      "ru": [
+        "рынок",
+        "рыночный"
+      ],
+      "example": "Apenas abrió el mercado, comenzó el incendio.",
+      "level": "A1",
+      "sourceId": "market",
+      "sourceIds": [
+        "market"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mercado",
+      "word": "mercado",
+      "en": "mercado",
+      "ru": [
+        "рынок",
+        "базар",
+        "базарная площадь"
+      ],
+      "example": "Apenas abrió el mercado, comenzó el incendio.",
+      "level": "B1",
+      "sourceId": "marketplace",
+      "sourceIds": [
+        "marketplace"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "monumento",
+      "word": "monumento",
+      "en": "monumento",
+      "ru": [
+        "памятник",
+        "монумент"
+      ],
+      "example": "El monumento está cerrado para los visitantes.",
+      "level": "C2",
+      "sourceId": "monument",
+      "sourceIds": [
+        "monument"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "monumental",
+      "word": "monumental",
+      "en": "monumental",
+      "ru": [
+        "монументальный"
+      ],
+      "example": "Al final, todo acabó en un monumental embrollo.",
+      "level": "C2",
+      "sourceId": "monumental",
+      "sourceIds": [
+        "monumental"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autopista",
+      "word": "autopista",
+      "en": "autopista",
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "example": "Ayer hubo un accidente en la autopista.",
+      "level": "C2",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "museo",
+      "word": "museo",
+      "en": "museo",
+      "ru": [
+        "музей"
+      ],
+      "example": "Aproveché la oportunidad para visitar el museo.",
+      "level": "A2",
+      "sourceId": "museum",
+      "sourceIds": [
+        "museum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cerca",
+      "word": "cerca",
+      "en": "cerca",
+      "ru": [
+        "близко",
+        "неподалёку",
+        "поблизости"
+      ],
+      "example": "Arrendamos una cabaña cerca de un lago.",
+      "level": "B1",
+      "sourceId": "nearby",
+      "sourceIds": [
+        "nearby"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barrio",
+      "word": "barrio",
+      "en": "barrio",
+      "ru": [
+        "близость",
+        "окрестности",
+        "округа"
+      ],
+      "example": "Cuatro casas de este barrio se desmoronaron.",
+      "level": "B1",
+      "sourceId": "neighborhood",
+      "sourceIds": [
+        "neighborhood"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "boreal",
+      "word": "boreal",
+      "en": "boreal",
+      "ru": [
+        "северный"
+      ],
+      "example": "Cuando la primavera boreal empieza, tambien comienza el otoño austral.",
+      "level": "A2",
+      "sourceId": "northern",
+      "sourceIds": [
+        "northern"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "norteno",
+      "word": "norteño",
+      "en": "norteño",
+      "ru": [
+        "житель севера",
+        "жительница севера",
+        "северянин"
+      ],
+      "example": "Hombre sureño, mujer norteña.",
+      "level": "C2",
+      "sourceId": "northerner",
+      "sourceIds": [
+        "northerner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noroeste",
+      "word": "noroeste",
+      "en": "noroeste",
+      "ru": [
+        "норд-вест",
+        "северо-запад"
+      ],
+      "example": "Hamelín está en el noroeste de Alemania.",
+      "level": "B1",
+      "sourceId": "northwest",
+      "sourceIds": [
+        "northwest"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "del-noroeste",
+      "word": "del noroeste",
+      "en": "del noroeste",
+      "ru": [
+        "северо-западный"
+      ],
+      "example": "¿Podrías dirigirte hacia el puerto del noroeste?",
+      "level": "C2",
+      "sourceId": "northwestern",
+      "sourceIds": [
+        "northwestern"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por-ningun-lado",
+      "word": "por ningún lado",
+      "en": "por ningún lado",
+      "ru": [
+        "нигде",
+        "никуда"
+      ],
+      "example": "No encuentro la cuerda por ningún lado.",
+      "level": "C1",
+      "sourceId": "nowhere",
+      "sourceIds": [
+        "nowhere"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oficina",
+      "word": "oficina",
+      "en": "oficina",
+      "ru": [
+        "офис",
+        "кабинет",
+        "контора"
+      ],
+      "example": "\"¿Dónde está el director?\" \"En su oficina.\"",
+      "level": "A1",
+      "sourceId": "office",
+      "sourceIds": [
+        "office"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salida",
+      "word": "salida",
+      "en": "salida",
+      "ru": [
+        "выход",
+        "отдушина",
+        "сток"
+      ],
+      "example": "Coja la segunda salida en la rotonda.",
+      "level": "B1",
+      "sourceId": "outlet",
+      "sourceIds": [
+        "outlet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "exterior",
+      "word": "exterior",
+      "en": "exterior",
+      "ru": [
+        "внешний",
+        "наружный",
+        "снаружи"
+      ],
+      "example": "Ella, sentada, observaba con atención el exterior.",
+      "level": "A2",
+      "sourceId": "outside",
+      "sourceIds": [
+        "outside"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "persona-de-fuera",
+      "word": "persona de fuera",
+      "en": "persona de fuera",
+      "ru": [
+        "посторонний",
+        "аутсайдер",
+        "чужак"
+      ],
+      "example": "Cuatro personas fueron denunciadas a la justicia.",
+      "level": "C2",
+      "sourceId": "outsider",
+      "sourceIds": [
+        "outsider"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pacifico",
+      "word": "pacífico",
+      "en": "pacífico",
+      "ru": [
+        "миролюбивый"
+      ],
+      "example": "Consiguió atravesar el océano Pacífico en barca.",
+      "level": "A2",
+      "sourceId": "pacific",
+      "sourceIds": [
+        "pacific"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pacificacion",
+      "word": "pacificación",
+      "en": "pacificación",
+      "ru": [
+        "пацификация",
+        "умиротворение",
+        "усмирение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "pacification",
+      "sourceIds": [
+        "pacification"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "palacio",
+      "word": "palacio",
+      "en": "palacio",
+      "ru": [
+        "дворец",
+        "чертог"
+      ],
+      "example": "El palacio está rodeado de un foso.",
+      "level": "B2",
+      "sourceId": "palace",
+      "sourceIds": [
+        "palace"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parque",
+      "word": "parque",
+      "en": "parque",
+      "ru": [
+        "парк",
+        "парковать",
+        "ставить на парковку"
+      ],
+      "example": "Acostumbramos caminar en este parque los sábados.",
+      "level": "A1",
+      "sourceId": "park",
+      "sourceIds": [
+        "park"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacionamiento",
+      "word": "estacionamiento",
+      "en": "estacionamiento",
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "example": "Casi no había autos en el estacionamiento.",
+      "level": "B1",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sendero",
+      "word": "sendero",
+      "en": "sendero",
+      "ru": [
+        "дорожка",
+        "тропа",
+        "тропинка"
+      ],
+      "example": "Hay muchos senderos ocultos en este bosque.",
+      "level": "A2",
+      "sourceId": "path",
+      "sourceIds": [
+        "path"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pavimento",
+      "word": "pavimento",
+      "en": "pavimento",
+      "ru": [
+        "асфальт",
+        "мостовая",
+        "мощёный пол"
+      ],
+      "example": "En invierno, el pavimento suele estar resbaladizo.",
+      "level": "C2",
+      "sourceId": "pavement",
+      "sourceIds": [
+        "pavement"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "area-de-juegos",
+      "word": "área de juegos",
+      "en": "área de juegos",
+      "ru": [
+        "детская площадка",
+        "игровая площадка",
+        "детплощадка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "playground",
+      "sourceIds": [
+        "playground"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "plaza",
+      "word": "plaza",
+      "en": "plaza",
+      "ru": [
+        "площадь",
+        "сквер"
+      ],
+      "example": "Aparcó el coche en una plaza vacía.",
+      "level": "B2",
+      "sourceId": "plaza",
+      "sourceIds": [
+        "plaza"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "babor",
+      "word": "babor",
+      "en": "babor",
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "example": "La nave corsaria se aproximaba por babor.",
+      "level": "A2",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mozo",
+      "word": "mozo",
+      "en": "mozo",
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "example": "El mozo fue a buscar otro vaso.",
+      "level": "C1",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "postal",
+      "word": "postal",
+      "en": "postal",
+      "ru": [
+        "почтовый"
+      ],
+      "example": "Distrito postal y distrito municipal son diferentes.",
+      "level": "B1",
+      "sourceId": "postal",
+      "sourceIds": [
+        "postal"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cartel",
+      "word": "cartel",
+      "en": "cartel",
+      "ru": [
+        "афиша",
+        "постер",
+        "плакат"
+      ],
+      "example": "Hay un cartel pegado a la pared.",
+      "level": "A2",
+      "sourceId": "poster",
+      "sourceIds": [
+        "poster"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prision",
+      "word": "prisión",
+      "en": "prisión",
+      "ru": [
+        "тюрьма",
+        "зона",
+        "каземат"
+      ],
+      "example": "Dos hombres fueron liberados de la prisión.",
+      "level": "B2",
+      "sourceId": "prison",
+      "sourceIds": [
+        "prison"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "provincia",
+      "word": "provincia",
+      "en": "provincia",
+      "ru": [
+        "область",
+        "край",
+        "штат"
+      ],
+      "example": "Cantalapiedra está en la provincia de Salamanca.",
+      "level": "B1",
+      "sourceId": "province",
+      "sourceIds": [
+        "province"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bar",
+      "word": "bar",
+      "en": "bar",
+      "ru": [
+        "паб",
+        "бар",
+        "кабак"
+      ],
+      "example": "El bar era un campo de nabos.",
+      "level": "B1",
+      "sourceId": "pub",
+      "sourceIds": [
+        "pub"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "region",
+      "word": "región",
+      "en": "región",
+      "ru": [
+        "район",
+        "область",
+        "край"
+      ],
+      "example": "El terremoto afectó una región bastante habitada.",
+      "level": "A1",
+      "sourceId": "region",
+      "sourceIds": [
+        "region"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "regional",
+      "word": "regional",
+      "en": "regional",
+      "ru": [
+        "региональный"
+      ],
+      "example": "Comimos algodón de azúcar en la feria regional.",
+      "level": "A2",
+      "sourceId": "regional",
+      "sourceIds": [
+        "regional"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "regionalismo",
+      "word": "regionalismo",
+      "en": "regionalismo",
+      "ru": [
+        "местничество",
+        "районирование"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "regionalism",
+      "sourceIds": [
+        "regionalism"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "residente",
+      "word": "residente",
+      "en": "residente",
+      "ru": [
+        "житель",
+        "жительница",
+        "резидент"
+      ],
+      "example": "Este lugar tiene más ranas que residentes.",
+      "level": "B1",
+      "sourceId": "resident",
+      "sourceIds": [
+        "resident"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "residencial",
+      "word": "residencial",
+      "en": "residencial",
+      "ru": [
+        "жилищный",
+        "жилой"
+      ],
+      "example": "El incendio llegó muy cerca de los edificios residenciales.",
+      "level": "B1",
+      "sourceId": "residential",
+      "sourceIds": [
+        "residential"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "restaurante",
+      "word": "restaurante",
+      "en": "restaurante",
+      "ru": [
+        "ресторан"
+      ],
+      "example": "Así que, ¿qué sirven en tu restaurante?",
+      "level": "A1",
+      "sourceId": "restaurant",
+      "sourceIds": [
+        "restaurant"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rio",
+      "word": "río",
+      "en": "río",
+      "ru": [
+        "река",
+        "речка"
+      ],
+      "example": "A menudo voy a nadar al río.",
+      "level": "A2",
+      "sourceId": "river",
+      "sourceIds": [
+        "river"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carretera",
+      "word": "carretera",
+      "en": "carretera",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "example": "Circulaba por una carretera en mal estado.",
+      "level": "A1",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuarto",
+      "word": "cuarto",
+      "en": "cuarto",
+      "ru": [
+        "комната",
+        "помещение"
+      ],
+      "example": "Abril es el cuarto mes del año.",
+      "level": "A1",
+      "sourceId": "room",
+      "sourceIds": [
+        "room"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rural",
+      "word": "rural",
+      "en": "rural",
+      "ru": [
+        "сельский",
+        "деревенский"
+      ],
+      "example": "En las zonas rurales se come mejor.",
+      "level": "B1",
+      "sourceId": "rural",
+      "sourceIds": [
+        "rural"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escuela",
+      "word": "escuela",
+      "en": "escuela",
+      "ru": [
+        "школа",
+        "училище"
+      ],
+      "example": "-¿Qué estudia usted en la escuela? -Italiano.",
+      "level": "A1",
+      "sourceId": "school",
+      "sourceIds": [
+        "school"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tienda",
+      "word": "tienda",
+      "en": "tienda",
+      "ru": [
+        "магазин",
+        "бутик",
+        "лавка"
+      ],
+      "example": "A las 9, esta tienda está cerrada.",
+      "level": "A1",
+      "sourceId": "shop",
+      "sourceIds": [
+        "shop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vera",
+      "word": "vera",
+      "en": "vera",
+      "ru": [
+        "берег",
+        "побережье",
+        "яр"
+      ],
+      "example": "Creo de veras que Tom te gustaría.",
+      "level": "B2",
+      "sourceId": "shore",
+      "sourceIds": [
+        "shore"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acera",
+      "word": "acera",
+      "en": "acera",
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "example": "El helado se derritió en la acera.",
+      "level": "C2",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sitio",
+      "word": "sitio",
+      "en": "sitio",
+      "ru": [
+        "место",
+        "местонахождение",
+        "местоположение"
+      ],
+      "example": "Acabo de hacerme miembro de este sitio.",
+      "level": "A1",
+      "sourceId": "site",
+      "sourceIds": [
+        "site"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-alguna-parte",
+      "word": "a alguna parte",
+      "en": "a alguna parte",
+      "ru": [
+        "где-нибудь",
+        "где-то",
+        "куда-нибудь"
+      ],
+      "example": "Canta alguna canción para nosotros, por favor.",
+      "level": "B2",
+      "sourceId": "somewhere",
+      "sourceIds": [
+        "somewhere"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "del-sur",
+      "word": "del sur",
+      "en": "del sur",
+      "ru": [
+        "южный"
+      ],
+      "example": "Alemania fue eliminada por Corea del Sur.",
+      "level": "A2",
+      "sourceId": "southern",
+      "sourceIds": [
+        "southern"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "divisar",
+      "word": "divisar",
+      "en": "divisar",
+      "ru": [
+        "пятно",
+        "взять в долг",
+        "обнаружить"
+      ],
+      "example": "La divisa de Italia es el euro.",
+      "level": "B1",
+      "sourceId": "spot",
+      "sourceIds": [
+        "spot"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manchado",
+      "word": "manchado",
+      "en": "manchado",
+      "ru": [
+        "запятнанный",
+        "пятнистый"
+      ],
+      "example": "Mi vestido azul apareció manchado de sangre.",
+      "level": "C2",
+      "sourceId": "spotted",
+      "sourceIds": [
+        "spotted"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuadrado",
+      "word": "cuadrado",
+      "en": "cuadrado",
+      "ru": [
+        "квадратный",
+        "квадрат",
+        "прямоугольный"
+      ],
+      "example": "Esta caja es cuadrada, no es rectangular.",
+      "level": "A2",
+      "sourceId": "square",
+      "sourceIds": [
+        "square"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "al-cuadrado",
+      "word": "al cuadrado",
+      "en": "al cuadrado",
+      "ru": [
+        "в клетку",
+        "в клеточку",
+        "в квадрате"
+      ],
+      "example": "Nueve elevado al cuadrado es ochenta y uno.",
+      "level": "C2",
+      "sourceId": "squared",
+      "sourceIds": [
+        "squared"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estadio",
+      "word": "estadio",
+      "en": "estadio",
+      "ru": [
+        "стадион",
+        "ристалище"
+      ],
+      "example": "Con frecuencia hay peleas en los estadios.",
+      "level": "B2",
+      "sourceId": "stadium",
+      "sourceIds": [
+        "stadium"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacion",
+      "word": "estación",
+      "en": "estación",
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "example": "Ahora, estamos en la estación de Tokio.",
+      "level": "A2",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estatua",
+      "word": "estatua",
+      "en": "estatua",
+      "ru": [
+        "статуя",
+        "изваяние"
+      ],
+      "example": "A la estatua le falta la cabeza.",
+      "level": "C2",
+      "sourceId": "statue",
+      "sourceIds": [
+        "statue"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deposito",
+      "word": "depósito",
+      "en": "depósito",
+      "ru": [
+        "магазин"
+      ],
+      "example": "El depósito me suele durar una semana.",
+      "level": "A1",
+      "sourceId": "store",
+      "sourceIds": [
+        "store"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calle",
+      "word": "calle",
+      "en": "calle",
+      "ru": [
+        "улица"
+      ],
+      "example": "A veces le veo en la calle.",
+      "level": "A1",
+      "sourceId": "street",
+      "sourceIds": [
+        "street"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "afueras",
+      "word": "afueras",
+      "en": "afueras",
+      "ru": [
+        "пригород",
+        "предместье",
+        "округ"
+      ],
+      "example": "Viven en las afueras de la ciudad.",
+      "level": "C2",
+      "sourceId": "suburb",
+      "sourceIds": [
+        "suburb"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "teatro",
+      "word": "teatro",
+      "en": "teatro",
+      "ru": [
+        "театр"
+      ],
+      "example": "Bob está en el club de teatro.",
+      "level": "B1",
+      "sourceId": "theater",
+      "sourceIds": [
+        "theater"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ahi",
+      "word": "ahí",
+      "en": "ahí",
+      "ru": [
+        "есть",
+        "иметься",
+        "там"
+      ],
+      "example": "\"¿Tomás está ahí?\" \"No, no está ahí.\"",
+      "level": "A1",
+      "sourceId": "there",
+      "sourceIds": [
+        "there"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torre",
+      "word": "torre",
+      "en": "torre",
+      "ru": [
+        "башня",
+        "вежа",
+        "вышка"
+      ],
+      "example": "Desde aquí se puede ver la torre.",
+      "level": "B1",
+      "sourceId": "tower",
+      "sourceIds": [
+        "tower"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "altisimo",
+      "word": "altísimo",
+      "en": "altísimo",
+      "ru": [
+        "вздымающийся",
+        "возвышающийся",
+        "высокий"
+      ],
+      "example": "La presión hospitalaria es altísima esta semana.",
+      "level": "C2",
+      "sourceId": "towering",
+      "sourceIds": [
+        "towering"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciudad",
+      "word": "ciudad",
+      "en": "ciudad",
+      "ru": [
+        "город",
+        "град",
+        "городок"
+      ],
+      "example": "A María la enterraron en esta ciudad.",
+      "level": "A2",
+      "sourceId": "town",
+      "sourceIds": [
+        "town"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trafico",
+      "word": "tráfico",
+      "en": "tráfico",
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "example": "A esta hora hay un tráfico increíble.",
+      "level": "A2",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tunel",
+      "word": "túnel",
+      "en": "túnel",
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "example": "Al salir del túnel, protégete los ojos.",
+      "level": "B2",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "universidad",
+      "word": "universidad",
+      "en": "universidad",
+      "ru": [
+        "университет"
+      ],
+      "example": "Actualmente estoy trabajando para una universidad media.",
+      "level": "A1",
+      "sourceId": "university",
+      "sourceIds": [
+        "university"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "urbano",
+      "word": "urbano",
+      "en": "urbano",
+      "ru": [
+        "городской"
+      ],
+      "example": "Antaño había cobradores en los autobuses urbanos.",
+      "level": "B1",
+      "sourceId": "urban",
+      "sourceIds": [
+        "urban"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pueblo",
+      "word": "pueblo",
+      "en": "pueblo",
+      "ru": [
+        "деревня",
+        "село",
+        "аул"
+      ],
+      "example": "A este pueblo, lo abandonaron sus habitantes",
+      "level": "A2",
+      "sourceId": "village",
+      "sourceIds": [
+        "village"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aldeano",
+      "word": "aldeano",
+      "en": "aldeano",
+      "ru": [
+        "деревенский житель",
+        "деревенская жительница",
+        "сельский житель"
+      ],
+      "example": "Hemos abastecido a los aldeanos con comida.",
+      "level": "C2",
+      "sourceId": "villager",
+      "sourceIds": [
+        "villager"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "visitar",
+      "word": "visitar",
+      "en": "visitar",
+      "ru": [
+        "посещать"
+      ],
+      "example": "A veces Tony visitaba a su familia.",
+      "level": "A1",
+      "sourceId": "visit",
+      "sourceIds": [
+        "visit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "visita",
+      "word": "visita",
+      "en": "visita",
+      "ru": [
+        "гость",
+        "гостья",
+        "посетитель"
+      ],
+      "example": "Concluye visita de canciller ruso a China.",
+      "level": "B1",
+      "sourceId": "visitor",
+      "sourceIds": [
+        "visitor"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pared",
+      "word": "pared",
+      "en": "pared",
+      "ru": [
+        "стена",
+        "вал"
+      ],
+      "example": "Alguien arrojó una piedra contra la pared.",
+      "level": "A1",
+      "sourceId": "wall",
+      "sourceIds": [
+        "wall"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "donde",
+      "word": "donde",
+      "en": "donde",
+      "ru": [
+        "где",
+        "куда",
+        "откуда"
+      ],
+      "example": "\"¿A dónde quieres ir?\" \"A donde sea.\"",
+      "level": "A1",
+      "sourceId": "where",
+      "sourceIds": [
+        "where"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zona",
+      "word": "zona",
+      "en": "zona",
+      "ru": [
+        "область",
+        "пояс",
+        "зона"
+      ],
+      "example": "El cuco visita esta zona en primavera.",
+      "level": "A2",
+      "sourceId": "zone",
+      "sourceIds": [
+        "zone"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zoologico",
+      "word": "zoológico",
+      "en": "zoológico",
+      "ru": [
+        "зоопарк",
+        "зверинец",
+        "зоологический сад"
+      ],
+      "example": "Algunos animales se reproducen en los zoológicos.",
+      "level": "B2",
+      "sourceId": "zoo",
+      "sourceIds": [
+        "zoo"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polo",
+      "word": "polo",
+      "en": "polo",
+      "ru": [
+        "столб",
+        "шест"
+      ],
+      "example": "Exploró la región alrededor del Polo Sur.",
+      "level": "B1",
+      "sourceId": "pole",
+      "sourceIds": [
+        "pole"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabina",
+      "word": "cabina",
+      "en": "cabina",
+      "ru": [
+        "будка",
+        "кабинка"
+      ],
+      "example": "En España casi no quedan cabinas telefónicas.",
+      "level": "B1",
+      "sourceId": "booth",
+      "sourceIds": [
+        "booth"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "basurero",
+      "word": "basurero",
+      "en": "basurero",
+      "ru": [
+        "свалка"
+      ],
+      "example": "En el basurero municipal abundan las ratas.",
+      "level": "B1",
+      "sourceId": "dumpsite",
+      "sourceIds": [
+        "dumpsite",
+        "junkyard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "subterraneo",
+      "word": "subterráneo",
+      "en": "subterráneo",
+      "ru": [
+        "подземный"
+      ],
+      "example": "A él le gusta explorar cavernas subterráneas.",
+      "level": "B1",
+      "sourceId": "underground",
+      "sourceIds": [
+        "underground"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casa-de-citas",
+      "word": "casa de citas",
+      "en": "casa de citas",
+      "ru": [
+        "бордель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "whorehouse",
+      "sourceIds": [
+        "whorehouse",
+        "brothel"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "taberna",
+      "word": "taberna",
+      "en": "taberna",
+      "ru": [
+        "таверна",
+        "трактир"
+      ],
+      "example": "No se admiten damas en la taberna.",
+      "level": "B1",
+      "sourceId": "tavern",
+      "sourceIds": [
+        "tavern"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calabozo",
+      "word": "calabozo",
+      "en": "calabozo",
+      "ru": [
+        "темница",
+        "подземелье"
+      ],
+      "example": "Él pasó la noche en el calabozo.",
+      "level": "B1",
+      "sourceId": "dungeon",
+      "sourceIds": [
+        "dungeon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciudadela",
+      "word": "ciudadela",
+      "en": "ciudadela",
+      "ru": [
+        "цитадель"
+      ],
+      "example": "¿Quién me puede franquear el acceso a la ciudadela?",
+      "level": "B1",
+      "sourceId": "citadel",
+      "sourceIds": [
+        "citadel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torre-de-observacion",
+      "word": "torre de observación",
+      "en": "torre de observación",
+      "ru": [
+        "сторожевая башня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "watchtower",
+      "sourceIds": [
+        "watchtower"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "fuerte",
+      "word": "fuerte",
+      "en": "fuerte",
+      "ru": [
+        "крепость",
+        "оплот"
+      ],
+      "example": "Aunque él es muy viejo, es fuerte.",
+      "level": "B1",
+      "sourceId": "stronghold",
+      "sourceIds": [
+        "stronghold"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valla-publicitaria",
+      "word": "valla publicitaria",
+      "en": "valla publicitaria",
+      "ru": [
+        "рекламный щит"
+      ],
+      "example": "Emulando a Batman se estampanó contra una valla publicitaria.",
+      "level": "B1",
+      "sourceId": "billboard",
+      "sourceIds": [
+        "billboard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dueno-del-club",
+      "word": "dueño del club",
+      "en": "dueño del club",
+      "ru": [
+        "владелец клуба"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "club-owner",
+      "sourceIds": [
+        "club-owner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pavimentar",
+      "word": "pavimentar",
+      "en": "pavimentar",
+      "ru": [
+        "мостить",
+        "прокладывать"
+      ],
+      "example": "En invierno, el pavimento suele estar resbaladizo.",
+      "level": "B1",
+      "sourceId": "pave",
+      "sourceIds": [
+        "pave"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escombros",
+      "word": "escombros",
+      "en": "escombros",
+      "ru": [
+        "обломки",
+        "развалины"
+      ],
+      "example": "Se encontraron cuatro cuerpos entre los escombros.",
+      "level": "B1",
+      "sourceId": "rubble",
+      "sourceIds": [
+        "rubble"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banca",
+      "word": "banca",
+      "en": "banca",
+      "ru": [
+        "скамейка"
+      ],
+      "example": "Fumando, él se sentó en la banca.",
+      "level": "B1",
+      "sourceId": "bench",
+      "sourceIds": [
+        "bench"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bano",
+      "word": "baño",
+      "en": "baño",
+      "ru": [
+        "туалет"
+      ],
+      "example": "\"¿Dónde está el baño?\" \"A la izquierda.\"",
+      "level": "B1",
+      "sourceId": "restroom",
+      "sourceIds": [
+        "restroom",
+        "lavatory"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escalera-mecanica",
+      "word": "escalera mecánica",
+      "en": "escalera mecánica",
+      "ru": [
+        "эскалатор"
+      ],
+      "example": "La escalera mecánica se detuvo de repente.",
+      "level": "B1",
+      "sourceId": "escalator",
+      "sourceIds": [
+        "escalator"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "explanada",
+      "word": "explanada",
+      "en": "explanada",
+      "ru": [
+        "вестибюль",
+        "зал ожидания"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "concourse",
+      "sourceIds": [
+        "concourse"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mezquita",
+      "word": "mezquita",
+      "en": "mezquita",
+      "ru": [
+        "мечеть"
+      ],
+      "example": "Ellos decidieron ir a la mezquita juntos.",
+      "level": "B1",
+      "sourceId": "mosque",
+      "sourceIds": [
+        "mosque"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "metropolitano",
+      "word": "metropolitano",
+      "en": "metropolitano",
+      "ru": [
+        "столичный"
+      ],
+      "example": "Vivo en la región metropolitana de Santiago.",
+      "level": "B1",
+      "sourceId": "metropolitan",
+      "sourceIds": [
+        "metropolitan"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "canal",
+      "word": "canal",
+      "en": "canal",
+      "ru": [
+        "канал"
+      ],
+      "example": "El barco atravesó el Canal de Panamá.",
+      "level": "B1",
+      "sourceId": "canal",
+      "sourceIds": [
+        "canal"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "encrucijada",
+      "word": "encrucijada",
+      "en": "encrucijada",
+      "ru": [
+        "перекресток",
+        "соединение"
+      ],
+      "example": "Europa se encuentra en una encrucijada.",
+      "level": "B1",
+      "sourceId": "junction",
+      "sourceIds": [
+        "junction"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abadia",
+      "word": "abadía",
+      "en": "abadía",
+      "ru": [
+        "аббатство"
+      ],
+      "example": "Alguna vez una abadía estaba ahí en pie.",
+      "level": "B1",
+      "sourceId": "abbey",
+      "sourceIds": [
+        "abbey"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "municipio",
+      "word": "municipio",
+      "en": "municipio",
+      "ru": [
+        "район города"
+      ],
+      "example": "El parque es mantenido por el municipio.",
+      "level": "B1",
+      "sourceId": "borough",
+      "sourceIds": [
+        "borough"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arco",
+      "word": "arco",
+      "en": "arco",
+      "ru": [
+        "арка",
+        "свод"
+      ],
+      "example": "Los indios lucharon con arcos y flechas.",
+      "level": "B1",
+      "sourceId": "arch",
+      "sourceIds": [
+        "arch",
+        "archway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atrio",
+      "word": "atrio",
+      "en": "atrio",
+      "ru": [
+        "привокзальная площадь",
+        "площадка перед зданием"
+      ],
+      "example": "Habiendo oído un ruido, María corrió hacia el atrio rápidamente.",
+      "level": "B1",
+      "sourceId": "forecourt",
+      "sourceIds": [
+        "forecourt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hangar",
+      "word": "hangar",
+      "en": "hangar",
+      "ru": [
+        "ангар"
+      ],
+      "example": "De pequeño jugaba con mis amigos en un inmenso hangar abandonado.",
+      "level": "B1",
+      "sourceId": "hangar",
+      "sourceIds": [
+        "hangar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "metro",
+      "word": "metro",
+      "en": "metro",
+      "ru": [
+        "метро"
+      ],
+      "example": "Al metro en Argentina lo llaman \"subte\".",
+      "level": "B1",
+      "sourceId": "metro",
+      "sourceIds": [
+        "metro"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centro",
+      "word": "centro",
+      "en": "centro",
+      "ru": [
+        "центр"
+      ],
+      "example": "A menudo los domingos voy al centro.",
+      "level": "B1",
+      "sourceId": "centre",
+      "sourceIds": [
+        "centre"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bunker",
+      "word": "búnker",
+      "en": "búnker",
+      "ru": [
+        "бункер"
+      ],
+      "example": "Arrojaron bombas tan destructivas, que alcanzaron los búnkeres y los destrozaron.",
+      "level": "B1",
+      "sourceId": "bunker",
+      "sourceIds": [
+        "bunker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rampa",
+      "word": "rampa",
+      "en": "rampa",
+      "ru": [
+        "пандус"
+      ],
+      "example": "Subir por esta rampa es muy difícil.",
+      "level": "B1",
+      "sourceId": "ramp",
+      "sourceIds": [
+        "ramp"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fosa",
+      "word": "fosa",
+      "en": "fosa",
+      "ru": [
+        "ров"
+      ],
+      "example": "Introdúzcaselo por una de las fosas nasales.",
+      "level": "B1",
+      "sourceId": "moat",
+      "sourceIds": [
+        "moat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gueto",
+      "word": "gueto",
+      "en": "gueto",
+      "ru": [
+        "гетто"
+      ],
+      "example": "Vive en el gueto.",
+      "level": "B1",
+      "sourceId": "ghetto",
+      "sourceIds": [
+        "ghetto"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "canaleta",
+      "word": "canaleta",
+      "en": "canaleta",
+      "ru": [
+        "водосточный желоб",
+        "канава"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gutter",
+      "sourceIds": [
+        "gutter"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cementerio",
+      "word": "cementerio",
+      "en": "cementerio",
+      "ru": [
+        "кладбище"
+      ],
+      "example": "La ceremonia tuvo lugar en el cementerio.",
+      "level": "B1",
+      "sourceId": "cemetery",
+      "sourceIds": [
+        "cemetery"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vestibulo",
+      "word": "vestíbulo",
+      "en": "vestíbulo",
+      "ru": [
+        "фойе",
+        "вестибюль"
+      ],
+      "example": "No abras tu paraguas en el vestíbulo.",
+      "level": "B1",
+      "sourceId": "foyer",
+      "sourceIds": [
+        "foyer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mausoleo",
+      "word": "mausoleo",
+      "en": "mausoleo",
+      "ru": [
+        "мавзолей"
+      ],
+      "example": "Nadie me puede rescatar de este mausoleo.",
+      "level": "B1",
+      "sourceId": "mausoleum",
+      "sourceIds": [
+        "mausoleum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "claustro",
+      "word": "claustro",
+      "en": "claustro",
+      "ru": [
+        "монастырь"
+      ],
+      "example": "¿Quién preside el claustro?",
+      "level": "B1",
+      "sourceId": "cloister",
+      "sourceIds": [
+        "cloister"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barricada",
+      "word": "barricada",
+      "en": "barricada",
+      "ru": [
+        "баррикада",
+        "заграждение"
+      ],
+      "example": "La policía derribó la barricada sin ningún problema.",
+      "level": "B1",
+      "sourceId": "barricade",
+      "sourceIds": [
+        "barricade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "distrito-policial-policiaco-policiaco",
+      "word": "distrito policial/policíaco/policiaco",
+      "en": "distrito policial/policíaco/policiaco",
+      "ru": [
+        "полицейский участок",
+        "избирательный округ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "precinct",
+      "sourceIds": [
+        "precinct"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "escondite",
+      "word": "escondite",
+      "en": "escondite",
+      "ru": [
+        "убежище",
+        "тайник"
+      ],
+      "example": "A los niños, les encanta jugar al escondite.",
+      "level": "B1",
+      "sourceId": "hideout",
+      "sourceIds": [
+        "hideout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "perfil-de-la-ciudad",
+      "word": "perfil de la ciudad",
+      "en": "perfil de la ciudad",
+      "ru": [
+        "линия горизонта",
+        "силуэт города"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "skyline",
+      "sourceIds": [
+        "skyline"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "iglu",
+      "word": "iglú",
+      "en": "iglú",
+      "ru": [
+        "иглу"
+      ],
+      "example": "El contenedor verde tiene forma de iglú.",
+      "level": "B1",
+      "sourceId": "igloo",
+      "sourceIds": [
+        "igloo"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bordillo",
+      "word": "bordillo",
+      "en": "bordillo",
+      "ru": [
+        "бордюр"
+      ],
+      "example": "No te quedes tan cerca del bordillo.",
+      "level": "B1",
+      "sourceId": "kerb",
+      "sourceIds": [
+        "kerb"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "suburbano",
+      "word": "suburbano",
+      "en": "suburbano",
+      "ru": [
+        "пригородный"
+      ],
+      "example": "El tranquilo barrio suburbano ofrece el ambiente perfecto para formar una familia.",
+      "level": "B1",
+      "sourceId": "suburban",
+      "sourceIds": [
+        "suburban"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barrio-bajo",
+      "word": "barrio bajo",
+      "en": "barrio bajo",
+      "ru": [
+        "трущобы"
+      ],
+      "example": "Hay muchos barrios bajos en México.",
+      "level": "B1",
+      "sourceId": "slum",
+      "sourceIds": [
+        "slum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "allanamiento-de-morada",
+      "word": "allanamiento de morada",
+      "en": "allanamiento de morada",
+      "ru": [
+        "взлом"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "house-breaking",
+      "sourceIds": [
+        "house-breaking"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "banco-de-iglesia",
+      "word": "banco de iglesia",
+      "en": "banco de iglesia",
+      "ru": [
+        "церковная скамья"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pew",
+      "sourceIds": [
+        "pew"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "capitolio-de-los-estados-unidos",
+      "word": "Capitolio de los Estados Unidos",
+      "en": "Capitolio de los Estados Unidos",
+      "ru": [
+        "капитолий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "capitol",
+      "sourceIds": [
+        "capitol"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "demolicion",
+      "word": "demolición",
+      "en": "demolición",
+      "ru": [
+        "снос",
+        "разрушение"
+      ],
+      "example": "Todos esperaban tensos la llegada de la brigada de demolición.",
+      "level": "B1",
+      "sourceId": "demolition",
+      "sourceIds": [
+        "demolition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viaducto",
+      "word": "viaducto",
+      "en": "viaducto",
+      "ru": [
+        "виадук"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "viaduct",
+      "sourceIds": [
+        "viaduct"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mirador",
+      "word": "mirador",
+      "en": "mirador",
+      "ru": [
+        "наблюдательный пункт",
+        "дозор"
+      ],
+      "example": "El mirador tiene unas vistas espectaculares.",
+      "level": "B1",
+      "sourceId": "lookout",
+      "sourceIds": [
+        "lookout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mas-oriental",
+      "word": "más oriental",
+      "en": "más oriental",
+      "ru": [
+        "восточнейший",
+        "самый восточный"
+      ],
+      "example": "¿Y dónde está realmente el punto más oriental de la Tierra?",
+      "level": "C2",
+      "sourceId": "easternmost",
+      "sourceIds": [
+        "easternmost"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fuente",
+      "word": "fuente",
+      "en": "fuente",
+      "ru": [
+        "первоисточник"
+      ],
+      "example": "El aspartamo es una fuente de fenilalanina.",
+      "level": "C2",
+      "sourceId": "fountainhead",
+      "sourceIds": [
+        "fountainhead"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tienda-de-comestibles",
+      "word": "tienda de comestibles",
+      "en": "tienda de comestibles",
+      "ru": [
+        "продуктовый магазин"
+      ],
+      "example": "En esta calle hay una tienda de comestibles.",
+      "level": "B2",
+      "sourceId": "grocery",
+      "sourceIds": [
+        "grocery"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hospitalario",
+      "word": "hospitalario",
+      "en": "hospitalario",
+      "ru": [
+        "госпитальер"
+      ],
+      "example": "Aquellas ciénagas eran tétricas y poco hospitalarias.",
+      "level": "C2",
+      "sourceId": "hospitaller",
+      "sourceIds": [
+        "hospitaller"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mas-septentrional",
+      "word": "más septentrional",
+      "en": "más septentrional",
+      "ru": [
+        "наисевернейший",
+        "самый северный"
+      ],
+      "example": "La parte más septentrional de la ciudad es un laberinto de callejones.",
+      "level": "C2",
+      "sourceId": "northernmost",
+      "sourceIds": [
+        "northernmost"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viento-del-noroeste",
+      "word": "viento del noroeste",
+      "en": "viento del noroeste",
+      "ru": [
+        "норд-вест"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "northwester",
+      "sourceIds": [
+        "northwester"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mas-meridional",
+      "word": "más meridional",
+      "en": "más meridional",
+      "ru": [
+        "самый южный",
+        "южнейший"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "southernmost",
+      "sourceIds": [
+        "southernmost"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "jefe-de-estacion",
+      "word": "jefe de estación",
+      "en": "jefe de estación",
+      "ru": [
+        "начальник станции"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "palco-vip",
+      "word": "palco VIP",
+      "en": "palco VIP",
+      "ru": [
+        "вип-ложа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "skybox",
+      "sourceIds": [
+        "skybox"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bano-portatil",
+      "word": "baño portátil",
+      "en": "baño portátil",
+      "ru": [
+        "биотуалет"
+      ],
+      "example": "¿Puedo usar mi portátil en la bañera?",
+      "level": "B1",
+      "sourceId": "portaloo",
+      "sourceIds": [
+        "portaloo"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chateau",
+      "word": "château",
+      "en": "château",
+      "ru": [
+        "замок",
+        "шато"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chateau",
+      "sourceIds": [
+        "chateau"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "broadway",
+      "word": "Broadway",
+      "en": "Broadway",
+      "ru": [
+        "Бродвей"
+      ],
+      "example": "Mi dirección postal es novecientos veinte Broadway.",
+      "level": "B1",
+      "sourceId": "broadway",
+      "sourceIds": [
+        "broadway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "en-superficie",
+      "word": "en superficie",
+      "en": "en superficie",
+      "ru": [
+        "наземный"
+      ],
+      "example": "La superficie de la luna es irregular.",
+      "level": "B1",
+      "sourceId": "aboveground",
+      "sourceIds": [
+        "aboveground"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciudad-subterranea",
+      "word": "ciudad subterránea",
+      "en": "ciudad subterránea",
+      "ru": [
+        "подземный город"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercity",
+      "sourceIds": [
+        "undercity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "en-toda-la-ciudad",
+      "word": "en toda la ciudad",
+      "en": "en toda la ciudad",
+      "ru": [
+        "общегородской"
+      ],
+      "example": "A las once, toda la ciudad dormía.",
+      "level": "B1",
+      "sourceId": "citywide",
+      "sourceIds": [
+        "citywide"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acordonar",
+      "word": "acordonar",
+      "en": "acordonar",
+      "ru": [
+        "оцеплять"
+      ],
+      "example": "La policía acordonó la escena del crimen.",
+      "level": "B1",
+      "sourceId": "cordon",
+      "sourceIds": [
+        "cordon"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "callejuela",
+      "word": "callejuela",
+      "en": "callejuela",
+      "ru": [
+        "переулок",
+        "задворки"
+      ],
+      "example": "Es fácil perderse en este laberinto de callejuelas.",
+      "level": "B1",
+      "sourceId": "backstreet",
+      "sourceIds": [
+        "backstreet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

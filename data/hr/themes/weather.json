@@ -1,0 +1,1830 @@
+{
+  "id": "weather",
+  "title": "Погода",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "jesen",
+      "word": "jesen",
+      "en": "jesen",
+      "ru": [
+        "осень"
+      ],
+      "example": "Sigurno je jesen najbolje doba za učiti.",
+      "level": "A2",
+      "sourceId": "autumn",
+      "sourceIds": [
+        "autumn"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mecava",
+      "word": "mećava",
+      "en": "mećava",
+      "ru": [
+        "буран",
+        "вьюга",
+        "метелица"
+      ],
+      "example": "Zbog mećave naš vlak je kasnio jedan sat.",
+      "level": "A2",
+      "sourceId": "blizzard",
+      "sourceIds": [
+        "blizzard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vjetric",
+      "word": "vjetrić",
+      "en": "vjetrić",
+      "ru": [
+        "бриз",
+        "ветерок",
+        "пустяк"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "breeze",
+      "sourceIds": [
+        "breeze"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "klima",
+      "word": "klima",
+      "en": "klima",
+      "ru": [
+        "климат"
+      ],
+      "example": "Londonska klima se razlikuje od Tokijske.",
+      "level": "B1",
+      "sourceId": "climate",
+      "sourceIds": [
+        "climate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oblak",
+      "word": "oblak",
+      "en": "oblak",
+      "ru": [
+        "облако",
+        "туча",
+        "рой"
+      ],
+      "example": "Danas je više oblaka nego jučer.",
+      "level": "A1",
+      "sourceId": "cloud",
+      "sourceIds": [
+        "cloud"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oblacan",
+      "word": "oblačan",
+      "en": "oblačan",
+      "ru": [
+        "облачный",
+        "пасмурный",
+        "мутный"
+      ],
+      "example": "Bilo je oblačno jučer.",
+      "level": "A2",
+      "sourceId": "cloudy",
+      "sourceIds": [
+        "cloudy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hladan",
+      "word": "hladan",
+      "en": "hladan",
+      "ru": [
+        "студёный",
+        "холодный",
+        "холодно"
+      ],
+      "example": "Danas je bilo vjetrovito i jako hladno.",
+      "level": "A1",
+      "sourceId": "cold",
+      "sourceIds": [
+        "cold"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kul",
+      "word": "kul",
+      "en": "kul",
+      "ru": [
+        "прохладный",
+        "холодноватый",
+        "классный"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "cool",
+      "sourceIds": [
+        "cool"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "hladjenje",
+      "word": "hlađenje",
+      "en": "hlađenje",
+      "ru": [
+        "охлаждающий",
+        "охлаждение",
+        "похолодание"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "cooling",
+      "sourceIds": [
+        "cooling"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "vlazan",
+      "word": "vlažan",
+      "en": "vlažan",
+      "ru": [
+        "сырой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "damp",
+      "sourceIds": [
+        "damp"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zora",
+      "word": "zora",
+      "en": "zora",
+      "ru": [
+        "заря",
+        "рассвет",
+        "восход"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "dawn",
+      "sourceIds": [
+        "dawn"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "svitanje",
+      "word": "svitanje",
+      "en": "svitanje",
+      "ru": [
+        "рассвет"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "dawning",
+      "sourceIds": [
+        "dawning"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "diploma",
+      "word": "diploma",
+      "en": "diploma",
+      "ru": [
+        "диплом",
+        "степень",
+        "учёная степень"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "degree",
+      "sourceIds": [
+        "degree"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "rosa",
+      "word": "rosa",
+      "en": "rosa",
+      "ru": [
+        "роса",
+        "росинка",
+        "оросить"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "dew",
+      "sourceIds": [
+        "dew"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "susa",
+      "word": "suša",
+      "en": "suša",
+      "ru": [
+        "засуха",
+        "сушь",
+        "засушливость"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "drought",
+      "sourceIds": [
+        "drought"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "otporan-na-susu",
+      "word": "otporan na sušu",
+      "en": "otporan na sušu",
+      "ru": [
+        "засухоустойчивый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "drought-tolerant",
+      "sourceIds": [
+        "drought-tolerant"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "susan",
+      "word": "sušan",
+      "en": "sušan",
+      "ru": [
+        "засушливый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "droughty",
+      "sourceIds": [
+        "droughty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "susiti",
+      "word": "sušiti",
+      "en": "sušiti",
+      "ru": [
+        "сухой",
+        "высохнуть",
+        "высушить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dry",
+      "sourceIds": [
+        "dry"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "sumrak",
+      "word": "sumrak",
+      "en": "sumrak",
+      "ru": [
+        "сумерки"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "dusk",
+      "sourceIds": [
+        "dusk"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "padati",
+      "word": "padati",
+      "en": "padati",
+      "ru": [
+        "падать"
+      ],
+      "example": "Nadam se da sutra neće padati kiša.",
+      "level": "A2",
+      "sourceId": "fall",
+      "sourceIds": [
+        "fall"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "poplava",
+      "word": "poplava",
+      "en": "poplava",
+      "ru": [
+        "наводнение",
+        "паводок",
+        "потоп"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "flood",
+      "sourceIds": [
+        "flood"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "magla",
+      "word": "magla",
+      "en": "magla",
+      "ru": [
+        "туман",
+        "мгла"
+      ],
+      "example": "Ne vidim prometne znakove u ovoj magli.",
+      "level": "A2",
+      "sourceId": "fog",
+      "sourceIds": [
+        "fog"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maglovit",
+      "word": "maglovit",
+      "en": "maglovit",
+      "ru": [
+        "туманный",
+        "мглистый",
+        "смутный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "foggy",
+      "sourceIds": [
+        "foggy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prognoza",
+      "word": "prognoza",
+      "en": "prognoza",
+      "ru": [
+        "прогноз",
+        "предвидение",
+        "предсказание"
+      ],
+      "example": "Prema vremenskoj prognozi, sutra će padati kiša.",
+      "level": "A2",
+      "sourceId": "forecast",
+      "sourceIds": [
+        "forecast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mraz",
+      "word": "mraz",
+      "en": "mraz",
+      "ru": [
+        "заморозки",
+        "морозы",
+        "зависание"
+      ],
+      "example": "Mraz je oštetio biljke.",
+      "level": "A2",
+      "sourceId": "freeze",
+      "sourceIds": [
+        "freeze"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "leden",
+      "word": "leden",
+      "en": "leden",
+      "ru": [
+        "холодный как лёд",
+        "ледяной",
+        "морозный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "freezing",
+      "sourceIds": [
+        "freezing"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zamrznut",
+      "word": "zamrznut",
+      "en": "zamrznut",
+      "ru": [
+        "замороженный",
+        "замёрзший",
+        "мороженый"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "frozen",
+      "sourceIds": [
+        "frozen"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "oluja",
+      "word": "oluja",
+      "en": "oluja",
+      "ru": [
+        "шторм",
+        "буря",
+        "порыв ветра"
+      ],
+      "example": "Mnogi su ljudi poginuli od posljedica oluje.",
+      "level": "C1",
+      "sourceId": "gale",
+      "sourceIds": [
+        "gale"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grad",
+      "word": "grad",
+      "en": "grad",
+      "ru": [
+        "град"
+      ],
+      "example": "Gotovo da nema nasilja u tom gradu.",
+      "level": "A2",
+      "sourceId": "hail",
+      "sourceIds": [
+        "hail"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vrucina",
+      "word": "vrućina",
+      "en": "vrućina",
+      "ru": [
+        "тепло",
+        "жара",
+        "жар"
+      ],
+      "example": "Ne volim učiti po ovakvoj vrućini.",
+      "level": "B1",
+      "sourceId": "heat",
+      "sourceIds": [
+        "heat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vruc",
+      "word": "vruć",
+      "en": "vruć",
+      "ru": [
+        "мне жарко",
+        "жаркий",
+        "жарко"
+      ],
+      "example": "Ta boca može sadržavati dvije litre vruće vode.",
+      "level": "A1",
+      "sourceId": "hot",
+      "sourceIds": [
+        "hot"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vlazan",
+      "word": "vlažan",
+      "en": "vlažan",
+      "ru": [
+        "влажный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "humid",
+      "sourceIds": [
+        "humid"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "vlaga",
+      "word": "vlaga",
+      "en": "vlaga",
+      "ru": [
+        "влажность",
+        "сырость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "humidity",
+      "sourceIds": [
+        "humidity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "uragan",
+      "word": "uragan",
+      "en": "uragan",
+      "ru": [
+        "ураган"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "hurricane",
+      "sourceIds": [
+        "hurricane"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "led",
+      "word": "led",
+      "en": "led",
+      "ru": [
+        "лёд",
+        "сухой лёд",
+        "замораживать"
+      ],
+      "example": "Ove kocke leda će se uskoro otopiti.",
+      "level": "A2",
+      "sourceId": "ice",
+      "sourceIds": [
+        "ice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "munja",
+      "word": "munja",
+      "en": "munja",
+      "ru": [
+        "молния"
+      ],
+      "example": "Munja prethodi grom.",
+      "level": "A2",
+      "sourceId": "lightning",
+      "sourceIds": [
+        "lightning"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "topiti-se",
+      "word": "topiti se",
+      "en": "topiti se",
+      "ru": [
+        "таять",
+        "плавиться",
+        "растоплять"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "melt",
+      "sourceIds": [
+        "melt"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "topljenje",
+      "word": "topljenje",
+      "en": "topljenje",
+      "ru": [
+        "плавящийся",
+        "расплавленный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "melting",
+      "sourceIds": [
+        "melting"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "izmaglica",
+      "word": "izmaglica",
+      "en": "izmaglica",
+      "ru": [
+        "туман",
+        "мгла",
+        "дымка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "mist",
+      "sourceIds": [
+        "mist"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kisa",
+      "word": "kiša",
+      "en": "kiša",
+      "ru": [
+        "дождь",
+        "ливень"
+      ],
+      "example": "Nadam se da sutra neće padati kiša.",
+      "level": "A1",
+      "sourceId": "rain",
+      "sourceIds": [
+        "rain"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "duga",
+      "word": "duga",
+      "en": "duga",
+      "ru": [
+        "радуга",
+        "весёлка"
+      ],
+      "example": "Dugo je govorila o svojim inozemnim iskustvima.",
+      "level": "A2",
+      "sourceId": "rainbow",
+      "sourceIds": [
+        "rainbow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kisan",
+      "word": "kišan",
+      "en": "kišan",
+      "ru": [
+        "дождливый",
+        "дождевой"
+      ],
+      "example": "Sviđaju mi se kišni dani.",
+      "level": "A2",
+      "sourceId": "rainy",
+      "sourceIds": [
+        "rainy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sezona",
+      "word": "sezona",
+      "en": "sezona",
+      "ru": [
+        "сезон",
+        "время года"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "season",
+      "sourceIds": [
+        "season"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sjena",
+      "word": "sjena",
+      "en": "sjena",
+      "ru": [
+        "штора",
+        "тень",
+        "переходить"
+      ],
+      "example": "Gdje je svjetlost, tu je i sjena.",
+      "level": "C1",
+      "sourceId": "shade",
+      "sourceIds": [
+        "shade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sjena",
+      "word": "sjena",
+      "en": "sjena",
+      "ru": [
+        "тень",
+        "полумрак"
+      ],
+      "example": "Gdje je svjetlost, tu je i sjena.",
+      "level": "B2",
+      "sourceId": "shadow",
+      "sourceIds": [
+        "shadow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nebo",
+      "word": "nebo",
+      "en": "nebo",
+      "ru": [
+        "небо",
+        "небесная сфера"
+      ],
+      "example": "Zvijezde su se počele pojavljivati na nebu.",
+      "level": "B1",
+      "sourceId": "sky",
+      "sourceIds": [
+        "sky"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "snijeg",
+      "word": "snijeg",
+      "en": "snijeg",
+      "ru": [
+        "снег",
+        "снегопад"
+      ],
+      "example": "Papir je bijel, ali je snijeg bjelji.",
+      "level": "A1",
+      "sourceId": "snow",
+      "sourceIds": [
+        "snow"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "snjezan",
+      "word": "snježan",
+      "en": "snježan",
+      "ru": [
+        "снежный",
+        "снеговой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "snowy",
+      "sourceIds": [
+        "snowy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "proljece",
+      "word": "proljeće",
+      "en": "proljeće",
+      "ru": [
+        "весна"
+      ],
+      "example": "Još nije bilo moguće vidjeti predznake proljeća.",
+      "level": "A2",
+      "sourceId": "spring",
+      "sourceIds": [
+        "spring"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oluja",
+      "word": "oluja",
+      "en": "oluja",
+      "ru": [
+        "шторм",
+        "буря",
+        "буран"
+      ],
+      "example": "Mnogi su ljudi poginuli od posljedica oluje.",
+      "level": "A2",
+      "sourceId": "storm",
+      "sourceIds": [
+        "storm"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ljeto",
+      "word": "ljeto",
+      "en": "ljeto",
+      "ru": [
+        "лето"
+      ],
+      "example": "Ovog ljeta putovat ću biciklom kroz Europu.",
+      "level": "A2",
+      "sourceId": "summer",
+      "sourceIds": [
+        "summer"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sunce",
+      "word": "sunce",
+      "en": "sunce",
+      "ru": [
+        "солнце",
+        "греться",
+        "загорать"
+      ],
+      "example": "Je li pomrčina Sunca uzrokovala trosatnu tamu?",
+      "level": "A1",
+      "sourceId": "sun",
+      "sourceIds": [
+        "sun"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "suncan",
+      "word": "sunčan",
+      "en": "sunčan",
+      "ru": [
+        "солнечный"
+      ],
+      "example": "Danas je vrijeme u Istanbulu vrlo sunčano.",
+      "level": "A2",
+      "sourceId": "sunny",
+      "sourceIds": [
+        "sunny"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "izlazak-sunca",
+      "word": "izlazak sunca",
+      "en": "izlazak sunca",
+      "ru": [
+        "(утренняя) заря",
+        "восход солнца",
+        "восход"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "sunrise",
+      "sourceIds": [
+        "sunrise"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zalazak-sunca",
+      "word": "zalazak sunca",
+      "en": "zalazak sunca",
+      "ru": [
+        "(вечерняя) заря",
+        "заход солнца",
+        "закат"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "sunset",
+      "sourceIds": [
+        "sunset"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "temperatura",
+      "word": "temperatura",
+      "en": "temperatura",
+      "ru": [
+        "температура",
+        "горячка",
+        "жар"
+      ],
+      "example": "Želimo ti izmjeriti tjelesnu temperaturu.",
+      "level": "A2",
+      "sourceId": "temperature",
+      "sourceIds": [
+        "temperature"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grom",
+      "word": "grom",
+      "en": "grom",
+      "ru": [
+        "гром",
+        "грохот",
+        "рокот"
+      ],
+      "example": "Munja prethodi grom.",
+      "level": "A2",
+      "sourceId": "thunder",
+      "sourceIds": [
+        "thunder"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "munja",
+      "word": "munja",
+      "en": "munja",
+      "ru": [
+        "перун",
+        "удар молнии",
+        "гром среди ясного неба"
+      ],
+      "example": "Munja prethodi grom.",
+      "level": "C2",
+      "sourceId": "thunderbolt",
+      "sourceIds": [
+        "thunderbolt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "udar-groma",
+      "word": "udar groma",
+      "en": "udar groma",
+      "ru": [
+        "удар грома"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thunderclap",
+      "sourceIds": [
+        "thunderclap"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "olujni-oblak",
+      "word": "olujni oblak",
+      "en": "olujni oblak",
+      "ru": [
+        "грозовая туча"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thundercloud",
+      "sourceIds": [
+        "thundercloud"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gromoglasan",
+      "word": "gromoglasan",
+      "en": "gromoglasan",
+      "ru": [
+        "грозовой",
+        "громовой",
+        "оглушительный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thunderous",
+      "sourceIds": [
+        "thunderous"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "snjezna-oluja-s-grmljavinom",
+      "word": "snježna oluja s grmljavinom",
+      "en": "snježna oluja s grmljavinom",
+      "ru": [
+        "снеговая гроза"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thundersnow",
+      "sourceIds": [
+        "thundersnow"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "grmljavina",
+      "word": "grmljavina",
+      "en": "grmljavina",
+      "ru": [
+        "гроза",
+        "буря"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "thunderstorm",
+      "sourceIds": [
+        "thunderstorm"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kao-gromom-pogodjen",
+      "word": "kao gromom pogođen",
+      "en": "kao gromom pogođen",
+      "ru": [
+        "как громом поражённый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thunderstruck",
+      "sourceIds": [
+        "thunderstruck"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tornado",
+      "word": "tornado",
+      "en": "tornado",
+      "ru": [
+        "смерч",
+        "торнадо"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "tornado",
+      "sourceIds": [
+        "tornado"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kisobran",
+      "word": "kišobran",
+      "en": "kišobran",
+      "ru": [
+        "зонт",
+        "зонтик",
+        "купол"
+      ],
+      "example": "Gdje si ostavila svoj kišobran?",
+      "level": "A1",
+      "sourceId": "umbrella",
+      "sourceIds": [
+        "umbrella"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "topao",
+      "word": "topao",
+      "en": "topao",
+      "ru": [
+        "тёплый",
+        "сердечный",
+        "греть"
+      ],
+      "example": "Danas je toplo kao i jučer.",
+      "level": "A1",
+      "sourceId": "warm",
+      "sourceIds": [
+        "warm"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zagrijavanje",
+      "word": "zagrijavanje",
+      "en": "zagrijavanje",
+      "ru": [
+        "потепление",
+        "согревание"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "warming",
+      "sourceIds": [
+        "warming"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "toplo",
+      "word": "toplo",
+      "en": "toplo",
+      "ru": [
+        "тепло"
+      ],
+      "example": "Danas je toplo kao i jučer.",
+      "level": "C2",
+      "sourceId": "warmly",
+      "sourceIds": [
+        "warmly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vrijeme",
+      "word": "vrijeme",
+      "en": "vrijeme",
+      "ru": [
+        "погода"
+      ],
+      "example": "Besmisleno je dokoličariti za vrijeme studentskog života.",
+      "level": "A1",
+      "sourceId": "weather",
+      "sourceIds": [
+        "weather"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vjetrokaz",
+      "word": "vjetrokaz",
+      "en": "vjetrokaz",
+      "ru": [
+        "флюгер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "weathercock",
+      "sourceIds": [
+        "weathercock"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "istrosen",
+      "word": "istrošen",
+      "en": "istrošen",
+      "ru": [
+        "выветренный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "weathered",
+      "sourceIds": [
+        "weathered"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "raspadanje-stijena",
+      "word": "raspadanje stijena",
+      "en": "raspadanje stijena",
+      "ru": [
+        "выветривание"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "weathering",
+      "sourceIds": [
+        "weathering"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "meteoroloskinja",
+      "word": "meteorološkinja",
+      "en": "meteorološkinja",
+      "ru": [
+        "метеорологиня",
+        "метеорологистка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "weatherwoman",
+      "sourceIds": [
+        "weatherwoman"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mokar",
+      "word": "mokar",
+      "en": "mokar",
+      "ru": [
+        "мокрый",
+        "мочить",
+        "мочиться"
+      ],
+      "example": "Mokar sam. / Mokra sam.",
+      "level": "B1",
+      "sourceId": "wet",
+      "sourceIds": [
+        "wet"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vjetar",
+      "word": "vjetar",
+      "en": "vjetar",
+      "ru": [
+        "ветер"
+      ],
+      "example": "Vjetar je jeftin i čist izvor energije",
+      "level": "A1",
+      "sourceId": "wind",
+      "sourceIds": [
+        "wind"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vjetrovit",
+      "word": "vjetrovit",
+      "en": "vjetrovit",
+      "ru": [
+        "ветреный"
+      ],
+      "example": "Danas je bilo vjetrovito i jako hladno.",
+      "level": "A2",
+      "sourceId": "windy",
+      "sourceIds": [
+        "windy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zima",
+      "word": "zima",
+      "en": "zima",
+      "ru": [
+        "зима"
+      ],
+      "example": "U Ankari su sva godišnja doba nalik zimi.",
+      "level": "A2",
+      "sourceId": "winter",
+      "sourceIds": [
+        "winter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atmosferski",
+      "word": "atmosferski",
+      "en": "atmosferski",
+      "ru": [
+        "атмосферный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "atmospheric",
+      "sourceIds": [
+        "atmospheric"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sunceva-svjetlost",
+      "word": "sunčeva svjetlost",
+      "en": "sunčeva svjetlost",
+      "ru": [
+        "солнечный свет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sunshine",
+      "sourceIds": [
+        "sunshine"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pljuskovit",
+      "word": "pljuskovit",
+      "en": "pljuskovit",
+      "ru": [
+        "проливной"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "torrential",
+      "sourceIds": [
+        "torrential"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "potop",
+      "word": "potop",
+      "en": "potop",
+      "ru": [
+        "потоп",
+        "ливень"
+      ],
+      "example": "Poslije nas, potop.",
+      "level": "B1",
+      "sourceId": "deluge",
+      "sourceIds": [
+        "deluge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "poplavna-voda",
+      "word": "poplavna voda",
+      "en": "poplavna voda",
+      "ru": [
+        "паводковые воды"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "floodwater",
+      "sourceIds": [
+        "floodwater"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vlaga",
+      "word": "vlaga",
+      "en": "vlaga",
+      "ru": [
+        "влажность",
+        "влага"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "moisture",
+      "sourceIds": [
+        "moisture"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mokar-do-koze",
+      "word": "mokar do kože",
+      "en": "mokar do kože",
+      "ru": [
+        "промокший насквозь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "soaking",
+      "sourceIds": [
+        "soaking"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "oborine",
+      "word": "oborine",
+      "en": "oborine",
+      "ru": [
+        "осадки",
+        "количество осадков"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rainfall",
+      "sourceIds": [
+        "rainfall"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zimski",
+      "word": "zimski",
+      "en": "zimski",
+      "ru": [
+        "зимний"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wintry",
+      "sourceIds": [
+        "wintry"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "otapanje",
+      "word": "otapanje",
+      "en": "otapanje",
+      "ru": [
+        "оттепель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "thaw",
+      "sourceIds": [
+        "thaw"
+      ],
+      "pos": "v",
+      "gender": "n"
+    },
+    {
+      "id": "nalet-vjetra",
+      "word": "nalet vjetra",
+      "en": "nalet vjetra",
+      "ru": [
+        "порыв ветра"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gust",
+      "sourceIds": [
+        "gust"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "toplina",
+      "word": "toplina",
+      "en": "toplina",
+      "ru": [
+        "тепло",
+        "сердечность"
+      ],
+      "example": "Toplina sunca stvrdnjava glinu.",
+      "level": "B1",
+      "sourceId": "warmth",
+      "sourceIds": [
+        "warmth"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nevrijeme-s-gradom",
+      "word": "nevrijeme s gradom",
+      "en": "nevrijeme s gradom",
+      "ru": [
+        "град"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hailstorm",
+      "sourceIds": [
+        "hailstorm"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "svjez",
+      "word": "svjež",
+      "en": "svjež",
+      "ru": [
+        "прохладный"
+      ],
+      "example": "Rajčice, bilo svježe ili kuhane, su uvijek ukusni dodatak.",
+      "level": "B1",
+      "sourceId": "nippy",
+      "sourceIds": [
+        "nippy",
+        "chilly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oborine",
+      "word": "oborine",
+      "en": "oborine",
+      "ru": [
+        "осадки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "precipitation",
+      "sourceIds": [
+        "precipitation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dnevna-svjetlost",
+      "word": "dnevna svjetlost",
+      "en": "dnevna svjetlost",
+      "ru": [
+        "дневной свет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "daylight",
+      "sourceIds": [
+        "daylight"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zagusljiv",
+      "word": "zagušljiv",
+      "en": "zagušljiv",
+      "ru": [
+        "душный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stuffy",
+      "sourceIds": [
+        "stuffy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "grudva",
+      "word": "grudva",
+      "en": "grudva",
+      "ru": [
+        "снежок",
+        "снежный ком"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "snowball",
+      "sourceIds": [
+        "snowball"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "meteoroloski",
+      "word": "meteorološki",
+      "en": "meteorološki",
+      "ru": [
+        "метеорологически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "meteorologically",
+      "sourceIds": [
+        "meteorologically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "natopljen",
+      "word": "natopljen",
+      "en": "natopljen",
+      "ru": [
+        "промокший"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sodden",
+      "sourceIds": [
+        "sodden"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "promjenjiv",
+      "word": "promjenjiv",
+      "en": "promjenjiv",
+      "ru": [
+        "изменчивый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "changeable",
+      "sourceIds": [
+        "changeable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "promaja",
+      "word": "promaja",
+      "en": "promaja",
+      "ru": [
+        "сквозняк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cross-breeze",
+      "sourceIds": [
+        "cross-breeze"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "leden",
+      "word": "leden",
+      "en": "leden",
+      "ru": [
+        "морозный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frosty",
+      "sourceIds": [
+        "frosty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "silazna-struja",
+      "word": "silazna struja",
+      "en": "silazna struja",
+      "ru": [
+        "нисходящий поток воздуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "down-draught",
+      "sourceIds": [
+        "down-draught"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "maglovit",
+      "word": "maglovit",
+      "en": "maglovit",
+      "ru": [
+        "туманный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "misty",
+      "sourceIds": [
+        "misty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ledan",
+      "word": "ledan",
+      "en": "ledan",
+      "ru": [
+        "ледяной",
+        "холодный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "icy",
+      "sourceIds": [
+        "icy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sparan",
+      "word": "sparan",
+      "en": "sparan",
+      "ru": [
+        "знойный",
+        "чувственный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sultry",
+      "sourceIds": [
+        "sultry"
+      ],
+      "pos": "adj"
+    }
+  ]
+}

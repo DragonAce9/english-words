@@ -1,0 +1,596 @@
+{
+  "id": "interest-automotive",
+  "title": "Автомобили и техника",
+  "paid": true,
+  "blockId": "interests",
+  "words": [
+    {
+      "id": "incidente",
+      "word": "incidente",
+      "en": "incidente",
+      "ru": [
+        "инцидент",
+        "происшествие"
+      ],
+      "example": "Abbiamo imparato che ha avuto un incidente.",
+      "level": "B1",
+      "sourceId": "incident",
+      "sourceIds": [
+        "incident"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "meccanica",
+      "word": "meccanica",
+      "en": "meccanica",
+      "ru": [
+        "механика"
+      ],
+      "example": "Donna e bellezza meccanica si sovrappongono.",
+      "level": "B1",
+      "sourceId": "mechanic",
+      "sourceIds": [
+        "mechanic"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "perdere",
+      "word": "perdere",
+      "en": "perdere",
+      "ru": [
+        "протекать"
+      ],
+      "example": "Abbiamo paura di perdere il nostro treno.",
+      "level": "B1",
+      "sourceId": "leak",
+      "sourceIds": [
+        "leak"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "attaccare",
+      "word": "attaccare",
+      "en": "attaccare",
+      "ru": [
+        "прикреплять",
+        "присоединять"
+      ],
+      "example": "Attaccare le persone vulnerabili è da codardi.",
+      "level": "B1",
+      "sourceId": "attach",
+      "sourceIds": [
+        "attach"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "montare",
+      "word": "montare",
+      "en": "montare",
+      "ru": [
+        "собирать",
+        "монтировать"
+      ],
+      "example": "A chi li fanno montare questi palchi?",
+      "level": "B1",
+      "sourceId": "assemble",
+      "sourceIds": [
+        "assemble"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "senza-precedenti",
+      "word": "senza precedenti",
+      "en": "senza precedenti",
+      "ru": [
+        "беспрецедентный"
+      ],
+      "example": "Il crollo dei consumi è senza precedenti.",
+      "level": "B1",
+      "sourceId": "unprecedented",
+      "sourceIds": [
+        "unprecedented"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "raccogliere",
+      "word": "raccogliere",
+      "en": "raccogliere",
+      "ru": [
+        "собирать",
+        "собираться"
+      ],
+      "example": "Cathy ha smesso di raccogliere dei fiori.",
+      "level": "B1",
+      "sourceId": "gather",
+      "sourceIds": [
+        "gather"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ringrassare",
+      "word": "ringrassare",
+      "en": "ringrassare",
+      "ru": [
+        "повторно смазывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "re-grease",
+      "sourceIds": [
+        "re-grease"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "riunirsi-di-nuovo",
+      "word": "riunirsi di nuovo",
+      "en": "riunirsi di nuovo",
+      "ru": [
+        "вновь собираться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reconvene",
+      "sourceIds": [
+        "reconvene"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "rintracciare",
+      "word": "rintracciare",
+      "en": "rintracciare",
+      "ru": [
+        "прослеживать"
+      ],
+      "example": "Il cane rintracciò il coniglio nel bosco.",
+      "level": "B1",
+      "sourceId": "trace",
+      "sourceIds": [
+        "trace"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fuga",
+      "word": "fuga",
+      "en": "fuga",
+      "ru": [
+        "утечка"
+      ],
+      "example": "Effettivamente queste sono braccia in fuga dall'agricoltura.",
+      "level": "B1",
+      "sourceId": "leakage",
+      "sourceIds": [
+        "leakage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ammaccare",
+      "word": "ammaccare",
+      "en": "ammaccare",
+      "ru": [
+        "делать вмятину"
+      ],
+      "example": "Mary ammaccò la sua auto.",
+      "level": "B1",
+      "sourceId": "dent",
+      "sourceIds": [
+        "dent"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "consegna",
+      "word": "consegna",
+      "en": "consegna",
+      "ru": [
+        "передача"
+      ],
+      "example": "Finisci di scrivere e consegna il lavoro.",
+      "level": "B1",
+      "sourceId": "handover",
+      "sourceIds": [
+        "handover"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasticcio",
+      "word": "pasticcio",
+      "en": "pasticcio",
+      "ru": [
+        "прокол",
+        "ошибка"
+      ],
+      "example": "Sai chi è l'autore di questo pasticcio?",
+      "level": "B1",
+      "sourceId": "screwup",
+      "sourceIds": [
+        "screwup"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tubo",
+      "word": "tubo",
+      "en": "tubo",
+      "ru": [
+        "трубка",
+        "тюбик",
+        "метро"
+      ],
+      "example": "Abbiamo bisogno di un tubo da giardino.",
+      "level": "B1",
+      "sourceId": "tube",
+      "sourceIds": [
+        "tube"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ammaccatura",
+      "word": "ammaccatura",
+      "en": "ammaccatura",
+      "ru": [
+        "звон",
+        "вмятина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ding",
+      "sourceIds": [
+        "ding"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "renault",
+      "word": "Renault",
+      "en": "Renault",
+      "ru": [
+        "рено"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "renault",
+      "sourceIds": [
+        "renault"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lancia",
+      "word": "Lancia",
+      "en": "Lancia",
+      "ru": [
+        "ланча"
+      ],
+      "example": "A buon cavalier non manca lancia.",
+      "level": "B1",
+      "sourceId": "lancia",
+      "sourceIds": [
+        "lancia"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maserati",
+      "word": "Maserati",
+      "en": "Maserati",
+      "ru": [
+        "мазерати"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "maserati",
+      "sourceIds": [
+        "maserati"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ferrari",
+      "word": "Ferrari",
+      "en": "Ferrari",
+      "ru": [
+        "феррари"
+      ],
+      "example": "Parlando di automobili, hai visto l'ultima Ferrari?",
+      "level": "B1",
+      "sourceId": "ferrari",
+      "sourceIds": [
+        "ferrari"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bentley",
+      "word": "Bentley",
+      "en": "Bentley",
+      "ru": [
+        "Бентли"
+      ],
+      "example": "Oltre a una villa, possiede una Bentley.",
+      "level": "B1",
+      "sourceId": "bentley",
+      "sourceIds": [
+        "bentley"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "phaeton",
+      "word": "phaeton",
+      "en": "phaeton",
+      "ru": [
+        "фаэтон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "phaeton",
+      "sourceIds": [
+        "phaeton"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cromo",
+      "word": "cromo",
+      "en": "cromo",
+      "ru": [
+        "хром"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chrome",
+      "sourceIds": [
+        "chrome"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "racconto",
+      "word": "racconto",
+      "en": "racconto",
+      "ru": [
+        "сказка",
+        "рассказ",
+        "байка"
+      ],
+      "example": "Abbiamo illustrato il racconto con delle immagini.",
+      "level": "B1",
+      "sourceId": "tale",
+      "sourceIds": [
+        "tale"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ritardare",
+      "word": "ritardare",
+      "en": "ritardare",
+      "ru": [
+        "задерживать",
+        "тормозить"
+      ],
+      "example": "Il brutto tempo ha fatto ritardare l'aereo.",
+      "level": "B1",
+      "sourceId": "retard",
+      "sourceIds": [
+        "retard"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oleodotto",
+      "word": "oleodotto",
+      "en": "oleodotto",
+      "ru": [
+        "трубопровод"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pipeline",
+      "sourceIds": [
+        "pipeline"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tappo-di-sughero",
+      "word": "tappo di sughero",
+      "en": "tappo di sughero",
+      "ru": [
+        "пробка"
+      ],
+      "example": "Questo tappo non è di sughero.",
+      "level": "B1",
+      "sourceId": "cork",
+      "sourceIds": [
+        "cork"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "riattaccare",
+      "word": "riattaccare",
+      "en": "riattaccare",
+      "ru": [
+        "прикреплять заново"
+      ],
+      "example": "Prego non riattaccare, ma rimanere in linea.",
+      "level": "B1",
+      "sourceId": "reattach",
+      "sourceIds": [
+        "reattach"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passaggio-di-consegne",
+      "word": "passaggio di consegne",
+      "en": "passaggio di consegne",
+      "ru": [
+        "передача"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "handoff",
+      "sourceIds": [
+        "handoff"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "blindato",
+      "word": "blindato",
+      "en": "blindato",
+      "ru": [
+        "бронированный",
+        "неоспоримый"
+      ],
+      "example": "La porta è blindata.",
+      "level": "B1",
+      "sourceId": "ironclad",
+      "sourceIds": [
+        "ironclad"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "honda",
+      "word": "Honda",
+      "en": "Honda",
+      "ru": [
+        "хонда"
+      ],
+      "example": "Lui ha comprato una Honda.",
+      "level": "B1",
+      "sourceId": "honda",
+      "sourceIds": [
+        "honda"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ripercorrere",
+      "word": "ripercorrere",
+      "en": "ripercorrere",
+      "ru": [
+        "прослеживать",
+        "возвращаться по пройденному пути"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "retrace",
+      "sourceIds": [
+        "retrace"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "aeronautico",
+      "word": "aeronautico",
+      "en": "aeronautico",
+      "ru": [
+        "авиационный",
+        "воздушный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "aero",
+      "sourceIds": [
+        "aero"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "rolls-royce",
+      "word": "Rolls-Royce",
+      "en": "Rolls-Royce",
+      "ru": [
+        "Роллс-Ройс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rolls-royce",
+      "sourceIds": [
+        "rolls-royce"
+      ],
+      "pos": "n",
+      "gender": "f"
+    }
+  ]
+}

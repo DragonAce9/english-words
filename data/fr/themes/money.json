@@ -1,0 +1,4128 @@
+{
+  "id": "money",
+  "title": "Деньги",
+  "paid": true,
+  "blockId": "society",
+  "words": [
+    {
+      "id": "compte",
+      "word": "compte",
+      "en": "compte",
+      "sourceId": "account",
+      "sourceIds": [
+        "account"
+      ],
+      "ru": [
+        "счёт",
+        "отчёт"
+      ],
+      "gender": "m",
+      "example": "J'ai ouvert un compte bancaire.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "responsabilite",
+      "word": "responsabilité",
+      "en": "responsabilité",
+      "sourceId": "accountability",
+      "sourceIds": [
+        "accountability"
+      ],
+      "ru": [
+        "ответственность",
+        "отчётность",
+        "подотчётность"
+      ],
+      "gender": "f",
+      "example": "Chaque employé doit assumer la responsabilité de ses actes.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "responsable",
+      "word": "responsable",
+      "en": "responsable",
+      "sourceId": "accountable",
+      "sourceIds": [
+        "accountable"
+      ],
+      "ru": [
+        "ответственный",
+        "подотчётный"
+      ],
+      "gender": null,
+      "example": "Chaque employé est responsable de ses propres actions.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "comptabilite",
+      "word": "comptabilité",
+      "en": "comptabilité",
+      "sourceId": "accountancy",
+      "sourceIds": [
+        "accountancy"
+      ],
+      "ru": [
+        "бухгалтерский учёт",
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "gender": "f",
+      "example": "Elle étudie la comptabilité à l'université.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "comptable",
+      "word": "comptable",
+      "en": "comptable",
+      "sourceId": "accountant",
+      "sourceIds": [
+        "accountant"
+      ],
+      "ru": [
+        "бухгалтер"
+      ],
+      "gender": "m",
+      "example": "Il travaille comme comptable dans une grande entreprise.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "comptabilite",
+      "word": "comptabilité",
+      "en": "comptabilité",
+      "sourceId": "accounting",
+      "sourceIds": [
+        "accounting"
+      ],
+      "ru": [
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "gender": "f",
+      "example": "Il travaille dans le service de comptabilité.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "avoir-les-moyens",
+      "word": "avoir les moyens",
+      "en": "avoir les moyens",
+      "sourceId": "afford",
+      "sourceIds": [
+        "afford"
+      ],
+      "ru": [
+        "быть в состоянии",
+        "позволить",
+        "позволять"
+      ],
+      "gender": null,
+      "example": "Je n'ai pas les moyens de m'acheter cette voiture.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "abordable",
+      "word": "abordable",
+      "en": "abordable",
+      "sourceId": "affordable",
+      "sourceIds": [
+        "affordable"
+      ],
+      "ru": [
+        "доступный"
+      ],
+      "gender": null,
+      "example": "Ce restaurant propose des plats abordables.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "actif",
+      "word": "actif",
+      "en": "actif",
+      "sourceId": "asset",
+      "sourceIds": [
+        "asset"
+      ],
+      "ru": [
+        "актив",
+        "авуары",
+        "активы"
+      ],
+      "gender": "m",
+      "example": "L'entreprise a déclaré ses actifs financiers.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "actif",
+      "word": "actif",
+      "en": "actif",
+      "sourceId": "assets",
+      "sourceIds": [
+        "assets"
+      ],
+      "ru": [
+        "актив"
+      ],
+      "gender": "m",
+      "example": "L'entreprise a déclaré ses actifs financiers.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "solde",
+      "word": "solde",
+      "en": "solde",
+      "sourceId": "balance",
+      "sourceIds": [
+        "balance"
+      ],
+      "ru": [
+        "баланс",
+        "остаток на счёте"
+      ],
+      "gender": "m",
+      "example": "Le solde de mon compte bancaire est positif.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "equilibre",
+      "word": "équilibré",
+      "en": "équilibré",
+      "sourceId": "balanced",
+      "sourceIds": [
+        "balanced"
+      ],
+      "ru": [
+        "сбалансированный"
+      ],
+      "gender": null,
+      "example": "Il a une alimentation équilibrée.",
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "banque",
+      "word": "banque",
+      "en": "banque",
+      "sourceId": "bank",
+      "sourceIds": [
+        "bank"
+      ],
+      "ru": [
+        "банк"
+      ],
+      "gender": "f",
+      "example": "Je vais à la banque pour retirer de l'argent.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "banquier",
+      "word": "banquier",
+      "en": "banquier",
+      "sourceId": "banker",
+      "sourceIds": [
+        "banker"
+      ],
+      "ru": [
+        "банкир",
+        "банкирша",
+        "банкомёт"
+      ],
+      "gender": "m",
+      "example": "Le banquier a approuvé notre prêt immobilier.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "secteur-bancaire",
+      "word": "secteur bancaire",
+      "en": "secteur bancaire",
+      "sourceId": "banking",
+      "sourceIds": [
+        "banking"
+      ],
+      "ru": [
+        "банковское дело",
+        "банкинг",
+        "вираж"
+      ],
+      "gender": "m",
+      "example": "Il travaille dans le secteur bancaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "failli",
+      "word": "failli",
+      "en": "failli",
+      "sourceId": "bankrupt",
+      "sourceIds": [
+        "bankrupt"
+      ],
+      "ru": [
+        "обанкротившийся",
+        "банкрот",
+        "банкротить"
+      ],
+      "gender": "m",
+      "example": "L'entreprise a été déclarée en état de faillite.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "faillite",
+      "word": "faillite",
+      "en": "faillite",
+      "sourceId": "bankruptcy",
+      "sourceIds": [
+        "bankruptcy"
+      ],
+      "ru": [
+        "банкротство",
+        "несостоятельность"
+      ],
+      "gender": "f",
+      "example": "L'entreprise a déclaré la faillite après une année difficile.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "avantage",
+      "word": "avantage",
+      "en": "avantage",
+      "sourceId": "benefit",
+      "sourceIds": [
+        "benefit"
+      ],
+      "ru": [
+        "благо",
+        "выгода",
+        "льгота"
+      ],
+      "gender": "m",
+      "example": "Ce nouveau contrat offre de nombreux avantages.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "facture",
+      "word": "facture",
+      "en": "facture",
+      "sourceId": "bill",
+      "sourceIds": [
+        "bill"
+      ],
+      "ru": [
+        "счёт",
+        "банкнота"
+      ],
+      "gender": "f",
+      "example": "Pourriez-vous m'apporter la facture, s'il vous plaît ?",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "milliardaire",
+      "word": "milliardaire",
+      "en": "milliardaire",
+      "sourceId": "billionaire",
+      "sourceIds": [
+        "billionaire"
+      ],
+      "ru": [
+        "миллиардер",
+        "миллиардерша"
+      ],
+      "gender": "m",
+      "example": "Il est devenu milliardaire grâce à ses investissements.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "obligation",
+      "word": "obligation",
+      "en": "obligation",
+      "sourceId": "bond",
+      "sourceIds": [
+        "bond"
+      ],
+      "ru": [
+        "облигация",
+        "долговое обязательство"
+      ],
+      "gender": "f",
+      "example": "Il a investi ses économies dans des obligations d'État.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "prime",
+      "word": "prime",
+      "en": "prime",
+      "sourceId": "bonus",
+      "sourceIds": [
+        "bonus"
+      ],
+      "ru": [
+        "бонус",
+        "надбавка",
+        "премия"
+      ],
+      "gender": "f",
+      "example": "Elle a reçu une prime pour son excellent travail.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "budget",
+      "word": "budget",
+      "en": "budget",
+      "sourceId": "budget",
+      "sourceIds": [
+        "budget"
+      ],
+      "ru": [
+        "бюджетный",
+        "бюджет",
+        "смета"
+      ],
+      "gender": "m",
+      "example": "Nous devons respecter notre budget pour ce projet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "capital",
+      "word": "capital",
+      "en": "capital",
+      "sourceId": "capital",
+      "sourceIds": [
+        "capital"
+      ],
+      "ru": [
+        "капитель",
+        "богатство",
+        "капитал"
+      ],
+      "gender": "m",
+      "example": "Il a investi tout son capital dans cette entreprise.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "a-forte-intensite-capitalistique",
+      "word": "à forte intensité capitalistique",
+      "en": "à forte intensité capitalistique",
+      "sourceId": "capital-intensive",
+      "sourceIds": [
+        "capital-intensive"
+      ],
+      "ru": [
+        "капиталоёмкий"
+      ],
+      "gender": null,
+      "example": "Cette industrie est très à forte intensité capitalistique.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "capitalisation",
+      "word": "capitalisation",
+      "en": "capitalisation",
+      "sourceId": "capitalisation",
+      "sourceIds": [
+        "capitalisation"
+      ],
+      "ru": [
+        "капитализация"
+      ],
+      "gender": "f",
+      "example": "La capitalisation boursière de cette entreprise a augmenté cette année.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "capitalisme",
+      "word": "capitalisme",
+      "en": "capitalisme",
+      "sourceId": "capitalism",
+      "sourceIds": [
+        "capitalism"
+      ],
+      "ru": [
+        "капитализм"
+      ],
+      "gender": "m",
+      "example": "Le capitalisme a transformé l'économie mondiale.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "capitaliste",
+      "word": "capitaliste",
+      "en": "capitaliste",
+      "sourceId": "capitalist",
+      "sourceIds": [
+        "capitalist"
+      ],
+      "ru": [
+        "капиталистический",
+        "капиталист"
+      ],
+      "gender": null,
+      "example": "Il a une vision économique capitaliste.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "capitaliser",
+      "word": "capitaliser",
+      "en": "capitaliser",
+      "sourceId": "capitalize",
+      "sourceIds": [
+        "capitalize"
+      ],
+      "ru": [
+        "капитализировать",
+        "превращать в капитал"
+      ],
+      "gender": null,
+      "example": "Il faut capitaliser les intérêts pour augmenter le rendement.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "carte",
+      "word": "carte",
+      "en": "carte",
+      "sourceId": "card",
+      "sourceIds": [
+        "card"
+      ],
+      "ru": [
+        "карта",
+        "козырь",
+        "карточка"
+      ],
+      "gender": "f",
+      "example": "Il joue aux cartes avec ses amis.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "argent-liquide",
+      "word": "argent liquide",
+      "en": "argent liquide",
+      "sourceId": "cash",
+      "sourceIds": [
+        "cash"
+      ],
+      "ru": [
+        "деньги",
+        "нал",
+        "наличные деньги"
+      ],
+      "gender": "m",
+      "example": "Avez-vous de l'argent liquide sur vous ?",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "centime",
+      "word": "centime",
+      "en": "centime",
+      "sourceId": "cent",
+      "sourceIds": [
+        "cent"
+      ],
+      "ru": [
+        "цент"
+      ],
+      "gender": "m",
+      "example": "Il me manque dix centimes pour payer mon café.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "monnaie",
+      "word": "monnaie",
+      "en": "monnaie",
+      "sourceId": "change",
+      "sourceIds": [
+        "change"
+      ],
+      "ru": [
+        "сдача"
+      ],
+      "gender": "f",
+      "example": "Voici votre monnaie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "association-caritative",
+      "word": "association caritative",
+      "en": "association caritative",
+      "sourceId": "charity",
+      "sourceIds": [
+        "charity"
+      ],
+      "ru": [
+        "благотворительная организация",
+        "благотворительное общество",
+        "благотворительный фонд"
+      ],
+      "gender": "f",
+      "example": "Elle fait un don à une association caritative chaque année.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bon-marche",
+      "word": "bon marché",
+      "en": "bon marché",
+      "sourceId": "cheap",
+      "sourceIds": [
+        "cheap"
+      ],
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "gender": null,
+      "example": "Ce restaurant est très bon marché.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "bon-marche",
+      "word": "bon marché",
+      "en": "bon marché",
+      "sourceId": "cheaply",
+      "sourceIds": [
+        "cheaply"
+      ],
+      "ru": [
+        "дёшево"
+      ],
+      "gender": null,
+      "example": "Il a acheté ce vélo bon marché.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "piece",
+      "word": "pièce",
+      "en": "pièce",
+      "sourceId": "coin",
+      "sourceIds": [
+        "coin"
+      ],
+      "ru": [
+        "монета",
+        "жетон",
+        "фишка"
+      ],
+      "gender": "f",
+      "example": "Il a trouvé une vieille pièce par terre.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "compensation",
+      "word": "compensation",
+      "en": "compensation",
+      "sourceId": "compensation",
+      "sourceIds": [
+        "compensation"
+      ],
+      "ru": [
+        "возмещение",
+        "компенсация",
+        "уравнивание"
+      ],
+      "gender": "f",
+      "example": "Il a reçu une compensation financière pour ses pertes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cout",
+      "word": "coût",
+      "en": "coût",
+      "sourceId": "cost",
+      "sourceIds": [
+        "cost"
+      ],
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "gender": "m",
+      "example": "Le coût de ce projet est très élevé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "couteux",
+      "word": "coûteux",
+      "en": "coûteux",
+      "sourceId": "costly",
+      "sourceIds": [
+        "costly"
+      ],
+      "ru": [
+        "дорогой",
+        "дорогостоящий",
+        "ценный"
+      ],
+      "gender": null,
+      "example": "C'est une erreur très coûteuse.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "credit",
+      "word": "crédit",
+      "en": "crédit",
+      "sourceId": "credit",
+      "sourceIds": [
+        "credit"
+      ],
+      "ru": [
+        "кредит",
+        "заём"
+      ],
+      "gender": "m",
+      "example": "Il a obtenu un crédit à la banque pour acheter sa voiture.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "monnaie",
+      "word": "monnaie",
+      "en": "monnaie",
+      "sourceId": "currency",
+      "sourceIds": [
+        "currency"
+      ],
+      "ru": [
+        "валюта",
+        "распространённость",
+        "употребительность"
+      ],
+      "gender": "f",
+      "example": "L'euro est la monnaie utilisée dans de nombreux pays européens.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "debit",
+      "word": "débit",
+      "en": "débit",
+      "sourceId": "debit",
+      "sourceIds": [
+        "debit"
+      ],
+      "ru": [
+        "дебет"
+      ],
+      "gender": "m",
+      "example": "Le débit de son compte bancaire est trop élevé.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "dette",
+      "word": "dette",
+      "en": "dette",
+      "sourceId": "debt",
+      "sourceIds": [
+        "debt"
+      ],
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязанность"
+      ],
+      "gender": "f",
+      "example": "Il a remboursé toute sa dette.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "depot",
+      "word": "dépôt",
+      "en": "dépôt",
+      "sourceId": "deposit",
+      "sourceIds": [
+        "deposit"
+      ],
+      "ru": [
+        "вклад",
+        "депозит",
+        "залог"
+      ],
+      "gender": "m",
+      "example": "Il a fait un dépôt sur son compte bancaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "deposition",
+      "word": "déposition",
+      "en": "déposition",
+      "sourceId": "deposition",
+      "sourceIds": [
+        "deposition"
+      ],
+      "ru": [
+        "смещение с должности",
+        "осаждение",
+        "отложение"
+      ],
+      "gender": "f",
+      "example": "La déposition du témoin a été enregistrée par le juge.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "depot",
+      "word": "dépôt",
+      "en": "dépôt",
+      "sourceId": "depository",
+      "sourceIds": [
+        "depository"
+      ],
+      "ru": [
+        "депозитарий",
+        "склад",
+        "хранилище"
+      ],
+      "gender": "m",
+      "example": "Le musée sert de dépôt pour les archives historiques.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "remise",
+      "word": "remise",
+      "en": "remise",
+      "sourceId": "discount",
+      "sourceIds": [
+        "discount"
+      ],
+      "ru": [
+        "дисконт",
+        "скидка"
+      ],
+      "gender": "f",
+      "example": "Le magasin offre une remise de dix pour cent sur tous les articles.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "dollar",
+      "word": "dollar",
+      "en": "dollar",
+      "sourceId": "dollar",
+      "sourceIds": [
+        "dollar"
+      ],
+      "ru": [
+        "доллар"
+      ],
+      "gender": "m",
+      "example": "Le prix est de dix dollars.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faire-un-don",
+      "word": "faire un don",
+      "en": "faire un don",
+      "sourceId": "donate",
+      "sourceIds": [
+        "donate"
+      ],
+      "ru": [
+        "давать",
+        "дарить",
+        "дать"
+      ],
+      "gender": null,
+      "example": "Il a décidé de faire un don à l'association caritative.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "don",
+      "word": "don",
+      "en": "don",
+      "sourceId": "donation",
+      "sourceIds": [
+        "donation"
+      ],
+      "ru": [
+        "пожертвование",
+        "дар",
+        "донат"
+      ],
+      "gender": "m",
+      "example": "Il a fait un don généreux à l'association.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "devoir",
+      "word": "devoir",
+      "en": "devoir",
+      "sourceId": "duty",
+      "sourceIds": [
+        "duty"
+      ],
+      "ru": [
+        "долг",
+        "обязанность",
+        "сбор"
+      ],
+      "gender": "m",
+      "example": "C'est mon devoir de vous aider.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gagner",
+      "word": "gagner",
+      "en": "gagner",
+      "sourceId": "earn",
+      "sourceIds": [
+        "earn"
+      ],
+      "ru": [
+        "зарабатывать",
+        "заработать",
+        "заслуживать"
+      ],
+      "gender": null,
+      "example": "Elle travaille dur pour gagner sa vie.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "revenu",
+      "word": "revenu",
+      "en": "revenu",
+      "sourceId": "earnings",
+      "sourceIds": [
+        "earnings"
+      ],
+      "ru": [
+        "доход",
+        "заработок",
+        "прибыль"
+      ],
+      "gender": "m",
+      "example": "Ses revenus ont augmenté cette année.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "economique",
+      "word": "économique",
+      "en": "économique",
+      "sourceId": "economic",
+      "sourceIds": [
+        "economic"
+      ],
+      "ru": [
+        "хозяйственный",
+        "экономический"
+      ],
+      "gender": null,
+      "example": "La situation économique du pays est difficile.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "economique",
+      "word": "économique",
+      "en": "économique",
+      "sourceId": "economical",
+      "sourceIds": [
+        "economical"
+      ],
+      "ru": [
+        "бережливый",
+        "экономный",
+        "экономичный"
+      ],
+      "gender": null,
+      "example": "Cette petite voiture est très économique.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "economiquement",
+      "word": "économiquement",
+      "en": "économiquement",
+      "sourceId": "economically",
+      "sourceIds": [
+        "economically"
+      ],
+      "ru": [
+        "бережливо",
+        "расчётливо"
+      ],
+      "gender": null,
+      "example": "Il faut gérer les ressources économiquement.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "economie",
+      "word": "économie",
+      "en": "économie",
+      "sourceId": "economics",
+      "sourceIds": [
+        "economics"
+      ],
+      "ru": [
+        "экономика"
+      ],
+      "gender": "f",
+      "example": "Elle étudie l'économie à l'université.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "economie",
+      "word": "économie",
+      "en": "économie",
+      "sourceId": "economy",
+      "sourceIds": [
+        "economy"
+      ],
+      "ru": [
+        "экономика",
+        "хозяйство"
+      ],
+      "gender": "f",
+      "example": "L'économie du pays est en pleine croissance.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "capitaux-propres",
+      "word": "capitaux propres",
+      "en": "capitaux propres",
+      "sourceId": "equity",
+      "sourceIds": [
+        "equity"
+      ],
+      "ru": [
+        "собственный капитал",
+        "акции"
+      ],
+      "gender": "m",
+      "example": "L'entreprise a augmenté ses capitaux propres cette année.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "euro",
+      "word": "euro",
+      "en": "euro",
+      "sourceId": "euro",
+      "sourceIds": [
+        "euro"
+      ],
+      "ru": [
+        "евро"
+      ],
+      "gender": "m",
+      "example": "Le prix est de dix euros.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "echange",
+      "word": "échange",
+      "en": "échange",
+      "sourceId": "exchange",
+      "sourceIds": [
+        "exchange"
+      ],
+      "ru": [
+        "обмен",
+        "биржа",
+        "обмениваться"
+      ],
+      "gender": "m",
+      "example": "Nous avons fait un échange de livres.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cher",
+      "word": "cher",
+      "en": "cher",
+      "sourceId": "expensive",
+      "sourceIds": [
+        "expensive"
+      ],
+      "ru": [
+        "дорогой"
+      ],
+      "gender": null,
+      "example": "Cette voiture est très chère.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "cherement",
+      "word": "chèrement",
+      "en": "chèrement",
+      "sourceId": "expensively",
+      "sourceIds": [
+        "expensively"
+      ],
+      "ru": [
+        "дорого"
+      ],
+      "gender": null,
+      "example": "Il a payé chèrement cette erreur.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "frais",
+      "word": "frais",
+      "en": "frais",
+      "sourceId": "fee",
+      "sourceIds": [
+        "fee"
+      ],
+      "ru": [
+        "сбор",
+        "взнос",
+        "вознаграждение"
+      ],
+      "gender": "m",
+      "example": "Les frais d'inscription sont élevés.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "financer",
+      "word": "financer",
+      "en": "financer",
+      "sourceId": "finance",
+      "sourceIds": [
+        "finance"
+      ],
+      "ru": [
+        "финансы",
+        "профинансировать",
+        "финансировать"
+      ],
+      "gender": null,
+      "example": "La banque va financer ce projet immobilier.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "financier",
+      "word": "financier",
+      "en": "financier",
+      "sourceId": "financial",
+      "sourceIds": [
+        "financial"
+      ],
+      "ru": [
+        "финансовый"
+      ],
+      "gender": null,
+      "example": "Il a des problèmes financiers.",
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "financierement",
+      "word": "financièrement",
+      "en": "financièrement",
+      "sourceId": "financially",
+      "sourceIds": [
+        "financially"
+      ],
+      "ru": [
+        "финансово"
+      ],
+      "gender": null,
+      "example": "Ils sont financièrement indépendants.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "fiscal",
+      "word": "fiscal",
+      "en": "fiscal",
+      "sourceId": "fiscal",
+      "sourceIds": [
+        "fiscal"
+      ],
+      "ru": [
+        "фискальный",
+        "финансовый"
+      ],
+      "gender": null,
+      "example": "L'année fiscale se termine en décembre.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "fonds",
+      "word": "fonds",
+      "en": "fonds",
+      "sourceId": "fund",
+      "sourceIds": [
+        "fund"
+      ],
+      "ru": [
+        "капитал",
+        "фонд",
+        "профинансировать"
+      ],
+      "gender": "m",
+      "example": "Le gouvernement a débloqué des fonds pour ce projet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "financement",
+      "word": "financement",
+      "en": "financement",
+      "sourceId": "funding",
+      "sourceIds": [
+        "funding"
+      ],
+      "ru": [
+        "финансирование"
+      ],
+      "gender": "m",
+      "example": "Le projet a besoin de financement supplémentaire.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "fonds",
+      "word": "fonds",
+      "en": "fonds",
+      "sourceId": "funds",
+      "sourceIds": [
+        "funds"
+      ],
+      "ru": [
+        "ресурс",
+        "средство",
+        "фонд"
+      ],
+      "gender": "m",
+      "example": "Il a investi tous ses fonds dans ce projet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "subvention",
+      "word": "subvention",
+      "en": "subvention",
+      "sourceId": "grant",
+      "sourceIds": [
+        "grant"
+      ],
+      "ru": [
+        "грант",
+        "субсидия",
+        "дарение"
+      ],
+      "gender": "f",
+      "example": "L'association a reçu une subvention pour son projet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "certes",
+      "word": "certes",
+      "en": "certes",
+      "sourceId": "granted",
+      "sourceIds": [
+        "granted"
+      ],
+      "ru": [
+        "действительно",
+        "правда",
+        "согласен"
+      ],
+      "gender": null,
+      "example": "Il est fatigué, certes, mais il a fini son travail.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "revenu",
+      "word": "revenu",
+      "en": "revenu",
+      "sourceId": "income",
+      "sourceIds": [
+        "income"
+      ],
+      "ru": [
+        "доход",
+        "заработок",
+        "поступления"
+      ],
+      "gender": "m",
+      "example": "Son revenu mensuel a augmenté cette année.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "versement",
+      "word": "versement",
+      "en": "versement",
+      "sourceId": "installment",
+      "sourceIds": [
+        "installment"
+      ],
+      "ru": [
+        "взнос",
+        "рассрочка"
+      ],
+      "gender": "m",
+      "example": "J'ai payé le premier versement de ma voiture.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "assurance",
+      "word": "assurance",
+      "en": "assurance",
+      "sourceId": "insurance",
+      "sourceIds": [
+        "insurance"
+      ],
+      "ru": [
+        "страховка",
+        "страхование"
+      ],
+      "gender": "f",
+      "example": "J'ai souscrit une assurance pour ma voiture.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "interet",
+      "word": "intérêt",
+      "en": "intérêt",
+      "sourceId": "interest",
+      "sourceIds": [
+        "interest"
+      ],
+      "ru": [
+        "процент",
+        "ставка",
+        "интерес"
+      ],
+      "gender": "m",
+      "example": "Il porte un grand intérêt à la lecture.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "sans-interet",
+      "word": "sans intérêt",
+      "en": "sans intérêt",
+      "sourceId": "interest-free",
+      "sourceIds": [
+        "interest-free"
+      ],
+      "ru": [
+        "беспроцентный"
+      ],
+      "gender": null,
+      "example": "Il a obtenu un prêt sans intérêt pour acheter sa voiture.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "interesse",
+      "word": "intéressé",
+      "en": "intéressé",
+      "sourceId": "interested",
+      "sourceIds": [
+        "interested"
+      ],
+      "ru": [
+        "заинтересованный"
+      ],
+      "gender": null,
+      "example": "Il est très intéressé par ce projet.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "avec-interet",
+      "word": "avec intérêt",
+      "en": "avec intérêt",
+      "sourceId": "interestedly",
+      "sourceIds": [
+        "interestedly"
+      ],
+      "ru": [
+        "заинтересованно"
+      ],
+      "gender": null,
+      "example": "Elle m'a écouté avec intérêt.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "investir",
+      "word": "investir",
+      "en": "investir",
+      "sourceId": "invest",
+      "sourceIds": [
+        "invest"
+      ],
+      "ru": [
+        "вкладывать",
+        "вложить",
+        "покрыть"
+      ],
+      "gender": null,
+      "example": "Il a décidé d'investir son argent dans l'immobilier.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "investissement",
+      "word": "investissement",
+      "en": "investissement",
+      "sourceId": "investment",
+      "sourceIds": [
+        "investment"
+      ],
+      "ru": [
+        "инвестирование",
+        "инвестиция",
+        "вклад"
+      ],
+      "gender": "m",
+      "example": "Cet investissement est très rentable.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "investisseur",
+      "word": "investisseur",
+      "en": "investisseur",
+      "sourceId": "investor",
+      "sourceIds": [
+        "investor"
+      ],
+      "ru": [
+        "вкладчик",
+        "вкладчица",
+        "инвестор"
+      ],
+      "gender": "m",
+      "example": "Cet investisseur a financé plusieurs startups.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "facture",
+      "word": "facture",
+      "en": "facture",
+      "sourceId": "invoice",
+      "sourceIds": [
+        "invoice"
+      ],
+      "ru": [
+        "счёт",
+        "инвойс",
+        "накладная"
+      ],
+      "gender": "f",
+      "example": "J'ai reçu la facture par e-mail.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "manque",
+      "word": "manque",
+      "en": "manque",
+      "sourceId": "lack",
+      "sourceIds": [
+        "lack"
+      ],
+      "ru": [
+        "нехватка"
+      ],
+      "gender": "m",
+      "example": "Le manque de sommeil affecte sa concentration.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "responsabilite",
+      "word": "responsabilité",
+      "en": "responsabilité",
+      "sourceId": "liability",
+      "sourceIds": [
+        "liability"
+      ],
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязательство"
+      ],
+      "gender": "f",
+      "example": "Il a accepté la responsabilité de ses actes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pret",
+      "word": "prêt",
+      "en": "prêt",
+      "sourceId": "loan",
+      "sourceIds": [
+        "loan"
+      ],
+      "ru": [
+        "заём",
+        "кредит",
+        "ссуда"
+      ],
+      "gender": "m",
+      "example": "Il a contracté un prêt pour acheter sa maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "perte",
+      "word": "perte",
+      "en": "perte",
+      "sourceId": "loss",
+      "sourceIds": [
+        "loss"
+      ],
+      "ru": [
+        "потеря",
+        "пропажа",
+        "утеря"
+      ],
+      "gender": "f",
+      "example": "La perte de ses clés l'a rendu très nerveux.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "millionnaire",
+      "word": "millionnaire",
+      "en": "millionnaire",
+      "sourceId": "millionaire",
+      "sourceIds": [
+        "millionaire"
+      ],
+      "ru": [
+        "миллионер",
+        "миллионерша"
+      ],
+      "gender": "m",
+      "example": "Il est devenu millionnaire grâce à son entreprise.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "argent",
+      "word": "argent",
+      "en": "argent",
+      "sourceId": "money",
+      "sourceIds": [
+        "money"
+      ],
+      "ru": [
+        "деньги",
+        "валюта",
+        "средства"
+      ],
+      "gender": "m",
+      "example": "Il n'a pas assez d'argent pour acheter cette voiture.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "pret-hypothecaire",
+      "word": "prêt hypothécaire",
+      "en": "prêt hypothécaire",
+      "sourceId": "mortgage",
+      "sourceIds": [
+        "mortgage"
+      ],
+      "ru": [
+        "ипотека"
+      ],
+      "gender": "m",
+      "example": "Ils ont contracté un prêt hypothécaire pour acheter leur maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "adosse-a-des-prets-hypothecaires",
+      "word": "adossé à des prêts hypothécaires",
+      "en": "adossé à des prêts hypothécaires",
+      "sourceId": "mortgage-backed",
+      "sourceIds": [
+        "mortgage-backed"
+      ],
+      "ru": [
+        "обеспечиваемый ипотекой"
+      ],
+      "gender": null,
+      "example": "Ce titre financier est adossé à des prêts hypothécaires.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "payer",
+      "word": "payer",
+      "en": "payer",
+      "sourceId": "pay",
+      "sourceIds": [
+        "pay"
+      ],
+      "ru": [
+        "платить"
+      ],
+      "gender": null,
+      "example": "Je paie par carte.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "paiement",
+      "word": "paiement",
+      "en": "paiement",
+      "sourceId": "payment",
+      "sourceIds": [
+        "payment"
+      ],
+      "ru": [
+        "платёж",
+        "оплата",
+        "плата"
+      ],
+      "gender": "m",
+      "example": "Le paiement a été effectué par carte bancaire.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "retraite",
+      "word": "retraite",
+      "en": "retraite",
+      "sourceId": "pension",
+      "sourceIds": [
+        "pension"
+      ],
+      "ru": [
+        "пенсия"
+      ],
+      "gender": "f",
+      "example": "Il prendra sa retraite l'année prochaine.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "retraite-pensioner",
+      "word": "retraité",
+      "en": "retraité",
+      "sourceId": "pensioner",
+      "sourceIds": [
+        "pensioner"
+      ],
+      "ru": [
+        "пенсионер",
+        "пенсионерка"
+      ],
+      "gender": "m",
+      "example": "Mon grand-père est un retraité très actif.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "pourcentage",
+      "word": "pourcentage",
+      "en": "pourcentage",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "ru": [
+        "процент"
+      ],
+      "gender": "m",
+      "example": "Le pourcentage de réussite a augmenté cette année.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "pourcentage",
+      "word": "pourcentage",
+      "en": "pourcentage",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "gender": "m",
+      "example": "Le pourcentage de réussite a augmenté cette année.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "centile",
+      "word": "centile",
+      "en": "centile",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "gender": "m",
+      "example": "Le score de l'étudiant se situe au 90e centile.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "en-pourcentage",
+      "word": "en pourcentage",
+      "en": "en pourcentage",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "ru": [
+        "процентный"
+      ],
+      "gender": null,
+      "example": "La répartition en pourcentage des votes est claire.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "pauvre",
+      "word": "pauvre",
+      "en": "pauvre",
+      "sourceId": "poor",
+      "sourceIds": [
+        "poor"
+      ],
+      "ru": [
+        "бедный",
+        "малоимущий"
+      ],
+      "gender": null,
+      "example": "Ensuite, nous trouvons les autres, ce pauvre gamin, Johnny.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "livre-sterling",
+      "word": "livre sterling",
+      "en": "livre sterling",
+      "sourceId": "pound",
+      "sourceIds": [
+        "pound",
+        "quid"
+      ],
+      "ru": [
+        "фунт стерлингов"
+      ],
+      "gender": "f",
+      "example": "Le prix est de dix livres sterling.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "pauvrete",
+      "word": "pauvreté",
+      "en": "pauvreté",
+      "sourceId": "poverty",
+      "sourceIds": [
+        "poverty"
+      ],
+      "ru": [
+        "бедность",
+        "беднота",
+        "недостаток"
+      ],
+      "gender": "f",
+      "example": "La pauvreté est un problème mondial majeur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "prix",
+      "word": "prix",
+      "en": "prix",
+      "sourceId": "price",
+      "sourceIds": [
+        "price"
+      ],
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "gender": "m",
+      "example": "Le prix de cette voiture est trop élevé.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "profit",
+      "word": "profit",
+      "en": "profit",
+      "sourceId": "profit",
+      "sourceIds": [
+        "profit"
+      ],
+      "ru": [
+        "выгода",
+        "доход",
+        "нажива"
+      ],
+      "gender": "m",
+      "example": "L'entreprise a réalisé un profit important cette année.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "propriete",
+      "word": "propriété",
+      "en": "propriété",
+      "sourceId": "property",
+      "sourceIds": [
+        "property"
+      ],
+      "ru": [
+        "имущество",
+        "собственность",
+        "недвижимость"
+      ],
+      "gender": "f",
+      "example": "Cette maison est ma propriété privée.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "portefeuille",
+      "word": "portefeuille",
+      "en": "portefeuille",
+      "sourceId": "purse",
+      "sourceIds": [
+        "purse"
+      ],
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "мошна"
+      ],
+      "gender": "m",
+      "example": "Il a oublié son portefeuille sur la table.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "taux",
+      "word": "taux",
+      "en": "taux",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "gender": "m",
+      "example": "Le taux de change a augmenté aujourd'hui.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "classement",
+      "word": "classement",
+      "en": "classement",
+      "sourceId": "rating",
+      "sourceIds": [
+        "rating"
+      ],
+      "ru": [
+        "рейтинг"
+      ],
+      "gender": "m",
+      "example": "Ce film a un excellent classement sur le site.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "recu",
+      "word": "reçu",
+      "en": "reçu",
+      "sourceId": "receipt",
+      "sourceIds": [
+        "receipt"
+      ],
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "gender": "m",
+      "example": "N'oubliez pas de demander votre reçu après le paiement.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "remboursement",
+      "word": "remboursement",
+      "en": "remboursement",
+      "sourceId": "refund",
+      "sourceIds": [
+        "refund"
+      ],
+      "ru": [
+        "возврат",
+        "возвращённая сумма",
+        "возмещение"
+      ],
+      "gender": "m",
+      "example": "J'ai demandé un remboursement pour cet article défectueux.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "retraite",
+      "word": "retraite",
+      "en": "retraite",
+      "sourceId": "retirement",
+      "sourceIds": [
+        "retirement"
+      ],
+      "ru": [
+        "выход на пенсию",
+        "пенсия"
+      ],
+      "gender": "f",
+      "example": "Il prendra sa retraite l'année prochaine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "revenu",
+      "word": "revenu",
+      "en": "revenu",
+      "sourceId": "revenue",
+      "sourceIds": [
+        "revenue"
+      ],
+      "ru": [
+        "доход",
+        "выручка",
+        "поступление"
+      ],
+      "gender": "m",
+      "example": "Le revenu annuel de cette entreprise a augmenté.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "riche",
+      "word": "riche",
+      "en": "riche",
+      "sourceId": "rich",
+      "sourceIds": [
+        "rich"
+      ],
+      "ru": [
+        "богатый",
+        "зажиточный",
+        "имущий"
+      ],
+      "gender": null,
+      "example": "Il est devenu très riche grâce à son travail.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "richesse",
+      "word": "richesse",
+      "en": "richesse",
+      "sourceId": "riches",
+      "sourceIds": [
+        "riches"
+      ],
+      "ru": [
+        "богатство"
+      ],
+      "gender": "f",
+      "example": "La richesse ne fait pas le bonheur.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "richement",
+      "word": "richement",
+      "en": "richement",
+      "sourceId": "richly",
+      "sourceIds": [
+        "richly"
+      ],
+      "ru": [
+        "богато"
+      ],
+      "gender": null,
+      "example": "La salle était richement décorée pour la fête.",
+      "level": "C2",
+      "pos": "adv"
+    },
+    {
+      "id": "sur",
+      "word": "sûr",
+      "en": "sûr",
+      "sourceId": "safe",
+      "sourceIds": [
+        "safe"
+      ],
+      "ru": [
+        "в безопасности",
+        "безопасный",
+        "сейф"
+      ],
+      "gender": null,
+      "example": "Il est sûr de marcher ici.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "salaire",
+      "word": "salaire",
+      "en": "salaire",
+      "sourceId": "salary",
+      "sourceIds": [
+        "salary"
+      ],
+      "ru": [
+        "зарплата",
+        "жалование",
+        "заработная плата"
+      ],
+      "gender": "m",
+      "example": "Il a reçu son salaire à la fin du mois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sauvegarder",
+      "word": "sauvegarder",
+      "en": "sauvegarder",
+      "sourceId": "save",
+      "sourceIds": [
+        "save"
+      ],
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "gender": null,
+      "example": "Sauvegardez votre progression.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "epargne",
+      "word": "épargne",
+      "en": "épargne",
+      "sourceId": "saving",
+      "sourceIds": [
+        "saving"
+      ],
+      "ru": [
+        "экономия",
+        "накопление",
+        "сбережение"
+      ],
+      "gender": "f",
+      "example": "Il place ses économies sur un compte d'épargne.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "partager",
+      "word": "partager",
+      "en": "partager",
+      "sourceId": "share",
+      "sourceIds": [
+        "share"
+      ],
+      "ru": [
+        "делиться"
+      ],
+      "gender": null,
+      "example": "Partagez vos idées.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "commun",
+      "word": "commun",
+      "en": "commun",
+      "sourceId": "shared",
+      "sourceIds": [
+        "shared"
+      ],
+      "ru": [
+        "общий",
+        "совместный"
+      ],
+      "gender": null,
+      "example": "Ils ont un intérêt commun pour la musique.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "partage",
+      "word": "partage",
+      "en": "partage",
+      "sourceId": "sharing",
+      "sourceIds": [
+        "sharing"
+      ],
+      "ru": [
+        "раздел",
+        "разделение"
+      ],
+      "gender": "m",
+      "example": "Le partage des tâches est important dans un couple.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "passer",
+      "word": "passer",
+      "en": "passer",
+      "sourceId": "spend",
+      "sourceIds": [
+        "spend"
+      ],
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "gender": null,
+      "example": "Je passe du temps avec mes amis.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "livre-sterling",
+      "word": "livre sterling",
+      "en": "livre sterling",
+      "sourceId": "sterling",
+      "sourceIds": [
+        "sterling"
+      ],
+      "ru": [
+        "стерлинг",
+        "фунт"
+      ],
+      "gender": "f",
+      "example": "Le prix est indiqué en livres sterling.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "stock",
+      "word": "stock",
+      "en": "stock",
+      "sourceId": "stock",
+      "sourceIds": [
+        "stock"
+      ],
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "gender": "m",
+      "example": "Le magasin a beaucoup de stock en ce moment.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "action",
+      "word": "action",
+      "en": "action",
+      "sourceId": "stocks",
+      "sourceIds": [
+        "stocks"
+      ],
+      "ru": [
+        "акции"
+      ],
+      "gender": "f",
+      "example": "Il a investi toutes ses économies dans des actions.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "impot",
+      "word": "impôt",
+      "en": "impôt",
+      "sourceId": "tax",
+      "sourceIds": [
+        "tax"
+      ],
+      "ru": [
+        "налог",
+        "дань",
+        "подать"
+      ],
+      "gender": "m",
+      "example": "Le gouvernement a décidé d'augmenter l'impôt sur le revenu.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "pourboire",
+      "word": "pourboire",
+      "en": "pourboire",
+      "sourceId": "tip",
+      "sourceIds": [
+        "tip"
+      ],
+      "ru": [
+        "чаевые"
+      ],
+      "gender": "m",
+      "example": "J'ai laissé un petit pourboire au serveur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "peage",
+      "word": "péage",
+      "en": "péage",
+      "sourceId": "toll",
+      "sourceIds": [
+        "toll"
+      ],
+      "ru": [
+        "плата",
+        "пошлина",
+        "сбор"
+      ],
+      "gender": "m",
+      "example": "Nous avons dû payer un péage sur l'autoroute.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "transaction",
+      "word": "transaction",
+      "en": "transaction",
+      "sourceId": "transaction",
+      "sourceIds": [
+        "transaction"
+      ],
+      "ru": [
+        "сделка",
+        "операция",
+        "проводка"
+      ],
+      "gender": "f",
+      "example": "La transaction a été finalisée hier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "transactionnel",
+      "word": "transactionnel",
+      "en": "transactionnel",
+      "sourceId": "transactional",
+      "sourceIds": [
+        "transactional"
+      ],
+      "ru": [
+        "трансактный"
+      ],
+      "gender": null,
+      "example": "Cette approche transactionnelle facilite les échanges commerciaux.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "transfert",
+      "word": "transfert",
+      "en": "transfert",
+      "sourceId": "transfer",
+      "sourceIds": [
+        "transfer"
+      ],
+      "ru": [
+        "перевод",
+        "передача",
+        "переход"
+      ],
+      "gender": "m",
+      "example": "Le transfert d'argent a été effectué avec succès.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "valeur",
+      "word": "valeur",
+      "en": "valeur",
+      "sourceId": "value",
+      "sourceIds": [
+        "value"
+      ],
+      "ru": [
+        "ценность",
+        "важность",
+        "значение"
+      ],
+      "gender": "f",
+      "example": "Cette œuvre d'art a une grande valeur historique.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "tva",
+      "word": "TVA",
+      "en": "TVA",
+      "sourceId": "vat",
+      "sourceIds": [
+        "vat"
+      ],
+      "ru": [
+        "НДС"
+      ],
+      "gender": "f",
+      "example": "Le prix affiché inclut la TVA.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "salaire",
+      "word": "salaire",
+      "en": "salaire",
+      "sourceId": "wage",
+      "sourceIds": [
+        "wage"
+      ],
+      "ru": [
+        "жалование",
+        "заработная плата",
+        "заработок"
+      ],
+      "gender": "m",
+      "example": "Il a reçu son salaire à la fin du mois.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "portefeuille",
+      "word": "portefeuille",
+      "en": "portefeuille",
+      "sourceId": "wallet",
+      "sourceIds": [
+        "wallet"
+      ],
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "портмоне"
+      ],
+      "gender": "m",
+      "example": "J'ai oublié mon portefeuille à la maison.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "richesse",
+      "word": "richesse",
+      "en": "richesse",
+      "sourceId": "wealth",
+      "sourceIds": [
+        "wealth"
+      ],
+      "ru": [
+        "благосостояние",
+        "богатство",
+        "изобилие"
+      ],
+      "gender": "f",
+      "example": "La véritable richesse réside dans la santé et le bonheur.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "retirer",
+      "word": "retirer",
+      "en": "retirer",
+      "sourceId": "withdraw",
+      "sourceIds": [
+        "withdraw"
+      ],
+      "ru": [
+        "брать назад",
+        "забирать",
+        "забрать"
+      ],
+      "gender": null,
+      "example": "Je dois retirer de l'argent au distributeur.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "retrait",
+      "word": "retrait",
+      "en": "retrait",
+      "sourceId": "withdrawal",
+      "sourceIds": [
+        "withdrawal"
+      ],
+      "ru": [
+        "вывод",
+        "снятие"
+      ],
+      "gender": "m",
+      "example": "J'ai effectué un retrait d'argent au distributeur.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "reserve",
+      "word": "réservé",
+      "en": "réservé",
+      "sourceId": "withdrawn",
+      "sourceIds": [
+        "withdrawn"
+      ],
+      "ru": [
+        "бука",
+        "затворник"
+      ],
+      "gender": null,
+      "example": "Il est très réservé et sort rarement de chez lui.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "digne",
+      "word": "digne",
+      "en": "digne",
+      "sourceId": "worth",
+      "sourceIds": [
+        "worth"
+      ],
+      "ru": [
+        "заслуживающий",
+        "стоить",
+        "стоящий"
+      ],
+      "gender": null,
+      "example": "Ce film est digne d'intérêt.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "arpu",
+      "word": "ARPU",
+      "en": "ARPU",
+      "sourceId": "arpu",
+      "sourceIds": [
+        "arpu"
+      ],
+      "ru": [
+        "средняя выручка на одного пользователя"
+      ],
+      "gender": "m",
+      "example": "Les campagnes promotionnelles sont directement liées à l'ARPU de la plateforme.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cannibalisation",
+      "word": "cannibalisation",
+      "en": "cannibalisation",
+      "sourceId": "cannibalization",
+      "sourceIds": [
+        "cannibalization"
+      ],
+      "ru": [
+        "каннибализация"
+      ],
+      "gender": "f",
+      "example": "basé sur le signal de cannibalisation",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "flux-de-tresorerie",
+      "word": "flux de trésorerie",
+      "en": "flux de trésorerie",
+      "sourceId": "cashflow",
+      "sourceIds": [
+        "cashflow"
+      ],
+      "ru": [
+        "денежный поток"
+      ],
+      "gender": "m",
+      "example": "Le ratio est au-dessus du seuil JEI, avec un flux de trésorerie positif sur 48 mois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "intermarche",
+      "word": "intermarché",
+      "en": "intermarché",
+      "sourceId": "cross-market",
+      "sourceIds": [
+        "cross-market"
+      ],
+      "ru": [
+        "межрыночный"
+      ],
+      "gender": null,
+      "example": "Son expérience intermarché lui a permis de développer une stratégie globale.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "freemium",
+      "word": "freemium",
+      "en": "freemium",
+      "sourceId": "freemium",
+      "sourceIds": [
+        "freemium"
+      ],
+      "ru": [
+        "фримиум"
+      ],
+      "gender": "m",
+      "example": "La validation du modèle économique inclut l'abonnement, le freemium, la commission et les transitions hybrides vers le SaaS.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "de-qualite-investisseur",
+      "word": "de qualité investisseur",
+      "en": "de qualité investisseur",
+      "sourceId": "investor-grade",
+      "sourceIds": [
+        "investor-grade"
+      ],
+      "ru": [
+        "инвестиционного уровня"
+      ],
+      "gender": null,
+      "example": "J'ai créé une démo interactive de qualité investisseur pour la marque fictive Maison Solaire.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "connaissance-du-client",
+      "word": "connaissance du client",
+      "en": "connaissance du client",
+      "sourceId": "kyc",
+      "sourceIds": [
+        "kyc"
+      ],
+      "ru": [
+        "знай своего клиента",
+        "идентификация клиента"
+      ],
+      "gender": "f",
+      "example": "L'intégration réglementaire de la connaissance du client avec SIMA est bidirectionnelle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "monetisation",
+      "word": "monétisation",
+      "en": "monétisation",
+      "sourceId": "monetization",
+      "sourceIds": [
+        "monetization"
+      ],
+      "ru": [
+        "монетизация"
+      ],
+      "gender": "f",
+      "example": "La monétisation des utilisateurs se fait via le widget de pourboires.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "transaction-par-qr-code",
+      "word": "transaction par QR code",
+      "en": "transaction par QR code",
+      "sourceId": "qr-transaction",
+      "sourceIds": [
+        "qr-transaction"
+      ],
+      "ru": [
+        "транзакция по QR-коду"
+      ],
+      "gender": "f",
+      "example": "L'utilisation des transactions par QR code a augmenté de 13 % grâce à l'optimisation de l'expérience utilisateur et des terminaux de paiement.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vendable",
+      "word": "vendable",
+      "en": "vendable",
+      "sourceId": "sellable",
+      "sourceIds": [
+        "sellable"
+      ],
+      "ru": [
+        "ликвидный",
+        "пригодный для продажи"
+      ],
+      "gender": null,
+      "example": "Il a transformé ses services en offres vendables.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "chiffre-d-affaires",
+      "word": "chiffre d'affaires",
+      "en": "chiffre d'affaires",
+      "sourceId": "turnover",
+      "sourceIds": [
+        "turnover"
+      ],
+      "ru": [
+        "оборот"
+      ],
+      "gender": "m",
+      "example": "Le chiffre d'affaires de l'entreprise a augmenté de 3 % grâce à l'intégration de l'API partenaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "shilling",
+      "word": "shilling",
+      "en": "shilling",
+      "sourceId": "shilling",
+      "sourceIds": [
+        "shilling"
+      ],
+      "ru": [
+        "шиллинг"
+      ],
+      "gender": "m",
+      "example": "Il a payé cinq shillings pour le livre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "devoir",
+      "word": "devoir",
+      "en": "devoir",
+      "sourceId": "owe",
+      "sourceIds": [
+        "owe"
+      ],
+      "ru": [
+        "быть должным"
+      ],
+      "gender": null,
+      "example": "Nous devons payer la facture d'électricité.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "dollar",
+      "word": "dollar",
+      "en": "dollar",
+      "sourceId": "buck",
+      "sourceIds": [
+        "buck"
+      ],
+      "ru": [
+        "доллар",
+        "самец оленя"
+      ],
+      "gender": "m",
+      "example": "J'ai 80 dollars à la banque.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "devaloriser",
+      "word": "dévaloriser",
+      "en": "dévaloriser",
+      "sourceId": "cheapen",
+      "sourceIds": [
+        "cheapen"
+      ],
+      "ru": [
+        "удешевлять",
+        "обесценивать"
+      ],
+      "gender": null,
+      "example": "Cela dévalorise le mot.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "fortune",
+      "word": "fortune",
+      "en": "fortune",
+      "sourceId": "fortune",
+      "sourceIds": [
+        "fortune"
+      ],
+      "ru": [
+        "удача",
+        "состояние"
+      ],
+      "gender": "f",
+      "example": "Il a fait fortune dans le sucre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tas",
+      "word": "tas",
+      "en": "tas",
+      "sourceId": "wad",
+      "sourceIds": [
+        "wad"
+      ],
+      "ru": [
+        "пачка",
+        "комок"
+      ],
+      "gender": "m",
+      "example": "Il a un gros tas de billets dans sa poche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mont-de-piete",
+      "word": "mont-de-piété",
+      "en": "mont-de-piété",
+      "sourceId": "pawnshop",
+      "sourceIds": [
+        "pawnshop"
+      ],
+      "ru": [
+        "ломбард"
+      ],
+      "gender": "m",
+      "example": "Ce mont-de-piété sur La Cienega en vendait un.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "concessionnaire",
+      "word": "concessionnaire",
+      "en": "concessionnaire",
+      "sourceId": "dealership",
+      "sourceIds": [
+        "dealership"
+      ],
+      "ru": [
+        "дилерский центр"
+      ],
+      "gender": "m/f",
+      "example": "Je suis parti vers mon concessionnaire local.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chequier",
+      "word": "chéquier",
+      "en": "chéquier",
+      "sourceId": "checkbook",
+      "sourceIds": [
+        "checkbook"
+      ],
+      "ru": [
+        "чековая книжка"
+      ],
+      "gender": "m",
+      "example": "J'ai sorti mon chéquier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rentable",
+      "word": "rentable",
+      "en": "rentable",
+      "sourceId": "profitable",
+      "sourceIds": [
+        "profitable"
+      ],
+      "ru": [
+        "выгодный",
+        "прибыльный"
+      ],
+      "gender": null,
+      "example": "Ce projet ne semble pas très rentable.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "lucratif",
+      "word": "lucratif",
+      "en": "lucratif",
+      "sourceId": "gainful",
+      "sourceIds": [
+        "gainful"
+      ],
+      "ru": [
+        "прибыльный",
+        "выгодный"
+      ],
+      "gender": null,
+      "example": "Ce serait fantastique d'avoir un emploi lucratif.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "recette",
+      "word": "recette",
+      "en": "recette",
+      "sourceId": "takings",
+      "sourceIds": [
+        "takings"
+      ],
+      "ru": [
+        "выручка"
+      ],
+      "gender": "f",
+      "example": "Il faut compter la recette.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "riche",
+      "word": "riche",
+      "en": "riche",
+      "sourceId": "wealthy",
+      "sourceIds": [
+        "wealthy"
+      ],
+      "ru": [
+        "богатый"
+      ],
+      "gender": null,
+      "example": "C'est la famille la plus riche du royaume.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "loterie",
+      "word": "loterie",
+      "en": "loterie",
+      "sourceId": "lottery",
+      "sourceIds": [
+        "lottery"
+      ],
+      "ru": [
+        "лотерея"
+      ],
+      "gender": "f",
+      "example": "Je prie pour gagner à la loterie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "actionnaire",
+      "word": "actionnaire",
+      "en": "actionnaire",
+      "sourceId": "shareholder",
+      "sourceIds": [
+        "shareholder"
+      ],
+      "ru": [
+        "акционер"
+      ],
+      "gender": "m",
+      "example": "Je suis actionnaire de cette entreprise.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parier",
+      "word": "parier",
+      "en": "parier",
+      "sourceId": "bet",
+      "sourceIds": [
+        "bet"
+      ],
+      "ru": [
+        "держать пари",
+        "делать ставку"
+      ],
+      "gender": null,
+      "example": "Je parie qu'il va pleuvoir demain.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "tresor",
+      "word": "trésor",
+      "en": "trésor",
+      "sourceId": "treasury",
+      "sourceIds": [
+        "treasury"
+      ],
+      "ru": [
+        "казначейство",
+        "казна"
+      ],
+      "gender": "m",
+      "example": "Le trésor peut-il supporter cela ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depense",
+      "word": "dépense",
+      "en": "dépense",
+      "sourceId": "expense",
+      "sourceIds": [
+        "expense"
+      ],
+      "ru": [
+        "расход",
+        "трата"
+      ],
+      "gender": "f",
+      "example": "Une telle dépense ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "emprunter",
+      "word": "emprunter",
+      "en": "emprunter",
+      "sourceId": "borrow",
+      "sourceIds": [
+        "borrow"
+      ],
+      "ru": [
+        "занимать",
+        "брать взаймы"
+      ],
+      "gender": null,
+      "example": "Je vais devoir l'emprunter.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "extravagance",
+      "word": "extravagance",
+      "en": "extravagance",
+      "sourceId": "extravagance",
+      "sourceIds": [
+        "extravagance"
+      ],
+      "ru": [
+        "расточительность",
+        "экстравагантность"
+      ],
+      "gender": "f",
+      "example": "C'est une extravagance que nous ne pouvons pas nous permettre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bien-investi",
+      "word": "bien investi",
+      "en": "bien investi",
+      "sourceId": "well-invested",
+      "sourceIds": [
+        "well-invested"
+      ],
+      "ru": [
+        "хорошо вложенный"
+      ],
+      "gender": null,
+      "example": "C'est un capital bien investi, Lord Beesbury.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depensier",
+      "word": "dépensier",
+      "en": "dépensier",
+      "sourceId": "spendthrift",
+      "sourceIds": [
+        "spendthrift"
+      ],
+      "ru": [
+        "расточитель"
+      ],
+      "gender": "m",
+      "example": "Tu as dit qu'il était un vrai dépensier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voler",
+      "word": "voler",
+      "en": "voler",
+      "sourceId": "rob",
+      "sourceIds": [
+        "rob"
+      ],
+      "ru": [
+        "грабить"
+      ],
+      "gender": null,
+      "example": "C'est Aegon qui est en train d'être volé.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "corrompre",
+      "word": "corrompre",
+      "en": "corrompre",
+      "sourceId": "bribe",
+      "sourceIds": [
+        "bribe"
+      ],
+      "ru": [
+        "давать взятку"
+      ],
+      "gender": null,
+      "example": "Nous pouvons les corrompre ou les tuer.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "penny",
+      "word": "penny",
+      "en": "penny",
+      "sourceId": "penny",
+      "sourceIds": [
+        "penny"
+      ],
+      "ru": [
+        "пенни"
+      ],
+      "gender": "m",
+      "example": "Il me reste un penny dans ma poche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "magnat",
+      "word": "magnat",
+      "en": "magnat",
+      "sourceId": "tycoon",
+      "sourceIds": [
+        "tycoon"
+      ],
+      "ru": [
+        "магнат"
+      ],
+      "gender": "m",
+      "example": "C'est un grand magnat de la presse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-loyer-modere",
+      "word": "à loyer modéré",
+      "en": "à loyer modéré",
+      "sourceId": "rent-controlled",
+      "sourceIds": [
+        "rent-controlled"
+      ],
+      "ru": [
+        "с регулируемой арендной платой"
+      ],
+      "gender": null,
+      "example": "C'est comme avoir un appartement à loyer modéré.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "courtier",
+      "word": "courtier",
+      "en": "courtier",
+      "sourceId": "broker",
+      "sourceIds": [
+        "broker"
+      ],
+      "ru": [
+        "брокер",
+        "посредник"
+      ],
+      "gender": "m",
+      "example": "C'est probablement un courtier...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grand-livre",
+      "word": "grand-livre",
+      "en": "grand-livre",
+      "sourceId": "ledger",
+      "sourceIds": [
+        "ledger"
+      ],
+      "ru": [
+        "бухгалтерская книга"
+      ],
+      "gender": "m/f",
+      "example": "Les grands-livres du maire sont à jour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "confisquer",
+      "word": "confisquer",
+      "en": "confisquer",
+      "sourceId": "confiscate",
+      "sourceIds": [
+        "confiscate"
+      ],
+      "ru": [
+        "конфисковать"
+      ],
+      "gender": null,
+      "example": "Je vais devoir le confisquer.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "preter",
+      "word": "prêter",
+      "en": "prêter",
+      "sourceId": "lend",
+      "sourceIds": [
+        "lend"
+      ],
+      "ru": [
+        "одалживать",
+        "давать взаймы"
+      ],
+      "gender": null,
+      "example": "La liste des prêts.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "blanchir",
+      "word": "blanchir",
+      "en": "blanchir",
+      "sourceId": "launder",
+      "sourceIds": [
+        "launder"
+      ],
+      "ru": [
+        "отмывать (деньги)",
+        "стирать"
+      ],
+      "gender": null,
+      "example": "Cela suggère un blanchiment d'argent.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "ressort",
+      "word": "ressort",
+      "en": "ressort",
+      "sourceId": "remit",
+      "sourceIds": [
+        "remit"
+      ],
+      "ru": [
+        "круг полномочий",
+        "компетенция",
+        "ведение"
+      ],
+      "gender": "m",
+      "example": "Ce n'est pas de mon ressort.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "billet-de-cinq-livres",
+      "word": "billet de cinq livres",
+      "en": "billet de cinq livres",
+      "sourceId": "fiver",
+      "sourceIds": [
+        "fiver"
+      ],
+      "ru": [
+        "пятифунтовая купюра"
+      ],
+      "gender": "m",
+      "example": "Oh, c'est quatre pour un billet de cinq livres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pari",
+      "word": "pari",
+      "en": "pari",
+      "sourceId": "gamble",
+      "sourceIds": [
+        "gamble"
+      ],
+      "ru": [
+        "рисковать",
+        "играть в азартные игры"
+      ],
+      "gender": "m",
+      "example": "C'est un sacré pari.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "louer",
+      "word": "louer",
+      "en": "louer",
+      "sourceId": "lease",
+      "sourceIds": [
+        "lease"
+      ],
+      "ru": [
+        "арендовать"
+      ],
+      "gender": null,
+      "example": "Nous voulons louer un appartement dans le centre-ville.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "piece-de-dix-cents",
+      "word": "pièce de dix cents",
+      "en": "pièce de dix cents",
+      "sourceId": "dime",
+      "sourceIds": [
+        "dime"
+      ],
+      "ru": [
+        "десятицентовик"
+      ],
+      "gender": "f",
+      "example": "Ces objets ne valent pas grand-chose, on en trouve à la pelle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "carte-de-credit",
+      "word": "carte de crédit",
+      "en": "carte de crédit",
+      "sourceId": "credit-card",
+      "sourceIds": [
+        "credit-card"
+      ],
+      "ru": [
+        "кредитная карта"
+      ],
+      "gender": "f",
+      "example": "Toi et papa, vous faites toujours des arnaques à la carte de crédit ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "escroquerie",
+      "word": "escroquerie",
+      "en": "escroquerie",
+      "sourceId": "scam",
+      "sourceIds": [
+        "scam"
+      ],
+      "ru": [
+        "мошенничество",
+        "афера"
+      ],
+      "gender": "f",
+      "example": "Est-ce que toi et papa faites toujours des escroqueries à la carte bancaire ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "joueur-prete",
+      "word": "joueur prêté",
+      "en": "joueur prêté",
+      "sourceId": "loanee",
+      "sourceIds": [
+        "loanee"
+      ],
+      "ru": [
+        "заемщик"
+      ],
+      "gender": "m",
+      "example": "Le but a été marqué par le joueur prêté de Manchester City.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "accise",
+      "word": "accise",
+      "en": "accise",
+      "sourceId": "excise",
+      "sourceIds": [
+        "excise"
+      ],
+      "ru": [
+        "акциз",
+        "акцизный сбор"
+      ],
+      "gender": "f",
+      "example": "Si vous n'avez pas informé les services des accises et des douanes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depensier",
+      "word": "dépensier",
+      "en": "dépensier",
+      "sourceId": "spender",
+      "sourceIds": [
+        "spender"
+      ],
+      "ru": [
+        "транжира",
+        "покупатель"
+      ],
+      "gender": "m",
+      "example": "Il est un grand dépensier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "se-deprecier",
+      "word": "se déprécier",
+      "en": "se déprécier",
+      "sourceId": "depreciate",
+      "sourceIds": [
+        "depreciate"
+      ],
+      "ru": [
+        "обесцениваться"
+      ],
+      "gender": null,
+      "example": "Cela peut se déprécier.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "liquidation",
+      "word": "liquidation",
+      "en": "liquidation",
+      "sourceId": "liquidation",
+      "sourceIds": [
+        "liquidation"
+      ],
+      "ru": [
+        "ликвидация"
+      ],
+      "gender": "f",
+      "example": "Ils ont été mis en liquidation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depreciation",
+      "word": "dépréciation",
+      "en": "dépréciation",
+      "sourceId": "depreciation",
+      "sourceIds": [
+        "depreciation"
+      ],
+      "ru": [
+        "обесценивание"
+      ],
+      "gender": "f",
+      "example": "La monnaie est en dépréciation.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "recession",
+      "word": "récession",
+      "en": "récession",
+      "sourceId": "recession",
+      "sourceIds": [
+        "recession"
+      ],
+      "ru": [
+        "спад",
+        "рецессия"
+      ],
+      "gender": "f",
+      "example": "La récession économique a touché de nombreux secteurs.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "extorsion",
+      "word": "extorsion",
+      "en": "extorsion",
+      "sourceId": "shakedown",
+      "sourceIds": [
+        "shakedown"
+      ],
+      "ru": [
+        "вымогательство",
+        "обыск"
+      ],
+      "gender": "f",
+      "example": "Il a subi une extorsion pour obtenir de l'argent.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "offshore",
+      "word": "offshore",
+      "en": "offshore",
+      "sourceId": "offshore",
+      "sourceIds": [
+        "offshore"
+      ],
+      "ru": [
+        "офшорный",
+        "прибрежный"
+      ],
+      "gender": null,
+      "example": "Il travaille sur une plateforme offshore.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "paiement",
+      "word": "paiement",
+      "en": "paiement",
+      "sourceId": "payout",
+      "sourceIds": [
+        "payout"
+      ],
+      "ru": [
+        "выплата"
+      ],
+      "gender": "m",
+      "example": "Le plus gros paiement.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "collecte-de-fonds",
+      "word": "collecte de fonds",
+      "en": "collecte de fonds",
+      "sourceId": "fundraiser",
+      "sourceIds": [
+        "fundraiser"
+      ],
+      "ru": [
+        "сбор средств",
+        "мероприятие по сбору средств"
+      ],
+      "gender": "f",
+      "example": "Il y a une collecte de fonds pour Hannah Lawson.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "detourner",
+      "word": "détourner",
+      "en": "détourner",
+      "sourceId": "embezzle",
+      "sourceIds": [
+        "embezzle"
+      ],
+      "ru": [
+        "растрачивать",
+        "присваивать"
+      ],
+      "gender": null,
+      "example": "Il a détourné des milliers de dollars de la caisse de l'entreprise.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "caution",
+      "word": "caution",
+      "en": "caution",
+      "sourceId": "bail",
+      "sourceIds": [
+        "bail"
+      ],
+      "ru": [
+        "выходить под залог"
+      ],
+      "gender": "f",
+      "example": "Ty est en liberté sous caution.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cheque",
+      "word": "chèque",
+      "en": "chèque",
+      "sourceId": "cheque",
+      "sourceIds": [
+        "cheque"
+      ],
+      "ru": [
+        "чек"
+      ],
+      "gender": "m",
+      "example": "J'ai besoin d'une approbation de chèque.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "depense-spent",
+      "word": "dépensé",
+      "en": "dépensé",
+      "sourceId": "spent",
+      "sourceIds": [
+        "spent"
+      ],
+      "ru": [
+        "потраченный"
+      ],
+      "gender": null,
+      "example": "Tu veux dire cette obscénité que j'ai dépensée ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "saisie-immobiliere",
+      "word": "saisie immobilière",
+      "en": "saisie immobilière",
+      "sourceId": "foreclosure",
+      "sourceIds": [
+        "foreclosure"
+      ],
+      "ru": [
+        "лишение права выкупа заложенного имущества"
+      ],
+      "gender": "f",
+      "example": "Je viens de perdre ma maison à cause d'une saisie immobilière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "a-faible-taux",
+      "word": "à faible taux",
+      "en": "à faible taux",
+      "sourceId": "low-interest",
+      "sourceIds": [
+        "low-interest"
+      ],
+      "ru": [
+        "низкопроцентный"
+      ],
+      "gender": null,
+      "example": "Les vautours des prêts à faible taux.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "couteux",
+      "word": "coûteux",
+      "en": "coûteux",
+      "sourceId": "million-dollar",
+      "sourceIds": [
+        "million-dollar"
+      ],
+      "ru": [
+        "миллионный",
+        "очень дорогой"
+      ],
+      "gender": null,
+      "example": "C'est un plat très coûteux ce soir.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "prepaye",
+      "word": "prépayé",
+      "en": "prépayé",
+      "sourceId": "pay-as-you-go",
+      "sourceIds": [
+        "pay-as-you-go"
+      ],
+      "ru": [
+        "предоплатный"
+      ],
+      "gender": null,
+      "example": "C'est un forfait prépayé.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "distributeur",
+      "word": "distributeur",
+      "en": "distributeur",
+      "sourceId": "atm",
+      "sourceIds": [
+        "atm"
+      ],
+      "ru": [
+        "банкомат"
+      ],
+      "gender": "m",
+      "example": "Je cherche un distributeur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bien-capitalise",
+      "word": "bien capitalisé",
+      "en": "bien capitalisé",
+      "sourceId": "well-capitalized",
+      "sourceIds": [
+        "well-capitalized"
+      ],
+      "ru": [
+        "хорошо капитализированный"
+      ],
+      "gender": null,
+      "example": "Personne n'est assez bien capitalisé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bon-marche",
+      "word": "bon marché",
+      "en": "bon marché",
+      "sourceId": "low-dollar",
+      "sourceIds": [
+        "low-dollar"
+      ],
+      "ru": [
+        "недорогой",
+        "бюджетный"
+      ],
+      "gender": null,
+      "example": "Microsoft gère une opération bon marché.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "lucratif",
+      "word": "lucratif",
+      "en": "lucratif",
+      "sourceId": "lucrative",
+      "sourceIds": [
+        "lucrative"
+      ],
+      "ru": [
+        "прибыльный"
+      ],
+      "gender": null,
+      "example": "Il revient tout juste d'un voyage lucratif au Japon.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "pension-alimentaire",
+      "word": "pension alimentaire",
+      "en": "pension alimentaire",
+      "sourceId": "alimony",
+      "sourceIds": [
+        "alimony"
+      ],
+      "ru": [
+        "алименты"
+      ],
+      "gender": "f",
+      "example": "Il doit payer une pension alimentaire chaque mois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "miner",
+      "word": "miner",
+      "en": "miner",
+      "sourceId": "undercut",
+      "sourceIds": [
+        "undercut"
+      ],
+      "ru": [
+        "подрезать",
+        "сбивать цены"
+      ],
+      "gender": null,
+      "example": "Cela mine un peu votre théorie.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "peso",
+      "word": "peso",
+      "en": "peso",
+      "sourceId": "peso",
+      "sourceIds": [
+        "peso"
+      ],
+      "ru": [
+        "песо"
+      ],
+      "gender": "m",
+      "example": "J'avais un billet de 20 000 pesos colombiens.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "frugalite",
+      "word": "frugalité",
+      "en": "frugalité",
+      "sourceId": "frugality",
+      "sourceIds": [
+        "frugality"
+      ],
+      "ru": [
+        "бережливость",
+        "экономность"
+      ],
+      "gender": "f",
+      "example": "La frugalité est une vertu.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "recuperer",
+      "word": "récupérer",
+      "en": "récupérer",
+      "sourceId": "recoup",
+      "sourceIds": [
+        "recoup"
+      ],
+      "ru": [
+        "возмещать",
+        "окупать"
+      ],
+      "gender": null,
+      "example": "Il est très difficile de récupérer votre investissement.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "riche-en-liquidites",
+      "word": "riche en liquidités",
+      "en": "riche en liquidités",
+      "sourceId": "cash-rich",
+      "sourceIds": [
+        "cash-rich"
+      ],
+      "ru": [
+        "богатый наличными"
+      ],
+      "gender": "m/f",
+      "example": "Chaque été, cinq millions de personnes riches en liquidités.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "liquider",
+      "word": "liquider",
+      "en": "liquider",
+      "sourceId": "liquidate",
+      "sourceIds": [
+        "liquidate"
+      ],
+      "ru": [
+        "ликвидировать"
+      ],
+      "gender": null,
+      "example": "Il a dû liquider ses actifs pour payer ses dettes.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "sous-capitalise",
+      "word": "sous-capitalisé",
+      "en": "sous-capitalisé",
+      "sourceId": "undercapitalized",
+      "sourceIds": [
+        "undercapitalized"
+      ],
+      "ru": [
+        "недокапитализированный"
+      ],
+      "gender": null,
+      "example": "une position lamentablement sous-capitalisée",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "liquidite",
+      "word": "liquidité",
+      "en": "liquidité",
+      "sourceId": "liquidity",
+      "sourceIds": [
+        "liquidity"
+      ],
+      "ru": [
+        "ликвидность"
+      ],
+      "gender": "f",
+      "example": "Les lois sur le ratio de liquidité sont strictes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "extorquer",
+      "word": "extorquer",
+      "en": "extorquer",
+      "sourceId": "extort",
+      "sourceIds": [
+        "extort"
+      ],
+      "ru": [
+        "вымогать"
+      ],
+      "gender": null,
+      "example": "Il a été arrêté pour avoir extorqué de l'argent aux commerçants.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "en-retard",
+      "word": "en retard",
+      "en": "en retard",
+      "sourceId": "delinquent",
+      "sourceIds": [
+        "delinquent"
+      ],
+      "ru": [
+        "просроченный"
+      ],
+      "gender": null,
+      "example": "Des impôts en retard.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "droit-de-retention",
+      "word": "droit de rétention",
+      "en": "droit de rétention",
+      "sourceId": "lien",
+      "sourceIds": [
+        "lien"
+      ],
+      "ru": [
+        "право удержания имущества"
+      ],
+      "gender": "m",
+      "example": "Le créancier exerce son droit de rétention sur le véhicule.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "reinvestir",
+      "word": "réinvestir",
+      "en": "réinvestir",
+      "sourceId": "reinvest",
+      "sourceIds": [
+        "reinvest"
+      ],
+      "ru": [
+        "реинвестировать"
+      ],
+      "gender": null,
+      "example": "Il a décidé de réinvestir ses bénéfices dans l'entreprise.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mal-acquis",
+      "word": "mal acquis",
+      "en": "mal acquis",
+      "sourceId": "ill-gotten",
+      "sourceIds": [
+        "ill-gotten"
+      ],
+      "ru": [
+        "нечестно нажитый"
+      ],
+      "gender": "m",
+      "example": "Cet argent est mal acquis.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mettre-en-gage",
+      "word": "mettre en gage",
+      "en": "mettre en gage",
+      "sourceId": "hock",
+      "sourceIds": [
+        "hock"
+      ],
+      "ru": [
+        "закладывать в ломбард"
+      ],
+      "gender": null,
+      "example": "Il a dû mettre en gage sa montre pour payer ses dettes.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "faire-fructifier",
+      "word": "faire fructifier",
+      "en": "faire fructifier",
+      "sourceId": "parlay",
+      "sourceIds": [
+        "parlay"
+      ],
+      "ru": [
+        "использовать с выгодой"
+      ],
+      "gender": null,
+      "example": "Tu me remercieras quand j'aurai fait fructifier cela.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "moyen-de-subsistance",
+      "word": "moyen de subsistance",
+      "en": "moyen de subsistance",
+      "sourceId": "livelihood",
+      "sourceIds": [
+        "livelihood"
+      ],
+      "ru": [
+        "средства к существованию"
+      ],
+      "gender": "m",
+      "example": "C'est son seul moyen de subsistance.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "confisquer",
+      "word": "confisquer",
+      "en": "confisquer",
+      "sourceId": "impound",
+      "sourceIds": [
+        "impound"
+      ],
+      "ru": [
+        "конфисковать",
+        "задерживать"
+      ],
+      "gender": null,
+      "example": "La voiture aura été confisquée.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "assurer",
+      "word": "assurer",
+      "en": "assurer",
+      "sourceId": "insure",
+      "sourceIds": [
+        "insure"
+      ],
+      "ru": [
+        "страховать"
+      ],
+      "gender": null,
+      "example": "Ils vont être assurés.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "contribuable",
+      "word": "contribuable",
+      "en": "contribuable",
+      "sourceId": "taxpayer",
+      "sourceIds": [
+        "taxpayer"
+      ],
+      "ru": [
+        "налогоплательщик"
+      ],
+      "gender": "m",
+      "example": "C'est l'argent du contribuable qui finance ce projet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "franchise",
+      "word": "franchise",
+      "en": "franchise",
+      "sourceId": "deductible",
+      "sourceIds": [
+        "deductible"
+      ],
+      "ru": [
+        "франшиза",
+        "вычитаемый"
+      ],
+      "gender": "f",
+      "example": "Il y a une franchise de 1 200 $.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gratuit",
+      "word": "gratuit",
+      "en": "gratuit",
+      "sourceId": "comp",
+      "sourceIds": [
+        "comp"
+      ],
+      "ru": [
+        "компенсация",
+        "бесплатный"
+      ],
+      "gender": null,
+      "example": "La chambre est offerte gracieusement.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "argent-de-poche",
+      "word": "argent de poche",
+      "en": "argent de poche",
+      "sourceId": "allowance",
+      "sourceIds": [
+        "allowance"
+      ],
+      "ru": [
+        "карманные деньги",
+        "пособие"
+      ],
+      "gender": "m",
+      "example": "Tu peux payer ça avec ton argent de poche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "augmentation-de-salaire",
+      "word": "augmentation de salaire",
+      "en": "augmentation de salaire",
+      "sourceId": "pay-raise",
+      "sourceIds": [
+        "pay-raise"
+      ],
+      "ru": [
+        "повышение зарплаты"
+      ],
+      "gender": "f",
+      "example": "Il a demandé une augmentation de salaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "jour-de-paie",
+      "word": "jour de paie",
+      "en": "jour de paie",
+      "sourceId": "payday",
+      "sourceIds": [
+        "payday"
+      ],
+      "ru": [
+        "день зарплаты"
+      ],
+      "gender": "m",
+      "example": "La satisfaction du jour de paie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "s-accumuler",
+      "word": "s'accumuler",
+      "en": "s'accumuler",
+      "sourceId": "accrue",
+      "sourceIds": [
+        "accrue"
+      ],
+      "ru": [
+        "накапливаться",
+        "нарастать"
+      ],
+      "gender": null,
+      "example": "La tristesse s'accumule.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "gagne-pain",
+      "word": "gagne-pain",
+      "en": "gagne-pain",
+      "sourceId": "earner",
+      "sourceIds": [
+        "earner"
+      ],
+      "ru": [
+        "кормилец",
+        "зарабатывающий"
+      ],
+      "gender": "m",
+      "example": "C'est un bon gagne-pain pour la famille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nickel",
+      "word": "nickel",
+      "en": "nickel",
+      "sourceId": "nickel",
+      "sourceIds": [
+        "nickel"
+      ],
+      "ru": [
+        "никель",
+        "пять центов"
+      ],
+      "gender": "m",
+      "example": "Tu n'as pas un sou ?",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+ALTER TABLE users
+  ADD COLUMN IF NOT EXISTS guide_tries text[] NOT NULL DEFAULT '{}';

@@ -1,0 +1,2589 @@
+{
+  "id": "numbers",
+  "title": "Числа",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "nolla",
+      "word": "nolla",
+      "en": "nolla",
+      "ru": [
+        "ноль",
+        "нуль",
+        "зеро"
+      ],
+      "example": "Huoneesi on numero viisisataaneljä, viisi nolla neljä.",
+      "level": "A1",
+      "sourceId": "zero",
+      "sourceIds": [
+        "zero"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yksi",
+      "word": "yksi",
+      "en": "yksi",
+      "ru": [
+        "один",
+        "единственный",
+        "тот самый"
+      ],
+      "example": "\"Onko sinulla lapsia?\" – \"On yksi poika.\"",
+      "level": "A1",
+      "sourceId": "one",
+      "sourceIds": [
+        "one"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaksi",
+      "word": "kaksi",
+      "en": "kaksi",
+      "ru": [
+        "пара",
+        "двойка",
+        "два"
+      ],
+      "example": "Autossa näkyi olevan nainen ja kaksi koiraa.",
+      "level": "A1",
+      "sourceId": "two",
+      "sourceIds": [
+        "two"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolme",
+      "word": "kolme",
+      "en": "kolme",
+      "ru": [
+        "три",
+        "тройка",
+        "трое"
+      ],
+      "example": "Adam vietti kolme vuotta vankilassa huumeiden hallussapidosta.",
+      "level": "A1",
+      "sourceId": "three",
+      "sourceIds": [
+        "three"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nelonen",
+      "word": "nelonen",
+      "en": "nelonen",
+      "ru": [
+        "четыре",
+        "четвёрка",
+        "четырёхлетка"
+      ],
+      "example": "Nelonen on japanin kielessä epäonnen luku.",
+      "level": "A1",
+      "sourceId": "four",
+      "sourceIds": [
+        "four"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viitonen",
+      "word": "viitonen",
+      "en": "viitonen",
+      "ru": [
+        "пять",
+        "пятёрка",
+        "пятеро"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "five",
+      "sourceIds": [
+        "five"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kuutonen",
+      "word": "kuutonen",
+      "en": "kuutonen",
+      "ru": [
+        "шесть",
+        "шестёрка",
+        "шестеро"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "six",
+      "sourceIds": [
+        "six"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "seitseman",
+      "word": "seitsemän",
+      "en": "seitsemän",
+      "ru": [
+        "семь",
+        "семёрка",
+        "семеро"
+      ],
+      "example": "Kello on melkein seitsemän. Täytyy lähteä kouluun.",
+      "level": "A1",
+      "sourceId": "seven",
+      "sourceIds": [
+        "seven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kahdeksan",
+      "word": "kahdeksan",
+      "en": "kahdeksan",
+      "ru": [
+        "восемь",
+        "восьмёрка",
+        "восьмеро"
+      ],
+      "example": "Hän on opiskellut ranskaa kahdeksan vuoden ajan.",
+      "level": "A1",
+      "sourceId": "eight",
+      "sourceIds": [
+        "eight"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yhdeksan",
+      "word": "yhdeksän",
+      "en": "yhdeksän",
+      "ru": [
+        "девять",
+        "девятка",
+        "девятеро"
+      ],
+      "example": "Jotkut tarvitsevat yhdeksän tai kymmenen tunnin unet.",
+      "level": "A1",
+      "sourceId": "nine",
+      "sourceIds": [
+        "nine"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kymmenikko",
+      "word": "kymmenikkö",
+      "en": "kymmenikkö",
+      "ru": [
+        "десять",
+        "десятка",
+        "десяток"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "ten",
+      "sourceIds": [
+        "ten"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "yksitoista",
+      "word": "yksitoista",
+      "en": "yksitoista",
+      "ru": [
+        "одиннадцать"
+      ],
+      "example": "Kello on vartin ja rapiat yli yksitoista.",
+      "level": "A1",
+      "sourceId": "eleven",
+      "sourceIds": [
+        "eleven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaksitoista",
+      "word": "kaksitoista",
+      "en": "kaksitoista",
+      "ru": [
+        "двенадцать"
+      ],
+      "example": "Kaksikymmentäviisi prosenttia viidestäkymmenestä on kaksitoista ja puoli.",
+      "level": "A1",
+      "sourceId": "twelve",
+      "sourceIds": [
+        "twelve"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolmetoista",
+      "word": "kolmetoista",
+      "en": "kolmetoista",
+      "ru": [
+        "тринадцать"
+      ],
+      "example": "Hän oli kolmetoista vuotta vanha tavatessaan hänet.",
+      "level": "A1",
+      "sourceId": "thirteen",
+      "sourceIds": [
+        "thirteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neljatoista",
+      "word": "neljätoista",
+      "en": "neljätoista",
+      "ru": [
+        "четырнадцать"
+      ],
+      "example": "Kaksi kertaa seitsemän on neljätoista.",
+      "level": "A1",
+      "sourceId": "fourteen",
+      "sourceIds": [
+        "fourteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viisitoista",
+      "word": "viisitoista",
+      "en": "viisitoista",
+      "ru": [
+        "пятнадцать"
+      ],
+      "example": "F heksadesimaaleissa on yhtä suuri kuin viisitoista.",
+      "level": "A1",
+      "sourceId": "fifteen",
+      "sourceIds": [
+        "fifteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuusitoista",
+      "word": "kuusitoista",
+      "en": "kuusitoista",
+      "ru": [
+        "шестнадцать"
+      ],
+      "example": "Neljä plus kuusitoista on yhtäsuuri kuin kaksikymmentä.",
+      "level": "A1",
+      "sourceId": "sixteen",
+      "sourceIds": [
+        "sixteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seitsemantoista",
+      "word": "seitsemäntoista",
+      "en": "seitsemäntoista",
+      "ru": [
+        "семнадцать"
+      ],
+      "example": "Hän meni naimisiin seitsemäntoista vuoden ikäisenä.",
+      "level": "A1",
+      "sourceId": "seventeen",
+      "sourceIds": [
+        "seventeen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kahdeksantoista",
+      "word": "kahdeksantoista",
+      "en": "kahdeksantoista",
+      "ru": [
+        "восемнадцать"
+      ],
+      "example": "Kahdeksantoista minuuttia myöhemmin taistelu oli ohi.",
+      "level": "A1",
+      "sourceId": "eighteen",
+      "sourceIds": [
+        "eighteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yhdeksantoista",
+      "word": "yhdeksäntoista",
+      "en": "yhdeksäntoista",
+      "ru": [
+        "девятнадцать"
+      ],
+      "example": "Arvonlisävero on yhdeksäntoista prosenttia Saksassa.",
+      "level": "A1",
+      "sourceId": "nineteen",
+      "sourceIds": [
+        "nineteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaksikymmenta",
+      "word": "kaksikymmentä",
+      "en": "kaksikymmentä",
+      "ru": [
+        "двадцатка",
+        "двадцать"
+      ],
+      "example": "Australia on noin kaksikymmentä kertaa Japania suurempi.",
+      "level": "A1",
+      "sourceId": "twenty",
+      "sourceIds": [
+        "twenty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolmekymmenta",
+      "word": "kolmekymmentä",
+      "en": "kolmekymmentä",
+      "ru": [
+        "тридцать"
+      ],
+      "example": "Hän neuvoi häntä tulemaan kaksi kolmekymmentä mennessä.",
+      "level": "A1",
+      "sourceId": "thirty",
+      "sourceIds": [
+        "thirty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neljakymmenta",
+      "word": "neljäkymmentä",
+      "en": "neljäkymmentä",
+      "ru": [
+        "сорок"
+      ],
+      "example": "Heidän yhtiönsä loi neljäkymmentä uutta työpaikkaa.",
+      "level": "A1",
+      "sourceId": "forty",
+      "sourceIds": [
+        "forty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viisikymmenta",
+      "word": "viisikymmentä",
+      "en": "viisikymmentä",
+      "ru": [
+        "пятьдесят"
+      ],
+      "example": "Hänellä on metri viisikymmentä senttiä leveä sänky.",
+      "level": "A1",
+      "sourceId": "fifty",
+      "sourceIds": [
+        "fifty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuusikymmenta",
+      "word": "kuusikymmentä",
+      "en": "kuusikymmentä",
+      "ru": [
+        "шестьдесят"
+      ],
+      "example": "Sami on ainakin kuusikymmentä vuotta Laylaa vanhempi.",
+      "level": "A1",
+      "sourceId": "sixty",
+      "sourceIds": [
+        "sixty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seitsemankymmenta",
+      "word": "seitsemänkymmentä",
+      "en": "seitsemänkymmentä",
+      "ru": [
+        "семьдесят"
+      ],
+      "example": "Helsingissä satoi viime talvena yli seitsemänkymmentä senttimetriä lunta.",
+      "level": "A1",
+      "sourceId": "seventy",
+      "sourceIds": [
+        "seventy"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seitsemankymmentayksi",
+      "word": "seitsemänkymmentäyksi",
+      "en": "seitsemänkymmentäyksi",
+      "ru": [
+        "семьдесят один"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-one",
+      "sourceIds": [
+        "seventy-one"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemankymmentakaksi",
+      "word": "seitsemänkymmentäkaksi",
+      "en": "seitsemänkymmentäkaksi",
+      "ru": [
+        "семьдесят два"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-two",
+      "sourceIds": [
+        "seventy-two"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemankymmentakolme",
+      "word": "seitsemänkymmentäkolme",
+      "en": "seitsemänkymmentäkolme",
+      "ru": [
+        "семьдесят три"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-three",
+      "sourceIds": [
+        "seventy-three"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemankymmentanelja",
+      "word": "seitsemänkymmentäneljä",
+      "en": "seitsemänkymmentäneljä",
+      "ru": [
+        "семьдесят четыре"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-four",
+      "sourceIds": [
+        "seventy-four"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemankymmentaviisi",
+      "word": "seitsemänkymmentäviisi",
+      "en": "seitsemänkymmentäviisi",
+      "ru": [
+        "семьдесят пять"
+      ],
+      "example": "Seitsemänkymmentäviisi jaettuna viidellä on viisitoista.",
+      "level": "A2",
+      "sourceId": "seventy-five",
+      "sourceIds": [
+        "seventy-five"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seitsemankymmentakuusi",
+      "word": "seitsemänkymmentäkuusi",
+      "en": "seitsemänkymmentäkuusi",
+      "ru": [
+        "семьдесят шесть"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-six",
+      "sourceIds": [
+        "seventy-six"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemankymmentaseitseman",
+      "word": "seitsemänkymmentäseitsemän",
+      "en": "seitsemänkymmentäseitsemän",
+      "ru": [
+        "семьдесят семь"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-seven",
+      "sourceIds": [
+        "seventy-seven"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemankymmentakahdeksan",
+      "word": "seitsemänkymmentäkahdeksan",
+      "en": "seitsemänkymmentäkahdeksan",
+      "ru": [
+        "семьдесят восемь"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-eight",
+      "sourceIds": [
+        "seventy-eight"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemankymmentayhdeksan",
+      "word": "seitsemänkymmentäyhdeksän",
+      "en": "seitsemänkymmentäyhdeksän",
+      "ru": [
+        "семьдесят девять"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-nine",
+      "sourceIds": [
+        "seventy-nine"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "kahdeksankymmenta",
+      "word": "kahdeksankymmentä",
+      "en": "kahdeksankymmentä",
+      "ru": [
+        "восемьдесят"
+      ],
+      "example": "Se kirjasto on kahdeksankymmentä vuotta vanha.",
+      "level": "A1",
+      "sourceId": "eighty",
+      "sourceIds": [
+        "eighty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yhdeksankymmenta",
+      "word": "yhdeksänkymmentä",
+      "en": "yhdeksänkymmentä",
+      "ru": [
+        "девяносто"
+      ],
+      "example": "Ei ole lainkaan tavatonta elää yli yhdeksänkymmentä vuotta.",
+      "level": "A1",
+      "sourceId": "ninety",
+      "sourceIds": [
+        "ninety"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "satanen",
+      "word": "satanen",
+      "en": "satanen",
+      "ru": [
+        "сто",
+        "сотня"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "hundred",
+      "sourceIds": [
+        "hundred"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tuhat",
+      "word": "tuhat",
+      "en": "tuhat",
+      "ru": [
+        "тысяча"
+      ],
+      "example": "Oppilaita on yhteensä noin tuhat kaiken kaikkiaan.",
+      "level": "A1",
+      "sourceId": "thousand",
+      "sourceIds": [
+        "thousand"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miljoona",
+      "word": "miljoona",
+      "en": "miljoona",
+      "ru": [
+        "миллион"
+      ],
+      "example": "Miljoona litraa öljyä on vuotanut ulos öljyputkesta.",
+      "level": "A1",
+      "sourceId": "million",
+      "sourceIds": [
+        "million"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miljardi",
+      "word": "miljardi",
+      "en": "miljardi",
+      "ru": [
+        "миллиард"
+      ],
+      "example": "Yhdessä metrissä on miljardi nanometriä.",
+      "level": "A1",
+      "sourceId": "billion",
+      "sourceIds": [
+        "billion"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ensin",
+      "word": "ensin",
+      "en": "ensin",
+      "ru": [
+        "первый",
+        "в первую очередь",
+        "во-первых"
+      ],
+      "example": "Ensin asia tutkitaan, ennen kuin miestä hutkitaan.",
+      "level": "A1",
+      "sourceId": "first",
+      "sourceIds": [
+        "first"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sekunti",
+      "word": "sekunti",
+      "en": "sekunti",
+      "ru": [
+        "секунда",
+        "второй",
+        "секундант"
+      ],
+      "example": "Purskahdin nauruun sillä sekunnilla kun näin hänet.",
+      "level": "A1",
+      "sourceId": "second",
+      "sourceIds": [
+        "second"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolmas",
+      "word": "kolmas",
+      "en": "kolmas",
+      "ru": [
+        "третий",
+        "треть",
+        "(одна) третья (часть)"
+      ],
+      "example": "Tomin täytyy ottaa lääke joka kolmas tunti.",
+      "level": "A1",
+      "sourceId": "third",
+      "sourceIds": [
+        "third"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neljas",
+      "word": "neljäs",
+      "en": "neljäs",
+      "ru": [
+        "четвёртый",
+        "четвёртая передача",
+        "кварта"
+      ],
+      "example": "Jotkut väittävät, että kokovartaloläpivalaisimet rikkovat neljättä lainlisäystä.",
+      "level": "A1",
+      "sourceId": "fourth",
+      "sourceIds": [
+        "fourth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viides",
+      "word": "viides",
+      "en": "viides",
+      "ru": [
+        "пятый",
+        "5-ый",
+        "(одна) пятая (часть)"
+      ],
+      "example": "Roolipelitapahtuma järjestetään tänä vuonna jo viidettä kertaa.",
+      "level": "A1",
+      "sourceId": "fifth",
+      "sourceIds": [
+        "fifth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuudes",
+      "word": "kuudes",
+      "en": "kuudes",
+      "ru": [
+        "шестой",
+        "(одна) шестая (часть)"
+      ],
+      "example": "Malesian kuudes pääministeri on Najib Razak.",
+      "level": "A1",
+      "sourceId": "sixth",
+      "sourceIds": [
+        "sixth"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seitsemas",
+      "word": "seitsemäs",
+      "en": "seitsemäs",
+      "ru": [
+        "седьмой",
+        "(одна) седьмая (часть)"
+      ],
+      "example": "Japanilaiset hyökkäsivät Pearl Harboriin joulukuun seitsemäs 1941.",
+      "level": "A1",
+      "sourceId": "seventh",
+      "sourceIds": [
+        "seventh"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kahdeksas",
+      "word": "kahdeksas",
+      "en": "kahdeksas",
+      "ru": [
+        "восьмой",
+        "восьмая",
+        "восьмое"
+      ],
+      "example": "Neptunus on aurinkokunnan kahdeksas planeetta.",
+      "level": "A1",
+      "sourceId": "eighth",
+      "sourceIds": [
+        "eighth"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yhdeksas",
+      "word": "yhdeksäs",
+      "en": "yhdeksäs",
+      "ru": [
+        "девятый",
+        "(одна) девятая (часть)"
+      ],
+      "example": "Yhdeksäs toukokuuta oli, on ja pysyy meidän tärkeimpänä juhlapäivänämme.",
+      "level": "A1",
+      "sourceId": "ninth",
+      "sourceIds": [
+        "ninth"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kymmenes",
+      "word": "kymmenes",
+      "en": "kymmenes",
+      "ru": [
+        "десятый",
+        "(одна) десятая (часть)"
+      ],
+      "example": "Claudio katsoi taakse joka kymmenes sekunti.",
+      "level": "A1",
+      "sourceId": "tenth",
+      "sourceIds": [
+        "tenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolmastoista",
+      "word": "kolmastoista",
+      "en": "kolmastoista",
+      "ru": [
+        "тринадцатый",
+        "(одна) тринадцатая (часть)"
+      ],
+      "example": "Sanotaan, että perjantai kolmastoista päivä on epäonnen päivä.",
+      "level": "A2",
+      "sourceId": "thirteenth",
+      "sourceIds": [
+        "thirteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neljastoista",
+      "word": "neljästoista",
+      "en": "neljästoista",
+      "ru": [
+        "четырнадцатый",
+        "четырнадцатая",
+        "(одна) четырнадцатая (часть)"
+      ],
+      "example": "Minä synnyin helmikuun neljäntenätoista päivänä vuonna 1960.",
+      "level": "A2",
+      "sourceId": "fourteenth",
+      "sourceIds": [
+        "fourteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viidestoista",
+      "word": "viidestoista",
+      "en": "viidestoista",
+      "ru": [
+        "пятнадцатый",
+        "(одна) пятнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fifteenth",
+      "sourceIds": [
+        "fifteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kuudestoista",
+      "word": "kuudestoista",
+      "en": "kuudestoista",
+      "ru": [
+        "шестнадцатый",
+        "(одна) шестнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "sixteenth",
+      "sourceIds": [
+        "sixteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemastoista",
+      "word": "seitsemästoista",
+      "en": "seitsemästoista",
+      "ru": [
+        "семнадцатый",
+        "(одна) семнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventeenth",
+      "sourceIds": [
+        "seventeenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kahdeksastoista",
+      "word": "kahdeksastoista",
+      "en": "kahdeksastoista",
+      "ru": [
+        "восемнадцатый",
+        "(одна) восемнадцатая (часть)"
+      ],
+      "example": "Tänään on kahdeksastoista kesäkuuta ja Muirielin syntymäpäivä!",
+      "level": "A2",
+      "sourceId": "eighteenth",
+      "sourceIds": [
+        "eighteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yhdeksastoista",
+      "word": "yhdeksästoista",
+      "en": "yhdeksästoista",
+      "ru": [
+        "девятнадцатый",
+        "(одна) девятнадцатая (часть)"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "nineteenth",
+      "sourceIds": [
+        "nineteenth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmenesensimmainen",
+      "word": "seitsemäskymmenesensimmäinen",
+      "en": "seitsemäskymmenesensimmäinen",
+      "ru": [
+        "семьдесят первый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-first",
+      "sourceIds": [
+        "seventy-first"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "seitsemaskymmenestoinen",
+      "word": "seitsemäskymmenestoinen",
+      "en": "seitsemäskymmenestoinen",
+      "ru": [
+        "семьдесят второй"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-second",
+      "sourceIds": [
+        "seventy-second"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmeneskolmas",
+      "word": "seitsemäskymmeneskolmas",
+      "en": "seitsemäskymmeneskolmas",
+      "ru": [
+        "семьдесят третий"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-third",
+      "sourceIds": [
+        "seventy-third"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmenesneljas",
+      "word": "seitsemäskymmenesneljäs",
+      "en": "seitsemäskymmenesneljäs",
+      "ru": [
+        "семьдесят четвёртый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-fourth",
+      "sourceIds": [
+        "seventy-fourth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmenesviides",
+      "word": "seitsemäskymmenesviides",
+      "en": "seitsemäskymmenesviides",
+      "ru": [
+        "семьдесят пятый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-fifth",
+      "sourceIds": [
+        "seventy-fifth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmeneskuudes",
+      "word": "seitsemäskymmeneskuudes",
+      "en": "seitsemäskymmeneskuudes",
+      "ru": [
+        "семьдесят шестой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-sixth",
+      "sourceIds": [
+        "seventy-sixth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmenesseitsemas",
+      "word": "seitsemäskymmenesseitsemäs",
+      "en": "seitsemäskymmenesseitsemäs",
+      "ru": [
+        "семьдесят седьмой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-seventh",
+      "sourceIds": [
+        "seventy-seventh"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmeneskahdeksas",
+      "word": "seitsemäskymmeneskahdeksas",
+      "en": "seitsemäskymmeneskahdeksas",
+      "ru": [
+        "семьдесят восьмой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-eighth",
+      "sourceIds": [
+        "seventy-eighth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemaskymmenesyhdeksas",
+      "word": "seitsemäskymmenesyhdeksäs",
+      "en": "seitsemäskymmenesyhdeksäs",
+      "ru": [
+        "семьдесят девятый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-ninth",
+      "sourceIds": [
+        "seventy-ninth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sadas",
+      "word": "sadas",
+      "en": "sadas",
+      "ru": [
+        "сотый",
+        "сотая"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "hundredth",
+      "sourceIds": [
+        "hundredth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tuhannes",
+      "word": "tuhannes",
+      "en": "tuhannes",
+      "ru": [
+        "тысячный",
+        "одна тысячная"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "thousandth",
+      "sourceIds": [
+        "thousandth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "satatuhannes",
+      "word": "satatuhannes",
+      "en": "satatuhannes",
+      "ru": [
+        "стотысячный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hundred-thousandth",
+      "sourceIds": [
+        "hundred-thousandth"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "miljoonas",
+      "word": "miljoonas",
+      "en": "miljoonas",
+      "ru": [
+        "миллионный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "millionth",
+      "sourceIds": [
+        "millionth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "miljardisosa",
+      "word": "miljardisosa",
+      "en": "miljardisosa",
+      "ru": [
+        "миллиардный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "billionth",
+      "sourceIds": [
+        "billionth"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kolmanneksi",
+      "word": "kolmanneksi",
+      "en": "kolmanneksi",
+      "ru": [
+        "в-третьих"
+      ],
+      "example": "Mikä on Australian kolmanneksi suurin kaupunki?",
+      "level": "B1",
+      "sourceId": "thirdly",
+      "sourceIds": [
+        "thirdly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neljanneksi",
+      "word": "neljänneksi",
+      "en": "neljänneksi",
+      "ru": [
+        "в-четвёртых"
+      ],
+      "example": "Mikä on Ruotsin neljänneksi suurin kaupunki?",
+      "level": "B1",
+      "sourceId": "fourthly",
+      "sourceIds": [
+        "fourthly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viidenneksi",
+      "word": "viidenneksi",
+      "en": "viidenneksi",
+      "ru": [
+        "в-пятых"
+      ],
+      "example": "Hän tuli viidenneksi siinä juoksukilpailussa.",
+      "level": "B1",
+      "sourceId": "fifthly",
+      "sourceIds": [
+        "fifthly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuudenneksi",
+      "word": "kuudenneksi",
+      "en": "kuudenneksi",
+      "ru": [
+        "в-шестых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sixthly",
+      "sourceIds": [
+        "sixthly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seitsemanneksi",
+      "word": "seitsemänneksi",
+      "en": "seitsemänneksi",
+      "ru": [
+        "в-седьмых"
+      ],
+      "example": "Intia on maailman seitsemänneksi suurin maa.",
+      "level": "B1",
+      "sourceId": "seventhly",
+      "sourceIds": [
+        "seventhly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puoliksi",
+      "word": "puoliksi",
+      "en": "puoliksi",
+      "ru": [
+        "пол",
+        "полу",
+        "наполовину"
+      ],
+      "example": "Poimi se omena ja leikkaa se puoliksi.",
+      "level": "A1",
+      "sourceId": "half",
+      "sourceIds": [
+        "half"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neljasosa",
+      "word": "neljäsosa",
+      "en": "neljäsosa",
+      "ru": [
+        "(одна) четвёртая (часть)",
+        "квартал",
+        "четверть"
+      ],
+      "example": "Minä olen jo kääntänyt neljäsosan siitä kirjasta.",
+      "level": "B1",
+      "sourceId": "quarter",
+      "sourceIds": [
+        "quarter"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaksi-kolmasosaa",
+      "word": "kaksi kolmasosaa",
+      "en": "kaksi kolmasosaa",
+      "ru": [
+        "две трети"
+      ],
+      "example": "Kaksi kolmasosaa oppilaista tuli tapaamiseen.",
+      "level": "B1",
+      "sourceId": "two-thirds",
+      "sourceIds": [
+        "two-thirds"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "murto-osa",
+      "word": "murto-osa",
+      "en": "murto-osa",
+      "ru": [
+        "часть",
+        "частица",
+        "дробь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fraction",
+      "sourceIds": [
+        "fraction"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "mitaton",
+      "word": "mitätön",
+      "en": "mitätön",
+      "ru": [
+        "дробный",
+        "фракционный",
+        "отрывочный"
+      ],
+      "example": "Hän riitelee usein mitättömistä asioista veljensä kanssa.",
+      "level": "C2",
+      "sourceId": "fractional",
+      "sourceIds": [
+        "fractional"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kokonainen",
+      "word": "kokonainen",
+      "en": "kokonainen",
+      "ru": [
+        "целый",
+        "весь",
+        "полный"
+      ],
+      "example": "Ihmiset eivät aina puhu käyttäen kokonaisia lauseita.",
+      "level": "A2",
+      "sourceId": "whole",
+      "sourceIds": [
+        "whole"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yksi",
+      "word": "yksi",
+      "en": "yksi",
+      "ru": [
+        "один",
+        "единственный",
+        "одна"
+      ],
+      "example": "\"Onko sinulla lapsia?\" – \"On yksi poika.\"",
+      "level": "A1",
+      "sourceId": "single",
+      "sourceIds": [
+        "single"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pari",
+      "word": "pari",
+      "en": "pari",
+      "ru": [
+        "пара",
+        "чета"
+      ],
+      "example": "Ajattelin tulla Japaniin taas parin vuoden päästä.",
+      "level": "A1",
+      "sourceId": "pair",
+      "sourceIds": [
+        "pair"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaksoisolento",
+      "word": "kaksoisolento",
+      "en": "kaksoisolento",
+      "ru": [
+        "двойной",
+        "двойник",
+        "удваивать"
+      ],
+      "example": "Hän on isänsä kaksoisolento.",
+      "level": "A2",
+      "sourceId": "double",
+      "sourceIds": [
+        "double"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolminkertainen",
+      "word": "kolminkertainen",
+      "en": "kolminkertainen",
+      "ru": [
+        "тройной",
+        "троекратный",
+        "трёхкратный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "triple",
+      "sourceIds": [
+        "triple"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kolmesti",
+      "word": "kolmesti",
+      "en": "kolmesti",
+      "ru": [
+        "трижды"
+      ],
+      "example": "Lääkäri käski minun laittaa silmätippoja kolmesti päivässä.",
+      "level": "B1",
+      "sourceId": "thrice",
+      "sourceIds": [
+        "thrice"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuhatkertainen",
+      "word": "tuhatkertainen",
+      "en": "tuhatkertainen",
+      "ru": [
+        "тысячекратный",
+        "тысячекратно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thousandfold",
+      "sourceIds": [
+        "thousandfold"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "moni",
+      "word": "moni",
+      "en": "moni",
+      "ru": [
+        "кратный",
+        "много",
+        "множественный"
+      ],
+      "example": "Niin moni kuin kymmenen oppilasta reputti tutkinnossa.",
+      "level": "A2",
+      "sourceId": "multiple",
+      "sourceIds": [
+        "multiple"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nolla",
+      "word": "nolla",
+      "en": "nolla",
+      "ru": [
+        "ноль",
+        "ничто"
+      ],
+      "example": "Huoneesi on numero viisisataaneljä, viisi nolla neljä.",
+      "level": "B1",
+      "sourceId": "nought",
+      "sourceIds": [
+        "nought"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kakkonen",
+      "word": "kakkonen",
+      "en": "kakkonen",
+      "ru": [
+        "двойка"
+      ],
+      "example": "Ykkösen ja kakkosen summa on kolmonen.",
+      "level": "B1",
+      "sourceId": "deuce",
+      "sourceIds": [
+        "deuce"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kolmoset",
+      "word": "kolmoset",
+      "en": "kolmoset",
+      "ru": [
+        "тройки"
+      ],
+      "example": "Tänä aamuna kello 8.10, Mari synnytti terveet kolmoset.",
+      "level": "C2",
+      "sourceId": "threes",
+      "sourceIds": [
+        "threes"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuutoset",
+      "word": "kuutoset",
+      "en": "kuutoset",
+      "ru": [
+        "шестёрки"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sixes",
+      "sourceIds": [
+        "sixes"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kymppi",
+      "word": "kymppi",
+      "en": "kymppi",
+      "ru": [
+        "десятка"
+      ],
+      "example": "Tom on kympin oppilas, vai mitä?",
+      "level": "C2",
+      "sourceId": "tenner",
+      "sourceIds": [
+        "tenner"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nelikymmenluku",
+      "word": "nelikymmenluku",
+      "en": "nelikymmenluku",
+      "ru": [
+        "сороковые"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "forties",
+      "sourceIds": [
+        "forties"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kahdeksankymmentaluku",
+      "word": "kahdeksankymmentäluku",
+      "en": "kahdeksankymmentäluku",
+      "ru": [
+        "1980-ые годы",
+        "80-ые"
+      ],
+      "example": "Äitini meni naimisiin isäni kanssa kahdeksankymmentäluvulla.",
+      "level": "B1",
+      "sourceId": "eighties",
+      "sourceIds": [
+        "eighties"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yhdeksankymmentaluku",
+      "word": "yhdeksänkymmentäluku",
+      "en": "yhdeksänkymmentäluku",
+      "ru": [
+        "десятилетие девяностых годов"
+      ],
+      "example": "Tomi syntyi yhdeksänkymmentäluvulla.",
+      "level": "B1",
+      "sourceId": "nineties",
+      "sourceIds": [
+        "nineties"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luku",
+      "word": "luku",
+      "en": "luku",
+      "ru": [
+        "число",
+        "количество",
+        "имя числительное"
+      ],
+      "example": "1, 3 ja 5 ovat parittomia lukuja.",
+      "level": "A1",
+      "sourceId": "number",
+      "sourceIds": [
+        "number"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "numerointi",
+      "word": "numerointi",
+      "en": "numerointi",
+      "ru": [
+        "нумерация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "numbering",
+      "sourceIds": [
+        "numbering"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "numeerisesti",
+      "word": "numeerisesti",
+      "en": "numeerisesti",
+      "ru": [
+        "численно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "numerically",
+      "sourceIds": [
+        "numerically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "numero",
+      "word": "numero",
+      "en": "numero",
+      "ru": [
+        "цифра"
+      ],
+      "example": "Huoneesi on numero viisisataaneljä, viisi nolla neljä.",
+      "level": "B1",
+      "sourceId": "digit",
+      "sourceIds": [
+        "digit"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kokonaisluku",
+      "word": "kokonaisluku",
+      "en": "kokonaisluku",
+      "ru": [
+        "целое",
+        "целое число"
+      ],
+      "example": "Jokaisella positiivisella kokonaisluvulla on täsmälleen yksi seuraaja.",
+      "level": "B1",
+      "sourceId": "integer",
+      "sourceIds": [
+        "integer"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "desimaalinen",
+      "word": "desimaalinen",
+      "en": "desimaalinen",
+      "ru": [
+        "десятичный",
+        "десятичная система"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decimal",
+      "sourceIds": [
+        "decimal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "laskea",
+      "word": "laskea",
+      "en": "laskea",
+      "ru": [
+        "считать",
+        "подсчитывать"
+      ],
+      "example": "En pysty koskaan erottamaan milloin lasket leikkiä.",
+      "level": "A2",
+      "sourceId": "count",
+      "sourceIds": [
+        "count"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laskuri",
+      "word": "laskuri",
+      "en": "laskuri",
+      "ru": [
+        "счётчик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "laskea",
+      "word": "laskea",
+      "en": "laskea",
+      "ru": [
+        "вычислять",
+        "вычислить",
+        "подсчитывать"
+      ],
+      "example": "En pysty koskaan erottamaan milloin lasket leikkiä.",
+      "level": "B1",
+      "sourceId": "calculate",
+      "sourceIds": [
+        "calculate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laskin",
+      "word": "laskin",
+      "en": "laskin",
+      "ru": [
+        "калькулятор",
+        "арифмометр",
+        "вычислительная машина"
+      ],
+      "example": "Laskin kirjan alas ja laitoin valon päälle.",
+      "level": "B1",
+      "sourceId": "calculator",
+      "sourceIds": [
+        "calculator"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "positiivinen",
+      "word": "positiivinen",
+      "en": "positiivinen",
+      "ru": [
+        "плюс",
+        "положительный"
+      ],
+      "example": "Jokaisella positiivisella kokonaisluvulla on täsmälleen yksi seuraaja.",
+      "level": "A2",
+      "sourceId": "plus",
+      "sourceIds": [
+        "plus"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miinus",
+      "word": "miinus",
+      "en": "miinus",
+      "ru": [
+        "минус",
+        "отрицательный",
+        "отрицательная величина"
+      ],
+      "example": "Elohopea sukelsi miinus seitsemään yön aikana.",
+      "level": "A2",
+      "sourceId": "minus",
+      "sourceIds": [
+        "minus"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "summa",
+      "word": "summa",
+      "en": "summa",
+      "ru": [
+        "сумма",
+        "итог",
+        "складывать"
+      ],
+      "example": "Hän sai ison summan etumaksuna seuraavasta romaanistaan.",
+      "level": "B1",
+      "sourceId": "sum",
+      "sourceIds": [
+        "sum"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sama",
+      "word": "sama",
+      "en": "sama",
+      "ru": [
+        "равный",
+        "одинаковый",
+        "тот же"
+      ],
+      "example": "Bob on syntynyt samana vuonna kuin sinä.",
+      "level": "B1",
+      "sourceId": "equal",
+      "sourceIds": [
+        "equal"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "samalla-tavoin",
+      "word": "samalla tavoin",
+      "en": "samalla tavoin",
+      "ru": [
+        "одинаково",
+        "поровну"
+      ],
+      "example": "Tee vain yksinkertaisesti samalla tavoin kuin me.",
+      "level": "B2",
+      "sourceId": "equally",
+      "sourceIds": [
+        "equally"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prosentti",
+      "word": "prosentti",
+      "en": "prosentti",
+      "ru": [
+        "процент"
+      ],
+      "example": "31 prosenttia Saksan sähköstä tulee uudistuvista energianlähteistä.",
+      "level": "A2",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prosentti",
+      "word": "prosentti",
+      "en": "prosentti",
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "example": "31 prosenttia Saksan sähköstä tulee uudistuvista energianlähteistä.",
+      "level": "B1",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "persentiili",
+      "word": "persentiili",
+      "en": "persentiili",
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "prosentuaalinen",
+      "word": "prosentuaalinen",
+      "en": "prosentuaalinen",
+      "ru": [
+        "процентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tyypillinen",
+      "word": "tyypillinen",
+      "en": "tyypillinen",
+      "ru": [
+        "средний",
+        "обычный",
+        "среднее"
+      ],
+      "example": "Kuolinvuode on tyypillinen paikka tunnustuksille ja pyynnöille.",
+      "level": "A1",
+      "sourceId": "average",
+      "sourceIds": [
+        "average"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "keskimaarin",
+      "word": "keskimäärin",
+      "en": "keskimäärin",
+      "ru": [
+        "в среднем"
+      ],
+      "example": "Minä käyn elokuvateatterissa keskimäärin kaksi kertaa kuukaudessa.",
+      "level": "C2",
+      "sourceId": "averagely",
+      "sourceIds": [
+        "averagely"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kurssi",
+      "word": "kurssi",
+      "en": "kurssi",
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "example": "Tämä kurssi on avuksi oikean ääntämisen omaksumisessa.",
+      "level": "A1",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "suhde",
+      "word": "suhde",
+      "en": "suhde",
+      "ru": [
+        "отношение",
+        "соотношение",
+        "коэффициент"
+      ],
+      "example": "Etkö voi olla vähän joustavampi sääntöjen suhteen?",
+      "level": "B1",
+      "sourceId": "ratio",
+      "sourceIds": [
+        "ratio"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maara",
+      "word": "määrä",
+      "en": "määrä",
+      "ru": [
+        "количество",
+        "сумма"
+      ],
+      "example": "C++0x-standardi tulee sallimaan funktiomallit rajoittamattomalla argumenttien määrällä.",
+      "level": "A2",
+      "sourceId": "amount",
+      "sourceIds": [
+        "amount"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maara",
+      "word": "määrä",
+      "en": "määrä",
+      "ru": [
+        "количество"
+      ],
+      "example": "C++0x-standardi tulee sallimaan funktiomallit rajoittamattomalla argumenttien määrällä.",
+      "level": "B1",
+      "sourceId": "quantity",
+      "sourceIds": [
+        "quantity"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lukuisa",
+      "word": "lukuisa",
+      "en": "lukuisa",
+      "ru": [
+        "многочисленный"
+      ],
+      "example": "Kun palaan lomaltani, lukuisat työt odottavat minua.",
+      "level": "B1",
+      "sourceId": "numerous",
+      "sourceIds": [
+        "numerous"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "molemmat",
+      "word": "molemmat",
+      "en": "molemmat",
+      "ru": [
+        "и... и",
+        "оба",
+        "обе"
+      ],
+      "example": "Hampaat purevat kieltä, mutta molemmat rakastavat toisiaan.",
+      "level": "A1",
+      "sourceId": "both",
+      "sourceIds": [
+        "both"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jokainen",
+      "word": "jokainen",
+      "en": "jokainen",
+      "ru": [
+        "каждый"
+      ],
+      "example": "Ilman sunnuntaita jokainen viikon päivä olisi työpäivä.",
+      "level": "A1",
+      "sourceId": "each",
+      "sourceIds": [
+        "each"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kokonaan",
+      "word": "kokonaan",
+      "en": "kokonaan",
+      "ru": [
+        "полностью",
+        "совсем",
+        "весь"
+      ],
+      "example": "Kun tulimme kotiin, aurinko oli kokonaan laskenut.",
+      "level": "A1",
+      "sourceId": "all",
+      "sourceIds": [
+        "all"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ei-mikaan",
+      "word": "ei mikään",
+      "en": "ei mikään",
+      "ru": [
+        "никакой",
+        "никто"
+      ],
+      "example": "Asialla ei ole mitään tekemistä minun kanssani.",
+      "level": "A2",
+      "sourceId": "none",
+      "sourceIds": [
+        "none"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muutama",
+      "word": "muutama",
+      "en": "muutama",
+      "ru": [
+        "мало",
+        "несколько",
+        "немногий"
+      ],
+      "example": "Ehkä muutama teistä on nähnyt pandoja eläintarhassa.",
+      "level": "A1",
+      "sourceId": "few",
+      "sourceIds": [
+        "few"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "usea",
+      "word": "usea",
+      "en": "usea",
+      "ru": [
+        "некоторый",
+        "несколько",
+        "различный"
+      ],
+      "example": "Usea ihminen makasi haavoittuneina.",
+      "level": "A1",
+      "sourceId": "several",
+      "sourceIds": [
+        "several"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paljon",
+      "word": "paljon",
+      "en": "paljon",
+      "ru": [
+        "многие",
+        "многий",
+        "много"
+      ],
+      "example": "Aviomiehensä kuoleman jälkeen Christina on kärsinyt paljon.",
+      "level": "A1",
+      "sourceId": "many",
+      "sourceIds": [
+        "many"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paljon",
+      "word": "paljon",
+      "en": "paljon",
+      "ru": [
+        "намного",
+        "гораздо",
+        "очень"
+      ],
+      "example": "Aviomiehensä kuoleman jälkeen Christina on kärsinyt paljon.",
+      "level": "A1",
+      "sourceId": "much",
+      "sourceIds": [
+        "much"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "enemman",
+      "word": "enemmän",
+      "en": "enemmän",
+      "ru": [
+        "больше",
+        "более",
+        "ещё"
+      ],
+      "example": "Elämä imitoi taidetta enemmän kuin taide elämää.",
+      "level": "A1",
+      "sourceId": "more",
+      "sourceIds": [
+        "more"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eniten",
+      "word": "eniten",
+      "en": "eniten",
+      "ru": [
+        "наиболее",
+        "самый",
+        "большинство"
+      ],
+      "example": "Lapset tarttee monii juttui, mutta eniten rakkautta.",
+      "level": "A1",
+      "sourceId": "most",
+      "sourceIds": [
+        "most"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lahinna",
+      "word": "lähinnä",
+      "en": "lähinnä",
+      "ru": [
+        "в основном",
+        "главным образом",
+        "по большей части"
+      ],
+      "example": "Voisitko ystävällisesti kertoa minulle, mikä asema sijaitsee lähinnä työpaikkaasi?",
+      "level": "B1",
+      "sourceId": "mostly",
+      "sourceIds": [
+        "mostly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vahemman",
+      "word": "vähemmän",
+      "en": "vähemmän",
+      "ru": [
+        "менее",
+        "меньше",
+        "меньший"
+      ],
+      "example": "En osaa ajaa moottoripyörää, vielä vähemmän autoa.",
+      "level": "A1",
+      "sourceId": "less",
+      "sourceIds": [
+        "less"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pienempi",
+      "word": "pienempi",
+      "en": "pienempi",
+      "ru": [
+        "меньший"
+      ],
+      "example": "Jarrutan usein, ennen kuin vaihdan pienemmälle vaihteelle.",
+      "level": "C1",
+      "sourceId": "lesser",
+      "sourceIds": [
+        "lesser"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vahin",
+      "word": "vähin",
+      "en": "vähin",
+      "ru": [
+        "наименьший"
+      ],
+      "example": "Tilanteesi on erittäin vaikea selittää vähin sanoin.",
+      "level": "A1",
+      "sourceId": "least",
+      "sourceIds": [
+        "least"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kohtalo",
+      "word": "kohtalo",
+      "en": "kohtalo",
+      "ru": [
+        "группа",
+        "судьба",
+        "участь"
+      ],
+      "example": "Hänellä ei ollut muuta vaihtoehtoa kuin hyväksyä kohtalonsa.",
+      "level": "A1",
+      "sourceId": "lot",
+      "sourceIds": [
+        "lot"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "osa",
+      "word": "osa",
+      "en": "osa",
+      "ru": [
+        "часть",
+        "доля",
+        "роль"
+      ],
+      "example": "Amandalla ei ollut osaa eikä arpaa tulipaloon.",
+      "level": "A1",
+      "sourceId": "part",
+      "sourceIds": [
+        "part"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "osittain",
+      "word": "osittain",
+      "en": "osittain",
+      "ru": [
+        "отчасти",
+        "частично"
+      ],
+      "example": "Korona saa monet eurooppalaiset maat sulkeutumaan osittain.",
+      "level": "B2",
+      "sourceId": "partly",
+      "sourceIds": [
+        "partly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neljannesvuosittainen",
+      "word": "neljännesvuosittainen",
+      "en": "neljännesvuosittainen",
+      "ru": [
+        "ежеквартальный",
+        "квартальный",
+        "трёхмесячный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "quarterly",
+      "sourceIds": [
+        "quarterly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "maara",
+      "word": "määrä",
+      "en": "määrä",
+      "ru": [
+        "количество",
+        "мера",
+        "измерять"
+      ],
+      "example": "C++0x-standardi tulee sallimaan funktiomallit rajoittamattomalla argumenttien määrällä.",
+      "level": "B1",
+      "sourceId": "measure",
+      "sourceIds": [
+        "measure"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mitta",
+      "word": "mitta",
+      "en": "mitta",
+      "ru": [
+        "измерение",
+        "обмер",
+        "мера"
+      ],
+      "example": "Minulla on vielä kysyttävää vaikka millä mitalla.",
+      "level": "B1",
+      "sourceId": "measurement",
+      "sourceIds": [
+        "measurement"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mittaus",
+      "word": "mittaus",
+      "en": "mittaus",
+      "ru": [
+        "измерение"
+      ],
+      "example": "Useat mittaukset osoittavat korkeita radonpitoisuuksia sillä alueella.",
+      "level": "B2",
+      "sourceId": "measuring",
+      "sourceIds": [
+        "measuring"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mittari",
+      "word": "mittari",
+      "en": "mittari",
+      "ru": [
+        "счётчик",
+        "измеритель",
+        "размер"
+      ],
+      "example": "Lue lukema mittarista.",
+      "level": "B1",
+      "sourceId": "meter",
+      "sourceIds": [
+        "meter"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuuma",
+      "word": "tuuma",
+      "en": "tuuma",
+      "ru": [
+        "дюйм"
+      ],
+      "example": "Olen viisi jalkaa ja kaksi tuumaa pitkä.",
+      "level": "B1",
+      "sourceId": "inch",
+      "sourceIds": [
+        "inch"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maili",
+      "word": "maili",
+      "en": "maili",
+      "ru": [
+        "миля",
+        "узел"
+      ],
+      "example": "Gepardi pystyy juoksemaan jopa 70 mailia tunnissa.",
+      "level": "B1",
+      "sourceId": "mile",
+      "sourceIds": [
+        "mile"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kilogramma",
+      "word": "kilogramma",
+      "en": "kilogramma",
+      "ru": [
+        "килограмм"
+      ],
+      "example": "Minä tarvitsen yhden kilogramman tomaatteja.",
+      "level": "B1",
+      "sourceId": "kilogram",
+      "sourceIds": [
+        "kilogram"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

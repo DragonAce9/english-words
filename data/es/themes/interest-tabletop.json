@@ -1,0 +1,588 @@
+{
+  "id": "interest-tabletop",
+  "title": "Настольные и ролевые игры",
+  "paid": true,
+  "blockId": "interests",
+  "words": [
+    {
+      "id": "pistola",
+      "word": "pistola",
+      "en": "pistola",
+      "ru": [
+        "пистолет"
+      ],
+      "example": "A Tom, se le extravío una pistola.",
+      "level": "B1",
+      "sourceId": "pistol",
+      "sourceIds": [
+        "pistol"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "respectivo",
+      "word": "respectivo",
+      "en": "respectivo",
+      "ru": [
+        "соответствующий"
+      ],
+      "example": "Discutamos los méritos respectivos de los candidatos.",
+      "level": "A2",
+      "sourceId": "respective",
+      "sourceIds": [
+        "respective"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "al-azar",
+      "word": "al azar",
+      "en": "al azar",
+      "ru": [
+        "случайно",
+        "наугад"
+      ],
+      "example": "Los ejemplos nunca son escogidos al azar.",
+      "level": "B1",
+      "sourceId": "randomly",
+      "sourceIds": [
+        "randomly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bayoneta",
+      "word": "bayoneta",
+      "en": "bayoneta",
+      "ru": [
+        "штык"
+      ],
+      "example": "La bayoneta estaba negra de sangre coagulada.",
+      "level": "B1",
+      "sourceId": "bayonet",
+      "sourceIds": [
+        "bayonet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "indicio",
+      "word": "indicio",
+      "en": "indicio",
+      "ru": [
+        "подсказка",
+        "ключ к разгадке"
+      ],
+      "example": "Ningún indicio respalda vuestra hipótesis de momento.",
+      "level": "B1",
+      "sourceId": "clue",
+      "sourceIds": [
+        "clue"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laberinto",
+      "word": "laberinto",
+      "en": "laberinto",
+      "ru": [
+        "лабиринт"
+      ],
+      "example": "Es fácil perderse en este laberinto de callejuelas.",
+      "level": "B1",
+      "sourceId": "labyrinth",
+      "sourceIds": [
+        "labyrinth",
+        "maze"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "elfo",
+      "word": "elfo",
+      "en": "elfo",
+      "ru": [
+        "эльф"
+      ],
+      "example": "Los elfos son los pequeños ayudantes de Santa.",
+      "level": "B1",
+      "sourceId": "elf",
+      "sourceIds": [
+        "elf"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lanza",
+      "word": "lanza",
+      "en": "lanza",
+      "ru": [
+        "копье"
+      ],
+      "example": "Le arrojó una lanza a su enemigo.",
+      "level": "B1",
+      "sourceId": "spear",
+      "sourceIds": [
+        "spear"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reventar",
+      "word": "reventar",
+      "en": "reventar",
+      "ru": [
+        "взрыв",
+        "лопаться"
+      ],
+      "example": "El frigorífico está a reventar de comida.",
+      "level": "B1",
+      "sourceId": "burst",
+      "sourceIds": [
+        "burst"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bronce",
+      "word": "bronce",
+      "en": "bronce",
+      "ru": [
+        "бронза"
+      ],
+      "example": "La banda de bronces tocó tres marchas.",
+      "level": "B1",
+      "sourceId": "bronze",
+      "sourceIds": [
+        "bronze"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sopa-inglesa",
+      "word": "sopa inglesa",
+      "en": "sopa inglesa",
+      "ru": [
+        "пустяк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trifle",
+      "sourceIds": [
+        "trifle"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "refriega",
+      "word": "refriega",
+      "en": "refriega",
+      "ru": [
+        "рукопашная схватка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "melee",
+      "sourceIds": [
+        "melee"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "satisfacer",
+      "word": "satisfacer",
+      "en": "satisfacer",
+      "ru": [
+        "удовлетворять",
+        "соответствовать"
+      ],
+      "example": "Cuando él dejó de correr, estaba satisfecho.",
+      "level": "B1",
+      "sourceId": "satisfy",
+      "sourceIds": [
+        "satisfy"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bala",
+      "word": "bala",
+      "en": "bala",
+      "ru": [
+        "пуля"
+      ],
+      "example": "Esto es vidrio a prueba de balas.",
+      "level": "B1",
+      "sourceId": "bullet",
+      "sourceIds": [
+        "bullet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-prueba-de-balas",
+      "word": "a prueba de balas",
+      "en": "a prueba de balas",
+      "ru": [
+        "пуленепробиваемый"
+      ],
+      "example": "Esto es vidrio a prueba de balas.",
+      "level": "B1",
+      "sourceId": "bulletproof",
+      "sourceIds": [
+        "bulletproof"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cardinal",
+      "word": "cardinal",
+      "en": "cardinal",
+      "ru": [
+        "кардинальный",
+        "главный"
+      ],
+      "example": "Los puntos cardinales son: Norte, Sur, Este y Oeste.",
+      "level": "B1",
+      "sourceId": "cardinal",
+      "sourceIds": [
+        "cardinal"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "municion",
+      "word": "munición",
+      "en": "munición",
+      "ru": [
+        "боеприпасы"
+      ],
+      "example": "Esta munición es muchísimo más efectiva.",
+      "level": "B1",
+      "sourceId": "ammunition",
+      "sourceIds": [
+        "ammunition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "encantamiento",
+      "word": "encantamiento",
+      "en": "encantamiento",
+      "ru": [
+        "заклинание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "incantation",
+      "sourceIds": [
+        "incantation"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "magico",
+      "word": "mágico",
+      "en": "mágico",
+      "ru": [
+        "волшебный",
+        "магический"
+      ],
+      "example": "\"Olvidaste la palabra mágica.\" \"¿Qué palabra mágica?\"",
+      "level": "B1",
+      "sourceId": "magical",
+      "sourceIds": [
+        "magical"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bomba",
+      "word": "bomba",
+      "en": "bomba",
+      "ru": [
+        "взрыв",
+        "веселье"
+      ],
+      "example": "Al estallar la bomba causó muchos daños.",
+      "level": "B1",
+      "sourceId": "blast",
+      "sourceIds": [
+        "blast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tropa",
+      "word": "tropa",
+      "en": "tropa",
+      "ru": [
+        "солдат",
+        "полицейский"
+      ],
+      "example": "El líder mandó a las tropas retroceder.",
+      "level": "B1",
+      "sourceId": "trooper",
+      "sourceIds": [
+        "trooper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maza",
+      "word": "maza",
+      "en": "maza",
+      "ru": [
+        "булава",
+        "перцовый баллончик"
+      ],
+      "example": "Derruyeron los muros del palacio con arietes, mazas y martillos.",
+      "level": "B1",
+      "sourceId": "mace",
+      "sourceIds": [
+        "mace"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sierra-de-vaiven",
+      "word": "sierra de vaivén",
+      "en": "sierra de vaivén",
+      "ru": [
+        "пазл",
+        "лобзик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "jigsaw",
+      "sourceIds": [
+        "jigsaw"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mago",
+      "word": "mago",
+      "en": "mago",
+      "ru": [
+        "маг",
+        "волшебник"
+      ],
+      "example": "El mago efectúa varios trucos con cartas.",
+      "level": "B1",
+      "sourceId": "mage",
+      "sourceIds": [
+        "mage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "obus",
+      "word": "obús",
+      "en": "obús",
+      "ru": [
+        "гаубица"
+      ],
+      "example": "Durante las obras, desenterraron restos de un obús en mi patio.",
+      "level": "B1",
+      "sourceId": "howitzer",
+      "sourceIds": [
+        "howitzer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "metralla",
+      "word": "metralla",
+      "en": "metralla",
+      "ru": [
+        "шрапнель",
+        "осколки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shrapnel",
+      "sourceIds": [
+        "shrapnel"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pistolera",
+      "word": "pistolera",
+      "en": "pistolera",
+      "ru": [
+        "кобура"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "holster",
+      "sourceIds": [
+        "holster"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "manipulacion",
+      "word": "manipulación",
+      "en": "manipulación",
+      "ru": [
+        "манипуляция"
+      ],
+      "example": "¿Crees que esta foto haya sufrido manipulación?",
+      "level": "B1",
+      "sourceId": "manipulation",
+      "sourceIds": [
+        "manipulation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jinete-de-dragon",
+      "word": "jinete de dragón",
+      "en": "jinete de dragón",
+      "ru": [
+        "всадник на драконе"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dragonrider",
+      "sourceIds": [
+        "dragonrider"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "senor-de-los-dragones",
+      "word": "señor de los dragones",
+      "en": "señor de los dragones",
+      "ru": [
+        "повелитель драконов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dragonlord",
+      "sourceIds": [
+        "dragonlord"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sable",
+      "word": "sable",
+      "en": "sable",
+      "ru": [
+        "сабля"
+      ],
+      "example": "Perdí mi sable cuando naufragó el barco.",
+      "level": "B1",
+      "sourceId": "saber",
+      "sourceIds": [
+        "saber"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "glock",
+      "word": "Glock",
+      "en": "Glock",
+      "ru": [
+        "глок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "glock",
+      "sourceIds": [
+        "glock"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "semtex",
+      "word": "semtex",
+      "en": "semtex",
+      "ru": [
+        "пластиковая взрывчатка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "semtex",
+      "sourceIds": [
+        "semtex"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

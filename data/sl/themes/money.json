@@ -1,0 +1,4089 @@
+{
+  "id": "money",
+  "title": "Деньги",
+  "paid": true,
+  "blockId": "society",
+  "words": [
+    {
+      "id": "racun",
+      "word": "račun",
+      "en": "račun",
+      "ru": [
+        "счёт",
+        "отчёт"
+      ],
+      "example": "Račun, prosim.",
+      "level": "A1",
+      "sourceId": "account",
+      "sourceIds": [
+        "account"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "odgovornost",
+      "word": "odgovornost",
+      "en": "odgovornost",
+      "ru": [
+        "ответственность",
+        "отчётность",
+        "подотчётность"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "accountability",
+      "sourceIds": [
+        "accountability"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "odgovoren",
+      "word": "odgovoren",
+      "en": "odgovoren",
+      "ru": [
+        "ответственный",
+        "подотчётный"
+      ],
+      "example": "Bil je odgovoren za ohranitev templja.",
+      "level": "C2",
+      "sourceId": "accountable",
+      "sourceIds": [
+        "accountable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "racunovodstvo",
+      "word": "računovodstvo",
+      "en": "računovodstvo",
+      "ru": [
+        "бухгалтерский учёт",
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "accountancy",
+      "sourceIds": [
+        "accountancy"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "racunovodja",
+      "word": "računovodja",
+      "en": "računovodja",
+      "ru": [
+        "бухгалтер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "accountant",
+      "sourceIds": [
+        "accountant"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "racunovodstvo",
+      "word": "računovodstvo",
+      "en": "računovodstvo",
+      "ru": [
+        "бухгалтерия",
+        "счетоводство"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "accounting",
+      "sourceIds": [
+        "accounting"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "si-privosciti",
+      "word": "si privoščiti",
+      "en": "si privoščiti",
+      "ru": [
+        "быть в состоянии",
+        "позволить",
+        "позволять"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "afford",
+      "sourceIds": [
+        "afford"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "cenovno-dostopen",
+      "word": "cenovno dostopen",
+      "en": "cenovno dostopen",
+      "ru": [
+        "доступный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "affordable",
+      "sourceIds": [
+        "affordable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "premozenje",
+      "word": "premoženje",
+      "en": "premoženje",
+      "ru": [
+        "актив",
+        "авуары",
+        "активы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "asset",
+      "sourceIds": [
+        "asset"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "sredstva",
+      "word": "sredstva",
+      "en": "sredstva",
+      "ru": [
+        "актив"
+      ],
+      "example": "Cilj opravičuje sredstva.",
+      "level": "B1",
+      "sourceId": "assets",
+      "sourceIds": [
+        "assets"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ravnotezje",
+      "word": "ravnotežje",
+      "en": "ravnotežje",
+      "ru": [
+        "баланс",
+        "остаток на счёте"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "balance",
+      "sourceIds": [
+        "balance"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "uravnotezen",
+      "word": "uravnotežen",
+      "en": "uravnotežen",
+      "ru": [
+        "сбалансированный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "balanced",
+      "sourceIds": [
+        "balanced"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "banka",
+      "word": "banka",
+      "en": "banka",
+      "ru": [
+        "банк"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "bank",
+      "sourceIds": [
+        "bank"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "banka",
+      "word": "banka",
+      "en": "banka",
+      "ru": [
+        "банкир",
+        "банкирша",
+        "банкомёт"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "banker",
+      "sourceIds": [
+        "banker"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "banka",
+      "word": "banka",
+      "en": "banka",
+      "ru": [
+        "банковское дело",
+        "банкинг",
+        "вираж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "banking",
+      "sourceIds": [
+        "banking"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bankrotiran",
+      "word": "bankrotiran",
+      "en": "bankrotiran",
+      "ru": [
+        "обанкротившийся",
+        "банкрот",
+        "банкротить"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "bankrupt",
+      "sourceIds": [
+        "bankrupt"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "stecaj",
+      "word": "stečaj",
+      "en": "stečaj",
+      "ru": [
+        "банкротство",
+        "несостоятельность"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "bankruptcy",
+      "sourceIds": [
+        "bankruptcy"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "korist",
+      "word": "korist",
+      "en": "korist",
+      "ru": [
+        "благо",
+        "выгода",
+        "льгота"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "benefit",
+      "sourceIds": [
+        "benefit"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "racun",
+      "word": "račun",
+      "en": "račun",
+      "ru": [
+        "счёт",
+        "банкнота"
+      ],
+      "example": "Račun, prosim.",
+      "level": "A2",
+      "sourceId": "bill",
+      "sourceIds": [
+        "bill"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milijarder",
+      "word": "milijarder",
+      "en": "milijarder",
+      "ru": [
+        "миллиардер",
+        "миллиардерша"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "billionaire",
+      "sourceIds": [
+        "billionaire"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "obveznica",
+      "word": "obveznica",
+      "en": "obveznica",
+      "ru": [
+        "облигация",
+        "долговое обязательство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bond",
+      "sourceIds": [
+        "bond"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bonus",
+      "word": "bonus",
+      "en": "bonus",
+      "ru": [
+        "бонус",
+        "надбавка",
+        "премия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bonus",
+      "sourceIds": [
+        "bonus"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "proracun",
+      "word": "proračun",
+      "en": "proračun",
+      "ru": [
+        "бюджетный",
+        "бюджет",
+        "смета"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "budget",
+      "sourceIds": [
+        "budget"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kapital",
+      "word": "kapital",
+      "en": "kapital",
+      "ru": [
+        "капитель",
+        "богатство",
+        "капитал"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "capital",
+      "sourceIds": [
+        "capital"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kapitalsko-intenziven",
+      "word": "kapitalsko intenziven",
+      "en": "kapitalsko intenziven",
+      "ru": [
+        "капиталоёмкий"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capital-intensive",
+      "sourceIds": [
+        "capital-intensive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kapitalizacija",
+      "word": "kapitalizacija",
+      "en": "kapitalizacija",
+      "ru": [
+        "капитализация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalisation",
+      "sourceIds": [
+        "capitalisation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kapitalizem",
+      "word": "kapitalizem",
+      "en": "kapitalizem",
+      "ru": [
+        "капитализм"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalism",
+      "sourceIds": [
+        "capitalism"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kapitalisticen",
+      "word": "kapitalističen",
+      "en": "kapitalističen",
+      "ru": [
+        "капиталистический",
+        "капиталист"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalist",
+      "sourceIds": [
+        "capitalist"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kapitalizirati",
+      "word": "kapitalizirati",
+      "en": "kapitalizirati",
+      "ru": [
+        "капитализировать",
+        "превращать в капитал"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "capitalize",
+      "sourceIds": [
+        "capitalize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kartica",
+      "word": "kartica",
+      "en": "kartica",
+      "ru": [
+        "карта",
+        "козырь",
+        "карточка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "card",
+      "sourceIds": [
+        "card"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "gotovina",
+      "word": "gotovina",
+      "en": "gotovina",
+      "ru": [
+        "деньги",
+        "нал",
+        "наличные деньги"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "cash",
+      "sourceIds": [
+        "cash"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cent",
+      "word": "cent",
+      "en": "cent",
+      "ru": [
+        "цент"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cent",
+      "sourceIds": [
+        "cent"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drobiz",
+      "word": "drobiž",
+      "en": "drobiž",
+      "ru": [
+        "сдача"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "change",
+      "sourceIds": [
+        "change"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dobrodelnost",
+      "word": "dobrodelnost",
+      "en": "dobrodelnost",
+      "ru": [
+        "благотворительная организация",
+        "благотворительное общество",
+        "благотворительный фонд"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "charity",
+      "sourceIds": [
+        "charity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "poceni",
+      "word": "poceni",
+      "en": "poceni",
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "cheap",
+      "sourceIds": [
+        "cheap"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "poceni",
+      "word": "poceni",
+      "en": "poceni",
+      "ru": [
+        "дёшево"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cheaply",
+      "sourceIds": [
+        "cheaply"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kovanec",
+      "word": "kovanec",
+      "en": "kovanec",
+      "ru": [
+        "монета",
+        "жетон",
+        "фишка"
+      ],
+      "example": "Kovanec je narejen iz zlata.",
+      "level": "B2",
+      "sourceId": "coin",
+      "sourceIds": [
+        "coin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nadomestilo",
+      "word": "nadomestilo",
+      "en": "nadomestilo",
+      "ru": [
+        "возмещение",
+        "компенсация",
+        "уравнивание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "compensation",
+      "sourceIds": [
+        "compensation"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "stroski",
+      "word": "stroški",
+      "en": "stroški",
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "cost",
+      "sourceIds": [
+        "cost"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "drag",
+      "word": "drag",
+      "en": "drag",
+      "ru": [
+        "дорогой",
+        "дорогостоящий",
+        "ценный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "costly",
+      "sourceIds": [
+        "costly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kredit",
+      "word": "kredit",
+      "en": "kredit",
+      "ru": [
+        "кредит",
+        "заём"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "credit",
+      "sourceIds": [
+        "credit"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "valuta",
+      "word": "valuta",
+      "en": "valuta",
+      "ru": [
+        "валюта",
+        "распространённость",
+        "употребительность"
+      ],
+      "example": "Katera valuta se uporablja v Angliji?",
+      "level": "A2",
+      "sourceId": "currency",
+      "sourceIds": [
+        "currency"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bremenitev",
+      "word": "bremenitev",
+      "en": "bremenitev",
+      "ru": [
+        "дебет"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "debit",
+      "sourceIds": [
+        "debit"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dolg",
+      "word": "dolg",
+      "en": "dolg",
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязанность"
+      ],
+      "example": "Tom lahko dokaže, da je odplačal svoj dolg.",
+      "level": "A2",
+      "sourceId": "debt",
+      "sourceIds": [
+        "debt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polog",
+      "word": "polog",
+      "en": "polog",
+      "ru": [
+        "вклад",
+        "депозит",
+        "залог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "deposit",
+      "sourceIds": [
+        "deposit"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odstavitev",
+      "word": "odstavitev",
+      "en": "odstavitev",
+      "ru": [
+        "смещение с должности",
+        "осаждение",
+        "отложение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "deposition",
+      "sourceIds": [
+        "deposition"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "skladisce",
+      "word": "skladišče",
+      "en": "skladišče",
+      "ru": [
+        "депозитарий",
+        "склад",
+        "хранилище"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "depository",
+      "sourceIds": [
+        "depository"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "popust",
+      "word": "popust",
+      "en": "popust",
+      "ru": [
+        "дисконт",
+        "скидка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "discount",
+      "sourceIds": [
+        "discount"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dolar",
+      "word": "dolar",
+      "en": "dolar",
+      "ru": [
+        "доллар"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dollar",
+      "sourceIds": [
+        "dollar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "darovati",
+      "word": "darovati",
+      "en": "darovati",
+      "ru": [
+        "давать",
+        "дарить",
+        "дать"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "donate",
+      "sourceIds": [
+        "donate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "donacija",
+      "word": "donacija",
+      "en": "donacija",
+      "ru": [
+        "пожертвование",
+        "дар",
+        "донат"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "donation",
+      "sourceIds": [
+        "donation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dolznost",
+      "word": "dolžnost",
+      "en": "dolžnost",
+      "ru": [
+        "долг",
+        "обязанность",
+        "сбор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "duty",
+      "sourceIds": [
+        "duty"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zasluziti",
+      "word": "zaslužiti",
+      "en": "zaslužiti",
+      "ru": [
+        "зарабатывать",
+        "заработать",
+        "заслуживать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "earn",
+      "sourceIds": [
+        "earn"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zasluzek",
+      "word": "zaslužek",
+      "en": "zaslužek",
+      "ru": [
+        "доход",
+        "заработок",
+        "прибыль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "earnings",
+      "sourceIds": [
+        "earnings"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ekonomski",
+      "word": "ekonomski",
+      "en": "ekonomski",
+      "ru": [
+        "хозяйственный",
+        "экономический"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "economic",
+      "sourceIds": [
+        "economic"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ekonomski",
+      "word": "ekonomski",
+      "en": "ekonomski",
+      "ru": [
+        "бережливый",
+        "экономный",
+        "экономичный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "economical",
+      "sourceIds": [
+        "economical"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "varcno",
+      "word": "varčno",
+      "en": "varčno",
+      "ru": [
+        "бережливо",
+        "расчётливо"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "economically",
+      "sourceIds": [
+        "economically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "ekonomija",
+      "word": "ekonomija",
+      "en": "ekonomija",
+      "ru": [
+        "экономика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "economics",
+      "sourceIds": [
+        "economics"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ekonomija",
+      "word": "ekonomija",
+      "en": "ekonomija",
+      "ru": [
+        "экономика",
+        "хозяйство"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "economy",
+      "sourceIds": [
+        "economy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lastniski-kapital",
+      "word": "lastniški kapital",
+      "en": "lastniški kapital",
+      "ru": [
+        "собственный капитал",
+        "акции"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "equity",
+      "sourceIds": [
+        "equity"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "evro",
+      "word": "evro",
+      "en": "evro",
+      "ru": [
+        "евро"
+      ],
+      "example": "Vsak evro šteje!",
+      "level": "B1",
+      "sourceId": "euro",
+      "sourceIds": [
+        "euro"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menjava",
+      "word": "menjava",
+      "en": "menjava",
+      "ru": [
+        "обмен",
+        "биржа",
+        "обмениваться"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "exchange",
+      "sourceIds": [
+        "exchange"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "drag",
+      "word": "drag",
+      "en": "drag",
+      "ru": [
+        "дорогой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "expensive",
+      "sourceIds": [
+        "expensive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "drago",
+      "word": "drago",
+      "en": "drago",
+      "ru": [
+        "дорого"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "expensively",
+      "sourceIds": [
+        "expensively"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "pristojbina",
+      "word": "pristojbina",
+      "en": "pristojbina",
+      "ru": [
+        "сбор",
+        "взнос",
+        "вознаграждение"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fee",
+      "sourceIds": [
+        "fee"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "financirati",
+      "word": "financirati",
+      "en": "financirati",
+      "ru": [
+        "финансы",
+        "профинансировать",
+        "финансировать"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "finance",
+      "sourceIds": [
+        "finance"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "financni",
+      "word": "finančni",
+      "en": "finančni",
+      "ru": [
+        "финансовый"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "financial",
+      "sourceIds": [
+        "financial"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "financno",
+      "word": "finančno",
+      "en": "finančno",
+      "ru": [
+        "финансово"
+      ],
+      "example": "Moj oče mi bo pomagal finančno.",
+      "level": "C2",
+      "sourceId": "financially",
+      "sourceIds": [
+        "financially"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fiskalen",
+      "word": "fiskalen",
+      "en": "fiskalen",
+      "ru": [
+        "фискальный",
+        "финансовый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fiscal",
+      "sourceIds": [
+        "fiscal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sklad",
+      "word": "sklad",
+      "en": "sklad",
+      "ru": [
+        "капитал",
+        "фонд",
+        "профинансировать"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fund",
+      "sourceIds": [
+        "fund"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "financiranje",
+      "word": "financiranje",
+      "en": "financiranje",
+      "ru": [
+        "финансирование"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "funding",
+      "sourceIds": [
+        "funding"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "sklad",
+      "word": "sklad",
+      "en": "sklad",
+      "ru": [
+        "ресурс",
+        "средство",
+        "фонд"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "funds",
+      "sourceIds": [
+        "funds"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nepovratna-sredstva",
+      "word": "nepovratna sredstva",
+      "en": "nepovratna sredstva",
+      "ru": [
+        "грант",
+        "субсидия",
+        "дарение"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "grant",
+      "sourceIds": [
+        "grant"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "resda",
+      "word": "resda",
+      "en": "resda",
+      "ru": [
+        "действительно",
+        "правда",
+        "согласен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "granted",
+      "sourceIds": [
+        "granted"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "dohodek",
+      "word": "dohodek",
+      "en": "dohodek",
+      "ru": [
+        "доход",
+        "заработок",
+        "поступления"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "income",
+      "sourceIds": [
+        "income"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "obrok",
+      "word": "obrok",
+      "en": "obrok",
+      "ru": [
+        "взнос",
+        "рассрочка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "installment",
+      "sourceIds": [
+        "installment"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zavarovanje",
+      "word": "zavarovanje",
+      "en": "zavarovanje",
+      "ru": [
+        "страховка",
+        "страхование"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "insurance",
+      "sourceIds": [
+        "insurance"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "interes",
+      "word": "interes",
+      "en": "interes",
+      "ru": [
+        "процент",
+        "ставка",
+        "интерес"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "interest",
+      "sourceIds": [
+        "interest"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "brezobresten",
+      "word": "brezobresten",
+      "en": "brezobresten",
+      "ru": [
+        "беспроцентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "interest-free",
+      "sourceIds": [
+        "interest-free"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zainteresiran",
+      "word": "zainteresiran",
+      "en": "zainteresiran",
+      "ru": [
+        "заинтересованный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "interested",
+      "sourceIds": [
+        "interested"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zainteresirano",
+      "word": "zainteresirano",
+      "en": "zainteresirano",
+      "ru": [
+        "заинтересованно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "interestedly",
+      "sourceIds": [
+        "interestedly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "vlagati",
+      "word": "vlagati",
+      "en": "vlagati",
+      "ru": [
+        "вкладывать",
+        "вложить",
+        "покрыть"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "invest",
+      "sourceIds": [
+        "invest"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "investicija",
+      "word": "investicija",
+      "en": "investicija",
+      "ru": [
+        "инвестирование",
+        "инвестиция",
+        "вклад"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "investment",
+      "sourceIds": [
+        "investment"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "investitor",
+      "word": "investitor",
+      "en": "investitor",
+      "ru": [
+        "вкладчик",
+        "вкладчица",
+        "инвестор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "investor",
+      "sourceIds": [
+        "investor"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "faktura",
+      "word": "faktura",
+      "en": "faktura",
+      "ru": [
+        "счёт",
+        "инвойс",
+        "накладная"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "invoice",
+      "sourceIds": [
+        "invoice"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pomanjkanje",
+      "word": "pomanjkanje",
+      "en": "pomanjkanje",
+      "ru": [
+        "нехватка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lack",
+      "sourceIds": [
+        "lack"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "obveznost",
+      "word": "obveznost",
+      "en": "obveznost",
+      "ru": [
+        "долг",
+        "задолженность",
+        "обязательство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liability",
+      "sourceIds": [
+        "liability"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kredit",
+      "word": "kredit",
+      "en": "kredit",
+      "ru": [
+        "заём",
+        "кредит",
+        "ссуда"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "loan",
+      "sourceIds": [
+        "loan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "izguba",
+      "word": "izguba",
+      "en": "izguba",
+      "ru": [
+        "потеря",
+        "пропажа",
+        "утеря"
+      ],
+      "example": "Brez dvoma je to življenje bolj izguba kot dobiček.",
+      "level": "A2",
+      "sourceId": "loss",
+      "sourceIds": [
+        "loss"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milijonar",
+      "word": "milijonar",
+      "en": "milijonar",
+      "ru": [
+        "миллионер",
+        "миллионерша"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "millionaire",
+      "sourceIds": [
+        "millionaire"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "denar",
+      "word": "denar",
+      "en": "denar",
+      "ru": [
+        "деньги",
+        "валюта",
+        "средства"
+      ],
+      "example": "Denar ne raste na drevesu.",
+      "level": "A1",
+      "sourceId": "money",
+      "sourceIds": [
+        "money"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hipoteka",
+      "word": "hipoteka",
+      "en": "hipoteka",
+      "ru": [
+        "ипотека"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "mortgage",
+      "sourceIds": [
+        "mortgage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zavarovan-s-hipoteko",
+      "word": "zavarovan s hipoteko",
+      "en": "zavarovan s hipoteko",
+      "ru": [
+        "обеспечиваемый ипотекой"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "mortgage-backed",
+      "sourceIds": [
+        "mortgage-backed"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "placati",
+      "word": "plačati",
+      "en": "plačati",
+      "ru": [
+        "платить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "pay",
+      "sourceIds": [
+        "pay"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "placilo",
+      "word": "plačilo",
+      "en": "plačilo",
+      "ru": [
+        "платёж",
+        "оплата",
+        "плата"
+      ],
+      "example": "Plačilo zapade z današnjim dnem.",
+      "level": "A1",
+      "sourceId": "payment",
+      "sourceIds": [
+        "payment"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pokojnina",
+      "word": "pokojnina",
+      "en": "pokojnina",
+      "ru": [
+        "пенсия"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "pension",
+      "sourceIds": [
+        "pension"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "upokojenec",
+      "word": "upokojenec",
+      "en": "upokojenec",
+      "ru": [
+        "пенсионер",
+        "пенсионерка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "pensioner",
+      "sourceIds": [
+        "pensioner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odstotek",
+      "word": "odstotek",
+      "en": "odstotek",
+      "ru": [
+        "процент"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odstotek",
+      "word": "odstotek",
+      "en": "odstotek",
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "percentil",
+      "word": "percentil",
+      "en": "percentil",
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odstoten",
+      "word": "odstoten",
+      "en": "odstoten",
+      "ru": [
+        "процентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "reven",
+      "word": "reven",
+      "en": "reven",
+      "ru": [
+        "бедный",
+        "малоимущий"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "poor",
+      "sourceIds": [
+        "poor"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "funt",
+      "word": "funt",
+      "en": "funt",
+      "ru": [
+        "фунт стерлингов"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "pound",
+      "sourceIds": [
+        "pound",
+        "quid"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "revscina",
+      "word": "revščina",
+      "en": "revščina",
+      "ru": [
+        "бедность",
+        "беднота",
+        "недостаток"
+      ],
+      "example": "Revščina je siva, zlato rumena je barva bogastva.",
+      "level": "B1",
+      "sourceId": "poverty",
+      "sourceIds": [
+        "poverty"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cena",
+      "word": "cena",
+      "en": "cena",
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "example": "Cena mesa padla.",
+      "level": "A1",
+      "sourceId": "price",
+      "sourceIds": [
+        "price"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dobicek",
+      "word": "dobiček",
+      "en": "dobiček",
+      "ru": [
+        "выгода",
+        "доход",
+        "нажива"
+      ],
+      "example": "Brez dvoma je to življenje bolj izguba kot dobiček.",
+      "level": "B1",
+      "sourceId": "profit",
+      "sourceIds": [
+        "profit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lastnina",
+      "word": "lastnina",
+      "en": "lastnina",
+      "ru": [
+        "имущество",
+        "собственность",
+        "недвижимость"
+      ],
+      "example": "Ta zemljišča je moja lastnina.",
+      "level": "A1",
+      "sourceId": "property",
+      "sourceIds": [
+        "property"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "denarnica",
+      "word": "denarnica",
+      "en": "denarnica",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "мошна"
+      ],
+      "example": "Moja denarnica je bila ukradla, zaradi tega moram poklicati policijo.",
+      "level": "A2",
+      "sourceId": "purse",
+      "sourceIds": [
+        "purse"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stopnja",
+      "word": "stopnja",
+      "en": "stopnja",
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ocena",
+      "word": "ocena",
+      "en": "ocena",
+      "ru": [
+        "рейтинг"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "rating",
+      "sourceIds": [
+        "rating"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "potrdilo",
+      "word": "potrdilo",
+      "en": "potrdilo",
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "receipt",
+      "sourceIds": [
+        "receipt"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "vracilo-denarja",
+      "word": "vračilo denarja",
+      "en": "vračilo denarja",
+      "ru": [
+        "возврат",
+        "возвращённая сумма",
+        "возмещение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "refund",
+      "sourceIds": [
+        "refund"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "pokojnina",
+      "word": "pokojnina",
+      "en": "pokojnina",
+      "ru": [
+        "выход на пенсию",
+        "пенсия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "retirement",
+      "sourceIds": [
+        "retirement"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prihodek",
+      "word": "prihodek",
+      "en": "prihodek",
+      "ru": [
+        "доход",
+        "выручка",
+        "поступление"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "revenue",
+      "sourceIds": [
+        "revenue"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bogat",
+      "word": "bogàt",
+      "en": "bogàt",
+      "ru": [
+        "богатый",
+        "зажиточный",
+        "имущий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rich",
+      "sourceIds": [
+        "rich"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bogastvo",
+      "word": "bogastvo",
+      "en": "bogastvo",
+      "ru": [
+        "богатство"
+      ],
+      "example": "Bogastvo ima svoje prednosti.",
+      "level": "C2",
+      "sourceId": "riches",
+      "sourceIds": [
+        "riches"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bogato",
+      "word": "bogato",
+      "en": "bogato",
+      "ru": [
+        "богато"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "richly",
+      "sourceIds": [
+        "richly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "varen",
+      "word": "varen",
+      "en": "varen",
+      "ru": [
+        "в безопасности",
+        "безопасный",
+        "сейф"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "safe",
+      "sourceIds": [
+        "safe"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "placa",
+      "word": "plača",
+      "en": "plača",
+      "ru": [
+        "зарплата",
+        "жалование",
+        "заработная плата"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "salary",
+      "sourceIds": [
+        "salary"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "shraniti",
+      "word": "shraniti",
+      "en": "shraniti",
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "save",
+      "sourceIds": [
+        "save"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "varcevanje",
+      "word": "varčevanje",
+      "en": "varčevanje",
+      "ru": [
+        "экономия",
+        "накопление",
+        "сбережение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "saving",
+      "sourceIds": [
+        "saving"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "deliti",
+      "word": "deliti",
+      "en": "deliti",
+      "ru": [
+        "делиться"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "share",
+      "sourceIds": [
+        "share"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "skupen",
+      "word": "skupen",
+      "en": "skupen",
+      "ru": [
+        "общий",
+        "совместный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shared",
+      "sourceIds": [
+        "shared"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "del",
+      "word": "del",
+      "en": "del",
+      "ru": [
+        "раздел",
+        "разделение"
+      ],
+      "example": "Dobra, domača goveja juha je nepogrešljiv del nedeljskega kosila.",
+      "level": "B1",
+      "sourceId": "sharing",
+      "sourceIds": [
+        "sharing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zapravljati",
+      "word": "zapravljati",
+      "en": "zapravljati",
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spend",
+      "sourceIds": [
+        "spend"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "funt-sterling",
+      "word": "funt šterling",
+      "en": "funt šterling",
+      "ru": [
+        "стерлинг",
+        "фунт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sterling",
+      "sourceIds": [
+        "sterling"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zaloga",
+      "word": "zaloga",
+      "en": "zaloga",
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "stock",
+      "sourceIds": [
+        "stock"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "delnice",
+      "word": "delnice",
+      "en": "delnice",
+      "ru": [
+        "акции"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stocks",
+      "sourceIds": [
+        "stocks"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "davek",
+      "word": "davek",
+      "en": "davek",
+      "ru": [
+        "налог",
+        "дань",
+        "подать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "tax",
+      "sourceIds": [
+        "tax"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "napitnina",
+      "word": "napitnina",
+      "en": "napitnina",
+      "ru": [
+        "чаевые"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tip",
+      "sourceIds": [
+        "tip"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cestnina",
+      "word": "cestnina",
+      "en": "cestnina",
+      "ru": [
+        "плата",
+        "пошлина",
+        "сбор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "toll",
+      "sourceIds": [
+        "toll"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "transakcija",
+      "word": "transakcija",
+      "en": "transakcija",
+      "ru": [
+        "сделка",
+        "операция",
+        "проводка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "transaction",
+      "sourceIds": [
+        "transaction"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "transakcijski",
+      "word": "transakcijski",
+      "en": "transakcijski",
+      "ru": [
+        "трансактный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "transactional",
+      "sourceIds": [
+        "transactional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prenos",
+      "word": "prenos",
+      "en": "prenos",
+      "ru": [
+        "перевод",
+        "передача",
+        "переход"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "transfer",
+      "sourceIds": [
+        "transfer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vrednost",
+      "word": "vrednost",
+      "en": "vrednost",
+      "ru": [
+        "ценность",
+        "важность",
+        "значение"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "value",
+      "sourceIds": [
+        "value"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ddv",
+      "word": "DDV",
+      "en": "DDV",
+      "ru": [
+        "НДС"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "vat",
+      "sourceIds": [
+        "vat"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "placa",
+      "word": "plača",
+      "en": "plača",
+      "ru": [
+        "жалование",
+        "заработная плата",
+        "заработок"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "wage",
+      "sourceIds": [
+        "wage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "denarnica",
+      "word": "denarnica",
+      "en": "denarnica",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "портмоне"
+      ],
+      "example": "Moja denarnica je bila ukradla, zaradi tega moram poklicati policijo.",
+      "level": "A2",
+      "sourceId": "wallet",
+      "sourceIds": [
+        "wallet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bogastvo",
+      "word": "bogastvo",
+      "en": "bogastvo",
+      "ru": [
+        "благосостояние",
+        "богатство",
+        "изобилие"
+      ],
+      "example": "Bogastvo ima svoje prednosti.",
+      "level": "B2",
+      "sourceId": "wealth",
+      "sourceIds": [
+        "wealth"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umakniti",
+      "word": "umakniti",
+      "en": "umakniti",
+      "ru": [
+        "брать назад",
+        "забирать",
+        "забрать"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "withdraw",
+      "sourceIds": [
+        "withdraw"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "dvig",
+      "word": "dvig",
+      "en": "dvig",
+      "ru": [
+        "вывод",
+        "снятие"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "withdrawal",
+      "sourceIds": [
+        "withdrawal"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zaprt-vase",
+      "word": "zaprt vase",
+      "en": "zaprt vase",
+      "ru": [
+        "бука",
+        "затворник"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "withdrawn",
+      "sourceIds": [
+        "withdrawn"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "vreden",
+      "word": "vreden",
+      "en": "vreden",
+      "ru": [
+        "заслуживающий",
+        "стоить",
+        "стоящий"
+      ],
+      "example": "Kdor z malim ni zadovoljen, velikega vreden ni.",
+      "level": "A2",
+      "sourceId": "worth",
+      "sourceIds": [
+        "worth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "povprecni-prihodek-na-uporabnika",
+      "word": "povprečni prihodek na uporabnika",
+      "en": "povprečni prihodek na uporabnika",
+      "ru": [
+        "средняя выручка на одного пользователя"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "arpu",
+      "sourceIds": [
+        "arpu"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kanibalizacija",
+      "word": "kanibalizacija",
+      "en": "kanibalizacija",
+      "ru": [
+        "каннибализация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cannibalization",
+      "sourceIds": [
+        "cannibalization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "denarni-tok",
+      "word": "denarni tok",
+      "en": "denarni tok",
+      "ru": [
+        "денежный поток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cashflow",
+      "sourceIds": [
+        "cashflow"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "medtrzen",
+      "word": "medtržen",
+      "en": "medtržen",
+      "ru": [
+        "межрыночный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cross-market",
+      "sourceIds": [
+        "cross-market"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "freemium",
+      "word": "freemium",
+      "en": "freemium",
+      "ru": [
+        "фримиум"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "freemium",
+      "sourceIds": [
+        "freemium"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "investitor",
+      "word": "investitor",
+      "en": "investitor",
+      "ru": [
+        "инвестиционного уровня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "investor-grade",
+      "sourceIds": [
+        "investor-grade"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "poznavanje-stranke",
+      "word": "poznavanje stranke",
+      "en": "poznavanje stranke",
+      "ru": [
+        "знай своего клиента",
+        "идентификация клиента"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kyc",
+      "sourceIds": [
+        "kyc"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "monetizacija",
+      "word": "monetizacija",
+      "en": "monetizacija",
+      "ru": [
+        "монетизация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "monetization",
+      "sourceIds": [
+        "monetization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "transakcija-s-kodo-qr",
+      "word": "transakcija s kodo QR",
+      "en": "transakcija s kodo QR",
+      "ru": [
+        "транзакция по QR-коду"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "qr-transaction",
+      "sourceIds": [
+        "qr-transaction"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prodajen",
+      "word": "prodajen",
+      "en": "prodajen",
+      "ru": [
+        "ликвидный",
+        "пригодный для продажи"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sellable",
+      "sourceIds": [
+        "sellable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "promet",
+      "word": "promet",
+      "en": "promet",
+      "ru": [
+        "оборот"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "turnover",
+      "sourceIds": [
+        "turnover"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "siling",
+      "word": "šiling",
+      "en": "šiling",
+      "ru": [
+        "шиллинг"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shilling",
+      "sourceIds": [
+        "shilling"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dolgovati",
+      "word": "dolgovati",
+      "en": "dolgovati",
+      "ru": [
+        "быть должным"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "owe",
+      "sourceIds": [
+        "owe"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "dolar",
+      "word": "dolar",
+      "en": "dolar",
+      "ru": [
+        "доллар",
+        "самец оленя"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "buck",
+      "sourceIds": [
+        "buck"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "razvrednotiti",
+      "word": "razvrednotiti",
+      "en": "razvrednotiti",
+      "ru": [
+        "удешевлять",
+        "обесценивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheapen",
+      "sourceIds": [
+        "cheapen"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "bogastvo",
+      "word": "bogastvo",
+      "en": "bogastvo",
+      "ru": [
+        "удача",
+        "состояние"
+      ],
+      "example": "Bogastvo ima svoje prednosti.",
+      "level": "B1",
+      "sourceId": "fortune",
+      "sourceIds": [
+        "fortune"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sop",
+      "word": "šop",
+      "en": "šop",
+      "ru": [
+        "пачка",
+        "комок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wad",
+      "sourceIds": [
+        "wad"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zastavljalnica",
+      "word": "zastavljalnica",
+      "en": "zastavljalnica",
+      "ru": [
+        "ломбард"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pawnshop",
+      "sourceIds": [
+        "pawnshop"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prodajni-salon",
+      "word": "prodajni salon",
+      "en": "prodajni salon",
+      "ru": [
+        "дилерский центр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dealership",
+      "sourceIds": [
+        "dealership"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cekovna-knjizica",
+      "word": "čekovna knjižica",
+      "en": "čekovna knjižica",
+      "ru": [
+        "чековая книжка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "checkbook",
+      "sourceIds": [
+        "checkbook"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "donosen",
+      "word": "donosen",
+      "en": "donosen",
+      "ru": [
+        "выгодный",
+        "прибыльный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "profitable",
+      "sourceIds": [
+        "profitable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "donosen",
+      "word": "donosen",
+      "en": "donosen",
+      "ru": [
+        "прибыльный",
+        "выгодный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gainful",
+      "sourceIds": [
+        "gainful"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "izkupicek",
+      "word": "izkupiček",
+      "en": "izkupiček",
+      "ru": [
+        "выручка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "takings",
+      "sourceIds": [
+        "takings"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "premozen",
+      "word": "premožen",
+      "en": "premožen",
+      "ru": [
+        "богатый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wealthy",
+      "sourceIds": [
+        "wealthy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "loterija",
+      "word": "loterija",
+      "en": "loterija",
+      "ru": [
+        "лотерея"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lottery",
+      "sourceIds": [
+        "lottery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "delnicar",
+      "word": "delničar",
+      "en": "delničar",
+      "ru": [
+        "акционер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shareholder",
+      "sourceIds": [
+        "shareholder"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "staviti",
+      "word": "staviti",
+      "en": "staviti",
+      "ru": [
+        "держать пари",
+        "делать ставку"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bet",
+      "sourceIds": [
+        "bet"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zakladnica",
+      "word": "zakladnica",
+      "en": "zakladnica",
+      "ru": [
+        "казначейство",
+        "казна"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "treasury",
+      "sourceIds": [
+        "treasury"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "izdatek",
+      "word": "izdatek",
+      "en": "izdatek",
+      "ru": [
+        "расход",
+        "трата"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "expense",
+      "sourceIds": [
+        "expense"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sposoditi",
+      "word": "sposoditi",
+      "en": "sposoditi",
+      "ru": [
+        "занимать",
+        "брать взаймы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "borrow",
+      "sourceIds": [
+        "borrow"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zapravljivost",
+      "word": "zapravljivost",
+      "en": "zapravljivost",
+      "ru": [
+        "расточительность",
+        "экстравагантность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "extravagance",
+      "sourceIds": [
+        "extravagance"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "dobro-nalozen",
+      "word": "dobro naložen",
+      "en": "dobro naložen",
+      "ru": [
+        "хорошо вложенный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "well-invested",
+      "sourceIds": [
+        "well-invested"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zapravljivec",
+      "word": "zapravljivec",
+      "en": "zapravljivec",
+      "ru": [
+        "расточитель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spendthrift",
+      "sourceIds": [
+        "spendthrift"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "oropati",
+      "word": "oropati",
+      "en": "oropati",
+      "ru": [
+        "грабить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rob",
+      "sourceIds": [
+        "rob"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "podkupiti",
+      "word": "podkupiti",
+      "en": "podkupiti",
+      "ru": [
+        "давать взятку"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bribe",
+      "sourceIds": [
+        "bribe"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "peni",
+      "word": "peni",
+      "en": "peni",
+      "ru": [
+        "пенни"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "penny",
+      "sourceIds": [
+        "penny"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tajkun",
+      "word": "tajkun",
+      "en": "tajkun",
+      "ru": [
+        "магнат"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tycoon",
+      "sourceIds": [
+        "tycoon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "z-regulirano-najemnino",
+      "word": "z regulirano najemnino",
+      "en": "z regulirano najemnino",
+      "ru": [
+        "с регулируемой арендной платой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rent-controlled",
+      "sourceIds": [
+        "rent-controlled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "posrednik",
+      "word": "posrednik",
+      "en": "posrednik",
+      "ru": [
+        "брокер",
+        "посредник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "broker",
+      "sourceIds": [
+        "broker"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "glavna-knjiga",
+      "word": "glavna knjiga",
+      "en": "glavna knjiga",
+      "ru": [
+        "бухгалтерская книга"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ledger",
+      "sourceIds": [
+        "ledger"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zaseci",
+      "word": "zaseči",
+      "en": "zaseči",
+      "ru": [
+        "конфисковать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "confiscate",
+      "sourceIds": [
+        "confiscate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "posoditi",
+      "word": "posoditi",
+      "en": "posoditi",
+      "ru": [
+        "одалживать",
+        "давать взаймы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lend",
+      "sourceIds": [
+        "lend"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "prati-denar",
+      "word": "prati denar",
+      "en": "prati denar",
+      "ru": [
+        "отмывать (деньги)",
+        "стирать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "launder",
+      "sourceIds": [
+        "launder"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "pristojnost",
+      "word": "pristojnost",
+      "en": "pristojnost",
+      "ru": [
+        "круг полномочий",
+        "компетенция",
+        "ведение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "remit",
+      "sourceIds": [
+        "remit"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bankovec-za-pet-funtov",
+      "word": "bankovec za pet funtov",
+      "en": "bankovec za pet funtov",
+      "ru": [
+        "пятифунтовая купюра"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fiver",
+      "sourceIds": [
+        "fiver"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kockati",
+      "word": "kockati",
+      "en": "kockati",
+      "ru": [
+        "рисковать",
+        "играть в азартные игры"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gamble",
+      "sourceIds": [
+        "gamble"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "najeti",
+      "word": "najeti",
+      "en": "najeti",
+      "ru": [
+        "арендовать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lease",
+      "sourceIds": [
+        "lease"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kovanec-za-deset-centov",
+      "word": "kovanec za deset centov",
+      "en": "kovanec za deset centov",
+      "ru": [
+        "десятицентовик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dime",
+      "sourceIds": [
+        "dime"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kreditna-kartica",
+      "word": "kreditna kartica",
+      "en": "kreditna kartica",
+      "ru": [
+        "кредитная карта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "credit-card",
+      "sourceIds": [
+        "credit-card"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prevara",
+      "word": "prevara",
+      "en": "prevara",
+      "ru": [
+        "мошенничество",
+        "афера"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "scam",
+      "sourceIds": [
+        "scam"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "izposojenec",
+      "word": "izposojenec",
+      "en": "izposojenec",
+      "ru": [
+        "заемщик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "loanee",
+      "sourceIds": [
+        "loanee"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "trosarina",
+      "word": "trošarina",
+      "en": "trošarina",
+      "ru": [
+        "акциз",
+        "акцизный сбор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "excise",
+      "sourceIds": [
+        "excise"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zapravljivec",
+      "word": "zapravljivec",
+      "en": "zapravljivec",
+      "ru": [
+        "транжира",
+        "покупатель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spender",
+      "sourceIds": [
+        "spender"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "izgubiti-vrednost",
+      "word": "izgubiti vrednost",
+      "en": "izgubiti vrednost",
+      "ru": [
+        "обесцениваться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "depreciate",
+      "sourceIds": [
+        "depreciate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "likvidacija",
+      "word": "likvidacija",
+      "en": "likvidacija",
+      "ru": [
+        "ликвидация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquidation",
+      "sourceIds": [
+        "liquidation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "amortizacija",
+      "word": "amortizacija",
+      "en": "amortizacija",
+      "ru": [
+        "обесценивание"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "depreciation",
+      "sourceIds": [
+        "depreciation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "recesija",
+      "word": "recesija",
+      "en": "recesija",
+      "ru": [
+        "спад",
+        "рецессия"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "recession",
+      "sourceIds": [
+        "recession"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "izsiljevanje",
+      "word": "izsiljevanje",
+      "en": "izsiljevanje",
+      "ru": [
+        "вымогательство",
+        "обыск"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shakedown",
+      "sourceIds": [
+        "shakedown"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "offshore",
+      "word": "offshore",
+      "en": "offshore",
+      "ru": [
+        "офшорный",
+        "прибрежный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "offshore",
+      "sourceIds": [
+        "offshore"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "placilo",
+      "word": "plačilo",
+      "en": "plačilo",
+      "ru": [
+        "выплата"
+      ],
+      "example": "Plačilo zapade z današnjim dnem.",
+      "level": "B1",
+      "sourceId": "payout",
+      "sourceIds": [
+        "payout"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zbiranje-sredstev",
+      "word": "zbiranje sredstev",
+      "en": "zbiranje sredstev",
+      "ru": [
+        "сбор средств",
+        "мероприятие по сбору средств"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fundraiser",
+      "sourceIds": [
+        "fundraiser"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "poneveriti",
+      "word": "poneveriti",
+      "en": "poneveriti",
+      "ru": [
+        "растрачивать",
+        "присваивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "embezzle",
+      "sourceIds": [
+        "embezzle"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "placati-varscino",
+      "word": "plačati varščino",
+      "en": "plačati varščino",
+      "ru": [
+        "выходить под залог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bail",
+      "sourceIds": [
+        "bail"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "cek",
+      "word": "ček",
+      "en": "ček",
+      "ru": [
+        "чек"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cheque",
+      "sourceIds": [
+        "cheque"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "porabljen",
+      "word": "porabljen",
+      "en": "porabljen",
+      "ru": [
+        "потраченный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spent",
+      "sourceIds": [
+        "spent"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zaplemba",
+      "word": "zaplemba",
+      "en": "zaplemba",
+      "ru": [
+        "лишение права выкупа заложенного имущества"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "foreclosure",
+      "sourceIds": [
+        "foreclosure"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nizkoobresten",
+      "word": "nizkoobresten",
+      "en": "nizkoobresten",
+      "ru": [
+        "низкопроцентный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "low-interest",
+      "sourceIds": [
+        "low-interest"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "milijonski",
+      "word": "milijonski",
+      "en": "milijonski",
+      "ru": [
+        "миллионный",
+        "очень дорогой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "million-dollar",
+      "sourceIds": [
+        "million-dollar"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "predplacniski",
+      "word": "predplačniški",
+      "en": "predplačniški",
+      "ru": [
+        "предоплатный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pay-as-you-go",
+      "sourceIds": [
+        "pay-as-you-go"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bankomat",
+      "word": "bankomat",
+      "en": "bankomat",
+      "ru": [
+        "банкомат"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "atm",
+      "sourceIds": [
+        "atm"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dobro-kapitaliziran",
+      "word": "dobro kapitaliziran",
+      "en": "dobro kapitaliziran",
+      "ru": [
+        "хорошо капитализированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "well-capitalized",
+      "sourceIds": [
+        "well-capitalized"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "poceni",
+      "word": "poceni",
+      "en": "poceni",
+      "ru": [
+        "недорогой",
+        "бюджетный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "low-dollar",
+      "sourceIds": [
+        "low-dollar"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "donosen",
+      "word": "donosen",
+      "en": "donosen",
+      "ru": [
+        "прибыльный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lucrative",
+      "sourceIds": [
+        "lucrative"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prezivnina",
+      "word": "preživnina",
+      "en": "preživnina",
+      "ru": [
+        "алименты"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "alimony",
+      "sourceIds": [
+        "alimony"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nizati-cene",
+      "word": "nižati cene",
+      "en": "nižati cene",
+      "ru": [
+        "подрезать",
+        "сбивать цены"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercut",
+      "sourceIds": [
+        "undercut"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "pezo",
+      "word": "pezo",
+      "en": "pezo",
+      "ru": [
+        "песо"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peso",
+      "sourceIds": [
+        "peso"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "varcnost",
+      "word": "varčnost",
+      "en": "varčnost",
+      "ru": [
+        "бережливость",
+        "экономность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frugality",
+      "sourceIds": [
+        "frugality"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "povrniti",
+      "word": "povrniti",
+      "en": "povrniti",
+      "ru": [
+        "возмещать",
+        "окупать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "recoup",
+      "sourceIds": [
+        "recoup"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "bogat-z-gotovino",
+      "word": "bogat z gotovino",
+      "en": "bogat z gotovino",
+      "ru": [
+        "богатый наличными"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cash-rich",
+      "sourceIds": [
+        "cash-rich"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "likvidirati",
+      "word": "likvidirati",
+      "en": "likvidirati",
+      "ru": [
+        "ликвидировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquidate",
+      "sourceIds": [
+        "liquidate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "podkapitaliziran",
+      "word": "podkapitaliziran",
+      "en": "podkapitaliziran",
+      "ru": [
+        "недокапитализированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercapitalized",
+      "sourceIds": [
+        "undercapitalized"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "likvidnost",
+      "word": "likvidnost",
+      "en": "likvidnost",
+      "ru": [
+        "ликвидность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "liquidity",
+      "sourceIds": [
+        "liquidity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "izsiljevati",
+      "word": "izsiljevati",
+      "en": "izsiljevati",
+      "ru": [
+        "вымогать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "extort",
+      "sourceIds": [
+        "extort"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zapadel",
+      "word": "zapadel",
+      "en": "zapadel",
+      "ru": [
+        "просроченный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "delinquent",
+      "sourceIds": [
+        "delinquent"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zastavna-pravica",
+      "word": "zastavna pravica",
+      "en": "zastavna pravica",
+      "ru": [
+        "право удержания имущества"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lien",
+      "sourceIds": [
+        "lien"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ponovno-investirati",
+      "word": "ponovno investirati",
+      "en": "ponovno investirati",
+      "ru": [
+        "реинвестировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reinvest",
+      "sourceIds": [
+        "reinvest"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "neposteno-pridobljen",
+      "word": "nepošteno pridobljen",
+      "en": "nepošteno pridobljen",
+      "ru": [
+        "нечестно нажитый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ill-gotten",
+      "sourceIds": [
+        "ill-gotten"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zastaviti",
+      "word": "zastaviti",
+      "en": "zastaviti",
+      "ru": [
+        "закладывать в ломбард"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hock",
+      "sourceIds": [
+        "hock"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "unovciti",
+      "word": "unovčiti",
+      "en": "unovčiti",
+      "ru": [
+        "использовать с выгодой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parlay",
+      "sourceIds": [
+        "parlay"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "prezivetje",
+      "word": "preživetje",
+      "en": "preživetje",
+      "ru": [
+        "средства к существованию"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "livelihood",
+      "sourceIds": [
+        "livelihood"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "zaseci",
+      "word": "zaseči",
+      "en": "zaseči",
+      "ru": [
+        "конфисковать",
+        "задерживать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "impound",
+      "sourceIds": [
+        "impound"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zavarovati",
+      "word": "zavarovati",
+      "en": "zavarovati",
+      "ru": [
+        "страховать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "insure",
+      "sourceIds": [
+        "insure"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "davkoplacevalec",
+      "word": "davkoplačevalec",
+      "en": "davkoplačevalec",
+      "ru": [
+        "налогоплательщик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "taxpayer",
+      "sourceIds": [
+        "taxpayer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "odbitna-fransiza",
+      "word": "odbitna franšiza",
+      "en": "odbitna franšiza",
+      "ru": [
+        "франшиза",
+        "вычитаемый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "deductible",
+      "sourceIds": [
+        "deductible"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "brezplacen",
+      "word": "brezplačen",
+      "en": "brezplačen",
+      "ru": [
+        "компенсация",
+        "бесплатный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "comp",
+      "sourceIds": [
+        "comp"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zepnina",
+      "word": "žepnina",
+      "en": "žepnina",
+      "ru": [
+        "карманные деньги",
+        "пособие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "allowance",
+      "sourceIds": [
+        "allowance"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "povisica",
+      "word": "povišica",
+      "en": "povišica",
+      "ru": [
+        "повышение зарплаты"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pay-raise",
+      "sourceIds": [
+        "pay-raise"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "placilni-dan",
+      "word": "plačilni dan",
+      "en": "plačilni dan",
+      "ru": [
+        "день зарплаты"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "payday",
+      "sourceIds": [
+        "payday"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nabirati-se",
+      "word": "nabirati se",
+      "en": "nabirati se",
+      "ru": [
+        "накапливаться",
+        "нарастать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "accrue",
+      "sourceIds": [
+        "accrue"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "hranitelj",
+      "word": "hranitelj",
+      "en": "hranitelj",
+      "ru": [
+        "кормилец",
+        "зарабатывающий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "earner",
+      "sourceIds": [
+        "earner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nikelj",
+      "word": "nikelj",
+      "en": "nikelj",
+      "ru": [
+        "никель",
+        "пять центов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nickel",
+      "sourceIds": [
+        "nickel"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

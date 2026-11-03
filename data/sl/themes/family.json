@@ -1,0 +1,2155 @@
+{
+  "id": "family",
+  "title": "Семья",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "posvojiti",
+      "word": "posvojiti",
+      "en": "posvojiti",
+      "ru": [
+        "усыновить",
+        "усыновлять",
+        "удочерить"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "adopt",
+      "sourceIds": [
+        "adopt"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "posvojitev",
+      "word": "posvojitev",
+      "en": "posvojitev",
+      "ru": [
+        "усыновление",
+        "адопция",
+        "удочерение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "adoption",
+      "sourceIds": [
+        "adoption"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "odraslost",
+      "word": "odraslost",
+      "en": "odraslost",
+      "ru": [
+        "взрослая жизнь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "adulthood",
+      "sourceIds": [
+        "adulthood"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "prednik",
+      "word": "prédnik",
+      "en": "prédnik",
+      "ru": [
+        "пращур",
+        "праотец",
+        "прародитель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ancestor",
+      "sourceIds": [
+        "ancestor"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "obletnica",
+      "word": "obletnica",
+      "en": "obletnica",
+      "ru": [
+        "годовщина",
+        "юбилей"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "anniversary",
+      "sourceIds": [
+        "anniversary"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "teta",
+      "word": "teta",
+      "en": "teta",
+      "ru": [
+        "тётя",
+        "тётка",
+        "тётушка"
+      ],
+      "example": "Moja teta živi v New Yorku.",
+      "level": "A1",
+      "sourceId": "aunt",
+      "sourceIds": [
+        "aunt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dojencek",
+      "word": "dojenček",
+      "en": "dojenček",
+      "ru": [
+        "ребёнок",
+        "младенец",
+        "беби"
+      ],
+      "example": "Dojenček mirno spi.",
+      "level": "A1",
+      "sourceId": "baby",
+      "sourceIds": [
+        "baby"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rojstvo",
+      "word": "rojstvo",
+      "en": "rojstvo",
+      "ru": [
+        "роды",
+        "рождение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "birth",
+      "sourceIds": [
+        "birth"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "rojen",
+      "word": "rojen",
+      "en": "rojen",
+      "ru": [
+        "урождённый",
+        "родившийся",
+        "рождённый"
+      ],
+      "example": "Slovenska pevka Maja Keuc je bila rojena leta 1992.",
+      "level": "A2",
+      "sourceId": "born",
+      "sourceIds": [
+        "born"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "razhod",
+      "word": "razhod",
+      "en": "razhod",
+      "ru": [
+        "расставаться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "breaking-up",
+      "sourceIds": [
+        "breaking-up"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nevesta",
+      "word": "nevesta",
+      "en": "nevesta",
+      "ru": [
+        "невеста",
+        "молодая",
+        "новобрачная"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "bride",
+      "sourceIds": [
+        "bride"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "brat",
+      "word": "brat",
+      "en": "brat",
+      "ru": [
+        "брат",
+        "братец",
+        "братан"
+      ],
+      "example": "Kajn, kje je tvoj brat Abel?",
+      "level": "A1",
+      "sourceId": "brother",
+      "sourceIds": [
+        "brother"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bratstvo",
+      "word": "bràtstvo",
+      "en": "bràtstvo",
+      "ru": [
+        "братство"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "brotherhood",
+      "sourceIds": [
+        "brotherhood"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "bratski",
+      "word": "bratski",
+      "en": "bratski",
+      "ru": [
+        "братский"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "brotherly",
+      "sourceIds": [
+        "brotherly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "otrok",
+      "word": "otrok",
+      "en": "otrok",
+      "ru": [
+        "ребёнок",
+        "дитя",
+        "чадо"
+      ],
+      "example": "Kdaj naj se otrok začne učiti tuji jezik?",
+      "level": "A1",
+      "sourceId": "child",
+      "sourceIds": [
+        "child"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "detinstvo",
+      "word": "detinstvo",
+      "en": "detinstvo",
+      "ru": [
+        "детство"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "childhood",
+      "sourceIds": [
+        "childhood"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "par",
+      "word": "par",
+      "en": "par",
+      "ru": [
+        "пара",
+        "двое",
+        "чета"
+      ],
+      "example": "Kupil je nov par rokavic.",
+      "level": "A2",
+      "sourceId": "couple",
+      "sourceIds": [
+        "couple"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bratranec",
+      "word": "bratranec",
+      "en": "bratranec",
+      "ru": [
+        "двоюродная сестра",
+        "двоюродный брат",
+        "кузен"
+      ],
+      "example": "Vsaka nedelja je sveta, moj dragi bratranec.",
+      "level": "A1",
+      "sourceId": "cousin",
+      "sourceIds": [
+        "cousin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oce",
+      "word": "oče",
+      "en": "oče",
+      "ru": [
+        "папа",
+        "батюшка",
+        "батя"
+      ],
+      "example": "Moj oče mi bo pomagal finančno.",
+      "level": "A1",
+      "sourceId": "dad",
+      "sourceIds": [
+        "dad"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hci",
+      "word": "hči",
+      "en": "hči",
+      "ru": [
+        "дочь",
+        "дщерь",
+        "дочка"
+      ],
+      "example": "Kakršna mati, takšna hči.",
+      "level": "A1",
+      "sourceId": "daughter",
+      "sourceIds": [
+        "daughter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hcerinski",
+      "word": "hčerinski",
+      "en": "hčerinski",
+      "ru": [
+        "дочерний",
+        "дочеринский"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "daughterly",
+      "sourceIds": [
+        "daughterly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "locitev",
+      "word": "ločitev",
+      "en": "ločitev",
+      "ru": [
+        "развод",
+        "расторжение брака",
+        "отделение"
+      ],
+      "example": "Poroka je glavni vzrok za ločitev.",
+      "level": "B2",
+      "sourceId": "divorce",
+      "sourceIds": [
+        "divorce"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "locen",
+      "word": "ločen",
+      "en": "ločen",
+      "ru": [
+        "разведённый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "divorced",
+      "sourceIds": [
+        "divorced"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "locenec",
+      "word": "ločenec",
+      "en": "ločenec",
+      "ru": [
+        "разведённый",
+        "разведённая"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "divorcee",
+      "sourceIds": [
+        "divorcee"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "druzina",
+      "word": "družina",
+      "en": "družina",
+      "ru": [
+        "семья",
+        "семейный",
+        "семейство"
+      ],
+      "example": "Ta par in njuna najstniška hči sta skoraj popolna družina.",
+      "level": "A1",
+      "sourceId": "family",
+      "sourceIds": [
+        "family"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oce",
+      "word": "oče",
+      "en": "oče",
+      "ru": [
+        "отец"
+      ],
+      "example": "Moj oče mi bo pomagal finančno.",
+      "level": "A1",
+      "sourceId": "father",
+      "sourceIds": [
+        "father"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ocetovski",
+      "word": "očetovski",
+      "en": "očetovski",
+      "ru": [
+        "отеческий",
+        "отцовский"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fatherly",
+      "sourceIds": [
+        "fatherly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "generacija",
+      "word": "generacija",
+      "en": "generacija",
+      "ru": [
+        "поколение",
+        "генерация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "generation",
+      "sourceIds": [
+        "generation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "generacijski",
+      "word": "generacijski",
+      "en": "generacijski",
+      "ru": [
+        "поколенческий"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "generational",
+      "sourceIds": [
+        "generational"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "vnuk",
+      "word": "vnuk",
+      "en": "vnuk",
+      "ru": [
+        "внук",
+        "внучка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "grandchild",
+      "sourceIds": [
+        "grandchild"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vnukinja",
+      "word": "vnukinja",
+      "en": "vnukinja",
+      "ru": [
+        "внучка"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "granddaughter",
+      "sourceIds": [
+        "granddaughter"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ded",
+      "word": "ded",
+      "en": "ded",
+      "ru": [
+        "дед",
+        "дедушка",
+        "дедуля"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "grandfather",
+      "sourceIds": [
+        "grandfather"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "babica",
+      "word": "babica",
+      "en": "babica",
+      "ru": [
+        "бабушка",
+        "баба",
+        "бабуля"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "grandma",
+      "sourceIds": [
+        "grandma"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "babica",
+      "word": "babica",
+      "en": "babica",
+      "ru": [
+        "бабушка",
+        "баба",
+        "бабка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "grandmother",
+      "sourceIds": [
+        "grandmother"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ded",
+      "word": "ded",
+      "en": "ded",
+      "ru": [
+        "дедушка",
+        "дедуля"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "grandpa",
+      "sourceIds": [
+        "grandpa"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "stari-stars",
+      "word": "stari starš",
+      "en": "stari starš",
+      "ru": [
+        "бабушка",
+        "дедушка",
+        "баба"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "grandparent",
+      "sourceIds": [
+        "grandparent"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vnuk",
+      "word": "vnuk",
+      "en": "vnuk",
+      "ru": [
+        "внук",
+        "внучок"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "grandson",
+      "sourceIds": [
+        "grandson"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "domov",
+      "word": "domov",
+      "en": "domov",
+      "ru": [
+        "дом",
+        "домой",
+        "дома"
+      ],
+      "example": "Spolu ostanými odpustil kryt a vratil domov.",
+      "level": "A1",
+      "sourceId": "home",
+      "sourceIds": [
+        "home"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gospodinjstvo",
+      "word": "gospodinjstvo",
+      "en": "gospodinjstvo",
+      "ru": [
+        "домашнее хозяйство",
+        "домашний",
+        "домохозяйство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "household",
+      "sourceIds": [
+        "household"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "moz",
+      "word": "mož",
+      "en": "mož",
+      "ru": [
+        "муж",
+        "супруг"
+      ],
+      "example": "Bila sta kakor mož in žena.",
+      "level": "A1",
+      "sourceId": "husband",
+      "sourceIds": [
+        "husband"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "otrok",
+      "word": "otrok",
+      "en": "otrok",
+      "ru": [
+        "девчонка",
+        "мальчишка",
+        "пацан"
+      ],
+      "example": "Kdaj naj se otrok začne učiti tuji jezik?",
+      "level": "A1",
+      "sourceId": "kid",
+      "sourceIds": [
+        "kid"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "poroka",
+      "word": "poroka",
+      "en": "poroka",
+      "ru": [
+        "свадьба",
+        "бракосочетание",
+        "венчание"
+      ],
+      "example": "Poroka je glavni vzrok za ločitev.",
+      "level": "B1",
+      "sourceId": "marriage",
+      "sourceIds": [
+        "marriage",
+        "wedding"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porocen",
+      "word": "poročen",
+      "en": "poročen",
+      "ru": [
+        "женатый",
+        "замужем",
+        "замужняя"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "married",
+      "sourceIds": [
+        "married"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mati",
+      "word": "mati",
+      "en": "mati",
+      "ru": [
+        "мать",
+        "мама",
+        "матушка"
+      ],
+      "example": "Pogosto mislim na svojo pokojno mati.",
+      "level": "A1",
+      "sourceId": "mother",
+      "sourceIds": [
+        "mother"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "materinski",
+      "word": "materinski",
+      "en": "materinski",
+      "ru": [
+        "материнский"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "motherly",
+      "sourceIds": [
+        "motherly",
+        "maternal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mama",
+      "word": "mama",
+      "en": "mama",
+      "ru": [
+        "мама",
+        "мам",
+        "ма"
+      ],
+      "example": "Moja mama je moj idol.",
+      "level": "A1",
+      "sourceId": "mum",
+      "sourceIds": [
+        "mum"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "necak",
+      "word": "nečak",
+      "en": "nečak",
+      "ru": [
+        "племянник",
+        "племяш"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "nephew",
+      "sourceIds": [
+        "nephew"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "necakinja",
+      "word": "nečakinja",
+      "en": "nečakinja",
+      "ru": [
+        "племянница"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "niece",
+      "sourceIds": [
+        "niece"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sirota",
+      "word": "sirota",
+      "en": "sirota",
+      "ru": [
+        "сирота",
+        "сиротка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "orphan",
+      "sourceIds": [
+        "orphan"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "par",
+      "word": "par",
+      "en": "par",
+      "ru": [
+        "пара",
+        "чета"
+      ],
+      "example": "Kupil je nov par rokavic.",
+      "level": "A1",
+      "sourceId": "pair",
+      "sourceIds": [
+        "pair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "roditelj",
+      "word": "roditelj",
+      "en": "roditelj",
+      "ru": [
+        "родитель"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "parent",
+      "sourceIds": [
+        "parent"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "partner",
+      "word": "partner",
+      "en": "partner",
+      "ru": [
+        "партнёр",
+        "партнёрша",
+        "компаньон"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "partner",
+      "sourceIds": [
+        "partner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "noseca",
+      "word": "noseča",
+      "en": "noseča",
+      "ru": [
+        "беременная"
+      ],
+      "example": "Mislim, da sem noseča.",
+      "level": "B1",
+      "sourceId": "pregnant",
+      "sourceIds": [
+        "pregnant"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "odnos",
+      "word": "odnos",
+      "en": "odnos",
+      "ru": [
+        "связь",
+        "отношение",
+        "взаимоотношение"
+      ],
+      "example": "Najin odnos je kot redek zaklad.",
+      "level": "A2",
+      "sourceId": "relationship",
+      "sourceIds": [
+        "relationship"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sorodnik",
+      "word": "sorodnik",
+      "en": "sorodnik",
+      "ru": [
+        "родственник"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "relative",
+      "sourceIds": [
+        "relative"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sestra",
+      "word": "sestra",
+      "en": "sestra",
+      "ru": [
+        "сестра",
+        "медсестра"
+      ],
+      "example": "Moja sestra je včeraj šla v Kobe.",
+      "level": "A1",
+      "sourceId": "sister",
+      "sourceIds": [
+        "sister"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sestrski",
+      "word": "sestrski",
+      "en": "sestrski",
+      "ru": [
+        "сестринский",
+        "по-сестрински"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sisterly",
+      "sourceIds": [
+        "sisterly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sin",
+      "word": "sin",
+      "en": "sin",
+      "ru": [
+        "сын",
+        "сынок"
+      ],
+      "example": "Imam hčerko iste starosti kot tvoj sin.",
+      "level": "A1",
+      "sourceId": "son",
+      "sourceIds": [
+        "son"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sinovski",
+      "word": "sinovski",
+      "en": "sinovski",
+      "ru": [
+        "сыновий",
+        "сыновний"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sonly",
+      "sourceIds": [
+        "sonly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "dvojcek",
+      "word": "dvojček",
+      "en": "dvojček",
+      "ru": [
+        "близнец",
+        "близнята",
+        "близняшка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "twin",
+      "sourceIds": [
+        "twin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "stric",
+      "word": "stric",
+      "en": "stric",
+      "ru": [
+        "дядя",
+        "дядька",
+        "дядюшка"
+      ],
+      "example": "Stric mi je povedal zgodbo v obliki šale.",
+      "level": "A1",
+      "sourceId": "uncle",
+      "sourceIds": [
+        "uncle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porociti-se",
+      "word": "poročiti se",
+      "en": "poročiti se",
+      "ru": [
+        "жениться",
+        "пожениться",
+        "брать в жёны"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "wed",
+      "sourceIds": [
+        "wed"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "vdova",
+      "word": "vdova",
+      "en": "vdova",
+      "ru": [
+        "вдова",
+        "вдовица",
+        "соломенная вдова"
+      ],
+      "example": "Ena vdova je imela dve hčeri.",
+      "level": "C2",
+      "sourceId": "widow",
+      "sourceIds": [
+        "widow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vdovec",
+      "word": "vdovec",
+      "en": "vdovec",
+      "ru": [
+        "вдовец"
+      ],
+      "example": "On je vdovec.",
+      "level": "C2",
+      "sourceId": "widower",
+      "sourceIds": [
+        "widower"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zena",
+      "word": "žena",
+      "en": "žena",
+      "ru": [
+        "жена",
+        "жёнка",
+        "супруга"
+      ],
+      "example": "Je vaša žena še vedno v Ameriki?",
+      "level": "A1",
+      "sourceId": "wife",
+      "sourceIds": [
+        "wife"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porociti-se",
+      "word": "poročiti se",
+      "en": "poročiti se",
+      "ru": [
+        "жениться",
+        "выходить замуж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "marry",
+      "sourceIds": [
+        "marry"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zakon",
+      "word": "zakon",
+      "en": "zakon",
+      "ru": [
+        "брак",
+        "супружество"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "matrimony",
+      "sourceIds": [
+        "matrimony"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ocim",
+      "word": "očim",
+      "en": "očim",
+      "ru": [
+        "отчим"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stepfather",
+      "sourceIds": [
+        "stepfather"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "soroden",
+      "word": "soroden",
+      "en": "soroden",
+      "ru": [
+        "родственный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kindred",
+      "sourceIds": [
+        "kindred"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prijateljica",
+      "word": "prijateljica",
+      "en": "prijateljica",
+      "ru": [
+        "девушка",
+        "подруга"
+      ],
+      "example": "Moja prijateljica živi v Mariboru.",
+      "level": "B1",
+      "sourceId": "girlfriend",
+      "sourceIds": [
+        "girlfriend"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bivsa-punca",
+      "word": "bivša punca",
+      "en": "bivša punca",
+      "ru": [
+        "бывшая девушка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ex-girlfriend",
+      "sourceIds": [
+        "ex-girlfriend"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bivsi",
+      "word": "bivši",
+      "en": "bivši",
+      "ru": [
+        "бывший",
+        "бывшая"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ex",
+      "sourceIds": [
+        "ex"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ocka",
+      "word": "očka",
+      "en": "očka",
+      "ru": [
+        "папочка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "daddy",
+      "sourceIds": [
+        "daddy"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ljubcek",
+      "word": "ljubček",
+      "en": "ljubček",
+      "ru": [
+        "возлюбленный",
+        "милый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sweetheart",
+      "sourceIds": [
+        "sweetheart"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fant",
+      "word": "fant",
+      "en": "fant",
+      "ru": [
+        "парень",
+        "бойфренд"
+      ],
+      "example": "Vem, da Tom ni tvoj fant.",
+      "level": "B1",
+      "sourceId": "boyfriend",
+      "sourceIds": [
+        "boyfriend"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mamica",
+      "word": "mamica",
+      "en": "mamica",
+      "ru": [
+        "мамочка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mommy",
+      "sourceIds": [
+        "mommy",
+        "momma"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "mama",
+      "word": "mama",
+      "en": "mama",
+      "ru": [
+        "мама"
+      ],
+      "example": "Moja mama je moj idol.",
+      "level": "B1",
+      "sourceId": "mom",
+      "sourceIds": [
+        "mom",
+        "mama",
+        "ma"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sorojenec",
+      "word": "sorojenec",
+      "en": "sorojenec",
+      "ru": [
+        "брат или сестра"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sibling",
+      "sourceIds": [
+        "sibling"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "polbrat",
+      "word": "polbrat",
+      "en": "polbrat",
+      "ru": [
+        "сводный брат"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "half-brother",
+      "sourceIds": [
+        "half-brother"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "starsevski",
+      "word": "starševski",
+      "en": "starševski",
+      "ru": [
+        "родительский"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parental",
+      "sourceIds": [
+        "parental"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "dedic",
+      "word": "dedič",
+      "en": "dedič",
+      "ru": [
+        "наследник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "heir",
+      "sourceIds": [
+        "heir"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "najstarejsi",
+      "word": "najstarejši",
+      "en": "najstarejši",
+      "ru": [
+        "старший"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eldest",
+      "sourceIds": [
+        "eldest"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "potomec",
+      "word": "potomec",
+      "en": "potomec",
+      "ru": [
+        "потомок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "descendant",
+      "sourceIds": [
+        "descendant"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "prvorojenec",
+      "word": "prvorojenec",
+      "en": "prvorojenec",
+      "ru": [
+        "первенец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "firstborn",
+      "sourceIds": [
+        "firstborn"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dojencek",
+      "word": "dojenček",
+      "en": "dojenček",
+      "ru": [
+        "младенец"
+      ],
+      "example": "Dojenček mirno spi.",
+      "level": "B1",
+      "sourceId": "infant",
+      "sourceIds": [
+        "infant"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ponovno-se-porociti",
+      "word": "ponovno se poročiti",
+      "en": "ponovno se poročiti",
+      "ru": [
+        "вступать в повторный брак"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "remarry",
+      "sourceIds": [
+        "remarry"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "razdediniti",
+      "word": "razdediniti",
+      "en": "razdediniti",
+      "ru": [
+        "лишать наследства"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "disinherit",
+      "sourceIds": [
+        "disinherit"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "oce",
+      "word": "oče",
+      "en": "oče",
+      "ru": [
+        "отец",
+        "производитель"
+      ],
+      "example": "Moj oče mi bo pomagal finančno.",
+      "level": "B1",
+      "sourceId": "sire",
+      "sourceIds": [
+        "sire"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prednikov",
+      "word": "prednikov",
+      "en": "prednikov",
+      "ru": [
+        "родовой",
+        "наследственный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ancestral",
+      "sourceIds": [
+        "ancestral"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zarociti-se",
+      "word": "zaročiti se",
+      "en": "zaročiti se",
+      "ru": [
+        "обручать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "betroth",
+      "sourceIds": [
+        "betroth"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zarociti",
+      "word": "zaročiti",
+      "en": "zaročiti",
+      "ru": [
+        "обручать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "betrothed",
+      "sourceIds": [
+        "betrothed"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zaroka",
+      "word": "zaroka",
+      "en": "zaroka",
+      "ru": [
+        "помолвка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "betrothal",
+      "sourceIds": [
+        "betrothal"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "soprog",
+      "word": "soprog",
+      "en": "soprog",
+      "ru": [
+        "супруг",
+        "супруга"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "consort",
+      "sourceIds": [
+        "consort"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bivsi-moz",
+      "word": "bivši mož",
+      "en": "bivši mož",
+      "ru": [
+        "бывший муж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ex-husband",
+      "sourceIds": [
+        "ex-husband"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "potomstvo",
+      "word": "potomstvo",
+      "en": "potomstvo",
+      "ru": [
+        "потомство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "offspring",
+      "sourceIds": [
+        "offspring"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "neporocen",
+      "word": "neporočen",
+      "en": "neporočen",
+      "ru": [
+        "неженатый",
+        "незамужняя"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unmarried",
+      "sourceIds": [
+        "unmarried"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "prednik",
+      "word": "prednik",
+      "en": "prednik",
+      "ru": [
+        "предок"
+      ],
+      "example": "Moj prednik je bil konjenik iz Mongolije.",
+      "level": "B1",
+      "sourceId": "forebear",
+      "sourceIds": [
+        "forebear",
+        "forefather"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nosecnica",
+      "word": "nosečnica",
+      "en": "nosečnica",
+      "ru": [
+        "будущая мать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mother-to-be",
+      "sourceIds": [
+        "mother-to-be"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "plisasti-medvedek",
+      "word": "plišasti medvedek",
+      "en": "plišasti medvedek",
+      "ru": [
+        "плюшевый мишка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "teddy",
+      "sourceIds": [
+        "teddy"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "varovati-otroka",
+      "word": "varovati otroka",
+      "en": "varovati otroka",
+      "ru": [
+        "сидеть с ребенком"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "babysit",
+      "sourceIds": [
+        "babysit"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "varstvo-otrok",
+      "word": "varstvo otrok",
+      "en": "varstvo otrok",
+      "ru": [
+        "уход за детьми"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "childcare",
+      "sourceIds": [
+        "childcare"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "krscenec",
+      "word": "krščenec",
+      "en": "krščenec",
+      "ru": [
+        "крестник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "godson",
+      "sourceIds": [
+        "godson"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ded",
+      "word": "ded",
+      "en": "ded",
+      "ru": [
+        "дедушка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "granddad",
+      "sourceIds": [
+        "granddad"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tast",
+      "word": "tast",
+      "en": "tast",
+      "ru": [
+        "тесть",
+        "свекор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "father-in-law",
+      "sourceIds": [
+        "father-in-law"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mama",
+      "word": "mama",
+      "en": "mama",
+      "ru": [
+        "мамочка",
+        "мумия"
+      ],
+      "example": "Moja mama je moj idol.",
+      "level": "B1",
+      "sourceId": "mummy",
+      "sourceIds": [
+        "mummy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "babica",
+      "word": "bábica",
+      "en": "bábica",
+      "ru": [
+        "бабуля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "granny",
+      "sourceIds": [
+        "granny"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "teta",
+      "word": "teta",
+      "en": "teta",
+      "ru": [
+        "тетя"
+      ],
+      "example": "Moja teta živi v New Yorku.",
+      "level": "B1",
+      "sourceId": "auntie",
+      "sourceIds": [
+        "auntie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "svak",
+      "word": "svak",
+      "en": "svak",
+      "ru": [
+        "шурин",
+        "зять",
+        "деверь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brother-in-law",
+      "sourceIds": [
+        "brother-in-law"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tast",
+      "word": "tast",
+      "en": "tast",
+      "ru": [
+        "родственник со стороны супруга"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "in-law",
+      "sourceIds": [
+        "in-law"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mati-samohranilka",
+      "word": "mati samohranilka",
+      "en": "mati samohranilka",
+      "ru": [
+        "мать-одиночка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "single-mom",
+      "sourceIds": [
+        "single-mom"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "oce-in-hci",
+      "word": "oče in hči",
+      "en": "oče in hči",
+      "ru": [
+        "отец-дочь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "father-daughter",
+      "sourceIds": [
+        "father-daughter"
+      ]
+    },
+    {
+      "id": "sorodstvo",
+      "word": "sorodstvo",
+      "en": "sorodstvo",
+      "ru": [
+        "родственники"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kin",
+      "sourceIds": [
+        "kin"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "gospodinjec",
+      "word": "gospodinjec",
+      "en": "gospodinjec",
+      "ru": [
+        "домохозяин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "househusband",
+      "sourceIds": [
+        "househusband"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "varuska",
+      "word": "varuška",
+      "en": "varuška",
+      "ru": [
+        "няня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nanny",
+      "sourceIds": [
+        "nanny"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bivsa-zena",
+      "word": "bivša žena",
+      "en": "bivša žena",
+      "ru": [
+        "бывшая жена"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ex-wife",
+      "sourceIds": [
+        "ex-wife"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "kmalu-locen",
+      "word": "kmalu ločen",
+      "en": "kmalu ločen",
+      "ru": [
+        "вскоре разведенный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "soon-to-be-unmarried",
+      "sourceIds": [
+        "soon-to-be-unmarried"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gospodinja",
+      "word": "gospodinja",
+      "en": "gospodinja",
+      "ru": [
+        "домохозяйка"
+      ],
+      "example": "Sem gospodinja.",
+      "level": "B1",
+      "sourceId": "housewife",
+      "sourceIds": [
+        "housewife"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zakonec",
+      "word": "zakonec",
+      "en": "zakonec",
+      "ru": [
+        "супруг",
+        "супруга"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spouse",
+      "sourceIds": [
+        "spouse"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bivsi-fant",
+      "word": "bivši fant",
+      "en": "bivši fant",
+      "ru": [
+        "бывший парень"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ex-boyfriend",
+      "sourceIds": [
+        "ex-boyfriend"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zarocenka",
+      "word": "zaročenka",
+      "en": "zaročenka",
+      "ru": [
+        "невеста"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fiancee",
+      "sourceIds": [
+        "fiancee"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zatajiti",
+      "word": "zatajiti",
+      "en": "zatajiti",
+      "ru": [
+        "отрекаться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "disown",
+      "sourceIds": [
+        "disown"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ati",
+      "word": "ati",
+      "en": "ati",
+      "ru": [
+        "папа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "papa",
+      "sourceIds": [
+        "papa"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pastorek",
+      "word": "pastorek",
+      "en": "pastorek",
+      "ru": [
+        "пасынок",
+        "падчерица"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stepchild",
+      "sourceIds": [
+        "stepchild"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "boter",
+      "word": "boter",
+      "en": "boter",
+      "ru": [
+        "крестный отец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "godfather",
+      "sourceIds": [
+        "godfather"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "starsevstvo",
+      "word": "starševstvo",
+      "en": "starševstvo",
+      "ru": [
+        "родительство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parenthood",
+      "sourceIds": [
+        "parenthood"
+      ],
+      "pos": "n",
+      "gender": "n"
+    }
+  ]
+}

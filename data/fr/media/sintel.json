@@ -1,0 +1,616 @@
+{
+  "id": "sintel",
+  "title": "Sintel",
+  "paid": true,
+  "blockId": "media",
+  "kind": "movie",
+  "year": 2010,
+  "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/500px-Sintel_poster.jpg",
+  "words": [
+    {
+      "id": "lame",
+      "word": "lame",
+      "en": "lame",
+      "sourceId": "blade",
+      "ru": [
+        "клинок",
+        "лезвие"
+      ],
+      "gender": "f",
+      "example": "Cette lame a un passé sombre.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sombre",
+      "word": "sombre",
+      "en": "sombre",
+      "sourceId": "dark",
+      "ru": [
+        "тёмный",
+        "мрачный",
+        "угрюмый"
+      ],
+      "gender": null,
+      "example": "Il fait sombre dans cette pièce.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "passe",
+      "word": "passé",
+      "en": "passé",
+      "sourceId": "past",
+      "ru": [
+        "прошлое"
+      ],
+      "gender": null,
+      "example": "C'est une erreur du passé.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "verser",
+      "word": "verser",
+      "en": "verser",
+      "sourceId": "shed",
+      "ru": [
+        "проливать",
+        "лить"
+      ],
+      "gender": null,
+      "example": "Il a fait verser beaucoup de sang innocent.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "innocent",
+      "word": "innocent",
+      "en": "innocent",
+      "sourceId": "innocent",
+      "ru": [
+        "невинный",
+        "безвинный",
+        "невиновный"
+      ],
+      "gender": null,
+      "example": "Il est innocent de ce crime.",
+      "exampleTranslated": false,
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "sang",
+      "word": "sang",
+      "en": "sang",
+      "sourceId": "blood",
+      "ru": [
+        "кровь",
+        "юшка",
+        "род"
+      ],
+      "gender": "m",
+      "example": "Il a perdu beaucoup de sang.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "imbecile",
+      "word": "imbécile",
+      "en": "imbécile",
+      "sourceId": "fool",
+      "ru": [
+        "дурак",
+        "глупец"
+      ],
+      "gender": "m",
+      "example": "Tu es un imbécile de voyager seul.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "voyager",
+      "word": "voyager",
+      "en": "voyager",
+      "sourceId": "travel",
+      "ru": [
+        "путешествовать"
+      ],
+      "gender": null,
+      "example": "Nous aimons voyager en été.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "seul",
+      "word": "seul",
+      "en": "seul",
+      "sourceId": "alone",
+      "ru": [
+        "один",
+        "сам",
+        "одинокий"
+      ],
+      "gender": null,
+      "example": "Il préfère travailler seul.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "completement",
+      "word": "complètement",
+      "en": "complètement",
+      "sourceId": "completely",
+      "ru": [
+        "полностью",
+        "совершенно",
+        "совсем"
+      ],
+      "gender": null,
+      "example": "J'ai complètement oublié notre rendez-vous.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "imprepare",
+      "word": "pas préparé",
+      "en": "pas préparé",
+      "sourceId": "unprepared",
+      "ru": [
+        "неподготовленный"
+      ],
+      "gender": null,
+      "example": "Il est arrivé à l'examen pas préparé du tout.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "chanceux",
+      "word": "chanceux",
+      "en": "chanceux",
+      "sourceId": "lucky",
+      "ru": [
+        "везти",
+        "везучий",
+        "счастливиться"
+      ],
+      "gender": null,
+      "example": "Il est très chanceux de gagner à la loterie.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "encore",
+      "word": "encore",
+      "en": "encore",
+      "sourceId": "still",
+      "ru": [
+        "всё ещё",
+        "тем не менее"
+      ],
+      "gender": null,
+      "example": "Il attend encore dehors.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "adv"
+    },
+    {
+      "id": "flux",
+      "word": "flux",
+      "en": "flux",
+      "sourceId": "flow",
+      "ru": [
+        "вовлечённость",
+        "поток",
+        "прилив"
+      ],
+      "gender": "m",
+      "example": "Le flux des informations est constant.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "remercier",
+      "word": "remercier",
+      "en": "remercier",
+      "sourceId": "thank",
+      "ru": [
+        "благодарить",
+        "поблагодарить"
+      ],
+      "gender": null,
+      "example": "Je veux vous remercier pour votre aide.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "apporter",
+      "word": "apporter",
+      "en": "apporter",
+      "sourceId": "bring",
+      "ru": [
+        "приносить"
+      ],
+      "gender": null,
+      "example": "N'oublie pas d'apporter ton carnet.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "terre",
+      "word": "terre",
+      "en": "terre",
+      "sourceId": "land",
+      "ru": [
+        "земля",
+        "земли",
+        "суша"
+      ],
+      "gender": "f",
+      "example": "Elle détruira cette terre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "gardien",
+      "word": "gardien",
+      "en": "gardien",
+      "sourceId": "gatekeeper",
+      "ru": [
+        "страж",
+        "привратник"
+      ],
+      "gender": "m",
+      "example": "La terre des gardiens ?",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chercher",
+      "word": "chercher",
+      "en": "chercher",
+      "sourceId": "search",
+      "ru": [
+        "искать"
+      ],
+      "gender": null,
+      "example": "Il faut chercher le mot.",
+      "exampleTranslated": true,
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "quelqu-un",
+      "word": "quelqu'un",
+      "en": "quelqu'un",
+      "sourceId": "someone",
+      "ru": [
+        "кто-то",
+        "кое-кто",
+        "кто-нибудь"
+      ],
+      "gender": null,
+      "example": "Il y a quelqu'un à la porte.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "pronoun"
+    },
+    {
+      "id": "cher",
+      "word": "cher",
+      "en": "cher",
+      "sourceId": "dear",
+      "ru": [
+        "дорогой",
+        "любимый",
+        "милый"
+      ],
+      "gender": null,
+      "example": "Mon cher ami, je suis ravi de te voir.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "apparente",
+      "word": "apparenté",
+      "en": "apparenté",
+      "sourceId": "kindred",
+      "ru": [
+        "родственный",
+        "близкий"
+      ],
+      "gender": null,
+      "example": "Un esprit apparenté ?",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "esprit",
+      "word": "esprit",
+      "en": "esprit",
+      "sourceId": "spirit",
+      "ru": [
+        "дух",
+        "душа",
+        "привидение"
+      ],
+      "gender": "m",
+      "example": "Il a un esprit vif et curieux.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dragon",
+      "word": "dragon",
+      "en": "dragon",
+      "sourceId": "dragon",
+      "ru": [
+        "дракон"
+      ],
+      "gender": "m",
+      "example": "C'est un dragon.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dangereux",
+      "word": "dangereux",
+      "en": "dangereux",
+      "sourceId": "dangerous",
+      "ru": [
+        "опасный",
+        "рискованный"
+      ],
+      "gender": null,
+      "example": "Il est dangereux de traverser la rue ici.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "adj"
+    },
+    {
+      "id": "quete",
+      "word": "quête",
+      "en": "quête",
+      "sourceId": "quest",
+      "ru": [
+        "квест",
+        "поиски"
+      ],
+      "gender": "f",
+      "example": "Une quête dangereuse pour un chasseur solitaire.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "seul",
+      "word": "seul",
+      "en": "seul",
+      "sourceId": "lone",
+      "ru": [
+        "одинокий"
+      ],
+      "gender": null,
+      "example": "Tu es un imbécile de voyager seul.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "chasseur",
+      "word": "chasseur",
+      "en": "chasseur",
+      "sourceId": "hunter",
+      "ru": [
+        "охотник",
+        "ловец",
+        "охотничья собака"
+      ],
+      "gender": "m",
+      "example": "Le chasseur marche dans la forêt avec son chien.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "long",
+      "word": "long",
+      "en": "long",
+      "sourceId": "long",
+      "ru": [
+        "длинный",
+        "долгий",
+        "далеко"
+      ],
+      "gender": null,
+      "example": "Ce chemin est très long.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "se-souvenir",
+      "word": "se souvenir",
+      "en": "se souvenir",
+      "sourceId": "remember",
+      "ru": [
+        "помнить"
+      ],
+      "gender": null,
+      "example": "Souviens-toi de mon nom.",
+      "exampleTranslated": true,
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "presque",
+      "word": "presque",
+      "en": "presque",
+      "sourceId": "almost",
+      "ru": [
+        "почти",
+        "практически"
+      ],
+      "gender": null,
+      "example": "J'ai presque failli mourir en me battant.",
+      "exampleTranslated": false,
+      "level": "A2",
+      "pos": "adv"
+    },
+    {
+      "id": "he",
+      "word": "hé",
+      "en": "hé",
+      "sourceId": "hey",
+      "ru": [
+        "эй",
+        "э"
+      ],
+      "gender": null,
+      "example": "Hé, tu m'entends ?",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "s-asseoir",
+      "word": "s'asseoir",
+      "en": "s'asseoir",
+      "sourceId": "sit",
+      "ru": [
+        "сидеть"
+      ],
+      "gender": null,
+      "example": "Veuillez vous asseoir, s'il vous plaît.",
+      "exampleTranslated": true,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bon",
+      "word": "bon",
+      "en": "bon",
+      "sourceId": "good",
+      "ru": [
+        "добрый",
+        "хороший",
+        "искусный"
+      ],
+      "gender": null,
+      "example": "C'est un bon livre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "adj"
+    },
+    {
+      "id": "nuit",
+      "word": "nuit",
+      "en": "nuit",
+      "sourceId": "night",
+      "ru": [
+        "ночь",
+        "вечер",
+        "ночёвка"
+      ],
+      "gender": "f",
+      "example": "La nuit est tombée sur la ville.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "balance",
+      "word": "balance",
+      "en": "balance",
+      "sourceId": "scales",
+      "ru": [
+        "весы"
+      ],
+      "gender": "f",
+      "example": "Elle se pèse sur la balance chaque matin.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "lui",
+      "word": "lui",
+      "en": "lui",
+      "sourceId": "him",
+      "ru": [
+        "его",
+        "ему"
+      ],
+      "gender": null,
+      "example": "Je lui ai donné le livre.",
+      "exampleTranslated": false,
+      "level": "A1",
+      "pos": "pronoun"
+    },
+    {
+      "id": "ouais",
+      "word": "ouais",
+      "en": "ouais",
+      "sourceId": "yeah",
+      "ru": [
+        "да!",
+        "е!",
+        "ура!"
+      ],
+      "gender": null,
+      "example": "Ouais, on y va !",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "echouer",
+      "word": "échouer",
+      "en": "échouer",
+      "sourceId": "fail",
+      "ru": [
+        "не удаться",
+        "не удаваться",
+        "потерпеть неудачу"
+      ],
+      "gender": null,
+      "example": "Il a échoué à son examen.",
+      "exampleTranslated": false,
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "proche",
+      "word": "proche",
+      "en": "proche",
+      "sourceId": "closer",
+      "ru": [
+        "ближе"
+      ],
+      "gender": "m",
+      "example": "Il est un proche de la famille.",
+      "exampleTranslated": false,
+      "level": "B2",
+      "pos": "n"
+    }
+  ]
+}

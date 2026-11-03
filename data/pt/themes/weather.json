@@ -1,0 +1,1932 @@
+{
+  "id": "weather",
+  "title": "Погода",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "outono",
+      "word": "outono",
+      "en": "outono",
+      "ru": [
+        "осень"
+      ],
+      "example": "O que você prefere: primavera ou outono?",
+      "level": "A2",
+      "sourceId": "autumn",
+      "sourceIds": [
+        "autumn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nevasca",
+      "word": "nevasca",
+      "en": "nevasca",
+      "ru": [
+        "буран",
+        "вьюга",
+        "метелица"
+      ],
+      "example": "A nevasca o prendeu em sua casa.",
+      "level": "A2",
+      "sourceId": "blizzard",
+      "sourceIds": [
+        "blizzard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brisa",
+      "word": "brisa",
+      "en": "brisa",
+      "ru": [
+        "бриз",
+        "ветерок",
+        "пустяк"
+      ],
+      "example": "As árvores balançam com a brisa de verão.",
+      "level": "A2",
+      "sourceId": "breeze",
+      "sourceIds": [
+        "breeze"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "clima",
+      "word": "clima",
+      "en": "clima",
+      "ru": [
+        "климат"
+      ],
+      "example": "Você vai se acostumar com o clima.",
+      "level": "B1",
+      "sourceId": "climate",
+      "sourceIds": [
+        "climate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nuvem",
+      "word": "nuvem",
+      "en": "nuvem",
+      "ru": [
+        "облако",
+        "туча",
+        "рой"
+      ],
+      "example": "A cachoeira faz uma nuvem de espuma.",
+      "level": "A1",
+      "sourceId": "cloud",
+      "sourceIds": [
+        "cloud"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nublado",
+      "word": "nublado",
+      "en": "nublado",
+      "ru": [
+        "облачный",
+        "пасмурный",
+        "мутный"
+      ],
+      "example": "É melhor você ficar em casa, porque o tempo está muito nublado.",
+      "level": "A2",
+      "sourceId": "cloudy",
+      "sourceIds": [
+        "cloudy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frio",
+      "word": "frio",
+      "en": "frio",
+      "ru": [
+        "студёный",
+        "холодный",
+        "холодно"
+      ],
+      "example": "Está frio. Você poderia fechar a janela?",
+      "level": "A1",
+      "sourceId": "cold",
+      "sourceIds": [
+        "cold"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fresco",
+      "word": "fresco",
+      "en": "fresco",
+      "ru": [
+        "прохладный",
+        "холодноватый",
+        "классный"
+      ],
+      "example": "Eu tenho pão mais fresco do que você.",
+      "level": "A1",
+      "sourceId": "cool",
+      "sourceIds": [
+        "cool"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "resfriamento",
+      "word": "resfriamento",
+      "en": "resfriamento",
+      "ru": [
+        "охлаждающий",
+        "охлаждение",
+        "похолодание"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "cooling",
+      "sourceIds": [
+        "cooling"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "umido",
+      "word": "úmido",
+      "en": "úmido",
+      "ru": [
+        "сырой"
+      ],
+      "example": "Hoje não está tão úmido quanto ontem.",
+      "level": "A2",
+      "sourceId": "damp",
+      "sourceIds": [
+        "damp"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "amanhecer",
+      "word": "amanhecer",
+      "en": "amanhecer",
+      "ru": [
+        "заря",
+        "рассвет",
+        "восход"
+      ],
+      "example": "Começou a amanhecer às quatro da manhã.",
+      "level": "B2",
+      "sourceId": "dawn",
+      "sourceIds": [
+        "dawn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "amanhecer",
+      "word": "amanhecer",
+      "en": "amanhecer",
+      "ru": [
+        "рассвет"
+      ],
+      "example": "Começou a amanhecer às quatro da manhã.",
+      "level": "C2",
+      "sourceId": "dawning",
+      "sourceIds": [
+        "dawning"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diploma",
+      "word": "diploma",
+      "en": "diploma",
+      "ru": [
+        "диплом",
+        "степень",
+        "учёная степень"
+      ],
+      "example": "Vocês dão diploma de conclusão de curso?",
+      "level": "A2",
+      "sourceId": "degree",
+      "sourceIds": [
+        "degree"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "orvalho",
+      "word": "orvalho",
+      "en": "orvalho",
+      "ru": [
+        "роса",
+        "росинка",
+        "оросить"
+      ],
+      "example": "O orvalho é a lágrima da flor.",
+      "level": "C2",
+      "sourceId": "dew",
+      "sourceIds": [
+        "dew"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seca",
+      "word": "seca",
+      "en": "seca",
+      "ru": [
+        "засуха",
+        "сушь",
+        "засушливость"
+      ],
+      "example": "Quando a terra está demasiado seca, você a escava, aduba e rega.",
+      "level": "A2",
+      "sourceId": "drought",
+      "sourceIds": [
+        "drought"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "resistente-a-seca",
+      "word": "resistente à seca",
+      "en": "resistente à seca",
+      "ru": [
+        "засухоустойчивый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "drought-tolerant",
+      "sourceIds": [
+        "drought-tolerant"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "arido",
+      "word": "árido",
+      "en": "árido",
+      "ru": [
+        "засушливый"
+      ],
+      "example": "É uma região árida, quase um deserto.",
+      "level": "C2",
+      "sourceId": "droughty",
+      "sourceIds": [
+        "droughty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "secar",
+      "word": "secar",
+      "en": "secar",
+      "ru": [
+        "сухой",
+        "высохнуть",
+        "высушить"
+      ],
+      "example": "Por que você está secando o cabelo?",
+      "level": "B1",
+      "sourceId": "dry",
+      "sourceIds": [
+        "dry"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crepusculo",
+      "word": "crepúsculo",
+      "en": "crepúsculo",
+      "ru": [
+        "сумерки"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "dusk",
+      "sourceIds": [
+        "dusk"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cair",
+      "word": "cair",
+      "en": "cair",
+      "ru": [
+        "падать"
+      ],
+      "example": "Espero que você caia de um precipício.",
+      "level": "A2",
+      "sourceId": "fall",
+      "sourceIds": [
+        "fall"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "enchente",
+      "word": "enchente",
+      "en": "enchente",
+      "ru": [
+        "наводнение",
+        "паводок",
+        "потоп"
+      ],
+      "example": "A enchente danificou a casa do Tom.",
+      "level": "B2",
+      "sourceId": "flood",
+      "sourceIds": [
+        "flood"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neblina",
+      "word": "neblina",
+      "en": "neblina",
+      "ru": [
+        "туман",
+        "мгла"
+      ],
+      "example": "A neblina espessa dificulta ver a estrada.",
+      "level": "A2",
+      "sourceId": "fog",
+      "sourceIds": [
+        "fog"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nebuloso",
+      "word": "nebuloso",
+      "en": "nebuloso",
+      "ru": [
+        "туманный",
+        "мглистый",
+        "смутный"
+      ],
+      "example": "A garota desapareceu na floresta nebulosa.",
+      "level": "A2",
+      "sourceId": "foggy",
+      "sourceIds": [
+        "foggy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "previsao",
+      "word": "previsão",
+      "en": "previsão",
+      "ru": [
+        "прогноз",
+        "предвидение",
+        "предсказание"
+      ],
+      "example": "Perdão, você sabe qual a previsão do tempo para amanhã?",
+      "level": "A2",
+      "sourceId": "forecast",
+      "sourceIds": [
+        "forecast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "geada",
+      "word": "geada",
+      "en": "geada",
+      "ru": [
+        "заморозки",
+        "морозы",
+        "зависание"
+      ],
+      "example": "A geada ainda não começou a derreter.",
+      "level": "A2",
+      "sourceId": "freeze",
+      "sourceIds": [
+        "freeze"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gelado",
+      "word": "gelado",
+      "en": "gelado",
+      "ru": [
+        "холодный как лёд",
+        "ледяной",
+        "морозный"
+      ],
+      "example": "Você beberia um copo de cerveja gelada?",
+      "level": "A2",
+      "sourceId": "freezing",
+      "sourceIds": [
+        "freezing"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "congelado",
+      "word": "congelado",
+      "en": "congelado",
+      "ru": [
+        "замороженный",
+        "замёрзший",
+        "мороженый"
+      ],
+      "example": "Você gosta de iogurte congelado?",
+      "level": "B2",
+      "sourceId": "frozen",
+      "sourceIds": [
+        "frozen"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vendaval",
+      "word": "vendaval",
+      "en": "vendaval",
+      "ru": [
+        "шторм",
+        "буря",
+        "порыв ветра"
+      ],
+      "example": "A onda de ódio prenunciava o vendaval.",
+      "level": "C1",
+      "sourceId": "gale",
+      "sourceIds": [
+        "gale"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "granizo",
+      "word": "granizo",
+      "en": "granizo",
+      "ru": [
+        "град"
+      ],
+      "example": "A chuva de granizo arruinou as colheitas.",
+      "level": "A2",
+      "sourceId": "hail",
+      "sourceIds": [
+        "hail"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calor",
+      "word": "calor",
+      "en": "calor",
+      "ru": [
+        "тепло",
+        "жара",
+        "жар"
+      ],
+      "example": "Hoje está calor demais, você não acha?",
+      "level": "B1",
+      "sourceId": "heat",
+      "sourceIds": [
+        "heat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quente",
+      "word": "quente",
+      "en": "quente",
+      "ru": [
+        "мне жарко",
+        "жаркий",
+        "жарко"
+      ],
+      "example": "Isto é um guisado quente para você.",
+      "level": "A1",
+      "sourceId": "hot",
+      "sourceIds": [
+        "hot"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umido",
+      "word": "úmido",
+      "en": "úmido",
+      "ru": [
+        "влажный"
+      ],
+      "example": "Hoje não está tão úmido quanto ontem.",
+      "level": "A2",
+      "sourceId": "humid",
+      "sourceIds": [
+        "humid"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umidade",
+      "word": "umidade",
+      "en": "umidade",
+      "ru": [
+        "влажность",
+        "сырость"
+      ],
+      "example": "Qual é a umidade relativa do ar?",
+      "level": "B1",
+      "sourceId": "humidity",
+      "sourceIds": [
+        "humidity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "furacao",
+      "word": "furacão",
+      "en": "furacão",
+      "ru": [
+        "ураган"
+      ],
+      "example": "Um furacão destruiu a casa do Tom.",
+      "level": "B2",
+      "sourceId": "hurricane",
+      "sourceIds": [
+        "hurricane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gelo",
+      "word": "gelo",
+      "en": "gelo",
+      "ru": [
+        "лёд",
+        "сухой лёд",
+        "замораживать"
+      ],
+      "example": "Você e Tom já foram patinar no gelo juntos?",
+      "level": "A2",
+      "sourceId": "ice",
+      "sourceIds": [
+        "ice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "relampago",
+      "word": "relâmpago",
+      "en": "relâmpago",
+      "ru": [
+        "молния"
+      ],
+      "example": "Dois lampejos de relâmpago iluminaram a noite.",
+      "level": "A2",
+      "sourceId": "lightning",
+      "sourceIds": [
+        "lightning"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "derreter",
+      "word": "derreter",
+      "en": "derreter",
+      "ru": [
+        "таять",
+        "плавиться",
+        "растоплять"
+      ],
+      "example": "Por que você derreteu aquela barra de sabão?",
+      "level": "A2",
+      "sourceId": "melt",
+      "sourceIds": [
+        "melt"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "derretimento",
+      "word": "derretimento",
+      "en": "derretimento",
+      "ru": [
+        "плавящийся",
+        "расплавленный"
+      ],
+      "example": "A reciclagem do vidro dá-se através de seu derretimento.",
+      "level": "C2",
+      "sourceId": "melting",
+      "sourceIds": [
+        "melting"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neblina",
+      "word": "neblina",
+      "en": "neblina",
+      "ru": [
+        "туман",
+        "мгла",
+        "дымка"
+      ],
+      "example": "A neblina espessa dificulta ver a estrada.",
+      "level": "A2",
+      "sourceId": "mist",
+      "sourceIds": [
+        "mist"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chuva",
+      "word": "chuva",
+      "en": "chuva",
+      "ru": [
+        "дождь",
+        "ливень"
+      ],
+      "example": "Você não acha desagradável caminhar na chuva?",
+      "level": "A1",
+      "sourceId": "rain",
+      "sourceIds": [
+        "rain"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arco-iris",
+      "word": "arco-íris",
+      "en": "arco-íris",
+      "ru": [
+        "радуга",
+        "весёлка"
+      ],
+      "example": "Depois da tempestade apareceu um duplo arco-íris.",
+      "level": "A2",
+      "sourceId": "rainbow",
+      "sourceIds": [
+        "rainbow"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chuvoso",
+      "word": "chuvoso",
+      "en": "chuvoso",
+      "ru": [
+        "дождливый",
+        "дождевой"
+      ],
+      "example": "Você vai para a escola de ônibus em dias chuvosos?",
+      "level": "A2",
+      "sourceId": "rainy",
+      "sourceIds": [
+        "rainy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacao",
+      "word": "estação",
+      "en": "estação",
+      "ru": [
+        "сезон",
+        "время года"
+      ],
+      "example": "A que horas você chegará à estação?",
+      "level": "A2",
+      "sourceId": "season",
+      "sourceIds": [
+        "season"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sombra",
+      "word": "sombra",
+      "en": "sombra",
+      "ru": [
+        "штора",
+        "тень",
+        "переходить"
+      ],
+      "example": "Você pode ser mais rápido que sua sombra?",
+      "level": "C1",
+      "sourceId": "shade",
+      "sourceIds": [
+        "shade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sombra",
+      "word": "sombra",
+      "en": "sombra",
+      "ru": [
+        "тень",
+        "полумрак"
+      ],
+      "example": "Você pode ser mais rápido que sua sombra?",
+      "level": "B2",
+      "sourceId": "shadow",
+      "sourceIds": [
+        "shadow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ceu",
+      "word": "céu",
+      "en": "céu",
+      "ru": [
+        "небо",
+        "небесная сфера"
+      ],
+      "example": "Com você eu posso tocar o céu.",
+      "level": "B1",
+      "sourceId": "sky",
+      "sourceIds": [
+        "sky"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neve",
+      "word": "neve",
+      "en": "neve",
+      "ru": [
+        "снег",
+        "снегопад"
+      ],
+      "example": "Você gosta da neve, não é?",
+      "level": "A1",
+      "sourceId": "snow",
+      "sourceIds": [
+        "snow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nevado",
+      "word": "nevado",
+      "en": "nevado",
+      "ru": [
+        "снежный",
+        "снеговой"
+      ],
+      "example": "Califórnia e Nevada fazem fronteira entre si.",
+      "level": "A2",
+      "sourceId": "snowy",
+      "sourceIds": [
+        "snowy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "primavera",
+      "word": "primavera",
+      "en": "primavera",
+      "ru": [
+        "весна"
+      ],
+      "example": "O que você prefere: primavera ou outono?",
+      "level": "A2",
+      "sourceId": "spring",
+      "sourceIds": [
+        "spring"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tempestade",
+      "word": "tempestade",
+      "en": "tempestade",
+      "ru": [
+        "шторм",
+        "буря",
+        "буран"
+      ],
+      "example": "Você está fazendo tempestade em copo d'água.",
+      "level": "A2",
+      "sourceId": "storm",
+      "sourceIds": [
+        "storm"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verao",
+      "word": "verão",
+      "en": "verão",
+      "ru": [
+        "лето"
+      ],
+      "example": "Com você é verão o ano inteiro.",
+      "level": "A2",
+      "sourceId": "summer",
+      "sourceIds": [
+        "summer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sol",
+      "word": "sol",
+      "en": "sol",
+      "ru": [
+        "солнце",
+        "греться",
+        "загорать"
+      ],
+      "example": "Por que vocês estão olhando para o Sol?",
+      "level": "A1",
+      "sourceId": "sun",
+      "sourceIds": [
+        "sun"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ensolarado",
+      "word": "ensolarado",
+      "en": "ensolarado",
+      "ru": [
+        "солнечный"
+      ],
+      "example": "A Alemanha não é um país ensolarado.",
+      "level": "A2",
+      "sourceId": "sunny",
+      "sourceIds": [
+        "sunny"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nascer-do-sol",
+      "word": "nascer do sol",
+      "en": "nascer do sol",
+      "ru": [
+        "(утренняя) заря",
+        "восход солнца",
+        "восход"
+      ],
+      "example": "Certas manhãs vejo o nascer do sol.",
+      "level": "A2",
+      "sourceId": "sunrise",
+      "sourceIds": [
+        "sunrise"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por-do-sol",
+      "word": "pôr do sol",
+      "en": "pôr do sol",
+      "ru": [
+        "(вечерняя) заря",
+        "заход солнца",
+        "закат"
+      ],
+      "example": "O pôr do sol hoje foi espetacular.",
+      "level": "B2",
+      "sourceId": "sunset",
+      "sourceIds": [
+        "sunset"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "temperatura",
+      "word": "temperatura",
+      "en": "temperatura",
+      "ru": [
+        "температура",
+        "горячка",
+        "жар"
+      ],
+      "example": "Você mediu a sua temperatura?",
+      "level": "A2",
+      "sourceId": "temperature",
+      "sourceIds": [
+        "temperature"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trovao",
+      "word": "trovão",
+      "en": "trovão",
+      "ru": [
+        "гром",
+        "грохот",
+        "рокот"
+      ],
+      "example": "A Eva começou a ouvir os trovões.",
+      "level": "A2",
+      "sourceId": "thunder",
+      "sourceIds": [
+        "thunder"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "raio",
+      "word": "raio",
+      "en": "raio",
+      "ru": [
+        "перун",
+        "удар молнии",
+        "гром среди ясного неба"
+      ],
+      "example": "Por que raios você não tomou seus remédios?",
+      "level": "C2",
+      "sourceId": "thunderbolt",
+      "sourceIds": [
+        "thunderbolt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trovoada",
+      "word": "trovoada",
+      "en": "trovoada",
+      "ru": [
+        "удар грома"
+      ],
+      "example": "Temos tido muita trovoada este verão.",
+      "level": "C2",
+      "sourceId": "thunderclap",
+      "sourceIds": [
+        "thunderclap"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nuvem-de-tempestade",
+      "word": "nuvem de tempestade",
+      "en": "nuvem de tempestade",
+      "ru": [
+        "грозовая туча"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thundercloud",
+      "sourceIds": [
+        "thundercloud"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "estrondoso",
+      "word": "estrondoso",
+      "en": "estrondoso",
+      "ru": [
+        "грозовой",
+        "громовой",
+        "оглушительный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thunderous",
+      "sourceIds": [
+        "thunderous"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "nevasca-com-trovoes",
+      "word": "nevasca com trovões",
+      "en": "nevasca com trovões",
+      "ru": [
+        "снеговая гроза"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thundersnow",
+      "sourceIds": [
+        "thundersnow"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tempestade",
+      "word": "tempestade",
+      "en": "tempestade",
+      "ru": [
+        "гроза",
+        "буря"
+      ],
+      "example": "Você está fazendo tempestade em copo d'água.",
+      "level": "A2",
+      "sourceId": "thunderstorm",
+      "sourceIds": [
+        "thunderstorm"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estupefato",
+      "word": "estupefato",
+      "en": "estupefato",
+      "ru": [
+        "как громом поражённый"
+      ],
+      "example": "A cidade inteira assistiu estupefata à notícia.",
+      "level": "C2",
+      "sourceId": "thunderstruck",
+      "sourceIds": [
+        "thunderstruck"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tornado",
+      "word": "tornado",
+      "en": "tornado",
+      "ru": [
+        "смерч",
+        "торнадо"
+      ],
+      "example": "A casa foi destruída por um tornado.",
+      "level": "A2",
+      "sourceId": "tornado",
+      "sourceIds": [
+        "tornado"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "guarda-chuva",
+      "word": "guarda-chuva",
+      "en": "guarda-chuva",
+      "ru": [
+        "зонт",
+        "зонтик",
+        "купол"
+      ],
+      "example": "Leve um guarda-chuva com você, caso chova.",
+      "level": "A1",
+      "sourceId": "umbrella",
+      "sourceIds": [
+        "umbrella"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "morno",
+      "word": "morno",
+      "en": "morno",
+      "ru": [
+        "тёплый",
+        "сердечный",
+        "греть"
+      ],
+      "example": "Dê banho no bebê com água morna.",
+      "level": "A1",
+      "sourceId": "warm",
+      "sourceIds": [
+        "warm"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aquecimento",
+      "word": "aquecimento",
+      "en": "aquecimento",
+      "ru": [
+        "потепление",
+        "согревание"
+      ],
+      "example": "O que você acha do aquecimento global?",
+      "level": "C1",
+      "sourceId": "warming",
+      "sourceIds": [
+        "warming"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calorosamente",
+      "word": "calorosamente",
+      "en": "calorosamente",
+      "ru": [
+        "тепло"
+      ],
+      "example": "O discurso de Hermann foi calorosamente aplaudido.",
+      "level": "C2",
+      "sourceId": "warmly",
+      "sourceIds": [
+        "warmly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tempo",
+      "word": "tempo",
+      "en": "tempo",
+      "ru": [
+        "погода"
+      ],
+      "example": "A experiência você ganha com o tempo.",
+      "level": "A1",
+      "sourceId": "weather",
+      "sourceIds": [
+        "weather"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cata-vento",
+      "word": "cata-vento",
+      "en": "cata-vento",
+      "ru": [
+        "флюгер"
+      ],
+      "example": "O cata-vento tem a forma de um galo.",
+      "level": "C2",
+      "sourceId": "weathercock",
+      "sourceIds": [
+        "weathercock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "desgastado-pelo-tempo",
+      "word": "desgastado pelo tempo",
+      "en": "desgastado pelo tempo",
+      "ru": [
+        "выветренный"
+      ],
+      "example": "A estátua, que está desgastada pelo tempo, sofrerá um processo de restauração.",
+      "level": "C2",
+      "sourceId": "weathered",
+      "sourceIds": [
+        "weathered"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "intemperismo",
+      "word": "intemperismo",
+      "en": "intemperismo",
+      "ru": [
+        "выветривание"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "weathering",
+      "sourceIds": [
+        "weathering"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "meteorologista",
+      "word": "meteorologista",
+      "en": "meteorologista",
+      "ru": [
+        "метеорологиня",
+        "метеорологистка"
+      ],
+      "example": "Robert é um meteorologista da NOAA.",
+      "level": "C2",
+      "sourceId": "weatherwoman",
+      "sourceIds": [
+        "weatherwoman"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "molhado",
+      "word": "molhado",
+      "en": "molhado",
+      "ru": [
+        "мокрый",
+        "мочить",
+        "мочиться"
+      ],
+      "example": "Por que você está tão molhada?",
+      "level": "B1",
+      "sourceId": "wet",
+      "sourceIds": [
+        "wet"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vento",
+      "word": "vento",
+      "en": "vento",
+      "ru": [
+        "ветер"
+      ],
+      "example": "Você está ouvindo o barulho do vento?",
+      "level": "A1",
+      "sourceId": "wind",
+      "sourceIds": [
+        "wind"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ventoso",
+      "word": "ventoso",
+      "en": "ventoso",
+      "ru": [
+        "ветреный"
+      ],
+      "example": "Guarda-chuvas não funcionam muito bem em dias ventosos.",
+      "level": "A2",
+      "sourceId": "windy",
+      "sourceIds": [
+        "windy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "inverno",
+      "word": "inverno",
+      "en": "inverno",
+      "ru": [
+        "зима"
+      ],
+      "example": "O que você faz durante o inverno?",
+      "level": "A2",
+      "sourceId": "winter",
+      "sourceIds": [
+        "winter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atmosferico",
+      "word": "atmosférico",
+      "en": "atmosférico",
+      "ru": [
+        "атмосферный"
+      ],
+      "example": "A poluição atmosférica é um problema muito sério.",
+      "level": "B1",
+      "sourceId": "atmospheric",
+      "sourceIds": [
+        "atmospheric"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luz-do-sol",
+      "word": "luz do sol",
+      "en": "luz do sol",
+      "ru": [
+        "солнечный свет"
+      ],
+      "example": "Você é a luz do sol da minha vida.",
+      "level": "B1",
+      "sourceId": "sunshine",
+      "sourceIds": [
+        "sunshine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torrencial",
+      "word": "torrencial",
+      "en": "torrencial",
+      "ru": [
+        "проливной"
+      ],
+      "example": "Uma chuva torrencial impediu-me de partir.",
+      "level": "B1",
+      "sourceId": "torrential",
+      "sourceIds": [
+        "torrential"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diluvio",
+      "word": "dilúvio",
+      "en": "dilúvio",
+      "ru": [
+        "потоп",
+        "ливень"
+      ],
+      "example": "Tom não esteve aqui desde o dilúvio.",
+      "level": "B1",
+      "sourceId": "deluge",
+      "sourceIds": [
+        "deluge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "agua-de-enchente",
+      "word": "água de enchente",
+      "en": "água de enchente",
+      "ru": [
+        "паводковые воды"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "floodwater",
+      "sourceIds": [
+        "floodwater"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "umidade",
+      "word": "umidade",
+      "en": "umidade",
+      "ru": [
+        "влажность",
+        "влага"
+      ],
+      "example": "Qual é a umidade relativa do ar?",
+      "level": "B1",
+      "sourceId": "moisture",
+      "sourceIds": [
+        "moisture"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "encharcado",
+      "word": "encharcado",
+      "en": "encharcado",
+      "ru": [
+        "промокший насквозь"
+      ],
+      "example": "Você está encharcada.",
+      "level": "B1",
+      "sourceId": "soaking",
+      "sourceIds": [
+        "soaking"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "precipitacao",
+      "word": "precipitação",
+      "en": "precipitação",
+      "ru": [
+        "осадки",
+        "количество осадков"
+      ],
+      "example": "Trezentos milímetros de precipitação caíram durante a noite.",
+      "level": "B1",
+      "sourceId": "rainfall",
+      "sourceIds": [
+        "rainfall"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "invernal",
+      "word": "invernal",
+      "en": "invernal",
+      "ru": [
+        "зимний"
+      ],
+      "example": "Os ursos começaram seu sono invernal.",
+      "level": "B1",
+      "sourceId": "wintry",
+      "sourceIds": [
+        "wintry"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "degelo",
+      "word": "degelo",
+      "en": "degelo",
+      "ru": [
+        "оттепель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "thaw",
+      "sourceIds": [
+        "thaw"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rajada",
+      "word": "rajada",
+      "en": "rajada",
+      "ru": [
+        "порыв ветра"
+      ],
+      "example": "O fogo foi trazido por uma rajada de vento.",
+      "level": "B1",
+      "sourceId": "gust",
+      "sourceIds": [
+        "gust"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calor",
+      "word": "calor",
+      "en": "calor",
+      "ru": [
+        "тепло",
+        "сердечность"
+      ],
+      "example": "Hoje está calor demais, você não acha?",
+      "level": "B1",
+      "sourceId": "warmth",
+      "sourceIds": [
+        "warmth"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chuva-de-granizo",
+      "word": "chuva de granizo",
+      "en": "chuva de granizo",
+      "ru": [
+        "град"
+      ],
+      "example": "A chuva de granizo arruinou as colheitas.",
+      "level": "B1",
+      "sourceId": "hailstorm",
+      "sourceIds": [
+        "hailstorm"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frio",
+      "word": "frio",
+      "en": "frio",
+      "ru": [
+        "прохладный"
+      ],
+      "example": "Está frio. Você poderia fechar a janela?",
+      "level": "B1",
+      "sourceId": "nippy",
+      "sourceIds": [
+        "nippy",
+        "chilly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "precipitacao",
+      "word": "precipitação",
+      "en": "precipitação",
+      "ru": [
+        "осадки"
+      ],
+      "example": "Trezentos milímetros de precipitação caíram durante a noite.",
+      "level": "B1",
+      "sourceId": "precipitation",
+      "sourceIds": [
+        "precipitation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luz-do-dia",
+      "word": "luz do dia",
+      "en": "luz do dia",
+      "ru": [
+        "дневной свет"
+      ],
+      "example": "Eu fui atacada em plena luz do dia.",
+      "level": "B1",
+      "sourceId": "daylight",
+      "sourceIds": [
+        "daylight"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abafado",
+      "word": "abafado",
+      "en": "abafado",
+      "ru": [
+        "душный"
+      ],
+      "example": "De trás da porta vinham gritos abafados.",
+      "level": "B1",
+      "sourceId": "stuffy",
+      "sourceIds": [
+        "stuffy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bola-de-neve",
+      "word": "bola de neve",
+      "en": "bola de neve",
+      "ru": [
+        "снежок",
+        "снежный ком"
+      ],
+      "example": "Os juros aumentaram como uma bola de neve.",
+      "level": "B1",
+      "sourceId": "snowball",
+      "sourceIds": [
+        "snowball"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "meteorologicamente",
+      "word": "meteorologicamente",
+      "en": "meteorologicamente",
+      "ru": [
+        "метеорологически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "meteorologically",
+      "sourceIds": [
+        "meteorologically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "encharcado",
+      "word": "encharcado",
+      "en": "encharcado",
+      "ru": [
+        "промокший"
+      ],
+      "example": "Você está encharcada.",
+      "level": "B1",
+      "sourceId": "sodden",
+      "sourceIds": [
+        "sodden"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "instavel",
+      "word": "instável",
+      "en": "instável",
+      "ru": [
+        "изменчивый"
+      ],
+      "example": "Nada é mais instável que o povo.",
+      "level": "B1",
+      "sourceId": "changeable",
+      "sourceIds": [
+        "changeable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "corrente-de-ar",
+      "word": "corrente de ar",
+      "en": "corrente de ar",
+      "ru": [
+        "сквозняк"
+      ],
+      "example": "Há muitas correntes de ar por aqui.",
+      "level": "B1",
+      "sourceId": "cross-breeze",
+      "sourceIds": [
+        "cross-breeze"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gelado",
+      "word": "gelado",
+      "en": "gelado",
+      "ru": [
+        "морозный"
+      ],
+      "example": "Você beberia um copo de cerveja gelada?",
+      "level": "B1",
+      "sourceId": "frosty",
+      "sourceIds": [
+        "frosty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "corrente-descendente",
+      "word": "corrente descendente",
+      "en": "corrente descendente",
+      "ru": [
+        "нисходящий поток воздуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "down-draught",
+      "sourceIds": [
+        "down-draught"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "enevoado",
+      "word": "enevoado",
+      "en": "enevoado",
+      "ru": [
+        "туманный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "misty",
+      "sourceIds": [
+        "misty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gelado",
+      "word": "gelado",
+      "en": "gelado",
+      "ru": [
+        "ледяной",
+        "холодный"
+      ],
+      "example": "Você beberia um copo de cerveja gelada?",
+      "level": "B1",
+      "sourceId": "icy",
+      "sourceIds": [
+        "icy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abafado",
+      "word": "abafado",
+      "en": "abafado",
+      "ru": [
+        "знойный",
+        "чувственный"
+      ],
+      "example": "De trás da porta vinham gritos abafados.",
+      "level": "B1",
+      "sourceId": "sultry",
+      "sourceIds": [
+        "sultry"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

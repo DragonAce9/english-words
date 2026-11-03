@@ -1,0 +1,655 @@
+{
+  "id": "go-patterns",
+  "title": "Вариации со словом GO",
+  "paid": true,
+  "blockId": "language",
+  "words": [
+    {
+      "id": "continuer",
+      "word": "continuer",
+      "en": "continuer",
+      "sourceId": "go-on",
+      "sourceIds": [
+        "go-on"
+      ],
+      "ru": [
+        "продолжать",
+        "давай"
+      ],
+      "gender": null,
+      "example": "Continue, je t'écoute.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "se-passer",
+      "word": "se passer",
+      "en": "se passer",
+      "sourceId": "go-on-happen",
+      "sourceIds": [
+        "go-on-happen"
+      ],
+      "ru": [
+        "происходить"
+      ],
+      "gender": null,
+      "example": "Que se passe-t-il dans la cuisine ?",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "sortir",
+      "word": "sortir",
+      "en": "sortir",
+      "sourceId": "go-out",
+      "sourceIds": [
+        "go-out"
+      ],
+      "ru": [
+        "выходить",
+        "гулять"
+      ],
+      "gender": null,
+      "example": "Sortons ce soir.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "sortir-avec",
+      "word": "sortir avec",
+      "en": "sortir avec",
+      "sourceId": "go-out-with",
+      "sourceIds": [
+        "go-out-with"
+      ],
+      "ru": [
+        "встречаться"
+      ],
+      "gender": null,
+      "example": "Elle sort avec Marc.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "s-eteindre",
+      "word": "s'éteindre",
+      "en": "s'éteindre",
+      "sourceId": "go-out-light",
+      "sourceIds": [
+        "go-out-light"
+      ],
+      "ru": [
+        "гаснуть"
+      ],
+      "gender": null,
+      "example": "Les lumières se sont éteintes pendant la tempête.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "retourner",
+      "word": "retourner",
+      "en": "retourner",
+      "sourceId": "go-back",
+      "sourceIds": [
+        "go-back"
+      ],
+      "ru": [
+        "возвращаться"
+      ],
+      "gender": null,
+      "example": "Je dois retourner au bureau.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "revenir-sur",
+      "word": "revenir sur",
+      "en": "revenir sur",
+      "sourceId": "go-back-on",
+      "sourceIds": [
+        "go-back-on"
+      ],
+      "ru": [
+        "нарушить слово"
+      ],
+      "gender": null,
+      "example": "Il est revenu sur sa promesse.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "vas-y",
+      "word": "vas-y",
+      "en": "vas-y",
+      "sourceId": "go-ahead-go-patterns",
+      "sourceIds": [
+        "go-ahead-go-patterns"
+      ],
+      "ru": [
+        "давай",
+        "вперёд"
+      ],
+      "gender": null,
+      "example": "Vas-y, je suis prêt.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "traverser",
+      "word": "traverser",
+      "en": "traverser",
+      "sourceId": "go-through",
+      "sourceIds": [
+        "go-through"
+      ],
+      "ru": [
+        "переживать"
+      ],
+      "gender": null,
+      "example": "Elle a traversé une année difficile.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "parcourir",
+      "word": "parcourir",
+      "en": "parcourir",
+      "sourceId": "go-through-check",
+      "sourceIds": [
+        "go-through-check"
+      ],
+      "ru": [
+        "просмотреть"
+      ],
+      "gender": null,
+      "example": "Parcourons la liste ensemble.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mener-a-terme",
+      "word": "mener à terme",
+      "en": "mener à terme",
+      "sourceId": "go-through-with",
+      "sourceIds": [
+        "go-through-with"
+      ],
+      "ru": [
+        "довести до конца"
+      ],
+      "gender": null,
+      "example": "Es-tu sûr de vouloir mener ce projet à terme ?",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "revoir",
+      "word": "revoir",
+      "en": "revoir",
+      "sourceId": "go-over",
+      "sourceIds": [
+        "go-over"
+      ],
+      "ru": [
+        "повторить",
+        "просмотреть"
+      ],
+      "gender": null,
+      "example": "Pouvons-nous revoir le plan une fois de plus ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "partir",
+      "word": "partir",
+      "en": "partir",
+      "sourceId": "go-away",
+      "sourceIds": [
+        "go-away"
+      ],
+      "ru": [
+        "уходить"
+      ],
+      "gender": null,
+      "example": "S'il vous plaît, partez. J'ai besoin de travailler.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "aller",
+      "word": "aller",
+      "en": "aller",
+      "sourceId": "be-going-to",
+      "sourceIds": [
+        "be-going-to"
+      ],
+      "ru": [
+        "собираться"
+      ],
+      "gender": null,
+      "example": "Je vais l'appeler après le dîner.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "choisir",
+      "word": "choisir",
+      "en": "choisir",
+      "sourceId": "go-for",
+      "sourceIds": [
+        "go-for"
+      ],
+      "ru": [
+        "выбрать"
+      ],
+      "gender": null,
+      "example": "Je vais choisir la soupe.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "s-attaquer-a",
+      "word": "s'attaquer à",
+      "en": "s'attaquer à",
+      "sourceId": "go-for-attack",
+      "sourceIds": [
+        "go-for-attack"
+      ],
+      "ru": [
+        "наброситься"
+      ],
+      "gender": null,
+      "example": "Le chien s'est attaqué à sa cheville.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "se-promener",
+      "word": "se promener",
+      "en": "se promener",
+      "sourceId": "go-for-a-walk",
+      "sourceIds": [
+        "go-for-a-walk"
+      ],
+      "ru": [
+        "пойти гулять"
+      ],
+      "gender": null,
+      "example": "Nous nous sommes promenés au bord de la rivière.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "adherer",
+      "word": "adhérer",
+      "en": "adhérer",
+      "sourceId": "go-along-with",
+      "sourceIds": [
+        "go-along-with"
+      ],
+      "ru": [
+        "согласиться"
+      ],
+      "gender": null,
+      "example": "Je ne peux pas adhérer à cette idée.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "se-declencher",
+      "word": "se déclencher",
+      "en": "se déclencher",
+      "sourceId": "go-off",
+      "sourceIds": [
+        "go-off"
+      ],
+      "ru": [
+        "сработать",
+        "испортиться"
+      ],
+      "gender": null,
+      "example": "L'alarme s'est déclenchée à six heures.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "ne-plus-aimer",
+      "word": "ne plus aimer",
+      "en": "ne plus aimer",
+      "sourceId": "go-off-dislike",
+      "sourceIds": [
+        "go-off-dislike"
+      ],
+      "ru": [
+        "разонравиться"
+      ],
+      "gender": null,
+      "example": "Je n'aime plus le café sucré.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "baisser",
+      "word": "baisser",
+      "en": "baisser",
+      "sourceId": "go-down",
+      "sourceIds": [
+        "go-down"
+      ],
+      "ru": [
+        "снижаться",
+        "падать"
+      ],
+      "gender": null,
+      "example": "Les prix ont baissé après le début des soldes.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "augmenter",
+      "word": "augmenter",
+      "en": "augmenter",
+      "sourceId": "go-up",
+      "sourceIds": [
+        "go-up"
+      ],
+      "ru": [
+        "расти",
+        "повышаться"
+      ],
+      "gender": null,
+      "example": "Les loyers continuent d'augmenter.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "se-passer-de",
+      "word": "se passer de",
+      "en": "se passer de",
+      "sourceId": "go-without",
+      "sourceIds": [
+        "go-without"
+      ],
+      "ru": [
+        "обходиться без"
+      ],
+      "gender": null,
+      "example": "Je ne peux pas me passer de petit-déjeuner.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "poursuivre",
+      "word": "poursuivre",
+      "en": "poursuivre",
+      "sourceId": "go-after",
+      "sourceIds": [
+        "go-after"
+      ],
+      "ru": [
+        "добиваться"
+      ],
+      "gender": null,
+      "example": "Elle a poursuivi cet emploi et l'a obtenu.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "contredire",
+      "word": "contredire",
+      "en": "contredire",
+      "sourceId": "go-against",
+      "sourceIds": [
+        "go-against"
+      ],
+      "ru": [
+        "противоречить"
+      ],
+      "gender": null,
+      "example": "Cette décision contredit les règles.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "aller-avec",
+      "word": "aller avec",
+      "en": "aller avec",
+      "sourceId": "go-with",
+      "sourceIds": [
+        "go-with"
+      ],
+      "ru": [
+        "подходить к"
+      ],
+      "gender": null,
+      "example": "Cette chemise va avec la veste grise.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mal-tourner",
+      "word": "mal tourner",
+      "en": "mal tourner",
+      "sourceId": "go-wrong",
+      "sourceIds": [
+        "go-wrong"
+      ],
+      "ru": [
+        "пойти не так"
+      ],
+      "gender": null,
+      "example": "Quelque chose a mal tourné avec le paiement.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "tourner",
+      "word": "tourner",
+      "en": "tourner",
+      "sourceId": "go-bad",
+      "sourceIds": [
+        "go-bad"
+      ],
+      "ru": [
+        "испортиться"
+      ],
+      "gender": null,
+      "example": "Le lait a tourné.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "disparaitre",
+      "word": "disparaître",
+      "en": "disparaître",
+      "sourceId": "go-missing",
+      "sourceIds": [
+        "go-missing"
+      ],
+      "ru": [
+        "пропасть"
+      ],
+      "gender": null,
+      "example": "Mes clés ont disparu.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "se-coucher",
+      "word": "se coucher",
+      "en": "se coucher",
+      "sourceId": "go-to-bed",
+      "sourceIds": [
+        "go-to-bed"
+      ],
+      "ru": [
+        "ложиться спать"
+      ],
+      "gender": null,
+      "example": "Je me couche habituellement à onze heures.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "rentrer",
+      "word": "rentrer",
+      "en": "rentrer",
+      "sourceId": "go-home",
+      "sourceIds": [
+        "go-home"
+      ],
+      "ru": [
+        "идти домой"
+      ],
+      "gender": null,
+      "example": "Il est tard. Rentrons à la maison.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "faire-des-courses",
+      "word": "faire des courses",
+      "en": "faire des courses",
+      "sourceId": "go-shopping",
+      "sourceIds": [
+        "go-shopping"
+      ],
+      "ru": [
+        "ходить за покупками"
+      ],
+      "gender": null,
+      "example": "Je dois faire des courses ce soir.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "aller-nager",
+      "word": "aller nager",
+      "en": "aller nager",
+      "sourceId": "go-swimming",
+      "sourceIds": [
+        "go-swimming"
+      ],
+      "ru": [
+        "ходить плавать"
+      ],
+      "gender": null,
+      "example": "Nous allons nager le samedi.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "partir-en-vacances",
+      "word": "partir en vacances",
+      "en": "partir en vacances",
+      "sourceId": "go-on-holiday",
+      "sourceIds": [
+        "go-on-holiday"
+      ],
+      "ru": [
+        "поехать в отпуск"
+      ],
+      "gender": null,
+      "example": "Ils partent en vacances en août.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "aller-au-travail",
+      "word": "aller au travail",
+      "en": "aller au travail",
+      "sourceId": "go-to-work",
+      "sourceIds": [
+        "go-to-work"
+      ],
+      "ru": [
+        "ходить на работу"
+      ],
+      "gender": null,
+      "example": "Elle va au travail en métro.",
+      "level": "A1",
+      "pos": "v"
+    },
+    {
+      "id": "entrer-dans",
+      "word": "entrer dans",
+      "en": "entrer dans",
+      "sourceId": "go-into",
+      "sourceIds": [
+        "go-into"
+      ],
+      "ru": [
+        "вдаваться"
+      ],
+      "gender": null,
+      "example": "Je ne vais pas entrer dans les détails maintenant.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "s-y-prendre",
+      "word": "s'y prendre",
+      "en": "s'y prendre",
+      "sourceId": "go-about",
+      "sourceIds": [
+        "go-about"
+      ],
+      "ru": [
+        "браться за"
+      ],
+      "gender": null,
+      "example": "Comment dois-je m'y prendre pour postuler ?",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "lacher",
+      "word": "lâcher",
+      "en": "lâcher",
+      "sourceId": "let-go",
+      "sourceIds": [
+        "let-go"
+      ],
+      "ru": [
+        "отпустить"
+      ],
+      "gender": null,
+      "example": "Lâche la corde.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "exagerer",
+      "word": "exagérer",
+      "en": "exagérer",
+      "sourceId": "go-overboard",
+      "sourceIds": [
+        "go-overboard"
+      ],
+      "ru": [
+        "переборщить"
+      ],
+      "gender": null,
+      "example": "N'exagère pas avec les épices.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "c-est-parti",
+      "word": "c'est parti",
+      "en": "c'est parti",
+      "sourceId": "here-goes",
+      "sourceIds": [
+        "here-goes"
+      ],
+      "ru": [
+        "ну, поехали"
+      ],
+      "gender": null,
+      "example": "Je n'ai jamais essayé ça. C'est parti.",
+      "level": "B1",
+      "pos": "v"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "id": "interest-tabletop",
+  "title": "Настольные и ролевые игры",
+  "paid": true,
+  "blockId": "interests",
+  "words": [
+    {
+      "id": "pistolet",
+      "word": "pistolet",
+      "en": "pistolet",
+      "sourceId": "pistol",
+      "sourceIds": [
+        "pistol"
+      ],
+      "ru": [
+        "пистолет"
+      ],
+      "gender": "m",
+      "example": "Il a sorti son pistolet pour se défendre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "respectif",
+      "word": "respectif",
+      "en": "respectif",
+      "sourceId": "respective",
+      "sourceIds": [
+        "respective"
+      ],
+      "ru": [
+        "соответствующий"
+      ],
+      "gender": null,
+      "example": "Ils sont retournés dans leurs chambres respectives.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "au-hasard",
+      "word": "au hasard",
+      "en": "au hasard",
+      "sourceId": "randomly",
+      "sourceIds": [
+        "randomly"
+      ],
+      "ru": [
+        "случайно",
+        "наугад"
+      ],
+      "gender": null,
+      "example": "Il changeait de chaîne au hasard.",
+      "level": "B1",
+      "pos": "adv"
+    },
+    {
+      "id": "baionnette",
+      "word": "baïonnette",
+      "en": "baïonnette",
+      "sourceId": "bayonet",
+      "sourceIds": [
+        "bayonet"
+      ],
+      "ru": [
+        "штык"
+      ],
+      "gender": "f",
+      "example": "Fabriqué à partir de baïonnettes confédérées ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "indice",
+      "word": "indice",
+      "en": "indice",
+      "sourceId": "clue",
+      "sourceIds": [
+        "clue"
+      ],
+      "ru": [
+        "подсказка",
+        "ключ к разгадке"
+      ],
+      "gender": "m",
+      "example": "Je n'en ai absolument aucune idée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "labyrinthe",
+      "word": "labyrinthe",
+      "en": "labyrinthe",
+      "sourceId": "labyrinth",
+      "sourceIds": [
+        "labyrinth",
+        "maze"
+      ],
+      "ru": [
+        "лабиринт"
+      ],
+      "gender": "m",
+      "example": "à travers ce labyrinthe laineux",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "elfe",
+      "word": "elfe",
+      "en": "elfe",
+      "sourceId": "elf",
+      "sourceIds": [
+        "elf"
+      ],
+      "ru": [
+        "эльф"
+      ],
+      "gender": "m",
+      "example": "L'elfe vit dans la forêt enchantée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lance",
+      "word": "lance",
+      "en": "lance",
+      "sourceId": "spear",
+      "sourceIds": [
+        "spear"
+      ],
+      "ru": [
+        "копье"
+      ],
+      "gender": "f",
+      "example": "Ma lance ne manque jamais sa cible.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "eclater",
+      "word": "éclater",
+      "en": "éclater",
+      "sourceId": "burst",
+      "sourceIds": [
+        "burst"
+      ],
+      "ru": [
+        "взрыв",
+        "лопаться"
+      ],
+      "gender": null,
+      "example": "Savez-vous quelle est la probabilité qu'une chute mineure puisse faire éclater un anévrisme ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "bronze",
+      "word": "bronze",
+      "en": "bronze",
+      "sourceId": "bronze",
+      "sourceIds": [
+        "bronze"
+      ],
+      "ru": [
+        "бронза"
+      ],
+      "gender": null,
+      "example": "La statue est faite de bronze.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bagatelle",
+      "word": "bagatelle",
+      "en": "bagatelle",
+      "sourceId": "trifle",
+      "sourceIds": [
+        "trifle"
+      ],
+      "ru": [
+        "пустяк"
+      ],
+      "gender": "f",
+      "example": "Ce n'est qu'une bagatelle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dragonnier",
+      "word": "dragonnier",
+      "en": "dragonnier",
+      "sourceId": "dragonrider",
+      "sourceIds": [
+        "dragonrider"
+      ],
+      "ru": [
+        "всадник на драконе"
+      ],
+      "gender": "m",
+      "example": "Tu as des dragonniers, père.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "melee",
+      "word": "mêlée",
+      "en": "mêlée",
+      "sourceId": "melee",
+      "sourceIds": [
+        "melee"
+      ],
+      "ru": [
+        "рукопашная схватка"
+      ],
+      "gender": "f",
+      "example": "Le vainqueur de la mêlée au Cider Hall.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maitre-des-dragons",
+      "word": "maître des dragons",
+      "en": "maître des dragons",
+      "sourceId": "dragonlord",
+      "sourceIds": [
+        "dragonlord"
+      ],
+      "ru": [
+        "повелитель драконов"
+      ],
+      "gender": "m",
+      "example": "Et les maîtres des dragons,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "satisfaire",
+      "word": "satisfaire",
+      "en": "satisfaire",
+      "sourceId": "satisfy",
+      "sourceIds": [
+        "satisfy"
+      ],
+      "ru": [
+        "удовлетворять",
+        "соответствовать"
+      ],
+      "gender": null,
+      "example": "Le trône de fer le satisferait.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "balle",
+      "word": "balle",
+      "en": "balle",
+      "sourceId": "bullet",
+      "sourceIds": [
+        "bullet"
+      ],
+      "ru": [
+        "пуля"
+      ],
+      "gender": "f",
+      "example": "Elle a une balle dans la tête.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pare-balles",
+      "word": "pare-balles",
+      "en": "pare-balles",
+      "sourceId": "bulletproof",
+      "sourceIds": [
+        "bulletproof"
+      ],
+      "ru": [
+        "пуленепробиваемый"
+      ],
+      "gender": null,
+      "example": "Pas de gilet pare-balles.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "sabre",
+      "word": "sabre",
+      "en": "sabre",
+      "sourceId": "saber",
+      "sourceIds": [
+        "saber"
+      ],
+      "ru": [
+        "сабля"
+      ],
+      "gender": "m",
+      "example": "Il brandit son sabre devant le visage de son adversaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cardinal",
+      "word": "cardinal",
+      "en": "cardinal",
+      "sourceId": "cardinal",
+      "sourceIds": [
+        "cardinal"
+      ],
+      "ru": [
+        "кардинальный",
+        "главный"
+      ],
+      "gender": null,
+      "example": "C'est la loi cardinale de notre société.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "munitions",
+      "word": "munitions",
+      "en": "munitions",
+      "sourceId": "ammunition",
+      "sourceIds": [
+        "ammunition"
+      ],
+      "ru": [
+        "боеприпасы"
+      ],
+      "gender": "f",
+      "example": "Il n'y a plus de munitions.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "incantation",
+      "word": "incantation",
+      "en": "incantation",
+      "sourceId": "incantation",
+      "sourceIds": [
+        "incantation"
+      ],
+      "ru": [
+        "заклинание"
+      ],
+      "gender": "f",
+      "example": "ou une incantation défectueuse ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "magique",
+      "word": "magique",
+      "en": "magique",
+      "sourceId": "magical",
+      "sourceIds": [
+        "magical"
+      ],
+      "ru": [
+        "волшебный",
+        "магический"
+      ],
+      "gender": null,
+      "example": "dans un litige magique.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "eclate",
+      "word": "éclate",
+      "en": "éclate",
+      "sourceId": "blast",
+      "sourceIds": [
+        "blast"
+      ],
+      "ru": [
+        "взрыв",
+        "веселье"
+      ],
+      "gender": null,
+      "example": "C'était une vraie éclate, Roy.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "soldat",
+      "word": "soldat",
+      "en": "soldat",
+      "sourceId": "trooper",
+      "sourceIds": [
+        "trooper"
+      ],
+      "ru": [
+        "солдат",
+        "полицейский"
+      ],
+      "gender": "m",
+      "example": "Les soldats sont arrivés sur les lieux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "masse",
+      "word": "masse",
+      "en": "masse",
+      "sourceId": "mace",
+      "sourceIds": [
+        "mace"
+      ],
+      "ru": [
+        "булава",
+        "перцовый баллончик"
+      ],
+      "gender": "f",
+      "example": "Le chevalier brandit sa masse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "puzzle",
+      "word": "puzzle",
+      "en": "puzzle",
+      "sourceId": "jigsaw",
+      "sourceIds": [
+        "jigsaw"
+      ],
+      "ru": [
+        "пазл",
+        "лобзик"
+      ],
+      "gender": "m",
+      "example": "C'est comme un puzzle.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mage",
+      "word": "mage",
+      "en": "mage",
+      "sourceId": "mage",
+      "sourceIds": [
+        "mage"
+      ],
+      "ru": [
+        "маг",
+        "волшебник"
+      ],
+      "gender": "m",
+      "example": "les bellicismes des mages.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "glock",
+      "word": "Glock",
+      "en": "Glock",
+      "sourceId": "glock",
+      "sourceIds": [
+        "glock"
+      ],
+      "ru": [
+        "глок"
+      ],
+      "gender": "m",
+      "example": "Il porte un Glock 22.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "obusier",
+      "word": "obusier",
+      "en": "obusier",
+      "sourceId": "howitzer",
+      "sourceIds": [
+        "howitzer"
+      ],
+      "ru": [
+        "гаубица"
+      ],
+      "gender": "m",
+      "example": "Il tire comme un obusier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "eclat",
+      "word": "éclat",
+      "en": "éclat",
+      "sourceId": "shrapnel",
+      "sourceIds": [
+        "shrapnel"
+      ],
+      "ru": [
+        "шрапнель",
+        "осколки"
+      ],
+      "gender": "m",
+      "example": "Le médecin soigne l'homme blessé par un éclat d'obus.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "etui",
+      "word": "étui",
+      "en": "étui",
+      "sourceId": "holster",
+      "sourceIds": [
+        "holster"
+      ],
+      "ru": [
+        "кобура"
+      ],
+      "gender": "m",
+      "example": "J'ai vu un type allongé là avec un étui de cheville.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lance-flammes",
+      "word": "lance-flammes",
+      "en": "lance-flammes",
+      "sourceId": "flamethrow",
+      "sourceIds": [
+        "flamethrow"
+      ],
+      "ru": [
+        "огнемет"
+      ],
+      "gender": "m",
+      "example": "Il a utilisé un lance-flammes pour nettoyer le terrain.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "semtex",
+      "word": "semtex",
+      "en": "semtex",
+      "sourceId": "semtex",
+      "sourceIds": [
+        "semtex"
+      ],
+      "ru": [
+        "пластиковая взрывчатка"
+      ],
+      "gender": "m",
+      "example": "Le pauvre bougre est couvert de semtex.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "manipulation",
+      "word": "manipulation",
+      "en": "manipulation",
+      "sourceId": "manipulation",
+      "sourceIds": [
+        "manipulation"
+      ],
+      "ru": [
+        "манипуляция"
+      ],
+      "gender": "f",
+      "example": "La manipulation des ondes cérébrales.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

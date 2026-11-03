@@ -1,0 +1,5126 @@
+{
+  "id": "transport",
+  "title": "Транспорт",
+  "paid": true,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "aeroporto",
+      "word": "aeroporto",
+      "en": "aeroporto",
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "example": "A que horas você chega no aeroporto?",
+      "level": "A2",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bilhete",
+      "word": "bilhete",
+      "en": "bilhete",
+      "ru": [
+        "билет",
+        "лицензия",
+        "разрешение"
+      ],
+      "example": "Foi você quem escreveu esse bilhete?",
+      "level": "B1",
+      "sourceId": "ticket",
+      "sourceIds": [
+        "ticket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "partida",
+      "word": "partida",
+      "en": "partida",
+      "ru": [
+        "отправление",
+        "вылет",
+        "отклонение"
+      ],
+      "example": "Você gosta de assistir partidas na televisão?",
+      "level": "B2",
+      "sourceId": "departure",
+      "sourceIds": [
+        "departure"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chegada",
+      "word": "chegada",
+      "en": "chegada",
+      "ru": [
+        "прибытие",
+        "приезд",
+        "прилёт"
+      ],
+      "example": "Ele saiu logo após a nossa chegada.",
+      "level": "B2",
+      "sourceId": "arrival",
+      "sourceIds": [
+        "arrival"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mapa",
+      "word": "mapa",
+      "en": "mapa",
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "example": "Eu vou desenhar um mapa para você.",
+      "level": "A1",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acidente",
+      "word": "acidente",
+      "en": "acidente",
+      "ru": [
+        "ДТП",
+        "ч. п",
+        "авария"
+      ],
+      "example": "Conduza lentamente; você poderia sofrer um acidente.",
+      "level": "B1",
+      "sourceId": "accident",
+      "sourceIds": [
+        "accident"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acidental",
+      "word": "acidental",
+      "en": "acidental",
+      "ru": [
+        "неожиданный",
+        "случайный"
+      ],
+      "example": "A polícia logo provou que não se tratava de incêndio acidental.",
+      "level": "C2",
+      "sourceId": "accidental",
+      "sourceIds": [
+        "accidental"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aeronave",
+      "word": "aeronave",
+      "en": "aeronave",
+      "ru": [
+        "самолёт",
+        "летательный аппарат",
+        "воздушное судно"
+      ],
+      "example": "A aeronave está no aeroporto.",
+      "level": "B1",
+      "sourceId": "aircraft",
+      "sourceIds": [
+        "aircraft"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "companhia-aerea",
+      "word": "companhia aérea",
+      "en": "companhia aérea",
+      "ru": [
+        "авиакомпания",
+        "авиалинии",
+        "авиапредприятие"
+      ],
+      "example": "Por qual companhia aérea você viaja?",
+      "level": "B1",
+      "sourceId": "airline",
+      "sourceIds": [
+        "airline"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aviao-de-passageiros",
+      "word": "avião de passageiros",
+      "en": "avião de passageiros",
+      "ru": [
+        "авиалайнер",
+        "воздушный лайнер",
+        "пассажирский самолёт"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "airliner",
+      "sourceIds": [
+        "airliner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "aviao",
+      "word": "avião",
+      "en": "avião",
+      "ru": [
+        "самолёт",
+        "аэроплан"
+      ],
+      "example": "Você já viajou de avião alguma vez?",
+      "level": "C1",
+      "sourceId": "airplane",
+      "sourceIds": [
+        "airplane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "automotivo",
+      "word": "automotivo",
+      "en": "automotivo",
+      "ru": [
+        "самоходный",
+        "авто",
+        "автомобильный"
+      ],
+      "example": "Sua mulher está no hospital, ela se feriu em um acidente automotivo.",
+      "level": "A2",
+      "sourceId": "automotive",
+      "sourceIds": [
+        "automotive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aviacao",
+      "word": "aviação",
+      "en": "aviação",
+      "ru": [
+        "авиация",
+        "воздухоплавание"
+      ],
+      "example": "O meu avô lutou durante a Segunda Guerra Mundial na aviação italiana.",
+      "level": "B2",
+      "sourceId": "aviation",
+      "sourceIds": [
+        "aviation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cinto",
+      "word": "cinto",
+      "en": "cinto",
+      "ru": [
+        "ремень",
+        "пояс"
+      ],
+      "example": "Você deveria colocar o seu cinto.",
+      "level": "A2",
+      "sourceId": "belt",
+      "sourceIds": [
+        "belt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bicicleta",
+      "word": "bicicleta",
+      "en": "bicicleta",
+      "ru": [
+        "велосипед",
+        "велик",
+        "педалировать"
+      ],
+      "example": "Essa bicicleta é pequena demais para você.",
+      "level": "C1",
+      "sourceId": "bicycle",
+      "sourceIds": [
+        "bicycle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bicicleta",
+      "word": "bicicleta",
+      "en": "bicicleta",
+      "ru": [
+        "велосипед",
+        "мотоцикл",
+        "велик"
+      ],
+      "example": "Essa bicicleta é pequena demais para você.",
+      "level": "B1",
+      "sourceId": "bike",
+      "sourceIds": [
+        "bike"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barco",
+      "word": "barco",
+      "en": "barco",
+      "ru": [
+        "лодка",
+        "бот",
+        "ладья"
+      ],
+      "example": "Eu e você estamos no mesmo barco.",
+      "level": "B1",
+      "sourceId": "boat",
+      "sourceIds": [
+        "boat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frear",
+      "word": "frear",
+      "en": "frear",
+      "ru": [
+        "тормоз",
+        "тормозить",
+        "затормозить"
+      ],
+      "example": "Freia! Você está indo muito rápido!",
+      "level": "B2",
+      "sourceId": "brake",
+      "sourceIds": [
+        "brake"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frenagem",
+      "word": "frenagem",
+      "en": "frenagem",
+      "ru": [
+        "торможение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "braking",
+      "sourceIds": [
+        "braking"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ponte",
+      "word": "ponte",
+      "en": "ponte",
+      "ru": [
+        "мост"
+      ],
+      "example": "Você pode me levar até a ponte?",
+      "level": "B1",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "onibus",
+      "word": "ônibus",
+      "en": "ônibus",
+      "ru": [
+        "автобус"
+      ],
+      "example": "Por que você não pegou o ônibus?",
+      "level": "A2",
+      "sourceId": "bus",
+      "sourceIds": [
+        "bus"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabana",
+      "word": "cabana",
+      "en": "cabana",
+      "ru": [
+        "домик",
+        "лачуга",
+        "хижина"
+      ],
+      "example": "Alugamos uma cabana perto de um lago.",
+      "level": "C1",
+      "sourceId": "cabin",
+      "sourceIds": [
+        "cabin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capita",
+      "word": "capitã",
+      "en": "capitã",
+      "ru": [
+        "капитан"
+      ],
+      "example": "Nós elegemos ela a capitã do nosso time.",
+      "level": "B2",
+      "sourceId": "captain",
+      "sourceIds": [
+        "captain"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carro",
+      "word": "carro",
+      "en": "carro",
+      "ru": [
+        "авто",
+        "автомашина",
+        "автомобиль"
+      ],
+      "example": "Com que frequência você abastece seu carro?",
+      "level": "A1",
+      "sourceId": "car",
+      "sourceIds": [
+        "car"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carruagem",
+      "word": "carruagem",
+      "en": "carruagem",
+      "ru": [
+        "карета",
+        "воз",
+        "повозка"
+      ],
+      "example": "A princesa andava em uma carruagem dourada.",
+      "level": "C2",
+      "sourceId": "carriage",
+      "sourceIds": [
+        "carriage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pista",
+      "word": "pista",
+      "en": "pista",
+      "ru": [
+        "проезжая часть"
+      ],
+      "example": "Você acha que isso é uma pista?",
+      "level": "C2",
+      "sourceId": "carriageway",
+      "sourceIds": [
+        "carriageway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carruagem",
+      "word": "carruagem",
+      "en": "carruagem",
+      "ru": [
+        "дилижанс",
+        "карета",
+        "коляска"
+      ],
+      "example": "A princesa andava em uma carruagem dourada.",
+      "level": "B1",
+      "sourceId": "coach",
+      "sourceIds": [
+        "coach"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bussola",
+      "word": "bússola",
+      "en": "bússola",
+      "ru": [
+        "буссоль",
+        "компас",
+        "диапазон"
+      ],
+      "example": "Quando foi a última vez que você usou uma bússola?",
+      "level": "C2",
+      "sourceId": "compass",
+      "sourceIds": [
+        "compass"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acidente",
+      "word": "acidente",
+      "en": "acidente",
+      "ru": [
+        "грохот",
+        "треск",
+        "авария"
+      ],
+      "example": "Conduza lentamente; você poderia sofrer um acidente.",
+      "level": "B2",
+      "sourceId": "crash",
+      "sourceIds": [
+        "crash"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tripulacao",
+      "word": "tripulação",
+      "en": "tripulação",
+      "ru": [
+        "бригада",
+        "коллектив",
+        "команда"
+      ],
+      "example": "O navio afundou com toda a tripulação.",
+      "level": "B1",
+      "sourceId": "crew",
+      "sourceIds": [
+        "crew"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "faixa-de-pedestres",
+      "word": "faixa de pedestres",
+      "en": "faixa de pedestres",
+      "ru": [
+        "пешеходный переход"
+      ],
+      "example": "Precisamos de mais faixas de pedestres.",
+      "level": "C2",
+      "sourceId": "crosswalk",
+      "sourceIds": [
+        "crosswalk"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cruzeiro",
+      "word": "cruzeiro",
+      "en": "cruzeiro",
+      "ru": [
+        "круиз",
+        "морское путешествие",
+        "плавание"
+      ],
+      "example": "A diária era oitocentos cruzeiros e incluía tudo.",
+      "level": "B1",
+      "sourceId": "cruise",
+      "sourceIds": [
+        "cruise"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cruzador",
+      "word": "cruzador",
+      "en": "cruzador",
+      "ru": [
+        "крейсер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cruiser",
+      "sourceIds": [
+        "cruiser"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ciclo",
+      "word": "ciclo",
+      "en": "ciclo",
+      "ru": [
+        "цикл",
+        "оборот",
+        "ездить на велосипеде"
+      ],
+      "example": "Meu ciclo menstrual é de aproximadamente 4 semanas.",
+      "level": "B1",
+      "sourceId": "cycle",
+      "sourceIds": [
+        "cycle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciclismo",
+      "word": "ciclismo",
+      "en": "ciclismo",
+      "ru": [
+        "езда на велосипеде",
+        "велоезда",
+        "велосипедный спорт"
+      ],
+      "example": "A estrada está cortada por causa do ciclismo.",
+      "level": "B2",
+      "sourceId": "cycling",
+      "sourceIds": [
+        "cycling"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "demora",
+      "word": "demora",
+      "en": "demora",
+      "ru": [
+        "задержка",
+        "опоздание",
+        "промедление"
+      ],
+      "example": "Você demora muito para se vestir?",
+      "level": "B1",
+      "sourceId": "delay",
+      "sourceIds": [
+        "delay"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diesel",
+      "word": "diesel",
+      "en": "diesel",
+      "ru": [
+        "дизель",
+        "дизельное топливо",
+        "солярка"
+      ],
+      "example": "Na França, muitos carros funcionam a diesel.",
+      "level": "B2",
+      "sourceId": "diesel",
+      "sourceIds": [
+        "diesel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "direcao",
+      "word": "direção",
+      "en": "direção",
+      "ru": [
+        "направление",
+        "режиссура",
+        "руководство"
+      ],
+      "example": "Você deveria ter ido na direção norte.",
+      "level": "B1",
+      "sourceId": "direction",
+      "sourceIds": [
+        "direction"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dirigir",
+      "word": "dirigir",
+      "en": "dirigir",
+      "ru": [
+        "водить"
+      ],
+      "example": "Dirija devagar, você poderia sofrer um acidente.",
+      "level": "A1",
+      "sourceId": "drive",
+      "sourceIds": [
+        "drive"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "condutor",
+      "word": "condutor",
+      "en": "condutor",
+      "ru": [
+        "водитель",
+        "водительница",
+        "погонщик"
+      ],
+      "example": "Você é um péssimo condutor.",
+      "level": "A2",
+      "sourceId": "driver",
+      "sourceIds": [
+        "driver"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "motriz",
+      "word": "motriz",
+      "en": "motriz",
+      "ru": [
+        "движущий",
+        "приводной",
+        "вождение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "driving",
+      "sourceIds": [
+        "driving"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "motor",
+      "word": "motor",
+      "en": "motor",
+      "ru": [
+        "мотор",
+        "двигатель"
+      ],
+      "example": "Você verificou o motor?",
+      "level": "A2",
+      "sourceId": "engine",
+      "sourceIds": [
+        "engine"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "engenheiro",
+      "word": "engenheiro",
+      "en": "engenheiro",
+      "ru": [
+        "инженер",
+        "машинист",
+        "инженерка"
+      ],
+      "example": "Você é engenheira.",
+      "level": "B1",
+      "sourceId": "engineer",
+      "sourceIds": [
+        "engineer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tarifa",
+      "word": "tarifa",
+      "en": "tarifa",
+      "ru": [
+        "плата за проезд",
+        "стоимость проезда",
+        "тариф"
+      ],
+      "example": "O Tom perguntou o preço da tarifa.",
+      "level": "C1",
+      "sourceId": "fare",
+      "sourceIds": [
+        "fare"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rapido",
+      "word": "rápido",
+      "en": "rápido",
+      "ru": [
+        "крепкий",
+        "прочный",
+        "скорый"
+      ],
+      "example": "Como foi que você voltou tão rápido?",
+      "level": "A2",
+      "sourceId": "fast",
+      "sourceIds": [
+        "fast"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "balsa",
+      "word": "balsa",
+      "en": "balsa",
+      "ru": [
+        "паром"
+      ],
+      "example": "Andar de balsa é meu passatempo favorito.",
+      "level": "B2",
+      "sourceId": "ferry",
+      "sourceIds": [
+        "ferry",
+        "ferryboat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "combustivel",
+      "word": "combustível",
+      "en": "combustível",
+      "ru": [
+        "горючее",
+        "топливо"
+      ],
+      "example": "Que tipo de combustível vocês utilizam para esta máquina?",
+      "level": "B1",
+      "sourceId": "fuel",
+      "sourceIds": [
+        "fuel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "garagem",
+      "word": "garagem",
+      "en": "garagem",
+      "ru": [
+        "гараж",
+        "станция техобслуживания",
+        "автосервис"
+      ],
+      "example": "Preciso de você na garagem neste instante.",
+      "level": "B2",
+      "sourceId": "garage",
+      "sourceIds": [
+        "garage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gasolina",
+      "word": "gasolina",
+      "en": "gasolina",
+      "ru": [
+        "бензин",
+        "топливо"
+      ],
+      "example": "Onde foi que você comprou gasolina?",
+      "level": "A2",
+      "sourceId": "gas",
+      "sourceIds": [
+        "gas"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porto",
+      "word": "porto",
+      "en": "porto",
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "example": "Você pode me dizer como chegar até o porto?",
+      "level": "B2",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "helicoptero",
+      "word": "helicóptero",
+      "en": "helicóptero",
+      "ru": [
+        "вертолёт",
+        "геликоптер"
+      ],
+      "example": "Algum de vocês já andou de helicóptero?",
+      "level": "C1",
+      "sourceId": "helicopter",
+      "sourceIds": [
+        "helicopter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capacete",
+      "word": "capacete",
+      "en": "capacete",
+      "ru": [
+        "шлем",
+        "каска",
+        "шелом"
+      ],
+      "example": "Qual tamanho de capacete você precisa?",
+      "level": "C1",
+      "sourceId": "helmet",
+      "sourceIds": [
+        "helmet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rodovia",
+      "word": "rodovia",
+      "en": "rodovia",
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "example": "Ontem aconteceu um acidente horrível na rodovia.",
+      "level": "B1",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salteador",
+      "word": "salteador",
+      "en": "salteador",
+      "ru": [
+        "разбойник с большой дороги"
+      ],
+      "example": "De repente, da escuridão surgiu um salteador.",
+      "level": "C2",
+      "sourceId": "highwayman",
+      "sourceIds": [
+        "highwayman"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cruzamento",
+      "word": "cruzamento",
+      "en": "cruzamento",
+      "ru": [
+        "перекрёсток",
+        "пересечение"
+      ],
+      "example": "Você deve ter mais cuidado em um cruzamento.",
+      "level": "C1",
+      "sourceId": "intersection",
+      "sourceIds": [
+        "intersection"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jornada",
+      "word": "jornada",
+      "en": "jornada",
+      "ru": [
+        "путешествие",
+        "вояж",
+        "поездка"
+      ],
+      "example": "Quando você vai sair em jornada?",
+      "level": "B1",
+      "sourceId": "journey",
+      "sourceIds": [
+        "journey"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viela",
+      "word": "viela",
+      "en": "viela",
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "example": "O meu carro está estacionado na viela.",
+      "level": "B1",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "licenca",
+      "word": "licença",
+      "en": "licença",
+      "ru": [
+        "лицензия",
+        "разрешение",
+        "удостоверение"
+      ],
+      "example": "Você poderia me dar licença, por favor?",
+      "level": "A2",
+      "sourceId": "license",
+      "sourceIds": [
+        "license"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maquina",
+      "word": "máquina",
+      "en": "máquina",
+      "ru": [
+        "машина",
+        "аппарат",
+        "машинка"
+      ],
+      "example": "Quando você comprou essa máquina de lavar?",
+      "level": "A2",
+      "sourceId": "machine",
+      "sourceIds": [
+        "machine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maquinario",
+      "word": "maquinário",
+      "en": "maquinário",
+      "ru": [
+        "машина",
+        "оборудование",
+        "механизм"
+      ],
+      "example": "Deve ter algo errado com o maquinário.",
+      "level": "B2",
+      "sourceId": "machinery",
+      "sourceIds": [
+        "machinery"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mapeamento",
+      "word": "mapeamento",
+      "en": "mapeamento",
+      "ru": [
+        "отображение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "motor",
+      "word": "motor",
+      "en": "motor",
+      "ru": [
+        "двигатель",
+        "автомобильный",
+        "моторный"
+      ],
+      "example": "Você verificou o motor?",
+      "level": "A2",
+      "sourceId": "motor",
+      "sourceIds": [
+        "motor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moto",
+      "word": "moto",
+      "en": "moto",
+      "ru": [
+        "мотоцикл"
+      ],
+      "example": "Por que você não compra uma moto?",
+      "level": "B2",
+      "sourceId": "motorcycle",
+      "sourceIds": [
+        "motorcycle",
+        "motorbike"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rodovia",
+      "word": "rodovia",
+      "en": "rodovia",
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "example": "Ontem aconteceu um acidente horrível na rodovia.",
+      "level": "C2",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "navegacao",
+      "word": "navegação",
+      "en": "navegação",
+      "ru": [
+        "навигация",
+        "судоходство",
+        "мореплавание"
+      ],
+      "example": "Esse rio é totalmente impróprio à navegação.",
+      "level": "A2",
+      "sourceId": "navigation",
+      "sourceIds": [
+        "navigation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-navegacao",
+      "word": "de navegação",
+      "en": "de navegação",
+      "ru": [
+        "навигационный"
+      ],
+      "example": "Que volte logo de sua navegação!",
+      "level": "C2",
+      "sourceId": "navigational",
+      "sourceIds": [
+        "navigational"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parque",
+      "word": "parque",
+      "en": "parque",
+      "ru": [
+        "парк",
+        "парковать",
+        "ставить на парковку"
+      ],
+      "example": "O parque não é propriedade de vocês.",
+      "level": "A1",
+      "sourceId": "park",
+      "sourceIds": [
+        "park"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacionamento",
+      "word": "estacionamento",
+      "en": "estacionamento",
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "example": "Você pode validar este bilhete de estacionamento, por favor?",
+      "level": "B1",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passageiro",
+      "word": "passageiro",
+      "en": "passageiro",
+      "ru": [
+        "пассажир",
+        "пассажирка"
+      ],
+      "example": "Deu muita importância à segurança dos passageiros.",
+      "level": "B2",
+      "sourceId": "passenger",
+      "sourceIds": [
+        "passenger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pedestre",
+      "word": "pedestre",
+      "en": "pedestre",
+      "ru": [
+        "пешеход"
+      ],
+      "example": "Você deveria ter mais cuidado ao cruzar a faixa para pedestres.",
+      "level": "C2",
+      "sourceId": "pedestrian",
+      "sourceIds": [
+        "pedestrian"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pedestrianizacao",
+      "word": "pedestrianização",
+      "en": "pedestrianização",
+      "ru": [
+        "пешеходизация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "pedestrianization",
+      "sourceIds": [
+        "pedestrianization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "piloto",
+      "word": "piloto",
+      "en": "piloto",
+      "ru": [
+        "пилот",
+        "летчик"
+      ],
+      "example": "Pensava que você tivesse dito que Tom era piloto.",
+      "level": "B1",
+      "sourceId": "pilot",
+      "sourceIds": [
+        "pilot"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "plano",
+      "word": "plano",
+      "en": "plano",
+      "ru": [
+        "самолёт"
+      ],
+      "example": "Gerencie você mesmo o seu plano fixo.",
+      "level": "B1",
+      "sourceId": "plane",
+      "sourceIds": [
+        "plane",
+        "aeroplane"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "plataforma",
+      "word": "plataforma",
+      "en": "plataforma",
+      "ru": [
+        "перрон",
+        "платформа",
+        "подиум"
+      ],
+      "example": "Qual plataforma você usa para dar as aulas online?",
+      "level": "B1",
+      "sourceId": "platform",
+      "sourceIds": [
+        "platform"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bombordo",
+      "word": "bombordo",
+      "en": "bombordo",
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "carregador",
+      "word": "carregador",
+      "en": "carregador",
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "example": "Você poderia emprestar o seu carregador?",
+      "level": "C1",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ferrovia",
+      "word": "ferrovia",
+      "en": "ferrovia",
+      "ru": [
+        "железнодорожный путь",
+        "колея",
+        "железная дорога"
+      ],
+      "example": "A ferrovia cruza a estrada neste ponto.",
+      "level": "B2",
+      "sourceId": "railway",
+      "sourceIds": [
+        "railway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ferroviario",
+      "word": "ferroviário",
+      "en": "ferroviário",
+      "ru": [
+        "железнодорожник"
+      ],
+      "example": "A estação ferroviária estava um verdadeiro caos.",
+      "level": "C2",
+      "sourceId": "railwayman",
+      "sourceIds": [
+        "railwayman"
+      ],
+      "pos": "adj",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passeio",
+      "word": "passeio",
+      "en": "passeio",
+      "ru": [
+        "тачка",
+        "езда",
+        "катание"
+      ],
+      "example": "Eu vou dar um passeio, você vem comigo?",
+      "level": "B1",
+      "sourceId": "ride",
+      "sourceIds": [
+        "ride"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estrada",
+      "word": "estrada",
+      "en": "estrada",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "example": "Você estava naquela estrada no momento errado.",
+      "level": "A1",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "indireto",
+      "word": "indireto",
+      "en": "indireto",
+      "ru": [
+        "окольный",
+        "кружный",
+        "непрямой"
+      ],
+      "example": "Não se iluda, todas as indiretas são para você!",
+      "level": "C2",
+      "sourceId": "roundabout",
+      "sourceIds": [
+        "roundabout"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rota",
+      "word": "rota",
+      "en": "rota",
+      "ru": [
+        "путь",
+        "курс",
+        "дорога"
+      ],
+      "example": "Esta é a rota indicada pelo mapa.",
+      "level": "B1",
+      "sourceId": "route",
+      "sourceIds": [
+        "route"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "roteamento",
+      "word": "roteamento",
+      "en": "roteamento",
+      "ru": [
+        "маршрутизация"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "routing",
+      "sourceIds": [
+        "routing"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pista-de-pouso",
+      "word": "pista de pouso",
+      "en": "pista de pouso",
+      "ru": [
+        "взлетно-посадочная полоса"
+      ],
+      "example": "O novo aeroporto terá seis pistas de pouso.",
+      "level": "C2",
+      "sourceId": "runway",
+      "sourceIds": [
+        "runway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vela",
+      "word": "vela",
+      "en": "vela",
+      "ru": [
+        "парус"
+      ],
+      "example": "Eu quero que você acenda a vela.",
+      "level": "C1",
+      "sourceId": "sail",
+      "sourceIds": [
+        "sail"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vela",
+      "word": "vela",
+      "en": "vela",
+      "ru": [
+        "парусный спорт"
+      ],
+      "example": "Eu quero que você acenda a vela.",
+      "level": "B2",
+      "sourceId": "sailing",
+      "sourceIds": [
+        "sailing"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patinete",
+      "word": "patinete",
+      "en": "patinete",
+      "ru": [
+        "самокат",
+        "мотороллер",
+        "скутер"
+      ],
+      "example": "Onde está meu patinete?",
+      "level": "C2",
+      "sourceId": "scooter",
+      "sourceIds": [
+        "scooter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "assento",
+      "word": "assento",
+      "en": "assento",
+      "ru": [
+        "седалище",
+        "сиденье",
+        "место"
+      ],
+      "example": "Vocês querem um assento perto da janela?",
+      "level": "B1",
+      "sourceId": "seat",
+      "sourceIds": [
+        "seat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "navio",
+      "word": "navio",
+      "en": "navio",
+      "ru": [
+        "корабль",
+        "судно",
+        "пароход"
+      ],
+      "example": "Você já viajou para o exterior de navio?",
+      "level": "A2",
+      "sourceId": "ship",
+      "sourceIds": [
+        "ship"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "remetente",
+      "word": "remetente",
+      "en": "remetente",
+      "ru": [
+        "грузоотправитель",
+        "отправитель",
+        "товароотправитель"
+      ],
+      "example": "O remetente pode não ser exatamente um personagem.",
+      "level": "C2",
+      "sourceId": "shipper",
+      "sourceIds": [
+        "shipper"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transporte",
+      "word": "transporte",
+      "en": "transporte",
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "example": "Você utiliza os meios de transporte públicos?",
+      "level": "A1",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calcada",
+      "word": "calçada",
+      "en": "calçada",
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "example": "Você não tem permissão para andar de bicicleta na calçada.",
+      "level": "C2",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lento",
+      "word": "lento",
+      "en": "lento",
+      "ru": [
+        "медленный",
+        "замедлять"
+      ],
+      "example": "Você lembra como a Internet era lenta?",
+      "level": "B1",
+      "sourceId": "slow",
+      "sourceIds": [
+        "slow"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lentamente",
+      "word": "lentamente",
+      "en": "lentamente",
+      "ru": [
+        "медленно"
+      ],
+      "example": "Conduza lentamente; você poderia sofrer um acidente.",
+      "level": "B2",
+      "sourceId": "slowly",
+      "sourceIds": [
+        "slowly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "velocidade",
+      "word": "velocidade",
+      "en": "velocidade",
+      "ru": [
+        "скорость"
+      ],
+      "example": "Você deve dirigir a uma velocidade segura.",
+      "level": "A2",
+      "sourceId": "speed",
+      "sourceIds": [
+        "speed"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "excesso-de-velocidade",
+      "word": "excesso de velocidade",
+      "en": "excesso de velocidade",
+      "ru": [
+        "превышение скорости"
+      ],
+      "example": "Ele foi detido por excesso de velocidade.",
+      "level": "C2",
+      "sourceId": "speeding",
+      "sourceIds": [
+        "speeding"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacao",
+      "word": "estação",
+      "en": "estação",
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "example": "A que horas você chegará à estação?",
+      "level": "A2",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacionario",
+      "word": "estacionário",
+      "en": "estacionário",
+      "ru": [
+        "неподвижный",
+        "стационарный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stationary",
+      "sourceIds": [
+        "stationary"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "chefe-de-estacao",
+      "word": "chefe de estação",
+      "en": "chefe de estação",
+      "ru": [
+        "начальник станции"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "parar",
+      "word": "parar",
+      "en": "parar",
+      "ru": [
+        "останавливать",
+        "прекращать"
+      ],
+      "example": "\"Feliz Natal!\" \"Feliz Natal para você também!\"",
+      "level": "A1",
+      "sourceId": "stop",
+      "sourceIds": [
+        "stop"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rua",
+      "word": "rua",
+      "en": "rua",
+      "ru": [
+        "улица"
+      ],
+      "example": "Por que você está atravessando a rua?",
+      "level": "A1",
+      "sourceId": "street",
+      "sourceIds": [
+        "street"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "metro",
+      "word": "metrô",
+      "en": "metrô",
+      "ru": [
+        "метро",
+        "метрополитен",
+        "подземка"
+      ],
+      "example": "Você vai de ônibus, trem ou metrô?",
+      "level": "C2",
+      "sourceId": "subway",
+      "sourceIds": [
+        "subway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taxi",
+      "word": "táxi",
+      "en": "táxi",
+      "ru": [
+        "такси",
+        "таксомотор"
+      ],
+      "example": "Eu vou chamar um táxi para você.",
+      "level": "C1",
+      "sourceId": "taxi",
+      "sourceIds": [
+        "taxi"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pedagio",
+      "word": "pedágio",
+      "en": "pedágio",
+      "ru": [
+        "плата",
+        "пошлина",
+        "сбор"
+      ],
+      "example": "O preço do pedágio vai aumentar.",
+      "level": "B1",
+      "sourceId": "toll",
+      "sourceIds": [
+        "toll"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trilho",
+      "word": "trilho",
+      "en": "trilho",
+      "ru": [
+        "колея",
+        "железнодорожный путь"
+      ],
+      "example": "Hoje tudo está andando nos trilhos.",
+      "level": "A1",
+      "sourceId": "track",
+      "sourceIds": [
+        "track"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transito",
+      "word": "trânsito",
+      "en": "trânsito",
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "example": "Você deve obedecer às leis de trânsito quando dirige.",
+      "level": "A2",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trem",
+      "word": "trem",
+      "en": "trem",
+      "ru": [
+        "поезд",
+        "вереница",
+        "караван"
+      ],
+      "example": "Apresse-se, ou você vai perder o trem.",
+      "level": "B1",
+      "sourceId": "train",
+      "sourceIds": [
+        "train"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bonde",
+      "word": "bonde",
+      "en": "bonde",
+      "ru": [
+        "трамвай",
+        "вагонетка"
+      ],
+      "example": "É melhor você ir de bonde.",
+      "level": "C2",
+      "sourceId": "tram",
+      "sourceIds": [
+        "tram"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transito",
+      "word": "trânsito",
+      "en": "trânsito",
+      "ru": [
+        "переход",
+        "транзит",
+        "перевозка"
+      ],
+      "example": "Você deve obedecer às leis de trânsito quando dirige.",
+      "level": "B1",
+      "sourceId": "transit",
+      "sourceIds": [
+        "transit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transicao",
+      "word": "transição",
+      "en": "transição",
+      "ru": [
+        "переход",
+        "превращение",
+        "транзиция"
+      ],
+      "example": "A platina é um elemento de transição.",
+      "level": "B1",
+      "sourceId": "transition",
+      "sourceIds": [
+        "transition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transitorio",
+      "word": "transitório",
+      "en": "transitório",
+      "ru": [
+        "переходный",
+        "первоначальный"
+      ],
+      "example": "Tudo é transitório e, portanto, doloroso.",
+      "level": "C2",
+      "sourceId": "transitional",
+      "sourceIds": [
+        "transitional"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transitivo",
+      "word": "transitivo",
+      "en": "transitivo",
+      "ru": [
+        "переходный"
+      ],
+      "example": "Esse verbo pode ser tanto transitivo quanto intransitivo.",
+      "level": "C2",
+      "sourceId": "transitive",
+      "sourceIds": [
+        "transitive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transitividade",
+      "word": "transitividade",
+      "en": "transitividade",
+      "ru": [
+        "переходность",
+        "транзитивность"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "transitivity",
+      "sourceIds": [
+        "transitivity"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "transitorio",
+      "word": "transitório",
+      "en": "transitório",
+      "ru": [
+        "временный",
+        "кратковременный",
+        "мимолётный"
+      ],
+      "example": "Tudo é transitório e, portanto, doloroso.",
+      "level": "C2",
+      "sourceId": "transitory",
+      "sourceIds": [
+        "transitory"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transporte",
+      "word": "transporte",
+      "en": "transporte",
+      "ru": [
+        "перевозка",
+        "транспортировка",
+        "транспорт"
+      ],
+      "example": "Você utiliza os meios de transporte públicos?",
+      "level": "A2",
+      "sourceId": "transport",
+      "sourceIds": [
+        "transport"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "transporte",
+      "word": "transporte",
+      "en": "transporte",
+      "ru": [
+        "транспорт",
+        "перевозка",
+        "переправка"
+      ],
+      "example": "Você utiliza os meios de transporte públicos?",
+      "level": "A2",
+      "sourceId": "transportation",
+      "sourceIds": [
+        "transportation"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viajar",
+      "word": "viajar",
+      "en": "viajar",
+      "ru": [
+        "путешествовать"
+      ],
+      "example": "\"Você gosta de viajar?\" \"Sim, eu gosto.\"",
+      "level": "A1",
+      "sourceId": "travel",
+      "sourceIds": [
+        "travel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viajante",
+      "word": "viajante",
+      "en": "viajante",
+      "ru": [
+        "путник",
+        "путница",
+        "путешественник"
+      ],
+      "example": "Ela é viajante, porém nunca deixou seu país.",
+      "level": "C1",
+      "sourceId": "traveller",
+      "sourceIds": [
+        "traveller"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viagem",
+      "word": "viagem",
+      "en": "viagem",
+      "ru": [
+        "путешествие"
+      ],
+      "example": "Como você está? Teve uma boa viagem?",
+      "level": "C1",
+      "sourceId": "travelling",
+      "sourceIds": [
+        "travelling"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viagem",
+      "word": "viagem",
+      "en": "viagem",
+      "ru": [
+        "путешествие",
+        "поездка",
+        "спотыкание"
+      ],
+      "example": "Como você está? Teve uma boa viagem?",
+      "level": "A2",
+      "sourceId": "trip",
+      "sourceIds": [
+        "trip"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caminhao",
+      "word": "caminhão",
+      "en": "caminhão",
+      "ru": [
+        "грузовик",
+        "грузовая машина",
+        "грузовой автомобиль"
+      ],
+      "example": "Onde você estacionou o caminhão?",
+      "level": "B1",
+      "sourceId": "truck",
+      "sourceIds": [
+        "truck"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porta-malas",
+      "word": "porta-malas",
+      "en": "porta-malas",
+      "ru": [
+        "багажник"
+      ],
+      "example": "Você meteu todas as caixas no porta-malas?",
+      "level": "B2",
+      "sourceId": "trunk",
+      "sourceIds": [
+        "trunk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tunel",
+      "word": "túnel",
+      "en": "túnel",
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "example": "Ele saiu da prisão escavando um túnel.",
+      "level": "B2",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "van",
+      "word": "van",
+      "en": "van",
+      "ru": [
+        "вэн",
+        "фура",
+        "фургон"
+      ],
+      "example": "Você já dirigiu uma van?",
+      "level": "A2",
+      "sourceId": "van",
+      "sourceIds": [
+        "van"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "veiculo",
+      "word": "veículo",
+      "en": "veículo",
+      "ru": [
+        "перевозочное средство",
+        "транспортное средство",
+        "средство передачи"
+      ],
+      "example": "A estrada estava cheia com vários veículos.",
+      "level": "A2",
+      "sourceId": "vehicle",
+      "sourceIds": [
+        "vehicle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barco",
+      "word": "barco",
+      "en": "barco",
+      "ru": [
+        "судно",
+        "корабль"
+      ],
+      "example": "Eu e você estamos no mesmo barco.",
+      "level": "B2",
+      "sourceId": "vessel",
+      "sourceIds": [
+        "vessel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vagao",
+      "word": "vagão",
+      "en": "vagão",
+      "ru": [
+        "повозка",
+        "вагон",
+        "фургон"
+      ],
+      "example": "Neste trem não há vagão de bagagem.",
+      "level": "C1",
+      "sourceId": "wagon",
+      "sourceIds": [
+        "wagon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carroceiro",
+      "word": "carroceiro",
+      "en": "carroceiro",
+      "ru": [
+        "возница",
+        "извозчик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "wagoner",
+      "sourceIds": [
+        "wagoner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "caminho",
+      "word": "caminho",
+      "en": "caminho",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "example": "Ah, você pode vir por este caminho?",
+      "level": "A1",
+      "sourceId": "way",
+      "sourceIds": [
+        "way"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "roda",
+      "word": "roda",
+      "en": "roda",
+      "ru": [
+        "колесо",
+        "штурвал"
+      ],
+      "example": "Você não precisa reinventar a roda; ela já existe.",
+      "level": "B1",
+      "sourceId": "wheel",
+      "sourceIds": [
+        "wheel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "com-rodas",
+      "word": "com rodas",
+      "en": "com rodas",
+      "ru": [
+        "колёсный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "wheeled",
+      "sourceIds": [
+        "wheeled"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "paraquedas",
+      "word": "paraquedas",
+      "en": "paraquedas",
+      "ru": [
+        "парашют"
+      ],
+      "example": "O paraquedas de Tom não se abriu.",
+      "level": "B1",
+      "sourceId": "parachute",
+      "sourceIds": [
+        "parachute"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dirigir",
+      "word": "dirigir",
+      "en": "dirigir",
+      "ru": [
+        "управлять",
+        "направлять"
+      ],
+      "example": "Dirija devagar, você poderia sofrer um acidente.",
+      "level": "B1",
+      "sourceId": "steer",
+      "sourceIds": [
+        "steer"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "via-expressa",
+      "word": "via expressa",
+      "en": "via expressa",
+      "ru": [
+        "скоростная автомагистраль"
+      ],
+      "example": "Mennad estava em uma via expressa.",
+      "level": "C2",
+      "sourceId": "expressway",
+      "sourceIds": [
+        "expressway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "helice",
+      "word": "hélice",
+      "en": "hélice",
+      "ru": [
+        "пропеллер",
+        "винт"
+      ],
+      "example": "A hélice do ventilador está quebrada.",
+      "level": "B1",
+      "sourceId": "propeller",
+      "sourceIds": [
+        "propeller"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "embreagem",
+      "word": "embreagem",
+      "en": "embreagem",
+      "ru": [
+        "сцепление"
+      ],
+      "example": "Acho que a embreagem já era.",
+      "level": "B1",
+      "sourceId": "clutch",
+      "sourceIds": [
+        "clutch"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trator",
+      "word": "trator",
+      "en": "trator",
+      "ru": [
+        "трактор"
+      ],
+      "example": "Tom brincou com seu trator de brinquedo.",
+      "level": "B1",
+      "sourceId": "tractor",
+      "sourceIds": [
+        "tractor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eixo",
+      "word": "eixo",
+      "en": "eixo",
+      "ru": [
+        "ось"
+      ],
+      "example": "A terra gira ao redor de seu eixo.",
+      "level": "B1",
+      "sourceId": "axle",
+      "sourceIds": [
+        "axle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "suspensao",
+      "word": "suspensão",
+      "en": "suspensão",
+      "ru": [
+        "подвеска"
+      ],
+      "example": "A suspensão de Tom terminou no dia 20 de outubro.",
+      "level": "B1",
+      "sourceId": "suspension",
+      "sourceIds": [
+        "suspension"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caminhao",
+      "word": "caminhão",
+      "en": "caminhão",
+      "ru": [
+        "грузовик"
+      ],
+      "example": "Onde você estacionou o caminhão?",
+      "level": "B1",
+      "sourceId": "lorry",
+      "sourceIds": [
+        "lorry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "empilhadeira",
+      "word": "empilhadeira",
+      "en": "empilhadeira",
+      "ru": [
+        "вилочный погрузчик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "forklift",
+      "sourceIds": [
+        "forklift"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "taxi",
+      "word": "táxi",
+      "en": "táxi",
+      "ru": [
+        "такси",
+        "кабина"
+      ],
+      "example": "Eu vou chamar um táxi para você.",
+      "level": "B1",
+      "sourceId": "cab",
+      "sourceIds": [
+        "cab"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pedalar",
+      "word": "pedalar",
+      "en": "pedalar",
+      "ru": [
+        "крутить педали"
+      ],
+      "example": "Fadil foi passear pedalando sua bicicleta BMX.",
+      "level": "B1",
+      "sourceId": "pedal",
+      "sourceIds": [
+        "pedal"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ir-e-voltar-do-trabalho",
+      "word": "ir e voltar do trabalho",
+      "en": "ir e voltar do trabalho",
+      "ru": [
+        "ездить на работу",
+        "поездка на работу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "commute",
+      "sourceIds": [
+        "commute"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "retorno",
+      "word": "retorno",
+      "en": "retorno",
+      "ru": [
+        "разворот"
+      ],
+      "example": "Ela orou pelo retorno do seu filho.",
+      "level": "B1",
+      "sourceId": "u-turn",
+      "sourceIds": [
+        "u-turn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "farol",
+      "word": "farol",
+      "en": "farol",
+      "ru": [
+        "фара"
+      ],
+      "example": "Você deixou os faróis dianteiros acesos.",
+      "level": "B1",
+      "sourceId": "headlight",
+      "sourceIds": [
+        "headlight",
+        "headlamp"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carrinho",
+      "word": "carrinho",
+      "en": "carrinho",
+      "ru": [
+        "тележка",
+        "трамвай"
+      ],
+      "example": "Você ainda brinca de carrinho?",
+      "level": "B1",
+      "sourceId": "trolley",
+      "sourceIds": [
+        "trolley"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dirigiu",
+      "word": "dirigiu",
+      "en": "dirigiu",
+      "ru": [
+        "водить",
+        "ехать"
+      ],
+      "example": "Você já dirigiu um carro esportivo?",
+      "level": "B1",
+      "sourceId": "drove",
+      "sourceIds": [
+        "drove"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacionamento",
+      "word": "estacionamento",
+      "en": "estacionamento",
+      "ru": [
+        "парковка"
+      ],
+      "example": "Você pode validar este bilhete de estacionamento, por favor?",
+      "level": "B1",
+      "sourceId": "carpark",
+      "sourceIds": [
+        "carpark"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rebocar",
+      "word": "rebocar",
+      "en": "rebocar",
+      "ru": [
+        "буксировать"
+      ],
+      "example": "Você pode rebocar meu carro?",
+      "level": "B1",
+      "sourceId": "tow",
+      "sourceIds": [
+        "tow"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bmw",
+      "word": "BMW",
+      "en": "BMW",
+      "ru": [
+        "БМВ"
+      ],
+      "example": "O Tom conduz um BMW.",
+      "level": "B1",
+      "sourceId": "beemer",
+      "sourceIds": [
+        "beemer",
+        "bmw"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jato",
+      "word": "jato",
+      "en": "jato",
+      "ru": [
+        "реактивный самолет"
+      ],
+      "example": "O jato pousou no aeroporto de Congonhas.",
+      "level": "B1",
+      "sourceId": "jet",
+      "sourceIds": [
+        "jet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "elevador",
+      "word": "elevador",
+      "en": "elevador",
+      "ru": [
+        "лифт"
+      ],
+      "example": "Você pegou o elevador até o terceiro andar.",
+      "level": "B1",
+      "sourceId": "elevator",
+      "sourceIds": [
+        "elevator"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "picape",
+      "word": "picape",
+      "en": "picape",
+      "ru": [
+        "пикап",
+        "подбор"
+      ],
+      "example": "Minha picape está presa na lama.",
+      "level": "B1",
+      "sourceId": "pickup",
+      "sourceIds": [
+        "pickup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "batidinha",
+      "word": "batidinha",
+      "en": "batidinha",
+      "ru": [
+        "незначительное ДТП"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fender-bender",
+      "sourceIds": [
+        "fender-bender"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "motorista",
+      "word": "motorista",
+      "en": "motorista",
+      "ru": [
+        "автомобилист"
+      ],
+      "example": "Quanto você ganha como motorista de guincho?",
+      "level": "B1",
+      "sourceId": "motorist",
+      "sourceIds": [
+        "motorist"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "desviar",
+      "word": "desviar",
+      "en": "desviar",
+      "ru": [
+        "сворачивать",
+        "резко менять направление"
+      ],
+      "example": "Você é especialista em desviar a conversa.",
+      "level": "B1",
+      "sourceId": "swerve",
+      "sourceIds": [
+        "swerve"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "derrubar-do-cavalo",
+      "word": "derrubar do cavalo",
+      "en": "derrubar do cavalo",
+      "ru": [
+        "сбрасывать с лошади"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unhorse",
+      "sourceIds": [
+        "unhorse"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "morrer",
+      "word": "morrer",
+      "en": "morrer",
+      "ru": [
+        "заглохнуть",
+        "тянуть время"
+      ],
+      "example": "\"Eu vou morrer?\" \"Não, você vai descansar.\"",
+      "level": "B1",
+      "sourceId": "stall",
+      "sourceIds": [
+        "stall"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trilho",
+      "word": "trilho",
+      "en": "trilho",
+      "ru": [
+        "рельс",
+        "перила"
+      ],
+      "example": "Hoje tudo está andando nos trilhos.",
+      "level": "B1",
+      "sourceId": "rail",
+      "sourceIds": [
+        "rail"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quilha",
+      "word": "quilha",
+      "en": "quilha",
+      "ru": [
+        "киль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "keel",
+      "sourceIds": [
+        "keel"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "conves",
+      "word": "convés",
+      "en": "convés",
+      "ru": [
+        "палуба"
+      ],
+      "example": "No convés há espreguiçadeiras.",
+      "level": "B1",
+      "sourceId": "deck",
+      "sourceIds": [
+        "deck"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bote",
+      "word": "bote",
+      "en": "bote",
+      "ru": [
+        "шлюпка",
+        "надувная лодка"
+      ],
+      "example": "Para atravessar o rio, você pode usar um bote ou a ponte.",
+      "level": "B1",
+      "sourceId": "dinghy",
+      "sourceIds": [
+        "dinghy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "derrapar",
+      "word": "derrapar",
+      "en": "derrapar",
+      "ru": [
+        "скользить",
+        "заносить"
+      ],
+      "example": "Você derrapou.",
+      "level": "B1",
+      "sourceId": "skid",
+      "sourceIds": [
+        "skid"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "conversivel",
+      "word": "conversível",
+      "en": "conversível",
+      "ru": [
+        "с открытым верхом"
+      ],
+      "example": "Eu dirijo um conversível.",
+      "level": "B1",
+      "sourceId": "open-top",
+      "sourceIds": [
+        "open-top"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trem-de-pouso",
+      "word": "trem de pouso",
+      "en": "trem de pouso",
+      "ru": [
+        "шасси",
+        "ходовая часть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "undercarriage",
+      "sourceIds": [
+        "undercarriage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fazer-chupeta",
+      "word": "fazer chupeta",
+      "en": "fazer chupeta",
+      "ru": [
+        "заводить двигатель",
+        "стимулировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "jump-start",
+      "sourceIds": [
+        "jump-start"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "motoqueiro",
+      "word": "motoqueiro",
+      "en": "motoqueiro",
+      "ru": [
+        "байкер",
+        "велосипедист"
+      ],
+      "example": "Começou hoje a concentração de motoqueiros em Faro, no Algarve.",
+      "level": "B1",
+      "sourceId": "biker",
+      "sourceIds": [
+        "biker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "retrovisor",
+      "word": "retrovisor",
+      "en": "retrovisor",
+      "ru": [
+        "вид сзади"
+      ],
+      "example": "Sami prendeu com fita adesiva o espelho retrovisor.",
+      "level": "B1",
+      "sourceId": "rearview",
+      "sourceIds": [
+        "rearview"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atracar",
+      "word": "atracar",
+      "en": "atracar",
+      "ru": [
+        "швартоваться"
+      ],
+      "example": "Os primeiros navios deverão atracar no porto em novembro.",
+      "level": "B1",
+      "sourceId": "dock",
+      "sourceIds": [
+        "dock"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zepelim",
+      "word": "zepelim",
+      "en": "zepelim",
+      "ru": [
+        "цеппелин",
+        "дирижабль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "zeppelin",
+      "sourceIds": [
+        "zeppelin"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "lado-do-passageiro",
+      "word": "lado do passageiro",
+      "en": "lado do passageiro",
+      "ru": [
+        "ближняя сторона"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nearside",
+      "sourceIds": [
+        "nearside"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "superesportivo",
+      "word": "superesportivo",
+      "en": "superesportivo",
+      "ru": [
+        "суперкар"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "supercar",
+      "sourceIds": [
+        "supercar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hatch",
+      "word": "hatch",
+      "en": "hatch",
+      "ru": [
+        "хэтчбек"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hatchback",
+      "sourceIds": [
+        "hatchback"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "citroen",
+      "word": "Citroën",
+      "en": "Citroën",
+      "ru": [
+        "ситроен"
+      ],
+      "example": "O Citroën 2CV foi substituído pelo Diane 6.",
+      "level": "B1",
+      "sourceId": "citroen",
+      "sourceIds": [
+        "citroen"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "monovolume",
+      "word": "monovolume",
+      "en": "monovolume",
+      "ru": [
+        "мультиспейс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "multispace",
+      "sourceIds": [
+        "multispace"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gasolina",
+      "word": "gasolina",
+      "en": "gasolina",
+      "ru": [
+        "бензин"
+      ],
+      "example": "Onde foi que você comprou gasolina?",
+      "level": "B1",
+      "sourceId": "petrol",
+      "sourceIds": [
+        "petrol"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capo",
+      "word": "capô",
+      "en": "capô",
+      "ru": [
+        "капот"
+      ],
+      "example": "Disse para você abrir o capô, não o porta-malas.",
+      "level": "B1",
+      "sourceId": "bonnet",
+      "sourceIds": [
+        "bonnet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "colar-na-traseira",
+      "word": "colar na traseira",
+      "en": "colar na traseira",
+      "ru": [
+        "задний борт",
+        "ехать слишком близко"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tailgate",
+      "sourceIds": [
+        "tailgate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "para-choque",
+      "word": "para-choque",
+      "en": "para-choque",
+      "ru": [
+        "бампер"
+      ],
+      "example": "Os para-choques do carro estão danificados.",
+      "level": "B1",
+      "sourceId": "bumper",
+      "sourceIds": [
+        "bumper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carro-de-corrida",
+      "word": "carro de corrida",
+      "en": "carro de corrida",
+      "ru": [
+        "гоночный автомобиль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "racecar",
+      "sourceIds": [
+        "racecar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cupe",
+      "word": "cupê",
+      "en": "cupê",
+      "ru": [
+        "купе"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "coupe",
+      "sourceIds": [
+        "coupe"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "conversivel",
+      "word": "conversível",
+      "en": "conversível",
+      "ru": [
+        "кабриолет"
+      ],
+      "example": "Eu dirijo um conversível.",
+      "level": "B1",
+      "sourceId": "cabriolet",
+      "sourceIds": [
+        "cabriolet",
+        "convertible",
+        "drop-head"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caixa-de-cambio",
+      "word": "caixa de câmbio",
+      "en": "caixa de câmbio",
+      "ru": [
+        "коробка передач"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gearbox",
+      "sourceIds": [
+        "gearbox"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "acelerar",
+      "word": "acelerar",
+      "en": "acelerar",
+      "ru": [
+        "увеличивать обороты"
+      ],
+      "example": "A política só vai acelerar a inflação.",
+      "level": "B1",
+      "sourceId": "rev",
+      "sourceIds": [
+        "rev"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asa-de-gaivota",
+      "word": "asa de gaivota",
+      "en": "asa de gaivota",
+      "ru": [
+        "крыло чайки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gullwing",
+      "sourceIds": [
+        "gullwing"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pneu",
+      "word": "pneu",
+      "en": "pneu",
+      "ru": [
+        "шина"
+      ],
+      "example": "Você pode consertar o pneu furado agora?",
+      "level": "B1",
+      "sourceId": "tyre",
+      "sourceIds": [
+        "tyre"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "subesterco",
+      "word": "subesterço",
+      "en": "subesterço",
+      "ru": [
+        "недостаточная поворачиваемость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "understeer",
+      "sourceIds": [
+        "understeer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sobre-esterco",
+      "word": "sobre-esterço",
+      "en": "sobre-esterço",
+      "ru": [
+        "избыточная поворачиваемость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "oversteer",
+      "sourceIds": [
+        "oversteer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "derrapagem",
+      "word": "derrapagem",
+      "en": "derrapagem",
+      "ru": [
+        "занос задней оси"
+      ],
+      "example": "A derrapagem trouxe uma nuvem de fumaça.",
+      "level": "B1",
+      "sourceId": "tailslide",
+      "sourceIds": [
+        "tailslide"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "volvo",
+      "word": "Volvo",
+      "en": "Volvo",
+      "ru": [
+        "вольво"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "volvo",
+      "sourceIds": [
+        "volvo"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "airbag",
+      "word": "airbag",
+      "en": "airbag",
+      "ru": [
+        "подушка безопасности"
+      ],
+      "example": "Este carro é equipado com airbag.",
+      "level": "B1",
+      "sourceId": "airbag",
+      "sourceIds": [
+        "airbag"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hyundai",
+      "word": "Hyundai",
+      "en": "Hyundai",
+      "ru": [
+        "Хёндай"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hyundai",
+      "sourceIds": [
+        "hyundai"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nissan",
+      "word": "Nissan",
+      "en": "Nissan",
+      "ru": [
+        "Ниссан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nissan",
+      "sourceIds": [
+        "nissan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "daewoo",
+      "word": "Daewoo",
+      "en": "Daewoo",
+      "ru": [
+        "Дэу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "daewoo",
+      "sourceIds": [
+        "daewoo"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "suzuki",
+      "word": "Suzuki",
+      "en": "Suzuki",
+      "ru": [
+        "Сузуки"
+      ],
+      "example": "Quando o senhor Suzuki saiu do Japão?",
+      "level": "B1",
+      "sourceId": "suzuki",
+      "sourceIds": [
+        "suzuki"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "superpetroleiro",
+      "word": "superpetroleiro",
+      "en": "superpetroleiro",
+      "ru": [
+        "супертанкер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "supertanker",
+      "sourceIds": [
+        "supertanker"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "off-road",
+      "word": "off-road",
+      "en": "off-road",
+      "ru": [
+        "внедорожный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "off-road",
+      "sourceIds": [
+        "off-road"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "seda",
+      "word": "sedã",
+      "en": "sedã",
+      "ru": [
+        "седан",
+        "салон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "saloon",
+      "sourceIds": [
+        "saloon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mazda",
+      "word": "Mazda",
+      "en": "Mazda",
+      "ru": [
+        "Мазда"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mazda",
+      "sourceIds": [
+        "mazda"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ultrapassar",
+      "word": "ultrapassar",
+      "en": "ultrapassar",
+      "ru": [
+        "обгонять"
+      ],
+      "example": "Se você for rápido, o ultrapassará.",
+      "level": "B1",
+      "sourceId": "overtake",
+      "sourceIds": [
+        "overtake"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porta-copos",
+      "word": "porta-copos",
+      "en": "porta-copos",
+      "ru": [
+        "подстаканник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cup-holder",
+      "sourceIds": [
+        "cup-holder"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "motociclista",
+      "word": "motociclista",
+      "en": "motociclista",
+      "ru": [
+        "мотоциклист"
+      ],
+      "example": "O motociclista ultrapassou o limite de velocidade.",
+      "level": "B1",
+      "sourceId": "motorcyclist",
+      "sourceIds": [
+        "motorcyclist"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luz-de-freio",
+      "word": "luz de freio",
+      "en": "luz de freio",
+      "ru": [
+        "стоп-сигнал"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brake-light",
+      "sourceIds": [
+        "brake-light"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "chassi",
+      "word": "chassi",
+      "en": "chassi",
+      "ru": [
+        "шасси",
+        "кузов"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chassis",
+      "sourceIds": [
+        "chassis"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "limusine",
+      "word": "limusine",
+      "en": "limusine",
+      "ru": [
+        "лимузин"
+      ],
+      "example": "Quanto você dá por esta limusine?",
+      "level": "B1",
+      "sourceId": "limousine",
+      "sourceIds": [
+        "limousine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gaiola-de-protecao",
+      "word": "gaiola de proteção",
+      "en": "gaiola de proteção",
+      "ru": [
+        "каркас безопасности"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "roll-cage",
+      "sourceIds": [
+        "roll-cage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "velocimetro",
+      "word": "velocímetro",
+      "en": "velocímetro",
+      "ru": [
+        "спидометр"
+      ],
+      "example": "Tom olhou para o velocímetro.",
+      "level": "B1",
+      "sourceId": "speedo",
+      "sourceIds": [
+        "speedo"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "compacto",
+      "word": "compacto",
+      "en": "compacto",
+      "ru": [
+        "супермини"
+      ],
+      "example": "Ela me deu este disco compacto.",
+      "level": "B1",
+      "sourceId": "supermini",
+      "sourceIds": [
+        "supermini"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quilometragem",
+      "word": "quilometragem",
+      "en": "quilometragem",
+      "ru": [
+        "пробег",
+        "расход топлива"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mileage",
+      "sourceIds": [
+        "mileage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "freio-de-mao",
+      "word": "freio de mão",
+      "en": "freio de mão",
+      "ru": [
+        "ручной тормоз"
+      ],
+      "example": "O freio de mão está puxado?",
+      "level": "B1",
+      "sourceId": "handbrake",
+      "sourceIds": [
+        "handbrake"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "role-com-carro-roubado",
+      "word": "rolê com carro roubado",
+      "en": "rolê com carro roubado",
+      "ru": [
+        "угон автомобиля ради развлечения"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "joyriding",
+      "sourceIds": [
+        "joyriding"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "chicane",
+      "word": "chicane",
+      "en": "chicane",
+      "ru": [
+        "шикана",
+        "препятствие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chicane",
+      "sourceIds": [
+        "chicane"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pedalinho",
+      "word": "pedalinho",
+      "en": "pedalinho",
+      "ru": [
+        "водный велосипед"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pedalo",
+      "sourceIds": [
+        "pedalo"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "buzinar",
+      "word": "buzinar",
+      "en": "buzinar",
+      "ru": [
+        "гудок",
+        "ухать"
+      ],
+      "example": "Por que você está buzinando?",
+      "level": "B1",
+      "sourceId": "hoot",
+      "sourceIds": [
+        "hoot"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-bordo",
+      "word": "de bordo",
+      "en": "de bordo",
+      "ru": [
+        "бортовой"
+      ],
+      "example": "Há árvores de bordo nesta floresta.",
+      "level": "B1",
+      "sourceId": "on-board",
+      "sourceIds": [
+        "on-board"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grade",
+      "word": "grade",
+      "en": "grade",
+      "ru": [
+        "решетка"
+      ],
+      "example": "Você programa como hobby ou isso faz parte de sua grade?",
+      "level": "B1",
+      "sourceId": "grille",
+      "sourceIds": [
+        "grille"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tracao-traseira",
+      "word": "tração traseira",
+      "en": "tração traseira",
+      "ru": [
+        "заднеприводный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rear-wheel",
+      "sourceIds": [
+        "rear-wheel"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "motor-traseiro",
+      "word": "motor traseiro",
+      "en": "motor traseiro",
+      "ru": [
+        "заднемоторный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rear-engine",
+      "sourceIds": [
+        "rear-engine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "autobahn",
+      "word": "autobahn",
+      "en": "autobahn",
+      "ru": [
+        "автобан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "autobahn",
+      "sourceIds": [
+        "autobahn"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "motor-central",
+      "word": "motor central",
+      "en": "motor central",
+      "ru": [
+        "среднемоторный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mid-engine",
+      "sourceIds": [
+        "mid-engine"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "sem-cinto",
+      "word": "sem cinto",
+      "en": "sem cinto",
+      "ru": [
+        "непристегнутый"
+      ],
+      "example": "É proibido viajar sem o cinto de segurança.",
+      "level": "B1",
+      "sourceId": "unbelted",
+      "sourceIds": [
+        "unbelted"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cinto-de-seguranca",
+      "word": "cinto de segurança",
+      "en": "cinto de segurança",
+      "ru": [
+        "ремень безопасности"
+      ],
+      "example": "Eu não estava usando cinto de segurança.",
+      "level": "B1",
+      "sourceId": "seatbelt",
+      "sourceIds": [
+        "seatbelt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "homologado-para-rodar",
+      "word": "homologado para rodar",
+      "en": "homologado para rodar",
+      "ru": [
+        "допущенный к эксплуатации на дорогах"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "road-legal",
+      "sourceIds": [
+        "road-legal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "para-brisa",
+      "word": "para-brisa",
+      "en": "para-brisa",
+      "ru": [
+        "лобовое стекло"
+      ],
+      "example": "Você consegue ver os arranhões no para-brisa?",
+      "level": "B1",
+      "sourceId": "windscreen",
+      "sourceIds": [
+        "windscreen",
+        "windshield"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "triciclo",
+      "word": "triciclo",
+      "en": "triciclo",
+      "ru": [
+        "трехколесный велосипед"
+      ],
+      "example": "Eu comprei um triciclo para Tom.",
+      "level": "B1",
+      "sourceId": "tricycle",
+      "sourceIds": [
+        "tricycle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "colisao",
+      "word": "colisão",
+      "en": "colisão",
+      "ru": [
+        "столкновение"
+      ],
+      "example": "Durante a colisão, o farol dianteiro do carro quebrou.",
+      "level": "B1",
+      "sourceId": "collision",
+      "sourceIds": [
+        "collision"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "teto-solar",
+      "word": "teto solar",
+      "en": "teto solar",
+      "ru": [
+        "люк в крыше автомобиля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sunroof",
+      "sourceIds": [
+        "sunroof"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "lancha",
+      "word": "lancha",
+      "en": "lancha",
+      "ru": [
+        "моторная лодка"
+      ],
+      "example": "A lancha se soltou.",
+      "level": "B1",
+      "sourceId": "motorboat",
+      "sourceIds": [
+        "motorboat",
+        "powerboat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lava-jato",
+      "word": "lava-jato",
+      "en": "lava-jato",
+      "ru": [
+        "автомойка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "car-wash",
+      "sourceIds": [
+        "car-wash"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "acompanhamento-de-patrulha",
+      "word": "acompanhamento de patrulha",
+      "en": "acompanhamento de patrulha",
+      "ru": [
+        "совместный выезд"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ride-along",
+      "sourceIds": [
+        "ride-along"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "picape-de-rodado-duplo",
+      "word": "picape de rodado duplo",
+      "en": "picape de rodado duplo",
+      "ru": [
+        "пикап с двойными колесами"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dually",
+      "sourceIds": [
+        "dually"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "onibus-espacial",
+      "word": "ônibus espacial",
+      "en": "ônibus espacial",
+      "ru": [
+        "шаттл",
+        "челнок"
+      ],
+      "example": "O ônibus espacial Challenger explodiu no dia 28 de janeiro de 1986.",
+      "level": "B1",
+      "sourceId": "shuttle",
+      "sourceIds": [
+        "shuttle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taxista",
+      "word": "taxista",
+      "en": "taxista",
+      "ru": [
+        "таксист"
+      ],
+      "example": "Você é taxista há quanto tempo?",
+      "level": "B1",
+      "sourceId": "cabbie",
+      "sourceIds": [
+        "cabbie"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabine-de-pilotagem",
+      "word": "cabine de pilotagem",
+      "en": "cabine de pilotagem",
+      "ru": [
+        "кабина пилота"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cockpit",
+      "sourceIds": [
+        "cockpit"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "onibus-de-dois-andares",
+      "word": "ônibus de dois andares",
+      "en": "ônibus de dois andares",
+      "ru": [
+        "двухэтажный (автобус)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decker",
+      "sourceIds": [
+        "decker"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "minivan",
+      "word": "minivan",
+      "en": "minivan",
+      "ru": [
+        "минивэн"
+      ],
+      "example": "Fadil foi encontrado morto no banco da frente de sua minivan.",
+      "level": "B1",
+      "sourceId": "minivan",
+      "sourceIds": [
+        "minivan"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pontao",
+      "word": "pontão",
+      "en": "pontão",
+      "ru": [
+        "понтон"
+      ],
+      "example": "Os pontões são removíveis.",
+      "level": "B1",
+      "sourceId": "pontoon",
+      "sourceIds": [
+        "pontoon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abastecimento",
+      "word": "abastecimento",
+      "en": "abastecimento",
+      "ru": [
+        "заправка"
+      ],
+      "example": "O abastecimento de água de uma cidade é algo essencial.",
+      "level": "B1",
+      "sourceId": "fill-up",
+      "sourceIds": [
+        "fill-up"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ancora",
+      "word": "âncora",
+      "en": "âncora",
+      "ru": [
+        "якорь",
+        "якорить"
+      ],
+      "example": "Como as âncoras são levantadas? \"Por cordas.\"",
+      "level": "B1",
+      "sourceId": "anchor",
+      "sourceIds": [
+        "anchor"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "obras-na-estrada",
+      "word": "obras na estrada",
+      "en": "obras na estrada",
+      "ru": [
+        "дорожные работы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "roadwork",
+      "sourceIds": [
+        "roadwork"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ponto-de-desembarque",
+      "word": "ponto de desembarque",
+      "en": "ponto de desembarque",
+      "ru": [
+        "место высадки",
+        "снижение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drop-off",
+      "sourceIds": [
+        "drop-off"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bonde",
+      "word": "bonde",
+      "en": "bonde",
+      "ru": [
+        "трамвайные пути",
+        "трамвай"
+      ],
+      "example": "É melhor você ir de bonde.",
+      "level": "B1",
+      "sourceId": "tramway",
+      "sourceIds": [
+        "tramway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "onibus-de-dois-andares",
+      "word": "ônibus de dois andares",
+      "en": "ônibus de dois andares",
+      "ru": [
+        "двухэтажный автобус"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "routemaster",
+      "sourceIds": [
+        "routemaster"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "a-bordo",
+      "word": "a bordo",
+      "en": "a bordo",
+      "ru": [
+        "на борту"
+      ],
+      "example": "Por que você ainda não está a bordo do navio?",
+      "level": "B1",
+      "sourceId": "onboard",
+      "sourceIds": [
+        "onboard"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prius",
+      "word": "Prius",
+      "en": "Prius",
+      "ru": [
+        "приус"
+      ],
+      "example": "Dirigi o Prius do Tom uma vez.",
+      "level": "B1",
+      "sourceId": "prius",
+      "sourceIds": [
+        "prius"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hipercarro",
+      "word": "hipercarro",
+      "en": "hipercarro",
+      "ru": [
+        "гиперкар"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypercar",
+      "sourceIds": [
+        "hypercar"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mclaren",
+      "word": "McLaren",
+      "en": "McLaren",
+      "ru": [
+        "макларен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mclaren",
+      "sourceIds": [
+        "mclaren"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "porsche",
+      "word": "Porsche",
+      "en": "Porsche",
+      "ru": [
+        "порше"
+      ],
+      "example": "Se você fosse rico, você compraria uma Ferrari ou um Porsche?",
+      "level": "B1",
+      "sourceId": "porsche",
+      "sourceIds": [
+        "porsche"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milhas-por-galao",
+      "word": "milhas por galão",
+      "en": "milhas por galão",
+      "ru": [
+        "миль на галлон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mpg",
+      "sourceIds": [
+        "mpg"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "de-quatro-rodas",
+      "word": "de quatro rodas",
+      "en": "de quatro rodas",
+      "ru": [
+        "четырехколесный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "four-wheel",
+      "sourceIds": [
+        "four-wheel"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "escuna",
+      "word": "escuna",
+      "en": "escuna",
+      "ru": [
+        "шхуна"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "schooner",
+      "sourceIds": [
+        "schooner"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "antirrolagem",
+      "word": "antirrolagem",
+      "en": "antirrolagem",
+      "ru": [
+        "противооткатный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "anti-roll",
+      "sourceIds": [
+        "anti-roll"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "aerodromo",
+      "word": "aeródromo",
+      "en": "aeródromo",
+      "ru": [
+        "аэродром"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "airfield",
+      "sourceIds": [
+        "airfield"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "area-de-escape",
+      "word": "área de escape",
+      "en": "área de escape",
+      "ru": [
+        "сток",
+        "зона вылета"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "run-off",
+      "sourceIds": [
+        "run-off"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "guard-rail",
+      "word": "guard-rail",
+      "en": "guard-rail",
+      "ru": [
+        "отбойник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "armco",
+      "sourceIds": [
+        "armco"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "que-derrapa",
+      "word": "que derrapa",
+      "en": "que derrapa",
+      "ru": [
+        "дрифтующий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drifty",
+      "sourceIds": [
+        "drifty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sequestro",
+      "word": "sequestro",
+      "en": "sequestro",
+      "ru": [
+        "угон"
+      ],
+      "example": "A hipótese de sequestro não fazia sentido.",
+      "level": "B1",
+      "sourceId": "hijack",
+      "sourceIds": [
+        "hijack"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-baixa-velocidade",
+      "word": "de baixa velocidade",
+      "en": "de baixa velocidade",
+      "ru": [
+        "низкоскоростной"
+      ],
+      "example": "Aeronaves movidas a hélice são muito eficientes para voos de baixa velocidade.",
+      "level": "B1",
+      "sourceId": "low-speed",
+      "sourceIds": [
+        "low-speed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quadriciclo",
+      "word": "quadriciclo",
+      "en": "quadriciclo",
+      "ru": [
+        "квадроцикл"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "quad",
+      "sourceIds": [
+        "quad"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "roubo-de-carro",
+      "word": "roubo de carro",
+      "en": "roubo de carro",
+      "ru": [
+        "угон автомобиля"
+      ],
+      "example": "O Tom foi julgado por roubo de carro.",
+      "level": "B1",
+      "sourceId": "carjacking",
+      "sourceIds": [
+        "carjacking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "roubar-carro",
+      "word": "roubar carro",
+      "en": "roubar carro",
+      "ru": [
+        "угнать автомобиль"
+      ],
+      "example": "Tom disse que você roubou o carro dele.",
+      "level": "B1",
+      "sourceId": "carjack",
+      "sourceIds": [
+        "carjack"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-alta-velocidade",
+      "word": "de alta velocidade",
+      "en": "de alta velocidade",
+      "ru": [
+        "высокоскоростной"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "high-speed",
+      "sourceIds": [
+        "high-speed"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "fazer-ligacao-direta",
+      "word": "fazer ligação direta",
+      "en": "fazer ligação direta",
+      "ru": [
+        "завести машину без ключа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hotwire",
+      "sourceIds": [
+        "hotwire"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "carroceria",
+      "word": "carroceria",
+      "en": "carroceria",
+      "ru": [
+        "кузов автомобиля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bodywork",
+      "sourceIds": [
+        "bodywork"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "em-condicoes-de-rodar",
+      "word": "em condições de rodar",
+      "en": "em condições de rodar",
+      "ru": [
+        "пригодный для эксплуатации на дорогах"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "roadworthy",
+      "sourceIds": [
+        "roadworthy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tracao-traseira",
+      "word": "tração traseira",
+      "en": "tração traseira",
+      "ru": [
+        "заднеприводный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rear-wheel-drive",
+      "sourceIds": [
+        "rear-wheel-drive"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "aerodeslizador",
+      "word": "aerodeslizador",
+      "en": "aerodeslizador",
+      "ru": [
+        "судно на воздушной подушке"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hovercraft",
+      "sourceIds": [
+        "hovercraft"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "com-tracao-integral",
+      "word": "com tração integral",
+      "en": "com tração integral",
+      "ru": [
+        "полноприводный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "all-wheel",
+      "sourceIds": [
+        "all-wheel"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "transportador",
+      "word": "transportador",
+      "en": "transportador",
+      "ru": [
+        "транспортировщик",
+        "грузовик"
+      ],
+      "example": "As correias transportadoras levam os ovos diretamente para a área de embalamento.",
+      "level": "B1",
+      "sourceId": "transporter",
+      "sourceIds": [
+        "transporter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "industria-automobilistica",
+      "word": "indústria automobilística",
+      "en": "indústria automobilística",
+      "ru": [
+        "автомобилестроение"
+      ],
+      "example": "Detroit é famosa pela sua indústria automobilística.",
+      "level": "B1",
+      "sourceId": "carmaking",
+      "sourceIds": [
+        "carmaking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carro-de-turismo",
+      "word": "carro de turismo",
+      "en": "carro de turismo",
+      "ru": [
+        "туристический автомобиль"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tourer",
+      "sourceIds": [
+        "tourer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "de-duas-portas",
+      "word": "de duas portas",
+      "en": "de duas portas",
+      "ru": [
+        "двухдверный"
+      ],
+      "example": "A sala de jantar tem duas portas.",
+      "level": "B1",
+      "sourceId": "two-door",
+      "sourceIds": [
+        "two-door"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milhas-por-hora",
+      "word": "milhas por hora",
+      "en": "milhas por hora",
+      "ru": [
+        "миль в час"
+      ],
+      "example": "O trem ia a 500 milhas por hora.",
+      "level": "B1",
+      "sourceId": "mph",
+      "sourceIds": [
+        "mph"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "montadora",
+      "word": "montadora",
+      "en": "montadora",
+      "ru": [
+        "автопроизводитель"
+      ],
+      "example": "A montadora irá revelar sua nova linha de carros esportivos amanhã.",
+      "level": "B1",
+      "sourceId": "carmaker",
+      "sourceIds": [
+        "carmaker"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alavanca-de-cambio",
+      "word": "alavanca de câmbio",
+      "en": "alavanca de câmbio",
+      "ru": [
+        "рычаг переключения передач"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gearstick",
+      "sourceIds": [
+        "gearstick"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lancha",
+      "word": "lancha",
+      "en": "lancha",
+      "ru": [
+        "быстроходный катер"
+      ],
+      "example": "A lancha se soltou.",
+      "level": "B1",
+      "sourceId": "speedboat",
+      "sourceIds": [
+        "speedboat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "buzina",
+      "word": "buzina",
+      "en": "buzina",
+      "ru": [
+        "клаксон",
+        "сирена"
+      ],
+      "example": "Isto é uma buzina.",
+      "level": "B1",
+      "sourceId": "klaxon",
+      "sourceIds": [
+        "klaxon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muscle-car",
+      "word": "muscle car",
+      "en": "muscle car",
+      "ru": [
+        "мощный автомобиль"
+      ],
+      "example": "Qual é o seu muscle car favorito?",
+      "level": "B1",
+      "sourceId": "muscle-car",
+      "sourceIds": [
+        "muscle-car"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pintura",
+      "word": "pintura",
+      "en": "pintura",
+      "ru": [
+        "лакокрасочное покрытие"
+      ],
+      "example": "Convido você à exposição de minhas pinturas.",
+      "level": "B1",
+      "sourceId": "paintwork",
+      "sourceIds": [
+        "paintwork"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tonelagem",
+      "word": "tonelagem",
+      "en": "tonelagem",
+      "ru": [
+        "тоннаж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tonnage",
+      "sourceIds": [
+        "tonnage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "autoestrada",
+      "word": "autoestrada",
+      "en": "autoestrada",
+      "ru": [
+        "автострада"
+      ],
+      "example": "A autoestrada M1 conecta Londres a Leeds.",
+      "level": "B1",
+      "sourceId": "superhighway",
+      "sourceIds": [
+        "superhighway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "treno",
+      "word": "trenó",
+      "en": "trenó",
+      "ru": [
+        "сани"
+      ],
+      "example": "Eu comprei um novo trenó para meu filho.",
+      "level": "B1",
+      "sourceId": "sleigh",
+      "sourceIds": [
+        "sleigh"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barco-a-vapor",
+      "word": "barco a vapor",
+      "en": "barco a vapor",
+      "ru": [
+        "пароход"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "steamship",
+      "sourceIds": [
+        "steamship"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "caminhao-cheio",
+      "word": "caminhão cheio",
+      "en": "caminhão cheio",
+      "ru": [
+        "грузовик",
+        "полный грузовик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "truckload",
+      "sourceIds": [
+        "truckload"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

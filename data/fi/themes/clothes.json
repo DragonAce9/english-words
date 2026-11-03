@@ -1,0 +1,2754 @@
+{
+  "id": "clothes",
+  "title": "Одежда",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "asuste",
+      "word": "asuste",
+      "en": "asuste",
+      "ru": [
+        "аксессуар",
+        "дополнение"
+      ],
+      "example": "Tunnen itseni alastomaksi ilman asusteita.",
+      "level": "B1",
+      "sourceId": "accessory",
+      "sourceIds": [
+        "accessory"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pukea",
+      "word": "pukea",
+      "en": "pukea",
+      "ru": [
+        "одежда",
+        "наряд"
+      ],
+      "example": "On vaikeaa pukea sanoiksi tämän maan ihanuutta.",
+      "level": "A2",
+      "sourceId": "apparel",
+      "sourceIds": [
+        "apparel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vyo",
+      "word": "vyö",
+      "en": "vyö",
+      "ru": [
+        "ремень",
+        "пояс"
+      ],
+      "example": "Onko tuo vyö, jonka annoin sinulle?",
+      "level": "A2",
+      "sourceId": "belt",
+      "sourceIds": [
+        "belt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bleiseri",
+      "word": "bleiseri",
+      "en": "bleiseri",
+      "ru": [
+        "блейзер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "blazer",
+      "sourceIds": [
+        "blazer"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "paita",
+      "word": "paita",
+      "en": "paita",
+      "ru": [
+        "блуза",
+        "блузка"
+      ],
+      "example": "Aitaa maalatessaan Tom sotki maalia vahingossa paidalleen.",
+      "level": "A2",
+      "sourceId": "blouse",
+      "sourceIds": [
+        "blouse"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "olkihattu",
+      "word": "olkihattu",
+      "en": "olkihattu",
+      "ru": [
+        "канотье"
+      ],
+      "example": "Olen todella kiintynyt tähän vanhaan olkihattuun.",
+      "level": "C2",
+      "sourceId": "boater",
+      "sourceIds": [
+        "boater"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saapas",
+      "word": "saapas",
+      "en": "saapas",
+      "ru": [
+        "ботинок",
+        "сапог",
+        "башмак"
+      ],
+      "example": "Kysyin Tomilta mistä hän oli ostanut saappaansa.",
+      "level": "B1",
+      "sourceId": "boot",
+      "sourceIds": [
+        "boot"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rannekoru",
+      "word": "rannekoru",
+      "en": "rannekoru",
+      "ru": [
+        "браслет"
+      ],
+      "example": "Kuinka monta rannekorua luulet Marylla olevan?",
+      "level": "B2",
+      "sourceId": "bracelet",
+      "sourceIds": [
+        "bracelet"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nappi",
+      "word": "nappi",
+      "en": "nappi",
+      "ru": [
+        "пуговица",
+        "кнопка",
+        "застёгивать"
+      ],
+      "example": "\"Pääsikö Tomi kokeesta läpi?\" – \"Nipin napin.\"",
+      "level": "A2",
+      "sourceId": "button",
+      "sourceIds": [
+        "button"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lakki",
+      "word": "lakki",
+      "en": "lakki",
+      "ru": [
+        "фуражка",
+        "колпачок",
+        "крышечка"
+      ],
+      "example": "Tämä lakki on liian pieni. Voisitko näyttää jotain toista?",
+      "level": "B1",
+      "sourceId": "cap",
+      "sourceIds": [
+        "cap"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sovitushuone",
+      "word": "sovitushuone",
+      "en": "sovitushuone",
+      "ru": [
+        "примерочная"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "viitta",
+      "word": "viitta",
+      "en": "viitta",
+      "ru": [
+        "плащ",
+        "мантия",
+        "покров"
+      ],
+      "example": "Opettaja viittasi nuoreen Tomiin sanoilla “tabula rasa”.",
+      "level": "A2",
+      "sourceId": "cloak",
+      "sourceIds": [
+        "cloak"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaatteet",
+      "word": "vaatteet",
+      "en": "vaatteet",
+      "ru": [
+        "одежда",
+        "одёжа"
+      ],
+      "example": "Jos teet vaatteet omin käsin, säästät rahaa.",
+      "level": "A1",
+      "sourceId": "clothes",
+      "sourceIds": [
+        "clothes"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaateharja",
+      "word": "vaateharja",
+      "en": "vaateharja",
+      "ru": [
+        "платяная щётка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "clothes-brush",
+      "sourceIds": [
+        "clothes-brush"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pyykkinaru",
+      "word": "pyykkinaru",
+      "en": "pyykkinaru",
+      "ru": [
+        "бельевая верёвка"
+      ],
+      "example": "Mary viritti pyykkinarun puiden väliin.",
+      "level": "C2",
+      "sourceId": "clothesline",
+      "sourceIds": [
+        "clothesline"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaatetus",
+      "word": "vaatetus",
+      "en": "vaatetus",
+      "ru": [
+        "одежда"
+      ],
+      "example": "Mies muistaa aina jotenkin kommentoida naisen vaatetusta.",
+      "level": "A2",
+      "sourceId": "clothing",
+      "sourceIds": [
+        "clothing"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "takki",
+      "word": "takki",
+      "en": "takki",
+      "ru": [
+        "пальто",
+        "пиджак"
+      ],
+      "example": "Kummallakin, Tomilla ja Marilla oli musta takki.",
+      "level": "A1",
+      "sourceId": "coat",
+      "sourceIds": [
+        "coat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaulus",
+      "word": "kaulus",
+      "en": "kaulus",
+      "ru": [
+        "воротник",
+        "ворот"
+      ],
+      "example": "Kaulus istuu liian tiukasti kaulani ympärillä.",
+      "level": "A2",
+      "sourceId": "collar",
+      "sourceIds": [
+        "collar"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puku",
+      "word": "puku",
+      "en": "puku",
+      "ru": [
+        "костюм",
+        "наряд"
+      ],
+      "example": "Auta minua valitsemaan tähän pukuun sopiva solmio.",
+      "level": "B2",
+      "sourceId": "costume",
+      "sourceIds": [
+        "costume"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puuvillainen",
+      "word": "puuvillainen",
+      "en": "puuvillainen",
+      "ru": [
+        "хлопковый",
+        "хлопчатый",
+        "хлопчатобумажный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "cotton",
+      "sourceIds": [
+        "cotton"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kasiraudat",
+      "word": "käsiraudat",
+      "en": "käsiraudat",
+      "ru": [
+        "манжеты",
+        "наручники"
+      ],
+      "example": "Oliko Tomi käsiraudoissa?",
+      "level": "C2",
+      "sourceId": "cuffs",
+      "sourceIds": [
+        "cuffs"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mekko",
+      "word": "mekko",
+      "en": "mekko",
+      "ru": [
+        "платье",
+        "одеваться"
+      ],
+      "example": "Mari itse ompelee itselleen mekkoja ja hameita.",
+      "level": "A1",
+      "sourceId": "dress",
+      "sourceIds": [
+        "dress"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pukeutunut",
+      "word": "pukeutunut",
+      "en": "pukeutunut",
+      "ru": [
+        "одетый"
+      ],
+      "example": "Päivän kunniaksi hän oli pukeutunut luumunväriseen iltapukuun.",
+      "level": "C1",
+      "sourceId": "dressed",
+      "sourceIds": [
+        "dressed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "korvakoru",
+      "word": "korvakoru",
+      "en": "korvakoru",
+      "ru": [
+        "серёжка",
+        "серьга"
+      ],
+      "example": "Ehkä sinun korvakorusi on pöydän alla.",
+      "level": "C2",
+      "sourceId": "earring",
+      "sourceIds": [
+        "earring"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muoti",
+      "word": "muoti",
+      "en": "muoti",
+      "ru": [
+        "мода",
+        "способ",
+        "стиль"
+      ],
+      "example": "Sarvelliset viikinkikypärät eivät ole enää muodissa Skandinaviassa.",
+      "level": "A2",
+      "sourceId": "fashion",
+      "sourceIds": [
+        "fashion"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muodikas",
+      "word": "muodikas",
+      "en": "muodikas",
+      "ru": [
+        "модный",
+        "фешенебельный"
+      ],
+      "example": "Kaikilla on nykyään muodikkaat laukut.",
+      "level": "A2",
+      "sourceId": "fashionable",
+      "sourceIds": [
+        "fashionable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muotitietoinen",
+      "word": "muotitietoinen",
+      "en": "muotitietoinen",
+      "ru": [
+        "дизайнер",
+        "модник",
+        "модница"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fashionista",
+      "sourceIds": [
+        "fashionista"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sopia",
+      "word": "sopia",
+      "en": "sopia",
+      "ru": [
+        "сидеть по фигуре",
+        "подходить по размеру"
+      ],
+      "example": "Ananas sopii täydellisesti pitsaan, eteenkin sinihomejuuston kera.",
+      "level": "A2",
+      "sourceId": "fit",
+      "sourceIds": [
+        "fit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sovitus",
+      "word": "sovitus",
+      "en": "sovitus",
+      "ru": [
+        "примерка",
+        "подгонка"
+      ],
+      "example": "Myöhästyin sovitusta ajasta.",
+      "level": "C1",
+      "sourceId": "fitting",
+      "sourceIds": [
+        "fitting"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sovituskoppi",
+      "word": "sovituskoppi",
+      "en": "sovituskoppi",
+      "ru": [
+        "примерочная комната"
+      ],
+      "example": "Haluaisin sovittaa tätä. Missä sovituskopit ovat?",
+      "level": "C1",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hattu",
+      "word": "hattu",
+      "en": "hattu",
+      "ru": [
+        "шапка",
+        "шляпа",
+        "головной убор"
+      ],
+      "example": "Ei voi muuta sanoo, ku hattua nostaa.",
+      "level": "A1",
+      "sourceId": "hat",
+      "sourceIds": [
+        "hat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hatuntekija",
+      "word": "hatuntekijä",
+      "en": "hatuntekijä",
+      "ru": [
+        "шляпник",
+        "торговец шляпами",
+        "шляпный мастер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hatter",
+      "sourceIds": [
+        "hatter"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "huppari",
+      "word": "huppari",
+      "en": "huppari",
+      "ru": [
+        "балахон (с капюшоном)",
+        "толстовка (с капюшоном)",
+        "худи"
+      ],
+      "example": "Samilla oli mustat housut ja harmaa huppari.",
+      "level": "A2",
+      "sourceId": "hoodie",
+      "sourceIds": [
+        "hoodie"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "takki",
+      "word": "takki",
+      "en": "takki",
+      "ru": [
+        "куртка",
+        "жакет",
+        "пиджак"
+      ],
+      "example": "Kummallakin, Tomilla ja Marilla oli musta takki.",
+      "level": "A1",
+      "sourceId": "jacket",
+      "sourceIds": [
+        "jacket"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "farkut",
+      "word": "farkut",
+      "en": "farkut",
+      "ru": [
+        "джинсы"
+      ],
+      "example": "Minä luulen, että minun farkkuni ovat kutistuneet.",
+      "level": "A1",
+      "sourceId": "jeans",
+      "sourceIds": [
+        "jeans"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "villapaita",
+      "word": "villapaita",
+      "en": "villapaita",
+      "ru": [
+        "свитер",
+        "джерси",
+        "кофта"
+      ],
+      "example": "Koiran turkki on niin sanotusti sen villapaita.",
+      "level": "A2",
+      "sourceId": "jersey",
+      "sourceIds": [
+        "jersey"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "korut",
+      "word": "korut",
+      "en": "korut",
+      "ru": [
+        "ювелирные изделия",
+        "бижутерия",
+        "драгоценности"
+      ],
+      "example": "Hän tunnusti varastaneensa korut.",
+      "level": "B1",
+      "sourceId": "jewellery",
+      "sourceIds": [
+        "jewellery"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jumpperi",
+      "word": "jumpperi",
+      "en": "jumpperi",
+      "ru": [
+        "джемпер"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "jumper",
+      "sourceIds": [
+        "jumper"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pauloittaa",
+      "word": "pauloittaa",
+      "en": "pauloittaa",
+      "ru": [
+        "кружево",
+        "шнурок"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "lace",
+      "sourceIds": [
+        "lace"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nahka",
+      "word": "nahka",
+      "en": "nahka",
+      "ru": [
+        "кожа",
+        "кожаный"
+      ],
+      "example": "Hän on pelkkää luuta ja nahkaa.",
+      "level": "A2",
+      "sourceId": "leather",
+      "sourceIds": [
+        "leather"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tekonahka",
+      "word": "tekonahka",
+      "en": "tekonahka",
+      "ru": [
+        "дерматин"
+      ],
+      "example": "Tekonahka ei vedä vertoja aidolle nahalle.",
+      "level": "C2",
+      "sourceId": "leatherette",
+      "sourceIds": [
+        "leatherette"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nahkatyo",
+      "word": "nahkatyö",
+      "en": "nahkatyö",
+      "ru": [
+        "кожевничество"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "leatherwork",
+      "sourceIds": [
+        "leatherwork"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "alusvaatteet",
+      "word": "alusvaatteet",
+      "en": "alusvaatteet",
+      "ru": [
+        "дамское бельё",
+        "женское нижнее бельё"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lingerie",
+      "sourceIds": [
+        "lingerie"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "vuori",
+      "word": "vuori",
+      "en": "vuori",
+      "ru": [
+        "подкладка"
+      ],
+      "example": "Jotkut ihmiset pitävät merestä, toiset taas vuorista.",
+      "level": "C2",
+      "sourceId": "lining",
+      "sourceIds": [
+        "lining"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valja",
+      "word": "väljä",
+      "en": "väljä",
+      "ru": [
+        "свободный",
+        "широкий"
+      ],
+      "example": "Marilla oli yllään väljä, pitkähihanen t-paita ja kivipestyt design-farkut.",
+      "level": "B2",
+      "sourceId": "loose",
+      "sourceIds": [
+        "loose"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alasti",
+      "word": "alasti",
+      "en": "alasti",
+      "ru": [
+        "голый",
+        "обнажённый",
+        "нагой"
+      ],
+      "example": "Et voi kävellä alasti ympäriinsä tässä hotellissa.",
+      "level": "A2",
+      "sourceId": "naked",
+      "sourceIds": [
+        "naked"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaulakoru",
+      "word": "kaulakoru",
+      "en": "kaulakoru",
+      "ru": [
+        "ожерелье",
+        "колье",
+        "монисто"
+      ],
+      "example": "Kaulakoru katkesi ja helmet vierivät pitkin lattiaa.",
+      "level": "B2",
+      "sourceId": "necklace",
+      "sourceIds": [
+        "necklace"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asu",
+      "word": "asu",
+      "en": "asu",
+      "ru": [
+        "костюм",
+        "наряд",
+        "обмундирование"
+      ],
+      "example": "\"Missä te asutte?\" - \"Minä asun Tokiossa.\"",
+      "level": "C2",
+      "sourceId": "outfit",
+      "sourceIds": [
+        "outfit"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haalarit",
+      "word": "haalarit",
+      "en": "haalarit",
+      "ru": [
+        "комбинезон",
+        "полукомбинезон"
+      ],
+      "example": "Mistä voisin ostaa haalarit?",
+      "level": "C2",
+      "sourceId": "overalls",
+      "sourceIds": [
+        "overalls"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paallystakki",
+      "word": "päällystakki",
+      "en": "päällystakki",
+      "ru": [
+        "пальто",
+        "шинель"
+      ],
+      "example": "Tämä vanha päällystakki ei ole enää pitokelpoinen.",
+      "level": "A2",
+      "sourceId": "overcoat",
+      "sourceIds": [
+        "overcoat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pyjama",
+      "word": "pyjama",
+      "en": "pyjama",
+      "ru": [
+        "пижама"
+      ],
+      "example": "Brian pyjamassaan on keskittynyt lukemiseen kotonaan aamulla.",
+      "level": "A2",
+      "sourceId": "pajamas",
+      "sourceIds": [
+        "pajamas",
+        "pajama"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "housut",
+      "word": "housut",
+      "en": "housut",
+      "ru": [
+        "брюки",
+        "штаны"
+      ],
+      "example": "Andreolla on vihreä t-paita ja valkoiset housut.",
+      "level": "A1",
+      "sourceId": "pants",
+      "sourceIds": [
+        "pants"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tasku",
+      "word": "tasku",
+      "en": "tasku",
+      "ru": [
+        "карман"
+      ],
+      "example": "Hän pisti kätensä taskuun ja etsi lompakkoaan.",
+      "level": "A2",
+      "sourceId": "pocket",
+      "sourceIds": [
+        "pocket"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kukkaro",
+      "word": "kukkaro",
+      "en": "kukkaro",
+      "ru": [
+        "кошелёк",
+        "бумажник",
+        "мошна"
+      ],
+      "example": "Hän avasi kukkaronsa ja otti esiin shekkivihkon.",
+      "level": "A2",
+      "sourceId": "purse",
+      "sourceIds": [
+        "purse"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sadetakki",
+      "word": "sadetakki",
+      "en": "sadetakki",
+      "ru": [
+        "плащ",
+        "дождевик"
+      ],
+      "example": "Etsin laivastonsinistä sadetakkia, kokoa 36.",
+      "level": "A2",
+      "sourceId": "raincoat",
+      "sourceIds": [
+        "raincoat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jengi",
+      "word": "jengi",
+      "en": "jengi",
+      "ru": [
+        "банда",
+        "группировка",
+        "клика"
+      ],
+      "example": "Hän oli mukana kahakassa väkivaltaisen jengin kanssa.",
+      "level": "A2",
+      "sourceId": "ring",
+      "sourceIds": [
+        "ring"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mekko",
+      "word": "mekko",
+      "en": "mekko",
+      "ru": [
+        "мантия",
+        "халат"
+      ],
+      "example": "Mari itse ompelee itselleen mekkoja ja hameita.",
+      "level": "A2",
+      "sourceId": "robe",
+      "sourceIds": [
+        "robe"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaulaliina",
+      "word": "kaulaliina",
+      "en": "kaulaliina",
+      "ru": [
+        "шарф"
+      ],
+      "example": "Rakastan tätä kaulaliinaa.",
+      "level": "A2",
+      "sourceId": "scarf",
+      "sourceIds": [
+        "scarf"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paita",
+      "word": "paita",
+      "en": "paita",
+      "ru": [
+        "рубашка",
+        "сорочка"
+      ],
+      "example": "Aitaa maalatessaan Tom sotki maalia vahingossa paidalleen.",
+      "level": "A1",
+      "sourceId": "shirt",
+      "sourceIds": [
+        "shirt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "shortsit",
+      "word": "shortsit",
+      "en": "shortsit",
+      "ru": [
+        "шорты"
+      ],
+      "example": "Vanhoista farkuista voi tuunata shortsit.",
+      "level": "B2",
+      "sourceId": "shorts",
+      "sourceIds": [
+        "shorts"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "silkki",
+      "word": "silkki",
+      "en": "silkki",
+      "ru": [
+        "шёлк"
+      ],
+      "example": "Silkki on pehmeää ja liukasta.",
+      "level": "A2",
+      "sourceId": "silk",
+      "sourceIds": [
+        "silk"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "koko",
+      "word": "koko",
+      "en": "koko",
+      "ru": [
+        "величина",
+        "объём",
+        "размер"
+      ],
+      "example": "Aion pistää koko tämän kuun palkkani vaatteisiin.",
+      "level": "A1",
+      "sourceId": "size",
+      "sourceIds": [
+        "size"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hame",
+      "word": "hame",
+      "en": "hame",
+      "ru": [
+        "юбка"
+      ],
+      "example": "Mari itse ompelee itselleen mekkoja ja hameita.",
+      "level": "A1",
+      "sourceId": "skirt",
+      "sourceIds": [
+        "skirt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hiha",
+      "word": "hiha",
+      "en": "hiha",
+      "ru": [
+        "рукав",
+        "втулка",
+        "гильза"
+      ],
+      "example": "Hän talutti minut pois mökiltä yhä hihastani vetäen.",
+      "level": "B2",
+      "sourceId": "sleeve",
+      "sourceIds": [
+        "sleeve"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sukka",
+      "word": "sukka",
+      "en": "sukka",
+      "ru": [
+        "чулок"
+      ],
+      "example": "Hänellä on kengät jalassa mutta ei sukkia.",
+      "level": "C2",
+      "sourceId": "stocking",
+      "sourceIds": [
+        "stocking"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puku",
+      "word": "puku",
+      "en": "puku",
+      "ru": [
+        "костюм",
+        "комбинезон",
+        "масть"
+      ],
+      "example": "Auta minua valitsemaan tähän pukuun sopiva solmio.",
+      "level": "B1",
+      "sourceId": "suit",
+      "sourceIds": [
+        "suit"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aurinkolasit",
+      "word": "aurinkolasit",
+      "en": "aurinkolasit",
+      "ru": [
+        "солнцезащитные очки",
+        "солнечные очки",
+        "тёмные очки"
+      ],
+      "example": "Tomilla ja Maryllä oli molemmilla aurinkolasit päässä.",
+      "level": "B2",
+      "sourceId": "sunglasses",
+      "sourceIds": [
+        "sunglasses"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "villapaita",
+      "word": "villapaita",
+      "en": "villapaita",
+      "ru": [
+        "джемпер",
+        "кофта",
+        "пуловер"
+      ],
+      "example": "Koiran turkki on niin sanotusti sen villapaita.",
+      "level": "A2",
+      "sourceId": "sweater",
+      "sourceIds": [
+        "sweater"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tiukka",
+      "word": "tiukka",
+      "en": "tiukka",
+      "ru": [
+        "тесный",
+        "тугой"
+      ],
+      "example": "Tämän koulun säännöt eivät ole kovinkaan tiukkoja.",
+      "level": "B1",
+      "sourceId": "tight",
+      "sourceIds": [
+        "tight"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sukkahousut",
+      "word": "sukkahousut",
+      "en": "sukkahousut",
+      "ru": [
+        "колготки",
+        "трико"
+      ],
+      "example": "Nämä ovat erityisen lämpimät sukkahousut, villaa kun ovat.",
+      "level": "A2",
+      "sourceId": "tights",
+      "sourceIds": [
+        "tights"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kokeilla",
+      "word": "kokeilla",
+      "en": "kokeilla",
+      "ru": [
+        "примерять"
+      ],
+      "example": "Ei sitä saa ikinä tietää, ellei kokeile.",
+      "level": "A1",
+      "sourceId": "try-on",
+      "sourceIds": [
+        "try-on"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alusvaatteet",
+      "word": "alusvaatteet",
+      "en": "alusvaatteet",
+      "ru": [
+        "бельё",
+        "исподнее",
+        "нижнее бельё"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "underwear",
+      "sourceIds": [
+        "underwear"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "yhdenmukainen",
+      "word": "yhdenmukainen",
+      "en": "yhdenmukainen",
+      "ru": [
+        "однообразный",
+        "равномерный",
+        "единообразный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "uniform",
+      "sourceIds": [
+        "uniform"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "liivi",
+      "word": "liivi",
+      "en": "liivi",
+      "ru": [
+        "безрукавка",
+        "жилет",
+        "жилетка"
+      ],
+      "example": "Käännä liivisi ympäri, se on nurinpäin.",
+      "level": "A2",
+      "sourceId": "vest",
+      "sourceIds": [
+        "vest",
+        "waistcoat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vintage",
+      "word": "vintage",
+      "en": "vintage",
+      "ru": [
+        "классический",
+        "выдержанный",
+        "марочный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "vintage",
+      "sourceIds": [
+        "vintage"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "olla-yllaan",
+      "word": "olla yllään",
+      "en": "olla yllään",
+      "ru": [
+        "носить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "wear",
+      "sourceIds": [
+        "wear"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "villa",
+      "word": "villa",
+      "en": "villa",
+      "ru": [
+        "шерсть",
+        "пряжа"
+      ],
+      "example": "Heidän työnsä on leikata lampaiden villaa.",
+      "level": "A2",
+      "sourceId": "wool",
+      "sourceIds": [
+        "wool"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "villainen",
+      "word": "villainen",
+      "en": "villainen",
+      "ru": [
+        "шерстяной"
+      ],
+      "example": "Tällä kertaa painan tämän villaisella.",
+      "level": "C2",
+      "sourceId": "woolly",
+      "sourceIds": [
+        "woolly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puhti",
+      "word": "puhti",
+      "en": "puhti",
+      "ru": [
+        "свист",
+        "живость"
+      ],
+      "example": "Käyttämällä viimeisen pisteen puhtia saisit heittoosi apunopan.",
+      "level": "A2",
+      "sourceId": "zip",
+      "sourceIds": [
+        "zip"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "erittain-suuri",
+      "word": "erittäin suuri",
+      "en": "erittäin suuri",
+      "ru": [
+        "очень большой"
+      ],
+      "example": "Tällä hämäkillä on erittäin suuret myrkkyhampaat.",
+      "level": "B1",
+      "sourceId": "xl",
+      "sourceIds": [
+        "xl"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sukka",
+      "word": "sukka",
+      "en": "sukka",
+      "ru": [
+        "носок"
+      ],
+      "example": "Hänellä on kengät jalassa mutta ei sukkia.",
+      "level": "B1",
+      "sourceId": "sock",
+      "sourceIds": [
+        "sock"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "peruukki",
+      "word": "peruukki",
+      "en": "peruukki",
+      "ru": [
+        "парик",
+        "накладка"
+      ],
+      "example": "Tomilla oli tapana käyttää peruukkia.",
+      "level": "B1",
+      "sourceId": "hairpiece",
+      "sourceIds": [
+        "hairpiece"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lapanen",
+      "word": "lapanen",
+      "en": "lapanen",
+      "ru": [
+        "варежка"
+      ],
+      "example": "Hän oli lukemassa, vierellään vaimo kutomassa lapasia.",
+      "level": "B1",
+      "sourceId": "mitten",
+      "sourceIds": [
+        "mitten"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rento",
+      "word": "rento",
+      "en": "rento",
+      "ru": [
+        "повседневный",
+        "небрежный",
+        "неформальный"
+      ],
+      "example": "Tomi vaikuttaa todella rennolta ja onnelliselta.",
+      "level": "B1",
+      "sourceId": "casual",
+      "sourceIds": [
+        "casual"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "meikki",
+      "word": "meikki",
+      "en": "meikki",
+      "ru": [
+        "макияж",
+        "косметика"
+      ],
+      "example": "Kasvot, joissa on liikaa meikkiä, näyttävät oudoilta.",
+      "level": "B1",
+      "sourceId": "makeup",
+      "sourceIds": [
+        "makeup"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "t-paita",
+      "word": "t-paita",
+      "en": "t-paita",
+      "ru": [
+        "футболка"
+      ],
+      "example": "Andreolla on vihreä t-paita ja valkoiset housut.",
+      "level": "B1",
+      "sourceId": "tee",
+      "sourceIds": [
+        "tee",
+        "t-shirt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kumisaapas",
+      "word": "kumisaapas",
+      "en": "kumisaapas",
+      "ru": [
+        "резиновый сапог"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "welly",
+      "sourceIds": [
+        "welly"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "riepu",
+      "word": "riepu",
+      "en": "riepu",
+      "ru": [
+        "лохмотья",
+        "рвань"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tatter",
+      "sourceIds": [
+        "tatter"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "trikoot",
+      "word": "trikoot",
+      "en": "trikoot",
+      "ru": [
+        "купальник",
+        "трико"
+      ],
+      "example": "Ovatko sinun mielestäsi miesten trikoot tyylikkäitä?",
+      "level": "B1",
+      "sourceId": "leotard",
+      "sourceIds": [
+        "leotard"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ommella",
+      "word": "ommella",
+      "en": "ommella",
+      "ru": [
+        "шить",
+        "зашивать"
+      ],
+      "example": "Mari itse ompelee itselleen mekkoja ja hameita.",
+      "level": "B1",
+      "sourceId": "stitch",
+      "sourceIds": [
+        "stitch"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hanska",
+      "word": "hanska",
+      "en": "hanska",
+      "ru": [
+        "перчатка"
+      ],
+      "example": "En muista, mistä ostin nämä hanskat?",
+      "level": "B1",
+      "sourceId": "glove",
+      "sourceIds": [
+        "glove"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rintahaarniska",
+      "word": "rintahaarniska",
+      "en": "rintahaarniska",
+      "ru": [
+        "нагрудник",
+        "кираса"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "breastplate",
+      "sourceIds": [
+        "breastplate"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "remmi",
+      "word": "remmi-",
+      "en": "remmi-",
+      "ru": [
+        "на ремешках"
+      ],
+      "example": "Kiristä remmi matkalaukun ympärille.",
+      "level": "B1",
+      "sourceId": "strappy",
+      "sourceIds": [
+        "strappy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sandaali",
+      "word": "sandaali",
+      "en": "sandaali",
+      "ru": [
+        "сандалия"
+      ],
+      "example": "Poika murskasi hämähäkin oikean jalan sandaalillaan.",
+      "level": "B1",
+      "sourceId": "sandal",
+      "sourceIds": [
+        "sandal"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "peruukki",
+      "word": "peruukki",
+      "en": "peruukki",
+      "ru": [
+        "парик"
+      ],
+      "example": "Tomilla oli tapana käyttää peruukkia.",
+      "level": "B1",
+      "sourceId": "wig",
+      "sourceIds": [
+        "wig"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "konepelti",
+      "word": "konepelti",
+      "en": "konepelti",
+      "ru": [
+        "капюшон",
+        "капот"
+      ],
+      "example": "On niin kuuma, että auton konepellillä voisi paistaa kananmunan.",
+      "level": "B1",
+      "sourceId": "hood",
+      "sourceIds": [
+        "hood"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pikkuhousut",
+      "word": "pikkuhousut",
+      "en": "pikkuhousut",
+      "ru": [
+        "трусики"
+      ],
+      "example": "Hän kuljeskelee ympäriinsä pikkuhousuissa ja rintaliiveissä.",
+      "level": "B1",
+      "sourceId": "panty",
+      "sourceIds": [
+        "panty"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lenkkari",
+      "word": "lenkkari",
+      "en": "lenkkari",
+      "ru": [
+        "кроссовок"
+      ],
+      "example": "Lenkkarini löyhkäävät taivaan korkeuksiin saakka.",
+      "level": "B1",
+      "sourceId": "sneaker",
+      "sourceIds": [
+        "sneaker"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kangas",
+      "word": "kangas",
+      "en": "kangas",
+      "ru": [
+        "ткань",
+        "материя"
+      ],
+      "example": "Näissä alusvaatteissa on käytetty sileää, hengittävää kangasta.",
+      "level": "B1",
+      "sourceId": "cloth",
+      "sourceIds": [
+        "cloth"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ylaosaton",
+      "word": "yläosaton",
+      "en": "yläosaton",
+      "ru": [
+        "топлес"
+      ],
+      "example": "Miksei täällä muka saa ottaa aurinkoa yläosattomissa?",
+      "level": "B1",
+      "sourceId": "topless",
+      "sourceIds": [
+        "topless"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laittaa",
+      "word": "laittaa",
+      "en": "laittaa",
+      "ru": [
+        "заправлять"
+      ],
+      "example": "\"Minkä solmion laitat?\" – \"Sen eilen ostamani.\"",
+      "level": "B1",
+      "sourceId": "tuck",
+      "sourceIds": [
+        "tuck"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muoti",
+      "word": "muoti",
+      "en": "muoti",
+      "ru": [
+        "мода"
+      ],
+      "example": "Sarvelliset viikinkikypärät eivät ole enää muodissa Skandinaviassa.",
+      "level": "B1",
+      "sourceId": "vogue",
+      "sourceIds": [
+        "vogue"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chanel",
+      "word": "Chanel",
+      "en": "Chanel",
+      "ru": [
+        "Шанель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chanel",
+      "sourceIds": [
+        "chanel"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kaftaani",
+      "word": "kaftaani",
+      "en": "kaftaani",
+      "ru": [
+        "кафтан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caftan",
+      "sourceIds": [
+        "caftan"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "nailon",
+      "word": "nailon",
+      "en": "nailon",
+      "ru": [
+        "нейлон"
+      ],
+      "example": "Nailon on synteettinen tekstiili.",
+      "level": "B1",
+      "sourceId": "nylon",
+      "sourceIds": [
+        "nylon"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "savyttaa",
+      "word": "sävyttää",
+      "en": "sävyttää",
+      "ru": [
+        "красить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dye",
+      "sourceIds": [
+        "dye"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "vyo",
+      "word": "vyö",
+      "en": "vyö",
+      "ru": [
+        "кушак",
+        "пояс"
+      ],
+      "example": "Onko tuo vyö, jonka annoin sinulle?",
+      "level": "B1",
+      "sourceId": "sash",
+      "sourceIds": [
+        "sash"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neuloa",
+      "word": "neuloa",
+      "en": "neuloa",
+      "ru": [
+        "вязать"
+      ],
+      "example": "Kudo kangaspuilla ja neulo puikoilla.",
+      "level": "B1",
+      "sourceId": "knit",
+      "sourceIds": [
+        "knit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kenka",
+      "word": "kenkä",
+      "en": "kenkä",
+      "ru": [
+        "обувь",
+        "ботинок"
+      ],
+      "example": "Ennen kenkien ostamista sinun pitäisi kokeilla niitä.",
+      "level": "B1",
+      "sourceId": "shoe",
+      "sourceIds": [
+        "shoe"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kyparapipo",
+      "word": "kypäräpipo",
+      "en": "kypäräpipo",
+      "ru": [
+        "балаклава"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "balaclava",
+      "sourceIds": [
+        "balaclava"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kengannauha",
+      "word": "kengännauha",
+      "en": "kengännauha",
+      "ru": [
+        "шнурок"
+      ],
+      "example": "Odota hetki, minun täytyy solmia kengännauhani.",
+      "level": "B1",
+      "sourceId": "shoelace",
+      "sourceIds": [
+        "shoelace"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "keltti",
+      "word": "keltti",
+      "en": "keltti",
+      "ru": [
+        "кефаль",
+        "стрижка маллет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mullet",
+      "sourceIds": [
+        "mullet"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tyylikas",
+      "word": "tyylikäs",
+      "en": "tyylikäs",
+      "ru": [
+        "шикарный",
+        "стильный"
+      ],
+      "example": "Ovatko sinun mielestäsi miesten trikoot tyylikkäitä?",
+      "level": "B1",
+      "sourceId": "snazzy",
+      "sourceIds": [
+        "snazzy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kiinnittaa-hihnalla",
+      "word": "kiinnittää hihnalla",
+      "en": "kiinnittää hihnalla",
+      "ru": [
+        "пристегивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "strap",
+      "sourceIds": [
+        "strap"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "lippa",
+      "word": "lippa",
+      "en": "lippa",
+      "ru": [
+        "козырек"
+      ],
+      "example": "Olet juuri avannut Pandoran lippaan.",
+      "level": "B1",
+      "sourceId": "visor",
+      "sourceIds": [
+        "visor"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hiusneula",
+      "word": "hiusneula",
+      "en": "hiusneula",
+      "ru": [
+        "шпилька"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hairpin",
+      "sourceIds": [
+        "hairpin"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "housut",
+      "word": "housut",
+      "en": "housut",
+      "ru": [
+        "брюки"
+      ],
+      "example": "Andreolla on vihreä t-paita ja valkoiset housut.",
+      "level": "B1",
+      "sourceId": "trousers",
+      "sourceIds": [
+        "trousers"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "livree",
+      "word": "livree",
+      "en": "livree",
+      "ru": [
+        "ливрея"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "livery",
+      "sourceIds": [
+        "livery"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "loaferi",
+      "word": "loaferi",
+      "en": "loaferi",
+      "ru": [
+        "лоферы",
+        "бездельник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "loafer",
+      "sourceIds": [
+        "loafer"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "cargo-tyylinen",
+      "word": "cargo-tyylinen",
+      "en": "cargo-tyylinen",
+      "ru": [
+        "в стиле карго"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cargo-style",
+      "sourceIds": [
+        "cargo-style"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "asu",
+      "word": "asu",
+      "en": "asu",
+      "ru": [
+        "одеяние",
+        "наряд"
+      ],
+      "example": "\"Missä te asutte?\" - \"Minä asun Tokiossa.\"",
+      "level": "B1",
+      "sourceId": "attire",
+      "sourceIds": [
+        "attire"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "huonoiten-pukeutunut",
+      "word": "huonoiten pukeutunut",
+      "en": "huonoiten pukeutunut",
+      "ru": [
+        "плохо одетый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "worst-dressed",
+      "sourceIds": [
+        "worst-dressed"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "reisitaskuhousut",
+      "word": "reisitaskuhousut",
+      "en": "reisitaskuhousut",
+      "ru": [
+        "брюки карго"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cargo-pants",
+      "sourceIds": [
+        "cargo-pants"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "purjehduskenka",
+      "word": "purjehduskenkä",
+      "en": "purjehduskenkä",
+      "ru": [
+        "топсайдеры"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "topsider",
+      "sourceIds": [
+        "topsider"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "dekoltee",
+      "word": "dekoltee",
+      "en": "dekoltee",
+      "ru": [
+        "декольте"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cleavage",
+      "sourceIds": [
+        "cleavage"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "rintaliivit",
+      "word": "rintaliivit",
+      "en": "rintaliivit",
+      "ru": [
+        "бюстгальтер"
+      ],
+      "example": "Hän kuljeskelee ympäriinsä pikkuhousuissa ja rintaliiveissä.",
+      "level": "B1",
+      "sourceId": "brassiere",
+      "sourceIds": [
+        "brassiere"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "push-up-rintaliivit",
+      "word": "push up -rintaliivit",
+      "en": "push up -rintaliivit",
+      "ru": [
+        "бюстгальтер пуш-ап"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wonderbra",
+      "sourceIds": [
+        "wonderbra"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "solmio",
+      "word": "solmio",
+      "en": "solmio",
+      "ru": [
+        "галстук"
+      ],
+      "example": "\"Minkä solmion laitat?\" – \"Sen eilen ostamani.\"",
+      "level": "B1",
+      "sourceId": "necktie",
+      "sourceIds": [
+        "necktie"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "siviilivaatteet",
+      "word": "siviilivaatteet",
+      "en": "siviilivaatteet",
+      "ru": [
+        "гражданская одежда"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "plainclothes",
+      "sourceIds": [
+        "plainclothes"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kinnas",
+      "word": "kinnas",
+      "en": "kinnas",
+      "ru": [
+        "варежка",
+        "перчатка"
+      ],
+      "example": "Pieni poika hukkasi kintaan leikkiessään lumessa.",
+      "level": "B1",
+      "sourceId": "mitt",
+      "sourceIds": [
+        "mitt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haalari",
+      "word": "haalari",
+      "en": "haalari",
+      "ru": [
+        "комбинезон"
+      ],
+      "example": "Mistä voisin ostaa haalarit?",
+      "level": "B1",
+      "sourceId": "jumpsuit",
+      "sourceIds": [
+        "jumpsuit"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bikinit",
+      "word": "bikinit",
+      "en": "bikinit",
+      "ru": [
+        "бикини"
+      ],
+      "example": "Kaunis tyttö bikineissä herätti huomiota rannalla.",
+      "level": "B1",
+      "sourceId": "bikini",
+      "sourceIds": [
+        "bikini"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "toppapuku",
+      "word": "toppapuku",
+      "en": "toppapuku",
+      "ru": [
+        "комбинезон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "snowsuit",
+      "sourceIds": [
+        "snowsuit"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "housuista-ulos-vedetty",
+      "word": "housuista ulos vedetty",
+      "en": "housuista ulos vedetty",
+      "ru": [
+        "выправленный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "untucked",
+      "sourceIds": [
+        "untucked"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "vetoketju",
+      "word": "vetoketju",
+      "en": "vetoketju",
+      "ru": [
+        "застежка-молния"
+      ],
+      "example": "Tom ei pääse ulos makuupussistaan. Vetoketju on jumissa.",
+      "level": "B1",
+      "sourceId": "zipper",
+      "sourceIds": [
+        "zipper"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "avata-vetoketju",
+      "word": "avata vetoketju",
+      "en": "avata vetoketju",
+      "ru": [
+        "расстегивать молнию"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unzip",
+      "sourceIds": [
+        "unzip"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "sauma",
+      "word": "sauma",
+      "en": "sauma",
+      "ru": [
+        "шов"
+      ],
+      "example": "Hänen pitäisi korjata farkkujensa sauma. Se on ratkeamassa.",
+      "level": "B1",
+      "sourceId": "seam",
+      "sourceIds": [
+        "seam"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valmis",
+      "word": "valmis",
+      "en": "valmis",
+      "ru": [
+        "готовый (об одежде)"
+      ],
+      "example": "Hän ei tiennyt kuinka saada se valmiiksi.",
+      "level": "B1",
+      "sourceId": "off-the-rack",
+      "sourceIds": [
+        "off-the-rack"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crocsit",
+      "word": "crocsit",
+      "en": "crocsit",
+      "ru": [
+        "кроксы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crocs",
+      "sourceIds": [
+        "crocs"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "paarmata",
+      "word": "päärmätä",
+      "en": "päärmätä",
+      "ru": [
+        "подшивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hem",
+      "sourceIds": [
+        "hem"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "vekattu",
+      "word": "vekattu",
+      "en": "vekattu",
+      "ru": [
+        "плиссированный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pleated",
+      "sourceIds": [
+        "pleated"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "stringit",
+      "word": "stringit",
+      "en": "stringit",
+      "ru": [
+        "стринги",
+        "ремешок"
+      ],
+      "example": "Kummat ovat sinulle mieluisampia, tangat vai stringit?",
+      "level": "B1",
+      "sourceId": "thong",
+      "sourceIds": [
+        "thong"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "huulipuna",
+      "word": "huulipuna",
+      "en": "huulipuna",
+      "ru": [
+        "губная помада"
+      ],
+      "example": "Sika on sika vaikka huulipunaa laittaisi.",
+      "level": "B1",
+      "sourceId": "lipstick",
+      "sourceIds": [
+        "lipstick"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "muotitietoinen",
+      "word": "muotitietoinen",
+      "en": "muotitietoinen",
+      "ru": [
+        "следящий за модой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "clothes-conscious",
+      "sourceIds": [
+        "clothes-conscious"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "repaleinen",
+      "word": "repaleinen",
+      "en": "repaleinen",
+      "ru": [
+        "оборванный",
+        "рваный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ragged",
+      "sourceIds": [
+        "ragged"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kulunut",
+      "word": "kulunut",
+      "en": "kulunut",
+      "ru": [
+        "изношенный",
+        "потертый"
+      ],
+      "example": "En voinut olla nauramatta Tomin kuluneelle vitsille.",
+      "level": "B1",
+      "sourceId": "worn",
+      "sourceIds": [
+        "worn"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "polyesteri",
+      "word": "polyesteri",
+      "en": "polyesteri",
+      "ru": [
+        "полиэстер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "polyester",
+      "sourceIds": [
+        "polyester"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "housu",
+      "word": "housu-",
+      "en": "housu-",
+      "ru": [
+        "брючный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trouser",
+      "sourceIds": [
+        "trouser"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kaapu",
+      "word": "kaapu",
+      "en": "kaapu",
+      "ru": [
+        "платье",
+        "халат"
+      ],
+      "example": "Tommi puki ylleen kaapunsa.",
+      "level": "B1",
+      "sourceId": "gown",
+      "sourceIds": [
+        "gown"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "karttuuni",
+      "word": "karttuuni",
+      "en": "karttuuni",
+      "ru": [
+        "ситец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "calico",
+      "sourceIds": [
+        "calico"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "anorakki",
+      "word": "anorakki",
+      "en": "anorakki",
+      "ru": [
+        "анорак",
+        "куртка-ветровка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "anorak",
+      "sourceIds": [
+        "anorak"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "farkkukangas",
+      "word": "farkkukangas",
+      "en": "farkkukangas",
+      "ru": [
+        "джинсовая ткань"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "denim",
+      "sourceIds": [
+        "denim",
+        "jean"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tweedkangas",
+      "word": "tweedkangas",
+      "en": "tweedkangas",
+      "ru": [
+        "твид"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tweed",
+      "sourceIds": [
+        "tweed"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kaksiosainen-puku",
+      "word": "kaksiosainen puku",
+      "en": "kaksiosainen puku",
+      "ru": [
+        "костюм-двойка",
+        "раздельный купальник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "two-piece",
+      "sourceIds": [
+        "two-piece"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kalossi",
+      "word": "kalossi",
+      "en": "kalossi",
+      "ru": [
+        "галоша"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "galosh",
+      "sourceIds": [
+        "galosh"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sukkahousut",
+      "word": "sukkahousut",
+      "en": "sukkahousut",
+      "ru": [
+        "колготки"
+      ],
+      "example": "Nämä ovat erityisen lämpimät sukkahousut, villaa kun ovat.",
+      "level": "B1",
+      "sourceId": "pantyhose",
+      "sourceIds": [
+        "pantyhose"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asu",
+      "word": "asu",
+      "en": "asu",
+      "ru": [
+        "наряд",
+        "костюм"
+      ],
+      "example": "\"Missä te asutte?\" - \"Minä asun Tokiossa.\"",
+      "level": "B1",
+      "sourceId": "getup",
+      "sourceIds": [
+        "getup"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kahertaa",
+      "word": "kähertää",
+      "en": "kähertää",
+      "ru": [
+        "завивать",
+        "гофрировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crimp",
+      "sourceIds": [
+        "crimp"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "sombrero",
+      "word": "sombrero",
+      "en": "sombrero",
+      "ru": [
+        "сомбреро"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sombrero",
+      "sourceIds": [
+        "sombrero"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pukeutua",
+      "word": "pukeutua",
+      "en": "pukeutua",
+      "ru": [
+        "одевать"
+      ],
+      "example": "Onko sinulla vaatteita, joihin et koskaan pukeudu?",
+      "level": "B1",
+      "sourceId": "clothe",
+      "sourceIds": [
+        "clothe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rusetti",
+      "word": "rusetti",
+      "en": "rusetti",
+      "ru": [
+        "галстук-бабочка"
+      ],
+      "example": "Oletko hyvä solmimaan rusettia?",
+      "level": "B1",
+      "sourceId": "bowtie",
+      "sourceIds": [
+        "bowtie"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

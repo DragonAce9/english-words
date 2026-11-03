@@ -1,0 +1,4054 @@
+{
+  "id": "grammar",
+  "title": "Грамматика",
+  "paid": true,
+  "blockId": "language",
+  "words": [
+    {
+      "id": "o",
+      "word": "o",
+      "en": "o",
+      "ru": [
+        "о",
+        "про",
+        "насчёт"
+      ],
+      "example": "O tem sem bral v današnjem časopisu.",
+      "level": "A1",
+      "sourceId": "about",
+      "sourceIds": [
+        "about"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zgoraj",
+      "word": "zgôraj",
+      "en": "zgôraj",
+      "ru": [
+        "выше",
+        "вверху",
+        "наверху"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "above--grammar",
+      "sourceIds": [
+        "above--grammar"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "prek",
+      "word": "prek",
+      "en": "prek",
+      "ru": [
+        "через",
+        "на другой стороне",
+        "напротив"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "across--grammar",
+      "sourceIds": [
+        "across--grammar"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "dejansko",
+      "word": "dejansko",
+      "en": "dejansko",
+      "ru": [
+        "на самом деле",
+        "вообще-то"
+      ],
+      "example": "Nihče dejansko ne doživlja resničnosti zahvaljujoč oligarhiji miljarderjev.",
+      "level": "A2",
+      "sourceId": "actually",
+      "sourceIds": [
+        "actually"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potem",
+      "word": "potem",
+      "en": "potem",
+      "ru": [
+        "после",
+        "потом",
+        "после того, как"
+      ],
+      "example": "Najprej delo, potem zabava.",
+      "level": "A1",
+      "sourceId": "after",
+      "sourceIds": [
+        "after"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spet",
+      "word": "spet",
+      "en": "spet",
+      "ru": [
+        "снова",
+        "опять",
+        "ещё раз"
+      ],
+      "example": "V veselje mi je spet študirati interlinguo.",
+      "level": "A1",
+      "sourceId": "again",
+      "sourceIds": [
+        "again"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "proti",
+      "word": "proti",
+      "en": "proti",
+      "ru": [
+        "против",
+        "по"
+      ],
+      "example": "Pojdi na avtobus proti Badstraße in izstopi pri Seestraße.",
+      "level": "A1",
+      "sourceId": "against",
+      "sourceIds": [
+        "against"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "povsem",
+      "word": "povsem",
+      "en": "povsem",
+      "ru": [
+        "полностью",
+        "совсем",
+        "весь"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "all",
+      "sourceIds": [
+        "all"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "skoraj",
+      "word": "skoraj",
+      "en": "skoraj",
+      "ru": [
+        "почти",
+        "почти что",
+        "словно"
+      ],
+      "example": "Stroj že predlaga skoraj popolne prevode v latinščino.",
+      "level": "A2",
+      "sourceId": "almost--grammar",
+      "sourceIds": [
+        "almost--grammar"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vzdolz",
+      "word": "vzdolž",
+      "en": "vzdolž",
+      "ru": [
+        "вдоль",
+        "по"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "along",
+      "sourceIds": [
+        "along"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "ze",
+      "word": "že",
+      "en": "že",
+      "ru": [
+        "уже",
+        "ранее",
+        "раньше"
+      ],
+      "example": "Mar nisi nosil te srajce že včeraj?",
+      "level": "A1",
+      "sourceId": "already",
+      "sourceIds": [
+        "already"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tudi",
+      "word": "túdi",
+      "en": "túdi",
+      "ru": [
+        "также",
+        "тоже"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "also",
+      "sourceIds": [
+        "also"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "ceprav",
+      "word": "čeprav",
+      "en": "čeprav",
+      "ru": [
+        "хотя",
+        "несмотря на то что"
+      ],
+      "example": "Moj profil se skoraj spreminja v blog, čeprav je zanimanje omejeno.",
+      "level": "A2",
+      "sourceId": "although",
+      "sourceIds": [
+        "although"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vedno",
+      "word": "vedno",
+      "en": "vedno",
+      "ru": [
+        "всегда",
+        "вечно",
+        "постоянно"
+      ],
+      "example": "Je vaša žena še vedno v Ameriki?",
+      "level": "A1",
+      "sourceId": "always",
+      "sourceIds": [
+        "always"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "med",
+      "word": "med",
+      "en": "med",
+      "ru": [
+        "между",
+        "среди",
+        "средь"
+      ],
+      "example": "Osem je število med sedmico in devetico.",
+      "level": "A2",
+      "sourceId": "among",
+      "sourceIds": [
+        "among"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "in",
+      "word": "in",
+      "en": "in",
+      "ru": [
+        "и",
+        "да",
+        "а"
+      ],
+      "example": "Ali obstajajo dobri volkovi in ​​slabi volkovi?",
+      "level": "A1",
+      "sourceId": "and",
+      "sourceIds": [
+        "and"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drug",
+      "word": "drug",
+      "en": "drug",
+      "ru": [
+        "другой",
+        "ещё один",
+        "различный"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "another",
+      "sourceIds": [
+        "another"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "katerikoli",
+      "word": "katerikoli",
+      "en": "katerikoli",
+      "ru": [
+        "любой",
+        "какой-нибудь"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "any",
+      "sourceIds": [
+        "any"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "ne-vec",
+      "word": "ne več",
+      "en": "ne več",
+      "ru": [
+        "больше не",
+        "уже не"
+      ],
+      "example": "Čas je potekel. Ne morem več čakati.",
+      "level": "B2",
+      "sourceId": "anymore",
+      "sourceIds": [
+        "anymore"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vsekakor",
+      "word": "vsekakor",
+      "en": "vsekakor",
+      "ru": [
+        "в любом случае",
+        "так или иначе"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "anyway",
+      "sourceIds": [
+        "anyway"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "so",
+      "word": "so",
+      "en": "so",
+      "ru": [
+        "являются",
+        "есть"
+      ],
+      "example": "Banane so dober vir kalija in vlaknin.",
+      "level": "A1",
+      "sourceId": "are",
+      "sourceIds": [
+        "are"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "okoli",
+      "word": "okoli",
+      "en": "okoli",
+      "ru": [
+        "вокруг",
+        "кругом",
+        "по кругу"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "around",
+      "sourceIds": [
+        "around"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "kot",
+      "word": "kot",
+      "en": "kot",
+      "ru": [
+        "как",
+        "в качестве",
+        "поскольку"
+      ],
+      "example": "Imam hčerko iste starosti kot tvoj sin.",
+      "level": "A1",
+      "sourceId": "as",
+      "sourceIds": [
+        "as"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "na",
+      "word": "na",
+      "en": "na",
+      "ru": [
+        "на",
+        "в",
+        "у"
+      ],
+      "example": "Bi lahko ti peljal psa na sprehod?",
+      "level": "A1",
+      "sourceId": "at",
+      "sourceIds": [
+        "at"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "biti",
+      "word": "biti",
+      "en": "biti",
+      "ru": [
+        "быть",
+        "являться"
+      ],
+      "example": "Bi lahko ti peljal psa na sprehod?",
+      "level": "A1",
+      "sourceId": "be",
+      "sourceIds": [
+        "be"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ker",
+      "word": "ker",
+      "en": "ker",
+      "ru": [
+        "из-за",
+        "потому что",
+        "ведь"
+      ],
+      "example": "Ker je Chiro maček, ne mara ličijev.",
+      "level": "A1",
+      "sourceId": "because",
+      "sourceIds": [
+        "because"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zaradi",
+      "word": "zaradi",
+      "en": "zaradi",
+      "ru": [
+        "из-за"
+      ],
+      "example": "Zaradi tega si puliš lase.",
+      "level": "A1",
+      "sourceId": "because-of",
+      "sourceIds": [
+        "because-of"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prej",
+      "word": "prej",
+      "en": "prej",
+      "ru": [
+        "перед",
+        "до"
+      ],
+      "example": "Že prej sem si želela imeti majhnega kužka.",
+      "level": "A1",
+      "sourceId": "before",
+      "sourceIds": [
+        "before"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zadaj",
+      "word": "zadaj",
+      "en": "zadaj",
+      "ru": [
+        "позади",
+        "за"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "behind",
+      "sourceIds": [
+        "behind"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "bitje",
+      "word": "bitje",
+      "en": "bitje",
+      "ru": [
+        "(живое) существо",
+        "создание",
+        "тварь"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "being",
+      "sourceIds": [
+        "being"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "spodaj",
+      "word": "spodaj",
+      "en": "spodaj",
+      "ru": [
+        "минус",
+        "внизу",
+        "ниже"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "below",
+      "sourceIds": [
+        "below"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "med",
+      "word": "med",
+      "en": "med",
+      "ru": [
+        "между",
+        "меж",
+        "посреди"
+      ],
+      "example": "Osem je število med sedmico in devetico.",
+      "level": "A1",
+      "sourceId": "between",
+      "sourceIds": [
+        "between"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "onkraj",
+      "word": "onkraj",
+      "en": "onkraj",
+      "ru": [
+        "дальше",
+        "за",
+        "позади"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "beyond",
+      "sourceIds": [
+        "beyond"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "oba",
+      "word": "oba",
+      "en": "oba",
+      "ru": [
+        "и... и",
+        "оба",
+        "обе"
+      ],
+      "example": "Oba živita na Dunaju.",
+      "level": "A1",
+      "sourceId": "both",
+      "sourceIds": [
+        "both"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ampak",
+      "word": "ampak",
+      "en": "ampak",
+      "ru": [
+        "но",
+        "а",
+        "только"
+      ],
+      "example": "Žal mi je, ampak vašega imena ni na seznamu.",
+      "level": "A1",
+      "sourceId": "but",
+      "sourceIds": [
+        "but"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pri",
+      "word": "pri",
+      "en": "pri",
+      "ru": [
+        "у",
+        "рядом с",
+        "около"
+      ],
+      "example": "Pri tridesetih letih je postala zdravnica.",
+      "level": "A1",
+      "sourceId": "by",
+      "sourceIds": [
+        "by"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sam",
+      "word": "sam",
+      "en": "sam",
+      "ru": [
+        "самостоятельно"
+      ],
+      "example": "Kdor drugemu jamo koplje, sam vanjo pade.",
+      "level": "A1",
+      "sourceId": "by-yourself",
+      "sourceIds": [
+        "by-yourself"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vsekakor",
+      "word": "vsekakor",
+      "en": "vsekakor",
+      "ru": [
+        "конечно",
+        "безусловно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "certainly",
+      "sourceIds": [
+        "certainly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "glede",
+      "word": "glede",
+      "en": "glede",
+      "ru": [
+        "касательно"
+      ],
+      "example": "Midva se ne strinjava glede ničesar.",
+      "level": "B1",
+      "sourceId": "concerning",
+      "sourceIds": [
+        "concerning"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moci",
+      "word": "moči",
+      "en": "moči",
+      "ru": [
+        "мог",
+        "мог бы"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "could",
+      "sourceIds": [
+        "could"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "definitivno",
+      "word": "definitivno",
+      "en": "definitivno",
+      "ru": [
+        "определённо",
+        "точно"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "definitely",
+      "sourceIds": [
+        "definitely"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "kljub",
+      "word": "kljub",
+      "en": "kljub",
+      "ru": [
+        "несмотря на"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "despite",
+      "sourceIds": [
+        "despite"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "dolocilnik",
+      "word": "določilnik",
+      "en": "določilnik",
+      "ru": [
+        "детерминатив",
+        "определяющее слово"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "determiner",
+      "sourceIds": [
+        "determiner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "delati",
+      "word": "delati",
+      "en": "delati",
+      "ru": [
+        "делать"
+      ],
+      "example": "Nočem delati pod temi pogoji.",
+      "level": "A1",
+      "sourceId": "do",
+      "sourceIds": [
+        "do"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "med",
+      "word": "med",
+      "en": "med",
+      "ru": [
+        "в течение",
+        "в продолжение",
+        "во время"
+      ],
+      "example": "Osem je število med sedmico in devetico.",
+      "level": "A1",
+      "sourceId": "during",
+      "sourceIds": [
+        "during"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vsak",
+      "word": "vsak",
+      "en": "vsak",
+      "ru": [
+        "каждый"
+      ],
+      "example": "Vsak dan se je učil uro in pol.",
+      "level": "A1",
+      "sourceId": "each",
+      "sourceIds": [
+        "each"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tudi-ne",
+      "word": "tudi ne",
+      "en": "tudi ne",
+      "ru": [
+        "тоже (в отрицании)",
+        "либо"
+      ],
+      "example": "Danes ne morem priti, jutri pa tudi ne.",
+      "level": "A2",
+      "sourceId": "either",
+      "sourceIds": [
+        "either"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "se",
+      "word": "še",
+      "en": "še",
+      "ru": [
+        "ещё",
+        "иначе"
+      ],
+      "example": "Ali je prostor za še eno osebo?",
+      "level": "A2",
+      "sourceId": "else--grammar",
+      "sourceIds": [
+        "else--grammar"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dovolj",
+      "word": "dovolj",
+      "en": "dovolj",
+      "ru": [
+        "довольно",
+        "достаточно",
+        "достаточно!"
+      ],
+      "example": "Nimaš dovolj denarja, kajne?",
+      "level": "A2",
+      "sourceId": "enough",
+      "sourceIds": [
+        "enough"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "posebej",
+      "word": "posebej",
+      "en": "posebej",
+      "ru": [
+        "особенно"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "especially",
+      "sourceIds": [
+        "especially"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "vsak",
+      "word": "vsak",
+      "en": "vsak",
+      "ru": [
+        "каждый",
+        "всякий"
+      ],
+      "example": "Vsak dan se je učil uro in pol.",
+      "level": "A1",
+      "sourceId": "every",
+      "sourceIds": [
+        "every"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tocno",
+      "word": "točno",
+      "en": "točno",
+      "ru": [
+        "точно",
+        "вот именно",
+        "именно"
+      ],
+      "example": "Bodite na postaji točno ob enajstih.",
+      "level": "B1",
+      "sourceId": "exactly",
+      "sourceIds": [
+        "exactly"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "razen",
+      "word": "razen",
+      "en": "razen",
+      "ru": [
+        "за исключением того, что",
+        "кроме",
+        "за исключением"
+      ],
+      "example": "Na tem svetu je vse norost, razen užitka.",
+      "level": "A2",
+      "sourceId": "except",
+      "sourceIds": [
+        "except"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "malo",
+      "word": "malo",
+      "en": "malo",
+      "ru": [
+        "мало",
+        "несколько",
+        "немногий"
+      ],
+      "example": "Toliko knjig pa tako malo časa.",
+      "level": "A1",
+      "sourceId": "few",
+      "sourceIds": [
+        "few"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ker",
+      "word": "ker",
+      "en": "ker",
+      "ru": [
+        "ибо",
+        "из-за того, что",
+        "потому что"
+      ],
+      "example": "Ker je Chiro maček, ne mara ličijev.",
+      "level": "A1",
+      "sourceId": "for",
+      "sourceIds": [
+        "for"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "od",
+      "word": "od",
+      "en": "od",
+      "ru": [
+        "из",
+        "от",
+        "с"
+      ],
+      "example": "Njegov sin se je tresel od strahu.",
+      "level": "A1",
+      "sourceId": "from",
+      "sourceIds": [
+        "from"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nameravati",
+      "word": "nameravati",
+      "en": "nameravati",
+      "ru": [
+        "собираться что-то сделать"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "gonna",
+      "sourceIds": [
+        "gonna",
+        "going-to"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "moram",
+      "word": "moram",
+      "en": "moram",
+      "ru": [
+        "должен"
+      ],
+      "example": "Moja denarnica je bila ukradla, zaradi tega moram poklicati policijo.",
+      "level": "C1",
+      "sourceId": "gotta",
+      "sourceIds": [
+        "gotta"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "imeti",
+      "word": "imeti",
+      "en": "imeti",
+      "ru": [
+        "иметь"
+      ],
+      "example": "Že prej sem si želela imeti majhnega kužka.",
+      "level": "A1",
+      "sourceId": "have",
+      "sourceIds": [
+        "have"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "on",
+      "word": "on",
+      "en": "on",
+      "ru": [
+        "он"
+      ],
+      "example": "Jaz bi se odrezal bolje kot on.",
+      "level": "A1",
+      "sourceId": "he",
+      "sourceIds": [
+        "he"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ona",
+      "word": "ôna",
+      "en": "ôna",
+      "ru": [
+        "её",
+        "ей",
+        "она"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "her",
+      "sourceIds": [
+        "her"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "zde",
+      "word": "zde",
+      "en": "zde",
+      "ru": [
+        "здесь",
+        "тут",
+        "сюда"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "here",
+      "sourceIds": [
+        "here"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "njen",
+      "word": "njén",
+      "en": "njén",
+      "ru": [
+        "её"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "hers",
+      "sourceIds": [
+        "hers"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "sebe",
+      "word": "sebe",
+      "en": "sebe",
+      "ru": [
+        "себя",
+        "сама"
+      ],
+      "example": "Daleč nad ljubeznijo do sebe je Ljubezen.",
+      "level": "A2",
+      "sourceId": "herself",
+      "sourceIds": [
+        "herself"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "njega",
+      "word": "njega",
+      "en": "njega",
+      "ru": [
+        "его",
+        "ему"
+      ],
+      "example": "To knjigo sem dobil od njega.",
+      "level": "A1",
+      "sourceId": "him",
+      "sourceIds": [
+        "him"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sebe",
+      "word": "sebe",
+      "en": "sebe",
+      "ru": [
+        "сам",
+        "себе",
+        "себя"
+      ],
+      "example": "Daleč nad ljubeznijo do sebe je Ljubezen.",
+      "level": "A2",
+      "sourceId": "himself",
+      "sourceIds": [
+        "himself"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "njegov",
+      "word": "njegôv",
+      "en": "njegôv",
+      "ru": [
+        "его",
+        "свой"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "his",
+      "sourceIds": [
+        "his"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "kako",
+      "word": "kakó",
+      "en": "kakó",
+      "ru": [
+        "как",
+        "насколько",
+        "каким образом"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "how",
+      "sourceIds": [
+        "how"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "vendar",
+      "word": "vendar",
+      "en": "vendar",
+      "ru": [
+        "однако",
+        "тем не менее"
+      ],
+      "example": "Moj otrok je utrujen, vendar ne more spati.",
+      "level": "A1",
+      "sourceId": "however",
+      "sourceIds": [
+        "however"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ce",
+      "word": "če",
+      "en": "če",
+      "ru": [
+        "если",
+        "ежели",
+        "кабы"
+      ],
+      "example": "Kaj storiti, če pičita osa ali čebela?",
+      "level": "A1",
+      "sourceId": "if",
+      "sourceIds": [
+        "if"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "v",
+      "word": "v",
+      "en": "v",
+      "ru": [
+        "в",
+        "за",
+        "через"
+      ],
+      "example": "Je vaša žena še vedno v Ameriki?",
+      "level": "A1",
+      "sourceId": "in",
+      "sourceIds": [
+        "in"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "res",
+      "word": "res",
+      "en": "res",
+      "ru": [
+        "действительно",
+        "в самом деле"
+      ],
+      "example": "Tom misli, da je Mary res naduta.",
+      "level": "B1",
+      "sourceId": "indeed",
+      "sourceIds": [
+        "indeed"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "namesto-tega",
+      "word": "namesto tega",
+      "en": "namesto tega",
+      "ru": [
+        "вместо этого"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "instead",
+      "sourceIds": [
+        "instead"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "namesto",
+      "word": "namesto",
+      "en": "namesto",
+      "ru": [
+        "вместо"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "instead-of",
+      "sourceIds": [
+        "instead-of"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "v",
+      "word": "v",
+      "en": "v",
+      "ru": [
+        "в",
+        "на"
+      ],
+      "example": "Je vaša žena še vedno v Ameriki?",
+      "level": "A1",
+      "sourceId": "into",
+      "sourceIds": [
+        "into"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ono",
+      "word": "ôno",
+      "en": "ôno",
+      "ru": [
+        "он",
+        "она",
+        "оно"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "it",
+      "sourceIds": [
+        "it"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "njegov",
+      "word": "njegóv",
+      "en": "njegóv",
+      "ru": [
+        "её",
+        "его",
+        "свой"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "its",
+      "sourceIds": [
+        "its"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "sebe",
+      "word": "sebe",
+      "en": "sebe",
+      "ru": [
+        "ся",
+        "оно само",
+        "сам себя"
+      ],
+      "example": "Daleč nad ljubeznijo do sebe je Ljubezen.",
+      "level": "A2",
+      "sourceId": "itself",
+      "sourceIds": [
+        "itself"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ravno",
+      "word": "ravno",
+      "en": "ravno",
+      "ru": [
+        "просто",
+        "только что",
+        "как раз"
+      ],
+      "example": "Ravno v pravem času si prišel.",
+      "level": "A1",
+      "sourceId": "just",
+      "sourceIds": [
+        "just"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pravicno",
+      "word": "pravično",
+      "en": "pravično",
+      "ru": [
+        "справедливо"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "justly",
+      "sourceIds": [
+        "justly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "poslednji",
+      "word": "poslednji",
+      "en": "poslednji",
+      "ru": [
+        "последний"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "last",
+      "sourceIds": [
+        "last"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "najmanj",
+      "word": "najmanj",
+      "en": "najmanj",
+      "ru": [
+        "наименьший"
+      ],
+      "example": "Prevajanje zahteva največjo skrbnost. Ko to najmanj pričakujete, se zgodijo napake.",
+      "level": "A1",
+      "sourceId": "least",
+      "sourceIds": [
+        "least"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manj",
+      "word": "manj",
+      "en": "manj",
+      "ru": [
+        "менее",
+        "меньше",
+        "меньший"
+      ],
+      "example": "Če bi ljudje malo več peli, bi bil ta svet manj nor.",
+      "level": "A1",
+      "sourceId": "less",
+      "sourceIds": [
+        "less"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manjsi",
+      "word": "manjši",
+      "en": "manjši",
+      "ru": [
+        "меньший"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "lesser",
+      "sourceIds": [
+        "lesser"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mnogo",
+      "word": "mnogo",
+      "en": "mnogo",
+      "ru": [
+        "многие",
+        "многий",
+        "много"
+      ],
+      "example": "Virus je pokosil mnogo slonov v Afriki.",
+      "level": "A1",
+      "sourceId": "many",
+      "sourceIds": [
+        "many"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "smeti",
+      "word": "smeti",
+      "en": "smeti",
+      "ru": [
+        "мочь",
+        "можно",
+        "иметь возможность"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "may",
+      "sourceIds": [
+        "may"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "morda",
+      "word": "morda",
+      "en": "morda",
+      "ru": [
+        "может быть",
+        "возможно"
+      ],
+      "example": "Morda boste porabili največ 100 dolarjev.",
+      "level": "A2",
+      "sourceId": "maybe",
+      "sourceIds": [
+        "maybe"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mene",
+      "word": "mene",
+      "en": "mene",
+      "ru": [
+        "мне",
+        "меня",
+        "себе"
+      ],
+      "example": "Nisem ga poljubil jaz. On je poljubil mene.",
+      "level": "A1",
+      "sourceId": "me",
+      "sourceIds": [
+        "me"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "morda",
+      "word": "morda",
+      "en": "morda",
+      "ru": [
+        "мочь",
+        "мог бы"
+      ],
+      "example": "Morda boste porabili največ 100 dolarjev.",
+      "level": "A1",
+      "sourceId": "might",
+      "sourceIds": [
+        "might"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moj",
+      "word": "moj",
+      "en": "moj",
+      "ru": [
+        "мой",
+        "моя",
+        "моё"
+      ],
+      "example": "Moj prednik je bil konjenik iz Mongolije.",
+      "level": "A1",
+      "sourceId": "mine",
+      "sourceIds": [
+        "mine"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rudnik",
+      "word": "rudnik",
+      "en": "rudnik",
+      "ru": [
+        "добыча",
+        "горное дело"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "mining",
+      "sourceIds": [
+        "mining"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vec",
+      "word": "več",
+      "en": "več",
+      "ru": [
+        "больше",
+        "более",
+        "ещё"
+      ],
+      "example": "Beseda ima lahko enega ali več pomenov.",
+      "level": "A1",
+      "sourceId": "more",
+      "sourceIds": [
+        "more"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "naj",
+      "word": "naj-",
+      "en": "naj-",
+      "ru": [
+        "наиболее",
+        "самый",
+        "большинство"
+      ],
+      "example": "Kako naj vem, da govoriš resnico?",
+      "level": "A1",
+      "sourceId": "most",
+      "sourceIds": [
+        "most"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vecinoma",
+      "word": "večinoma",
+      "en": "večinoma",
+      "ru": [
+        "в основном",
+        "главным образом",
+        "по большей части"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mostly",
+      "sourceIds": [
+        "mostly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "veliko",
+      "word": "veliko",
+      "en": "veliko",
+      "ru": [
+        "намного",
+        "гораздо",
+        "очень"
+      ],
+      "example": "Miza v tej sobi zavzame veliko prostora.",
+      "level": "A1",
+      "sourceId": "much",
+      "sourceIds": [
+        "much"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "morati",
+      "word": "morati",
+      "en": "morati",
+      "ru": [
+        "должен",
+        "обязан"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "must",
+      "sourceIds": [
+        "must"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "moj",
+      "word": "mój",
+      "en": "mój",
+      "ru": [
+        "мой",
+        "моё",
+        "мои"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "my",
+      "sourceIds": [
+        "my"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "sebe",
+      "word": "sebe",
+      "en": "sebe",
+      "ru": [
+        "я сама",
+        "я сам",
+        "ся"
+      ],
+      "example": "Daleč nad ljubeznijo do sebe je Ljubezen.",
+      "level": "A2",
+      "sourceId": "myself",
+      "sourceIds": [
+        "myself"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "niti",
+      "word": "niti",
+      "en": "niti",
+      "ru": [
+        "ни тот ни другой",
+        "тоже не"
+      ],
+      "example": "Ne vem niti, če ima punco.",
+      "level": "B1",
+      "sourceId": "neither",
+      "sourceIds": [
+        "neither"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nikoli",
+      "word": "nikoli",
+      "en": "nikoli",
+      "ru": [
+        "никогда"
+      ],
+      "example": "Japonec ne bi nikoli naredil česa takega.",
+      "level": "A1",
+      "sourceId": "never",
+      "sourceIds": [
+        "never"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ni",
+      "word": "ni",
+      "en": "ni",
+      "ru": [
+        "нет",
+        "никакой",
+        "не"
+      ],
+      "example": "Ni časa za izgubljanje; življenje je kratko.",
+      "level": "A1",
+      "sourceId": "no",
+      "sourceIds": [
+        "no"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nobeden",
+      "word": "nobeden",
+      "en": "nobeden",
+      "ru": [
+        "никакой",
+        "никто"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "none",
+      "sourceIds": [
+        "none"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "ne",
+      "word": "ne",
+      "en": "ne",
+      "ru": [
+        "не",
+        "а не"
+      ],
+      "example": "-\"Ali imaš punco?\" -\"Ne\" -\"Kaj pa fanta?\"",
+      "level": "A1",
+      "sourceId": "not",
+      "sourceIds": [
+        "not"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zdaj",
+      "word": "zdaj",
+      "en": "zdaj",
+      "ru": [
+        "сейчас",
+        "ныне",
+        "теперь"
+      ],
+      "example": "Ali lahko ponovite, kar ste zdaj rekli?",
+      "level": "A1",
+      "sourceId": "now",
+      "sourceIds": [
+        "now"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "od",
+      "word": "od",
+      "en": "od",
+      "ru": [
+        "из",
+        "о",
+        "насчёт"
+      ],
+      "example": "Njegov sin se je tresel od strahu.",
+      "level": "A1",
+      "sourceId": "of",
+      "sourceIds": [
+        "of"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "izklopljen",
+      "word": "izklopljen",
+      "en": "izklopljen",
+      "ru": [
+        "прочь",
+        "выключен",
+        "от"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "off",
+      "sourceIds": [
+        "off"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "pogosto",
+      "word": "pogosto",
+      "en": "pogosto",
+      "ru": [
+        "часто",
+        "зачастую",
+        "частенько"
+      ],
+      "example": "Ali se pogosto voziš z vlakom?",
+      "level": "A2",
+      "sourceId": "often",
+      "sourceIds": [
+        "often"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vklopljen",
+      "word": "vklopljen",
+      "en": "vklopljen",
+      "ru": [
+        "на",
+        "вкл",
+        "включить"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "on",
+      "sourceIds": [
+        "on"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "enkrat",
+      "word": "enkrat",
+      "en": "enkrat",
+      "ru": [
+        "один раз",
+        "однажды",
+        "когда-то"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "once",
+      "sourceIds": [
+        "once"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "edin",
+      "word": "edin",
+      "en": "edin",
+      "ru": [
+        "только",
+        "лишь",
+        "единственный"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "only",
+      "sourceIds": [
+        "only"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "na",
+      "word": "na",
+      "en": "na",
+      "ru": [
+        "на"
+      ],
+      "example": "Bi lahko ti peljal psa na sprehod?",
+      "level": "B1",
+      "sourceId": "onto",
+      "sourceIds": [
+        "onto"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ali",
+      "word": "àli",
+      "en": "àli",
+      "ru": [
+        "или"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "or",
+      "sourceIds": [
+        "or"
+      ],
+      "pos": "conjunction"
+    },
+    {
+      "id": "drugi",
+      "word": "drugi",
+      "en": "drugi",
+      "ru": [
+        "другие",
+        "остальные"
+      ],
+      "example": "Bober je drugi največji glodalec na svetu.",
+      "level": "A1",
+      "sourceId": "others",
+      "sourceIds": [
+        "others"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sicer",
+      "word": "sicer",
+      "en": "sicer",
+      "ru": [
+        "иначе",
+        "в противном случае"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "otherwise",
+      "sourceIds": [
+        "otherwise"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "nas",
+      "word": "nàš",
+      "en": "nàš",
+      "ru": [
+        "наш"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "our",
+      "sourceIds": [
+        "our"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "nas",
+      "word": "nàš",
+      "en": "nàš",
+      "ru": [
+        "наш"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "ours",
+      "sourceIds": [
+        "ours"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "sami",
+      "word": "sami",
+      "en": "sami",
+      "ru": [
+        "себя",
+        "сами"
+      ],
+      "example": "Sami se odločite, kaj se vam zdi normalno.",
+      "level": "A2",
+      "sourceId": "ourselves",
+      "sourceIds": [
+        "ourselves"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ven",
+      "word": "ven",
+      "en": "ven",
+      "ru": [
+        "вне",
+        "наружу",
+        "из"
+      ],
+      "example": "Takoj ko eden gre noter, drugi gre ven.",
+      "level": "A1",
+      "sourceId": "out",
+      "sourceIds": [
+        "out"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zunanji",
+      "word": "zunanji",
+      "en": "zunanji",
+      "ru": [
+        "внешний",
+        "наружный",
+        "снаружи"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "outside",
+      "sourceIds": [
+        "outside"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "cez",
+      "word": "čez",
+      "en": "čez",
+      "ru": [
+        "над",
+        "через",
+        "поверх"
+      ],
+      "example": "Čez sedem let vse prav pride.",
+      "level": "A1",
+      "sourceId": "over",
+      "sourceIds": [
+        "over"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prevec",
+      "word": "preveč",
+      "en": "preveč",
+      "ru": [
+        "избыточно",
+        "излишне",
+        "слишком"
+      ],
+      "example": "Hrana ni bila preveč okusna.",
+      "level": "C2",
+      "sourceId": "overly",
+      "sourceIds": [
+        "overly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "svoj",
+      "word": "svoj",
+      "en": "svoj",
+      "ru": [
+        "свой",
+        "собственный",
+        "владеть"
+      ],
+      "example": "Kaj vse lahko gojimo na svojem balkonu?",
+      "level": "A1",
+      "sourceId": "own",
+      "sourceIds": [
+        "own"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "preteklost",
+      "word": "preteklost",
+      "en": "preteklost",
+      "ru": [
+        "прошлое"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "past--grammar",
+      "sourceIds": [
+        "past--grammar"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "na",
+      "word": "na",
+      "en": "na",
+      "ru": [
+        "в",
+        "через"
+      ],
+      "example": "Bi lahko ti peljal psa na sprehod?",
+      "level": "A1",
+      "sourceId": "per",
+      "sourceIds": [
+        "per"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "morda",
+      "word": "morda",
+      "en": "morda",
+      "ru": [
+        "возможно",
+        "пожалуй"
+      ],
+      "example": "Morda boste porabili največ 100 dolarjev.",
+      "level": "A2",
+      "sourceId": "perhaps",
+      "sourceIds": [
+        "perhaps"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pozitiven",
+      "word": "pozitiven",
+      "en": "pozitiven",
+      "ru": [
+        "плюс",
+        "положительный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "plus",
+      "sourceIds": [
+        "plus"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "verjetno",
+      "word": "verjetno",
+      "en": "verjetno",
+      "ru": [
+        "вероятно",
+        "скорее всего"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "probably",
+      "sourceIds": [
+        "probably"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "precej",
+      "word": "precej",
+      "en": "precej",
+      "ru": [
+        "весьма",
+        "вполне",
+        "изрядно"
+      ],
+      "example": "Toliko ljudi je precej starejših od tebe.",
+      "level": "A2",
+      "sourceId": "quite",
+      "sourceIds": [
+        "quite"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "precej",
+      "word": "precej",
+      "en": "precej",
+      "ru": [
+        "довольно",
+        "скорее",
+        "вернее"
+      ],
+      "example": "Toliko ljudi je precej starejših od tebe.",
+      "level": "A2",
+      "sourceId": "rather",
+      "sourceIds": [
+        "rather"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "res",
+      "word": "res",
+      "en": "res",
+      "ru": [
+        "действительно",
+        "правда",
+        "да?"
+      ],
+      "example": "Tom misli, da je Mary res naduta.",
+      "level": "A1",
+      "sourceId": "really",
+      "sourceIds": [
+        "really"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "isti",
+      "word": "isti",
+      "en": "isti",
+      "ru": [
+        "одинаковый",
+        "тот же",
+        "тот же самый"
+      ],
+      "example": "Večkrat sem naredil in predelal isti stavek.",
+      "level": "A1",
+      "sourceId": "same",
+      "sourceIds": [
+        "same"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stavek",
+      "word": "stavek",
+      "en": "stavek",
+      "ru": [
+        "предложение"
+      ],
+      "example": "Večkrat sem naredil in predelal isti stavek.",
+      "level": "B2",
+      "sourceId": "sentence",
+      "sourceIds": [
+        "sentence"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bom",
+      "word": "bom",
+      "en": "bom",
+      "ru": [
+        "буду",
+        "будет",
+        "следует"
+      ],
+      "example": "Ničesar drugega te ne bom vprašal danes.",
+      "level": "A1",
+      "sourceId": "shall",
+      "sourceIds": [
+        "shall"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ona",
+      "word": "ona",
+      "en": "ona",
+      "ru": [
+        "она"
+      ],
+      "example": "Ona dela za francosko obveščevalno službo.",
+      "level": "A1",
+      "sourceId": "she",
+      "sourceIds": [
+        "she"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bi-moral",
+      "word": "bi moral",
+      "en": "bi moral",
+      "ru": [
+        "следует",
+        "должен",
+        "бы"
+      ],
+      "example": "Mislim, da bi moral spremeniti svoje prehranjevalne navade.",
+      "level": "A1",
+      "sourceId": "should",
+      "sourceIds": [
+        "should"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ker",
+      "word": "ker",
+      "en": "ker",
+      "ru": [
+        "с тех пор как",
+        "так как",
+        "поскольку"
+      ],
+      "example": "Ker je Chiro maček, ne mara ličijev.",
+      "level": "A1",
+      "sourceId": "since",
+      "sourceIds": [
+        "since"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tako",
+      "word": "tako",
+      "en": "tako",
+      "ru": [
+        "так",
+        "поэтому"
+      ],
+      "example": "Marija je prav tako skrbela za živela.",
+      "level": "A1",
+      "sourceId": "so",
+      "sourceIds": [
+        "so"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nekaj",
+      "word": "nekaj",
+      "en": "nekaj",
+      "ru": [
+        "несколько",
+        "немного",
+        "некоторый"
+      ],
+      "example": "Poskušam prebrati vsaj nekaj strani na dan.",
+      "level": "A1",
+      "sourceId": "some--grammar",
+      "sourceIds": [
+        "some--grammar"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vcasih",
+      "word": "včasih",
+      "en": "včasih",
+      "ru": [
+        "иногда",
+        "временами",
+        "подчас"
+      ],
+      "example": "Starček se včasih pogovarja s samim seboj.",
+      "level": "A2",
+      "sourceId": "sometimes",
+      "sourceIds": [
+        "sometimes"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "se-vedno",
+      "word": "še vedno",
+      "en": "še vedno",
+      "ru": [
+        "всё ещё",
+        "тем не менее"
+      ],
+      "example": "Je vaša žena še vedno v Ameriki?",
+      "level": "A1",
+      "sourceId": "still",
+      "sourceIds": [
+        "still"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tak",
+      "word": "tak",
+      "en": "tak",
+      "ru": [
+        "таков",
+        "такой",
+        "этакий"
+      ],
+      "example": "To ne bi smel biti tak problem.",
+      "level": "A1",
+      "sourceId": "such",
+      "sourceIds": [
+        "such"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kot",
+      "word": "kot",
+      "en": "kot",
+      "ru": [
+        "чем",
+        "неже",
+        "нежели"
+      ],
+      "example": "Imam hčerko iste starosti kot tvoj sin.",
+      "level": "A1",
+      "sourceId": "than",
+      "sourceIds": [
+        "than"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tisti",
+      "word": "tisti",
+      "en": "tisti",
+      "ru": [
+        "тот",
+        "та",
+        "который"
+      ],
+      "example": "A nisi ti tisti, ki je zakuhal tole?",
+      "level": "A1",
+      "sourceId": "that",
+      "sourceIds": [
+        "that"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "njihov",
+      "word": "njíhov",
+      "en": "njíhov",
+      "ru": [
+        "их",
+        "ихний"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "their",
+      "sourceIds": [
+        "their"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "njihov",
+      "word": "njíhov",
+      "en": "njíhov",
+      "ru": [
+        "их"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "theirs",
+      "sourceIds": [
+        "theirs"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "njih",
+      "word": "njih",
+      "en": "njih",
+      "ru": [
+        "их",
+        "они",
+        "им"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "them",
+      "sourceIds": [
+        "them"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "sebe",
+      "word": "sebe",
+      "en": "sebe",
+      "ru": [
+        "себя",
+        "они сами"
+      ],
+      "example": "Daleč nad ljubeznijo do sebe je Ljubezen.",
+      "level": "A2",
+      "sourceId": "themselves",
+      "sourceIds": [
+        "themselves"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "takrat",
+      "word": "takrat",
+      "en": "takrat",
+      "ru": [
+        "затем",
+        "тогда"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "then",
+      "sourceIds": [
+        "then"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "tam",
+      "word": "tam",
+      "en": "tam",
+      "ru": [
+        "есть",
+        "иметься",
+        "там"
+      ],
+      "example": "\"Si to ti tam?\" \"Ja, jaz sem.\"",
+      "level": "A1",
+      "sourceId": "there",
+      "sourceIds": [
+        "there"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zato",
+      "word": "zato",
+      "en": "zato",
+      "ru": [
+        "поэтому",
+        "следовательно"
+      ],
+      "example": "Zato ne morem verjeti.",
+      "level": "A2",
+      "sourceId": "therefore",
+      "sourceIds": [
+        "therefore"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ti",
+      "word": "ti",
+      "en": "ti",
+      "ru": [
+        "эти"
+      ],
+      "example": "\"Si to ti tam?\" \"Ja, jaz sem.\"",
+      "level": "A1",
+      "sourceId": "these",
+      "sourceIds": [
+        "these"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oni",
+      "word": "ôni",
+      "en": "ôni",
+      "ru": [
+        "они"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "they",
+      "sourceIds": [
+        "they"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "to",
+      "word": "to",
+      "en": "to",
+      "ru": [
+        "сей",
+        "эта",
+        "эти"
+      ],
+      "example": "\"Si to ti tam?\" \"Ja, jaz sem.\"",
+      "level": "A1",
+      "sourceId": "this",
+      "sourceIds": [
+        "this"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tisti",
+      "word": "tisti",
+      "en": "tisti",
+      "ru": [
+        "те"
+      ],
+      "example": "A nisi ti tisti, ki je zakuhal tole?",
+      "level": "A1",
+      "sourceId": "those",
+      "sourceIds": [
+        "those"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ceprav",
+      "word": "čeprav",
+      "en": "čeprav",
+      "ru": [
+        "хотя",
+        "всё же"
+      ],
+      "example": "Moj profil se skoraj spreminja v blog, čeprav je zanimanje omejeno.",
+      "level": "A2",
+      "sourceId": "though",
+      "sourceIds": [
+        "though"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zaradi",
+      "word": "zaradi",
+      "en": "zaradi",
+      "ru": [
+        "благодаря",
+        "за счёт",
+        "из-за"
+      ],
+      "example": "Zaradi tega si puliš lase.",
+      "level": "A1",
+      "sourceId": "through",
+      "sourceIds": [
+        "through"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "povsod",
+      "word": "povsod",
+      "en": "povsod",
+      "ru": [
+        "насквозь",
+        "повсюду",
+        "по всей"
+      ],
+      "example": "Znanje je zaklad, ki povsod spremlja svojega lastnika.",
+      "level": "A2",
+      "sourceId": "throughout",
+      "sourceIds": [
+        "throughout"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tako",
+      "word": "takó",
+      "en": "takó",
+      "ru": [
+        "таким образом",
+        "итак"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "thus",
+      "sourceIds": [
+        "thus"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "krat",
+      "word": "krat",
+      "en": "krat",
+      "ru": [
+        "разы",
+        "времена"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "times",
+      "sourceIds": [
+        "times"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "k",
+      "word": "k",
+      "en": "k",
+      "ru": [
+        "к",
+        "в",
+        "на"
+      ],
+      "example": "Vrt spada k hiši.",
+      "level": "A1",
+      "sourceId": "to",
+      "sourceIds": [
+        "to"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prevec",
+      "word": "preveč",
+      "en": "preveč",
+      "ru": [
+        "тоже",
+        "слишком"
+      ],
+      "example": "Hrana ni bila preveč okusna.",
+      "level": "A1",
+      "sourceId": "too",
+      "sourceIds": [
+        "too"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "proti",
+      "word": "proti",
+      "en": "proti",
+      "ru": [
+        "к",
+        "в направлении",
+        "в сторону"
+      ],
+      "example": "Pojdi na avtobus proti Badstraße in izstopi pri Seestraße.",
+      "level": "B1",
+      "sourceId": "toward",
+      "sourceIds": [
+        "toward"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pod",
+      "word": "pod",
+      "en": "pod",
+      "ru": [
+        "под",
+        "ниже"
+      ],
+      "example": "Nočem delati pod temi pogoji.",
+      "level": "A1",
+      "sourceId": "under",
+      "sourceIds": [
+        "under"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "razen-ce",
+      "word": "razen če",
+      "en": "razen če",
+      "ru": [
+        "если только не",
+        "пока не"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "unless",
+      "sourceIds": [
+        "unless"
+      ],
+      "pos": "conjunction"
+    },
+    {
+      "id": "dokler",
+      "word": "dokler",
+      "en": "dokler",
+      "ru": [
+        "до тех пор, пока не",
+        "пока не",
+        "до"
+      ],
+      "example": "Vem, da te bom ljubil, dokler bom živ.",
+      "level": "A1",
+      "sourceId": "until",
+      "sourceIds": [
+        "until"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gor",
+      "word": "gôr",
+      "en": "gôr",
+      "ru": [
+        "вверх",
+        "вверху",
+        "наверх"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "up",
+      "sourceIds": [
+        "up"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "na",
+      "word": "na",
+      "en": "na",
+      "ru": [
+        "на",
+        "в",
+        "по"
+      ],
+      "example": "Bi lahko ti peljal psa na sprehod?",
+      "level": "A1",
+      "sourceId": "upon",
+      "sourceIds": [
+        "upon"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mi",
+      "word": "mi",
+      "en": "mi",
+      "ru": [
+        "нам",
+        "нас",
+        "нами"
+      ],
+      "example": "Mi lahko poveste, kako se uporablja telefon.",
+      "level": "A1",
+      "sourceId": "us",
+      "sourceIds": [
+        "us"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zelo",
+      "word": "zelo",
+      "en": "zelo",
+      "ru": [
+        "очень",
+        "весьма"
+      ],
+      "example": "Mislim, da je Japonska zelo varna država.",
+      "level": "A1",
+      "sourceId": "very",
+      "sourceIds": [
+        "very"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "via",
+      "word": "via",
+      "en": "via",
+      "ru": [
+        "по",
+        "с помощью",
+        "посредством"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "via",
+      "sourceIds": [
+        "via"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "mi",
+      "word": "mi",
+      "en": "mi",
+      "ru": [
+        "мы"
+      ],
+      "example": "Mi lahko poveste, kako se uporablja telefon.",
+      "level": "A1",
+      "sourceId": "we",
+      "sourceIds": [
+        "we"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kateri",
+      "word": "kateri",
+      "en": "kateri",
+      "ru": [
+        "которая",
+        "которое",
+        "который"
+      ],
+      "example": "Kateri problem poskuša rešiti vaše podjetje?",
+      "level": "A1",
+      "sourceId": "what",
+      "sourceIds": [
+        "what"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "karkoli",
+      "word": "karkoli",
+      "en": "karkoli",
+      "ru": [
+        "что бы ни",
+        "любой",
+        "всё, что"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "whatever",
+      "sourceIds": [
+        "whatever"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "ko",
+      "word": "ko",
+      "en": "ko",
+      "ru": [
+        "когда",
+        "в то время как"
+      ],
+      "example": "Kje boš, ko se bo svet sesul?",
+      "level": "A1",
+      "sourceId": "when",
+      "sourceIds": [
+        "when"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kje",
+      "word": "kje",
+      "en": "kje",
+      "ru": [
+        "где",
+        "куда",
+        "откуда"
+      ],
+      "example": "Kje boš, ko se bo svet sesul?",
+      "level": "A1",
+      "sourceId": "where",
+      "sourceIds": [
+        "where"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ce",
+      "word": "če",
+      "en": "če",
+      "ru": [
+        "ли",
+        "будь то"
+      ],
+      "example": "Kaj storiti, če pičita osa ali čebela?",
+      "level": "A1",
+      "sourceId": "whether",
+      "sourceIds": [
+        "whether"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kateri",
+      "word": "kateri",
+      "en": "kateri",
+      "ru": [
+        "какой",
+        "кой",
+        "который"
+      ],
+      "example": "Kateri problem poskuša rešiti vaše podjetje?",
+      "level": "A1",
+      "sourceId": "which",
+      "sourceIds": [
+        "which"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "medtem-ko",
+      "word": "medtem ko",
+      "en": "medtem ko",
+      "ru": [
+        "в то время как",
+        "пока"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "while",
+      "sourceIds": [
+        "while"
+      ],
+      "pos": "conjunction"
+    },
+    {
+      "id": "kdorkoli",
+      "word": "kdorkoli",
+      "en": "kdorkoli",
+      "ru": [
+        "кто бы (то) ни было",
+        "кто бы ни",
+        "кто угодно"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "whoever",
+      "sourceIds": [
+        "whoever"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "koga",
+      "word": "koga",
+      "en": "koga",
+      "ru": [
+        "который",
+        "кто"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "whom",
+      "sourceIds": [
+        "whom"
+      ],
+      "pos": "pronoun"
+    },
+    {
+      "id": "cigar",
+      "word": "čígar",
+      "en": "čígar",
+      "ru": [
+        "чей",
+        "чейный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "whose",
+      "sourceIds": [
+        "whose"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "zakaj",
+      "word": "zakaj",
+      "en": "zakaj",
+      "ru": [
+        "почему",
+        "зачем",
+        "отчего"
+      ],
+      "example": "Zakaj je vitamin D tako zelo pomemben?",
+      "level": "A1",
+      "sourceId": "why",
+      "sourceIds": [
+        "why"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "volja",
+      "word": "volja",
+      "en": "volja",
+      "ru": [
+        "воля",
+        "намерение"
+      ],
+      "example": "Tam, kjer je volja, tam je pot.",
+      "level": "A1",
+      "sourceId": "will",
+      "sourceIds": [
+        "will"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pripravljen",
+      "word": "pripravljen",
+      "en": "pripravljen",
+      "ru": [
+        "готовый"
+      ],
+      "example": "Pripravljen sem vam pomagati.",
+      "level": "B1",
+      "sourceId": "willing",
+      "sourceIds": [
+        "willing"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "znotraj",
+      "word": "znotraj",
+      "en": "znotraj",
+      "ru": [
+        "внутри"
+      ],
+      "example": "Znotraj se je počutil praznega.",
+      "level": "A1",
+      "sourceId": "within",
+      "sourceIds": [
+        "within"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brez",
+      "word": "brez",
+      "en": "brez",
+      "ru": [
+        "без"
+      ],
+      "example": "Ljubim nekoga, ki me je zapustil brez razloga.",
+      "level": "A1",
+      "sourceId": "without",
+      "sourceIds": [
+        "without"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vzel-bi",
+      "word": "vzel bi",
+      "en": "vzel bi",
+      "ru": [
+        "взял бы"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "would-take",
+      "sourceIds": [
+        "would-take"
+      ]
+    },
+    {
+      "id": "ja",
+      "word": "ja",
+      "en": "ja",
+      "ru": [
+        "да!",
+        "е!",
+        "ура!"
+      ],
+      "example": "\"Si to ti tam?\" \"Ja, jaz sem.\"",
+      "level": "B1",
+      "sourceId": "yeah",
+      "sourceIds": [
+        "yeah"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "se",
+      "word": "še",
+      "en": "še",
+      "ru": [
+        "ещё",
+        "однако"
+      ],
+      "example": "Ali je prostor za še eno osebo?",
+      "level": "A1",
+      "sourceId": "yet",
+      "sourceIds": [
+        "yet"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ti",
+      "word": "ti",
+      "en": "ti",
+      "ru": [
+        "ты",
+        "вы",
+        "вам"
+      ],
+      "example": "\"Si to ti tam?\" \"Ja, jaz sem.\"",
+      "level": "A1",
+      "sourceId": "you",
+      "sourceIds": [
+        "you"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tvoj",
+      "word": "tvoj",
+      "en": "tvoj",
+      "ru": [
+        "твой",
+        "ваш"
+      ],
+      "example": "Imam hčerko iste starosti kot tvoj sin.",
+      "level": "A1",
+      "sourceId": "your",
+      "sourceIds": [
+        "your"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tvoj",
+      "word": "tvoj",
+      "en": "tvoj",
+      "ru": [
+        "твой",
+        "ваш"
+      ],
+      "example": "Imam hčerko iste starosti kot tvoj sin.",
+      "level": "A1",
+      "sourceId": "yours",
+      "sourceIds": [
+        "yours"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sebe",
+      "word": "sebe",
+      "en": "sebe",
+      "ru": [
+        "ся",
+        "себя",
+        "вы сами"
+      ],
+      "example": "Daleč nad ljubeznijo do sebe je Ljubezen.",
+      "level": "A2",
+      "sourceId": "yourself",
+      "sourceIds": [
+        "yourself"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pogojen",
+      "word": "pogojen",
+      "en": "pogojen",
+      "ru": [
+        "условный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "conditional",
+      "sourceIds": [
+        "conditional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "bos",
+      "word": "boš",
+      "en": "boš",
+      "ru": [
+        "будущее время"
+      ],
+      "example": "Kje boš, ko se bo svet sesul?",
+      "level": "B1",
+      "sourceId": "you-will",
+      "sourceIds": [
+        "you-will"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ni-bil",
+      "word": "ni bil",
+      "en": "ni bil",
+      "ru": [
+        "быть"
+      ],
+      "example": "Moj oče ni še nikoli bil v tujini.",
+      "level": "B1",
+      "sourceId": "was-not",
+      "sourceIds": [
+        "was-not"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ne-bo",
+      "word": "ne bo",
+      "en": "ne bo",
+      "ru": [
+        "будущее время"
+      ],
+      "example": "Ko boš prišel nazaj, me ne bo več.",
+      "level": "B1",
+      "sourceId": "will-not",
+      "sourceIds": [
+        "will-not"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bo",
+      "word": "bo",
+      "en": "bo",
+      "ru": [
+        "будущее время"
+      ],
+      "example": "Kdo bo prvi, ki bo vse uganil?",
+      "level": "B1",
+      "sourceId": "it-will",
+      "sourceIds": [
+        "it-will"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "so",
+      "word": "so",
+      "en": "so",
+      "ru": [
+        "быть"
+      ],
+      "example": "Banane so dober vir kalija in vlaknin.",
+      "level": "B1",
+      "sourceId": "they-are",
+      "sourceIds": [
+        "they-are"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bomo",
+      "word": "bomo",
+      "en": "bomo",
+      "ru": [
+        "будущее время"
+      ],
+      "example": "Danes ne bomo šli v šolo.",
+      "level": "B1",
+      "sourceId": "we-will",
+      "sourceIds": [
+        "we-will"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kdo-je",
+      "word": "kdo je",
+      "en": "kdo je",
+      "ru": [
+        "кто есть"
+      ],
+      "example": "Kdo je bil Martin Luther King mlajši?",
+      "level": "B1",
+      "sourceId": "who-is",
+      "sourceIds": [
+        "who-is"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kdo",
+      "word": "kdo",
+      "en": "kdo",
+      "ru": [
+        "кто"
+      ],
+      "example": "Kdo bo prvi, ki bo vse uganil?",
+      "level": "B1",
+      "sourceId": "who",
+      "sourceIds": [
+        "who"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jaz-bi",
+      "word": "jaz bi",
+      "en": "jaz bi",
+      "ru": [
+        "я бы"
+      ],
+      "example": "Jaz bi se odrezal bolje kot on.",
+      "level": "B1",
+      "sourceId": "i-would",
+      "sourceIds": [
+        "i-would"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "glede-na",
+      "word": "glede na",
+      "en": "glede na",
+      "ru": [
+        "согласно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "according",
+      "sourceIds": [
+        "according"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "ne-biti",
+      "word": "ne biti",
+      "en": "ne biti",
+      "ru": [
+        "не быть"
+      ],
+      "example": "To ne bi smel biti tak problem.",
+      "level": "B1",
+      "sourceId": "are-not",
+      "sourceIds": [
+        "are-not",
+        "is-not",
+        "be-not",
+        "were-not"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mi-bi",
+      "word": "mi bi",
+      "en": "mi bi",
+      "ru": [
+        "мы бы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "we-would",
+      "sourceIds": [
+        "we-would"
+      ]
+    },
+    {
+      "id": "vi-bi",
+      "word": "vi bi",
+      "en": "vi bi",
+      "ru": [
+        "вы бы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "you-would",
+      "sourceIds": [
+        "you-would"
+      ]
+    },
+    {
+      "id": "sebe",
+      "word": "sebe",
+      "en": "sebe",
+      "ru": [
+        "сами"
+      ],
+      "example": "Daleč nad ljubeznijo do sebe je Ljubezen.",
+      "level": "B1",
+      "sourceId": "yourselves",
+      "sourceIds": [
+        "yourselves"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "za-razliko-od",
+      "word": "za razliko od",
+      "en": "za razliko od",
+      "ru": [
+        "в отличие от",
+        "непохожий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unlike",
+      "sourceIds": [
+        "unlike"
+      ],
+      "pos": "preposition"
+    },
+    {
+      "id": "to-bo",
+      "word": "to bo",
+      "en": "to bo",
+      "ru": [
+        "это будет"
+      ],
+      "example": "To se ne bo zgodilo.",
+      "level": "B1",
+      "sourceId": "that-will",
+      "sourceIds": [
+        "that-will"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oni-bi",
+      "word": "oni bi",
+      "en": "oni bi",
+      "ru": [
+        "они бы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "they-would",
+      "sourceIds": [
+        "they-would"
+      ]
+    },
+    {
+      "id": "omejevalen",
+      "word": "omejevalen",
+      "en": "omejevalen",
+      "ru": [
+        "ограничительный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "restrictive",
+      "sourceIds": [
+        "restrictive"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "on-bo",
+      "word": "on bo",
+      "en": "on bo",
+      "ru": [
+        "он будет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "he-will",
+      "sourceIds": [
+        "he-will"
+      ]
+    },
+    {
+      "id": "ni-naredil",
+      "word": "ni naredil",
+      "en": "ni naredil",
+      "ru": [
+        "не сделал"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "did-not",
+      "sourceIds": [
+        "did-not"
+      ]
+    },
+    {
+      "id": "smo",
+      "word": "smo",
+      "en": "smo",
+      "ru": [
+        "мы есть"
+      ],
+      "example": "Imeli smo najbolj ljubečo in modro mamo.",
+      "level": "B1",
+      "sourceId": "we-are",
+      "sourceIds": [
+        "we-are"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "to-je",
+      "word": "to je",
+      "en": "to je",
+      "ru": [
+        "это есть"
+      ],
+      "example": "To je bila njegova najboljša tekma.",
+      "level": "B1",
+      "sourceId": "it-is",
+      "sourceIds": [
+        "it-is"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "on-bi",
+      "word": "on bi",
+      "en": "on bi",
+      "ru": [
+        "бы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "he-would",
+      "sourceIds": [
+        "he-would"
+      ]
+    },
+    {
+      "id": "to-bi",
+      "word": "to bi",
+      "en": "to bi",
+      "ru": [
+        "бы"
+      ],
+      "example": "To ne bi smel biti tak problem.",
+      "level": "B1",
+      "sourceId": "it-would",
+      "sourceIds": [
+        "it-would"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zakaj-je",
+      "word": "zakaj je",
+      "en": "zakaj je",
+      "ru": [
+        "почему"
+      ],
+      "example": "Zakaj je vitamin D tako zelo pomemben?",
+      "level": "B1",
+      "sourceId": "why-did",
+      "sourceIds": [
+        "why-did"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ona-bi",
+      "word": "ona bi",
+      "en": "ona bi",
+      "ru": [
+        "бы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "she-would",
+      "sourceIds": [
+        "she-would"
+      ]
+    },
+    {
+      "id": "to-bo",
+      "word": "to bo",
+      "en": "to bo",
+      "ru": [
+        "будущее время"
+      ],
+      "example": "To se ne bo zgodilo.",
+      "level": "B1",
+      "sourceId": "this-will",
+      "sourceIds": [
+        "this-will"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaj-je",
+      "word": "kaj je",
+      "en": "kaj je",
+      "ru": [
+        "что"
+      ],
+      "example": "Kaj se je zgodilo z ostalo hrano?",
+      "level": "B1",
+      "sourceId": "what-did",
+      "sourceIds": [
+        "what-did"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "glagolski-cas",
+      "word": "glagolski čas",
+      "en": "glagolski čas",
+      "ru": [
+        "время (грамматическое)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tense",
+      "sourceIds": [
+        "tense"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "si",
+      "word": "si",
+      "en": "si",
+      "ru": [
+        "ты есть",
+        "вы есть"
+      ],
+      "example": "\"Si to ti tam?\" \"Ja, jaz sem.\"",
+      "level": "B1",
+      "sourceId": "you-are",
+      "sourceIds": [
+        "you-are"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ne",
+      "word": "ne",
+      "en": "ne",
+      "ru": [
+        "не делать"
+      ],
+      "example": "-\"Ali imaš punco?\" -\"Ne\" -\"Kaj pa fanta?\"",
+      "level": "B1",
+      "sourceId": "do-not",
+      "sourceIds": [
+        "do-not"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sem",
+      "word": "sem",
+      "en": "sem",
+      "ru": [
+        "я есть"
+      ],
+      "example": "\"Si to ti tam?\" \"Ja, jaz sem.\"",
+      "level": "B1",
+      "sourceId": "i-am",
+      "sourceIds": [
+        "i-am"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bo",
+      "word": "bo",
+      "en": "bo",
+      "ru": [
+        "там будет"
+      ],
+      "example": "Kdo bo prvi, ki bo vse uganil?",
+      "level": "B1",
+      "sourceId": "there-will",
+      "sourceIds": [
+        "there-will"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kje-je",
+      "word": "kje je",
+      "en": "kje je",
+      "ru": [
+        "где (прошедшее время)"
+      ],
+      "example": "Kje je najbližja delavnica za popravilo didgeridoo-jev?",
+      "level": "B1",
+      "sourceId": "where-did",
+      "sourceIds": [
+        "where-did"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kajne",
+      "word": "kajne",
+      "en": "kajne",
+      "ru": [
+        "не так ли"
+      ],
+      "example": "Nimaš dovolj denarja, kajne?",
+      "level": "B1",
+      "sourceId": "isn-t-it",
+      "sourceIds": [
+        "isn-t-it"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tebe",
+      "word": "tebe",
+      "en": "tebe",
+      "ru": [
+        "тебя (устар.)"
+      ],
+      "example": "Toliko ljudi je precej starejših od tebe.",
+      "level": "B1",
+      "sourceId": "thee",
+      "sourceIds": [
+        "thee"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ne-bom",
+      "word": "ne bom",
+      "en": "ne bom",
+      "ru": [
+        "не буду",
+        "не должен"
+      ],
+      "example": "Ničesar drugega te ne bom vprašal danes.",
+      "level": "B1",
+      "sourceId": "shall-not",
+      "sourceIds": [
+        "shall-not"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stevilka",
+      "word": "številka",
+      "en": "številka",
+      "ru": [
+        "числительное",
+        "цифра"
+      ],
+      "example": "\"Kako se bere številka 1989?\" \"Tisoč devetsto devetinosemdeset.\"",
+      "level": "B1",
+      "sourceId": "numeral",
+      "sourceIds": [
+        "numeral"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "povedek",
+      "word": "povedek",
+      "en": "povedek",
+      "ru": [
+        "предикат",
+        "сказуемое"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "predicate",
+      "sourceIds": [
+        "predicate"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

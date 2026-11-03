@@ -1,0 +1,5157 @@
+{
+  "id": "home",
+  "title": "Дом",
+  "paid": false,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "adressieren",
+      "word": "adressieren",
+      "en": "adressieren",
+      "ru": [
+        "адрес",
+        "адресовать",
+        "обратиться"
+      ],
+      "example": "Alle diese Briefe sind an Sie adressiert.",
+      "level": "A1",
+      "sourceId": "address",
+      "sourceIds": [
+        "address"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wohnung",
+      "word": "Wohnung",
+      "en": "Wohnung",
+      "ru": [
+        "квартира",
+        "апартамент"
+      ],
+      "example": "Auf jeder Etage gibt es vier Wohnungen.",
+      "level": "A1",
+      "sourceId": "apartment",
+      "sourceIds": [
+        "apartment"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sessel",
+      "word": "Sessel",
+      "en": "Sessel",
+      "ru": [
+        "кресло"
+      ],
+      "example": "Alex, iss am Esstisch, nicht im Sessel!",
+      "level": "A2",
+      "sourceId": "armchair",
+      "sourceIds": [
+        "armchair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dachboden",
+      "word": "Dachboden",
+      "en": "Dachboden",
+      "ru": [
+        "мансарда",
+        "чердак"
+      ],
+      "example": "Auf dem Dachboden hatte sich Staub angesammelt.",
+      "level": "A2",
+      "sourceId": "attic",
+      "sourceIds": [
+        "attic",
+        "loft"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "balkon",
+      "word": "Balkon",
+      "en": "Balkon",
+      "ru": [
+        "балкон"
+      ],
+      "example": "Auf dem Balkon ist es tagsüber heiß.",
+      "level": "A2",
+      "sourceId": "balcony",
+      "sourceIds": [
+        "balcony"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "keller",
+      "word": "Keller",
+      "en": "Keller",
+      "ru": [
+        "подвал",
+        "подвальный этаж",
+        "цокольный этаж"
+      ],
+      "example": "Auch Wolkenkratzer haben mal als Keller angefangen.",
+      "level": "A2",
+      "sourceId": "basement",
+      "sourceIds": [
+        "basement"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "badewanne",
+      "word": "Badewanne",
+      "en": "Badewanne",
+      "ru": [
+        "ванна",
+        "ванная",
+        "баня"
+      ],
+      "example": "Er ließ Wasser in die Badewanne laufen.",
+      "level": "B1",
+      "sourceId": "bath",
+      "sourceIds": [
+        "bath"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "baden",
+      "word": "Baden",
+      "en": "Baden",
+      "ru": [
+        "купание"
+      ],
+      "example": "Baden-Württemberg ist … irgendwo da unten links!",
+      "level": "C2",
+      "sourceId": "bathing",
+      "sourceIds": [
+        "bathing"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bad",
+      "word": "Bad",
+      "en": "Bad",
+      "ru": [
+        "ванная",
+        "ванная комната"
+      ],
+      "example": "Das Bad ist am Ende des Flures.",
+      "level": "A1",
+      "sourceId": "bathroom",
+      "sourceIds": [
+        "bathroom"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bett",
+      "word": "Bett",
+      "en": "Bett",
+      "ru": [
+        "кровать",
+        "койка",
+        "ложе"
+      ],
+      "example": "Abends gehe ich um zehn ins Bett.",
+      "level": "A1",
+      "sourceId": "bed",
+      "sourceIds": [
+        "bed"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bettwasche",
+      "word": "Bettwäsche",
+      "en": "Bettwäsche",
+      "ru": [
+        "бельё",
+        "постельное бельё",
+        "подстилка"
+      ],
+      "example": "Die Bettwäsche wird einmal die Woche gewechselt.",
+      "level": "B2",
+      "sourceId": "bedding",
+      "sourceIds": [
+        "bedding"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schlafzimmer",
+      "word": "Schlafzimmer",
+      "en": "Schlafzimmer",
+      "ru": [
+        "спальня"
+      ],
+      "example": "Bob hat viele Bücher in seinem Schlafzimmer.",
+      "level": "A1",
+      "sourceId": "bedroom",
+      "sourceIds": [
+        "bedroom"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "decke",
+      "word": "Decke",
+      "en": "Decke",
+      "ru": [
+        "одеяло",
+        "покрывало",
+        "пласт"
+      ],
+      "example": "An der Decke sitzt eine dicke Spinne.",
+      "level": "A1",
+      "sourceId": "blanket",
+      "sourceIds": [
+        "blanket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ventilator",
+      "word": "Ventilator",
+      "en": "Ventilator",
+      "ru": [
+        "вентилятор",
+        "воздуходувка"
+      ],
+      "example": "Wer hat den Ventilator so schnell gestellt?",
+      "level": "C2",
+      "sourceId": "blower",
+      "sourceIds": [
+        "blower"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "besen",
+      "word": "Besen",
+      "en": "Besen",
+      "ru": [
+        "веник",
+        "метла",
+        "щётка"
+      ],
+      "example": "Eine faule Magd klagt über den Besen.",
+      "level": "A2",
+      "sourceId": "broom",
+      "sourceIds": [
+        "broom"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eimer",
+      "word": "Eimer",
+      "en": "Eimer",
+      "ru": [
+        "ведро",
+        "ведёрко",
+        "ковш"
+      ],
+      "example": "Bertrand hat einen Eimer voll von Kakipflaumen.",
+      "level": "A2",
+      "sourceId": "bucket",
+      "sourceIds": [
+        "bucket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bau",
+      "word": "Bau",
+      "en": "Bau",
+      "ru": [
+        "строительство",
+        "стройка",
+        "дом"
+      ],
+      "example": "Das Gebäude befindet sich bereits im Bau.",
+      "level": "A1",
+      "sourceId": "building",
+      "sourceIds": [
+        "building"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kerze",
+      "word": "Kerze",
+      "en": "Kerze",
+      "ru": [
+        "свеча",
+        "свечка"
+      ],
+      "example": "Auf dem Waschtisch steht eine rote Kerze.",
+      "level": "B2",
+      "sourceId": "candle",
+      "sourceIds": [
+        "candle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "teppich",
+      "word": "Teppich",
+      "en": "Teppich",
+      "ru": [
+        "ковёр",
+        "ковëр"
+      ],
+      "example": "Auf dem Teppich schläft es sich großartig.",
+      "level": "A2",
+      "sourceId": "carpet",
+      "sourceIds": [
+        "carpet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "decke",
+      "word": "Decke",
+      "en": "Decke",
+      "ru": [
+        "потолок"
+      ],
+      "example": "An der Decke sitzt eine dicke Spinne.",
+      "level": "B2",
+      "sourceId": "ceiling",
+      "sourceIds": [
+        "ceiling"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stuhl",
+      "word": "Stuhl",
+      "en": "Stuhl",
+      "ru": [
+        "стул"
+      ],
+      "example": "\"Wem gehört dieser Stuhl?\" \"Das ist meiner.\"",
+      "level": "A1",
+      "sourceId": "chair",
+      "sourceIds": [
+        "chair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kammer",
+      "word": "Kammer",
+      "en": "Kammer",
+      "ru": [
+        "комната",
+        "спальня",
+        "палата"
+      ],
+      "example": "Beide Kammern schlagen vor, ändern und verabschieden Gesetze.",
+      "level": "B1",
+      "sourceId": "chamber",
+      "sourceIds": [
+        "chamber"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kamin",
+      "word": "Kamin",
+      "en": "Kamin",
+      "ru": [
+        "труба",
+        "дымовая труба",
+        "дымоход"
+      ],
+      "example": "Der Nikolaus kam durch den Kamin herabgestiegen.",
+      "level": "A2",
+      "sourceId": "chimney",
+      "sourceIds": [
+        "chimney"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hausliche-arbeit",
+      "word": "häusliche Arbeit",
+      "en": "häusliche Arbeit",
+      "ru": [
+        "неприятная работа",
+        "рутинная работа",
+        "домашняя работа"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "chore",
+      "sourceIds": [
+        "chore"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "putzen",
+      "word": "putzen",
+      "en": "putzen",
+      "ru": [
+        "чистить",
+        "убирать"
+      ],
+      "example": "Der Lehrer ließ uns das Zimmer putzen.",
+      "level": "A2",
+      "sourceId": "clean",
+      "sourceIds": [
+        "clean"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "putzmann",
+      "word": "Putzmann",
+      "en": "Putzmann",
+      "ru": [
+        "уборщик",
+        "уборщица",
+        "очиститель"
+      ],
+      "example": "Die Putzfrau fand unter dem Kissen eine Pistole.",
+      "level": "B2",
+      "sourceId": "cleaner",
+      "sourceIds": [
+        "cleaner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reinigung",
+      "word": "Reinigung",
+      "en": "Reinigung",
+      "ru": [
+        "очистка"
+      ],
+      "example": "Ich bringe meine Jacke in die Reinigung.",
+      "level": "B1",
+      "sourceId": "cleaning",
+      "sourceIds": [
+        "cleaning"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reinlich",
+      "word": "reinlich",
+      "en": "reinlich",
+      "ru": [
+        "чистоплотный"
+      ],
+      "example": "Die Japaner sind ein sehr reinliches Volk.",
+      "level": "C2",
+      "sourceId": "cleanly",
+      "sourceIds": [
+        "cleanly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bettdecke",
+      "word": "Bettdecke",
+      "en": "Bettdecke",
+      "ru": [
+        "стёганое ватное одеяло",
+        "утешитель",
+        "утешительница"
+      ],
+      "example": "Ich habe dir noch eine Bettdecke gebracht.",
+      "level": "C2",
+      "sourceId": "comforter",
+      "sourceIds": [
+        "comforter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "herd",
+      "word": "Herd",
+      "en": "Herd",
+      "ru": [
+        "печка",
+        "плита"
+      ],
+      "example": "Adler fliegen allein. Schafe gehen in Herden.",
+      "level": "A2",
+      "sourceId": "cooker",
+      "sourceIds": [
+        "cooker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuhlbox",
+      "word": "Kühlbox",
+      "en": "Kühlbox",
+      "ru": [
+        "охладитель",
+        "сумка-холодильник"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "cooler",
+      "sourceIds": [
+        "cooler"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "couch",
+      "word": "Couch",
+      "en": "Couch",
+      "ru": [
+        "диван",
+        "кушетка",
+        "софа"
+      ],
+      "example": "Er schlief auf der Couch im Wohnzimmer.",
+      "level": "A2",
+      "sourceId": "couch",
+      "sourceIds": [
+        "couch"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schrank",
+      "word": "Schrank",
+      "en": "Schrank",
+      "ru": [
+        "шкаф",
+        "буфет",
+        "сервант"
+      ],
+      "example": "Andy hängte sein Hemd in den Schrank.",
+      "level": "A1",
+      "sourceId": "cupboard",
+      "sourceIds": [
+        "cupboard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vorhang",
+      "word": "Vorhang",
+      "en": "Vorhang",
+      "ru": [
+        "гардина",
+        "занавеска",
+        "портьера"
+      ],
+      "example": "Als ich die Vorhänge öffnete, schneite es.",
+      "level": "A1",
+      "sourceId": "curtain",
+      "sourceIds": [
+        "curtain"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kissen",
+      "word": "Kissen",
+      "en": "Kissen",
+      "ru": [
+        "подушка",
+        "амортизатор",
+        "буфер"
+      ],
+      "example": "Dieses kluge Kissen vibriert, wenn man schnarcht.",
+      "level": "A2",
+      "sourceId": "cushion",
+      "sourceIds": [
+        "cushion"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schreibtisch",
+      "word": "Schreibtisch",
+      "en": "Schreibtisch",
+      "ru": [
+        "бюро",
+        "парта",
+        "письменный стол"
+      ],
+      "example": "Auf dem Schreibtisch befinden sich einige Bücher.",
+      "level": "B1",
+      "sourceId": "desk",
+      "sourceIds": [
+        "desk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schmutzig",
+      "word": "schmutzig",
+      "en": "schmutzig",
+      "ru": [
+        "грязный",
+        "испачканный",
+        "подло"
+      ],
+      "example": "Berühre meine Bücher nicht mit schmutzigen Händen.",
+      "level": "B2",
+      "sourceId": "dirty",
+      "sourceIds": [
+        "dirty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tur",
+      "word": "Tür",
+      "en": "Tür",
+      "ru": [
+        "дверь",
+        "двери"
+      ],
+      "example": "Achte darauf, dass die Türen geschlossen sind.",
+      "level": "A1",
+      "sourceId": "door",
+      "sourceIds": [
+        "door"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schublade",
+      "word": "Schublade",
+      "en": "Schublade",
+      "ru": [
+        "выдвижной ящик"
+      ],
+      "example": "Das Besteck gehört in die oberste Schublade.",
+      "level": "A2",
+      "sourceId": "drawer",
+      "sourceIds": [
+        "drawer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kommode",
+      "word": "Kommode",
+      "en": "Kommode",
+      "ru": [
+        "кухонный шкаф",
+        "комод"
+      ],
+      "example": "Eine große Spinne lebt hinter der Kommode.",
+      "level": "C2",
+      "sourceId": "dresser",
+      "sourceIds": [
+        "dresser"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bohren",
+      "word": "bohren",
+      "en": "bohren",
+      "ru": [
+        "сверлить"
+      ],
+      "example": "Ein Fauler bohrt nicht gerne dicke Bretter.",
+      "level": "C1",
+      "sourceId": "drill",
+      "sourceIds": [
+        "drill"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gut",
+      "word": "Gut",
+      "en": "Gut",
+      "ru": [
+        "имение",
+        "сословие"
+      ],
+      "example": "\"Gut, in Ordnung\", stimmte Willie endlich zu.",
+      "level": "A1",
+      "sourceId": "estate",
+      "sourceIds": [
+        "estate"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hahn",
+      "word": "Hahn",
+      "en": "Hahn",
+      "ru": [
+        "кран",
+        "водопроводный кран"
+      ],
+      "example": "Das Wasser aus diesem Hahn ist dreckig.",
+      "level": "A2",
+      "sourceId": "faucet",
+      "sourceIds": [
+        "faucet",
+        "tap"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verwohnen",
+      "word": "verwöhnen",
+      "en": "verwöhnen",
+      "ru": [
+        "перина",
+        "пуховик"
+      ],
+      "example": "Das Kind meiner Schwester ist sehr verwöhnt.",
+      "level": "C2",
+      "sourceId": "featherbed",
+      "sourceIds": [
+        "featherbed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zaun",
+      "word": "Zaun",
+      "en": "Zaun",
+      "ru": [
+        "забор",
+        "ограда"
+      ],
+      "example": "Das Pferd ist über den Zaun gesprungen.",
+      "level": "A2",
+      "sourceId": "fence",
+      "sourceIds": [
+        "fence"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kamin",
+      "word": "Kamin",
+      "en": "Kamin",
+      "ru": [
+        "камин",
+        "очаг"
+      ],
+      "example": "Der Nikolaus kam durch den Kamin herabgestiegen.",
+      "level": "A2",
+      "sourceId": "fireplace",
+      "sourceIds": [
+        "fireplace"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "flach",
+      "word": "flach",
+      "en": "flach",
+      "ru": [
+        "плоский",
+        "пологий",
+        "ровный"
+      ],
+      "example": "Auf dem Tisch sind zwei flache Schüsseln.",
+      "level": "A2",
+      "sourceId": "flat",
+      "sourceIds": [
+        "flat"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "boden",
+      "word": "Boden",
+      "en": "Boden",
+      "ru": [
+        "пол",
+        "настил",
+        "дно"
+      ],
+      "example": "Akkadische Verbalnomina sind ein Fass ohne Boden.",
+      "level": "A1",
+      "sourceId": "floor",
+      "sourceIds": [
+        "floor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rahmen",
+      "word": "Rahmen",
+      "en": "Rahmen",
+      "ru": [
+        "костяк",
+        "скелет",
+        "телосложение"
+      ],
+      "example": "Der Rahmen ist wertvoller als das Gemälde.",
+      "level": "A2",
+      "sourceId": "frame",
+      "sourceIds": [
+        "frame"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ausrustung",
+      "word": "Ausrüstung",
+      "en": "Ausrüstung",
+      "ru": [
+        "мебель",
+        "предмет мебели"
+      ],
+      "example": "Die Mannschaftsmitglieder bekommen Ausrüstung und Uniformen gestellt.",
+      "level": "A2",
+      "sourceId": "furniture",
+      "sourceIds": [
+        "furniture"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "garage",
+      "word": "Garage",
+      "en": "Garage",
+      "ru": [
+        "гараж",
+        "станция техобслуживания",
+        "автосервис"
+      ],
+      "example": "Alle Autos in dieser Garage gehören Tom.",
+      "level": "B2",
+      "sourceId": "garage",
+      "sourceIds": [
+        "garage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mull",
+      "word": "Müll",
+      "en": "Müll",
+      "ru": [
+        "сор",
+        "мусор",
+        "отброс"
+      ],
+      "example": "All diese Lebensmittel und Medilamente sind Müll.",
+      "level": "A2",
+      "sourceId": "garbage",
+      "sourceIds": [
+        "garbage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "halle",
+      "word": "Halle",
+      "en": "Halle",
+      "ru": [
+        "вестибюль",
+        "коридор",
+        "приёмная"
+      ],
+      "example": "Die Halle ist in fünf Bereiche unterteilt.",
+      "level": "A2",
+      "sourceId": "hall",
+      "sourceIds": [
+        "hall"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haus",
+      "word": "Haus",
+      "en": "Haus",
+      "ru": [
+        "дом",
+        "здание"
+      ],
+      "example": "\"Wo bist du?\" \"Ich bin zu Hause.\"",
+      "level": "A1",
+      "sourceId": "house",
+      "sourceIds": [
+        "house"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haushalt",
+      "word": "Haushalt",
+      "en": "Haushalt",
+      "ru": [
+        "домашнее хозяйство",
+        "домашний",
+        "домохозяйство"
+      ],
+      "example": "Die Stadtrat hat den neuen Haushalt abgelehnt.",
+      "level": "B1",
+      "sourceId": "household",
+      "sourceIds": [
+        "household"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hausarbeit",
+      "word": "Hausarbeit",
+      "en": "Hausarbeit",
+      "ru": [
+        "домашняя работа",
+        "работа по дому",
+        "уборка"
+      ],
+      "example": "Der Student verfertigte eine gut strukturierte Hausarbeit.",
+      "level": "A2",
+      "sourceId": "housework",
+      "sourceIds": [
+        "housework"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wohnungen",
+      "word": "Wohnungen",
+      "en": "Wohnungen",
+      "ru": [
+        "жильё",
+        "кожух",
+        "корпус"
+      ],
+      "example": "Auf jeder Etage gibt es vier Wohnungen.",
+      "level": "A2",
+      "sourceId": "housing",
+      "sourceIds": [
+        "housing"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tinte",
+      "word": "Tinte",
+      "en": "Tinte",
+      "ru": [
+        "чернила",
+        "тушь"
+      ],
+      "example": "Ich brauche nicht mit Tinte zu schreiben.",
+      "level": "B1",
+      "sourceId": "ink",
+      "sourceIds": [
+        "ink"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "inneres",
+      "word": "Inneres",
+      "en": "Inneres",
+      "ru": [
+        "интерьер",
+        "внутренняя часть"
+      ],
+      "example": "Das Innere des Schlosses ist sehr groß.",
+      "level": "B1",
+      "sourceId": "interior",
+      "sourceIds": [
+        "interior"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kochnische",
+      "word": "Kochnische",
+      "en": "Kochnische",
+      "ru": [
+        "кухонька"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "kitchenette",
+      "sourceIds": [
+        "kitchenette"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lampe",
+      "word": "Lampe",
+      "en": "Lampe",
+      "ru": [
+        "лампа",
+        "лампочка",
+        "светильник"
+      ],
+      "example": "Bei Gefahr leuchtet die rote Lampe auf.",
+      "level": "A2",
+      "sourceId": "lamp",
+      "sourceIds": [
+        "lamp"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beleuchtung",
+      "word": "Beleuchtung",
+      "en": "Beleuchtung",
+      "ru": [
+        "осветительные приборы",
+        "иллюминация",
+        "освещение"
+      ],
+      "example": "Die Beleuchtung des Kühlschranks ist kaputtgegangen.",
+      "level": "B1",
+      "sourceId": "lighting",
+      "sourceIds": [
+        "lighting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kalkablagerung",
+      "word": "Kalkablagerung",
+      "en": "Kalkablagerung",
+      "ru": [
+        "известковый налет",
+        "накипь"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "limescale",
+      "sourceIds": [
+        "limescale"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "schloss",
+      "word": "Schloss",
+      "en": "Schloss",
+      "ru": [
+        "замок",
+        "запор"
+      ],
+      "example": "Auf dem Berg lag früher ein Schloss.",
+      "level": "A2",
+      "sourceId": "lock",
+      "sourceIds": [
+        "lock"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abgeschlossen",
+      "word": "abgeschlossen",
+      "en": "abgeschlossen",
+      "ru": [
+        "запертый",
+        "закрытый на замок"
+      ],
+      "example": "Das ist eine Sache, die abgeschlossen ist.",
+      "level": "B2",
+      "sourceId": "locked",
+      "sourceIds": [
+        "locked"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schliessfach",
+      "word": "Schließfach",
+      "en": "Schließfach",
+      "ru": [
+        "шкафчик",
+        "ячейка",
+        "локер"
+      ],
+      "example": "Tom schlug die Tür des Schließfachs zu.",
+      "level": "C2",
+      "sourceId": "locker",
+      "sourceIds": [
+        "locker"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "matratze",
+      "word": "Matratze",
+      "en": "Matratze",
+      "ru": [
+        "матрац",
+        "матрас"
+      ],
+      "example": "Ich habe es unter der Matratze versteckt.",
+      "level": "A2",
+      "sourceId": "mattress",
+      "sourceIds": [
+        "mattress"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "durcheinander",
+      "word": "Durcheinander",
+      "en": "Durcheinander",
+      "ru": [
+        "бардак",
+        "беспорядок",
+        "кавардак"
+      ],
+      "example": "Auf der Straße herrschte ein heilloses Durcheinander.",
+      "level": "C1",
+      "sourceId": "mess",
+      "sourceIds": [
+        "mess"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mikrowelle",
+      "word": "Mikrowelle",
+      "en": "Mikrowelle",
+      "ru": [
+        "микроволна",
+        "готовить в микроволновой печи"
+      ],
+      "example": "Stellen Sie das bitte in die Mikrowelle.",
+      "level": "B2",
+      "sourceId": "microwave",
+      "sourceIds": [
+        "microwave"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spiegel",
+      "word": "Spiegel",
+      "en": "Spiegel",
+      "ru": [
+        "зеркало"
+      ],
+      "example": "An der Wand hängt ein großer Spiegel.",
+      "level": "A2",
+      "sourceId": "mirror",
+      "sourceIds": [
+        "mirror"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nadel",
+      "word": "Nadel",
+      "en": "Nadel",
+      "ru": [
+        "игла",
+        "иголка"
+      ],
+      "example": "Die Nadel eines Kompasses zeigt nach Norden.",
+      "level": "C1",
+      "sourceId": "needle",
+      "sourceIds": [
+        "needle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nachbarschaft",
+      "word": "Nachbarschaft",
+      "en": "Nachbarschaft",
+      "ru": [
+        "близость",
+        "окрестности",
+        "округа"
+      ],
+      "example": "Da war ein Großfeuer in meiner Nachbarschaft.",
+      "level": "B1",
+      "sourceId": "neighborhood",
+      "sourceIds": [
+        "neighborhood"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "benachbart",
+      "word": "benachbart",
+      "en": "benachbart",
+      "ru": [
+        "близлежащий",
+        "соседний"
+      ],
+      "example": "Wir werden in das benachbarte Zimmer gehen.",
+      "level": "C2",
+      "sourceId": "neighboring",
+      "sourceIds": [
+        "neighboring"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nachbar",
+      "word": "Nachbar",
+      "en": "Nachbar",
+      "ru": [
+        "сосед",
+        "соседка",
+        "ближний"
+      ],
+      "example": "Bei den Nachbarn bewegten sich die Gardinen.",
+      "level": "A1",
+      "sourceId": "neighbour",
+      "sourceIds": [
+        "neighbour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nachbarlich",
+      "word": "nachbarlich",
+      "en": "nachbarlich",
+      "ru": [
+        "добрососедский"
+      ],
+      "example": "Tom wollte sich einfach nur nachbarlich verhalten.",
+      "level": "C2",
+      "sourceId": "neighbourly",
+      "sourceIds": [
+        "neighbourly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "offner",
+      "word": "Öffner",
+      "en": "Öffner",
+      "ru": [
+        "открывалка",
+        "открывашка"
+      ],
+      "example": "Ich bekomme diese Dose, da ich keinen Öffner habe, nicht auf.",
+      "level": "C2",
+      "sourceId": "opener",
+      "sourceIds": [
+        "opener"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ofen",
+      "word": "Ofen",
+      "en": "Ofen",
+      "ru": [
+        "печь",
+        "духовка"
+      ],
+      "example": "Damit lockt man keinen Hund vom Ofen.",
+      "level": "B2",
+      "sourceId": "oven",
+      "sourceIds": [
+        "oven"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "teilung",
+      "word": "Teilung",
+      "en": "Teilung",
+      "ru": [
+        "перегородка"
+      ],
+      "example": "Bei der Teilung Indiens wurde Sindh Teil Pakistans.",
+      "level": "C1",
+      "sourceId": "partition",
+      "sourceIds": [
+        "partition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bild",
+      "word": "Bild",
+      "en": "Bild",
+      "ru": [
+        "изображение",
+        "картина",
+        "картинка"
+      ],
+      "example": "Alte Bilder bewahre ich im Archiv auf.",
+      "level": "A1",
+      "sourceId": "picture",
+      "sourceIds": [
+        "picture"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kissen",
+      "word": "Kissen",
+      "en": "Kissen",
+      "ru": [
+        "подушка"
+      ],
+      "example": "Dieses kluge Kissen vibriert, wenn man schnarcht.",
+      "level": "A1",
+      "sourceId": "pillow",
+      "sourceIds": [
+        "pillow"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rohr",
+      "word": "Rohr",
+      "en": "Rohr",
+      "ru": [
+        "труба",
+        "водопроводная труба"
+      ],
+      "example": "Das Erdöl floss durch ein dickes Rohr.",
+      "level": "B2",
+      "sourceId": "pipe",
+      "sourceIds": [
+        "pipe"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stecker",
+      "word": "Stecker",
+      "en": "Stecker",
+      "ru": [
+        "вилка",
+        "штепсельная вилка",
+        "штекер"
+      ],
+      "example": "Ich habe den Stecker des Fernsehers herausgezogen.",
+      "level": "B1",
+      "sourceId": "plug",
+      "sourceIds": [
+        "plug"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sanitaranlagen",
+      "word": "Sanitäranlagen",
+      "en": "Sanitäranlagen",
+      "ru": [
+        "сантехника"
+      ],
+      "example": "Unsere gesamten Sanitäranlagen werden mithilfe von Sonnenenergie beheizt.",
+      "level": "C1",
+      "sourceId": "plumbing",
+      "sourceIds": [
+        "plumbing"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recyceln",
+      "word": "recyceln",
+      "en": "recyceln",
+      "ru": [
+        "рециркулировать",
+        "перерабатывать",
+        "переработать"
+      ],
+      "example": "Wir haben angefangen, die Zeitungen zu recyclen.",
+      "level": "C2",
+      "sourceId": "recycle",
+      "sourceIds": [
+        "recycle"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recycling",
+      "word": "Recycling",
+      "en": "Recycling",
+      "ru": [
+        "вторичная переработка",
+        "переработка отходов",
+        "рециклинг"
+      ],
+      "example": "Für das Recycling sind trennbare Komponenten entscheidend.",
+      "level": "B2",
+      "sourceId": "recycling",
+      "sourceIds": [
+        "recycling"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuhlschrank",
+      "word": "Kühlschrank",
+      "en": "Kühlschrank",
+      "ru": [
+        "холодильник",
+        "рефрижератор"
+      ],
+      "example": "Bitte stell die Eier in den Kühlschrank.",
+      "level": "A1",
+      "sourceId": "refrigerator",
+      "sourceIds": [
+        "refrigerator"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miete",
+      "word": "Miete",
+      "en": "Miete",
+      "ru": [
+        "аренда",
+        "арендная плата",
+        "квартирная плата"
+      ],
+      "example": "Dan teilte sich die Miete mit Linda.",
+      "level": "A2",
+      "sourceId": "rent",
+      "sourceIds": [
+        "rent"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verleih",
+      "word": "Verleih",
+      "en": "Verleih",
+      "ru": [
+        "аренда"
+      ],
+      "example": "Verleih dein Geld und verlier deinen Freund.",
+      "level": "A2",
+      "sourceId": "rental",
+      "sourceIds": [
+        "rental"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wohnsitz",
+      "word": "Wohnsitz",
+      "en": "Wohnsitz",
+      "ru": [
+        "местожительство",
+        "резиденция",
+        "дом"
+      ],
+      "example": "Benachrichtigen Sie uns, wenn Sie Ihren Wohnsitz wechseln!",
+      "level": "B1",
+      "sourceId": "residence",
+      "sourceIds": [
+        "residence"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wohn",
+      "word": "wohn-",
+      "en": "wohn-",
+      "ru": [
+        "жилищный",
+        "жилой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "residential",
+      "sourceIds": [
+        "residential"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "wiege",
+      "word": "Wiege",
+      "en": "Wiege",
+      "ru": [
+        "балансир",
+        "качалка",
+        "коромысло"
+      ],
+      "example": "Das Baby schlief in der Wiege ein.",
+      "level": "C2",
+      "sourceId": "rocker",
+      "sourceIds": [
+        "rocker"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dach",
+      "word": "Dach",
+      "en": "Dach",
+      "ru": [
+        "крыша",
+        "кров",
+        "стреха"
+      ],
+      "example": "Als das Dach einstürzte, rannte er davon.",
+      "level": "B2",
+      "sourceId": "roof",
+      "sourceIds": [
+        "roof"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dachdecker",
+      "word": "Dachdecker",
+      "en": "Dachdecker",
+      "ru": [
+        "кровельщик",
+        "руфер"
+      ],
+      "example": "Der Dachdecker deckt das neue Dach.",
+      "level": "C2",
+      "sourceId": "roofer",
+      "sourceIds": [
+        "roofer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bedachungsmaterial",
+      "word": "Bedachungsmaterial",
+      "en": "Bedachungsmaterial",
+      "ru": [
+        "кровля",
+        "руферство",
+        "руфинг"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "roofing",
+      "sourceIds": [
+        "roofing"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "raum",
+      "word": "Raum",
+      "en": "Raum",
+      "ru": [
+        "комната",
+        "помещение"
+      ],
+      "example": "Alle Leute in diesem Raum sind Männer.",
+      "level": "A1",
+      "sourceId": "room",
+      "sourceIds": [
+        "room"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schatten",
+      "word": "Schatten",
+      "en": "Schatten",
+      "ru": [
+        "штора",
+        "тень",
+        "переходить"
+      ],
+      "example": "Am Strand spenden einige Palmen etwas Schatten.",
+      "level": "C1",
+      "sourceId": "shade",
+      "sourceIds": [
+        "shade"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bord",
+      "word": "Bord",
+      "en": "Bord",
+      "ru": [
+        "полка",
+        "шельф"
+      ],
+      "example": "Angela hat ihre Prinzipien über Bord geworfen.",
+      "level": "A2",
+      "sourceId": "shelf",
+      "sourceIds": [
+        "shelf"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schale",
+      "word": "Schale",
+      "en": "Schale",
+      "ru": [
+        "раковина",
+        "панцирь",
+        "ракушка"
+      ],
+      "example": "Die Schale enthält viele Sorten von Süßigkeiten.",
+      "level": "B1",
+      "sourceId": "shell",
+      "sourceIds": [
+        "shell"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spule",
+      "word": "Spüle",
+      "en": "Spüle",
+      "ru": [
+        "раковина",
+        "мойка",
+        "умывальник"
+      ],
+      "example": "Tom legte die Pfanne in die Spüle.",
+      "level": "A1",
+      "sourceId": "sink",
+      "sourceIds": [
+        "sink"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "untergang",
+      "word": "Untergang",
+      "en": "Untergang",
+      "ru": [
+        "гибель",
+        "крушение",
+        "потопление"
+      ],
+      "example": "Der Untergang der Welt steht uns bevor.",
+      "level": "C2",
+      "sourceId": "sinking",
+      "sourceIds": [
+        "sinking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einseifen",
+      "word": "einseifen",
+      "en": "einseifen",
+      "ru": [
+        "мыло",
+        "мылить",
+        "намылить"
+      ],
+      "example": "Ich werde deinen Mund einseifen!",
+      "level": "B2",
+      "sourceId": "soap",
+      "sourceIds": [
+        "soap"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fassung",
+      "word": "Fassung",
+      "en": "Fassung",
+      "ru": [
+        "розетка",
+        "гнездо",
+        "патрон"
+      ],
+      "example": "Tom verlor die Fassung und schlug Maria.",
+      "level": "B2",
+      "sourceId": "socket",
+      "sourceIds": [
+        "socket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "couch",
+      "word": "Couch",
+      "en": "Couch",
+      "ru": [
+        "диван",
+        "канапе",
+        "кушетка"
+      ],
+      "example": "Er schlief auf der Couch im Wohnzimmer.",
+      "level": "A1",
+      "sourceId": "sofa",
+      "sourceIds": [
+        "sofa"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "loffel",
+      "word": "Löffel",
+      "en": "Löffel",
+      "ru": [
+        "ложка"
+      ],
+      "example": "Das Baby kann noch keinen Löffel benutzen.",
+      "level": "A2",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "treppe",
+      "word": "Treppe",
+      "en": "Treppe",
+      "ru": [
+        "лестница",
+        "ступенька"
+      ],
+      "example": "Als sie die Treppe hinunterging, verunglückte sie.",
+      "level": "A1",
+      "sourceId": "stairs",
+      "sourceIds": [
+        "stairs"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "herd",
+      "word": "Herd",
+      "en": "Herd",
+      "ru": [
+        "плита",
+        "печка",
+        "плитка"
+      ],
+      "example": "Adler fliegen allein. Schafe gehen in Herden.",
+      "level": "A2",
+      "sourceId": "stove",
+      "sourceIds": [
+        "stove"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kram",
+      "word": "Kram",
+      "en": "Kram",
+      "ru": [
+        "хлам",
+        "барахло"
+      ],
+      "example": "Kümmere dich zuerst um deinen eigenen Kram.",
+      "level": "A2",
+      "sourceId": "stuff",
+      "sourceIds": [
+        "stuff"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schalter",
+      "word": "Schalter",
+      "en": "Schalter",
+      "ru": [
+        "ключ",
+        "выключатель",
+        "переключатель"
+      ],
+      "example": "Mann, Schalter und Knöpfe gibt es überall!",
+      "level": "A2",
+      "sourceId": "switch",
+      "sourceIds": [
+        "switch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tisch",
+      "word": "Tisch",
+      "en": "Tisch",
+      "ru": [
+        "стол",
+        "поднос",
+        "таблица"
+      ],
+      "example": "Alle Bücher sind hier auf dem Tisch.",
+      "level": "A1",
+      "sourceId": "table",
+      "sourceIds": [
+        "table"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ordentlich",
+      "word": "ordentlich",
+      "en": "ordentlich",
+      "ru": [
+        "аккуратный",
+        "опрятный",
+        "чистый"
+      ],
+      "example": "Auf dem Basar war ordentlich was los.",
+      "level": "A2",
+      "sourceId": "tidy",
+      "sourceIds": [
+        "tidy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "toilette",
+      "word": "Toilette",
+      "en": "Toilette",
+      "ru": [
+        "туалет",
+        "клозет",
+        "уборная"
+      ],
+      "example": "Auf der Toilette rieht es nach Gras.",
+      "level": "B2",
+      "sourceId": "toilet",
+      "sourceIds": [
+        "toilet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "handtuch",
+      "word": "Handtuch",
+      "en": "Handtuch",
+      "ru": [
+        "полотенце",
+        "рушник",
+        "ручник"
+      ],
+      "example": "Die Badegäste stiegen ständig auf mein Handtuch.",
+      "level": "A1",
+      "sourceId": "towel",
+      "sourceIds": [
+        "towel"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mist",
+      "word": "Mist",
+      "en": "Mist",
+      "ru": [
+        "мусор",
+        "дрянь",
+        "ерунда"
+      ],
+      "example": "\"Erzähle nicht solchen Mist!\" sagte der Bauer.",
+      "level": "A2",
+      "sourceId": "trash",
+      "sourceIds": [
+        "trash"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "staubsaugen",
+      "word": "staubsaugen",
+      "en": "staubsaugen",
+      "ru": [
+        "вакуум",
+        "пропылесосить",
+        "пылесосить"
+      ],
+      "example": "Als die Handwerker gingen, musste Tom erstmal staubsaugen.",
+      "level": "B2",
+      "sourceId": "vacuum",
+      "sourceIds": [
+        "vacuum"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vase",
+      "word": "Vase",
+      "en": "Vase",
+      "ru": [
+        "ваза"
+      ],
+      "example": "Bitte achten Sie besonders auf diese Vase.",
+      "level": "A2",
+      "sourceId": "vase",
+      "sourceIds": [
+        "vase"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wall",
+      "word": "Wall",
+      "en": "Wall",
+      "ru": [
+        "стена",
+        "вал"
+      ],
+      "example": "Sie befasst sich mit der Wall Street.",
+      "level": "A1",
+      "sourceId": "wall",
+      "sourceIds": [
+        "wall"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schrank",
+      "word": "Schrank",
+      "en": "Schrank",
+      "ru": [
+        "шкаф",
+        "гардероб",
+        "шифоньер"
+      ],
+      "example": "Andy hängte sein Hemd in den Schrank.",
+      "level": "A2",
+      "sourceId": "wardrobe",
+      "sourceIds": [
+        "wardrobe"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "scheibe",
+      "word": "Scheibe",
+      "en": "Scheibe",
+      "ru": [
+        "шайба",
+        "прачка"
+      ],
+      "example": "Bei Feuer Scheibe einschlagen und Knopf drücken.",
+      "level": "C1",
+      "sourceId": "washer",
+      "sourceIds": [
+        "washer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mull",
+      "word": "Müll",
+      "en": "Müll",
+      "ru": [
+        "отбросы",
+        "отходы",
+        "пустошь"
+      ],
+      "example": "All diese Lebensmittel und Medilamente sind Müll.",
+      "level": "A2",
+      "sourceId": "waste",
+      "sourceIds": [
+        "waste"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fenster",
+      "word": "Fenster",
+      "en": "Fenster",
+      "ru": [
+        "окно",
+        "окошко"
+      ],
+      "example": "Alle unsere Fenster gehen zur Sonnenseite hinaus.",
+      "level": "A1",
+      "sourceId": "window",
+      "sourceIds": [
+        "window"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "draht",
+      "word": "Draht",
+      "en": "Draht",
+      "ru": [
+        "проволока",
+        "провод"
+      ],
+      "example": "Die Kinder haben Skulpturen aus Draht gemacht.",
+      "level": "B1",
+      "sourceId": "wire",
+      "sourceIds": [
+        "wire"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuche",
+      "word": "Küche",
+      "en": "Küche",
+      "ru": [
+        "кухня"
+      ],
+      "example": "Bist du ein Freund der französischen Küche?",
+      "level": "B1",
+      "sourceId": "kitchen",
+      "sourceIds": [
+        "kitchen"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bleichen",
+      "word": "bleichen",
+      "en": "bleichen",
+      "ru": [
+        "отбеливать"
+      ],
+      "example": "Du bist so bleich wie ein Gespenst.",
+      "level": "B1",
+      "sourceId": "bleach",
+      "sourceIds": [
+        "bleach"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bucherregal",
+      "word": "Bücherregal",
+      "en": "Bücherregal",
+      "ru": [
+        "книжный шкаф"
+      ],
+      "example": "Er nahm ein Buch aus dem Bücherregal.",
+      "level": "B1",
+      "sourceId": "bookcase",
+      "sourceIds": [
+        "bookcase"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arm",
+      "word": "Arm",
+      "en": "Arm",
+      "ru": [
+        "кронштейн",
+        "скобка"
+      ],
+      "example": "- Ich Arme! - schluchzte Mary traurig.",
+      "level": "B1",
+      "sourceId": "bracket",
+      "sourceIds": [
+        "bracket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kleiderbugel",
+      "word": "Kleiderbügel",
+      "en": "Kleiderbügel",
+      "ru": [
+        "вешалка"
+      ],
+      "example": "Ich hängte das Hemd auf den Kleiderbügel.",
+      "level": "B1",
+      "sourceId": "hanger",
+      "sourceIds": [
+        "hanger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "heugabel",
+      "word": "Heugabel",
+      "en": "Heugabel",
+      "ru": [
+        "вилы"
+      ],
+      "example": "Er hat seine Nachbarn mit einer Heugabel verjagt.",
+      "level": "B1",
+      "sourceId": "pitchfork",
+      "sourceIds": [
+        "pitchfork"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mitbewohner",
+      "word": "Mitbewohner",
+      "en": "Mitbewohner",
+      "ru": [
+        "сосед по комнате"
+      ],
+      "example": "Diese gut aussehende Frau ist meine Mitbewohnerin.",
+      "level": "B1",
+      "sourceId": "roommate",
+      "sourceIds": [
+        "roommate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ubernachtungsgast",
+      "word": "Übernachtungsgast",
+      "en": "Übernachtungsgast",
+      "ru": [
+        "гость в доме"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "houseguest",
+      "sourceIds": [
+        "houseguest"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "teppich",
+      "word": "Teppich",
+      "en": "Teppich",
+      "ru": [
+        "коврик"
+      ],
+      "example": "Auf dem Teppich schläft es sich großartig.",
+      "level": "B1",
+      "sourceId": "rug",
+      "sourceIds": [
+        "rug"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "anziehen",
+      "word": "anziehen",
+      "en": "anziehen",
+      "ru": [
+        "завинчивать"
+      ],
+      "example": "Bei Frost warm anziehen, sagte meine Oma.",
+      "level": "B1",
+      "sourceId": "screw",
+      "sourceIds": [
+        "screw"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "leitung",
+      "word": "Leitung",
+      "en": "Leitung",
+      "ru": [
+        "трубопровод",
+        "канал"
+      ],
+      "example": "Bei dir ist wohl 'ne Leitung durchgebrannt.",
+      "level": "B1",
+      "sourceId": "duct",
+      "sourceIds": [
+        "duct"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dose",
+      "word": "Dose",
+      "en": "Dose",
+      "ru": [
+        "ванна",
+        "бадья"
+      ],
+      "example": "Die Dose, die er fand, war leer.",
+      "level": "B1",
+      "sourceId": "tub",
+      "sourceIds": [
+        "tub"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schrank",
+      "word": "Schrank",
+      "en": "Schrank",
+      "ru": [
+        "шкаф"
+      ],
+      "example": "Andy hängte sein Hemd in den Schrank.",
+      "level": "B1",
+      "sourceId": "closet",
+      "sourceIds": [
+        "closet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ottomane",
+      "word": "Ottomane",
+      "en": "Ottomane",
+      "ru": [
+        "пуфик"
+      ],
+      "example": "Neben dem Schreibtisch steht eine verschlissene Ottomane.",
+      "level": "B1",
+      "sourceId": "ottoman",
+      "sourceIds": [
+        "ottoman"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "murmel",
+      "word": "Murmel",
+      "en": "Murmel",
+      "ru": [
+        "мрамор"
+      ],
+      "example": "Das Murmel schwoll zu einem Brausen an.",
+      "level": "B1",
+      "sourceId": "marble",
+      "sourceIds": [
+        "marble"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nass-wischen",
+      "word": "nass wischen",
+      "en": "nass wischen",
+      "ru": [
+        "мыть шваброй"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mop",
+      "sourceIds": [
+        "mop"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "leeren",
+      "word": "leeren",
+      "en": "leeren",
+      "ru": [
+        "осушать",
+        "стекать"
+      ],
+      "example": "Am Jahresende sind die Züge fast leer.",
+      "level": "B1",
+      "sourceId": "drain",
+      "sourceIds": [
+        "drain"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "leinen",
+      "word": "Leinen",
+      "en": "Leinen",
+      "ru": [
+        "лен",
+        "постельное белье"
+      ],
+      "example": "Die Mumien waren in Leinen eingeschlagen.",
+      "level": "B1",
+      "sourceId": "linen",
+      "sourceIds": [
+        "linen"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "feuerschale",
+      "word": "Feuerschale",
+      "en": "Feuerschale",
+      "ru": [
+        "жаровня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brazier",
+      "sourceIds": [
+        "brazier"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "leiter",
+      "word": "Leiter",
+      "en": "Leiter",
+      "ru": [
+        "лестница",
+        "стремянка"
+      ],
+      "example": "Dein Mann hat die Leiter geliehen, Marika.",
+      "level": "B1",
+      "sourceId": "ladder",
+      "sourceIds": [
+        "ladder"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bolzen",
+      "word": "Bolzen",
+      "en": "Bolzen",
+      "ru": [
+        "болт",
+        "засов"
+      ],
+      "example": "Es lässt sich nicht alles Holz zu Bolzen drehen.",
+      "level": "B1",
+      "sourceId": "bolt",
+      "sourceIds": [
+        "bolt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "scheune",
+      "word": "Scheune",
+      "en": "Scheune",
+      "ru": [
+        "амбар",
+        "сарай"
+      ],
+      "example": "Bist du in einer Scheune geboren worden?",
+      "level": "B1",
+      "sourceId": "barn",
+      "sourceIds": [
+        "barn"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "selbstmontage",
+      "word": "Selbstmontage",
+      "en": "Selbstmontage",
+      "ru": [
+        "самосборка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "self-assembly",
+      "sourceIds": [
+        "self-assembly"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trog",
+      "word": "Trog",
+      "en": "Trog",
+      "ru": [
+        "корыто",
+        "желоб"
+      ],
+      "example": "Ein wenig Sauerteig durchsäuert den ganzen Trog.",
+      "level": "B1",
+      "sourceId": "trough",
+      "sourceIds": [
+        "trough"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "absperrhahn",
+      "word": "Absperrhahn",
+      "en": "Absperrhahn",
+      "ru": [
+        "запорный кран"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stopcock",
+      "sourceIds": [
+        "stopcock"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "schubkarre",
+      "word": "Schubkarre",
+      "en": "Schubkarre",
+      "ru": [
+        "тачка"
+      ],
+      "example": "Gestern ist mir meine Schubkarre gestohlen worden.",
+      "level": "B1",
+      "sourceId": "wheelbarrow",
+      "sourceIds": [
+        "wheelbarrow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hutte",
+      "word": "Hütte",
+      "en": "Hütte",
+      "ru": [
+        "хижина",
+        "лачуга"
+      ],
+      "example": "Die Hütte ist aus rohen Baumstämmen gemacht.",
+      "level": "B1",
+      "sourceId": "hut",
+      "sourceIds": [
+        "hut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dekorieren",
+      "word": "dekorieren",
+      "en": "dekorieren",
+      "ru": [
+        "украшать",
+        "декорировать"
+      ],
+      "example": "Die Eingangshalle war mit japanischen Gemälden dekoriert.",
+      "level": "B1",
+      "sourceId": "decorate",
+      "sourceIds": [
+        "decorate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zwiebel",
+      "word": "Zwiebel",
+      "en": "Zwiebel",
+      "ru": [
+        "лампочка",
+        "луковица"
+      ],
+      "example": "Gerne esse ich rote Zwiebeln zum Schmalzbrot.",
+      "level": "B1",
+      "sourceId": "bulb",
+      "sourceIds": [
+        "bulb"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rasenmaher",
+      "word": "Rasenmäher",
+      "en": "Rasenmäher",
+      "ru": [
+        "газонокосилка"
+      ],
+      "example": "Der Rasenmäher braucht Benzin, um zu laufen.",
+      "level": "B1",
+      "sourceId": "lawnmower",
+      "sourceIds": [
+        "lawnmower",
+        "mower"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abwasser",
+      "word": "Abwasser",
+      "en": "Abwasser",
+      "ru": [
+        "сточные воды",
+        "канализация"
+      ],
+      "example": "Abwasser ist ein unverzüglich zu klärendes Thema.",
+      "level": "B1",
+      "sourceId": "sewage",
+      "sourceIds": [
+        "sewage"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trockenmauer",
+      "word": "Trockenmauer",
+      "en": "Trockenmauer",
+      "ru": [
+        "сухая кладка"
+      ],
+      "example": "Sie lehnten sich über eine Trockenmauer.",
+      "level": "B1",
+      "sourceId": "dry-stone",
+      "sourceIds": [
+        "dry-stone"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schrank",
+      "word": "Schrank",
+      "en": "Schrank",
+      "ru": [
+        "шкаф",
+        "кабинет"
+      ],
+      "example": "Andy hängte sein Hemd in den Schrank.",
+      "level": "B1",
+      "sourceId": "cabinet",
+      "sourceIds": [
+        "cabinet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "entwasserung",
+      "word": "Entwässerung",
+      "en": "Entwässerung",
+      "ru": [
+        "дренаж",
+        "водоотвод"
+      ],
+      "example": "Wir haben eine neue Dole verlegt, um die Entwässerung zu verbessern.",
+      "level": "B1",
+      "sourceId": "drainage",
+      "sourceIds": [
+        "drainage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "butler",
+      "word": "Butler",
+      "en": "Butler",
+      "ru": [
+        "дворецкий"
+      ],
+      "example": "Tom hat einen Butler und einen Koch.",
+      "level": "B1",
+      "sourceId": "butler",
+      "sourceIds": [
+        "butler"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "korridor",
+      "word": "Korridor",
+      "en": "Korridor",
+      "ru": [
+        "коридор"
+      ],
+      "example": "Die Toilette ist am Ende des Korridors.",
+      "level": "B1",
+      "sourceId": "corridor",
+      "sourceIds": [
+        "corridor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "feuerholz",
+      "word": "Feuerholz",
+      "en": "Feuerholz",
+      "ru": [
+        "дрова"
+      ],
+      "example": "Die alte Frau sammelte Feuerholz im Wald.",
+      "level": "B1",
+      "sourceId": "firewood",
+      "sourceIds": [
+        "firewood"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diele",
+      "word": "Diele",
+      "en": "Diele",
+      "ru": [
+        "половая доска"
+      ],
+      "example": "Häng deinen Mantel in der Diele auf!",
+      "level": "B1",
+      "sourceId": "floorboard",
+      "sourceIds": [
+        "floorboard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trockenmauer",
+      "word": "Trockenmauer",
+      "en": "Trockenmauer",
+      "ru": [
+        "гипсокартон"
+      ],
+      "example": "Sie lehnten sich über eine Trockenmauer.",
+      "level": "B1",
+      "sourceId": "drywall",
+      "sourceIds": [
+        "drywall"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "badewanne",
+      "word": "Badewanne",
+      "en": "Badewanne",
+      "ru": [
+        "ванна"
+      ],
+      "example": "Er ließ Wasser in die Badewanne laufen.",
+      "level": "B1",
+      "sourceId": "bathtub",
+      "sourceIds": [
+        "bathtub"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hof",
+      "word": "Hof",
+      "en": "Hof",
+      "ru": [
+        "двор"
+      ],
+      "example": "Auf seinem Hof haben sie keine Hühner.",
+      "level": "B1",
+      "sourceId": "yard",
+      "sourceIds": [
+        "yard",
+        "courtyard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "keller",
+      "word": "Keller",
+      "en": "Keller",
+      "ru": [
+        "подвал",
+        "погреб"
+      ],
+      "example": "Auch Wolkenkratzer haben mal als Keller angefangen.",
+      "level": "B1",
+      "sourceId": "cellar",
+      "sourceIds": [
+        "cellar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wohnung",
+      "word": "Wohnung",
+      "en": "Wohnung",
+      "ru": [
+        "жилище",
+        "обитель"
+      ],
+      "example": "Auf jeder Etage gibt es vier Wohnungen.",
+      "level": "B1",
+      "sourceId": "abode",
+      "sourceIds": [
+        "abode"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oben",
+      "word": "oben",
+      "en": "oben",
+      "ru": [
+        "наверху",
+        "на верхнем этаже"
+      ],
+      "example": "Bedarf es eines Befehls von ganz oben?",
+      "level": "B1",
+      "sourceId": "upstairs",
+      "sourceIds": [
+        "upstairs"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bauernhaus",
+      "word": "Bauernhaus",
+      "en": "Bauernhaus",
+      "ru": [
+        "фермерский дом"
+      ],
+      "example": "Der Stall ist gleich hinter dem Bauernhaus.",
+      "level": "B1",
+      "sourceId": "farmhouse",
+      "sourceIds": [
+        "farmhouse"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stuhl",
+      "word": "Stuhl",
+      "en": "Stuhl",
+      "ru": [
+        "табурет",
+        "стул"
+      ],
+      "example": "\"Wem gehört dieser Stuhl?\" \"Das ist meiner.\"",
+      "level": "B1",
+      "sourceId": "stool",
+      "sourceIds": [
+        "stool"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lappen",
+      "word": "Lappen",
+      "en": "Lappen",
+      "ru": [
+        "тряпка"
+      ],
+      "example": "Putz das Fenster mit einem feuchten Lappen.",
+      "level": "B1",
+      "sourceId": "rag",
+      "sourceIds": [
+        "rag"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "unterstand",
+      "word": "Unterstand",
+      "en": "Unterstand",
+      "ru": [
+        "землянка",
+        "блиндаж"
+      ],
+      "example": "Der Unterstand ist aus rohem, unbehandeltem Holz gezimmert.",
+      "level": "B1",
+      "sourceId": "dugout",
+      "sourceIds": [
+        "dugout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nahen",
+      "word": "nähen",
+      "en": "nähen",
+      "ru": [
+        "шить"
+      ],
+      "example": "Ich kann nähen, während du mir vorliest.",
+      "level": "B1",
+      "sourceId": "sew",
+      "sourceIds": [
+        "sew"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wiege",
+      "word": "Wiege",
+      "en": "Wiege",
+      "ru": [
+        "колыбель"
+      ],
+      "example": "Das Baby schlief in der Wiege ein.",
+      "level": "B1",
+      "sourceId": "cradle",
+      "sourceIds": [
+        "cradle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zuflucht",
+      "word": "Zuflucht",
+      "en": "Zuflucht",
+      "ru": [
+        "укрывать"
+      ],
+      "example": "Ehrgeiz ist die letzte Zuflucht des Misserfolgs.",
+      "level": "B1",
+      "sourceId": "shelter",
+      "sourceIds": [
+        "shelter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hauschen",
+      "word": "Häuschen",
+      "en": "Häuschen",
+      "ru": [
+        "коттедж",
+        "домик"
+      ],
+      "example": "Das Häuschen war verrückt und gänzlich auseinandergebrochen.",
+      "level": "B1",
+      "sourceId": "cottage",
+      "sourceIds": [
+        "cottage"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "flur",
+      "word": "Flur",
+      "en": "Flur",
+      "ru": [
+        "коридор",
+        "прихожая"
+      ],
+      "example": "Alle drei gingen hinaus auf den Flur.",
+      "level": "B1",
+      "sourceId": "hallway",
+      "sourceIds": [
+        "hallway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "renovierung",
+      "word": "Renovierung",
+      "en": "Renovierung",
+      "ru": [
+        "ремонт",
+        "свидание вслепую"
+      ],
+      "example": "Das Gebäude bedarf einer umfassenden Renovierung.",
+      "level": "B1",
+      "sourceId": "fix-up",
+      "sourceIds": [
+        "fix-up"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einweihungsparty",
+      "word": "Einweihungsparty",
+      "en": "Einweihungsparty",
+      "ru": [
+        "новоселье"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "housewarming",
+      "sourceIds": [
+        "housewarming"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hohle",
+      "word": "Höhle",
+      "en": "Höhle",
+      "ru": [
+        "логово",
+        "кабинет"
+      ],
+      "example": "Begib´dich nicht in die Höhle des Löwen.",
+      "level": "B1",
+      "sourceId": "den",
+      "sourceIds": [
+        "den"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porzellan",
+      "word": "Porzellan",
+      "en": "Porzellan",
+      "ru": [
+        "фарфор"
+      ],
+      "example": "Das kostbare Porzellan zersplitterte in tausend Scherben.",
+      "level": "B1",
+      "sourceId": "china",
+      "sourceIds": [
+        "china"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luftung",
+      "word": "Lüftung",
+      "en": "Lüftung",
+      "ru": [
+        "вентиляция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ventilation",
+      "sourceIds": [
+        "ventilation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "verbrennungsanlage",
+      "word": "Verbrennungsanlage",
+      "en": "Verbrennungsanlage",
+      "ru": [
+        "мусоросжигательная печь"
+      ],
+      "example": "Nach zehn Jahren muss die Verbrennungsanlage erneuert werden.",
+      "level": "B1",
+      "sourceId": "incinerator",
+      "sourceIds": [
+        "incinerator"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kinderbett",
+      "word": "Kinderbett",
+      "en": "Kinderbett",
+      "ru": [
+        "раскладушка",
+        "детская кроватка"
+      ],
+      "example": "Können Sie bitte ein Kinderbett ins Zimmer dazustellen?",
+      "level": "B1",
+      "sourceId": "cot",
+      "sourceIds": [
+        "cot"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ziegel",
+      "word": "Ziegel",
+      "en": "Ziegel",
+      "ru": [
+        "кирпич"
+      ],
+      "example": "Das Dach ist mit gelben Ziegeln gedeckt.",
+      "level": "B1",
+      "sourceId": "brick",
+      "sourceIds": [
+        "brick"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "treppe",
+      "word": "Treppe",
+      "en": "Treppe",
+      "ru": [
+        "лестница"
+      ],
+      "example": "Als sie die Treppe hinunterging, verunglückte sie.",
+      "level": "B1",
+      "sourceId": "staircase",
+      "sourceIds": [
+        "staircase",
+        "stairway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gut",
+      "word": "Gut",
+      "en": "Gut",
+      "ru": [
+        "поместье",
+        "усадьба"
+      ],
+      "example": "\"Gut, in Ordnung\", stimmte Willie endlich zu.",
+      "level": "B1",
+      "sourceId": "manor",
+      "sourceIds": [
+        "manor"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turschwelle",
+      "word": "Türschwelle",
+      "en": "Türschwelle",
+      "ru": [
+        "порог"
+      ],
+      "example": "Er stand an der Türschwelle.",
+      "level": "B1",
+      "sourceId": "doorstep",
+      "sourceIds": [
+        "doorstep"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schwamm",
+      "word": "Schwamm",
+      "en": "Schwamm",
+      "ru": [
+        "губка"
+      ],
+      "example": "Benutzt du einen Schwamm, wenn du badest?",
+      "level": "B1",
+      "sourceId": "sponge",
+      "sourceIds": [
+        "sponge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luftbefeuchter",
+      "word": "Luftbefeuchter",
+      "en": "Luftbefeuchter",
+      "ru": [
+        "увлажнитель воздуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "humidifier",
+      "sourceIds": [
+        "humidifier"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "koje",
+      "word": "Koje",
+      "en": "Koje",
+      "ru": [
+        "койка",
+        "койка в общежитии"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bunk",
+      "sourceIds": [
+        "bunk"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "speisekammer",
+      "word": "Speisekammer",
+      "en": "Speisekammer",
+      "ru": [
+        "кладовая для продуктов"
+      ],
+      "example": "Heutzutage werden selten Häuser mit Speisekammer gebaut.",
+      "level": "B1",
+      "sourceId": "larder",
+      "sourceIds": [
+        "larder"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pumpel",
+      "word": "Pümpel",
+      "en": "Pümpel",
+      "ru": [
+        "вантуз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "plunger",
+      "sourceIds": [
+        "plunger"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gitterbett",
+      "word": "Gitterbett",
+      "en": "Gitterbett",
+      "ru": [
+        "детская кроватка",
+        "шпаргалка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "crib",
+      "sourceIds": [
+        "crib"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "kuhler",
+      "word": "Kühler",
+      "en": "Kühler",
+      "ru": [
+        "радиатор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "radiator",
+      "sourceIds": [
+        "radiator"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "trockner",
+      "word": "Trockner",
+      "en": "Trockner",
+      "ru": [
+        "сушилка"
+      ],
+      "example": "Im Trockner verjüngt sich die Zylinderform.",
+      "level": "B1",
+      "sourceId": "dryer",
+      "sourceIds": [
+        "dryer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "klimatisierung",
+      "word": "Klimatisierung",
+      "en": "Klimatisierung",
+      "ru": [
+        "кондиционирование"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "air-conditioning",
+      "sourceIds": [
+        "air-conditioning"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tischdecke",
+      "word": "Tischdecke",
+      "en": "Tischdecke",
+      "ru": [
+        "скатерть"
+      ],
+      "example": "Er hat Milch auf die Tischdecke verschüttet.",
+      "level": "B1",
+      "sourceId": "tablecloth",
+      "sourceIds": [
+        "tablecloth"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saule",
+      "word": "Säule",
+      "en": "Säule",
+      "ru": [
+        "столб",
+        "колонна"
+      ],
+      "example": "Die Säule hat die Form eines Zylinders.",
+      "level": "B1",
+      "sourceId": "pillar",
+      "sourceIds": [
+        "pillar"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bufett",
+      "word": "Büfett",
+      "en": "Büfett",
+      "ru": [
+        "буфет",
+        "сервант"
+      ],
+      "example": "Bedient euch ruhig am Büfett!",
+      "level": "B1",
+      "sourceId": "sideboard",
+      "sourceIds": [
+        "sideboard"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "angel",
+      "word": "Angel",
+      "en": "Angel",
+      "ru": [
+        "петля",
+        "шарнир"
+      ],
+      "example": "Beim Angeln kann man sich wunderbar entspannen.",
+      "level": "B1",
+      "sourceId": "hinge",
+      "sourceIds": [
+        "hinge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "streifen",
+      "word": "Streifen",
+      "en": "Streifen",
+      "ru": [
+        "планка",
+        "рейка"
+      ],
+      "example": "Den geviertelten Chinakohl in breite Streifen schneiden.",
+      "level": "B1",
+      "sourceId": "slat",
+      "sourceIds": [
+        "slat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hochstuhl",
+      "word": "Hochstuhl",
+      "en": "Hochstuhl",
+      "ru": [
+        "детский стульчик для кормления"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "highchair",
+      "sourceIds": [
+        "highchair"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "selbst-machen",
+      "word": "selbst machen",
+      "en": "selbst machen",
+      "ru": [
+        "сделай сам"
+      ],
+      "example": "Dieses Mal musst du das selbst machen.",
+      "level": "B1",
+      "sourceId": "diy",
+      "sourceIds": [
+        "diy"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vermieter",
+      "word": "Vermieter",
+      "en": "Vermieter",
+      "ru": [
+        "арендодатель",
+        "домовладелец"
+      ],
+      "example": "Hast du mal mit der Vermieterin gesprochen?",
+      "level": "B1",
+      "sourceId": "landlord",
+      "sourceIds": [
+        "landlord"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ranch",
+      "word": "Ranch",
+      "en": "Ranch",
+      "ru": [
+        "ранчо"
+      ],
+      "example": "Ich habe eine Ranch.",
+      "level": "B1",
+      "sourceId": "ranch",
+      "sourceIds": [
+        "ranch"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einfahrt",
+      "word": "Einfahrt",
+      "en": "Einfahrt",
+      "ru": [
+        "подъездная дорога"
+      ],
+      "example": "Ein Dieb lauerte in der dunklen Einfahrt.",
+      "level": "B1",
+      "sourceId": "driveway",
+      "sourceIds": [
+        "driveway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "weide",
+      "word": "Weide",
+      "en": "Weide",
+      "ru": [
+        "плетеный"
+      ],
+      "example": "Auf der Weide gibt es viele Schafe.",
+      "level": "B1",
+      "sourceId": "wicker",
+      "sourceIds": [
+        "wicker"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rasen",
+      "word": "Rasen",
+      "en": "Rasen",
+      "ru": [
+        "газон",
+        "лужайка"
+      ],
+      "example": "Auf dem Rasen hat sich Tau gebildet.",
+      "level": "B1",
+      "sourceId": "lawn",
+      "sourceIds": [
+        "lawn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jemanden-angreifen-und-toten",
+      "word": "jemanden angreifen und töten",
+      "en": "jemanden angreifen und töten",
+      "ru": [
+        "поливать из шланга"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hose",
+      "sourceIds": [
+        "hose"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "waschbrett",
+      "word": "Waschbrett",
+      "en": "Waschbrett",
+      "ru": [
+        "стиральная доска"
+      ],
+      "example": "Unsere Urgroßmütter wuschen die Wäsche noch mit einem Waschbrett im Waschzuber.",
+      "level": "B1",
+      "sourceId": "washboard",
+      "sourceIds": [
+        "washboard"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zweistockig",
+      "word": "zweistöckig",
+      "en": "zweistöckig",
+      "ru": [
+        "двухэтажный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "two-storey",
+      "sourceIds": [
+        "two-storey"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "selfstorage",
+      "word": "Selfstorage",
+      "en": "Selfstorage",
+      "ru": [
+        "склад индивидуального хранения"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "self-storage",
+      "sourceIds": [
+        "self-storage"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "wiege",
+      "word": "Wiege",
+      "en": "Wiege",
+      "ru": [
+        "люлька"
+      ],
+      "example": "Das Baby schlief in der Wiege ein.",
+      "level": "B1",
+      "sourceId": "bassinet",
+      "sourceIds": [
+        "bassinet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turoffnung",
+      "word": "Türöffnung",
+      "en": "Türöffnung",
+      "ru": [
+        "дверной проем"
+      ],
+      "example": "Tom stand in der Türöffnung.",
+      "level": "B1",
+      "sourceId": "doorway",
+      "sourceIds": [
+        "doorway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mieter",
+      "word": "Mieter",
+      "en": "Mieter",
+      "ru": [
+        "арендатор"
+      ],
+      "example": "Die Deutschen sind ein Volk von Mietern.",
+      "level": "B1",
+      "sourceId": "tenant",
+      "sourceIds": [
+        "tenant"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rein",
+      "word": "rein",
+      "en": "rein",
+      "ru": [
+        "в помещении"
+      ],
+      "example": "Betrüger legen andere rein. Verliebte sich selbst.",
+      "level": "B1",
+      "sourceId": "indoors",
+      "sourceIds": [
+        "indoors"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schliessen",
+      "word": "schließen",
+      "en": "schließen",
+      "ru": [
+        "защелкивать"
+      ],
+      "example": "Achtung Bahnsteig 3, Türen schließen. Bitte Vorsicht!",
+      "level": "B1",
+      "sourceId": "latch",
+      "sourceIds": [
+        "latch"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kinderzimmer",
+      "word": "Kinderzimmer",
+      "en": "Kinderzimmer",
+      "ru": [
+        "детская комната",
+        "ясли"
+      ],
+      "example": "Die Kinder räumen das Kinderzimmer auf.",
+      "level": "B1",
+      "sourceId": "nursery",
+      "sourceIds": [
+        "nursery"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "urinal",
+      "word": "Urinal",
+      "en": "Urinal",
+      "ru": [
+        "писсуар"
+      ],
+      "example": "Urinale sind im Allgemeinen weiß.",
+      "level": "B1",
+      "sourceId": "urinal",
+      "sourceIds": [
+        "urinal"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schicht",
+      "word": "Schicht",
+      "en": "Schicht",
+      "ru": [
+        "выступ",
+        "карниз"
+      ],
+      "example": "Eine Schicht Laub liegt auf dem Bürgersteig.",
+      "level": "B1",
+      "sourceId": "ledge",
+      "sourceIds": [
+        "ledge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tablett",
+      "word": "Tablett",
+      "en": "Tablett",
+      "ru": [
+        "поднос"
+      ],
+      "example": "Die Tabletten haben meine Schmerzen verschwinden lassen.",
+      "level": "B1",
+      "sourceId": "tray",
+      "sourceIds": [
+        "tray"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sparren",
+      "word": "Sparren",
+      "en": "Sparren",
+      "ru": [
+        "стропило"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rafter",
+      "sourceIds": [
+        "rafter"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "beil",
+      "word": "Beil",
+      "en": "Beil",
+      "ru": [
+        "топорик"
+      ],
+      "example": "Bisher habe ich noch nie ein Beil verwendet.",
+      "level": "B1",
+      "sourceId": "hatchet",
+      "sourceIds": [
+        "hatchet"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trennwand",
+      "word": "Trennwand",
+      "en": "Trennwand",
+      "ru": [
+        "разделитель",
+        "перегородка"
+      ],
+      "example": "Die Kugel durchbrach die Trennwand.",
+      "level": "B1",
+      "sourceId": "divider",
+      "sourceIds": [
+        "divider"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haarspulung",
+      "word": "Haarspülung",
+      "en": "Haarspülung",
+      "ru": [
+        "кондиционер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "conditioner",
+      "sourceIds": [
+        "conditioner"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "haushalt",
+      "word": "Haushalt",
+      "en": "Haushalt",
+      "ru": [
+        "ведение домашнего хозяйства"
+      ],
+      "example": "Die Stadtrat hat den neuen Haushalt abgelehnt.",
+      "level": "B1",
+      "sourceId": "housekeeping",
+      "sourceIds": [
+        "housekeeping"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fassade",
+      "word": "Fassade",
+      "en": "Fassade",
+      "ru": [
+        "фасад",
+        "лицевая сторона"
+      ],
+      "example": "Die Fassade dieses Hauses ist der Horror.",
+      "level": "B1",
+      "sourceId": "frontage",
+      "sourceIds": [
+        "frontage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umgestalten",
+      "word": "umgestalten",
+      "en": "umgestalten",
+      "ru": [
+        "перестраивать",
+        "реконструировать"
+      ],
+      "example": "Ich habe die Garage zu einem Schreibzimmer umgestaltet.",
+      "level": "B1",
+      "sourceId": "remodel",
+      "sourceIds": [
+        "remodel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quietschen",
+      "word": "Quietschen",
+      "en": "Quietschen",
+      "ru": [
+        "скрип",
+        "скрипеть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "creak",
+      "sourceIds": [
+        "creak"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "hinterhof",
+      "word": "Hinterhof",
+      "en": "Hinterhof",
+      "ru": [
+        "задний двор"
+      ],
+      "example": "Tom baute einen Geräteschuppen in seinem Hinterhof.",
+      "level": "B1",
+      "sourceId": "backyard",
+      "sourceIds": [
+        "backyard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "renovierungsbedurftiges-haus",
+      "word": "renovierungsbedürftiges Haus",
+      "en": "renovierungsbedürftiges Haus",
+      "ru": [
+        "дом, требующий ремонта"
+      ],
+      "example": "Heutzutage ist es schwer, ein renovierungsbedürftiges Haus zu verkaufen.",
+      "level": "B1",
+      "sourceId": "fixer-upper",
+      "sourceIds": [
+        "fixer-upper"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turklingel",
+      "word": "Türklingel",
+      "en": "Türklingel",
+      "ru": [
+        "дверной звонок"
+      ],
+      "example": "Man hat das Recht, an jemandes Türklingel zu läuten.",
+      "level": "B1",
+      "sourceId": "doorbell",
+      "sourceIds": [
+        "doorbell"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wohngemeinschaft",
+      "word": "Wohngemeinschaft",
+      "en": "Wohngemeinschaft",
+      "ru": [
+        "совместная аренда квартиры"
+      ],
+      "example": "Wir wohnen zu fünft in einer Wohngemeinschaft.",
+      "level": "B1",
+      "sourceId": "flatshare",
+      "sourceIds": [
+        "flatshare"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mitbewohner",
+      "word": "Mitbewohner",
+      "en": "Mitbewohner",
+      "ru": [
+        "сосед по квартире"
+      ],
+      "example": "Diese gut aussehende Frau ist meine Mitbewohnerin.",
+      "level": "B1",
+      "sourceId": "flatmate",
+      "sourceIds": [
+        "flatmate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vermieterin",
+      "word": "Vermieterin",
+      "en": "Vermieterin",
+      "ru": [
+        "хозяйка дома",
+        "арендодатель"
+      ],
+      "example": "Hast du mal mit der Vermieterin gesprochen?",
+      "level": "B1",
+      "sourceId": "landlady",
+      "sourceIds": [
+        "landlady"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haushalterin",
+      "word": "Haushälterin",
+      "en": "Haushälterin",
+      "ru": [
+        "экономка",
+        "домработница"
+      ],
+      "example": "Ein hässlich Weib ist eine gute Haushälterin.",
+      "level": "B1",
+      "sourceId": "housekeeper",
+      "sourceIds": [
+        "housekeeper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dachluke",
+      "word": "Dachluke",
+      "en": "Dachluke",
+      "ru": [
+        "мансардное окно"
+      ],
+      "example": "Ein nebliger Dunst kroch durch die Dachluke und schmälerte seine Überlebenschancen enorm.",
+      "level": "B1",
+      "sourceId": "skylight",
+      "sourceIds": [
+        "skylight"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "terrasse",
+      "word": "Terrasse",
+      "en": "Terrasse",
+      "ru": [
+        "терраса"
+      ],
+      "example": "Bring die Stühle alle auf die Terrasse!",
+      "level": "B1",
+      "sourceId": "terrace",
+      "sourceIds": [
+        "terrace"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fensterladen",
+      "word": "Fensterladen",
+      "en": "Fensterladen",
+      "ru": [
+        "ставня"
+      ],
+      "example": "Die Hauswände sind fahlgelb, die Fensterläden rostrot.",
+      "level": "B1",
+      "sourceId": "shutter",
+      "sourceIds": [
+        "shutter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gitter",
+      "word": "Gitter",
+      "en": "Gitter",
+      "ru": [
+        "решетка",
+        "скрип"
+      ],
+      "example": "Dafür könnte ich dich hinter Gitter bringen.",
+      "level": "B1",
+      "sourceId": "grating",
+      "sourceIds": [
+        "grating"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "planke",
+      "word": "Planke",
+      "en": "Planke",
+      "ru": [
+        "доска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "plank",
+      "sourceIds": [
+        "plank"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "passus",
+      "word": "Passus",
+      "en": "Passus",
+      "ru": [
+        "проход",
+        "отрывок"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "passage",
+      "sourceIds": [
+        "passage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "putzen",
+      "word": "putzen",
+      "en": "putzen",
+      "ru": [
+        "штукатурить",
+        "накладывать гипс"
+      ],
+      "example": "Der Lehrer ließ uns das Zimmer putzen.",
+      "level": "B1",
+      "sourceId": "plaster",
+      "sourceIds": [
+        "plaster"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaminecke",
+      "word": "Kaminecke",
+      "en": "Kaminecke",
+      "ru": [
+        "у камина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fireside",
+      "sourceIds": [
+        "fireside"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "laterne",
+      "word": "Laterne",
+      "en": "Laterne",
+      "ru": [
+        "фонарь"
+      ],
+      "example": "Die Laterne leuchtet andern, sich selber nicht.",
+      "level": "B1",
+      "sourceId": "lantern",
+      "sourceIds": [
+        "lantern"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "feder",
+      "word": "Feder",
+      "en": "Feder",
+      "ru": [
+        "дюбель",
+        "шкант"
+      ],
+      "example": "An den Federn erkennt man den Vogel.",
+      "level": "B1",
+      "sourceId": "dowel",
+      "sourceIds": [
+        "dowel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "meissel",
+      "word": "Meißel",
+      "en": "Meißel",
+      "ru": [
+        "долото",
+        "стамеска"
+      ],
+      "example": "Die Aufmerksamkeit ist der Meißel des Gedächtnisses.",
+      "level": "B1",
+      "sourceId": "chisel",
+      "sourceIds": [
+        "chisel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "knopf",
+      "word": "Knopf",
+      "en": "Knopf",
+      "ru": [
+        "ручка",
+        "кнопка"
+      ],
+      "example": "An meinem Mantel ist ein Knopf abgegangen.",
+      "level": "B1",
+      "sourceId": "knob",
+      "sourceIds": [
+        "knob"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bettdecke",
+      "word": "Bettdecke",
+      "en": "Bettdecke",
+      "ru": [
+        "пуховое одеяло"
+      ],
+      "example": "Ich habe dir noch eine Bettdecke gebracht.",
+      "level": "B1",
+      "sourceId": "duvet",
+      "sourceIds": [
+        "duvet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deckel",
+      "word": "Deckel",
+      "en": "Deckel",
+      "ru": [
+        "крышка",
+        "веко"
+      ],
+      "example": "Das Herstellungsdatum ist auf dem Deckel angegeben.",
+      "level": "B1",
+      "sourceId": "lid",
+      "sourceIds": [
+        "lid"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ofenrohr",
+      "word": "Ofenrohr",
+      "en": "Ofenrohr",
+      "ru": [
+        "дымовая труба"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stovepipe",
+      "sourceIds": [
+        "stovepipe"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "spaten",
+      "word": "Spaten",
+      "en": "Spaten",
+      "ru": [
+        "лопата"
+      ],
+      "example": "Ein fleißiger Spaten ist immer blank.",
+      "level": "B1",
+      "sourceId": "spade",
+      "sourceIds": [
+        "spade"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kern",
+      "word": "Kern",
+      "en": "Kern",
+      "ru": [
+        "центральный элемент"
+      ],
+      "example": "Die Familie ist der Kern der Gesellschaft.",
+      "level": "B1",
+      "sourceId": "centrepiece",
+      "sourceIds": [
+        "centrepiece"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arbeitsflache",
+      "word": "Arbeitsfläche",
+      "en": "Arbeitsfläche",
+      "ru": [
+        "столешница"
+      ],
+      "example": "Der Kuchen kühlt auf der Arbeitsfläche ab.",
+      "level": "B1",
+      "sourceId": "worktop",
+      "sourceIds": [
+        "worktop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fassung",
+      "word": "Fassung",
+      "en": "Fassung",
+      "ru": [
+        "приспособление",
+        "неотъемлемая часть"
+      ],
+      "example": "Tom verlor die Fassung und schlug Maria.",
+      "level": "B1",
+      "sourceId": "fixture",
+      "sourceIds": [
+        "fixture"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drapieren",
+      "word": "drapieren",
+      "en": "drapieren",
+      "ru": [
+        "драпировка",
+        "штора"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drape",
+      "sourceIds": [
+        "drape"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nistkasten",
+      "word": "Nistkasten",
+      "en": "Nistkasten",
+      "ru": [
+        "скворечник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "birdhouse",
+      "sourceIds": [
+        "birdhouse"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "verzierung",
+      "word": "Verzierung",
+      "en": "Verzierung",
+      "ru": [
+        "украшение",
+        "орнамент"
+      ],
+      "example": "Das ist nur eine Verzierung.",
+      "level": "B1",
+      "sourceId": "ornament",
+      "sourceIds": [
+        "ornament"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kitt",
+      "word": "Kitt",
+      "en": "Kitt",
+      "ru": [
+        "шпатлевка",
+        "замазка"
+      ],
+      "example": "Er füllte den Riss mit Kitt.",
+      "level": "B1",
+      "sourceId": "putty",
+      "sourceIds": [
+        "putty"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "renovieren",
+      "word": "renovieren",
+      "en": "renovieren",
+      "ru": [
+        "ремонтировать",
+        "обновлять"
+      ],
+      "example": "Das Lehrerzimmer und die Turnhalle werden renoviert.",
+      "level": "B1",
+      "sourceId": "renovate",
+      "sourceIds": [
+        "renovate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dekorateur",
+      "word": "Dekorateur",
+      "en": "Dekorateur",
+      "ru": [
+        "декоратор"
+      ],
+      "example": "Die prächtigen Auslagen in den Schaufenstern lassen den fachkundigen Dekorateur erkennen.",
+      "level": "B1",
+      "sourceId": "decorator",
+      "sourceIds": [
+        "decorator"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "satz",
+      "word": "Satz",
+      "en": "Satz",
+      "ru": [
+        "затирка (для швов)"
+      ],
+      "example": "Am Ende des Satzes fehlt der Punkt.",
+      "level": "B1",
+      "sourceId": "grout",
+      "sourceIds": [
+        "grout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abschrauben",
+      "word": "abschrauben",
+      "en": "abschrauben",
+      "ru": [
+        "отвинчивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unscrew",
+      "sourceIds": [
+        "unscrew"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "loschgerat",
+      "word": "Löschgerät",
+      "en": "Löschgerät",
+      "ru": [
+        "огнетушитель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "extinguisher",
+      "sourceIds": [
+        "extinguisher"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "vorhang",
+      "word": "Vorhang",
+      "en": "Vorhang",
+      "ru": [
+        "шторы",
+        "занавески"
+      ],
+      "example": "Als ich die Vorhänge öffnete, schneite es.",
+      "level": "A2",
+      "sourceId": "curtains",
+      "sourceIds": [
+        "curtains"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "klo",
+      "word": "Klo-",
+      "en": "Klo-",
+      "ru": [
+        "туалетный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lavatorial",
+      "sourceIds": [
+        "lavatorial"
+      ]
+    },
+    {
+      "id": "neu-einzaunen",
+      "word": "neu einzäunen",
+      "en": "neu einzäunen",
+      "ru": [
+        "огораживать заново"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "refence",
+      "sourceIds": [
+        "refence"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kieselrauputz",
+      "word": "Kieselrauputz",
+      "en": "Kieselrauputz",
+      "ru": [
+        "штукатурка с галькой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pebbledash",
+      "sourceIds": [
+        "pebbledash"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gemutlich",
+      "word": "gemütlich",
+      "en": "gemütlich",
+      "ru": [
+        "уютный"
+      ],
+      "example": "Das ist ein friedlicher und gemütlicher Ort.",
+      "level": "B1",
+      "sourceId": "homey",
+      "sourceIds": [
+        "homey"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuhlschrank",
+      "word": "Kühlschrank",
+      "en": "Kühlschrank",
+      "ru": [
+        "холодильник"
+      ],
+      "example": "Bitte stell die Eier in den Kühlschrank.",
+      "level": "B1",
+      "sourceId": "fridge",
+      "sourceIds": [
+        "fridge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fach",
+      "word": "Fach",
+      "en": "Fach",
+      "ru": [
+        "чулан",
+        "ячейка"
+      ],
+      "example": "Die Informatik ist ein ganz besonderes Fach.",
+      "level": "B1",
+      "sourceId": "cubby",
+      "sourceIds": [
+        "cubby"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spielhaus",
+      "word": "Spielhaus",
+      "en": "Spielhaus",
+      "ru": [
+        "игровой домик",
+        "театр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "playhouse",
+      "sourceIds": [
+        "playhouse"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "trittleiter",
+      "word": "Trittleiter",
+      "en": "Trittleiter",
+      "ru": [
+        "стремянка"
+      ],
+      "example": "Versichere dich, dass die Trittleiter fest steht.",
+      "level": "B1",
+      "sourceId": "stepladder",
+      "sourceIds": [
+        "stepladder"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hintertur",
+      "word": "Hintertür",
+      "en": "Hintertür",
+      "ru": [
+        "черный ход"
+      ],
+      "example": "Der Junge kam durch die Hintertür herein.",
+      "level": "B1",
+      "sourceId": "backdoor",
+      "sourceIds": [
+        "backdoor"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eigentumswohnung",
+      "word": "Eigentumswohnung",
+      "en": "Eigentumswohnung",
+      "ru": [
+        "квартира в кондоминиуме"
+      ],
+      "example": "Ich habe eine Eigentumswohnung in Miami gekauft.",
+      "level": "B1",
+      "sourceId": "condo",
+      "sourceIds": [
+        "condo"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bettrand",
+      "word": "Bettrand",
+      "en": "Bettrand",
+      "ru": [
+        "у кровати"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bedside",
+      "sourceIds": [
+        "bedside"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "salon",
+      "word": "Salon",
+      "en": "Salon",
+      "ru": [
+        "гостиная",
+        "салон"
+      ],
+      "example": "Wie viele Friseure arbeiten in diesem Salon?",
+      "level": "B1",
+      "sourceId": "parlour",
+      "sourceIds": [
+        "parlour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "geldkassette",
+      "word": "Geldkassette",
+      "en": "Geldkassette",
+      "ru": [
+        "сейф",
+        "несгораемый ящик"
+      ],
+      "example": "Die Geldkassette ist noch unter dem Sitz.",
+      "level": "B1",
+      "sourceId": "strongbox",
+      "sourceIds": [
+        "strongbox"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hausdiener",
+      "word": "Hausdiener",
+      "en": "Hausdiener",
+      "ru": [
+        "слуга"
+      ],
+      "example": "Er hat einen Hausdiener und einen Koch.",
+      "level": "B1",
+      "sourceId": "houseboy",
+      "sourceIds": [
+        "houseboy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "staubsauger",
+      "word": "Staubsauger",
+      "en": "Staubsauger",
+      "ru": [
+        "пылесос"
+      ],
+      "example": "Den Staubsauger benutzen? Das wäre reine Stromverschwendung.",
+      "level": "B1",
+      "sourceId": "hoover",
+      "sourceIds": [
+        "hoover"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gemutlichkeit",
+      "word": "Gemütlichkeit",
+      "en": "Gemütlichkeit",
+      "ru": [
+        "уют"
+      ],
+      "example": "Da hört doch die Gemütlichkeit auf!",
+      "level": "B1",
+      "sourceId": "coziness",
+      "sourceIds": [
+        "coziness"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schrank-mit-mittelvorsprung",
+      "word": "Schrank mit Mittelvorsprung",
+      "en": "Schrank mit Mittelvorsprung",
+      "ru": [
+        "шкаф с выступающей средней частью"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "breakfront",
+      "sourceIds": [
+        "breakfront"
+      ],
+      "pos": "n",
+      "gender": "m"
+    }
+  ]
+}

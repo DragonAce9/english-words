@@ -1,0 +1,4376 @@
+{
+  "id": "travel",
+  "title": "Путешествия",
+  "paid": false,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "aeroporto",
+      "word": "aeroporto",
+      "en": "aeroporto",
+      "ru": [
+        "аэропорт",
+        "аэровокзал",
+        "аэродром"
+      ],
+      "example": "A che ora devo andare in aeroporto?",
+      "level": "A2",
+      "sourceId": "airport",
+      "sourceIds": [
+        "airport"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "biglietto",
+      "word": "biglietto",
+      "en": "biglietto",
+      "ru": [
+        "билет",
+        "лицензия",
+        "разрешение"
+      ],
+      "example": "\"Posso vedere il suo biglietto?\" \"Sì. Eccolo.\"",
+      "level": "B1",
+      "sourceId": "ticket",
+      "sourceIds": [
+        "ticket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passaporto",
+      "word": "passaporto",
+      "en": "passaporto",
+      "ru": [
+        "паспорт",
+        "заграничный паспорт",
+        "загран"
+      ],
+      "example": "Abbiamo perso i passaporti durante il viaggio.",
+      "level": "B2",
+      "sourceId": "passport",
+      "sourceIds": [
+        "passport"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bagaglio",
+      "word": "bagaglio",
+      "en": "bagaglio",
+      "ru": [
+        "багаж",
+        "кладь",
+        "поклажа"
+      ],
+      "example": "Che avete fatto con i miei bagagli?",
+      "level": "B2",
+      "sourceId": "luggage",
+      "sourceIds": [
+        "luggage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hotel",
+      "word": "hotel",
+      "en": "hotel",
+      "ru": [
+        "отель",
+        "гостиница"
+      ],
+      "example": "A che ora si mangia in quest'hotel?",
+      "level": "A1",
+      "sourceId": "hotel",
+      "sourceIds": [
+        "hotel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "volo",
+      "word": "volo",
+      "en": "volo",
+      "ru": [
+        "рейс",
+        "полёт",
+        "бегство"
+      ],
+      "example": "A che ora arriva il mio volo?",
+      "level": "B1",
+      "sourceId": "flight",
+      "sourceIds": [
+        "flight"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "partenza",
+      "word": "partenza",
+      "en": "partenza",
+      "ru": [
+        "отправление",
+        "вылет",
+        "отклонение"
+      ],
+      "example": "Ai blocchi di partenza, pronti, partenza, via!",
+      "level": "B2",
+      "sourceId": "departure",
+      "sourceIds": [
+        "departure"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arrivo",
+      "word": "arrivo",
+      "en": "arrivo",
+      "ru": [
+        "прибытие",
+        "приезд",
+        "прилёт"
+      ],
+      "example": "All'arrivo del treno era rimasto assolutamente poco.",
+      "level": "B2",
+      "sourceId": "arrival",
+      "sourceIds": [
+        "arrival"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carta",
+      "word": "carta",
+      "en": "carta",
+      "ru": [
+        "карта",
+        "план"
+      ],
+      "example": "A Tom fu data una carta regalo.",
+      "level": "A1",
+      "sourceId": "map",
+      "sourceIds": [
+        "map"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "valigia",
+      "word": "valigia",
+      "en": "valigia",
+      "ru": [
+        "чемодан"
+      ],
+      "example": "Aiutami a caricare questa valigia nel portabagagli.",
+      "level": "C2",
+      "sourceId": "suitcase",
+      "sourceIds": [
+        "suitcase"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "confine",
+      "word": "confine",
+      "en": "confine",
+      "ru": [
+        "граница",
+        "кордон",
+        "межа"
+      ],
+      "example": "Al confine dovetti mostrare il mio passaporto.",
+      "level": "B1",
+      "sourceId": "border",
+      "sourceIds": [
+        "border"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turista",
+      "word": "turista",
+      "en": "turista",
+      "ru": [
+        "турист",
+        "путешественник",
+        "путешественница"
+      ],
+      "example": "A Venezia ci sono sempre tanti turisti.",
+      "level": "B2",
+      "sourceId": "tourist",
+      "sourceIds": [
+        "tourist"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "all-estero",
+      "word": "all'estero",
+      "en": "all'estero",
+      "ru": [
+        "за границей",
+        "за границу",
+        "за кордоном"
+      ],
+      "example": "A quanto pare, si è trasferito all'estero.",
+      "level": "B2",
+      "sourceId": "abroad",
+      "sourceIds": [
+        "abroad"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alloggio",
+      "word": "alloggio",
+      "en": "alloggio",
+      "ru": [
+        "жильё",
+        "жилище",
+        "расквартирование"
+      ],
+      "example": "A Londra gli alloggi sono incredibilmente cari.",
+      "level": "A2",
+      "sourceId": "accommodation",
+      "sourceIds": [
+        "accommodation"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "avventura",
+      "word": "avventura",
+      "en": "avventura",
+      "ru": [
+        "приключение",
+        "событие",
+        "авантюра"
+      ],
+      "example": "Andò in viaggio in cerca di avventura.",
+      "level": "B1",
+      "sourceId": "adventure",
+      "sourceIds": [
+        "adventure"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "avventuriero",
+      "word": "avventuriero",
+      "en": "avventuriero",
+      "ru": [
+        "искатель приключений",
+        "искательница приключений",
+        "авантюрист"
+      ],
+      "example": "Avventurieri, per favore state lontani!",
+      "level": "C2",
+      "sourceId": "adventurer",
+      "sourceIds": [
+        "adventurer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "avventuriera",
+      "word": "avventuriera",
+      "en": "avventuriera",
+      "ru": [
+        "авантюристка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "adventuress",
+      "sourceIds": [
+        "adventuress"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "aeromobile",
+      "word": "aeromobile",
+      "en": "aeromobile",
+      "ru": [
+        "самолёт",
+        "летательный аппарат",
+        "воздушное судно"
+      ],
+      "example": "Gli aeromobili sono soggetti a rigorose norme di sicurezza nell'ambito dell'aviazione.",
+      "level": "B1",
+      "sourceId": "aircraft",
+      "sourceIds": [
+        "aircraft"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "compagnia-aerea",
+      "word": "compagnia aerea",
+      "en": "compagnia aerea",
+      "ru": [
+        "авиакомпания",
+        "авиалинии",
+        "авиапредприятие"
+      ],
+      "example": "La compagnia aerea perse la mia valigia.",
+      "level": "B1",
+      "sourceId": "airline",
+      "sourceIds": [
+        "airline"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aereo-di-linea",
+      "word": "aereo di linea",
+      "en": "aereo di linea",
+      "ru": [
+        "авиалайнер",
+        "воздушный лайнер",
+        "пассажирский самолёт"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "airliner",
+      "sourceIds": [
+        "airliner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "aereo",
+      "word": "aereo",
+      "en": "aereo",
+      "ru": [
+        "самолёт",
+        "аэроплан"
+      ],
+      "example": "A Tom piace fare aerei di carta.",
+      "level": "C1",
+      "sourceId": "airplane",
+      "sourceIds": [
+        "airplane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viale",
+      "word": "viale",
+      "en": "viale",
+      "ru": [
+        "авеню",
+        "проспект"
+      ],
+      "example": "Carrozze verdi e bianche percorrono il viale.",
+      "level": "B1",
+      "sourceId": "avenue",
+      "sourceIds": [
+        "avenue"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zaino",
+      "word": "zaino",
+      "en": "zaino",
+      "ru": [
+        "рюкзак",
+        "ранец"
+      ],
+      "example": "Devi mettere nello zaino tutte queste cose.",
+      "level": "C2",
+      "sourceId": "backpack",
+      "sourceIds": [
+        "backpack"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "backpacker",
+      "word": "backpacker",
+      "en": "backpacker",
+      "ru": [
+        "бэкпэкер",
+        "пеший турист",
+        "пешая туристка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "backpacker",
+      "sourceIds": [
+        "backpacker"
+      ],
+      "pos": "n",
+      "gender": "m/f"
+    },
+    {
+      "id": "viaggio-zaino-in-spalla",
+      "word": "viaggio zaino in spalla",
+      "en": "viaggio zaino in spalla",
+      "ru": [
+        "бэкпэкинг"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "backpacking",
+      "sourceIds": [
+        "backpacking"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "balcone",
+      "word": "balcone",
+      "en": "balcone",
+      "ru": [
+        "балкон"
+      ],
+      "example": "Adesso pianto un albero così in balcone.",
+      "level": "A2",
+      "sourceId": "balcony",
+      "sourceIds": [
+        "balcony"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spiaggia",
+      "word": "spiaggia",
+      "en": "spiaggia",
+      "ru": [
+        "пляж",
+        "взморье"
+      ],
+      "example": "A lui piace andare in spiaggia occasionalmente.",
+      "level": "A1",
+      "sourceId": "beach",
+      "sourceIds": [
+        "beach"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bicicletta",
+      "word": "bicicletta",
+      "en": "bicicletta",
+      "ru": [
+        "велосипед",
+        "велик",
+        "педалировать"
+      ],
+      "example": "A Tom è piaciuto andare in bicicletta.",
+      "level": "C1",
+      "sourceId": "bicycle",
+      "sourceIds": [
+        "bicycle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "imbarco",
+      "word": "imbarco",
+      "en": "imbarco",
+      "ru": [
+        "посадка",
+        "абордаж"
+      ],
+      "example": "Mary ha perso la sua carta d'imbarco.",
+      "level": "C2",
+      "sourceId": "boarding",
+      "sourceIds": [
+        "boarding"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barca",
+      "word": "barca",
+      "en": "barca",
+      "ru": [
+        "лодка",
+        "бот",
+        "ладья"
+      ],
+      "example": "Abbiamo attraversato il lago con una barca.",
+      "level": "B1",
+      "sourceId": "boat",
+      "sourceIds": [
+        "boat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prenotazione",
+      "word": "prenotazione",
+      "en": "prenotazione",
+      "ru": [
+        "бронирование",
+        "бронь"
+      ],
+      "example": "Abbiamo confermato le prenotazioni dell'albergo per telefono.",
+      "level": "B1",
+      "sourceId": "booking",
+      "sourceIds": [
+        "booking"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viale",
+      "word": "viale",
+      "en": "viale",
+      "ru": [
+        "бульвар",
+        "проспект"
+      ],
+      "example": "Carrozze verdi e bianche percorrono il viale.",
+      "level": "C1",
+      "sourceId": "boulevard",
+      "sourceIds": [
+        "boulevard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ponte",
+      "word": "ponte",
+      "en": "ponte",
+      "ru": [
+        "мост"
+      ],
+      "example": "Andate a costruire ponti in Arabia Saudita.",
+      "level": "B1",
+      "sourceId": "bridge",
+      "sourceIds": [
+        "bridge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bus",
+      "word": "bus",
+      "en": "bus",
+      "ru": [
+        "автобус"
+      ],
+      "example": "C'è una fermata del bus là vicino.",
+      "level": "A2",
+      "sourceId": "bus",
+      "sourceIds": [
+        "bus"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabina",
+      "word": "cabina",
+      "en": "cabina",
+      "ru": [
+        "домик",
+        "лачуга",
+        "хижина"
+      ],
+      "example": "La cabina dell'ascensore è costruita in acciaio.",
+      "level": "C1",
+      "sourceId": "cabin",
+      "sourceIds": [
+        "cabin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "campeggio",
+      "word": "campeggio",
+      "en": "campeggio",
+      "ru": [
+        "проживание в лагере",
+        "жизнь в палатке"
+      ],
+      "example": "Andai in campeggio con la mia famiglia.",
+      "level": "B1",
+      "sourceId": "camping",
+      "sourceIds": [
+        "camping"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "automobile",
+      "word": "automobile",
+      "en": "automobile",
+      "ru": [
+        "авто",
+        "автомашина",
+        "автомобиль"
+      ],
+      "example": "A Dan piace realizzare modellini di automobili.",
+      "level": "A1",
+      "sourceId": "car",
+      "sourceIds": [
+        "car"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carrozza",
+      "word": "carrozza",
+      "en": "carrozza",
+      "ru": [
+        "карета",
+        "воз",
+        "повозка"
+      ],
+      "example": "Carrozze verdi e bianche percorrono il viale.",
+      "level": "C2",
+      "sourceId": "carriage",
+      "sourceIds": [
+        "carriage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carreggiata",
+      "word": "carreggiata",
+      "en": "carreggiata",
+      "ru": [
+        "проезжая часть"
+      ],
+      "example": "Questa cosa mi sta rimettendo in carreggiata.",
+      "level": "C2",
+      "sourceId": "carriageway",
+      "sourceIds": [
+        "carriageway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "castello",
+      "word": "castello",
+      "en": "castello",
+      "ru": [
+        "замок"
+      ],
+      "example": "A Yuri piaceva vivere nel suo castello.",
+      "level": "B1",
+      "sourceId": "castle",
+      "sourceIds": [
+        "castle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arrocco",
+      "word": "arrocco",
+      "en": "arrocco",
+      "ru": [
+        "рокировка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "castling",
+      "sourceIds": [
+        "castling"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cattedrale",
+      "word": "cattedrale",
+      "en": "cattedrale",
+      "ru": [
+        "кафедральный собор",
+        "собор"
+      ],
+      "example": "Avete avuto tempo di visitare la cattedrale?",
+      "level": "C1",
+      "sourceId": "cathedral",
+      "sourceIds": [
+        "cathedral"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "check-in",
+      "word": "check-in",
+      "en": "check-in",
+      "ru": [
+        "регистрация",
+        "чек-ин"
+      ],
+      "example": "A che ora dovrei fare il check-in?",
+      "level": "C2",
+      "sourceId": "check-in",
+      "sourceIds": [
+        "check-in"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cassa",
+      "word": "cassa",
+      "en": "cassa",
+      "ru": [
+        "касса"
+      ],
+      "example": "Andate a comprare una cassa di birra.",
+      "level": "B1",
+      "sourceId": "checkout",
+      "sourceIds": [
+        "checkout"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carrozza",
+      "word": "carrozza",
+      "en": "carrozza",
+      "ru": [
+        "дилижанс",
+        "карета",
+        "коляска"
+      ],
+      "example": "Carrozze verdi e bianche percorrono il viale.",
+      "level": "B1",
+      "sourceId": "coach",
+      "sourceIds": [
+        "coach"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "costiera",
+      "word": "costiera",
+      "en": "costiera",
+      "ru": [
+        "побережье",
+        "морской берег",
+        "берег"
+      ],
+      "example": "La polizia ha aumentato le proprie pattuglie costiere.",
+      "level": "A2",
+      "sourceId": "coast",
+      "sourceIds": [
+        "coast"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nave-costiera",
+      "word": "nave costiera",
+      "en": "nave costiera",
+      "ru": [
+        "поморянин",
+        "каботажное судно"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "coaster",
+      "sourceIds": [
+        "coaster"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bussola",
+      "word": "bussola",
+      "en": "bussola",
+      "ru": [
+        "компас"
+      ],
+      "example": "La sua bussola morale non è rigida.",
+      "level": "C2",
+      "sourceId": "compass",
+      "sourceIds": [
+        "compass"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "compassione",
+      "word": "compassione",
+      "en": "compassione",
+      "ru": [
+        "сострадание",
+        "сопереживание",
+        "сочувствие"
+      ],
+      "example": "Cerca di avere un po' di compassione.",
+      "level": "C2",
+      "sourceId": "compassion",
+      "sourceIds": [
+        "compassion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "compassionevole",
+      "word": "compassionevole",
+      "en": "compassionevole",
+      "ru": [
+        "сострадающий",
+        "сочувствующий"
+      ],
+      "example": "L'ingenuità della sua amica è addirittura compassionevole.",
+      "level": "C2",
+      "sourceId": "compassionate",
+      "sourceIds": [
+        "compassionate"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "confermare",
+      "word": "confermare",
+      "en": "confermare",
+      "ru": [
+        "подкрепить",
+        "подкреплять",
+        "подтвердить"
+      ],
+      "example": "Chi era con me lo può confermare.",
+      "level": "B1",
+      "sourceId": "confirm",
+      "sourceIds": [
+        "confirm"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "conferma",
+      "word": "conferma",
+      "en": "conferma",
+      "ru": [
+        "подтверждение"
+      ],
+      "example": "Anche oggi ne ho avuto l'ennesima conferma.",
+      "level": "B2",
+      "sourceId": "confirmation",
+      "sourceIds": [
+        "confirmation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "confermato",
+      "word": "confermato",
+      "en": "confermato",
+      "ru": [
+        "подтвержденный"
+      ],
+      "example": "A ieri non era ancora confermato nulla.",
+      "level": "B2",
+      "sourceId": "confirmed",
+      "sourceIds": [
+        "confirmed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "di-campagna",
+      "word": "di campagna",
+      "en": "di campagna",
+      "ru": [
+        "деревенский",
+        "сельский",
+        "край"
+      ],
+      "example": "A te piace il pane di campagna?",
+      "level": "A1",
+      "sourceId": "country",
+      "sourceIds": [
+        "country"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "campagna",
+      "word": "campagna",
+      "en": "campagna",
+      "ru": [
+        "сельская местность",
+        "деревня",
+        "село"
+      ],
+      "example": "\"Dove andrai fra due settimane?\" \"In campagna.\"",
+      "level": "C2",
+      "sourceId": "countryside",
+      "sourceIds": [
+        "countryside"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passaggio-pedonale",
+      "word": "passaggio pedonale",
+      "en": "passaggio pedonale",
+      "ru": [
+        "пешеходный переход"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "crosswalk",
+      "sourceIds": [
+        "crosswalk"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "crociera",
+      "word": "crociera",
+      "en": "crociera",
+      "ru": [
+        "круиз",
+        "морское путешествие",
+        "плавание"
+      ],
+      "example": "Congratulazioni, avete appena vinto una crociera nei Caraibi.",
+      "level": "B1",
+      "sourceId": "cruise",
+      "sourceIds": [
+        "cruise"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "incrociatore",
+      "word": "incrociatore",
+      "en": "incrociatore",
+      "ru": [
+        "крейсер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cruiser",
+      "sourceIds": [
+        "cruiser"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "dogana",
+      "word": "dogana",
+      "en": "dogana",
+      "ru": [
+        "таможня",
+        "таможенный сбор",
+        "таможенная пошлина"
+      ],
+      "example": "L'auto si avvicinò molto lentamente alla dogana.",
+      "level": "B2",
+      "sourceId": "customs",
+      "sourceIds": [
+        "customs"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ritardo",
+      "word": "ritardo",
+      "en": "ritardo",
+      "ru": [
+        "задержка",
+        "опоздание",
+        "промедление"
+      ],
+      "example": "A Tom non piace essere in ritardo.",
+      "level": "B1",
+      "sourceId": "delay",
+      "sourceIds": [
+        "delay"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "destinazione",
+      "word": "destinazione",
+      "en": "destinazione",
+      "ru": [
+        "место назначения",
+        "пункт назначения",
+        "назначение"
+      ],
+      "example": "Appena sono arrivata alla destinazione, l'ho chiamato.",
+      "level": "B1",
+      "sourceId": "destination",
+      "sourceIds": [
+        "destination"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "direzione",
+      "word": "direzione",
+      "en": "direzione",
+      "ru": [
+        "направление",
+        "режиссура",
+        "руководство"
+      ],
+      "example": "I cani stanno andando nella stessa direzione.",
+      "level": "B1",
+      "sourceId": "direction",
+      "sourceIds": [
+        "direction"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "distretto",
+      "word": "distretto",
+      "en": "distretto",
+      "ru": [
+        "дистрикт",
+        "область",
+        "округ"
+      ],
+      "example": "Nel nostro distretto c'è una grande biblioteca.",
+      "level": "A1",
+      "sourceId": "district",
+      "sourceIds": [
+        "district"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centro",
+      "word": "centro",
+      "en": "centro",
+      "ru": [
+        "деловая часть города",
+        "сити",
+        "центр"
+      ],
+      "example": "A Mary piace essere al centro dell'attenzione.",
+      "level": "B1",
+      "sourceId": "downtown",
+      "sourceIds": [
+        "downtown"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "conducente",
+      "word": "conducente",
+      "en": "conducente",
+      "ru": [
+        "водитель",
+        "водительница",
+        "погонщик"
+      ],
+      "example": "I poliziotti hanno arrestato i conducenti ubriachi.",
+      "level": "A2",
+      "sourceId": "driver",
+      "sourceIds": [
+        "driver"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "est",
+      "word": "est",
+      "en": "est",
+      "ru": [
+        "восточный",
+        "ост",
+        "восток"
+      ],
+      "example": "C'è un lago ad est del villaggio.",
+      "level": "A1",
+      "sourceId": "east",
+      "sourceIds": [
+        "east"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ambasciata",
+      "word": "ambasciata",
+      "en": "ambasciata",
+      "ru": [
+        "посольство"
+      ],
+      "example": "A me piacerebbe chiamare la mia ambasciata.",
+      "level": "C1",
+      "sourceId": "embassy",
+      "sourceIds": [
+        "embassy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escursione",
+      "word": "escursione",
+      "en": "escursione",
+      "ru": [
+        "экскурсия",
+        "экскурс"
+      ],
+      "example": "A Tom piace andare a fare escursioni.",
+      "level": "C2",
+      "sourceId": "excursion",
+      "sourceIds": [
+        "excursion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "esplorare",
+      "word": "esplorare",
+      "en": "esplorare",
+      "ru": [
+        "исследовать",
+        "осматривать",
+        "осмотреть"
+      ],
+      "example": "A lui piace esplorare delle aree remote.",
+      "level": "B1",
+      "sourceId": "explore",
+      "sourceIds": [
+        "explore"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "esploratore",
+      "word": "esploratore",
+      "en": "esploratore",
+      "ru": [
+        "исследователь",
+        "исследовательница",
+        "зонд"
+      ],
+      "example": "Gli esploratori cominciarono a soffrire la fame.",
+      "level": "B1",
+      "sourceId": "explorer",
+      "sourceIds": [
+        "explorer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tariffa",
+      "word": "tariffa",
+      "en": "tariffa",
+      "ru": [
+        "плата за проезд",
+        "стоимость проезда",
+        "тариф"
+      ],
+      "example": "Ci sono delle tariffe scontate per senior?",
+      "level": "C1",
+      "sourceId": "fare",
+      "sourceIds": [
+        "fare"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "traghetto",
+      "word": "traghetto",
+      "en": "traghetto",
+      "ru": [
+        "паром"
+      ],
+      "example": "Abbiamo preso un traghetto dall'isola alla terraferma.",
+      "level": "B2",
+      "sourceId": "ferry",
+      "sourceIds": [
+        "ferry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "straniero",
+      "word": "straniero",
+      "en": "straniero",
+      "ru": [
+        "иностранный",
+        "заграничный",
+        "зарубежный"
+      ],
+      "example": "A me piace studiare le lingue straniere.",
+      "level": "A2",
+      "sourceId": "foreign",
+      "sourceIds": [
+        "foreign"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "straniero",
+      "word": "straniero",
+      "en": "straniero",
+      "ru": [
+        "иноземец",
+        "иноземка",
+        "иностранец"
+      ],
+      "example": "A me piace studiare le lingue straniere.",
+      "level": "C2",
+      "sourceId": "foreigner",
+      "sourceIds": [
+        "foreigner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estraneita",
+      "word": "estraneità",
+      "en": "estraneità",
+      "ru": [
+        "чуждость"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "foreignness",
+      "sourceIds": [
+        "foreignness"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cancello",
+      "word": "cancello",
+      "en": "cancello",
+      "ru": [
+        "ворота",
+        "врата",
+        "калитка"
+      ],
+      "example": "Aveva la moto parcheggiata davanti al cancello.",
+      "level": "B2",
+      "sourceId": "gate",
+      "sourceIds": [
+        "gate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ospite",
+      "word": "ospite",
+      "en": "ospite",
+      "ru": [
+        "гость",
+        "гостья",
+        "клиент"
+      ],
+      "example": "Cosa devo cucinare per gli ospiti domani?",
+      "level": "A2",
+      "sourceId": "guest",
+      "sourceIds": [
+        "guest"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "guida",
+      "word": "guida",
+      "en": "guida",
+      "ru": [
+        "гид",
+        "проводник",
+        "проводница"
+      ],
+      "example": "A Tom serve la patente di guida.",
+      "level": "A1",
+      "sourceId": "guide",
+      "sourceIds": [
+        "guide"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porto",
+      "word": "porto",
+      "en": "porto",
+      "ru": [
+        "гавань",
+        "порт"
+      ],
+      "example": "\"Ti dispiace chiudere la porta?\" \"Per niente.\"",
+      "level": "B2",
+      "sourceId": "harbor",
+      "sourceIds": [
+        "harbor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "elicottero",
+      "word": "elicottero",
+      "en": "elicottero",
+      "ru": [
+        "вертолёт",
+        "геликоптер"
+      ],
+      "example": "Il governo trasportò beni sull'isola in elicottero.",
+      "level": "C1",
+      "sourceId": "helicopter",
+      "sourceIds": [
+        "helicopter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autostrada",
+      "word": "autostrada",
+      "en": "autostrada",
+      "ru": [
+        "автодорога",
+        "автомагистраль",
+        "автострада"
+      ],
+      "example": "A mantenuto una velocità costante in autostrada.",
+      "level": "B1",
+      "sourceId": "highway",
+      "sourceIds": [
+        "highway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brigante",
+      "word": "brigante",
+      "en": "brigante",
+      "ru": [
+        "разбойник с большой дороги"
+      ],
+      "example": "Prendete questo brigante ! Non fatelo scappare !",
+      "level": "C2",
+      "sourceId": "highwayman",
+      "sourceIds": [
+        "highwayman"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vacanza",
+      "word": "vacanza",
+      "en": "vacanza",
+      "ru": [
+        "отпуск",
+        "праздник",
+        "каникулы"
+      ],
+      "example": "\"Dove andate in vacanza?\" \"In Arabia Saudita.\"",
+      "level": "A2",
+      "sourceId": "holiday",
+      "sourceIds": [
+        "holiday"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turista",
+      "word": "turista",
+      "en": "turista",
+      "ru": [
+        "курортник",
+        "курортница",
+        "отдыхающий"
+      ],
+      "example": "A Venezia ci sono sempre tanti turisti.",
+      "level": "C2",
+      "sourceId": "holiday-maker",
+      "sourceIds": [
+        "holiday-maker"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ostello",
+      "word": "ostello",
+      "en": "ostello",
+      "ru": [
+        "мини-отель",
+        "общежитие",
+        "турбаза"
+      ],
+      "example": "C'è un ostello della gioventù qui vicino?",
+      "level": "C1",
+      "sourceId": "hostel",
+      "sourceIds": [
+        "hostel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "locanda",
+      "word": "locanda",
+      "en": "locanda",
+      "ru": [
+        "гостиница",
+        "корчма",
+        "постоялый двор"
+      ],
+      "example": "Abbiamo trovato una stanza alla locanda.",
+      "level": "A2",
+      "sourceId": "inn",
+      "sourceIds": [
+        "inn"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "incrocio",
+      "word": "incrocio",
+      "en": "incrocio",
+      "ru": [
+        "перекрёсток",
+        "пересечение"
+      ],
+      "example": "L'incidente ha avuto luogo vicino a quell'incrocio.",
+      "level": "C1",
+      "sourceId": "intersection",
+      "sourceIds": [
+        "intersection"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "isola",
+      "word": "isola",
+      "en": "isola",
+      "ru": [
+        "остров",
+        "покрыть",
+        "покрывать"
+      ],
+      "example": "Abbiamo preso un traghetto dall'isola alla terraferma.",
+      "level": "A1",
+      "sourceId": "island",
+      "sourceIds": [
+        "island"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viaggio",
+      "word": "viaggio",
+      "en": "viaggio",
+      "ru": [
+        "путешествие",
+        "вояж",
+        "поездка"
+      ],
+      "example": "A me piacciono i viaggi in treno.",
+      "level": "B1",
+      "sourceId": "journey",
+      "sourceIds": [
+        "journey"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vicolo",
+      "word": "vicolo",
+      "en": "vicolo",
+      "ru": [
+        "алейка",
+        "аллея",
+        "переулок"
+      ],
+      "example": "C'è un gatto nel vicolo sul retro.",
+      "level": "B1",
+      "sourceId": "lane",
+      "sourceIds": [
+        "lane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lasciare",
+      "word": "lasciare",
+      "en": "lasciare",
+      "ru": [
+        "уходить",
+        "оставлять"
+      ],
+      "example": "A conti fatti, è meglio lasciar correre.",
+      "level": "A2",
+      "sourceId": "leave",
+      "sourceIds": [
+        "leave"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limite",
+      "word": "limite",
+      "en": "limite",
+      "ru": [
+        "граница",
+        "предел",
+        "лимит"
+      ],
+      "example": "Bisognava farlo entro un limite di tempo.",
+      "level": "B1",
+      "sourceId": "limit",
+      "sourceIds": [
+        "limit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hall",
+      "word": "hall",
+      "en": "hall",
+      "ru": [
+        "холл",
+        "вестибюль",
+        "коридор"
+      ],
+      "example": "Io ho appena visto Tom nella hall.",
+      "level": "C1",
+      "sourceId": "lobby",
+      "sourceIds": [
+        "lobby"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casetta",
+      "word": "casetta",
+      "en": "casetta",
+      "ru": [
+        "домик",
+        "будка",
+        "сторожка"
+      ],
+      "example": "Lui voleva comprare una casetta in Romania.",
+      "level": "B1",
+      "sourceId": "lodge",
+      "sourceIds": [
+        "lodge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "inquilino",
+      "word": "inquilino",
+      "en": "inquilino",
+      "ru": [
+        "жилец",
+        "жилица",
+        "квартирант"
+      ],
+      "example": "Non conosco ancora il mio nuovo inquilino.",
+      "level": "C2",
+      "sourceId": "lodger",
+      "sourceIds": [
+        "lodger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alloggio",
+      "word": "alloggio",
+      "en": "alloggio",
+      "ru": [
+        "жилище",
+        "жильё",
+        "ночлег"
+      ],
+      "example": "A Londra gli alloggi sono incredibilmente cari.",
+      "level": "B2",
+      "sourceId": "lodging",
+      "sourceIds": [
+        "lodging"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mappatura",
+      "word": "mappatura",
+      "en": "mappatura",
+      "ru": [
+        "отображение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mapping",
+      "sourceIds": [
+        "mapping"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "monumento",
+      "word": "monumento",
+      "en": "monumento",
+      "ru": [
+        "памятник",
+        "монумент"
+      ],
+      "example": "C'è un monumento nel centro della città.",
+      "level": "C2",
+      "sourceId": "monument",
+      "sourceIds": [
+        "monument"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "monumentale",
+      "word": "monumentale",
+      "en": "monumentale",
+      "ru": [
+        "монументальный"
+      ],
+      "example": "Ho appena visitato il cimitero monumentale della città.",
+      "level": "C2",
+      "sourceId": "monumental",
+      "sourceIds": [
+        "monumental"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "motel",
+      "word": "motel",
+      "en": "motel",
+      "ru": [
+        "автопансионат",
+        "мотель"
+      ],
+      "example": "Io prenderò una camera in un motel.",
+      "level": "B2",
+      "sourceId": "motel",
+      "sourceIds": [
+        "motel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "motocicletta",
+      "word": "motocicletta",
+      "en": "motocicletta",
+      "ru": [
+        "мотоцикл"
+      ],
+      "example": "Mi piacciono i ciclomotori e le motociclette.",
+      "level": "B2",
+      "sourceId": "motorcycle",
+      "sourceIds": [
+        "motorcycle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "autostrada",
+      "word": "autostrada",
+      "en": "autostrada",
+      "ru": [
+        "автомагистраль",
+        "автобан",
+        "автострада"
+      ],
+      "example": "A mantenuto una velocità costante in autostrada.",
+      "level": "C2",
+      "sourceId": "motorway",
+      "sourceIds": [
+        "motorway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "museo",
+      "word": "museo",
+      "en": "museo",
+      "ru": [
+        "музей"
+      ],
+      "example": "A San Paolo ci sono diversi musei.",
+      "level": "A2",
+      "sourceId": "museum",
+      "sourceIds": [
+        "museum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nord",
+      "word": "nord",
+      "en": "nord",
+      "ru": [
+        "северный",
+        "север",
+        "к северу"
+      ],
+      "example": "\"Dove andrai domani?\" \"In Irlanda del Nord.\"",
+      "level": "A1",
+      "sourceId": "north",
+      "sourceIds": [
+        "north"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palazzo",
+      "word": "palazzo",
+      "en": "palazzo",
+      "ru": [
+        "дворец",
+        "чертог"
+      ],
+      "example": "C'è un palazzo in costruzione dietro l'angolo.",
+      "level": "B2",
+      "sourceId": "palace",
+      "sourceIds": [
+        "palace"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parcheggio",
+      "word": "parcheggio",
+      "en": "parcheggio",
+      "ru": [
+        "парковка",
+        "паркование",
+        "стоянка"
+      ],
+      "example": "Come procede la costruzione del nuovo parcheggio?",
+      "level": "B1",
+      "sourceId": "parking",
+      "sourceIds": [
+        "parking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passeggero",
+      "word": "passeggero",
+      "en": "passeggero",
+      "ru": [
+        "пассажир",
+        "пассажирка"
+      ],
+      "example": "Alcuni passeggeri si sono lamentati del servizio.",
+      "level": "B2",
+      "sourceId": "passenger",
+      "sourceIds": [
+        "passenger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pedonale",
+      "word": "pedonale",
+      "en": "pedonale",
+      "ru": [
+        "пешеход"
+      ],
+      "example": "Attorno al duomo c'è una zona pedonale.",
+      "level": "C2",
+      "sourceId": "pedestrian",
+      "sourceIds": [
+        "pedestrian"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pedonalizzazione",
+      "word": "pedonalizzazione",
+      "en": "pedonalizzazione",
+      "ru": [
+        "пешеходизация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "pedestrianization",
+      "sourceIds": [
+        "pedestrianization"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pilota",
+      "word": "pilota",
+      "en": "pilota",
+      "ru": [
+        "пилот",
+        "летчик"
+      ],
+      "example": "Che ci vuole ad essere un pilota?",
+      "level": "B1",
+      "sourceId": "pilot",
+      "sourceIds": [
+        "pilot"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aereo",
+      "word": "aereo",
+      "en": "aereo",
+      "ru": [
+        "самолёт"
+      ],
+      "example": "A Tom piace fare aerei di carta.",
+      "level": "B1",
+      "sourceId": "plane",
+      "sourceIds": [
+        "plane"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "binario",
+      "word": "binario",
+      "en": "binario",
+      "ru": [
+        "перрон",
+        "платформа",
+        "подиум"
+      ],
+      "example": "Alle undici e mezza dal binario uno.",
+      "level": "B1",
+      "sourceId": "platform",
+      "sourceIds": [
+        "platform"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "babordo",
+      "word": "babordo",
+      "en": "babordo",
+      "ru": [
+        "гавань",
+        "порт",
+        "левый борт"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "port",
+      "sourceIds": [
+        "port"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "facchino",
+      "word": "facchino",
+      "en": "facchino",
+      "ru": [
+        "грузчик",
+        "носильщик",
+        "портье"
+      ],
+      "example": "Lavoro come facchino per questa ditta di trasporti.",
+      "level": "C1",
+      "sourceId": "porter",
+      "sourceIds": [
+        "porter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ferrovia",
+      "word": "ferrovia",
+      "en": "ferrovia",
+      "ru": [
+        "железнодорожный путь",
+        "колея",
+        "железная дорога"
+      ],
+      "example": "Fu costruita una ferrovia in questa città.",
+      "level": "B2",
+      "sourceId": "railway",
+      "sourceIds": [
+        "railway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ferroviere",
+      "word": "ferroviere",
+      "en": "ferroviere",
+      "ru": [
+        "железнодорожник"
+      ],
+      "example": "Ha pienamente ragione il ferroviere.",
+      "level": "C2",
+      "sourceId": "railwayman",
+      "sourceIds": [
+        "railwayman"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reception",
+      "word": "reception",
+      "en": "reception",
+      "ru": [
+        "стойка регистрации",
+        "приёмная"
+      ],
+      "example": "C'erano bei fiori sul banco della reception.",
+      "level": "B2",
+      "sourceId": "reception",
+      "sourceIds": [
+        "reception"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "receptionist",
+      "word": "receptionist",
+      "en": "receptionist",
+      "ru": [
+        "администратор",
+        "портье",
+        "регистратор"
+      ],
+      "example": "Mia sorella è una receptionist.",
+      "level": "C2",
+      "sourceId": "receptionist",
+      "sourceIds": [
+        "receptionist"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prenotazione",
+      "word": "prenotazione",
+      "en": "prenotazione",
+      "ru": [
+        "бронирование",
+        "заказ"
+      ],
+      "example": "Abbiamo confermato le prenotazioni dell'albergo per telefono.",
+      "level": "B1",
+      "sourceId": "reservation",
+      "sourceIds": [
+        "reservation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "localita-turistica",
+      "word": "località turistica",
+      "en": "località turistica",
+      "ru": [
+        "здравница",
+        "курорт",
+        "убежище"
+      ],
+      "example": "Le Hawaii sono una località turistica popolare.",
+      "level": "A2",
+      "sourceId": "resort",
+      "sourceIds": [
+        "resort"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "strada",
+      "word": "strada",
+      "en": "strada",
+      "ru": [
+        "дорога",
+        "путь"
+      ],
+      "example": "A New York persi la mia strada.",
+      "level": "A1",
+      "sourceId": "road",
+      "sourceIds": [
+        "road"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "indiretto",
+      "word": "indiretto",
+      "en": "indiretto",
+      "ru": [
+        "окольный",
+        "кружный",
+        "непрямой"
+      ],
+      "example": "Deve fare l'esercizio usando lo stile indiretto.",
+      "level": "C2",
+      "sourceId": "roundabout",
+      "sourceIds": [
+        "roundabout"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "via",
+      "word": "via",
+      "en": "via",
+      "ru": [
+        "путь",
+        "курс",
+        "дорога"
+      ],
+      "example": "\"Com'era il film?\" \"Dieci euro buttati via.\"",
+      "level": "B1",
+      "sourceId": "route",
+      "sourceIds": [
+        "route"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "instradamento",
+      "word": "instradamento",
+      "en": "instradamento",
+      "ru": [
+        "маршрутизация"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "routing",
+      "sourceIds": [
+        "routing"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pista-di-atterraggio",
+      "word": "pista di atterraggio",
+      "en": "pista di atterraggio",
+      "ru": [
+        "взлетно-посадочная полоса"
+      ],
+      "example": "Sembra una pista di atterraggio.",
+      "level": "C2",
+      "sourceId": "runway",
+      "sourceIds": [
+        "runway",
+        "tarmac"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "safari",
+      "word": "safari",
+      "en": "safari",
+      "ru": [
+        "сафари"
+      ],
+      "example": "Durante il safari, abbiamo visto un elefante con una zanna rotta.",
+      "level": "B1",
+      "sourceId": "safari",
+      "sourceIds": [
+        "safari"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "posto",
+      "word": "posto",
+      "en": "posto",
+      "ru": [
+        "седалище",
+        "сиденье",
+        "место"
+      ],
+      "example": "Abbiamo prenotato dei posti per la recita.",
+      "level": "B1",
+      "sourceId": "seat",
+      "sourceIds": [
+        "seat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sicurezza",
+      "word": "sicurezza",
+      "en": "sicurezza",
+      "ru": [
+        "безопасность",
+        "надёжность",
+        "гарантия"
+      ],
+      "example": "Afferrai la sua piccola mano con sicurezza.",
+      "level": "A1",
+      "sourceId": "security",
+      "sourceIds": [
+        "security"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nave",
+      "word": "nave",
+      "en": "nave",
+      "ru": [
+        "корабль",
+        "судно",
+        "пароход"
+      ],
+      "example": "A me piace davvero viaggiare in nave.",
+      "level": "A2",
+      "sourceId": "ship",
+      "sourceIds": [
+        "ship"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spedizioniere",
+      "word": "spedizioniere",
+      "en": "spedizioniere",
+      "ru": [
+        "грузоотправитель",
+        "отправитель",
+        "товароотправитель"
+      ],
+      "example": "La mancanza di strutture postali moderne ha causato problemi a molti spedizionieri.",
+      "level": "C2",
+      "sourceId": "shipper",
+      "sourceIds": [
+        "shipper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spedizione",
+      "word": "spedizione",
+      "en": "spedizione",
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "example": "Era il prescelto per guidare la spedizione.",
+      "level": "A1",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "marciapiede",
+      "word": "marciapiede",
+      "en": "marciapiede",
+      "ru": [
+        "мостовая",
+        "тротуар"
+      ],
+      "example": "Ci sono dei funghi lungo i marciapiedi.",
+      "level": "C2",
+      "sourceId": "sidewalk",
+      "sourceIds": [
+        "sidewalk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "visita-turistica",
+      "word": "visita turistica",
+      "en": "visita turistica",
+      "ru": [
+        "осмотр достопримечательностей"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sightseeing",
+      "sourceIds": [
+        "sightseeing"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "meridionale",
+      "word": "meridionale",
+      "en": "meridionale",
+      "ru": [
+        "южный",
+        "юг",
+        "зюйд"
+      ],
+      "example": "L'Africa meridionale era in mano ai britannici.",
+      "level": "A1",
+      "sourceId": "south",
+      "sourceIds": [
+        "south"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "souvenir",
+      "word": "souvenir",
+      "en": "souvenir",
+      "ru": [
+        "сувенир"
+      ],
+      "example": "C'è un negozio di souvenir in albergo?",
+      "level": "C2",
+      "sourceId": "souvenir",
+      "sourceIds": [
+        "souvenir"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quadrato",
+      "word": "quadrato",
+      "en": "quadrato",
+      "ru": [
+        "квадратный",
+        "квадрат",
+        "прямоугольный"
+      ],
+      "example": "Chi nasce tondo non può morir quadrato.",
+      "level": "A2",
+      "sourceId": "square",
+      "sourceIds": [
+        "square"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stazione",
+      "word": "stazione",
+      "en": "stazione",
+      "ru": [
+        "станция",
+        "вокзал"
+      ],
+      "example": "Andò alla stazione dei treni con lei.",
+      "level": "A2",
+      "sourceId": "station",
+      "sourceIds": [
+        "station"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "immobile",
+      "word": "immobile",
+      "en": "immobile",
+      "ru": [
+        "неподвижный",
+        "стационарный"
+      ],
+      "example": "Chissà chi acquisterà l'immobile a luglio.",
+      "level": "C2",
+      "sourceId": "stationary",
+      "sourceIds": [
+        "stationary"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "capostazione",
+      "word": "capostazione",
+      "en": "capostazione",
+      "ru": [
+        "начальник станции"
+      ],
+      "example": "C'è una stazione ferroviaria in Giappone dove il capostazione è un gatto.",
+      "level": "C2",
+      "sourceId": "stationmaster",
+      "sourceIds": [
+        "stationmaster"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sobborgo",
+      "word": "sobborgo",
+      "en": "sobborgo",
+      "ru": [
+        "пригород",
+        "предместье",
+        "округ"
+      ],
+      "example": "Io vorrei abitare nei sobborghi di Kobe.",
+      "level": "C2",
+      "sourceId": "suburb",
+      "sourceIds": [
+        "suburb"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "metropolitana",
+      "word": "metropolitana",
+      "en": "metropolitana",
+      "ru": [
+        "метро",
+        "метрополитен",
+        "подземка"
+      ],
+      "example": "Abbiamo scelto un albergo vicino alla metropolitana.",
+      "level": "C2",
+      "sourceId": "subway",
+      "sourceIds": [
+        "subway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taxi",
+      "word": "taxi",
+      "en": "taxi",
+      "ru": [
+        "такси",
+        "таксомотор"
+      ],
+      "example": "A me servirebbe un taxi domani sera.",
+      "level": "C1",
+      "sourceId": "taxi",
+      "sourceIds": [
+        "taxi"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "terminal",
+      "word": "terminal",
+      "en": "terminal",
+      "ru": [
+        "терминал",
+        "аэровокзал",
+        "конечная станция"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "terminal",
+      "sourceIds": [
+        "terminal"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "orario",
+      "word": "orario",
+      "en": "orario",
+      "ru": [
+        "график",
+        "расписание"
+      ],
+      "example": "A quale fuso orario appartiene il paese?",
+      "level": "C2",
+      "sourceId": "timetable",
+      "sourceIds": [
+        "timetable"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "giro",
+      "word": "giro",
+      "en": "giro",
+      "ru": [
+        "путешествие",
+        "поездка",
+        "турне"
+      ],
+      "example": "A Muiriel piace prendermi in giro ultimamente.",
+      "level": "A2",
+      "sourceId": "tour",
+      "sourceIds": [
+        "tour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turismo",
+      "word": "turismo",
+      "en": "turismo",
+      "ru": [
+        "туризм"
+      ],
+      "example": "Abbiamo del turismo di massa in Francia.",
+      "level": "B1",
+      "sourceId": "tourism",
+      "sourceIds": [
+        "tourism"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "turistico",
+      "word": "turistico",
+      "en": "turistico",
+      "ru": [
+        "туристический"
+      ],
+      "example": "Abbiamo visitato le attrazioni turistiche di Yokohama.",
+      "level": "C2",
+      "sourceId": "touristic",
+      "sourceIds": [
+        "touristic"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "traffico",
+      "word": "traffico",
+      "en": "traffico",
+      "ru": [
+        "дорожное движение",
+        "транспортный поток"
+      ],
+      "example": "A Tom non piace guidare nel traffico.",
+      "level": "A2",
+      "sourceId": "traffic",
+      "sourceIds": [
+        "traffic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sentiero",
+      "word": "sentiero",
+      "en": "sentiero",
+      "ru": [
+        "след",
+        "дорожка",
+        "стёжка"
+      ],
+      "example": "La verità è una terra senza sentieri.",
+      "level": "B1",
+      "sourceId": "trail",
+      "sourceIds": [
+        "trail"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rimorchio",
+      "word": "rimorchio",
+      "en": "rimorchio",
+      "ru": [
+        "прицеп",
+        "трейлер"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trailer",
+      "sourceIds": [
+        "trailer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "treno",
+      "word": "treno",
+      "en": "treno",
+      "ru": [
+        "поезд",
+        "вереница",
+        "караван"
+      ],
+      "example": "\"Dannazione! Ho dimenticato l'ombrello sul treno.\" \"Sbadata!\"",
+      "level": "B1",
+      "sourceId": "train",
+      "sourceIds": [
+        "train"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tram",
+      "word": "tram",
+      "en": "tram",
+      "ru": [
+        "трамвай",
+        "вагонетка"
+      ],
+      "example": "Avrebbe fatto meglio ad andare in tram.",
+      "level": "C2",
+      "sourceId": "tram",
+      "sourceIds": [
+        "tram"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viaggiare",
+      "word": "viaggiare",
+      "en": "viaggiare",
+      "ru": [
+        "путешествовать"
+      ],
+      "example": "\"A me piace viaggiare.\" \"Anche a me.\"",
+      "level": "A1",
+      "sourceId": "travel",
+      "sourceIds": [
+        "travel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viaggiatore",
+      "word": "viaggiatore",
+      "en": "viaggiatore",
+      "ru": [
+        "путник",
+        "путница",
+        "путешественник"
+      ],
+      "example": "Ci sono viaggiatori del tempo su Internet?",
+      "level": "C1",
+      "sourceId": "traveller",
+      "sourceIds": [
+        "traveller"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viaggio",
+      "word": "viaggio",
+      "en": "viaggio",
+      "ru": [
+        "путешествие"
+      ],
+      "example": "A me piacciono i viaggi in treno.",
+      "level": "C1",
+      "sourceId": "travelling",
+      "sourceIds": [
+        "travelling"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viaggio",
+      "word": "viaggio",
+      "en": "viaggio",
+      "ru": [
+        "путешествие",
+        "поездка",
+        "спотыкание"
+      ],
+      "example": "A me piacciono i viaggi in treno.",
+      "level": "A2",
+      "sourceId": "trip",
+      "sourceIds": [
+        "trip"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camion",
+      "word": "camion",
+      "en": "camion",
+      "ru": [
+        "грузовик",
+        "грузовая машина",
+        "грузовой автомобиль"
+      ],
+      "example": "A momenti venivo investito da un camion.",
+      "level": "B1",
+      "sourceId": "truck",
+      "sourceIds": [
+        "truck"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tunnel",
+      "word": "tunnel",
+      "en": "tunnel",
+      "ru": [
+        "тоннель",
+        "туннель"
+      ],
+      "example": "C'è una luce in fondo al tunnel.",
+      "level": "B2",
+      "sourceId": "tunnel",
+      "sourceIds": [
+        "tunnel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "disfare-le-valigie",
+      "word": "disfare le valigie",
+      "en": "disfare le valigie",
+      "ru": [
+        "распаковывать",
+        "распаковать"
+      ],
+      "example": "Io dovrei finire di disfare le valigie.",
+      "level": "C2",
+      "sourceId": "unpack",
+      "sourceIds": [
+        "unpack"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vacanza",
+      "word": "vacanza",
+      "en": "vacanza",
+      "ru": [
+        "отпуск",
+        "каникулы",
+        "отгул"
+      ],
+      "example": "\"Dove andate in vacanza?\" \"In Arabia Saudita.\"",
+      "level": "A2",
+      "sourceId": "vacation",
+      "sourceIds": [
+        "vacation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "furgone",
+      "word": "furgone",
+      "en": "furgone",
+      "ru": [
+        "вэн",
+        "фура",
+        "фургон"
+      ],
+      "example": "Ha passato la notte nel suo furgone.",
+      "level": "A2",
+      "sourceId": "van",
+      "sourceIds": [
+        "van"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "veicolo",
+      "word": "veicolo",
+      "en": "veicolo",
+      "ru": [
+        "перевозочное средство",
+        "транспортное средство",
+        "средство передачи"
+      ],
+      "example": "I cani morirono dentro il veicolo incandescente.",
+      "level": "A2",
+      "sourceId": "vehicle",
+      "sourceIds": [
+        "vehicle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barca",
+      "word": "barca",
+      "en": "barca",
+      "ru": [
+        "судно",
+        "корабль"
+      ],
+      "example": "Abbiamo attraversato il lago con una barca.",
+      "level": "B2",
+      "sourceId": "vessel",
+      "sourceIds": [
+        "vessel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "visto",
+      "word": "visto",
+      "en": "visto",
+      "ru": [
+        "виза"
+      ],
+      "example": "\"Ho visto le fotografie\". - \"Quali fotografie?\"",
+      "level": "B1",
+      "sourceId": "visa",
+      "sourceIds": [
+        "visa"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "visitare",
+      "word": "visitare",
+      "en": "visitare",
+      "ru": [
+        "посещать"
+      ],
+      "example": "A me piacerebbe visitare l'Australia un giorno.",
+      "level": "A1",
+      "sourceId": "visit",
+      "sourceIds": [
+        "visit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "visitatore",
+      "word": "visitatore",
+      "en": "visitatore",
+      "ru": [
+        "гость",
+        "гостья",
+        "посетитель"
+      ],
+      "example": "Ai visitatori è stato detto di andarsene.",
+      "level": "B1",
+      "sourceId": "visitor",
+      "sourceIds": [
+        "visitor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viaggio",
+      "word": "viaggio",
+      "en": "viaggio",
+      "ru": [
+        "путешествие",
+        "вояж",
+        "плавание"
+      ],
+      "example": "A me piacciono i viaggi in treno.",
+      "level": "C2",
+      "sourceId": "voyage",
+      "sourceIds": [
+        "voyage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carro",
+      "word": "carro",
+      "en": "carro",
+      "ru": [
+        "повозка",
+        "вагон",
+        "фургон"
+      ],
+      "example": "Ho bisogno di chiamare un carro attrezzi.",
+      "level": "C1",
+      "sourceId": "wagon",
+      "sourceIds": [
+        "wagon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carrettiere",
+      "word": "carrettiere",
+      "en": "carrettiere",
+      "ru": [
+        "возница",
+        "извозчик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "wagoner",
+      "sourceIds": [
+        "wagoner"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "ovest",
+      "word": "ovest",
+      "en": "ovest",
+      "ru": [
+        "западный",
+        "запад",
+        "вест"
+      ],
+      "example": "Ad ovest della Francia c'è l'Oceano Atlantico.",
+      "level": "A1",
+      "sourceId": "west",
+      "sourceIds": [
+        "west"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "faro",
+      "word": "faro",
+      "en": "faro",
+      "ru": [
+        "маяк",
+        "сигнальный огонь"
+      ],
+      "example": "Vedemmo il barlume di un faro distante.",
+      "level": "B1",
+      "sourceId": "beacon",
+      "sourceIds": [
+        "beacon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "d-oltremare",
+      "word": "d'oltremare",
+      "en": "d'oltremare",
+      "ru": [
+        "за морем",
+        "заграничный"
+      ],
+      "example": "L'Algeria non ha territori d'oltremare.",
+      "level": "B1",
+      "sourceId": "overseas",
+      "sourceIds": [
+        "overseas"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "molo",
+      "word": "molo",
+      "en": "molo",
+      "ru": [
+        "пирс",
+        "причал"
+      ],
+      "example": "All'improvviso la nave ha abbandonato il molo.",
+      "level": "B1",
+      "sourceId": "pier",
+      "sourceIds": [
+        "pier"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "luna-park",
+      "word": "luna park",
+      "en": "luna park",
+      "ru": [
+        "ярмарка",
+        "парк аттракционов"
+      ],
+      "example": "Tom e Mary sono andati al luna park.",
+      "level": "B1",
+      "sourceId": "funfair",
+      "sourceIds": [
+        "funfair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vagare",
+      "word": "vagare",
+      "en": "vagare",
+      "ru": [
+        "бродить",
+        "странствовать"
+      ],
+      "example": "Ho paura di vagare nel buio.",
+      "level": "B1",
+      "sourceId": "wander",
+      "sourceIds": [
+        "wander"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abbandonato",
+      "word": "abbandonato",
+      "en": "abbandonato",
+      "ru": [
+        "оказавшийся в безвыходном положении"
+      ],
+      "example": "All'improvviso la nave ha abbandonato il molo.",
+      "level": "B1",
+      "sourceId": "stranded",
+      "sourceIds": [
+        "stranded"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escursionista",
+      "word": "escursionista",
+      "en": "escursionista",
+      "ru": [
+        "турист",
+        "пеший путешественник"
+      ],
+      "example": "Il terreno accidentato ha ostacolato l'avanzata degli escursionisti.",
+      "level": "B1",
+      "sourceId": "hiker",
+      "sourceIds": [
+        "hiker"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "in-volo",
+      "word": "in volo",
+      "en": "in volo",
+      "ru": [
+        "воздушный",
+        "находящийся в воздухе"
+      ],
+      "example": "L'elicottero rimaneva sospeso in volo sopra l'edificio.",
+      "level": "B1",
+      "sourceId": "airborne",
+      "sourceIds": [
+        "airborne"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caravan",
+      "word": "caravan",
+      "en": "caravan",
+      "ru": [
+        "дом на колесах",
+        "караван"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caravan",
+      "sourceIds": [
+        "caravan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "spedizione",
+      "word": "spedizione",
+      "en": "spedizione",
+      "ru": [
+        "экспедиция"
+      ],
+      "example": "Era il prescelto per guidare la spedizione.",
+      "level": "B1",
+      "sourceId": "expedition",
+      "sourceIds": [
+        "expedition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tenda",
+      "word": "tenda",
+      "en": "tenda",
+      "ru": [
+        "палатка"
+      ],
+      "example": "Abbiamo fissato la tenda accanto al fiume.",
+      "level": "B1",
+      "sourceId": "tent",
+      "sourceIds": [
+        "tent"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "strada-del-re",
+      "word": "strada del re",
+      "en": "strada del re",
+      "ru": [
+        "королевская дорога"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kingsroad",
+      "sourceIds": [
+        "kingsroad"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "accomodare",
+      "word": "accomodare",
+      "en": "accomodare",
+      "ru": [
+        "размещать",
+        "приспосабливать"
+      ],
+      "example": "Vi potete accomodare in salotto.",
+      "level": "B1",
+      "sourceId": "accommodate",
+      "sourceIds": [
+        "accommodate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vagare",
+      "word": "vagare",
+      "en": "vagare",
+      "ru": [
+        "бродить",
+        "скитаться"
+      ],
+      "example": "Ho paura di vagare nel buio.",
+      "level": "B1",
+      "sourceId": "roam",
+      "sourceIds": [
+        "roam"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-cavallo",
+      "word": "a cavallo",
+      "en": "a cavallo",
+      "ru": [
+        "верхом на лошади"
+      ],
+      "example": "A buon cavallo non occorre dir trotta.",
+      "level": "B1",
+      "sourceId": "horseback",
+      "sourceIds": [
+        "horseback"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "flotta",
+      "word": "flotta",
+      "en": "flotta",
+      "ru": [
+        "флот"
+      ],
+      "example": "L'ammiraglio ha diretto la flotta verso ponente.",
+      "level": "B1",
+      "sourceId": "fleet",
+      "sourceIds": [
+        "fleet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "marinaio",
+      "word": "marinaio",
+      "en": "marinaio",
+      "ru": [
+        "моряк"
+      ],
+      "example": "I marinai erano in balia del tempo.",
+      "level": "B1",
+      "sourceId": "sailor",
+      "sourceIds": [
+        "sailor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bagaglio",
+      "word": "bagaglio",
+      "en": "bagaglio",
+      "ru": [
+        "багаж"
+      ],
+      "example": "Che avete fatto con i miei bagagli?",
+      "level": "B1",
+      "sourceId": "baggage",
+      "sourceIds": [
+        "baggage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "partire",
+      "word": "partire",
+      "en": "partire",
+      "ru": [
+        "отправляться",
+        "уезжать"
+      ],
+      "example": "A partire da domani mi alzerò prima.",
+      "level": "B1",
+      "sourceId": "depart",
+      "sourceIds": [
+        "depart"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "in-grado-di-navigare",
+      "word": "in grado di navigare",
+      "en": "in grado di navigare",
+      "ru": [
+        "мореходный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "seaworthy",
+      "sourceIds": [
+        "seaworthy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ghirlanda-hawaiana",
+      "word": "ghirlanda hawaiana",
+      "en": "ghirlanda hawaiana",
+      "ru": [
+        "лей (гавайское ожерелье)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lei",
+      "sourceIds": [
+        "lei"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "aloha",
+      "word": "aloha",
+      "en": "aloha",
+      "ru": [
+        "алоха"
+      ],
+      "example": "Layla lavorava in uno strip-club chiamato \"Aloha\".",
+      "level": "B1",
+      "sourceId": "aloha",
+      "sourceIds": [
+        "aloha"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "preimbarco",
+      "word": "preimbarco",
+      "en": "preimbarco",
+      "ru": [
+        "предпосадка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pre-boarding",
+      "sourceIds": [
+        "pre-boarding"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "vie-aeree",
+      "word": "vie aeree",
+      "en": "vie aeree",
+      "ru": [
+        "дыхательные пути",
+        "авиалиния"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "airway",
+      "sourceIds": [
+        "airway"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "area-airside",
+      "word": "area airside",
+      "en": "area airside",
+      "ru": [
+        "контролируемая зона аэропорта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "airside",
+      "sourceIds": [
+        "airside"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "in-arrivo",
+      "word": "in arrivo",
+      "en": "in arrivo",
+      "ru": [
+        "входящий",
+        "прибывающий"
+      ],
+      "example": "Il giorno in cui arrivo è lunedì.",
+      "level": "B1",
+      "sourceId": "inbound",
+      "sourceIds": [
+        "inbound"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nastro-bagagli",
+      "word": "nastro bagagli",
+      "en": "nastro bagagli",
+      "ru": [
+        "карусель",
+        "лента выдачи багажа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "carousel",
+      "sourceIds": [
+        "carousel"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "area-landside",
+      "word": "area landside",
+      "en": "area landside",
+      "ru": [
+        "общедоступная зона аэропорта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "landside",
+      "sourceIds": [
+        "landside"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cartolina",
+      "word": "cartolina",
+      "en": "cartolina",
+      "ru": [
+        "открытка"
+      ],
+      "example": "Ci sono molte cartoline in questo negozio.",
+      "level": "B1",
+      "sourceId": "postcard",
+      "sourceIds": [
+        "postcard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pensione",
+      "word": "pensione",
+      "en": "pensione",
+      "ru": [
+        "гостевой дом",
+        "пансион"
+      ],
+      "example": "A Tom non piacerà essere in pensione.",
+      "level": "B1",
+      "sourceId": "guesthouse",
+      "sourceIds": [
+        "guesthouse"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escursionista",
+      "word": "escursionista",
+      "en": "escursionista",
+      "ru": [
+        "путешественник",
+        "пеший турист"
+      ],
+      "example": "Il terreno accidentato ha ostacolato l'avanzata degli escursionisti.",
+      "level": "B1",
+      "sourceId": "rambler",
+      "sourceIds": [
+        "rambler"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prenotare-due-volte",
+      "word": "prenotare due volte",
+      "en": "prenotare due volte",
+      "ru": [
+        "забронировать дважды"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "double-book",
+      "sourceIds": [
+        "double-book"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "passeggiata",
+      "word": "passeggiata",
+      "en": "passeggiata",
+      "ru": [
+        "прогулка",
+        "пешая экскурсия"
+      ],
+      "example": "A Mary piace fare passeggiate da sola.",
+      "level": "B1",
+      "sourceId": "walkabout",
+      "sourceIds": [
+        "walkabout"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fare-l-autostop",
+      "word": "fare l'autostop",
+      "en": "fare l'autostop",
+      "ru": [
+        "путешествовать автостопом"
+      ],
+      "example": "Quali sono i pro e i contro di fare l'autostop?",
+      "level": "B1",
+      "sourceId": "hitchhike",
+      "sourceIds": [
+        "hitchhike"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "via-d-acqua",
+      "word": "via d'acqua",
+      "en": "via d'acqua",
+      "ru": [
+        "водный путь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "waterway",
+      "sourceIds": [
+        "waterway"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "camminare",
+      "word": "camminare",
+      "en": "camminare",
+      "ru": [
+        "ходить в поход"
+      ],
+      "example": "A me piace camminare a piedi nudi.",
+      "level": "B1",
+      "sourceId": "hike",
+      "sourceIds": [
+        "hike"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "campeggiatore",
+      "word": "campeggiatore",
+      "en": "campeggiatore",
+      "ru": [
+        "турист",
+        "отдыхающий в палатке",
+        "дом на колесах"
+      ],
+      "example": "Mary non è una campeggiatrice felice, vero?",
+      "level": "B1",
+      "sourceId": "camper",
+      "sourceIds": [
+        "camper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "borsone",
+      "word": "borsone",
+      "en": "borsone",
+      "ru": [
+        "вещмешок"
+      ],
+      "example": "La prossima volta prepara così il borsone.",
+      "level": "B1",
+      "sourceId": "duffel",
+      "sourceIds": [
+        "duffel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "campeggio",
+      "word": "campeggio",
+      "en": "campeggio",
+      "ru": [
+        "кемпинг",
+        "место для лагеря"
+      ],
+      "example": "Andai in campeggio con la mia famiglia.",
+      "level": "B1",
+      "sourceId": "campsite",
+      "sourceIds": [
+        "campsite"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yacht",
+      "word": "yacht",
+      "en": "yacht",
+      "ru": [
+        "яхта"
+      ],
+      "example": "Ci ha concesso l'utilizzo del suo yacht.",
+      "level": "B1",
+      "sourceId": "yacht",
+      "sourceIds": [
+        "yacht"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prendere-il-sole",
+      "word": "prendere il sole",
+      "en": "prendere il sole",
+      "ru": [
+        "загорать"
+      ],
+      "example": "Vieni a prendere il sole con me.",
+      "level": "B1",
+      "sourceId": "sunbathe",
+      "sourceIds": [
+        "sunbathe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cambiare-il-percorso",
+      "word": "cambiare il percorso",
+      "en": "cambiare il percorso",
+      "ru": [
+        "изменять маршрут"
+      ],
+      "example": "È necessario cambiare treno lungo il percorso?",
+      "level": "B1",
+      "sourceId": "reroute",
+      "sourceIds": [
+        "reroute"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mare",
+      "word": "mare",
+      "en": "mare",
+      "ru": [
+        "морское побережье"
+      ],
+      "example": "\"Dove andrai fra due settimane?\" \"Al mare.\"",
+      "level": "B1",
+      "sourceId": "seaside",
+      "sourceIds": [
+        "seaside"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hostess",
+      "word": "hostess",
+      "en": "hostess",
+      "ru": [
+        "стюардесса"
+      ],
+      "example": "Lui è sposato con una hostess.",
+      "level": "B1",
+      "sourceId": "stewardess",
+      "sourceIds": [
+        "stewardess"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spazio-per-le-gambe",
+      "word": "spazio per le gambe",
+      "en": "spazio per le gambe",
+      "ru": [
+        "место для ног"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "legroom",
+      "sourceIds": [
+        "legroom"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "interstatale",
+      "word": "interstatale",
+      "en": "interstatale",
+      "ru": [
+        "междуштатный",
+        "межгосударственный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "interstate",
+      "sourceIds": [
+        "interstate"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "fuori-bordo",
+      "word": "fuori bordo",
+      "en": "fuori bordo",
+      "ru": [
+        "за борт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "overboard",
+      "sourceIds": [
+        "overboard"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "camper",
+      "word": "camper",
+      "en": "camper",
+      "ru": [
+        "дом на колесах"
+      ],
+      "example": "Mi stavo chiedendo dove vi avesse portate il vostro piccolo camper.",
+      "level": "B1",
+      "sourceId": "rv",
+      "sourceIds": [
+        "rv"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-lunga-distanza",
+      "word": "a lunga distanza",
+      "en": "a lunga distanza",
+      "ru": [
+        "междугородний",
+        "на дальние дистанции"
+      ],
+      "example": "I gabbiani riescono a volare per lunghe distanze.",
+      "level": "B1",
+      "sourceId": "long-distance",
+      "sourceIds": [
+        "long-distance"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deviazione",
+      "word": "deviazione",
+      "en": "deviazione",
+      "ru": [
+        "объезд"
+      ],
+      "example": "La città di Parigi merita una deviazione.",
+      "level": "B1",
+      "sourceId": "detour",
+      "sourceIds": [
+        "detour"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "orientarsi",
+      "word": "orientarsi",
+      "en": "orientarsi",
+      "ru": [
+        "ориентироваться",
+        "управлять"
+      ],
+      "example": "I bambini sono rapidi ad orientarsi alle nuove circostanze.",
+      "level": "B1",
+      "sourceId": "navigate",
+      "sourceIds": [
+        "navigate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trekking",
+      "word": "trekking",
+      "en": "trekking",
+      "ru": [
+        "поход",
+        "путешествие"
+      ],
+      "example": "A Tom piace fare trekking nei boschi.",
+      "level": "B1",
+      "sourceId": "trek",
+      "sourceIds": [
+        "trek"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mayday",
+      "word": "mayday",
+      "en": "mayday",
+      "ru": [
+        "сигнал бедствия"
+      ],
+      "example": "Mayday, mayday!",
+      "level": "B1",
+      "sourceId": "mayday",
+      "sourceIds": [
+        "mayday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "portiere",
+      "word": "portiere",
+      "en": "portiere",
+      "ru": [
+        "консьерж"
+      ],
+      "example": "Tom ha chiuso la portiera della macchina.",
+      "level": "B1",
+      "sourceId": "concierge",
+      "sourceIds": [
+        "concierge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vagabondare",
+      "word": "vagabondare",
+      "en": "vagabondare",
+      "ru": [
+        "бродить",
+        "прогуливаться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ramble",
+      "sourceIds": [
+        "ramble"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "bassa-stagione",
+      "word": "bassa stagione",
+      "en": "bassa stagione",
+      "ru": [
+        "не сезон",
+        "межсезонье"
+      ],
+      "example": "Gli alberghi sono più economici in bassa stagione.",
+      "level": "B1",
+      "sourceId": "off-season",
+      "sourceIds": [
+        "off-season"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fattorino-d-albergo",
+      "word": "fattorino d'albergo",
+      "en": "fattorino d'albergo",
+      "ru": [
+        "носильщик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bellhop",
+      "sourceIds": [
+        "bellhop"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "acclimatarsi",
+      "word": "acclimatarsi",
+      "en": "acclimatarsi",
+      "ru": [
+        "акклиматизироваться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "acclimatise",
+      "sourceIds": [
+        "acclimatise"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "scompartimento",
+      "word": "scompartimento",
+      "en": "scompartimento",
+      "ru": [
+        "отделение",
+        "купе"
+      ],
+      "example": "Chiesi un posto nello scompartimento per fumatori.",
+      "level": "B1",
+      "sourceId": "compartment",
+      "sourceIds": [
+        "compartment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tutto-pagato",
+      "word": "tutto pagato",
+      "en": "tutto pagato",
+      "ru": [
+        "все включено"
+      ],
+      "example": "Per quanto ne sappia sono stati tutti pagati.",
+      "level": "B1",
+      "sourceId": "all-expenses-paid",
+      "sourceIds": [
+        "all-expenses-paid"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-bordo",
+      "word": "a bordo",
+      "en": "a bordo",
+      "ru": [
+        "на борту"
+      ],
+      "example": "A lei piacque la vita a bordo.",
+      "level": "B1",
+      "sourceId": "aboard",
+      "sourceIds": [
+        "aboard"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caraibico",
+      "word": "caraibico",
+      "en": "caraibico",
+      "ru": [
+        "карибский"
+      ],
+      "example": "Il socialismo cubano non è un paradiso caraibico.",
+      "level": "B1",
+      "sourceId": "caribbean",
+      "sourceIds": [
+        "caribbean"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parcheggiatore",
+      "word": "parcheggiatore",
+      "en": "parcheggiatore",
+      "ru": [
+        "парковщик",
+        "камердинер"
+      ],
+      "example": "Una volta eri un parcheggiatore abusivo.",
+      "level": "B1",
+      "sourceId": "valet",
+      "sourceIds": [
+        "valet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "imbarcarsi",
+      "word": "imbarcarsi",
+      "en": "imbarcarsi",
+      "ru": [
+        "садиться на корабль",
+        "начинать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "embark",
+      "sourceIds": [
+        "embark"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "viaggiatore",
+      "word": "viaggiatore",
+      "en": "viaggiatore",
+      "ru": [
+        "путешественник"
+      ],
+      "example": "Ci sono viaggiatori del tempo su Internet?",
+      "level": "B1",
+      "sourceId": "traveler",
+      "sourceIds": [
+        "traveler"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

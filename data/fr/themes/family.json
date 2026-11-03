@@ -1,0 +1,2129 @@
+{
+  "id": "family",
+  "title": "Семья",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "adopter",
+      "word": "adopter",
+      "en": "adopter",
+      "sourceId": "adopt",
+      "sourceIds": [
+        "adopt"
+      ],
+      "ru": [
+        "усыновить",
+        "усыновлять",
+        "удочерить"
+      ],
+      "gender": null,
+      "example": "Ils ont décidé d'adopter un enfant.",
+      "level": "B2",
+      "pos": "v"
+    },
+    {
+      "id": "adoption",
+      "word": "adoption",
+      "en": "adoption",
+      "sourceId": "adoption",
+      "sourceIds": [
+        "adoption"
+      ],
+      "ru": [
+        "усыновление",
+        "адопция",
+        "удочерение"
+      ],
+      "gender": "f",
+      "example": "L'adoption d'un enfant est une démarche longue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "age-adulte",
+      "word": "âge adulte",
+      "en": "âge adulte",
+      "sourceId": "adulthood",
+      "sourceIds": [
+        "adulthood"
+      ],
+      "ru": [
+        "взрослая жизнь"
+      ],
+      "gender": "m",
+      "example": "Il a atteint l'âge adulte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ancetre",
+      "word": "ancêtre",
+      "en": "ancêtre",
+      "sourceId": "ancestor",
+      "sourceIds": [
+        "ancestor"
+      ],
+      "ru": [
+        "пращур",
+        "праотец",
+        "прародитель"
+      ],
+      "gender": "m",
+      "example": "Il est fier de ses ancêtres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "anniversaire",
+      "word": "anniversaire",
+      "en": "anniversaire",
+      "sourceId": "anniversary",
+      "sourceIds": [
+        "anniversary"
+      ],
+      "ru": [
+        "годовщина",
+        "юбилей"
+      ],
+      "gender": "m",
+      "example": "Nous fêtons notre dixième anniversaire de mariage aujourd'hui.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tante",
+      "word": "tante",
+      "en": "tante",
+      "sourceId": "aunt",
+      "sourceIds": [
+        "aunt"
+      ],
+      "ru": [
+        "тётя",
+        "тётка",
+        "тётушка"
+      ],
+      "gender": "f",
+      "example": "Ma tante habite à Paris.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "bebe",
+      "word": "bébé",
+      "en": "bébé",
+      "sourceId": "baby",
+      "sourceIds": [
+        "baby"
+      ],
+      "ru": [
+        "ребёнок",
+        "младенец",
+        "беби"
+      ],
+      "gender": "m",
+      "example": "Le bébé dort paisiblement dans son berceau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "naissance",
+      "word": "naissance",
+      "en": "naissance",
+      "sourceId": "birth",
+      "sourceIds": [
+        "birth"
+      ],
+      "ru": [
+        "роды",
+        "рождение"
+      ],
+      "gender": "f",
+      "example": "La naissance de leur enfant a changé leur vie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ne",
+      "word": "né",
+      "en": "né",
+      "sourceId": "born",
+      "sourceIds": [
+        "born"
+      ],
+      "ru": [
+        "урождённый",
+        "родившийся",
+        "рождённый"
+      ],
+      "gender": null,
+      "example": "Il est né à Paris.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "rompre",
+      "word": "rompre",
+      "en": "rompre",
+      "sourceId": "breaking-up",
+      "sourceIds": [
+        "breaking-up"
+      ],
+      "ru": [
+        "расставаться"
+      ],
+      "gender": null,
+      "example": "Ils ont décidé de rompre après trois ans de relation.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mariee",
+      "word": "mariée",
+      "en": "mariée",
+      "sourceId": "bride",
+      "sourceIds": [
+        "bride"
+      ],
+      "ru": [
+        "невеста",
+        "молодая",
+        "новобрачная"
+      ],
+      "gender": "f",
+      "example": "La mariée est magnifique dans sa robe blanche.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "frere",
+      "word": "frère",
+      "en": "frère",
+      "sourceId": "brother",
+      "sourceIds": [
+        "brother"
+      ],
+      "ru": [
+        "брат",
+        "братец",
+        "братан"
+      ],
+      "gender": "m",
+      "example": "Il a un frère aîné.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "fraternite",
+      "word": "fraternité",
+      "en": "fraternité",
+      "sourceId": "brotherhood",
+      "sourceIds": [
+        "brotherhood"
+      ],
+      "ru": [
+        "братство"
+      ],
+      "gender": "f",
+      "example": "La fraternité est une valeur fondamentale de la République.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "fraternel",
+      "word": "fraternel",
+      "en": "fraternel",
+      "sourceId": "brotherly",
+      "sourceIds": [
+        "brotherly"
+      ],
+      "ru": [
+        "братский"
+      ],
+      "gender": null,
+      "example": "Ils ont un lien fraternel très fort.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "enfant",
+      "word": "enfant",
+      "en": "enfant",
+      "sourceId": "child",
+      "sourceIds": [
+        "child"
+      ],
+      "ru": [
+        "ребёнок",
+        "дитя",
+        "чадо"
+      ],
+      "gender": "m",
+      "example": "L'enfant joue dans le jardin.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "enfance",
+      "word": "enfance",
+      "en": "enfance",
+      "sourceId": "childhood",
+      "sourceIds": [
+        "childhood"
+      ],
+      "ru": [
+        "детство"
+      ],
+      "gender": "f",
+      "example": "J'ai passé mon enfance à la campagne.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "couple",
+      "word": "couple",
+      "en": "couple",
+      "sourceId": "couple",
+      "sourceIds": [
+        "couple"
+      ],
+      "ru": [
+        "пара",
+        "двое",
+        "чета"
+      ],
+      "gender": "m",
+      "example": "Ils forment un couple heureux.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "cousin",
+      "word": "cousin",
+      "en": "cousin",
+      "sourceId": "cousin",
+      "sourceIds": [
+        "cousin"
+      ],
+      "ru": [
+        "двоюродная сестра",
+        "двоюродный брат",
+        "кузен"
+      ],
+      "gender": "m",
+      "example": "Mon cousin habite à Paris.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "papa",
+      "word": "papa",
+      "en": "papa",
+      "sourceId": "dad",
+      "sourceIds": [
+        "dad"
+      ],
+      "ru": [
+        "папа",
+        "батюшка",
+        "батя"
+      ],
+      "gender": "m",
+      "example": "Mon papa travaille dans un bureau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "fille",
+      "word": "fille",
+      "en": "fille",
+      "sourceId": "daughter",
+      "sourceIds": [
+        "daughter"
+      ],
+      "ru": [
+        "дочь",
+        "дщерь",
+        "дочка"
+      ],
+      "gender": "f",
+      "example": "Elle a une fille de cinq ans.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "filial",
+      "word": "filial",
+      "en": "filial",
+      "sourceId": "daughterly",
+      "sourceIds": [
+        "daughterly"
+      ],
+      "ru": [
+        "дочерний",
+        "дочеринский"
+      ],
+      "gender": null,
+      "example": "Elle lui voue un amour filial.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "divorce",
+      "word": "divorce",
+      "en": "divorce",
+      "sourceId": "divorce",
+      "sourceIds": [
+        "divorce"
+      ],
+      "ru": [
+        "развод",
+        "расторжение брака",
+        "отделение"
+      ],
+      "gender": "m",
+      "example": "Leur divorce a été prononcé le mois dernier.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "divorce-divorced",
+      "word": "divorcé",
+      "en": "divorcé",
+      "sourceId": "divorced",
+      "sourceIds": [
+        "divorced"
+      ],
+      "ru": [
+        "разведённый"
+      ],
+      "gender": null,
+      "example": "Il est divorcé depuis deux ans.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "divorce-divorcee",
+      "word": "divorcé",
+      "en": "divorcé",
+      "sourceId": "divorcee",
+      "sourceIds": [
+        "divorcee"
+      ],
+      "ru": [
+        "разведённый",
+        "разведённая"
+      ],
+      "gender": "m",
+      "example": "Il est divorcé depuis deux ans.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "famille",
+      "word": "famille",
+      "en": "famille",
+      "sourceId": "family",
+      "sourceIds": [
+        "family"
+      ],
+      "ru": [
+        "семья",
+        "семейный",
+        "семейство"
+      ],
+      "gender": "f",
+      "example": "Ma famille habite en ville.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "pere",
+      "word": "père",
+      "en": "père",
+      "sourceId": "father",
+      "sourceIds": [
+        "father"
+      ],
+      "ru": [
+        "отец"
+      ],
+      "gender": "m",
+      "example": "Mon père travaille dans un bureau.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "paternel",
+      "word": "paternel",
+      "en": "paternel",
+      "sourceId": "fatherly",
+      "sourceIds": [
+        "fatherly"
+      ],
+      "ru": [
+        "отеческий",
+        "отцовский"
+      ],
+      "gender": null,
+      "example": "Il m'a donné un conseil paternel.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "generation",
+      "word": "génération",
+      "en": "génération",
+      "sourceId": "generation",
+      "sourceIds": [
+        "generation"
+      ],
+      "ru": [
+        "поколение",
+        "генерация"
+      ],
+      "gender": "f",
+      "example": "Cette nouvelle génération est très connectée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "generationnel",
+      "word": "générationnel",
+      "en": "générationnel",
+      "sourceId": "generational",
+      "sourceIds": [
+        "generational"
+      ],
+      "ru": [
+        "поколенческий"
+      ],
+      "gender": null,
+      "example": "Il existe un fossé générationnel entre les parents et leurs enfants.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "petit-enfant",
+      "word": "petit-enfant",
+      "en": "petit-enfant",
+      "sourceId": "grandchild",
+      "sourceIds": [
+        "grandchild"
+      ],
+      "ru": [
+        "внук",
+        "внучка"
+      ],
+      "gender": "m",
+      "example": "Il adore jouer avec son petit-enfant.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "petite-fille",
+      "word": "petite-fille",
+      "en": "petite-fille",
+      "sourceId": "granddaughter",
+      "sourceIds": [
+        "granddaughter"
+      ],
+      "ru": [
+        "внучка"
+      ],
+      "gender": "f",
+      "example": "Ma petite-fille adore lire des histoires.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "grand-pere",
+      "word": "grand-père",
+      "en": "grand-père",
+      "sourceId": "grandfather",
+      "sourceIds": [
+        "grandfather"
+      ],
+      "ru": [
+        "дед",
+        "дедушка",
+        "дедуля"
+      ],
+      "gender": "m",
+      "example": "Mon grand-père aime jardiner le dimanche.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "grand-mere",
+      "word": "grand-mère",
+      "en": "grand-mère",
+      "sourceId": "grandma",
+      "sourceIds": [
+        "grandma"
+      ],
+      "ru": [
+        "бабушка",
+        "баба",
+        "бабуля"
+      ],
+      "gender": "f",
+      "example": "Ma grand-mère habite à la campagne.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "grand-mere",
+      "word": "grand-mère",
+      "en": "grand-mère",
+      "sourceId": "grandmother",
+      "sourceIds": [
+        "grandmother"
+      ],
+      "ru": [
+        "бабушка",
+        "баба",
+        "бабка"
+      ],
+      "gender": "f",
+      "example": "Ma grand-mère habite à la campagne.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "grand-pere",
+      "word": "grand-père",
+      "en": "grand-père",
+      "sourceId": "grandpa",
+      "sourceIds": [
+        "grandpa"
+      ],
+      "ru": [
+        "дедушка",
+        "дедуля"
+      ],
+      "gender": "m",
+      "example": "Mon grand-père aime jardiner le dimanche.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "grand-parent",
+      "word": "grand-parent",
+      "en": "grand-parent",
+      "sourceId": "grandparent",
+      "sourceIds": [
+        "grandparent"
+      ],
+      "ru": [
+        "бабушка",
+        "дедушка",
+        "баба"
+      ],
+      "gender": "m",
+      "example": "Mes grands-parents habitent à la campagne.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "petit-fils",
+      "word": "petit-fils",
+      "en": "petit-fils",
+      "sourceId": "grandson",
+      "sourceIds": [
+        "grandson"
+      ],
+      "ru": [
+        "внук",
+        "внучок"
+      ],
+      "gender": "m",
+      "example": "Il est le petit-fils de mon voisin.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "maison",
+      "word": "maison",
+      "en": "maison",
+      "sourceId": "home",
+      "sourceIds": [
+        "home"
+      ],
+      "ru": [
+        "дом",
+        "домой",
+        "дома"
+      ],
+      "gender": null,
+      "example": "Rentrons à la maison maintenant.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "menage",
+      "word": "ménage",
+      "en": "ménage",
+      "sourceId": "household",
+      "sourceIds": [
+        "household"
+      ],
+      "ru": [
+        "домашнее хозяйство",
+        "домашний",
+        "домохозяйство"
+      ],
+      "gender": "m",
+      "example": "Ils gèrent leur ménage avec soin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mari",
+      "word": "mari",
+      "en": "mari",
+      "sourceId": "husband",
+      "sourceIds": [
+        "husband"
+      ],
+      "ru": [
+        "муж",
+        "супруг"
+      ],
+      "gender": "m",
+      "example": "Mon mari travaille dans une banque.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "gamin",
+      "word": "gamin",
+      "en": "gamin",
+      "sourceId": "kid",
+      "sourceIds": [
+        "kid"
+      ],
+      "ru": [
+        "девчонка",
+        "мальчишка",
+        "пацан"
+      ],
+      "gender": "m",
+      "example": "Ce gamin joue dans le parc.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "mariage",
+      "word": "mariage",
+      "en": "mariage",
+      "sourceId": "marriage",
+      "sourceIds": [
+        "marriage",
+        "wedding"
+      ],
+      "ru": [
+        "свадьба",
+        "бракосочетание",
+        "венчание"
+      ],
+      "gender": "m",
+      "example": "Leur mariage a eu lieu en été.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "marie",
+      "word": "marié",
+      "en": "marié",
+      "sourceId": "married",
+      "sourceIds": [
+        "married"
+      ],
+      "ru": [
+        "женатый",
+        "замужем",
+        "замужняя"
+      ],
+      "gender": null,
+      "example": "Il est marié depuis dix ans.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "mere",
+      "word": "mère",
+      "en": "mère",
+      "sourceId": "mother",
+      "sourceIds": [
+        "mother"
+      ],
+      "ru": [
+        "мать",
+        "мама",
+        "матушка"
+      ],
+      "gender": "f",
+      "example": "Ma mère est très gentille.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "maternel",
+      "word": "maternel",
+      "en": "maternel",
+      "sourceId": "motherly",
+      "sourceIds": [
+        "motherly",
+        "maternal"
+      ],
+      "ru": [
+        "материнский"
+      ],
+      "gender": null,
+      "example": "Elle a un instinct maternel très fort.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "maman",
+      "word": "maman",
+      "en": "maman",
+      "sourceId": "mum",
+      "sourceIds": [
+        "mum"
+      ],
+      "ru": [
+        "мама",
+        "мам",
+        "ма"
+      ],
+      "gender": "f",
+      "example": "Ma maman est très gentille.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "neveu",
+      "word": "neveu",
+      "en": "neveu",
+      "sourceId": "nephew",
+      "sourceIds": [
+        "nephew"
+      ],
+      "ru": [
+        "племянник",
+        "племяш"
+      ],
+      "gender": "m",
+      "example": "Mon neveu adore jouer au football.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "niece",
+      "word": "nièce",
+      "en": "nièce",
+      "sourceId": "niece",
+      "sourceIds": [
+        "niece"
+      ],
+      "ru": [
+        "племянница"
+      ],
+      "gender": "f",
+      "example": "Ma nièce adore jouer au piano.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "orphelin",
+      "word": "orphelin",
+      "en": "orphelin",
+      "sourceId": "orphan",
+      "sourceIds": [
+        "orphan"
+      ],
+      "ru": [
+        "сирота",
+        "сиротка"
+      ],
+      "gender": "m",
+      "example": "Cet enfant est devenu orphelin après l'accident.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "paire",
+      "word": "paire",
+      "en": "paire",
+      "sourceId": "pair",
+      "sourceIds": [
+        "pair"
+      ],
+      "ru": [
+        "пара",
+        "чета"
+      ],
+      "gender": "f",
+      "example": "J'ai acheté une nouvelle paire de chaussures.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "parent",
+      "word": "parent",
+      "en": "parent",
+      "sourceId": "parent",
+      "sourceIds": [
+        "parent"
+      ],
+      "ru": [
+        "родитель"
+      ],
+      "gender": "m",
+      "example": "Mes parents habitent à Paris.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "partenaire",
+      "word": "partenaire",
+      "en": "partenaire",
+      "sourceId": "partner",
+      "sourceIds": [
+        "partner"
+      ],
+      "ru": [
+        "партнёр",
+        "партнёрша",
+        "компаньон"
+      ],
+      "gender": "m",
+      "example": "Il travaille avec son partenaire sur ce projet.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "enceinte",
+      "word": "enceinte",
+      "en": "enceinte",
+      "sourceId": "pregnant",
+      "sourceIds": [
+        "pregnant"
+      ],
+      "ru": [
+        "беременная"
+      ],
+      "gender": null,
+      "example": "Je suis de nouveau enceinte.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "relation",
+      "word": "relation",
+      "en": "relation",
+      "sourceId": "relationship",
+      "sourceIds": [
+        "relationship"
+      ],
+      "ru": [
+        "связь",
+        "отношение",
+        "взаимоотношение"
+      ],
+      "gender": "f",
+      "example": "Ils ont une relation très solide.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "relatif",
+      "word": "relatif",
+      "en": "relatif",
+      "sourceId": "relative",
+      "sourceIds": [
+        "relative"
+      ],
+      "ru": [
+        "родственник"
+      ],
+      "gender": null,
+      "example": "C'est une question relative à ce projet.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "s-ur",
+      "word": "sœur",
+      "en": "sœur",
+      "sourceId": "sister",
+      "sourceIds": [
+        "sister"
+      ],
+      "ru": [
+        "сестра",
+        "медсестра"
+      ],
+      "gender": "f",
+      "example": "Ma sœur habite à Paris.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "fraternel",
+      "word": "fraternel",
+      "en": "fraternel",
+      "sourceId": "sisterly",
+      "sourceIds": [
+        "sisterly"
+      ],
+      "ru": [
+        "сестринский",
+        "по-сестрински"
+      ],
+      "gender": null,
+      "example": "Elle lui a donné un conseil fraternel.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "fils",
+      "word": "fils",
+      "en": "fils",
+      "sourceId": "son",
+      "sourceIds": [
+        "son"
+      ],
+      "ru": [
+        "сын",
+        "сынок"
+      ],
+      "gender": "m",
+      "example": "Il est très fier de son fils.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "filial",
+      "word": "filial",
+      "en": "filial",
+      "sourceId": "sonly",
+      "sourceIds": [
+        "sonly"
+      ],
+      "ru": [
+        "сыновий",
+        "сыновний"
+      ],
+      "gender": null,
+      "example": "Il a un devoir filial envers son père.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "jumeau",
+      "word": "jumeau",
+      "en": "jumeau",
+      "sourceId": "twin",
+      "sourceIds": [
+        "twin"
+      ],
+      "ru": [
+        "близнец",
+        "близнята",
+        "близняшка"
+      ],
+      "gender": "m",
+      "example": "Ils sont jumeaux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "oncle",
+      "word": "oncle",
+      "en": "oncle",
+      "sourceId": "uncle",
+      "sourceIds": [
+        "uncle"
+      ],
+      "ru": [
+        "дядя",
+        "дядька",
+        "дядюшка"
+      ],
+      "gender": "m",
+      "example": "Mon oncle habite à Paris.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "se-marier",
+      "word": "se marier",
+      "en": "se marier",
+      "sourceId": "wed",
+      "sourceIds": [
+        "wed"
+      ],
+      "ru": [
+        "жениться",
+        "пожениться",
+        "брать в жёны"
+      ],
+      "gender": null,
+      "example": "Ils vont se marier en juin.",
+      "level": "A2",
+      "pos": "v"
+    },
+    {
+      "id": "veuve",
+      "word": "veuve",
+      "en": "veuve",
+      "sourceId": "widow",
+      "sourceIds": [
+        "widow"
+      ],
+      "ru": [
+        "вдова",
+        "вдовица",
+        "соломенная вдова"
+      ],
+      "gender": "f",
+      "example": "Elle est devenue veuve très jeune.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "veuf",
+      "word": "veuf",
+      "en": "veuf",
+      "sourceId": "widower",
+      "sourceIds": [
+        "widower"
+      ],
+      "ru": [
+        "вдовец"
+      ],
+      "gender": "m",
+      "example": "Depuis le décès de sa femme, il est veuf.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "femme",
+      "word": "femme",
+      "en": "femme",
+      "sourceId": "wife",
+      "sourceIds": [
+        "wife"
+      ],
+      "ru": [
+        "жена",
+        "жёнка",
+        "супруга"
+      ],
+      "gender": "f",
+      "example": "Ma femme travaille dans un hôpital.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "epouser",
+      "word": "épouser",
+      "en": "épouser",
+      "sourceId": "marry",
+      "sourceIds": [
+        "marry"
+      ],
+      "ru": [
+        "жениться",
+        "выходить замуж"
+      ],
+      "gender": null,
+      "example": "Ce qu'il doit faire, c'est épouser une princesse.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mariage",
+      "word": "mariage",
+      "en": "mariage",
+      "sourceId": "matrimony",
+      "sourceIds": [
+        "matrimony"
+      ],
+      "ru": [
+        "брак",
+        "супружество"
+      ],
+      "gender": "m",
+      "example": "Ils sont unis par les liens sacrés du mariage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "beau-pere",
+      "word": "beau-père",
+      "en": "beau-père",
+      "sourceId": "stepfather",
+      "sourceIds": [
+        "stepfather"
+      ],
+      "ru": [
+        "отчим"
+      ],
+      "gender": "m",
+      "example": "Mon beau-père était en prison.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "apparente",
+      "word": "apparenté",
+      "en": "apparenté",
+      "sourceId": "kindred",
+      "sourceIds": [
+        "kindred"
+      ],
+      "ru": [
+        "родственный"
+      ],
+      "gender": null,
+      "example": "C'est une âme apparentée.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "petite-amie",
+      "word": "petite amie",
+      "en": "petite amie",
+      "sourceId": "girlfriend",
+      "sourceIds": [
+        "girlfriend"
+      ],
+      "ru": [
+        "девушка",
+        "подруга"
+      ],
+      "gender": "f",
+      "example": "Je fuyais ma petite amie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ex-petite-amie",
+      "word": "ex-petite amie",
+      "en": "ex-petite amie",
+      "sourceId": "ex-girlfriend",
+      "sourceIds": [
+        "ex-girlfriend"
+      ],
+      "ru": [
+        "бывшая девушка"
+      ],
+      "gender": "m/f",
+      "example": "Qu'en est-il en tant qu'ex-petite amie ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ex",
+      "word": "ex",
+      "en": "ex",
+      "sourceId": "ex",
+      "sourceIds": [
+        "ex"
+      ],
+      "ru": [
+        "бывший",
+        "бывшая"
+      ],
+      "gender": "m/f",
+      "example": "Mon ex m'a appelé hier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "papa",
+      "word": "papa",
+      "en": "papa",
+      "sourceId": "daddy",
+      "sourceIds": [
+        "daddy"
+      ],
+      "ru": [
+        "папочка"
+      ],
+      "gender": "f",
+      "example": "D'accord, papa.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cheri",
+      "word": "chéri",
+      "en": "chéri",
+      "sourceId": "sweetheart",
+      "sourceIds": [
+        "sweetheart"
+      ],
+      "ru": [
+        "возлюбленный",
+        "милый"
+      ],
+      "gender": null,
+      "example": "C'est ça, chéri.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "petit-ami",
+      "word": "petit ami",
+      "en": "petit ami",
+      "sourceId": "boyfriend",
+      "sourceIds": [
+        "boyfriend"
+      ],
+      "ru": [
+        "парень",
+        "бойфренд"
+      ],
+      "gender": "m",
+      "example": "C'est ton petit ami ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maman",
+      "word": "maman",
+      "en": "maman",
+      "sourceId": "mommy",
+      "sourceIds": [
+        "mommy",
+        "momma"
+      ],
+      "ru": [
+        "мамочка"
+      ],
+      "gender": "f",
+      "example": "Maman, est-ce que je peux avoir une omelette ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maman",
+      "word": "maman",
+      "en": "maman",
+      "sourceId": "mom",
+      "sourceIds": [
+        "mom",
+        "mama",
+        "ma"
+      ],
+      "ru": [
+        "мама"
+      ],
+      "gender": "f",
+      "example": "Ma maman prépare un gâteau pour mon anniversaire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "frere-ou-s-ur",
+      "word": "frère ou sœur",
+      "en": "frère ou sœur",
+      "sourceId": "sibling",
+      "sourceIds": [
+        "sibling"
+      ],
+      "ru": [
+        "брат или сестра"
+      ],
+      "gender": "m",
+      "example": "Des frères et sœurs bien-aimés.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "demi-frere",
+      "word": "demi-frère",
+      "en": "demi-frère",
+      "sourceId": "half-brother",
+      "sourceIds": [
+        "half-brother"
+      ],
+      "ru": [
+        "сводный брат"
+      ],
+      "gender": "m",
+      "example": "Il est mon demi-frère.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parental",
+      "word": "parental",
+      "en": "parental",
+      "sourceId": "parental",
+      "sourceIds": [
+        "parental"
+      ],
+      "ru": [
+        "родительский"
+      ],
+      "gender": null,
+      "example": "Parlez de la pression parentale.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "heritier",
+      "word": "héritier",
+      "en": "héritier",
+      "sourceId": "heir",
+      "sourceIds": [
+        "heir"
+      ],
+      "ru": [
+        "наследник"
+      ],
+      "gender": "m",
+      "example": "choisir un héritier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aine",
+      "word": "aîné",
+      "en": "aîné",
+      "sourceId": "eldest",
+      "sourceIds": [
+        "eldest"
+      ],
+      "ru": [
+        "старший"
+      ],
+      "gender": null,
+      "example": "Le descendant aîné du roi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "descendant",
+      "word": "descendant",
+      "en": "descendant",
+      "sourceId": "descendant",
+      "sourceIds": [
+        "descendant"
+      ],
+      "ru": [
+        "потомок"
+      ],
+      "gender": "m",
+      "example": "Le descendant aîné du roi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "premier-ne",
+      "word": "premier-né",
+      "en": "premier-né",
+      "sourceId": "firstborn",
+      "sourceIds": [
+        "firstborn"
+      ],
+      "ru": [
+        "первенец"
+      ],
+      "gender": "m",
+      "example": "fêter le fils premier-né",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nourrisson",
+      "word": "nourrisson",
+      "en": "nourrisson",
+      "sourceId": "infant",
+      "sourceIds": [
+        "infant"
+      ],
+      "ru": [
+        "младенец"
+      ],
+      "gender": "m",
+      "example": "Le nourrisson est en siège, Votre Grâce.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "se-remarier",
+      "word": "se remarier",
+      "en": "se remarier",
+      "sourceId": "remarry",
+      "sourceIds": [
+        "remarry"
+      ],
+      "ru": [
+        "вступать в повторный брак"
+      ],
+      "gender": null,
+      "example": "Et si ton père se remariait ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "desheriter",
+      "word": "déshériter",
+      "en": "déshériter",
+      "sourceId": "disinherit",
+      "sourceIds": [
+        "disinherit"
+      ],
+      "ru": [
+        "лишать наследства"
+      ],
+      "gender": null,
+      "example": "Le frère du roi, ainsi déshérité,",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "pere",
+      "word": "père",
+      "en": "père",
+      "sourceId": "sire",
+      "sourceIds": [
+        "sire"
+      ],
+      "ru": [
+        "отец",
+        "производитель"
+      ],
+      "gender": "m",
+      "example": "Il est le père de trois enfants.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ancestral",
+      "word": "ancestral",
+      "en": "ancestral",
+      "sourceId": "ancestral",
+      "sourceIds": [
+        "ancestral"
+      ],
+      "ru": [
+        "родовой",
+        "наследственный"
+      ],
+      "gender": null,
+      "example": "C'est son domaine ancestral.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "fiancer",
+      "word": "fiancer",
+      "en": "fiancer",
+      "sourceId": "betroth",
+      "sourceIds": [
+        "betroth"
+      ],
+      "ru": [
+        "обручать"
+      ],
+      "gender": null,
+      "example": "Avez-vous déjà été fiancé, Sire Criston ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "fiance",
+      "word": "fiancé",
+      "en": "fiancé",
+      "sourceId": "betrothed",
+      "sourceIds": [
+        "betrothed"
+      ],
+      "ru": [
+        "обручать"
+      ],
+      "gender": "m",
+      "example": "As-tu déjà été fiancé, Sire Criston ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fiancailles",
+      "word": "fiançailles",
+      "en": "fiançailles",
+      "sourceId": "betrothal",
+      "sourceIds": [
+        "betrothal"
+      ],
+      "ru": [
+        "помолвка"
+      ],
+      "gender": "f",
+      "example": "Pour des fiançailles officielles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "consort",
+      "word": "consort",
+      "en": "consort",
+      "sourceId": "consort",
+      "sourceIds": [
+        "consort"
+      ],
+      "ru": [
+        "супруг",
+        "супруга"
+      ],
+      "gender": "f",
+      "example": "Il sert en tant que prince consort.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ex-mari",
+      "word": "ex-mari",
+      "en": "ex-mari",
+      "sourceId": "ex-husband",
+      "sourceIds": [
+        "ex-husband"
+      ],
+      "ru": [
+        "бывший муж"
+      ],
+      "gender": "m",
+      "example": "C'est mon ex-mari.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "progeniture",
+      "word": "progéniture",
+      "en": "progéniture",
+      "sourceId": "offspring",
+      "sourceIds": [
+        "offspring"
+      ],
+      "ru": [
+        "потомство"
+      ],
+      "gender": "f",
+      "example": "Votre progéniture était-elle prévue ou est-ce une erreur ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "celibataire",
+      "word": "célibataire",
+      "en": "célibataire",
+      "sourceId": "unmarried",
+      "sourceIds": [
+        "unmarried"
+      ],
+      "ru": [
+        "неженатый",
+        "незамужняя"
+      ],
+      "gender": null,
+      "example": "De grandes femmes célibataires...",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "ancetre",
+      "word": "ancêtre",
+      "en": "ancêtre",
+      "sourceId": "forebear",
+      "sourceIds": [
+        "forebear",
+        "forefather"
+      ],
+      "ru": [
+        "предок"
+      ],
+      "gender": "m",
+      "example": "Nos ancêtres héroïques ont gagné la bataille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "future-mere",
+      "word": "future mère",
+      "en": "future mère",
+      "sourceId": "mother-to-be",
+      "sourceIds": [
+        "mother-to-be"
+      ],
+      "ru": [
+        "будущая мать"
+      ],
+      "gender": "f",
+      "example": "à toutes les futures mères.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ours-en-peluche",
+      "word": "ours en peluche",
+      "en": "ours en peluche",
+      "sourceId": "teddy",
+      "sourceIds": [
+        "teddy"
+      ],
+      "ru": [
+        "плюшевый мишка"
+      ],
+      "gender": "m",
+      "example": "L'enfant dort avec son ours en peluche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "garder",
+      "word": "garder",
+      "en": "garder",
+      "sourceId": "babysit",
+      "sourceIds": [
+        "babysit"
+      ],
+      "ru": [
+        "сидеть с ребенком"
+      ],
+      "gender": null,
+      "example": "Je pensais que tu gardais les enfants.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "garde-d-enfants",
+      "word": "garde d'enfants",
+      "en": "garde d'enfants",
+      "sourceId": "childcare",
+      "sourceIds": [
+        "childcare"
+      ],
+      "ru": [
+        "уход за детьми"
+      ],
+      "gender": "m",
+      "example": "Des médicaments, une garde d'enfants gratuite.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "filleul",
+      "word": "filleul",
+      "en": "filleul",
+      "sourceId": "godson",
+      "sourceIds": [
+        "godson"
+      ],
+      "ru": [
+        "крестник"
+      ],
+      "gender": "m",
+      "example": "Le filleul de Bill Carlton.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grand-pere",
+      "word": "grand-père",
+      "en": "grand-père",
+      "sourceId": "granddad",
+      "sourceIds": [
+        "granddad"
+      ],
+      "ru": [
+        "дедушка"
+      ],
+      "gender": "m",
+      "example": "Très bien, grand-père.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "beau-pere",
+      "word": "beau-père",
+      "en": "beau-père",
+      "sourceId": "father-in-law",
+      "sourceIds": [
+        "father-in-law"
+      ],
+      "ru": [
+        "тесть",
+        "свекор"
+      ],
+      "gender": "m",
+      "example": "C'est mon beau-père.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "maman",
+      "word": "maman",
+      "en": "maman",
+      "sourceId": "mummy",
+      "sourceIds": [
+        "mummy"
+      ],
+      "ru": [
+        "мамочка",
+        "мумия"
+      ],
+      "gender": "f",
+      "example": "Dis maman avant que je puisse dire maman...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mamie",
+      "word": "mamie",
+      "en": "mamie",
+      "sourceId": "granny",
+      "sourceIds": [
+        "granny"
+      ],
+      "ru": [
+        "бабуля"
+      ],
+      "gender": "f",
+      "example": "Nous avons demandé s'il y avait des mamies dans le coin...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tante",
+      "word": "tante",
+      "en": "tante",
+      "sourceId": "auntie",
+      "sourceIds": [
+        "auntie"
+      ],
+      "ru": [
+        "тетя"
+      ],
+      "gender": "f",
+      "example": "C'est ma vieille tante.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "beau-frere",
+      "word": "beau-frère",
+      "en": "beau-frère",
+      "sourceId": "brother-in-law",
+      "sourceIds": [
+        "brother-in-law"
+      ],
+      "ru": [
+        "шурин",
+        "зять",
+        "деверь"
+      ],
+      "gender": "m",
+      "example": "J'ai offert un cadeau à mon beau-frère.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "beau-parent",
+      "word": "beau-parent",
+      "en": "beau-parent",
+      "sourceId": "in-law",
+      "sourceIds": [
+        "in-law"
+      ],
+      "ru": [
+        "родственник со стороны супруга"
+      ],
+      "gender": "m",
+      "example": "Nous habitons maintenant chez mes beaux-parents.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fiance",
+      "word": "fiancé",
+      "en": "fiancé",
+      "sourceId": "fianc",
+      "sourceIds": [
+        "fianc"
+      ],
+      "ru": [
+        "жених"
+      ],
+      "gender": "m",
+      "example": "Ni lui ni sa fiancée ne sont venus.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mere-celibataire",
+      "word": "mère célibataire",
+      "en": "mère célibataire",
+      "sourceId": "single-mom",
+      "sourceIds": [
+        "single-mom"
+      ],
+      "ru": [
+        "мать-одиночка"
+      ],
+      "gender": "f",
+      "example": "Élever un enfant seule en tant que mère célibataire est un défi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pere-fille",
+      "word": "père-fille",
+      "en": "père-fille",
+      "sourceId": "father-daughter",
+      "sourceIds": [
+        "father-daughter"
+      ],
+      "ru": [
+        "отец-дочь"
+      ],
+      "gender": "m",
+      "example": "Une excursion père-fille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parente",
+      "word": "parenté",
+      "en": "parenté",
+      "sourceId": "kin",
+      "sourceIds": [
+        "kin"
+      ],
+      "ru": [
+        "родственники"
+      ],
+      "gender": "f",
+      "example": "Il tient beaucoup à sa parenté.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "homme-au-foyer",
+      "word": "homme au foyer",
+      "en": "homme au foyer",
+      "sourceId": "househusband",
+      "sourceIds": [
+        "househusband"
+      ],
+      "ru": [
+        "домохозяин"
+      ],
+      "gender": "m",
+      "example": "Écoute, j'ai l'impression d'être un homme au foyer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nounou",
+      "word": "nounou",
+      "en": "nounou",
+      "sourceId": "nanny",
+      "sourceIds": [
+        "nanny"
+      ],
+      "ru": [
+        "няня"
+      ],
+      "gender": "f",
+      "example": "J'ai installé une caméra de surveillance pour la nounou.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ex-femme",
+      "word": "ex-femme",
+      "en": "ex-femme",
+      "sourceId": "ex-wife",
+      "sourceIds": [
+        "ex-wife"
+      ],
+      "ru": [
+        "бывшая жена"
+      ],
+      "gender": "f",
+      "example": "N'est-ce pas ton ex-femme ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "futur-divorce",
+      "word": "futur divorcé",
+      "en": "futur divorcé",
+      "sourceId": "soon-to-be-unmarried",
+      "sourceIds": [
+        "soon-to-be-unmarried"
+      ],
+      "ru": [
+        "вскоре разведенный"
+      ],
+      "gender": "m",
+      "example": "Lorsqu'il sera un futur divorcé.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "femme-au-foyer",
+      "word": "femme au foyer",
+      "en": "femme au foyer",
+      "sourceId": "housewife",
+      "sourceIds": [
+        "housewife"
+      ],
+      "ru": [
+        "домохозяйка"
+      ],
+      "gender": "f",
+      "example": "d'une femme au foyer ménopausée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "conjoint",
+      "word": "conjoint",
+      "en": "conjoint",
+      "sourceId": "spouse",
+      "sourceIds": [
+        "spouse"
+      ],
+      "ru": [
+        "супруг",
+        "супруга"
+      ],
+      "gender": "m",
+      "example": "Il est venu avec son conjoint.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ex",
+      "word": "ex",
+      "en": "ex",
+      "sourceId": "ex-boyfriend",
+      "sourceIds": [
+        "ex-boyfriend"
+      ],
+      "ru": [
+        "бывший парень"
+      ],
+      "gender": null,
+      "example": "C'est l'ex de ma sœur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fiancee",
+      "word": "fiancée",
+      "en": "fiancée",
+      "sourceId": "fiancee",
+      "sourceIds": [
+        "fiancee"
+      ],
+      "ru": [
+        "невеста"
+      ],
+      "gender": "f",
+      "example": "Elle a été vue pour la dernière fois par sa fiancée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "renier",
+      "word": "renier",
+      "en": "renier",
+      "sourceId": "disown",
+      "sourceIds": [
+        "disown"
+      ],
+      "ru": [
+        "отрекаться"
+      ],
+      "gender": null,
+      "example": "Mes parents vont me renier.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "papa",
+      "word": "papa",
+      "en": "papa",
+      "sourceId": "papa",
+      "sourceIds": [
+        "papa"
+      ],
+      "ru": [
+        "папа"
+      ],
+      "gender": "m",
+      "example": "Ton papa ne t'a jamais dit ça.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "beau-fils-belle-fille",
+      "word": "beau-fils / belle-fille",
+      "en": "beau-fils / belle-fille",
+      "sourceId": "stepchild",
+      "sourceIds": [
+        "stepchild"
+      ],
+      "ru": [
+        "пасынок",
+        "падчерица"
+      ],
+      "gender": "m",
+      "example": "Il s'occupe de son beau-fils comme si c'était le sien.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parrain",
+      "word": "parrain",
+      "en": "parrain",
+      "sourceId": "godfather",
+      "sourceIds": [
+        "godfather"
+      ],
+      "ru": [
+        "крестный отец"
+      ],
+      "gender": "m",
+      "example": "Veux-tu être le parrain ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "parentalite",
+      "word": "parentalité",
+      "en": "parentalité",
+      "sourceId": "parenthood",
+      "sourceIds": [
+        "parenthood"
+      ],
+      "ru": [
+        "родительство"
+      ],
+      "gender": "f",
+      "example": "pour la parentalité.",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

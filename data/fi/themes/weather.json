@@ -1,0 +1,1838 @@
+{
+  "id": "weather",
+  "title": "Погода",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "syksy",
+      "word": "syksy",
+      "en": "syksy",
+      "ru": [
+        "осень"
+      ],
+      "example": "Meillä on ollut vähän taifuuneja tänä syksynä.",
+      "level": "A2",
+      "sourceId": "autumn",
+      "sourceIds": [
+        "autumn"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lumimyrsky",
+      "word": "lumimyrsky",
+      "en": "lumimyrsky",
+      "ru": [
+        "буран",
+        "вьюга",
+        "метелица"
+      ],
+      "example": "Lumimyrsky jätti yli 76 senttimetriä lunta maahan.",
+      "level": "A2",
+      "sourceId": "blizzard",
+      "sourceIds": [
+        "blizzard"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuulonen",
+      "word": "tuulonen",
+      "en": "tuulonen",
+      "ru": [
+        "бриз",
+        "ветерок",
+        "пустяк"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "breeze",
+      "sourceIds": [
+        "breeze"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ilmasto",
+      "word": "ilmasto",
+      "en": "ilmasto",
+      "ru": [
+        "климат"
+      ],
+      "example": "Alan vähitellen tottua tämän paikan kosteaan ilmastoon.",
+      "level": "B1",
+      "sourceId": "climate",
+      "sourceIds": [
+        "climate"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pilvi",
+      "word": "pilvi",
+      "en": "pilvi",
+      "ru": [
+        "облако",
+        "туча",
+        "рой"
+      ],
+      "example": "Hänen on helpompi itkeä kuin pilven sataa.",
+      "level": "A1",
+      "sourceId": "cloud",
+      "sourceIds": [
+        "cloud"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pilvinen",
+      "word": "pilvinen",
+      "en": "pilvinen",
+      "ru": [
+        "облачный",
+        "пасмурный",
+        "мутный"
+      ],
+      "example": "Pidän pilvisestä taivaasta. Ai miksi? En tiedä.",
+      "level": "A2",
+      "sourceId": "cloudy",
+      "sourceIds": [
+        "cloudy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kylma",
+      "word": "kylmä",
+      "en": "kylmä",
+      "ru": [
+        "студёный",
+        "холодный",
+        "холодно"
+      ],
+      "example": "Boston on liian kylmä minulle Chicagosta puhumattakaan.",
+      "level": "A1",
+      "sourceId": "cold",
+      "sourceIds": [
+        "cold"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viilea",
+      "word": "viileä",
+      "en": "viileä",
+      "ru": [
+        "прохладный",
+        "холодноватый",
+        "классный"
+      ],
+      "example": "Eilen illalla oli viileää, etten sanoisi kylmää.",
+      "level": "A1",
+      "sourceId": "cool",
+      "sourceIds": [
+        "cool"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jaahtyminen",
+      "word": "jäähtyminen",
+      "en": "jäähtyminen",
+      "ru": [
+        "охлаждающий",
+        "охлаждение",
+        "похолодание"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "cooling",
+      "sourceIds": [
+        "cooling"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "kostea",
+      "word": "kostea",
+      "en": "kostea",
+      "ru": [
+        "сырой"
+      ],
+      "example": "Alan vähitellen tottua tämän paikan kosteaan ilmastoon.",
+      "level": "A2",
+      "sourceId": "damp",
+      "sourceIds": [
+        "damp"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aamunkoitto",
+      "word": "aamunkoitto",
+      "en": "aamunkoitto",
+      "ru": [
+        "заря",
+        "рассвет",
+        "восход"
+      ],
+      "example": "Yöllä makasin hereillä ja odotin aamunkoittoa.",
+      "level": "B2",
+      "sourceId": "dawn",
+      "sourceIds": [
+        "dawn"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aamunkoitto",
+      "word": "aamunkoitto",
+      "en": "aamunkoitto",
+      "ru": [
+        "рассвет"
+      ],
+      "example": "Yöllä makasin hereillä ja odotin aamunkoittoa.",
+      "level": "C2",
+      "sourceId": "dawning",
+      "sourceIds": [
+        "dawning"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tutkinto",
+      "word": "tutkinto",
+      "en": "tutkinto",
+      "ru": [
+        "диплом",
+        "степень",
+        "учёная степень"
+      ],
+      "example": "Hän reputti tutkinnossaan, koska ei opiskellut riittävästi.",
+      "level": "A2",
+      "sourceId": "degree",
+      "sourceIds": [
+        "degree"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaste",
+      "word": "kaste",
+      "en": "kaste",
+      "ru": [
+        "роса",
+        "росинка",
+        "оросить"
+      ],
+      "example": "Kaste haihtui auringon noustessa.",
+      "level": "C2",
+      "sourceId": "dew",
+      "sourceIds": [
+        "dew"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuivuus",
+      "word": "kuivuus",
+      "en": "kuivuus",
+      "ru": [
+        "засуха",
+        "сушь",
+        "засушливость"
+      ],
+      "example": "Millä tavalla Algeria taistelee kuivuutta vastaan?",
+      "level": "A2",
+      "sourceId": "drought",
+      "sourceIds": [
+        "drought"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuivuutta-kestava",
+      "word": "kuivuutta kestävä",
+      "en": "kuivuutta kestävä",
+      "ru": [
+        "засухоустойчивый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "drought-tolerant",
+      "sourceIds": [
+        "drought-tolerant"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kuiva",
+      "word": "kuiva",
+      "en": "kuiva",
+      "ru": [
+        "засушливый"
+      ],
+      "example": "Atacaman aavikko Pohjois-Chilessä on maailman kuivin paikka.",
+      "level": "C2",
+      "sourceId": "droughty",
+      "sourceIds": [
+        "droughty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuivata",
+      "word": "kuivata",
+      "en": "kuivata",
+      "ru": [
+        "сухой",
+        "высохнуть",
+        "высушить"
+      ],
+      "example": "Tom haluaa vaihtaa märät vaatteensa johonkin kuivaan.",
+      "level": "B1",
+      "sourceId": "dry",
+      "sourceIds": [
+        "dry"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hamara",
+      "word": "hämärä",
+      "en": "hämärä",
+      "ru": [
+        "сумерки"
+      ],
+      "example": "Näin hämärässä huoneessa ei saa mitään tehdyksi.",
+      "level": "A2",
+      "sourceId": "dusk",
+      "sourceIds": [
+        "dusk"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaatua",
+      "word": "kaatua",
+      "en": "kaatua",
+      "ru": [
+        "падать"
+      ],
+      "example": "\"Mitä jalallesi tapahtui?\" \"Olin laskettelemassa ja kaaduin.\"",
+      "level": "A2",
+      "sourceId": "fall",
+      "sourceIds": [
+        "fall"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tulva",
+      "word": "tulva",
+      "en": "tulva",
+      "ru": [
+        "наводнение",
+        "паводок",
+        "потоп"
+      ],
+      "example": "Se tulva on pahin heidän kokemansa katastrofi.",
+      "level": "B2",
+      "sourceId": "flood",
+      "sourceIds": [
+        "flood"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sumu",
+      "word": "sumu",
+      "en": "sumu",
+      "ru": [
+        "туман",
+        "мгла"
+      ],
+      "example": "Ei näkynyt mitään muuta kuin pelkkää sumua.",
+      "level": "A2",
+      "sourceId": "fog",
+      "sourceIds": [
+        "fog"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "utuinen",
+      "word": "utuinen",
+      "en": "utuinen",
+      "ru": [
+        "туманный",
+        "мглистый",
+        "смутный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "foggy",
+      "sourceIds": [
+        "foggy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ennuste",
+      "word": "ennuste",
+      "en": "ennuste",
+      "ru": [
+        "прогноз",
+        "предвидение",
+        "предсказание"
+      ],
+      "example": "Neljän prosentin inflaatio on tämän vuoden ennuste.",
+      "level": "A2",
+      "sourceId": "forecast",
+      "sourceIds": [
+        "forecast"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jaadytys",
+      "word": "jäädytys",
+      "en": "jäädytys",
+      "ru": [
+        "заморозки",
+        "морозы",
+        "зависание"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "freeze",
+      "sourceIds": [
+        "freeze"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "jaatava",
+      "word": "jäätävä",
+      "en": "jäätävä",
+      "ru": [
+        "холодный как лёд",
+        "ледяной",
+        "морозный"
+      ],
+      "example": "Jäätävä sade on melko harvinainen meteorologinen ilmiö.",
+      "level": "A2",
+      "sourceId": "freezing",
+      "sourceIds": [
+        "freezing"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jaatynyt",
+      "word": "jäätynyt",
+      "en": "jäätynyt",
+      "ru": [
+        "замороженный",
+        "замёрзший",
+        "мороженый"
+      ],
+      "example": "Järvi oli jäätynyt, joten kävelimme jään yli.",
+      "level": "B2",
+      "sourceId": "frozen",
+      "sourceIds": [
+        "frozen"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "myrsky",
+      "word": "myrsky",
+      "en": "myrsky",
+      "ru": [
+        "шторм",
+        "буря",
+        "порыв ветра"
+      ],
+      "example": "Lentokone ei voinut nousta ilmaan myrskyn takia.",
+      "level": "C1",
+      "sourceId": "gale",
+      "sourceIds": [
+        "gale"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rae",
+      "word": "rae",
+      "en": "rae",
+      "ru": [
+        "град"
+      ],
+      "example": "En muista milloin olisin viimeksi nähnyt rakeita.",
+      "level": "A2",
+      "sourceId": "hail",
+      "sourceIds": [
+        "hail"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lampo",
+      "word": "lämpö",
+      "en": "lämpö",
+      "ru": [
+        "тепло",
+        "жара",
+        "жар"
+      ],
+      "example": "Ei lämpö eikä kylmä kestä päivänseisauksen jälkeen.",
+      "level": "B1",
+      "sourceId": "heat",
+      "sourceIds": [
+        "heat"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuuma",
+      "word": "kuuma",
+      "en": "kuuma",
+      "ru": [
+        "мне жарко",
+        "жаркий",
+        "жарко"
+      ],
+      "example": "Balilla on joulukuussa todella kuumaa ja kosteaa.",
+      "level": "A1",
+      "sourceId": "hot",
+      "sourceIds": [
+        "hot"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kostea",
+      "word": "kostea",
+      "en": "kostea",
+      "ru": [
+        "влажный"
+      ],
+      "example": "Alan vähitellen tottua tämän paikan kosteaan ilmastoon.",
+      "level": "A2",
+      "sourceId": "humid",
+      "sourceIds": [
+        "humid"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kosteus",
+      "word": "kosteus",
+      "en": "kosteus",
+      "ru": [
+        "влажность",
+        "сырость"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "humidity",
+      "sourceIds": [
+        "humidity"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "hurrikaani",
+      "word": "hurrikaani",
+      "en": "hurrikaani",
+      "ru": [
+        "ураган"
+      ],
+      "example": "Hurrikaani on jo aiheuttanut tuhoa Karibialla.",
+      "level": "B2",
+      "sourceId": "hurricane",
+      "sourceIds": [
+        "hurricane"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jaa",
+      "word": "jää",
+      "en": "jää",
+      "ru": [
+        "лёд",
+        "сухой лёд",
+        "замораживать"
+      ],
+      "example": "Jos lähdet ajamaan nyt, jäät varmasti ruuhkaan.",
+      "level": "A2",
+      "sourceId": "ice",
+      "sourceIds": [
+        "ice"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salama",
+      "word": "salama",
+      "en": "salama",
+      "ru": [
+        "молния"
+      ],
+      "example": "Tämä tietokone on nopea kuin rasvattu salama.",
+      "level": "A2",
+      "sourceId": "lightning",
+      "sourceIds": [
+        "lightning"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sulaa",
+      "word": "sulaa",
+      "en": "sulaa",
+      "ru": [
+        "таять",
+        "плавиться",
+        "растоплять"
+      ],
+      "example": "Kun jää sulaa, niin se muuttuu vedeksi.",
+      "level": "A2",
+      "sourceId": "melt",
+      "sourceIds": [
+        "melt"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sulava",
+      "word": "sulava",
+      "en": "sulava",
+      "ru": [
+        "плавящийся",
+        "расплавленный"
+      ],
+      "example": "Kaikki rakkaus ja suru sulavat sydämessäni.",
+      "level": "C2",
+      "sourceId": "melting",
+      "sourceIds": [
+        "melting"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sumu",
+      "word": "sumu",
+      "en": "sumu",
+      "ru": [
+        "туман",
+        "мгла",
+        "дымка"
+      ],
+      "example": "Ei näkynyt mitään muuta kuin pelkkää sumua.",
+      "level": "A2",
+      "sourceId": "mist",
+      "sourceIds": [
+        "mist"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sade",
+      "word": "sade",
+      "en": "sade",
+      "ru": [
+        "дождь",
+        "ливень"
+      ],
+      "example": "Ei kai hän tällaisella sateella enää tule.",
+      "level": "A1",
+      "sourceId": "rain",
+      "sourceIds": [
+        "rain"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sateenkaari",
+      "word": "sateenkaari",
+      "en": "sateenkaari",
+      "ru": [
+        "радуга",
+        "весёлка"
+      ],
+      "example": "Heti sateen jälkeen taivaalle ilmestyi kaunis sateenkaari.",
+      "level": "A2",
+      "sourceId": "rainbow",
+      "sourceIds": [
+        "rainbow"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sateinen",
+      "word": "sateinen",
+      "en": "sateinen",
+      "ru": [
+        "дождливый",
+        "дождевой"
+      ],
+      "example": "Käyn sateisia päiviä lukuun ottamatta päivittäin kävelyllä.",
+      "level": "A2",
+      "sourceId": "rainy",
+      "sourceIds": [
+        "rainy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kausi",
+      "word": "kausi",
+      "en": "kausi",
+      "ru": [
+        "сезон",
+        "время года"
+      ],
+      "example": "Mä en pysty hengittää mun nenän kautta.",
+      "level": "A2",
+      "sourceId": "season",
+      "sourceIds": [
+        "season"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "varjo",
+      "word": "varjo",
+      "en": "varjo",
+      "ru": [
+        "штора",
+        "тень",
+        "переходить"
+      ],
+      "example": "Kunnia seuraa hyvettä, kuin olisi sen varjo.",
+      "level": "C1",
+      "sourceId": "shade",
+      "sourceIds": [
+        "shade"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "varjo",
+      "word": "varjo",
+      "en": "varjo",
+      "ru": [
+        "тень",
+        "полумрак"
+      ],
+      "example": "Kunnia seuraa hyvettä, kuin olisi sen varjo.",
+      "level": "B2",
+      "sourceId": "shadow",
+      "sourceIds": [
+        "shadow"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taivas",
+      "word": "taivas",
+      "en": "taivas",
+      "ru": [
+        "небо",
+        "небесная сфера"
+      ],
+      "example": "Alussa Jumala loi taivaan ja maan tyhjästä.",
+      "level": "B1",
+      "sourceId": "sky",
+      "sourceIds": [
+        "sky"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lumi",
+      "word": "lumi",
+      "en": "lumi",
+      "ru": [
+        "снег",
+        "снегопад"
+      ],
+      "example": "Ai sataa lunta? En minä sellaista toivonut!",
+      "level": "A1",
+      "sourceId": "snow",
+      "sourceIds": [
+        "snow"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lumisateinen",
+      "word": "lumisateinen",
+      "en": "lumisateinen",
+      "ru": [
+        "снежный",
+        "снеговой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "snowy",
+      "sourceIds": [
+        "snowy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "kevat",
+      "word": "kevät",
+      "en": "kevät",
+      "ru": [
+        "весна"
+      ],
+      "example": "Kevät tuo leudon ilman kylmän talven jälkeen.",
+      "level": "A2",
+      "sourceId": "spring",
+      "sourceIds": [
+        "spring"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "myrsky",
+      "word": "myrsky",
+      "en": "myrsky",
+      "ru": [
+        "шторм",
+        "буря",
+        "буран"
+      ],
+      "example": "Lentokone ei voinut nousta ilmaan myrskyn takia.",
+      "level": "A2",
+      "sourceId": "storm",
+      "sourceIds": [
+        "storm"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kesa",
+      "word": "kesä",
+      "en": "kesä",
+      "ru": [
+        "лето"
+      ],
+      "example": "En voi uskoa, että on jo kesä.",
+      "level": "A2",
+      "sourceId": "summer",
+      "sourceIds": [
+        "summer"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aurinko",
+      "word": "aurinko",
+      "en": "aurinko",
+      "ru": [
+        "солнце",
+        "греться",
+        "загорать"
+      ],
+      "example": "Auringon pinnan lämpötila oletetaan olevan noin 6000°C.",
+      "level": "A1",
+      "sourceId": "sun",
+      "sourceIds": [
+        "sun"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aurinkoinen",
+      "word": "aurinkoinen",
+      "en": "aurinkoinen",
+      "ru": [
+        "солнечный"
+      ],
+      "example": "Täytyy pestä pyykit, kun vielä on aurinkoista.",
+      "level": "A2",
+      "sourceId": "sunny",
+      "sourceIds": [
+        "sunny"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "auringonnousu",
+      "word": "auringonnousu",
+      "en": "auringonnousu",
+      "ru": [
+        "(утренняя) заря",
+        "восход солнца",
+        "восход"
+      ],
+      "example": "Kuinka usein olet ylhäällä jo auringonnousun aikaan?",
+      "level": "A2",
+      "sourceId": "sunrise",
+      "sourceIds": [
+        "sunrise"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "auringonlasku",
+      "word": "auringonlasku",
+      "en": "auringonlasku",
+      "ru": [
+        "(вечерняя) заря",
+        "заход солнца",
+        "закат"
+      ],
+      "example": "En ole koskaan nähnyt näin kaunista auringonlaskua.",
+      "level": "B2",
+      "sourceId": "sunset",
+      "sourceIds": [
+        "sunset"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lampotila",
+      "word": "lämpötila",
+      "en": "lämpötila",
+      "ru": [
+        "температура",
+        "горячка",
+        "жар"
+      ],
+      "example": "Auringon pinnan lämpötila oletetaan olevan noin 6000°C.",
+      "level": "A2",
+      "sourceId": "temperature",
+      "sourceIds": [
+        "temperature"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jyrina",
+      "word": "jyrinä",
+      "en": "jyrinä",
+      "ru": [
+        "гром",
+        "грохот",
+        "рокот"
+      ],
+      "example": "Salama välähti ensin ja sitten kuului ukkosen jyrinää.",
+      "level": "A2",
+      "sourceId": "thunder",
+      "sourceIds": [
+        "thunder"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salamanisku",
+      "word": "salamanisku",
+      "en": "salamanisku",
+      "ru": [
+        "перун",
+        "удар молнии",
+        "гром среди ясного неба"
+      ],
+      "example": "Tom menetti rannalla henkensä salamaniskuun.",
+      "level": "C2",
+      "sourceId": "thunderbolt",
+      "sourceIds": [
+        "thunderbolt"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ukkosenjyrahdys",
+      "word": "ukkosenjyrähdys",
+      "en": "ukkosenjyrähdys",
+      "ru": [
+        "удар грома"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thunderclap",
+      "sourceIds": [
+        "thunderclap"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ukkospilvi",
+      "word": "ukkospilvi",
+      "en": "ukkospilvi",
+      "ru": [
+        "грозовая туча"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thundercloud",
+      "sourceIds": [
+        "thundercloud"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "jyriseva",
+      "word": "jyrisevä",
+      "en": "jyrisevä",
+      "ru": [
+        "грозовой",
+        "громовой",
+        "оглушительный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thunderous",
+      "sourceIds": [
+        "thunderous"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "lumiukkonen",
+      "word": "lumiukkonen",
+      "en": "lumiukkonen",
+      "ru": [
+        "снеговая гроза"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thundersnow",
+      "sourceIds": [
+        "thundersnow"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ukkosmyrsky",
+      "word": "ukkosmyrsky",
+      "en": "ukkosmyrsky",
+      "ru": [
+        "гроза",
+        "буря"
+      ],
+      "example": "Säätiedotteessa sanottiin että huomenillalla alkaa ukkosmyrsky.",
+      "level": "A2",
+      "sourceId": "thunderstorm",
+      "sourceIds": [
+        "thunderstorm"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aimistynyt",
+      "word": "äimistynyt",
+      "en": "äimistynyt",
+      "ru": [
+        "как громом поражённый"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "thunderstruck",
+      "sourceIds": [
+        "thunderstruck"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tornado",
+      "word": "tornado",
+      "en": "tornado",
+      "ru": [
+        "смерч",
+        "торнадо"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "tornado",
+      "sourceIds": [
+        "tornado"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "sateenvarjo",
+      "word": "sateenvarjo",
+      "en": "sateenvarjo",
+      "ru": [
+        "зонт",
+        "зонтик",
+        "купол"
+      ],
+      "example": "En muista mihin olen jättänyt mun sateenvarjon.",
+      "level": "A1",
+      "sourceId": "umbrella",
+      "sourceIds": [
+        "umbrella"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lammin",
+      "word": "lämmin",
+      "en": "lämmin",
+      "ru": [
+        "тёплый",
+        "сердечный",
+        "греть"
+      ],
+      "example": "Ai, hei. Eikö tänään olekin aika lämmintä?",
+      "level": "A1",
+      "sourceId": "warm",
+      "sourceIds": [
+        "warm"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lampeneminen",
+      "word": "lämpeneminen",
+      "en": "lämpeneminen",
+      "ru": [
+        "потепление",
+        "согревание"
+      ],
+      "example": "Ilmaston lämpeneminen voi aiheuttaa vakavia ongelmia myös villieläimille.",
+      "level": "C1",
+      "sourceId": "warming",
+      "sourceIds": [
+        "warming"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lampimasti",
+      "word": "lämpimästi",
+      "en": "lämpimästi",
+      "ru": [
+        "тепло"
+      ],
+      "example": "He toivottivat hänet lämpimästi tervetulleeksi.",
+      "level": "C2",
+      "sourceId": "warmly",
+      "sourceIds": [
+        "warmly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ilma",
+      "word": "ilma",
+      "en": "ilma",
+      "ru": [
+        "погода"
+      ],
+      "example": "Ajattelin, ettet haluaisi mennä sinne ilman minua.",
+      "level": "A1",
+      "sourceId": "weather",
+      "sourceIds": [
+        "weather"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuuliviiri",
+      "word": "tuuliviiri",
+      "en": "tuuliviiri",
+      "ru": [
+        "флюгер"
+      ],
+      "example": "Minun mielestäni elämä ilman elämäntehtävää on kuin tuuliviiri.",
+      "level": "C2",
+      "sourceId": "weathercock",
+      "sourceIds": [
+        "weathercock"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saanpieksema",
+      "word": "säänpieksemä",
+      "en": "säänpieksemä",
+      "ru": [
+        "выветренный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "weathered",
+      "sourceIds": [
+        "weathered"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "rapautuminen",
+      "word": "rapautuminen",
+      "en": "rapautuminen",
+      "ru": [
+        "выветривание"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "weathering",
+      "sourceIds": [
+        "weathering"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "meteorologi",
+      "word": "meteorologi",
+      "en": "meteorologi",
+      "ru": [
+        "метеорологиня",
+        "метеорологистка"
+      ],
+      "example": "Meteorologia on aina kiehtonut minua.",
+      "level": "C2",
+      "sourceId": "weatherwoman",
+      "sourceIds": [
+        "weatherwoman"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kastella",
+      "word": "kastella",
+      "en": "kastella",
+      "ru": [
+        "мокрый",
+        "мочить",
+        "мочиться"
+      ],
+      "example": "En voi kastella takapihaa. Ei ole vettä.",
+      "level": "B1",
+      "sourceId": "wet",
+      "sourceIds": [
+        "wet"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuuli",
+      "word": "tuuli",
+      "en": "tuuli",
+      "ru": [
+        "ветер"
+      ],
+      "example": "Miksi Tom on tänään niin hyvällä tuulella?",
+      "level": "A1",
+      "sourceId": "wind",
+      "sourceIds": [
+        "wind"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tuulinen",
+      "word": "tuulinen",
+      "en": "tuulinen",
+      "ru": [
+        "ветреный"
+      ],
+      "example": "Oli kylmä ja sen lisäksi vielä tuulista.",
+      "level": "A2",
+      "sourceId": "windy",
+      "sourceIds": [
+        "windy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "talvi",
+      "word": "talvi",
+      "en": "talvi",
+      "ru": [
+        "зима"
+      ],
+      "example": "Ei ole talvi, mutta tänään satoi lunta.",
+      "level": "A2",
+      "sourceId": "winter",
+      "sourceIds": [
+        "winter"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atmosfaarinen",
+      "word": "atmosfäärinen",
+      "en": "atmosfäärinen",
+      "ru": [
+        "атмосферный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "atmospheric",
+      "sourceIds": [
+        "atmospheric"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "auringonpaiste",
+      "word": "auringonpaiste",
+      "en": "auringonpaiste",
+      "ru": [
+        "солнечный свет"
+      ],
+      "example": "Auringonpaiste ja kostea ilmasto tekivät trooppisen sademetsän.",
+      "level": "B1",
+      "sourceId": "sunshine",
+      "sourceIds": [
+        "sunshine"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rankka",
+      "word": "rankka",
+      "en": "rankka",
+      "ru": [
+        "проливной"
+      ],
+      "example": "Näyttää siltä, että tästä tulee rankka päivä.",
+      "level": "B1",
+      "sourceId": "torrential",
+      "sourceIds": [
+        "torrential"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tulva",
+      "word": "tulva",
+      "en": "tulva",
+      "ru": [
+        "потоп",
+        "ливень"
+      ],
+      "example": "Se tulva on pahin heidän kokemansa katastrofi.",
+      "level": "B1",
+      "sourceId": "deluge",
+      "sourceIds": [
+        "deluge"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tulvavesi",
+      "word": "tulvavesi",
+      "en": "tulvavesi",
+      "ru": [
+        "паводковые воды"
+      ],
+      "example": "Ihmiset roikkuivat tunteja puunoksissa, jotta tulvavesi ei veisi heitä mukanaan.",
+      "level": "B1",
+      "sourceId": "floodwater",
+      "sourceIds": [
+        "floodwater"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kosteus",
+      "word": "kosteus",
+      "en": "kosteus",
+      "ru": [
+        "влажность",
+        "влага"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "moisture",
+      "sourceIds": [
+        "moisture"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "lapimarka",
+      "word": "läpimärkä",
+      "en": "läpimärkä",
+      "ru": [
+        "промокший насквозь"
+      ],
+      "example": "Heräsin täristen ja kylmästä hiestä läpimärkänä.",
+      "level": "B1",
+      "sourceId": "soaking",
+      "sourceIds": [
+        "soaking"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sademaara",
+      "word": "sademäärä",
+      "en": "sademäärä",
+      "ru": [
+        "осадки",
+        "количество осадков"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rainfall",
+      "sourceIds": [
+        "rainfall"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "talvinen",
+      "word": "talvinen",
+      "en": "talvinen",
+      "ru": [
+        "зимний"
+      ],
+      "example": "Talvisin päivät lyhenevät ja pimeä laskeutuu aikaisemmin.",
+      "level": "B1",
+      "sourceId": "wintry",
+      "sourceIds": [
+        "wintry"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "suojasaa",
+      "word": "suojasää",
+      "en": "suojasää",
+      "ru": [
+        "оттепель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "thaw",
+      "sourceIds": [
+        "thaw"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "tuulenpuuska",
+      "word": "tuulenpuuska",
+      "en": "tuulenpuuska",
+      "ru": [
+        "порыв ветра"
+      ],
+      "example": "Hyinen tuulenpuuska iski minua luihin ja ytimiin.",
+      "level": "B1",
+      "sourceId": "gust",
+      "sourceIds": [
+        "gust"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lampo",
+      "word": "lämpö",
+      "en": "lämpö",
+      "ru": [
+        "тепло",
+        "сердечность"
+      ],
+      "example": "Ei lämpö eikä kylmä kestä päivänseisauksen jälkeen.",
+      "level": "B1",
+      "sourceId": "warmth",
+      "sourceIds": [
+        "warmth"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "raesade",
+      "word": "raesade",
+      "en": "raesade",
+      "ru": [
+        "град"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hailstorm",
+      "sourceIds": [
+        "hailstorm"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "viilea",
+      "word": "viileä",
+      "en": "viileä",
+      "ru": [
+        "прохладный"
+      ],
+      "example": "Eilen illalla oli viileää, etten sanoisi kylmää.",
+      "level": "B1",
+      "sourceId": "nippy",
+      "sourceIds": [
+        "nippy",
+        "chilly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sademaara",
+      "word": "sademäärä",
+      "en": "sademäärä",
+      "ru": [
+        "осадки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "precipitation",
+      "sourceIds": [
+        "precipitation"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "paivanvalo",
+      "word": "päivänvalo",
+      "en": "päivänvalo",
+      "ru": [
+        "дневной свет"
+      ],
+      "example": "Huoneesi saa enemmän päivänvaloa kuin minun.",
+      "level": "B1",
+      "sourceId": "daylight",
+      "sourceIds": [
+        "daylight"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tunkkainen",
+      "word": "tunkkainen",
+      "en": "tunkkainen",
+      "ru": [
+        "душный"
+      ],
+      "example": "Täällä on todella tunkkainen ilma. Pitäisikö tuulettaa?",
+      "level": "B1",
+      "sourceId": "stuffy",
+      "sourceIds": [
+        "stuffy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lumipallo",
+      "word": "lumipallo",
+      "en": "lumipallo",
+      "ru": [
+        "снежок",
+        "снежный ком"
+      ],
+      "example": "Hyvien lumipallojen tekemiseen tarvitaan nuoskalunta.",
+      "level": "B1",
+      "sourceId": "snowball",
+      "sourceIds": [
+        "snowball"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "meteorologisesti",
+      "word": "meteorologisesti",
+      "en": "meteorologisesti",
+      "ru": [
+        "метеорологически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "meteorologically",
+      "sourceIds": [
+        "meteorologically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "lapimarka",
+      "word": "läpimärkä",
+      "en": "läpimärkä",
+      "ru": [
+        "промокший"
+      ],
+      "example": "Heräsin täristen ja kylmästä hiestä läpimärkänä.",
+      "level": "B1",
+      "sourceId": "sodden",
+      "sourceIds": [
+        "sodden"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaihteleva",
+      "word": "vaihteleva",
+      "en": "vaihteleva",
+      "ru": [
+        "изменчивый"
+      ],
+      "example": "Minun työni on hyvin vaihtelevaa.",
+      "level": "B1",
+      "sourceId": "changeable",
+      "sourceIds": [
+        "changeable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lapiveto",
+      "word": "läpiveto",
+      "en": "läpiveto",
+      "ru": [
+        "сквозняк"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cross-breeze",
+      "sourceIds": [
+        "cross-breeze"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "jaatava",
+      "word": "jäätävä",
+      "en": "jäätävä",
+      "ru": [
+        "морозный"
+      ],
+      "example": "Jäätävä sade on melko harvinainen meteorologinen ilmiö.",
+      "level": "B1",
+      "sourceId": "frosty",
+      "sourceIds": [
+        "frosty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laskeva-ilmavirta",
+      "word": "laskeva ilmavirta",
+      "en": "laskeva ilmavirta",
+      "ru": [
+        "нисходящий поток воздуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "down-draught",
+      "sourceIds": [
+        "down-draught"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "usvainen",
+      "word": "usvainen",
+      "en": "usvainen",
+      "ru": [
+        "туманный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "misty",
+      "sourceIds": [
+        "misty"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "jainen",
+      "word": "jäinen",
+      "en": "jäinen",
+      "ru": [
+        "ледяной",
+        "холодный"
+      ],
+      "example": "Jäisellä tiellä oli mummo ketarat ojollaan.",
+      "level": "B1",
+      "sourceId": "icy",
+      "sourceIds": [
+        "icy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuuma",
+      "word": "kuuma",
+      "en": "kuuma",
+      "ru": [
+        "знойный",
+        "чувственный"
+      ],
+      "example": "Balilla on joulukuussa todella kuumaa ja kosteaa.",
+      "level": "B1",
+      "sourceId": "sultry",
+      "sourceIds": [
+        "sultry"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

@@ -1,0 +1,5112 @@
+{
+  "id": "animals",
+  "title": "Животные",
+  "paid": true,
+  "blockId": "world",
+  "words": [
+    {
+      "id": "animal",
+      "word": "animal",
+      "en": "animal",
+      "sourceId": "animal",
+      "sourceIds": [
+        "animal"
+      ],
+      "ru": [
+        "звериный",
+        "животный",
+        "зверь"
+      ],
+      "gender": null,
+      "example": "Il a un instinct animal.",
+      "level": "A2",
+      "pos": "adj"
+    },
+    {
+      "id": "fourmi",
+      "word": "fourmi",
+      "en": "fourmi",
+      "sourceId": "ant",
+      "sourceIds": [
+        "ant"
+      ],
+      "ru": [
+        "муравей",
+        "мурашка",
+        "муравель"
+      ],
+      "gender": "f",
+      "example": "Une fourmi travaille dur pour préparer l'hiver.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "fourmilage",
+      "word": "fourmilage",
+      "en": "fourmilage",
+      "sourceId": "anting",
+      "sourceIds": [
+        "anting"
+      ],
+      "ru": [
+        "муравление"
+      ],
+      "gender": "m",
+      "example": "Le fourmilage est un comportement étrange observé chez certains oiseaux.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "fourmillant",
+      "word": "fourmillant",
+      "en": "fourmillant",
+      "sourceId": "antly",
+      "sourceIds": [
+        "antly"
+      ],
+      "ru": [
+        "муравьиный"
+      ],
+      "gender": null,
+      "example": "Il y a une activité fourmillante dans la colonie.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "chauve-souris",
+      "word": "chauve-souris",
+      "en": "chauve-souris",
+      "sourceId": "bat",
+      "sourceIds": [
+        "bat"
+      ],
+      "ru": [
+        "летучая мышь",
+        "нетопырь"
+      ],
+      "gender": "f",
+      "example": "La chauve-souris vole dans la nuit.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "ours",
+      "word": "ours",
+      "en": "ours",
+      "sourceId": "bear",
+      "sourceIds": [
+        "bear"
+      ],
+      "ru": [
+        "медведь",
+        "медведица",
+        "медвежонок"
+      ],
+      "gender": "m",
+      "example": "L'ours vit dans la forêt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "porteur",
+      "word": "porteur",
+      "en": "porteur",
+      "sourceId": "bearer",
+      "sourceIds": [
+        "bearer"
+      ],
+      "ru": [
+        "носильщик",
+        "носильщица",
+        "носитель"
+      ],
+      "gender": "m",
+      "example": "Il est le porteur de ce message important.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "roulement",
+      "word": "roulement",
+      "en": "roulement",
+      "sourceId": "bearing",
+      "sourceIds": [
+        "bearing"
+      ],
+      "ru": [
+        "несущий",
+        "пеленг",
+        "подшипник"
+      ],
+      "gender": "m",
+      "example": "Le roulement de la roue est cassé.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bete",
+      "word": "bête",
+      "en": "bête",
+      "sourceId": "beast",
+      "sourceIds": [
+        "beast"
+      ],
+      "ru": [
+        "животное",
+        "зверь",
+        "бестия"
+      ],
+      "gender": "f",
+      "example": "Il a peur de cette bête sauvage.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "bestial",
+      "word": "bestial",
+      "en": "bestial",
+      "sourceId": "beastly",
+      "sourceIds": [
+        "beastly"
+      ],
+      "ru": [
+        "животный",
+        "звериный",
+        "зверский"
+      ],
+      "gender": null,
+      "example": "Il a fait preuve d'une cruauté bestiale.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "abeille",
+      "word": "abeille",
+      "en": "abeille",
+      "sourceId": "bee",
+      "sourceIds": [
+        "bee"
+      ],
+      "ru": [
+        "пчела",
+        "би",
+        "бэ"
+      ],
+      "gender": "f",
+      "example": "L'abeille butine les fleurs dans le jardin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "oiseau",
+      "word": "oiseau",
+      "en": "oiseau",
+      "sourceId": "bird",
+      "sourceIds": [
+        "bird"
+      ],
+      "ru": [
+        "птица",
+        "потка",
+        "птах"
+      ],
+      "gender": "m",
+      "example": "Un petit oiseau chante dans l'arbre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "race",
+      "word": "race",
+      "en": "race",
+      "sourceId": "breed",
+      "sourceIds": [
+        "breed"
+      ],
+      "ru": [
+        "порода",
+        "разводить"
+      ],
+      "gender": "f",
+      "example": "C'est une race de chien très intelligente.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "eleveur",
+      "word": "éleveur",
+      "en": "éleveur",
+      "sourceId": "breeder",
+      "sourceIds": [
+        "breeder"
+      ],
+      "ru": [
+        "селекционер",
+        "бридер",
+        "реактор-размножитель"
+      ],
+      "gender": "m",
+      "example": "Cet éleveur de chiens est très réputé.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "elevage",
+      "word": "élevage",
+      "en": "élevage",
+      "sourceId": "breeding",
+      "sourceIds": [
+        "breeding"
+      ],
+      "ru": [
+        "выращивание",
+        "разведение",
+        "родословная"
+      ],
+      "gender": "m",
+      "example": "L'élevage des chevaux demande beaucoup de patience.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "buffle",
+      "word": "buffle",
+      "en": "buffle",
+      "sourceId": "buffalo",
+      "sourceIds": [
+        "buffalo"
+      ],
+      "ru": [
+        "буйвол"
+      ],
+      "gender": "m",
+      "example": "Le buffle vit dans les zones humides.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bug",
+      "word": "bug",
+      "en": "bug",
+      "sourceId": "bug",
+      "sourceIds": [
+        "bug"
+      ],
+      "ru": [
+        "клоп",
+        "баг",
+        "глюк"
+      ],
+      "gender": "m",
+      "example": "Il y a un bug dans le code.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sodomite",
+      "word": "sodomite",
+      "en": "sodomite",
+      "sourceId": "bugger",
+      "sourceIds": [
+        "bugger"
+      ],
+      "ru": [
+        "содомит"
+      ],
+      "gender": "m",
+      "example": "Le terme sodomite est historiquement chargé.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "touffu",
+      "word": "touffu",
+      "en": "touffu",
+      "sourceId": "bushy",
+      "sourceIds": [
+        "bushy"
+      ],
+      "ru": [
+        "пушистый"
+      ],
+      "gender": null,
+      "example": "Il a des sourcils très touffus.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "papillon",
+      "word": "papillon",
+      "en": "papillon",
+      "sourceId": "butterfly",
+      "sourceIds": [
+        "butterfly"
+      ],
+      "ru": [
+        "бабочка",
+        "мотылёк",
+        "мотыль"
+      ],
+      "gender": "m",
+      "example": "Un beau papillon s'est posé sur la fleur.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "poisson-papillon",
+      "word": "poisson-papillon",
+      "en": "poisson-papillon",
+      "sourceId": "butterflyfish",
+      "sourceIds": [
+        "butterflyfish"
+      ],
+      "ru": [
+        "рыба-бабочка",
+        "щетинозуб"
+      ],
+      "gender": "m",
+      "example": "Le poisson-papillon nage près du récif corallien.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cage",
+      "word": "cage",
+      "en": "cage",
+      "sourceId": "cage",
+      "sourceIds": [
+        "cage"
+      ],
+      "ru": [
+        "клетка",
+        "кабина"
+      ],
+      "gender": "f",
+      "example": "L'oiseau s'est échappé de sa cage.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "chameau",
+      "word": "chameau",
+      "en": "chameau",
+      "sourceId": "camel",
+      "sourceIds": [
+        "camel"
+      ],
+      "ru": [
+        "верблюд"
+      ],
+      "gender": "m",
+      "example": "Le chameau vit dans le désert.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "carnivore",
+      "word": "carnivore",
+      "en": "carnivore",
+      "sourceId": "carnivore",
+      "sourceIds": [
+        "carnivore"
+      ],
+      "ru": [
+        "плотоядное животное"
+      ],
+      "gender": "m",
+      "example": "Le lion est un carnivore.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chat",
+      "word": "chat",
+      "en": "chat",
+      "sourceId": "cat",
+      "sourceIds": [
+        "cat"
+      ],
+      "ru": [
+        "кошка",
+        "кот"
+      ],
+      "gender": "m",
+      "example": "Mon chat dort sur le canapé.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "poussin",
+      "word": "poussin",
+      "en": "poussin",
+      "sourceId": "chick",
+      "sourceIds": [
+        "chick"
+      ],
+      "ru": [
+        "птенец",
+        "цыплёнок"
+      ],
+      "gender": "m",
+      "example": "Le poussin sort de son œuf.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "poulet",
+      "word": "poulet",
+      "en": "poulet",
+      "sourceId": "chicken",
+      "sourceIds": [
+        "chicken"
+      ],
+      "ru": [
+        "курица",
+        "цыплёнок",
+        "курятина"
+      ],
+      "gender": "m",
+      "example": "Nous mangeons du poulet pour le dîner.",
+      "level": "A1",
+      "pos": "n"
+    },
+    {
+      "id": "coregone",
+      "word": "corégone",
+      "en": "corégone",
+      "sourceId": "cisco",
+      "sourceIds": [
+        "cisco"
+      ],
+      "ru": [
+        "сиг"
+      ],
+      "gender": "m",
+      "example": "Le corégone est un poisson d'eau douce très apprécié.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coq",
+      "word": "coq",
+      "en": "coq",
+      "sourceId": "cock",
+      "sourceIds": [
+        "cock"
+      ],
+      "ru": [
+        "петух"
+      ],
+      "gender": "m",
+      "example": "Le coq chante au lever du soleil.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "vache",
+      "word": "vache",
+      "en": "vache",
+      "sourceId": "cow",
+      "sourceIds": [
+        "cow"
+      ],
+      "ru": [
+        "корова",
+        "бык",
+        "запугивать"
+      ],
+      "gender": "f",
+      "example": "La vache broute dans le pré.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "intimide",
+      "word": "intimidé",
+      "en": "intimidé",
+      "sourceId": "cowed",
+      "sourceIds": [
+        "cowed"
+      ],
+      "ru": [
+        "забитый"
+      ],
+      "gender": null,
+      "example": "Il semblait intimidé par son patron.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "crabe",
+      "word": "crabe",
+      "en": "crabe",
+      "sourceId": "crab",
+      "sourceIds": [
+        "crab"
+      ],
+      "ru": [
+        "краб"
+      ],
+      "gender": "m",
+      "example": "Le crabe marche sur le sable.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "illisible",
+      "word": "illisible",
+      "en": "illisible",
+      "sourceId": "crabbed",
+      "sourceIds": [
+        "crabbed"
+      ],
+      "ru": [
+        "неразборчивый"
+      ],
+      "gender": null,
+      "example": "Son écriture est si crabbe qu'elle est totalement illisible.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "crabeur",
+      "word": "pêcheur de crabes",
+      "en": "pêcheur de crabes",
+      "sourceId": "crabber",
+      "sourceIds": [
+        "crabber"
+      ],
+      "ru": [
+        "краболов"
+      ],
+      "gender": "m",
+      "example": "Le pêcheur de crabes relève ses casiers.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "creature",
+      "word": "créature",
+      "en": "créature",
+      "sourceId": "creature",
+      "sourceIds": [
+        "creature"
+      ],
+      "ru": [
+        "тварь",
+        "создание",
+        "существо"
+      ],
+      "gender": "f",
+      "example": "C'est une créature étrange qui vit dans la forêt.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "crocodile",
+      "word": "crocodile",
+      "en": "crocodile",
+      "sourceId": "crocodile",
+      "sourceIds": [
+        "crocodile"
+      ],
+      "ru": [
+        "крокодил"
+      ],
+      "gender": "m",
+      "example": "Le crocodile nage dans la rivière.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "corneille",
+      "word": "corneille",
+      "en": "corneille",
+      "sourceId": "crow",
+      "sourceIds": [
+        "crow"
+      ],
+      "ru": [
+        "ворона"
+      ],
+      "gender": "f",
+      "example": "Une corneille s'est posée sur la branche.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cerf",
+      "word": "cerf",
+      "en": "cerf",
+      "sourceId": "deer",
+      "sourceIds": [
+        "deer"
+      ],
+      "ru": [
+        "олень"
+      ],
+      "gender": "m",
+      "example": "Un cerf traverse la forêt.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "chien",
+      "word": "chien",
+      "en": "chien",
+      "sourceId": "dog",
+      "sourceIds": [
+        "dog"
+      ],
+      "ru": [
+        "собака",
+        "пёс",
+        "псина"
+      ],
+      "gender": "m",
+      "example": "Mon chien aime courir dans le parc.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "tenace",
+      "word": "tenace",
+      "en": "tenace",
+      "sourceId": "dogged",
+      "sourceIds": [
+        "dogged"
+      ],
+      "ru": [
+        "настырный",
+        "упёртый"
+      ],
+      "gender": null,
+      "example": "Il a fait preuve d'une détermination tenace pour réussir son projet.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "dauphin",
+      "word": "dauphin",
+      "en": "dauphin",
+      "sourceId": "dolphin",
+      "sourceIds": [
+        "dolphin"
+      ],
+      "ru": [
+        "дельфин"
+      ],
+      "gender": "m",
+      "example": "Le dauphin nage rapidement dans l'océan.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "dauphinarium",
+      "word": "dauphinarium",
+      "en": "dauphinarium",
+      "sourceId": "dolphinarium",
+      "sourceIds": [
+        "dolphinarium"
+      ],
+      "ru": [
+        "дельфинарий",
+        "дельфинариум"
+      ],
+      "gender": "m",
+      "example": "Nous avons visité le dauphinarium pendant nos vacances.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "apprivoiser",
+      "word": "apprivoiser",
+      "en": "apprivoiser",
+      "sourceId": "domesticate",
+      "sourceIds": [
+        "domesticate"
+      ],
+      "ru": [
+        "приручать",
+        "приручить",
+        "одомашнивать"
+      ],
+      "gender": null,
+      "example": "Il est difficile d'apprivoiser un animal sauvage.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "domestique",
+      "word": "domestiqué",
+      "en": "domestiqué",
+      "sourceId": "domesticated",
+      "sourceIds": [
+        "domesticated"
+      ],
+      "ru": [
+        "приручённый",
+        "ручной"
+      ],
+      "gender": null,
+      "example": "Le chien est un animal domestiqué depuis des millénaires.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "domestication",
+      "word": "domestication",
+      "en": "domestication",
+      "sourceId": "domestication",
+      "sourceIds": [
+        "domestication"
+      ],
+      "ru": [
+        "доместикация",
+        "одомашнивание"
+      ],
+      "gender": "f",
+      "example": "La domestication du chien remonte à plusieurs millénaires.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "canard",
+      "word": "canard",
+      "en": "canard",
+      "sourceId": "duck",
+      "sourceIds": [
+        "duck"
+      ],
+      "ru": [
+        "утка"
+      ],
+      "gender": "m",
+      "example": "Le canard nage sur le lac.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "aigle",
+      "word": "aigle",
+      "en": "aigle",
+      "sourceId": "eagle",
+      "sourceIds": [
+        "eagle"
+      ],
+      "ru": [
+        "орёл",
+        "орлица"
+      ],
+      "gender": "m",
+      "example": "L'aigle plane au-dessus de la montagne.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "elephant",
+      "word": "éléphant",
+      "en": "éléphant",
+      "sourceId": "elephant",
+      "sourceIds": [
+        "elephant"
+      ],
+      "ru": [
+        "слон",
+        "слониха"
+      ],
+      "gender": "m",
+      "example": "L'éléphant est un animal impressionnant.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "plume",
+      "word": "plume",
+      "en": "plume",
+      "sourceId": "feather",
+      "sourceIds": [
+        "feather"
+      ],
+      "ru": [
+        "перо"
+      ],
+      "gender": "f",
+      "example": "L'oiseau a perdu une plume.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "plume-feathered",
+      "word": "plumé",
+      "en": "plumé",
+      "sourceId": "feathered",
+      "sourceIds": [
+        "feathered"
+      ],
+      "ru": [
+        "пернатый"
+      ],
+      "gender": null,
+      "example": "Les oiseaux sont des animaux plumés.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "plumeux",
+      "word": "plumeux",
+      "en": "plumeux",
+      "sourceId": "feathery",
+      "sourceIds": [
+        "feathery"
+      ],
+      "ru": [
+        "перистый",
+        "пернатый"
+      ],
+      "gender": null,
+      "example": "Les nuages ont un aspect plumeux dans le ciel.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "antenne",
+      "word": "antenne",
+      "en": "antenne",
+      "sourceId": "feeler",
+      "sourceIds": [
+        "feeler"
+      ],
+      "ru": [
+        "антенна",
+        "сяжок",
+        "усик"
+      ],
+      "gender": "f",
+      "example": "L'insecte utilise ses antennes pour explorer son environnement.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "troupeau",
+      "word": "troupeau",
+      "en": "troupeau",
+      "sourceId": "flock",
+      "sourceIds": [
+        "flock"
+      ],
+      "ru": [
+        "стадо",
+        "стая"
+      ],
+      "gender": "m",
+      "example": "Un grand troupeau de moutons paît dans le pré.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "renard",
+      "word": "renard",
+      "en": "renard",
+      "sourceId": "fox",
+      "sourceIds": [
+        "fox"
+      ],
+      "ru": [
+        "лиса",
+        "лис",
+        "лисица"
+      ],
+      "gender": "m",
+      "example": "Le renard court dans la forêt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grenouille",
+      "word": "grenouille",
+      "en": "grenouille",
+      "sourceId": "frog",
+      "sourceIds": [
+        "frog"
+      ],
+      "ru": [
+        "лягушка",
+        "жаба"
+      ],
+      "gender": "f",
+      "example": "La grenouille saute dans l'étang.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "girafe",
+      "word": "girafe",
+      "en": "girafe",
+      "sourceId": "giraffe",
+      "sourceIds": [
+        "giraffe"
+      ],
+      "ru": [
+        "жираф",
+        "гираф",
+        "жирафа"
+      ],
+      "gender": "f",
+      "example": "La girafe mange les feuilles des arbres.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chevre",
+      "word": "chèvre",
+      "en": "chèvre",
+      "sourceId": "goat",
+      "sourceIds": [
+        "goat"
+      ],
+      "ru": [
+        "коза",
+        "козёл"
+      ],
+      "gender": "f",
+      "example": "La chèvre mange de l'herbe dans le pré.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "oie",
+      "word": "oie",
+      "en": "oie",
+      "sourceId": "goose",
+      "sourceIds": [
+        "goose"
+      ],
+      "ru": [
+        "гусь",
+        "гусак",
+        "гусыня"
+      ],
+      "gender": "f",
+      "example": "L'oie traverse la route.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "merou",
+      "word": "mérou",
+      "en": "mérou",
+      "sourceId": "grouper",
+      "sourceIds": [
+        "grouper"
+      ],
+      "ru": [
+        "групер",
+        "каменный окунь"
+      ],
+      "gender": "m",
+      "example": "Le mérou est un poisson impressionnant qui vit dans les récifs coralliens.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "hamster",
+      "word": "hamster",
+      "en": "hamster",
+      "sourceId": "hamster",
+      "sourceIds": [
+        "hamster"
+      ],
+      "ru": [
+        "хомяк",
+        "хомячить"
+      ],
+      "gender": "m",
+      "example": "Mon hamster adore courir dans sa roue.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "herisson",
+      "word": "hérisson",
+      "en": "hérisson",
+      "sourceId": "hedgehog",
+      "sourceIds": [
+        "hedgehog"
+      ],
+      "ru": [
+        "ёж",
+        "ёжик",
+        "ежак"
+      ],
+      "gender": "m",
+      "example": "Le hérisson se met en boule pour se protéger.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "poule",
+      "word": "poule",
+      "en": "poule",
+      "sourceId": "hen",
+      "sourceIds": [
+        "hen"
+      ],
+      "ru": [
+        "курица",
+        "курочка",
+        "самка"
+      ],
+      "gender": "f",
+      "example": "La poule picore des graines dans la cour.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "troupeau",
+      "word": "troupeau",
+      "en": "troupeau",
+      "sourceId": "herd",
+      "sourceIds": [
+        "herd"
+      ],
+      "ru": [
+        "стадо",
+        "табун",
+        "гурт"
+      ],
+      "gender": "m",
+      "example": "Le berger surveille son troupeau de moutons.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "berger",
+      "word": "berger",
+      "en": "berger",
+      "sourceId": "herder",
+      "sourceIds": [
+        "herder"
+      ],
+      "ru": [
+        "пастух",
+        "пастушка",
+        "скотник"
+      ],
+      "gender": "m",
+      "example": "Le berger garde son troupeau dans la vallée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cheval",
+      "word": "cheval",
+      "en": "cheval",
+      "sourceId": "horse",
+      "sourceIds": [
+        "horse"
+      ],
+      "ru": [
+        "лошадь",
+        "конь"
+      ],
+      "gender": "m",
+      "example": "Le cheval court dans le pré.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "chasse",
+      "word": "chasse",
+      "en": "chasse",
+      "sourceId": "hunt",
+      "sourceIds": [
+        "hunt"
+      ],
+      "ru": [
+        "ловля",
+        "лов",
+        "охота"
+      ],
+      "gender": "f",
+      "example": "La chasse est une activité traditionnelle dans cette région.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "chasseur",
+      "word": "chasseur",
+      "en": "chasseur",
+      "sourceId": "hunter",
+      "sourceIds": [
+        "hunter"
+      ],
+      "ru": [
+        "охотник",
+        "ловец",
+        "охотничья собака"
+      ],
+      "gender": "m",
+      "example": "Le chasseur marche dans la forêt avec son chien.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chasse",
+      "word": "chasse",
+      "en": "chasse",
+      "sourceId": "hunting",
+      "sourceIds": [
+        "hunting"
+      ],
+      "ru": [
+        "охота",
+        "поиск"
+      ],
+      "gender": "f",
+      "example": "La chasse est une activité traditionnelle dans cette région.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "insecte",
+      "word": "insecte",
+      "en": "insecte",
+      "sourceId": "insect",
+      "sourceIds": [
+        "insect"
+      ],
+      "ru": [
+        "насекомое",
+        "букашка",
+        "козявка"
+      ],
+      "gender": "m",
+      "example": "L'abeille est un insecte très utile.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "prise",
+      "word": "prise",
+      "en": "prise",
+      "sourceId": "jack",
+      "sourceIds": [
+        "jack"
+      ],
+      "ru": [
+        "разъём",
+        "гнездо",
+        "штекер"
+      ],
+      "gender": "f",
+      "example": "Branchez le casque dans la prise jack.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "kangourou",
+      "word": "kangourou",
+      "en": "kangourou",
+      "sourceId": "kangaroo",
+      "sourceIds": [
+        "kangaroo"
+      ],
+      "ru": [
+        "кенгуру"
+      ],
+      "gender": "m",
+      "example": "Le kangourou bondit dans la savane.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chaton",
+      "word": "chaton",
+      "en": "chaton",
+      "sourceId": "kitten",
+      "sourceIds": [
+        "kitten"
+      ],
+      "ru": [
+        "котёнок"
+      ],
+      "gender": "m",
+      "example": "Le petit chaton joue avec une pelote de laine.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "koala",
+      "word": "koala",
+      "en": "koala",
+      "sourceId": "koala",
+      "sourceIds": [
+        "koala"
+      ],
+      "ru": [
+        "коала"
+      ],
+      "gender": "m",
+      "example": "Le koala dort beaucoup pendant la journée.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "tortue-luth",
+      "word": "tortue luth",
+      "en": "tortue luth",
+      "sourceId": "leatherback",
+      "sourceIds": [
+        "leatherback"
+      ],
+      "ru": [
+        "кожистая черепаха"
+      ],
+      "gender": "f",
+      "example": "La tortue luth est la plus grande de toutes les tortues marines.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "lion",
+      "word": "lion",
+      "en": "lion",
+      "sourceId": "lion",
+      "sourceIds": [
+        "lion"
+      ],
+      "ru": [
+        "лев",
+        "львица"
+      ],
+      "gender": "m",
+      "example": "Le lion est le roi des animaux.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "lezard",
+      "word": "lézard",
+      "en": "lézard",
+      "sourceId": "lizard",
+      "sourceIds": [
+        "lizard"
+      ],
+      "ru": [
+        "ящерица",
+        "ящер",
+        "ящерка"
+      ],
+      "gender": "m",
+      "example": "Un petit lézard se chauffe au soleil sur le mur.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "homard",
+      "word": "homard",
+      "en": "homard",
+      "sourceId": "lobster",
+      "sourceIds": [
+        "lobster"
+      ],
+      "ru": [
+        "лобстер",
+        "омар"
+      ],
+      "gender": "m",
+      "example": "Le homard est un crustacé très apprécié.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "mammifere",
+      "word": "mammifère",
+      "en": "mammifère",
+      "sourceId": "mammal",
+      "sourceIds": [
+        "mammal"
+      ],
+      "ru": [
+        "млекопитающее",
+        "зверь"
+      ],
+      "gender": "m",
+      "example": "La baleine est un mammifère marin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "singe",
+      "word": "singe",
+      "en": "singe",
+      "sourceId": "monkey",
+      "sourceIds": [
+        "monkey",
+        "ape"
+      ],
+      "ru": [
+        "обезьяна"
+      ],
+      "gender": "m",
+      "example": "Le singe mange une banane dans l'arbre.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "elan",
+      "word": "élan",
+      "en": "élan",
+      "sourceId": "moose",
+      "sourceIds": [
+        "moose",
+        "elk"
+      ],
+      "ru": [
+        "лось"
+      ],
+      "gender": "m",
+      "example": "J'ai vu un élan dans la forêt canadienne.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "moustique",
+      "word": "moustique",
+      "en": "moustique",
+      "sourceId": "mosquito",
+      "sourceIds": [
+        "mosquito"
+      ],
+      "ru": [
+        "комар",
+        "москит"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de moustiques près de l'étang.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "souris",
+      "word": "souris",
+      "en": "souris",
+      "sourceId": "mouse",
+      "sourceIds": [
+        "mouse"
+      ],
+      "ru": [
+        "мышь",
+        "мышка"
+      ],
+      "gender": "f",
+      "example": "La souris grignote un morceau de fromage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chasseur-de-souris",
+      "word": "chasseur de souris",
+      "en": "chasseur de souris",
+      "sourceId": "mouser",
+      "sourceIds": [
+        "mouser"
+      ],
+      "ru": [
+        "мышелов"
+      ],
+      "gender": "m",
+      "example": "Ce chat est un excellent chasseur de souris.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "moule",
+      "word": "moule",
+      "en": "moule",
+      "sourceId": "mussels",
+      "sourceIds": [
+        "mussels"
+      ],
+      "ru": [
+        "мидии"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des moules frites au bord de la mer.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "nid",
+      "word": "nid",
+      "en": "nid",
+      "sourceId": "nest",
+      "sourceIds": [
+        "nest"
+      ],
+      "ru": [
+        "гнездо",
+        "гнёздышко"
+      ],
+      "gender": "m",
+      "example": "L'oiseau construit son nid dans l'arbre.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "imbrique",
+      "word": "imbriqué",
+      "en": "imbriqué",
+      "sourceId": "nested",
+      "sourceIds": [
+        "nested"
+      ],
+      "ru": [
+        "вложенный"
+      ],
+      "gender": null,
+      "example": "Le code contient plusieurs boucles imbriquées.",
+      "level": "C1",
+      "pos": "adj"
+    },
+    {
+      "id": "autruche",
+      "word": "autruche",
+      "en": "autruche",
+      "sourceId": "ostrich",
+      "sourceIds": [
+        "ostrich"
+      ],
+      "ru": [
+        "страус"
+      ],
+      "gender": "f",
+      "example": "L'autruche est le plus grand oiseau du monde.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "hibou",
+      "word": "hibou",
+      "en": "hibou",
+      "sourceId": "owl",
+      "sourceIds": [
+        "owl"
+      ],
+      "ru": [
+        "сова",
+        "сыч",
+        "филин"
+      ],
+      "gender": "m",
+      "example": "Le hibou chasse la nuit.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "huitre",
+      "word": "huître",
+      "en": "huître",
+      "sourceId": "oysters",
+      "sourceIds": [
+        "oysters"
+      ],
+      "ru": [
+        "устрицы"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des huîtres avec un filet de citron.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "panda",
+      "word": "panda",
+      "en": "panda",
+      "sourceId": "panda",
+      "sourceIds": [
+        "panda"
+      ],
+      "ru": [
+        "бамбуковый медведь",
+        "панда"
+      ],
+      "gender": "m",
+      "example": "Le panda mange du bambou.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "perroquet",
+      "word": "perroquet",
+      "en": "perroquet",
+      "sourceId": "parrot",
+      "sourceIds": [
+        "parrot"
+      ],
+      "ru": [
+        "попугай"
+      ],
+      "gender": null,
+      "example": "Le perroquet répète tout ce qu'il entend.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "patte",
+      "word": "patte",
+      "en": "patte",
+      "sourceId": "paw",
+      "sourceIds": [
+        "paw"
+      ],
+      "ru": [
+        "лапа"
+      ],
+      "gender": "f",
+      "example": "Le chien s'est blessé à la patte.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "patte",
+      "word": "patte",
+      "en": "patte",
+      "sourceId": "paws",
+      "sourceIds": [
+        "paws"
+      ],
+      "ru": [
+        "лапы"
+      ],
+      "gender": "f",
+      "example": "Le chat a des pattes douces.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "manchot",
+      "word": "manchot",
+      "en": "manchot",
+      "sourceId": "penguin",
+      "sourceIds": [
+        "penguin"
+      ],
+      "ru": [
+        "пингвин"
+      ],
+      "gender": "m",
+      "example": "Le manchot vit dans l'hémisphère sud.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "manchotiere",
+      "word": "manchotière",
+      "en": "manchotière",
+      "sourceId": "penguinarium",
+      "sourceIds": [
+        "penguinarium"
+      ],
+      "ru": [
+        "пингвинарий"
+      ],
+      "gender": "f",
+      "example": "Nous avons observé les manchots dans la manchotière du zoo.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "animal-de-compagnie",
+      "word": "animal de compagnie",
+      "en": "animal de compagnie",
+      "sourceId": "pet",
+      "sourceIds": [
+        "pet"
+      ],
+      "ru": [
+        "домашнее животное",
+        "животное-компаньон",
+        "любимец"
+      ],
+      "gender": "m",
+      "example": "Il adore son animal de compagnie.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "caresse",
+      "word": "caresse",
+      "en": "caresse",
+      "sourceId": "petting",
+      "sourceIds": [
+        "petting"
+      ],
+      "ru": [
+        "ласка",
+        "нежничанье",
+        "нежничанье (сексуальные)"
+      ],
+      "gender": "f",
+      "example": "Ils échangeaient des caresses sur le canapé.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cochon",
+      "word": "cochon",
+      "en": "cochon",
+      "sourceId": "pig",
+      "sourceIds": [
+        "pig"
+      ],
+      "ru": [
+        "свинья",
+        "боров"
+      ],
+      "gender": "m",
+      "example": "Le cochon mange dans son auge.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "pigeon",
+      "word": "pigeon",
+      "en": "pigeon",
+      "sourceId": "pigeon",
+      "sourceIds": [
+        "pigeon"
+      ],
+      "ru": [
+        "голубь",
+        "голубка"
+      ],
+      "gender": "m",
+      "example": "Un pigeon s'est posé sur le rebord de la fenêtre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chien-de-prairie",
+      "word": "chien de prairie",
+      "en": "chien de prairie",
+      "sourceId": "prairie-dog",
+      "sourceIds": [
+        "prairie-dog"
+      ],
+      "ru": [
+        "сурок"
+      ],
+      "gender": "m",
+      "example": "Le chien de prairie vit dans les plaines d'Amérique du Nord.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "proie",
+      "word": "proie",
+      "en": "proie",
+      "sourceId": "prey",
+      "sourceIds": [
+        "prey"
+      ],
+      "ru": [
+        "добыча",
+        "пожива"
+      ],
+      "gender": "f",
+      "example": "Le lion guette sa proie dans la savane.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chiot",
+      "word": "chiot",
+      "en": "chiot",
+      "sourceId": "puppy",
+      "sourceIds": [
+        "puppy"
+      ],
+      "ru": [
+        "щенок",
+        "цуцик"
+      ],
+      "gender": "m",
+      "example": "Le petit chiot joue dans le jardin.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "lapin",
+      "word": "lapin",
+      "en": "lapin",
+      "sourceId": "rabbit",
+      "sourceIds": [
+        "rabbit"
+      ],
+      "ru": [
+        "кролик",
+        "крольчиха"
+      ],
+      "gender": "m",
+      "example": "Le lapin mange une carotte dans le jardin.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "race",
+      "word": "race",
+      "en": "race",
+      "sourceId": "race",
+      "sourceIds": [
+        "race"
+      ],
+      "ru": [
+        "порода"
+      ],
+      "gender": "f",
+      "example": "C'est un chien de race pure.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "rat",
+      "word": "rat",
+      "en": "rat",
+      "sourceId": "rat",
+      "sourceIds": [
+        "rat"
+      ],
+      "ru": [
+        "крыса",
+        "пасюк",
+        "доносчик"
+      ],
+      "gender": "m",
+      "example": "Un rat courait dans la cave.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "rongeur",
+      "word": "rongeur",
+      "en": "rongeur",
+      "sourceId": "rodent",
+      "sourceIds": [
+        "rodent"
+      ],
+      "ru": [
+        "грызун"
+      ],
+      "gender": "m",
+      "example": "Le castor est un rongeur qui construit des barrages.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "coq",
+      "word": "coq",
+      "en": "coq",
+      "sourceId": "rooster",
+      "sourceIds": [
+        "rooster"
+      ],
+      "ru": [
+        "кочет",
+        "певень",
+        "петух"
+      ],
+      "gender": "m",
+      "example": "Le coq chante au lever du soleil.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "parfum",
+      "word": "parfum",
+      "en": "parfum",
+      "sourceId": "scent",
+      "sourceIds": [
+        "scent"
+      ],
+      "ru": [
+        "аромат",
+        "запах"
+      ],
+      "gender": "m",
+      "example": "Ce parfum de fleurs est très agréable.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "phoque",
+      "word": "phoque",
+      "en": "phoque",
+      "sourceId": "seal",
+      "sourceIds": [
+        "seal"
+      ],
+      "ru": [
+        "тюлень"
+      ],
+      "gender": "m",
+      "example": "Le phoque nage dans l'océan.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "requin",
+      "word": "requin",
+      "en": "requin",
+      "sourceId": "shark",
+      "sourceIds": [
+        "shark"
+      ],
+      "ru": [
+        "акула"
+      ],
+      "gender": "m",
+      "example": "Le requin nage dans l'océan.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "mouton",
+      "word": "mouton",
+      "en": "mouton",
+      "sourceId": "sheep",
+      "sourceIds": [
+        "sheep"
+      ],
+      "ru": [
+        "овца",
+        "агнец",
+        "овечка"
+      ],
+      "gender": "m",
+      "example": "Le mouton broute dans le pré.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "crevette",
+      "word": "crevette",
+      "en": "crevette",
+      "sourceId": "shrimp",
+      "sourceIds": [
+        "shrimp"
+      ],
+      "ru": [
+        "креветка"
+      ],
+      "gender": "f",
+      "example": "J'adore manger des crevettes grillées.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "escargot",
+      "word": "escargot",
+      "en": "escargot",
+      "sourceId": "snail",
+      "sourceIds": [
+        "snail"
+      ],
+      "ru": [
+        "улитка",
+        "копуша",
+        "тихоход"
+      ],
+      "gender": "m",
+      "example": "L'escargot avance lentement dans le jardin.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "serpent",
+      "word": "serpent",
+      "en": "serpent",
+      "sourceId": "snake",
+      "sourceIds": [
+        "snake"
+      ],
+      "ru": [
+        "змея",
+        "гадина",
+        "гад"
+      ],
+      "gender": "m",
+      "example": "Le serpent se glisse dans l'herbe.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "moineau",
+      "word": "moineau",
+      "en": "moineau",
+      "sourceId": "sparrow",
+      "sourceIds": [
+        "sparrow"
+      ],
+      "ru": [
+        "воробей",
+        "воробушек",
+        "воробышек"
+      ],
+      "gender": "m",
+      "example": "Un petit moineau chante sur la branche.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "espece",
+      "word": "espèce",
+      "en": "espèce",
+      "sourceId": "species",
+      "sourceIds": [
+        "species"
+      ],
+      "ru": [
+        "вид"
+      ],
+      "gender": "f",
+      "example": "Cette espèce d'oiseau est en voie de disparition.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "araignee",
+      "word": "araignée",
+      "en": "araignée",
+      "sourceId": "spider",
+      "sourceIds": [
+        "spider"
+      ],
+      "ru": [
+        "паук"
+      ],
+      "gender": "f",
+      "example": "Une petite araignée descend du plafond.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "ecureuil",
+      "word": "écureuil",
+      "en": "écureuil",
+      "sourceId": "squirrel",
+      "sourceIds": [
+        "squirrel"
+      ],
+      "ru": [
+        "белка",
+        "веверица",
+        "векша"
+      ],
+      "gender": "m",
+      "example": "L'écureuil grimpe rapidement à l'arbre.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "cygne",
+      "word": "cygne",
+      "en": "cygne",
+      "sourceId": "swan",
+      "sourceIds": [
+        "swan"
+      ],
+      "ru": [
+        "лебедь"
+      ],
+      "gender": "m",
+      "example": "Un cygne blanc nage sur le lac.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "queue",
+      "word": "queue",
+      "en": "queue",
+      "sourceId": "tail",
+      "sourceIds": [
+        "tail"
+      ],
+      "ru": [
+        "хвост",
+        "решка"
+      ],
+      "gender": "f",
+      "example": "Le chien remue la queue.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "caude",
+      "word": "caudé",
+      "en": "caudé",
+      "sourceId": "tailed",
+      "sourceIds": [
+        "tailed"
+      ],
+      "ru": [
+        "хвостатый"
+      ],
+      "gender": null,
+      "example": "C'est un animal caudé.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "tigre",
+      "word": "tigre",
+      "en": "tigre",
+      "sourceId": "tiger",
+      "sourceIds": [
+        "tiger"
+      ],
+      "ru": [
+        "тигр"
+      ],
+      "gender": "m",
+      "example": "Le tigre est un animal majestueux.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "matou",
+      "word": "matou",
+      "en": "matou",
+      "sourceId": "tom",
+      "sourceIds": [
+        "tom"
+      ],
+      "ru": [
+        "кот",
+        "самец"
+      ],
+      "gender": "m",
+      "example": "Le matou miaule sur le toit.",
+      "level": "A2",
+      "pos": "n"
+    },
+    {
+      "id": "trompe",
+      "word": "trompe",
+      "en": "trompe",
+      "sourceId": "trunk",
+      "sourceIds": [
+        "trunk"
+      ],
+      "ru": [
+        "хобот"
+      ],
+      "gender": "f",
+      "example": "L'éléphant utilise sa trompe pour boire.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "dinde",
+      "word": "dinde",
+      "en": "dinde",
+      "sourceId": "turkey",
+      "sourceIds": [
+        "turkey"
+      ],
+      "ru": [
+        "индюк",
+        "индейка",
+        "индюшка"
+      ],
+      "gender": "f",
+      "example": "Nous avons mangé de la dinde pour Noël.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tortue",
+      "word": "tortue",
+      "en": "tortue",
+      "sourceId": "turtle",
+      "sourceIds": [
+        "turtle",
+        "tortoise"
+      ],
+      "ru": [
+        "черепаха"
+      ],
+      "gender": "f",
+      "example": "La tortue marche lentement.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "baleine",
+      "word": "baleine",
+      "en": "baleine",
+      "sourceId": "whale",
+      "sourceIds": [
+        "whale"
+      ],
+      "ru": [
+        "кит"
+      ],
+      "gender": "f",
+      "example": "La baleine bleue est le plus grand animal du monde.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "baleinier",
+      "word": "baleinier",
+      "en": "baleinier",
+      "sourceId": "whaler",
+      "sourceIds": [
+        "whaler"
+      ],
+      "ru": [
+        "китобой"
+      ],
+      "gender": "m",
+      "example": "Le baleinier a quitté le port pour une longue expédition.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "chasse-a-la-baleine",
+      "word": "chasse à la baleine",
+      "en": "chasse à la baleine",
+      "sourceId": "whaling",
+      "sourceIds": [
+        "whaling"
+      ],
+      "ru": [
+        "китобойный промысел",
+        "охота на китов"
+      ],
+      "gender": "f",
+      "example": "La chasse à la baleine est interdite dans de nombreux pays.",
+      "level": "C2",
+      "pos": "n"
+    },
+    {
+      "id": "sauvage",
+      "word": "sauvage",
+      "en": "sauvage",
+      "sourceId": "wild",
+      "sourceIds": [
+        "wild"
+      ],
+      "ru": [
+        "дикий",
+        "буйная",
+        "буйное"
+      ],
+      "gender": null,
+      "example": "Il a vu un animal sauvage dans la forêt.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "faune",
+      "word": "faune",
+      "en": "faune",
+      "sourceId": "wildlife",
+      "sourceIds": [
+        "wildlife"
+      ],
+      "ru": [
+        "дикая природа",
+        "живая природа",
+        "животный мир"
+      ],
+      "gender": "f",
+      "example": "Il faut protéger la faune sauvage de cette région.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "aile",
+      "word": "aile",
+      "en": "aile",
+      "sourceId": "wing",
+      "sourceIds": [
+        "wing"
+      ],
+      "ru": [
+        "крыло",
+        "авиаполк",
+        "подстрелить"
+      ],
+      "gender": "f",
+      "example": "L'oiseau a une aile blessée.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "aile-winged",
+      "word": "ailé",
+      "en": "ailé",
+      "sourceId": "winged",
+      "sourceIds": [
+        "winged"
+      ],
+      "ru": [
+        "крылатый"
+      ],
+      "gender": null,
+      "example": "Les insectes ailés volent autour de la lampe.",
+      "level": "C2",
+      "pos": "adj"
+    },
+    {
+      "id": "loup",
+      "word": "loup",
+      "en": "loup",
+      "sourceId": "wolf",
+      "sourceIds": [
+        "wolf"
+      ],
+      "ru": [
+        "волк",
+        "волчица",
+        "пожирать"
+      ],
+      "gender": "m",
+      "example": "Le loup hurle dans la forêt.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "ver",
+      "word": "ver",
+      "en": "ver",
+      "sourceId": "worm",
+      "sourceIds": [
+        "worm"
+      ],
+      "ru": [
+        "червь",
+        "червяк"
+      ],
+      "gender": "m",
+      "example": "Le pêcheur utilise un ver pour attraper des poissons.",
+      "level": "C1",
+      "pos": "n"
+    },
+    {
+      "id": "zoo",
+      "word": "zoo",
+      "en": "zoo",
+      "sourceId": "zoo",
+      "sourceIds": [
+        "zoo"
+      ],
+      "ru": [
+        "зоопарк",
+        "зверинец",
+        "зоологический сад"
+      ],
+      "gender": "m",
+      "example": "Nous allons au zoo pour voir les lions.",
+      "level": "B2",
+      "pos": "n"
+    },
+    {
+      "id": "dragon",
+      "word": "dragon",
+      "en": "dragon",
+      "sourceId": "dragon",
+      "sourceIds": [
+        "dragon"
+      ],
+      "ru": [
+        "дракон"
+      ],
+      "gender": "m",
+      "example": "Le dragon crache du feu.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "griffe",
+      "word": "griffe",
+      "en": "griffe",
+      "sourceId": "claw",
+      "sourceIds": [
+        "claw"
+      ],
+      "ru": [
+        "коготь"
+      ],
+      "gender": "f",
+      "example": "Ces griffes robotiques géantes sont terrifiantes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "moustache",
+      "word": "moustache",
+      "en": "moustache",
+      "sourceId": "whisker",
+      "sourceIds": [
+        "whisker"
+      ],
+      "ru": [
+        "усы (у животных)"
+      ],
+      "gender": "f",
+      "example": "Le chat nettoie ses moustaches.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "albinos",
+      "word": "albinos",
+      "en": "albinos",
+      "sourceId": "albino",
+      "sourceIds": [
+        "albino"
+      ],
+      "ru": [
+        "альбинос"
+      ],
+      "gender": "m",
+      "example": "J'ai fini par vivre avec cet albinos.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "destrier",
+      "word": "destrier",
+      "en": "destrier",
+      "sourceId": "steed",
+      "sourceIds": [
+        "steed"
+      ],
+      "ru": [
+        "скакун",
+        "конь"
+      ],
+      "gender": "m",
+      "example": "Attachez la corde à votre précieux destrier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brosser",
+      "word": "toiletter",
+      "en": "toiletter",
+      "sourceId": "groom",
+      "sourceIds": [
+        "groom"
+      ],
+      "ru": [
+        "ухаживать за животным"
+      ],
+      "gender": null,
+      "example": "Elle toilette son chien chaque semaine.",
+      "level": "C2",
+      "pos": "v"
+    },
+    {
+      "id": "ver-solitaire",
+      "word": "ver solitaire",
+      "en": "ver solitaire",
+      "sourceId": "tapeworm",
+      "sourceIds": [
+        "tapeworm"
+      ],
+      "ru": [
+        "ленточный червь"
+      ],
+      "gender": "m",
+      "example": "Il a attrapé un ver solitaire en mangeant de la viande mal cuite.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hennir",
+      "word": "hennir",
+      "en": "hennir",
+      "sourceId": "neigh",
+      "sourceIds": [
+        "neigh"
+      ],
+      "ru": [
+        "ржать"
+      ],
+      "gender": null,
+      "example": "Le cheval se mit à hennir dans l'écurie.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "clydesdale",
+      "word": "clydesdale",
+      "en": "clydesdale",
+      "sourceId": "clydesdale",
+      "sourceIds": [
+        "clydesdale"
+      ],
+      "ru": [
+        "клейдесдальская лошадь"
+      ],
+      "gender": "m",
+      "example": "Toujours un clydesdale.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rapace",
+      "word": "rapace",
+      "en": "rapace",
+      "sourceId": "raptor",
+      "sourceIds": [
+        "raptor"
+      ],
+      "ru": [
+        "хищная птица",
+        "раптор"
+      ],
+      "gender": "m",
+      "example": "Le rapace plane au-dessus de la vallée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "klaxon",
+      "word": "klaxon",
+      "en": "klaxon",
+      "sourceId": "horn",
+      "sourceIds": [
+        "horn"
+      ],
+      "ru": [
+        "рог",
+        "гудок"
+      ],
+      "gender": "m",
+      "example": "Klaxonnez comme un gentleman.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "trot",
+      "word": "trot",
+      "en": "trot",
+      "sourceId": "trot",
+      "sourceIds": [
+        "trot"
+      ],
+      "ru": [
+        "рысь",
+        "бежать рысью"
+      ],
+      "gender": "m",
+      "example": "Le cheval est parti au trot.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pepier",
+      "word": "pépier",
+      "en": "pépier",
+      "sourceId": "chirp",
+      "sourceIds": [
+        "chirp"
+      ],
+      "ru": [
+        "чирикать"
+      ],
+      "gender": null,
+      "example": "Les oiseaux pépient dans les arbres.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "mangeoire",
+      "word": "mangeoire",
+      "en": "mangeoire",
+      "sourceId": "feeder",
+      "sourceIds": [
+        "feeder"
+      ],
+      "ru": [
+        "кормушка"
+      ],
+      "gender": "f",
+      "example": "Pourquoi ne remplis-tu pas ta mangeoire à oiseaux ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chevalin",
+      "word": "chevalin",
+      "en": "chevalin",
+      "sourceId": "horsey",
+      "sourceIds": [
+        "horsey"
+      ],
+      "ru": [
+        "лошадиный"
+      ],
+      "gender": null,
+      "example": "Recule, petit cheval.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "lemurien",
+      "word": "lémurien",
+      "en": "lémurien",
+      "sourceId": "lemur",
+      "sourceIds": [
+        "lemur"
+      ],
+      "ru": [
+        "лемур"
+      ],
+      "gender": "m",
+      "example": "Le lémurien vit à Madagascar.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gecko",
+      "word": "gecko",
+      "en": "gecko",
+      "sourceId": "gecko",
+      "sourceIds": [
+        "gecko"
+      ],
+      "ru": [
+        "геккон"
+      ],
+      "gender": "m",
+      "example": "Le gecko est un petit lézard fascinant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hippopotame",
+      "word": "hippopotame",
+      "en": "hippopotame",
+      "sourceId": "hippo",
+      "sourceIds": [
+        "hippo"
+      ],
+      "ru": [
+        "бегемот"
+      ],
+      "gender": "m",
+      "example": "L'hippopotame est un animal impressionnant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "copain",
+      "word": "copain",
+      "en": "copain",
+      "sourceId": "mate",
+      "sourceIds": [
+        "mate"
+      ],
+      "ru": [
+        "спариваться"
+      ],
+      "gender": "m",
+      "example": "N'est-ce pas un vieux copain à toi ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chardonneret",
+      "word": "chardonneret",
+      "en": "chardonneret",
+      "sourceId": "goldfinch",
+      "sourceIds": [
+        "goldfinch"
+      ],
+      "ru": [
+        "щегол"
+      ],
+      "gender": "m",
+      "example": "Ce sont des chardonnerets.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mouette",
+      "word": "mouette",
+      "en": "mouette",
+      "sourceId": "seagull",
+      "sourceIds": [
+        "seagull"
+      ],
+      "ru": [
+        "чайка"
+      ],
+      "gender": "f",
+      "example": "Regarde mes mouettes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "furet",
+      "word": "furet",
+      "en": "furet",
+      "sourceId": "ferret",
+      "sourceIds": [
+        "ferret"
+      ],
+      "ru": [
+        "хорек"
+      ],
+      "gender": "m",
+      "example": "Le furet est un animal très curieux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "puce",
+      "word": "puce",
+      "en": "puce",
+      "sourceId": "flea",
+      "sourceIds": [
+        "flea"
+      ],
+      "ru": [
+        "блоха"
+      ],
+      "gender": "f",
+      "example": "La puce a sauté sur le chien.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "scarabee",
+      "word": "scarabée",
+      "en": "scarabée",
+      "sourceId": "beetle",
+      "sourceIds": [
+        "beetle"
+      ],
+      "ru": [
+        "жук"
+      ],
+      "gender": "m",
+      "example": "Le scarabée altise s'en est emparé, alors...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fourrager",
+      "word": "fourrager",
+      "en": "fourrager",
+      "sourceId": "forage",
+      "sourceIds": [
+        "forage"
+      ],
+      "ru": [
+        "добывать корм"
+      ],
+      "gender": null,
+      "example": "Ils viennent juste de fourrager.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "sabot",
+      "word": "sabot",
+      "en": "sabot",
+      "sourceId": "hoof",
+      "sourceIds": [
+        "hoof"
+      ],
+      "ru": [
+        "копыто"
+      ],
+      "gender": "m",
+      "example": "le bruit des sabots qui tonnent",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "veterinaire",
+      "word": "vétérinaire",
+      "en": "vétérinaire",
+      "sourceId": "vet",
+      "sourceIds": [
+        "vet"
+      ],
+      "ru": [
+        "ветеринар"
+      ],
+      "gender": "m",
+      "example": "Le vétérinaire soigne mon chien.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "paitre",
+      "word": "paître",
+      "en": "paître",
+      "sourceId": "shepherd",
+      "sourceIds": [
+        "shepherd"
+      ],
+      "ru": [
+        "пасти"
+      ],
+      "gender": null,
+      "example": "Les moutons vont paître dans le pré.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "grain-de-beaute",
+      "word": "grain de beauté",
+      "en": "grain de beauté",
+      "sourceId": "mole",
+      "sourceIds": [
+        "mole"
+      ],
+      "ru": [
+        "крот",
+        "родинка"
+      ],
+      "gender": "m",
+      "example": "Tu as un grain de beauté sur la joue.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "taureau",
+      "word": "taureau",
+      "en": "taureau",
+      "sourceId": "bull",
+      "sourceIds": [
+        "bull"
+      ],
+      "ru": [
+        "бык"
+      ],
+      "gender": "m",
+      "example": "Il existe un institut du taureau frison ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mulet",
+      "word": "mulet",
+      "en": "mulet",
+      "sourceId": "mule",
+      "sourceIds": [
+        "mule"
+      ],
+      "ru": [
+        "мул"
+      ],
+      "gender": "m",
+      "example": "Il a beaucoup de mulets du nord.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pis",
+      "word": "pis",
+      "en": "pis",
+      "sourceId": "udder",
+      "sourceIds": [
+        "udder"
+      ],
+      "ru": [
+        "вымя"
+      ],
+      "gender": "m",
+      "example": "Un pis enflammé atteint d'une mammite sévère.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pedigree",
+      "word": "pedigree",
+      "en": "pedigree",
+      "sourceId": "pedigree",
+      "sourceIds": [
+        "pedigree"
+      ],
+      "ru": [
+        "родословная"
+      ],
+      "gender": "m",
+      "example": "Ce sont des Suffolk de pedigree.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "harnais",
+      "word": "harnais",
+      "en": "harnais",
+      "sourceId": "harness",
+      "sourceIds": [
+        "harness"
+      ],
+      "ru": [
+        "запрягать",
+        "использовать"
+      ],
+      "gender": "m",
+      "example": "Il porte un harnais de sécurité.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "puma",
+      "word": "puma",
+      "en": "puma",
+      "sourceId": "cougar",
+      "sourceIds": [
+        "cougar"
+      ],
+      "ru": [
+        "пума"
+      ],
+      "gender": "m",
+      "example": "et 75 pumas actifs",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "brebis",
+      "word": "brebis",
+      "en": "brebis",
+      "sourceId": "ewe",
+      "sourceIds": [
+        "ewe"
+      ],
+      "ru": [
+        "овца"
+      ],
+      "gender": "f",
+      "example": "Si vous vous retrouvez avec des brebis maigres.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "colombe",
+      "word": "colombe",
+      "en": "colombe",
+      "sourceId": "dove",
+      "sourceIds": [
+        "dove"
+      ],
+      "ru": [
+        "голубь"
+      ],
+      "gender": "f",
+      "example": "Avec des colombes et des lapins ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "galoper",
+      "word": "galoper",
+      "en": "galoper",
+      "sourceId": "gallop",
+      "sourceIds": [
+        "gallop"
+      ],
+      "ru": [
+        "скакать галопом"
+      ],
+      "gender": null,
+      "example": "Ils arrivent au galop maintenant.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "timide",
+      "word": "timide",
+      "en": "timide",
+      "sourceId": "sheepy",
+      "sourceIds": [
+        "sheepy"
+      ],
+      "ru": [
+        "овечий",
+        "застенчивый"
+      ],
+      "gender": null,
+      "example": "Bonjour, petit timide.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "massacrer",
+      "word": "massacrer",
+      "en": "massacrer",
+      "sourceId": "slaughter",
+      "sourceIds": [
+        "slaughter"
+      ],
+      "ru": [
+        "убивать",
+        "забивать"
+      ],
+      "gender": null,
+      "example": "Il a massacré ses amis.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "blaireau",
+      "word": "blaireau",
+      "en": "blaireau",
+      "sourceId": "badger",
+      "sourceIds": [
+        "badger"
+      ],
+      "ru": [
+        "барсук"
+      ],
+      "gender": "m",
+      "example": "Il me harcèle à propos de mon équipement agricole.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "truite",
+      "word": "truite",
+      "en": "truite",
+      "sourceId": "trout",
+      "sourceIds": [
+        "trout"
+      ],
+      "ru": [
+        "форель"
+      ],
+      "gender": "f",
+      "example": "Un lac à truites illégal.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "poulailler",
+      "word": "poulailler",
+      "en": "poulailler",
+      "sourceId": "henhouse",
+      "sourceIds": [
+        "henhouse"
+      ],
+      "ru": [
+        "курятник"
+      ],
+      "gender": "m",
+      "example": "Les poulaillers que Lisa avait commandés.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pur-sang",
+      "word": "pur-sang",
+      "en": "pur-sang",
+      "sourceId": "purebred",
+      "sourceIds": [
+        "purebred"
+      ],
+      "ru": [
+        "чистокровный"
+      ],
+      "gender": null,
+      "example": "Il possède soixante poules pur-sang.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "enjoue",
+      "word": "enjoué",
+      "en": "enjoué",
+      "sourceId": "frisky",
+      "sourceIds": [
+        "frisky"
+      ],
+      "ru": [
+        "игривый",
+        "резвый"
+      ],
+      "gender": null,
+      "example": "Ils sont très enjoués.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "mordeur",
+      "word": "mordeur",
+      "en": "mordeur",
+      "sourceId": "bitey",
+      "sourceIds": [
+        "bitey"
+      ],
+      "ru": [
+        "кусачий"
+      ],
+      "gender": null,
+      "example": "Oh, tu es taquin, tu es mordeur.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "faisan",
+      "word": "faisan",
+      "en": "faisan",
+      "sourceId": "pheasant",
+      "sourceIds": [
+        "pheasant"
+      ],
+      "ru": [
+        "фазан"
+      ],
+      "gender": "m",
+      "example": "Les faisans mangeaient mon wasabi.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "errant",
+      "word": "errant",
+      "en": "errant",
+      "sourceId": "stray",
+      "sourceIds": [
+        "stray"
+      ],
+      "ru": [
+        "заблудиться"
+      ],
+      "gender": null,
+      "example": "Vous étiez des chiens errants.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "flowerhorn",
+      "word": "flowerhorn",
+      "en": "flowerhorn",
+      "sourceId": "flowerhorn",
+      "sourceIds": [
+        "flowerhorn"
+      ],
+      "ru": [
+        "флауэрхорн"
+      ],
+      "gender": "m",
+      "example": "Le flowerhorn est un poisson hybride fascinant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cichlide",
+      "word": "cichlidé",
+      "en": "cichlidé",
+      "sourceId": "cichlid",
+      "sourceIds": [
+        "cichlid"
+      ],
+      "ru": [
+        "цихловая рыба"
+      ],
+      "gender": "m",
+      "example": "Un cichlidé flowerhorn ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chacal",
+      "word": "chacal",
+      "en": "chacal",
+      "sourceId": "jackal",
+      "sourceIds": [
+        "jackal"
+      ],
+      "ru": [
+        "шакал"
+      ],
+      "gender": "m",
+      "example": "Le chacal hurle dans la nuit.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "loup-garou",
+      "word": "loup-garou",
+      "en": "loup-garou",
+      "sourceId": "direwolf",
+      "sourceIds": [
+        "direwolf"
+      ],
+      "ru": [
+        "лютоволк"
+      ],
+      "gender": "m",
+      "example": "C'est un loup-garou.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chiot",
+      "word": "chiot",
+      "en": "chiot",
+      "sourceId": "pup",
+      "sourceIds": [
+        "pup"
+      ],
+      "ru": [
+        "щенок"
+      ],
+      "gender": "m",
+      "example": "Cinq chiots jouent dans le jardin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "portee",
+      "word": "portée",
+      "en": "portée",
+      "sourceId": "litter",
+      "sourceIds": [
+        "litter"
+      ],
+      "ru": [
+        "помет",
+        "мусор"
+      ],
+      "gender": "f",
+      "example": "Le plus petit de la portée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sanglier",
+      "word": "sanglier",
+      "en": "sanglier",
+      "sourceId": "boar",
+      "sourceIds": [
+        "boar"
+      ],
+      "ru": [
+        "кабан",
+        "вепрь"
+      ],
+      "gender": "m",
+      "example": "pendant qu'il est parti baiser des sangliers",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "corbeau",
+      "word": "corbeau",
+      "en": "corbeau",
+      "sourceId": "raven",
+      "sourceIds": [
+        "raven"
+      ],
+      "ru": [
+        "ворон"
+      ],
+      "gender": "m",
+      "example": "Un corbeau s'est posé sur la branche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vison",
+      "word": "vison",
+      "en": "vison",
+      "sourceId": "mink",
+      "sourceIds": [
+        "mink"
+      ],
+      "ru": [
+        "норка"
+      ],
+      "gender": "m",
+      "example": "Elle porte un manteau en vison.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mesange",
+      "word": "mésange",
+      "en": "mésange",
+      "sourceId": "tit",
+      "sourceIds": [
+        "tit"
+      ],
+      "ru": [
+        "синица",
+        "грудь"
+      ],
+      "gender": "f",
+      "example": "Une mésange chante dans le jardin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chien-de-chasse",
+      "word": "chien de chasse",
+      "en": "chien de chasse",
+      "sourceId": "hound",
+      "sourceIds": [
+        "hound"
+      ],
+      "ru": [
+        "гончая",
+        "собака"
+      ],
+      "gender": "m",
+      "example": "Il suit la piste comme un chien de chasse.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "tenaille",
+      "word": "tenaille",
+      "en": "tenaille",
+      "sourceId": "pincer",
+      "sourceIds": [
+        "pincer"
+      ],
+      "ru": [
+        "клешня",
+        "щипцы"
+      ],
+      "gender": "f",
+      "example": "Il a arraché cela avec des tenailles brûlantes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "goule",
+      "word": "goule",
+      "en": "goule",
+      "sourceId": "ghoul",
+      "sourceIds": [
+        "ghoul"
+      ],
+      "ru": [
+        "вурдалак",
+        "упырь"
+      ],
+      "gender": "f",
+      "example": "Je ne crois pas aux géants ni aux goules.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "accaparer",
+      "word": "accaparer",
+      "en": "accaparer",
+      "sourceId": "hog",
+      "sourceIds": [
+        "hog"
+      ],
+      "ru": [
+        "свинья",
+        "жадина"
+      ],
+      "gender": null,
+      "example": "Les médecins titulaires accaparent les chambres de garde.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "vautour",
+      "word": "vautour",
+      "en": "vautour",
+      "sourceId": "vulture",
+      "sourceIds": [
+        "vulture"
+      ],
+      "ru": [
+        "стервятник"
+      ],
+      "gender": "m",
+      "example": "comme des vautours sur une carcasse,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "biche",
+      "word": "biche",
+      "en": "biche",
+      "sourceId": "doe",
+      "sourceIds": [
+        "doe"
+      ],
+      "ru": [
+        "самка оленя"
+      ],
+      "gender": "f",
+      "example": "Une biche traverse la forêt silencieusement.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vermine",
+      "word": "vermine",
+      "en": "vermine",
+      "sourceId": "vermin",
+      "sourceIds": [
+        "vermin"
+      ],
+      "ru": [
+        "вредители"
+      ],
+      "gender": "f",
+      "example": "Cette maison est infestée de vermine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "vipere",
+      "word": "vipère",
+      "en": "vipère",
+      "sourceId": "viper",
+      "sourceIds": [
+        "viper"
+      ],
+      "ru": [
+        "гадюка"
+      ],
+      "gender": "f",
+      "example": "La vipère est un serpent venimeux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "gerbille",
+      "word": "gerbille",
+      "en": "gerbille",
+      "sourceId": "gerbil",
+      "sourceIds": [
+        "gerbil"
+      ],
+      "ru": [
+        "песчанка"
+      ],
+      "gender": "f",
+      "example": "Elle a acheté une gerbille pour son fils.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sangsue",
+      "word": "sangsue",
+      "en": "sangsue",
+      "sourceId": "leech",
+      "sourceIds": [
+        "leech"
+      ],
+      "ru": [
+        "пиявка"
+      ],
+      "gender": "f",
+      "example": "Le médecin a appliqué une sangsue sur la plaie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "eclore",
+      "word": "éclore",
+      "en": "éclore",
+      "sourceId": "hatch",
+      "sourceIds": [
+        "hatch"
+      ],
+      "ru": [
+        "вылупляться"
+      ],
+      "gender": null,
+      "example": "Si j'avais fait éclore un vrai dragon.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "batard",
+      "word": "bâtard",
+      "en": "bâtard",
+      "sourceId": "mongrel",
+      "sourceIds": [
+        "mongrel"
+      ],
+      "ru": [
+        "дворняжка",
+        "метис"
+      ],
+      "gender": "m",
+      "example": "Vous étiez des chiens bâtards errants.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "remuer",
+      "word": "remuer",
+      "en": "remuer",
+      "sourceId": "wag",
+      "sourceIds": [
+        "wag"
+      ],
+      "ru": [
+        "вилять"
+      ],
+      "gender": null,
+      "example": "Laisse-les remuer.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "asticot",
+      "word": "asticot",
+      "en": "asticot",
+      "sourceId": "maggot",
+      "sourceIds": [
+        "maggot"
+      ],
+      "ru": [
+        "личинка"
+      ],
+      "gender": "m",
+      "example": "Les asticots vont nettoyer la chair morte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lapin",
+      "word": "lapin",
+      "en": "lapin",
+      "sourceId": "bunny",
+      "sourceIds": [
+        "bunny"
+      ],
+      "ru": [
+        "кролик",
+        "зайчик"
+      ],
+      "gender": "m",
+      "example": "Il a un petit lapin en peluche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "apprivoiser",
+      "word": "apprivoiser",
+      "en": "apprivoiser",
+      "sourceId": "tame",
+      "sourceIds": [
+        "tame"
+      ],
+      "ru": [
+        "приручать"
+      ],
+      "gender": null,
+      "example": "Il a même réussi à apprivoiser cet animal sauvage.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "cerf",
+      "word": "cerf",
+      "en": "cerf",
+      "sourceId": "hart",
+      "sourceIds": [
+        "hart",
+        "stag"
+      ],
+      "ru": [
+        "олень-самец"
+      ],
+      "gender": "m",
+      "example": "Il a aperçu un cerf blanc dans la forêt.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "carcasse",
+      "word": "carcasse",
+      "en": "carcasse",
+      "sourceId": "carcass",
+      "sourceIds": [
+        "carcass"
+      ],
+      "ru": [
+        "туша",
+        "каркас"
+      ],
+      "gender": "f",
+      "example": "comme des vautours sur une carcasse,",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "cafard",
+      "word": "cafard",
+      "en": "cafard",
+      "sourceId": "cockroach",
+      "sourceIds": [
+        "cockroach",
+        "roach"
+      ],
+      "ru": [
+        "таракан"
+      ],
+      "gender": "m",
+      "example": "Il est un vrai cafard.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fumier",
+      "word": "fumier",
+      "en": "fumier",
+      "sourceId": "dung",
+      "sourceIds": [
+        "dung"
+      ],
+      "ru": [
+        "навоз",
+        "помет"
+      ],
+      "gender": "m",
+      "example": "Il y a beaucoup de bousiers dans le fumier.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "zibeline",
+      "word": "zibeline",
+      "en": "zibeline",
+      "sourceId": "sable",
+      "sourceIds": [
+        "sable"
+      ],
+      "ru": [
+        "соболь"
+      ],
+      "gender": "f",
+      "example": "Elle porte un manteau en zibeline.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "ruee",
+      "word": "ruée",
+      "en": "ruée",
+      "sourceId": "stampede",
+      "sourceIds": [
+        "stampede"
+      ],
+      "ru": [
+        "паническое бегство"
+      ],
+      "gender": "f",
+      "example": "Cela déclenche une ruée.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "rene",
+      "word": "rêne",
+      "en": "rêne",
+      "sourceId": "rein",
+      "sourceIds": [
+        "rein"
+      ],
+      "ru": [
+        "поводья"
+      ],
+      "gender": "f",
+      "example": "Il tient les rênes de son cheval.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "nageoire",
+      "word": "nageoire",
+      "en": "nageoire",
+      "sourceId": "fin",
+      "sourceIds": [
+        "fin"
+      ],
+      "ru": [
+        "плавник"
+      ],
+      "gender": "f",
+      "example": "Le poisson remue sa nageoire.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "muer",
+      "word": "muer",
+      "en": "muer",
+      "sourceId": "slough",
+      "sourceIds": [
+        "slough"
+      ],
+      "ru": [
+        "сбрасывать (кожу)",
+        "избавляться"
+      ],
+      "gender": null,
+      "example": "Le serpent doit muer pour grandir.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "ane",
+      "word": "âne",
+      "en": "âne",
+      "sourceId": "donkey",
+      "sourceIds": [
+        "donkey"
+      ],
+      "ru": [
+        "осел"
+      ],
+      "gender": "m",
+      "example": "Envoyez l'un de vos ânes.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grouiller",
+      "word": "grouiller",
+      "en": "grouiller",
+      "sourceId": "swarm",
+      "sourceIds": [
+        "swarm"
+      ],
+      "ru": [
+        "кишеть",
+        "толпиться"
+      ],
+      "gender": null,
+      "example": "Les insectes grouillent dans le jardin.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "papillon-de-nuit",
+      "word": "papillon de nuit",
+      "en": "papillon de nuit",
+      "sourceId": "moth",
+      "sourceIds": [
+        "moth"
+      ],
+      "ru": [
+        "моль"
+      ],
+      "gender": "m",
+      "example": "Le grand papillon de nuit ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "jument",
+      "word": "jument",
+      "en": "jument",
+      "sourceId": "mare",
+      "sourceIds": [
+        "mare"
+      ],
+      "ru": [
+        "кобыла"
+      ],
+      "gender": "f",
+      "example": "La jument galope dans le pré.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sauvage",
+      "word": "sauvage",
+      "en": "sauvage",
+      "sourceId": "feral",
+      "sourceIds": [
+        "feral"
+      ],
+      "ru": [
+        "дикий"
+      ],
+      "gender": null,
+      "example": "Il jonglait avec deux créatures sauvages affamées.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "propre",
+      "word": "propre",
+      "en": "propre",
+      "sourceId": "house-broken",
+      "sourceIds": [
+        "house-broken"
+      ],
+      "ru": [
+        "приученный к туалету"
+      ],
+      "gender": null,
+      "example": "Le chiot est propre.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "siffler",
+      "word": "siffler",
+      "en": "siffler",
+      "sourceId": "hiss",
+      "sourceIds": [
+        "hiss"
+      ],
+      "ru": [
+        "шипеть"
+      ],
+      "gender": null,
+      "example": "Le serpent a commencé à siffler.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "poilu",
+      "word": "poilu",
+      "en": "poilu",
+      "sourceId": "furry",
+      "sourceIds": [
+        "furry"
+      ],
+      "ru": [
+        "пушистый",
+        "меховой"
+      ],
+      "gender": null,
+      "example": "Il est étonnamment poilu.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "grizzli",
+      "word": "grizzli",
+      "en": "grizzli",
+      "sourceId": "grizzly",
+      "sourceIds": [
+        "grizzly"
+      ],
+      "ru": [
+        "гризли"
+      ],
+      "gender": "m",
+      "example": "Il y a des grizzlis dans la région.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "predateur",
+      "word": "prédateur",
+      "en": "prédateur",
+      "sourceId": "predator",
+      "sourceIds": [
+        "predator"
+      ],
+      "ru": [
+        "хищник"
+      ],
+      "gender": "m",
+      "example": "Nous guettons notre ami le prédateur à fourrure.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bestiole",
+      "word": "bestiole",
+      "en": "bestiole",
+      "sourceId": "critter",
+      "sourceIds": [
+        "critter"
+      ],
+      "ru": [
+        "живое существо",
+        "зверюшка"
+      ],
+      "gender": "f",
+      "example": "Quel genre de bestioles à fourrure chasses-tu ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hiberner",
+      "word": "hiberner",
+      "en": "hiberner",
+      "sourceId": "hibernate",
+      "sourceIds": [
+        "hibernate"
+      ],
+      "ru": [
+        "впадать в спячку"
+      ],
+      "gender": null,
+      "example": "Il hiberne pendant des années à la fois.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "chaton",
+      "word": "chaton",
+      "en": "chaton",
+      "sourceId": "kitty",
+      "sourceIds": [
+        "kitty"
+      ],
+      "ru": [
+        "кошечка"
+      ],
+      "gender": "m",
+      "example": "Ce petit chaton est adorable.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lynx",
+      "word": "lynx",
+      "en": "lynx",
+      "sourceId": "lynx",
+      "sourceIds": [
+        "lynx"
+      ],
+      "ru": [
+        "рысь"
+      ],
+      "gender": "m",
+      "example": "Le lynx est un félin sauvage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "poisson-rouge",
+      "word": "poisson rouge",
+      "en": "poisson rouge",
+      "sourceId": "goldfish",
+      "sourceIds": [
+        "goldfish"
+      ],
+      "ru": [
+        "золотая рыбка"
+      ],
+      "gender": "m",
+      "example": "C'est un poisson rouge.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fourrure",
+      "word": "fourrure",
+      "en": "fourrure",
+      "sourceId": "fur",
+      "sourceIds": [
+        "fur"
+      ],
+      "ru": [
+        "мех"
+      ],
+      "gender": "f",
+      "example": "Ils sont paresseux et ont la fourrure tachée d'urine.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "minou",
+      "word": "minou",
+      "en": "minou",
+      "sourceId": "puss",
+      "sourceIds": [
+        "puss"
+      ],
+      "ru": [
+        "кошечка"
+      ],
+      "gender": "m",
+      "example": "Tu serais de mèche avec le Chat potté.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "grogner",
+      "word": "grogner",
+      "en": "grogner",
+      "sourceId": "growl",
+      "sourceIds": [
+        "growl"
+      ],
+      "ru": [
+        "рычать"
+      ],
+      "gender": null,
+      "example": "Le chien a commencé à grogner.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "antilope",
+      "word": "antilope",
+      "en": "antilope",
+      "sourceId": "antelope",
+      "sourceIds": [
+        "antelope"
+      ],
+      "ru": [
+        "антилопа"
+      ],
+      "gender": "f",
+      "example": "On dirait que tu as dévoré une antilope.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "piqure",
+      "word": "piqûre",
+      "en": "piqûre",
+      "sourceId": "sting",
+      "sourceIds": [
+        "sting"
+      ],
+      "ru": [
+        "жалить",
+        "жечь"
+      ],
+      "gender": "f",
+      "example": "Il faut atténuer la piqûre de la défaite.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "requin-marteau",
+      "word": "requin-marteau",
+      "en": "requin-marteau",
+      "sourceId": "hammerhead",
+      "sourceIds": [
+        "hammerhead"
+      ],
+      "ru": [
+        "акула-молот"
+      ],
+      "gender": "m",
+      "example": "Ensuite, il y a le requin-marteau.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "herbivore",
+      "word": "herbivore",
+      "en": "herbivore",
+      "sourceId": "herbivore",
+      "sourceIds": [
+        "herbivore"
+      ],
+      "ru": [
+        "травоядное животное"
+      ],
+      "gender": "m",
+      "example": "D'un carnivore, il est devenu un herbivore.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "labrador",
+      "word": "labrador",
+      "en": "labrador",
+      "sourceId": "labrador",
+      "sourceIds": [
+        "labrador"
+      ],
+      "ru": [
+        "лабрадор"
+      ],
+      "gender": "m",
+      "example": "Mon labrador adore jouer dans le jardin.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "limace",
+      "word": "limace",
+      "en": "limace",
+      "sourceId": "slug",
+      "sourceIds": [
+        "slug"
+      ],
+      "ru": [
+        "слизень",
+        "пуля"
+      ],
+      "gender": "f",
+      "example": "Une limace rampe sur la feuille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mustang",
+      "word": "mustang",
+      "en": "mustang",
+      "sourceId": "mustang",
+      "sourceIds": [
+        "mustang"
+      ],
+      "ru": [
+        "мустанг"
+      ],
+      "gender": "m",
+      "example": "Il a un moteur V8 de Mustang sous le capot.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "plongeon",
+      "word": "plongeon",
+      "en": "plongeon",
+      "sourceId": "loon",
+      "sourceIds": [
+        "loon"
+      ],
+      "ru": [
+        "гагара"
+      ],
+      "gender": "m",
+      "example": "Il est fou comme un plongeon, sautant par-dessus des bus à moto ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coasser",
+      "word": "coasser",
+      "en": "coasser",
+      "sourceId": "croak",
+      "sourceIds": [
+        "croak"
+      ],
+      "ru": [
+        "кваканье",
+        "квакать"
+      ],
+      "gender": null,
+      "example": "Qui est-ce qui coasse ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "hurler",
+      "word": "hurler",
+      "en": "hurler",
+      "sourceId": "howl",
+      "sourceIds": [
+        "howl"
+      ],
+      "ru": [
+        "вой",
+        "выть"
+      ],
+      "gender": null,
+      "example": "Et je hurlais de désir chaque fois que j'en voyais un.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "percher",
+      "word": "percher",
+      "en": "percher",
+      "sourceId": "perch",
+      "sourceIds": [
+        "perch"
+      ],
+      "ru": [
+        "насест",
+        "сидеть на возвышении"
+      ],
+      "gender": null,
+      "example": "Je peux juste me percher ici ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "jaguar",
+      "word": "jaguar",
+      "en": "jaguar",
+      "sourceId": "jaguar",
+      "sourceIds": [
+        "jaguar"
+      ],
+      "ru": [
+        "ягуар"
+      ],
+      "gender": "m",
+      "example": "Le jaguar est un félin puissant.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "felin",
+      "word": "félin",
+      "en": "félin",
+      "sourceId": "feline",
+      "sourceIds": [
+        "feline"
+      ],
+      "ru": [
+        "кошачий"
+      ],
+      "gender": null,
+      "example": "Il a une démarche féline.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "bois",
+      "word": "bois",
+      "en": "bois",
+      "sourceId": "antler",
+      "sourceIds": [
+        "antler"
+      ],
+      "ru": [
+        "олений рог"
+      ],
+      "gender": "m",
+      "example": "Le cerf a perdu ses bois.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "oie",
+      "word": "oie",
+      "en": "oie",
+      "sourceId": "gaggle",
+      "sourceIds": [
+        "gaggle"
+      ],
+      "ru": [
+        "стадо гусей",
+        "группа"
+      ],
+      "gender": "f",
+      "example": "Le bruit d'une oie dans la basse-cour.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "becqueter",
+      "word": "becqueter",
+      "en": "becqueter",
+      "sourceId": "peck",
+      "sourceIds": [
+        "peck"
+      ],
+      "ru": [
+        "клевать"
+      ],
+      "gender": null,
+      "example": "Il va te becqueter les yeux.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "serpent-a-sonnettes",
+      "word": "serpent à sonnettes",
+      "en": "serpent à sonnettes",
+      "sourceId": "rattlesnake",
+      "sourceIds": [
+        "rattlesnake"
+      ],
+      "ru": [
+        "гремучая змея"
+      ],
+      "gender": "m",
+      "example": "Le serpent à sonnettes est un animal venimeux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "renarde",
+      "word": "renarde",
+      "en": "renarde",
+      "sourceId": "vixen",
+      "sourceIds": [
+        "vixen"
+      ],
+      "ru": [
+        "лисица",
+        "злая женщина"
+      ],
+      "gender": "f",
+      "example": "Tu es une petite renarde.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coyote",
+      "word": "coyote",
+      "en": "coyote",
+      "sourceId": "coyote",
+      "sourceIds": [
+        "coyote"
+      ],
+      "ru": [
+        "койот"
+      ],
+      "gender": "m",
+      "example": "Et c'est comme si j'étais ce coyote.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "raton-laveur",
+      "word": "raton laveur",
+      "en": "raton laveur",
+      "sourceId": "raccoon",
+      "sourceIds": [
+        "raccoon",
+        "coon"
+      ],
+      "ru": [
+        "енот"
+      ],
+      "gender": "m",
+      "example": "Je parlais d'un chien de chasse au raton laveur.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "pelican",
+      "word": "pélican",
+      "en": "pélican",
+      "sourceId": "pelican",
+      "sourceIds": [
+        "pelican"
+      ],
+      "ru": [
+        "пеликан"
+      ],
+      "gender": "m",
+      "example": "Le pélican plonge dans l'eau pour attraper des poissons.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chien-de-salon",
+      "word": "chien de salon",
+      "en": "chien de salon",
+      "sourceId": "lapdog",
+      "sourceIds": [
+        "lapdog"
+      ],
+      "ru": [
+        "комнатная собачка",
+        "подпевала"
+      ],
+      "gender": null,
+      "example": "Il a joué le rôle de petit chien de salon.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "oiselet",
+      "word": "oiselet",
+      "en": "oiselet",
+      "sourceId": "birdie",
+      "sourceIds": [
+        "birdie"
+      ],
+      "ru": [
+        "птичка"
+      ],
+      "gender": "m",
+      "example": "Un petit oiselet m'a raconté ça.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "de-sang-froid",
+      "word": "de sang-froid",
+      "en": "de sang-froid",
+      "sourceId": "cold-blooded",
+      "sourceIds": [
+        "cold-blooded"
+      ],
+      "ru": [
+        "хладнокровный"
+      ],
+      "gender": null,
+      "example": "et un meurtre de sang-froid.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "buse",
+      "word": "buse",
+      "en": "buse",
+      "sourceId": "buzzard",
+      "sourceIds": [
+        "buzzard"
+      ],
+      "ru": [
+        "канюк",
+        "гриф"
+      ],
+      "gender": "f",
+      "example": "Ils tournent tous en rond comme des buses.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "paon",
+      "word": "paon",
+      "en": "paon",
+      "sourceId": "peacock",
+      "sourceIds": [
+        "peacock"
+      ],
+      "ru": [
+        "павлин"
+      ],
+      "gender": "m",
+      "example": "Un corbeau voulait être un paon.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "enfermer",
+      "word": "enfermer",
+      "en": "enfermer",
+      "sourceId": "coop",
+      "sourceIds": [
+        "coop"
+      ],
+      "ru": [
+        "запирать",
+        "держать в тесноте"
+      ],
+      "gender": null,
+      "example": "Il faut enfermer les poules dans le poulailler.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "pieuvre",
+      "word": "pieuvre",
+      "en": "pieuvre",
+      "sourceId": "octopus",
+      "sourceIds": [
+        "octopus"
+      ],
+      "ru": [
+        "осьминог"
+      ],
+      "gender": "f",
+      "example": "On a commencé à m'appeler Pulpo, la pieuvre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "hyene",
+      "word": "hyène",
+      "en": "hyène",
+      "sourceId": "hyena",
+      "sourceIds": [
+        "hyena"
+      ],
+      "ru": [
+        "гиена"
+      ],
+      "gender": "f",
+      "example": "La belle-famille hyène emménage.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chien-batard",
+      "word": "chien bâtard",
+      "en": "chien bâtard",
+      "sourceId": "mutt",
+      "sourceIds": [
+        "mutt"
+      ],
+      "ru": [
+        "дворняга"
+      ],
+      "gender": "m",
+      "example": "C'est à mon tour de promener le chien bâtard, en plus.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "babouin",
+      "word": "babouin",
+      "en": "babouin",
+      "sourceId": "baboon",
+      "sourceIds": [
+        "baboon"
+      ],
+      "ru": [
+        "бабуин"
+      ],
+      "gender": "m",
+      "example": "Ce ne sont pas des babouins.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chien-de-saint-hubert",
+      "word": "chien de Saint-Hubert",
+      "en": "chien de Saint-Hubert",
+      "sourceId": "bloodhound",
+      "sourceIds": [
+        "bloodhound"
+      ],
+      "ru": [
+        "ищейка"
+      ],
+      "gender": "m",
+      "example": "Le chien de Saint-Hubert est réputé pour son flair exceptionnel.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mastodonte",
+      "word": "mastodonte",
+      "en": "mastodonte",
+      "sourceId": "mastodon",
+      "sourceIds": [
+        "mastodon"
+      ],
+      "ru": [
+        "мастодонт"
+      ],
+      "gender": "m",
+      "example": "Le mastodonte a disparu il y a des milliers d'années.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "dinosaure",
+      "word": "dinosaure",
+      "en": "dinosaure",
+      "sourceId": "dinosaur",
+      "sourceIds": [
+        "dinosaur"
+      ],
+      "ru": [
+        "динозавр"
+      ],
+      "gender": "m",
+      "example": "Le dinosaure est un animal préhistorique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "castrer",
+      "word": "castrer",
+      "en": "castrer",
+      "sourceId": "castrate",
+      "sourceIds": [
+        "castrate"
+      ],
+      "ru": [
+        "кастрировать"
+      ],
+      "gender": null,
+      "example": "Ils devraient le castrer.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "gorille",
+      "word": "gorille",
+      "en": "gorille",
+      "sourceId": "gorilla",
+      "sourceIds": [
+        "gorilla"
+      ],
+      "ru": [
+        "горилла"
+      ],
+      "gender": "m",
+      "example": "Une cabine téléphonique avec un gorille en panique.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "petit-chien",
+      "word": "petit chien",
+      "en": "petit chien",
+      "sourceId": "doggy",
+      "sourceIds": [
+        "doggy"
+      ],
+      "ru": [
+        "собачка"
+      ],
+      "gender": "m",
+      "example": "Il joue avec un petit chien dans le parc.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "retriever",
+      "word": "retriever",
+      "en": "retriever",
+      "sourceId": "retriever",
+      "sourceIds": [
+        "retriever"
+      ],
+      "ru": [
+        "ретривер"
+      ],
+      "gender": "m",
+      "example": "Elle avait un Golden Retriever.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "mon-vieux",
+      "word": "mon vieux",
+      "en": "mon vieux",
+      "sourceId": "hoss",
+      "sourceIds": [
+        "hoss"
+      ],
+      "ru": [
+        "дружище",
+        "приятель",
+        "здоровяк"
+      ],
+      "gender": "m",
+      "example": "Salut, mon vieux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chien-qui-remue-la-queue",
+      "word": "chien qui remue la queue",
+      "en": "chien qui remue la queue",
+      "sourceId": "wagger",
+      "sourceIds": [
+        "wagger"
+      ],
+      "ru": [
+        "виляющий хвостом"
+      ],
+      "gender": "m",
+      "example": "Le petit chien qui remue la queue est très heureux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "coque",
+      "word": "coque",
+      "en": "coque",
+      "sourceId": "cockle",
+      "sourceIds": [
+        "cockle"
+      ],
+      "ru": [
+        "сердцевидка"
+      ],
+      "gender": "f",
+      "example": "Les coques sont des mollusques comestibles.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "palourde",
+      "word": "palourde",
+      "en": "palourde",
+      "sourceId": "clam",
+      "sourceIds": [
+        "clam"
+      ],
+      "ru": [
+        "моллюск"
+      ],
+      "gender": "f",
+      "example": "J'ai mangé des palourdes à la marinière.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "poney",
+      "word": "poney",
+      "en": "poney",
+      "sourceId": "pony",
+      "sourceIds": [
+        "pony"
+      ],
+      "ru": [
+        "пони"
+      ],
+      "gender": "m",
+      "example": "L'enfant monte un petit poney au centre équestre.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "silure",
+      "word": "silure",
+      "en": "silure",
+      "sourceId": "catfish",
+      "sourceIds": [
+        "catfish"
+      ],
+      "ru": [
+        "сом"
+      ],
+      "gender": "m",
+      "example": "Le silure est un poisson d'eau douce.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "fer-a-cheval",
+      "word": "fer à cheval",
+      "en": "fer à cheval",
+      "sourceId": "horseshoe",
+      "sourceIds": [
+        "horseshoe"
+      ],
+      "ru": [
+        "подкова"
+      ],
+      "gender": "m",
+      "example": "Il a trouvé un vieux fer à cheval dans le champ.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "lionne",
+      "word": "lionne",
+      "en": "lionne",
+      "sourceId": "lioness",
+      "sourceIds": [
+        "lioness"
+      ],
+      "ru": [
+        "львица"
+      ],
+      "gender": "f",
+      "example": "La lionne doit aussi s'aventurer.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "territorial",
+      "word": "territorial",
+      "en": "territorial",
+      "sourceId": "territorial",
+      "sourceIds": [
+        "territorial"
+      ],
+      "ru": [
+        "территориальный"
+      ],
+      "gender": null,
+      "example": "Il est assez territorial.",
+      "level": "B1",
+      "pos": "adj"
+    },
+    {
+      "id": "lynx-roux",
+      "word": "lynx roux",
+      "en": "lynx roux",
+      "sourceId": "bobcat",
+      "sourceIds": [
+        "bobcat"
+      ],
+      "ru": [
+        "рыжая рысь"
+      ],
+      "gender": "m",
+      "example": "Ce sont des lynx roux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "promenade",
+      "word": "promenade",
+      "en": "promenade",
+      "sourceId": "walkies",
+      "sourceIds": [
+        "walkies"
+      ],
+      "ru": [
+        "прогулка (с собакой)"
+      ],
+      "gender": "f",
+      "example": "Plus de promenade, plus de friandises.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "niche",
+      "word": "niche",
+      "en": "niche",
+      "sourceId": "doghouse",
+      "sourceIds": [
+        "doghouse"
+      ],
+      "ru": [
+        "конура"
+      ],
+      "gender": "f",
+      "example": "Le chien dort dans sa niche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "incuber",
+      "word": "incuber",
+      "en": "incuber",
+      "sourceId": "incubate",
+      "sourceIds": [
+        "incubate"
+      ],
+      "ru": [
+        "высиживать",
+        "инкубировать"
+      ],
+      "gender": null,
+      "example": "Qu'est-ce qui a incubé en elle ?",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "miaou",
+      "word": "miaou",
+      "en": "miaou",
+      "sourceId": "miaow",
+      "sourceIds": [
+        "miaow"
+      ],
+      "ru": [
+        "мяуканье"
+      ],
+      "gender": null,
+      "example": "Le chat fait miaou.",
+      "level": "B1",
+      "pos": "interjection"
+    },
+    {
+      "id": "ronronner",
+      "word": "ronronner",
+      "en": "ronronner",
+      "sourceId": "purr",
+      "sourceIds": [
+        "purr"
+      ],
+      "ru": [
+        "мурлыканье"
+      ],
+      "gender": null,
+      "example": "Le chat ronronne doucement.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "plaisanterie",
+      "word": "plaisanterie",
+      "en": "plaisanterie",
+      "sourceId": "lark",
+      "sourceIds": [
+        "lark"
+      ],
+      "ru": [
+        "жаворонок",
+        "шалость"
+      ],
+      "gender": "f",
+      "example": "C'est une drôle de plaisanterie.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "betail",
+      "word": "bétail",
+      "en": "bétail",
+      "sourceId": "cattle",
+      "sourceIds": [
+        "cattle"
+      ],
+      "ru": [
+        "крупный рогатый скот"
+      ],
+      "gender": "m",
+      "example": "À ce rythme, tout mon bétail mourra avant la fin de l'hiver.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "epervier",
+      "word": "épervier",
+      "en": "épervier",
+      "sourceId": "hawk",
+      "sourceIds": [
+        "hawk"
+      ],
+      "ru": [
+        "ястреб"
+      ],
+      "gender": "m",
+      "example": "L'épervier plane au-dessus du champ.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "japper",
+      "word": "japper",
+      "en": "japper",
+      "sourceId": "yelp",
+      "sourceIds": [
+        "yelp"
+      ],
+      "ru": [
+        "визжать",
+        "тявкать"
+      ],
+      "gender": null,
+      "example": "Le chien s'est mis à aboyer et à japper.",
+      "level": "B1",
+      "pos": "v"
+    },
+    {
+      "id": "porcelet",
+      "word": "porcelet",
+      "en": "porcelet",
+      "sourceId": "piglet",
+      "sourceIds": [
+        "piglet"
+      ],
+      "ru": [
+        "поросенок"
+      ],
+      "gender": "m",
+      "example": "Je piétine un porcelet.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "python",
+      "word": "python",
+      "en": "python",
+      "sourceId": "python",
+      "sourceIds": [
+        "python"
+      ],
+      "ru": [
+        "питон"
+      ],
+      "gender": "m",
+      "example": "C'est un python.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "panthere",
+      "word": "panthère",
+      "en": "panthère",
+      "sourceId": "panther",
+      "sourceIds": [
+        "panther"
+      ],
+      "ru": [
+        "пантера"
+      ],
+      "gender": "f",
+      "example": "La panthère noire est un animal majestueux.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "sauterelle",
+      "word": "sauterelle",
+      "en": "sauterelle",
+      "sourceId": "grasshopper",
+      "sourceIds": [
+        "grasshopper"
+      ],
+      "ru": [
+        "кузнечик"
+      ],
+      "gender": "f",
+      "example": "Est-ce une sauterelle ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "queue-ecourtee",
+      "word": "queue écourtée",
+      "en": "queue écourtée",
+      "sourceId": "bobtail",
+      "sourceIds": [
+        "bobtail"
+      ],
+      "ru": [
+        "куцый хвост"
+      ],
+      "gender": "f",
+      "example": "Les grelots sur sa queue écourtée tintent.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "quadrupede",
+      "word": "quadrupède",
+      "en": "quadrupède",
+      "sourceId": "quadruped",
+      "sourceIds": [
+        "quadruped"
+      ],
+      "ru": [
+        "четвероногое животное"
+      ],
+      "gender": "m",
+      "example": "Un quadrupède s'approche sur la gauche.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "renne",
+      "word": "renne",
+      "en": "renne",
+      "sourceId": "reindeer",
+      "sourceIds": [
+        "reindeer"
+      ],
+      "ru": [
+        "северный олень"
+      ],
+      "gender": "m",
+      "example": "Le renne vit dans les régions arctiques.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "faucon",
+      "word": "faucon",
+      "en": "faucon",
+      "sourceId": "falcon",
+      "sourceIds": [
+        "falcon"
+      ],
+      "ru": [
+        "сокол"
+      ],
+      "gender": "m",
+      "example": "Allez les faucons !",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "bec",
+      "word": "bec",
+      "en": "bec",
+      "sourceId": "beak",
+      "sourceIds": [
+        "beak"
+      ],
+      "ru": [
+        "клюв"
+      ],
+      "gender": "m",
+      "example": "et l'attrape avec son bec...",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "flamant-rose",
+      "word": "flamant rose",
+      "en": "flamant rose",
+      "sourceId": "flamingo",
+      "sourceIds": [
+        "flamingo"
+      ],
+      "ru": [
+        "фламинго"
+      ],
+      "gender": "m",
+      "example": "Le flamant rose se tient sur une seule patte.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "troglodyte",
+      "word": "troglodyte",
+      "en": "troglodyte",
+      "sourceId": "wren",
+      "sourceIds": [
+        "wren"
+      ],
+      "ru": [
+        "крапивник"
+      ],
+      "gender": "m",
+      "example": "mon petit troglodyte ?",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "chimpanze",
+      "word": "chimpanzé",
+      "en": "chimpanzé",
+      "sourceId": "chimp",
+      "sourceIds": [
+        "chimp"
+      ],
+      "ru": [
+        "шимпанзе"
+      ],
+      "gender": "m",
+      "example": "Les chimpanzés sont des animaux très intelligents.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "caille",
+      "word": "caille",
+      "en": "caille",
+      "sourceId": "quail",
+      "sourceIds": [
+        "quail"
+      ],
+      "ru": [
+        "перепел"
+      ],
+      "gender": "f",
+      "example": "Tu presses la caille.",
+      "level": "B1",
+      "pos": "n"
+    },
+    {
+      "id": "alligator",
+      "word": "alligator",
+      "en": "alligator",
+      "sourceId": "alligator",
+      "sourceIds": [
+        "alligator"
+      ],
+      "ru": [
+        "аллигатор"
+      ],
+      "gender": "m",
+      "example": "Il a attrapé deux pinces crocodiles et, voyons voir...",
+      "level": "B1",
+      "pos": "n"
+    }
+  ]
+}

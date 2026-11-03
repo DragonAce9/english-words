@@ -1,0 +1,4452 @@
+{
+  "id": "daily",
+  "title": "Повседневное",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "jemand",
+      "word": "jemand",
+      "en": "jemand",
+      "ru": [
+        "всякий",
+        "кто угодно",
+        "кто бы то ни было"
+      ],
+      "example": "Alex ging, ohne jemandem etwas zu sagen.",
+      "level": "A2",
+      "sourceId": "anyone",
+      "sourceIds": [
+        "anyone"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "irgendwas",
+      "word": "irgendwas",
+      "en": "irgendwas",
+      "ru": [
+        "всё",
+        "всё, что угодно",
+        "что угодно"
+      ],
+      "example": "An dieser Maschine muss irgendwas kaputt sein.",
+      "level": "A2",
+      "sourceId": "anything",
+      "sourceIds": [
+        "anything"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bitten",
+      "word": "bitten",
+      "en": "bitten",
+      "ru": [
+        "спрашивать",
+        "просить"
+      ],
+      "example": "An der ersten Ecke bitte links abbiegen.",
+      "level": "A1",
+      "sourceId": "ask",
+      "sourceIds": [
+        "ask"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tante",
+      "word": "Tante",
+      "en": "Tante",
+      "ru": [
+        "тётя",
+        "тётка",
+        "тётушка"
+      ],
+      "example": "Akiko hat eine Tante, die Hana heißt.",
+      "level": "A1",
+      "sourceId": "aunt",
+      "sourceIds": [
+        "aunt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "baby",
+      "word": "Baby",
+      "en": "Baby",
+      "ru": [
+        "ребёнок",
+        "младенец",
+        "беби"
+      ],
+      "example": "Babys bleiben nicht immer und ewig Babys.",
+      "level": "A1",
+      "sourceId": "baby",
+      "sourceIds": [
+        "baby"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tasche",
+      "word": "Tasche",
+      "en": "Tasche",
+      "ru": [
+        "сумка",
+        "пакет",
+        "мешок"
+      ],
+      "example": "Aus Ihrer Tasche hängt ein Bleistift heraus.",
+      "level": "A2",
+      "sourceId": "bag",
+      "sourceIds": [
+        "bag"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "badewanne",
+      "word": "Badewanne",
+      "en": "Badewanne",
+      "ru": [
+        "ванна",
+        "ванная",
+        "баня"
+      ],
+      "example": "Er ließ Wasser in die Badewanne laufen.",
+      "level": "B1",
+      "sourceId": "bath",
+      "sourceIds": [
+        "bath"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "baden",
+      "word": "Baden",
+      "en": "Baden",
+      "ru": [
+        "купание"
+      ],
+      "example": "Baden-Württemberg ist … irgendwo da unten links!",
+      "level": "C2",
+      "sourceId": "bathing",
+      "sourceIds": [
+        "bathing"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "werden",
+      "word": "werden",
+      "en": "werden",
+      "ru": [
+        "становиться"
+      ],
+      "example": "265 Senatoren und 350 Abgeordnete werden gewählt.",
+      "level": "A1",
+      "sourceId": "become",
+      "sourceIds": [
+        "become"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "junge",
+      "word": "Junge",
+      "en": "Junge",
+      "ru": [
+        "мальчик",
+        "парень",
+        "пацан"
+      ],
+      "example": "Alle Jungen mögen doch große Brüste, nicht?",
+      "level": "A2",
+      "sourceId": "boy",
+      "sourceIds": [
+        "boy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bruder",
+      "word": "Bruder",
+      "en": "Bruder",
+      "ru": [
+        "брат",
+        "братец",
+        "братан"
+      ],
+      "example": "Bill ist ganz anders als sein Bruder.",
+      "level": "A1",
+      "sourceId": "brother",
+      "sourceIds": [
+        "brother"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bruderschaft",
+      "word": "Bruderschaft",
+      "en": "Bruderschaft",
+      "ru": [
+        "братство"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "brotherhood",
+      "sourceIds": [
+        "brotherhood"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "bruderlich",
+      "word": "brüderlich",
+      "en": "brüderlich",
+      "ru": [
+        "братский"
+      ],
+      "example": "Lass uns das letzte Brot brüderlich teilen.",
+      "level": "C2",
+      "sourceId": "brotherly",
+      "sourceIds": [
+        "brotherly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "burste",
+      "word": "Bürste",
+      "en": "Bürste",
+      "ru": [
+        "щётка",
+        "кисть",
+        "почистить"
+      ],
+      "example": "Putze deine Schuhe mit einer Bürste.",
+      "level": "B2",
+      "sourceId": "brush",
+      "sourceIds": [
+        "brush"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kumpel",
+      "word": "Kumpel",
+      "en": "Kumpel",
+      "ru": [
+        "друг",
+        "дружок",
+        "дружище"
+      ],
+      "example": "Er hat den Ball seinem Kumpel zugeworfen.",
+      "level": "B1",
+      "sourceId": "buddy",
+      "sourceIds": [
+        "buddy"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kaufen",
+      "word": "kaufen",
+      "en": "kaufen",
+      "ru": [
+        "покупать"
+      ],
+      "example": "Ach, ich habe vergessen, Milch zu kaufen!",
+      "level": "A1",
+      "sourceId": "buy",
+      "sourceIds": [
+        "buy"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tragen",
+      "word": "tragen",
+      "en": "tragen",
+      "ru": [
+        "нести",
+        "носить"
+      ],
+      "example": "All das meine trage ich bei mir.",
+      "level": "B1",
+      "sourceId": "carry",
+      "sourceIds": [
+        "carry"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "uberprufen",
+      "word": "überprüfen",
+      "en": "überprüfen",
+      "ru": [
+        "проверять"
+      ],
+      "example": "Alle meine Sätze wurden von Muttersprachlern überprüft.",
+      "level": "A1",
+      "sourceId": "check",
+      "sourceIds": [
+        "check"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kind",
+      "word": "Kind",
+      "en": "Kind",
+      "ru": [
+        "ребёнок",
+        "дитя",
+        "чадо"
+      ],
+      "example": "Aber wer wird auf die Kinder aufpassen?",
+      "level": "A1",
+      "sourceId": "child",
+      "sourceIds": [
+        "child"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wahl",
+      "word": "Wahl",
+      "en": "Wahl",
+      "ru": [
+        "выбор"
+      ],
+      "example": "Ausländische Beobachter waren zur Wahl nicht zugelassen.",
+      "level": "A2",
+      "sourceId": "choice",
+      "sourceIds": [
+        "choice"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kommen",
+      "word": "kommen",
+      "en": "kommen",
+      "ru": [
+        "приходить"
+      ],
+      "example": "\"Woher kommst du?\" \"Ich komme aus Algier.\"",
+      "level": "A1",
+      "sourceId": "come",
+      "sourceIds": [
+        "come"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ereignis",
+      "word": "Ereignis",
+      "en": "Ereignis",
+      "ru": [
+        "происшествие",
+        "случай",
+        "событие"
+      ],
+      "example": "Aus Liisas Sicht war das Ereignis langweilig.",
+      "level": "A1",
+      "sourceId": "event",
+      "sourceIds": [
+        "event"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alltaglich",
+      "word": "alltäglich",
+      "en": "alltäglich",
+      "ru": [
+        "ежедневный",
+        "каждодневный",
+        "повседневный"
+      ],
+      "example": "Die Geschichten werden in alltäglicher Umgangssprache erzählt.",
+      "level": "B2",
+      "sourceId": "everyday",
+      "sourceIds": [
+        "everyday"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alles",
+      "word": "alles",
+      "en": "alles",
+      "ru": [
+        "всё"
+      ],
+      "example": "\"Gibt's was Neues?\" \"Nein, alles wie immer.\"",
+      "level": "A2",
+      "sourceId": "everything",
+      "sourceIds": [
+        "everything"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ausrede",
+      "word": "Ausrede",
+      "en": "Ausrede",
+      "ru": [
+        "оправдание",
+        "извинение",
+        "отговорка"
+      ],
+      "example": "Das ist mal wieder eine typische Ausrede.",
+      "level": "C1",
+      "sourceId": "excuse",
+      "sourceIds": [
+        "excuse"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vater",
+      "word": "Vater",
+      "en": "Vater",
+      "ru": [
+        "отец"
+      ],
+      "example": "Alle kamen, bloß Vater, der kam nicht.",
+      "level": "A1",
+      "sourceId": "father",
+      "sourceIds": [
+        "father"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaterlich",
+      "word": "väterlich",
+      "en": "väterlich",
+      "ru": [
+        "отеческий",
+        "отцовский"
+      ],
+      "example": "Tom erteilte seinem Sohn einen väterlichen Rat.",
+      "level": "C2",
+      "sourceId": "fatherly",
+      "sourceIds": [
+        "fatherly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "futtern",
+      "word": "füttern",
+      "en": "füttern",
+      "ru": [
+        "кормить"
+      ],
+      "example": "Beiß nie die Hand, die dich füttert.",
+      "level": "A2",
+      "sourceId": "feed",
+      "sourceIds": [
+        "feed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "finden",
+      "word": "finden",
+      "en": "finden",
+      "ru": [
+        "находить"
+      ],
+      "example": "Alle unsere Sitzungen finden auf Französisch statt.",
+      "level": "A1",
+      "sourceId": "find",
+      "sourceIds": [
+        "find"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "freund",
+      "word": "Freund",
+      "en": "Freund",
+      "ru": [
+        "друг",
+        "подруга",
+        "товарищ"
+      ],
+      "example": "\"Ist Tom dein Freund?\" \"Es ist kompliziert.\"",
+      "level": "A1",
+      "sourceId": "friend",
+      "sourceIds": [
+        "friend"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "freundlich",
+      "word": "freundlich",
+      "en": "freundlich",
+      "ru": [
+        "добродушный",
+        "дружелюбный",
+        "любезный"
+      ],
+      "example": "Alle sind freundlich und fühlen sich wohl.",
+      "level": "A2",
+      "sourceId": "friendly",
+      "sourceIds": [
+        "friendly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "freundschaft",
+      "word": "Freundschaft",
+      "en": "Freundschaft",
+      "ru": [
+        "дружба",
+        "приятельство"
+      ],
+      "example": "Aus ihrer Freundschaft wurde eine tiefe Liebe.",
+      "level": "B2",
+      "sourceId": "friendship",
+      "sourceIds": [
+        "friendship"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kriegen",
+      "word": "kriegen",
+      "en": "kriegen",
+      "ru": [
+        "получать",
+        "доставать"
+      ],
+      "example": "Die warten kann, kriegt auch einen Mann.",
+      "level": "A1",
+      "sourceId": "get",
+      "sourceIds": [
+        "get"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "madchen",
+      "word": "Mädchen",
+      "en": "Mädchen",
+      "ru": [
+        "девочка",
+        "девушка",
+        "девица"
+      ],
+      "example": "\"Sehr gerne, mein Guter\", sagte das Mädchen.",
+      "level": "A2",
+      "sourceId": "girl",
+      "sourceIds": [
+        "girl"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "geben",
+      "word": "geben",
+      "en": "geben",
+      "ru": [
+        "давать"
+      ],
+      "example": "Ab Mai wird es mehr Geld geben.",
+      "level": "A1",
+      "sourceId": "give",
+      "sourceIds": [
+        "give"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gehen",
+      "word": "gehen",
+      "en": "gehen",
+      "ru": [
+        "идти",
+        "ехать"
+      ],
+      "example": "\"Kann ich mit dir gehen?\" - \"Sicher!\"",
+      "level": "A1",
+      "sourceId": "go",
+      "sourceIds": [
+        "go"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "auf-wiedersehen",
+      "word": "auf Wiedersehen",
+      "en": "auf Wiedersehen",
+      "ru": [
+        "пока",
+        "счастливо",
+        "адьё"
+      ],
+      "example": "Er hat nicht einmal auf Wiedersehen gesagt.",
+      "level": "A1",
+      "sourceId": "goodbye",
+      "sourceIds": [
+        "goodbye"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grossvater",
+      "word": "Großvater",
+      "en": "Großvater",
+      "ru": [
+        "дед",
+        "дедушка",
+        "дедуля"
+      ],
+      "example": "An schönen Tagen geht mein Großvater spazieren.",
+      "level": "A1",
+      "sourceId": "grandfather",
+      "sourceIds": [
+        "grandfather"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oma",
+      "word": "Oma",
+      "en": "Oma",
+      "ru": [
+        "бабушка",
+        "баба",
+        "бабка"
+      ],
+      "example": "Bei Frost warm anziehen, sagte meine Oma.",
+      "level": "A1",
+      "sourceId": "grandmother",
+      "sourceIds": [
+        "grandmother"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "typ",
+      "word": "Typ",
+      "en": "Typ",
+      "ru": [
+        "парень",
+        "мужчина"
+      ],
+      "example": "Auf Typen wie euch sind wir vorbereitet.",
+      "level": "A2",
+      "sourceId": "guy",
+      "sourceIds": [
+        "guy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gewohnheit",
+      "word": "Gewohnheit",
+      "en": "Gewohnheit",
+      "ru": [
+        "обычай",
+        "привычка",
+        "обыкновение"
+      ],
+      "example": "Aus alter Gewohnheit habe ich alles überprüft.",
+      "level": "A2",
+      "sourceId": "habit",
+      "sourceIds": [
+        "habit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "richtig-spass-haben",
+      "word": "richtig Spaß haben",
+      "en": "richtig Spaß haben",
+      "ru": [
+        "отлично провести время"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "have-a-really-good-time",
+      "sourceIds": [
+        "have-a-really-good-time"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "horen",
+      "word": "hören",
+      "en": "hören",
+      "ru": [
+        "слышать"
+      ],
+      "example": "Ab morgen höre ich auf zu rauchen.",
+      "level": "A2",
+      "sourceId": "hear",
+      "sourceIds": [
+        "hear"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "horen",
+      "word": "Hören",
+      "en": "Hören",
+      "ru": [
+        "слышащий",
+        "слух",
+        "разбирательство"
+      ],
+      "example": "Beim Hören der Geschichte vergoss sie Tränen.",
+      "level": "B1",
+      "sourceId": "hearing",
+      "sourceIds": [
+        "hearing"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hallo",
+      "word": "hallo",
+      "en": "hallo",
+      "ru": [
+        "привет",
+        "добрый день",
+        "здорово"
+      ],
+      "example": "Tom hat noch nicht einmal hallo gesagt.",
+      "level": "A1",
+      "sourceId": "hello",
+      "sourceIds": [
+        "hello"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "helfen",
+      "word": "helfen",
+      "en": "helfen",
+      "ru": [
+        "помогать"
+      ],
+      "example": "Allein ein Wunder kann uns noch helfen.",
+      "level": "A1",
+      "sourceId": "help",
+      "sourceIds": [
+        "help"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "helfer",
+      "word": "Helfer",
+      "en": "Helfer",
+      "ru": [
+        "ассистент",
+        "ассистентка",
+        "подручный"
+      ],
+      "example": "Die Polizei soll Freund und Helfer sein.",
+      "level": "C2",
+      "sourceId": "helper",
+      "sourceIds": [
+        "helper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hause",
+      "word": "Hause",
+      "en": "Hause",
+      "ru": [
+        "дом",
+        "домой",
+        "дома"
+      ],
+      "example": "\"Wo bist du?\" \"Ich bin zu Hause.\"",
+      "level": "A1",
+      "sourceId": "home",
+      "sourceIds": [
+        "home"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haus",
+      "word": "Haus",
+      "en": "Haus",
+      "ru": [
+        "дом",
+        "здание"
+      ],
+      "example": "\"Wo bist du?\" \"Ich bin zu Hause.\"",
+      "level": "A1",
+      "sourceId": "house",
+      "sourceIds": [
+        "house"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mann",
+      "word": "Mann",
+      "en": "Mann",
+      "ru": [
+        "муж",
+        "супруг"
+      ],
+      "example": "\"Du solltest lieber reinkommen\", sagte der Mann.",
+      "level": "A1",
+      "sourceId": "husband",
+      "sourceIds": [
+        "husband"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "behalten",
+      "word": "behalten",
+      "en": "behalten",
+      "ru": [
+        "хранить",
+        "продолжать"
+      ],
+      "example": "Am besten behalten wir das für uns.",
+      "level": "A1",
+      "sourceId": "keep",
+      "sourceIds": [
+        "keep"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schlussel",
+      "word": "Schlüssel",
+      "en": "Schlüssel",
+      "ru": [
+        "ключ",
+        "важнейший",
+        "ведущий"
+      ],
+      "example": "Anpassung ist der Schlüssel für das Überleben.",
+      "level": "A1",
+      "sourceId": "key",
+      "sourceIds": [
+        "key"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wissen",
+      "word": "wissen",
+      "en": "wissen",
+      "ru": [
+        "знать"
+      ],
+      "example": "\"Warum fragst du?\" \"Weil ich's wissen will.\"",
+      "level": "A1",
+      "sourceId": "know",
+      "sourceIds": [
+        "know"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lassen",
+      "word": "lassen",
+      "en": "lassen",
+      "ru": [
+        "уходить",
+        "оставлять"
+      ],
+      "example": "Ab wann lassen Sie die Passagiere einsteigen?",
+      "level": "A2",
+      "sourceId": "leave",
+      "sourceIds": [
+        "leave"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lassen",
+      "word": "lassen",
+      "en": "lassen",
+      "ru": [
+        "позволять"
+      ],
+      "example": "Ab wann lassen Sie die Passagiere einsteigen?",
+      "level": "A1",
+      "sourceId": "let",
+      "sourceIds": [
+        "let"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "buchstabe",
+      "word": "Buchstabe",
+      "en": "Buchstabe",
+      "ru": [
+        "письмо"
+      ],
+      "example": "\"A\" ist der erste Buchstabe des Alphabets.",
+      "level": "A2",
+      "sourceId": "letter",
+      "sourceIds": [
+        "letter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "leben",
+      "word": "Leben",
+      "en": "Leben",
+      "ru": [
+        "жизнь"
+      ],
+      "example": "Ab morgen fängt ein neues Leben an.",
+      "level": "A1",
+      "sourceId": "life",
+      "sourceIds": [
+        "life"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lebensstil",
+      "word": "Lebensstil",
+      "en": "Lebensstil",
+      "ru": [
+        "лайфстайл",
+        "образ жизни",
+        "стиль жизни"
+      ],
+      "example": "Ein solcher Lebensstil erscheint Amerikanern ziemlich uninteressant.",
+      "level": "B1",
+      "sourceId": "lifestyle",
+      "sourceIds": [
+        "lifestyle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "leben",
+      "word": "leben",
+      "en": "leben",
+      "ru": [
+        "жить"
+      ],
+      "example": "\"Wo leben Sie?\" \"Ich lebe in Brasilien.\"",
+      "level": "A1",
+      "sourceId": "live",
+      "sourceIds": [
+        "live"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lebend",
+      "word": "lebend",
+      "en": "lebend",
+      "ru": [
+        "жизнь",
+        "средства к существованию",
+        "живой"
+      ],
+      "example": "Auf diese Weise fangen sie lebende Elefanten.",
+      "level": "A1",
+      "sourceId": "living",
+      "sourceIds": [
+        "living"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sehen",
+      "word": "sehen",
+      "en": "sehen",
+      "ru": [
+        "смотреть",
+        "выглядеть"
+      ],
+      "example": "\"Ich muss ihn sehen.\" \"Aus welchem Grund?\"",
+      "level": "A1",
+      "sourceId": "look",
+      "sourceIds": [
+        "look"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aussehen",
+      "word": "Aussehen",
+      "en": "Aussehen",
+      "ru": [
+        "внешность",
+        "наружность"
+      ],
+      "example": "Alle Mädchen beneideten sie um ihr Aussehen.",
+      "level": "A2",
+      "sourceId": "looks",
+      "sourceIds": [
+        "looks"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "machen",
+      "word": "machen",
+      "en": "machen",
+      "ru": [
+        "делать",
+        "изготавливать"
+      ],
+      "example": "\"Mathe macht Spaß.\" \"Nein, tut es nicht.\"",
+      "level": "A1",
+      "sourceId": "make",
+      "sourceIds": [
+        "make"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mensch",
+      "word": "Mensch",
+      "en": "Mensch",
+      "ru": [
+        "мужчина",
+        "человек"
+      ],
+      "example": "85 Menschen kamen bei dem Feuer um.",
+      "level": "A1",
+      "sourceId": "man",
+      "sourceIds": [
+        "man"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mannlich",
+      "word": "männlich",
+      "en": "männlich",
+      "ru": [
+        "мужественный",
+        "мужеподобный",
+        "мужской"
+      ],
+      "example": "1899 waren die ersten Cheerleader männliche Studenten.",
+      "level": "C2",
+      "sourceId": "manly",
+      "sourceIds": [
+        "manly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "weise",
+      "word": "Weise",
+      "en": "Weise",
+      "ru": [
+        "манера",
+        "метод",
+        "способ"
+      ],
+      "example": "Abschied ist die innigste Weise menschlichen Zusammenseins.",
+      "level": "B1",
+      "sourceId": "manner",
+      "sourceIds": [
+        "manner"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "treffen",
+      "word": "treffen",
+      "en": "treffen",
+      "ru": [
+        "встречать"
+      ],
+      "example": "Abgemacht! Wir treffen uns vor dem Kino!",
+      "level": "A2",
+      "sourceId": "meet",
+      "sourceIds": [
+        "meet"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "versammlung",
+      "word": "Versammlung",
+      "en": "Versammlung",
+      "ru": [
+        "встреча",
+        "собрание",
+        "заседание"
+      ],
+      "example": "Beide waren bei der Versammlung nicht anwesend.",
+      "level": "A1",
+      "sourceId": "meeting",
+      "sourceIds": [
+        "meeting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menschen",
+      "word": "Menschen",
+      "en": "Menschen",
+      "ru": [
+        "мужчины"
+      ],
+      "example": "85 Menschen kamen bei dem Feuer um.",
+      "level": "A1",
+      "sourceId": "men",
+      "sourceIds": [
+        "men"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "morgen",
+      "word": "Morgen",
+      "en": "Morgen",
+      "ru": [
+        "утро",
+        "время до полудня",
+        "дополуденное время"
+      ],
+      "example": "\"Guten Morgen\", sagte Tom mit einem Lächeln.",
+      "level": "A1",
+      "sourceId": "morning",
+      "sourceIds": [
+        "morning"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mutter",
+      "word": "Mutter",
+      "en": "Mutter",
+      "ru": [
+        "мать",
+        "мама",
+        "матушка"
+      ],
+      "example": "\"Wer ist es?\" \"Es ist deine Mutter.\"",
+      "level": "A1",
+      "sourceId": "mother",
+      "sourceIds": [
+        "mother"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mutterlich",
+      "word": "mütterlich",
+      "en": "mütterlich",
+      "ru": [
+        "материнский"
+      ],
+      "example": "Stefan hat in Anna mütterliche Gefühle geweckt.",
+      "level": "C2",
+      "sourceId": "motherly",
+      "sourceIds": [
+        "motherly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "name",
+      "word": "Name",
+      "en": "Name",
+      "ru": [
+        "имя",
+        "название",
+        "наименование"
+      ],
+      "example": "Alle Namen sind in alphabetischer Reihenfolge aufgelistet.",
+      "level": "A1",
+      "sourceId": "name",
+      "sourceIds": [
+        "name"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brauchen",
+      "word": "brauchen",
+      "en": "brauchen",
+      "ru": [
+        "нуждаться",
+        "нужно"
+      ],
+      "example": "\"Ich brauche wirklich neue Kleider\", dachte Dima.",
+      "level": "A1",
+      "sourceId": "need",
+      "sourceIds": [
+        "need"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nacht",
+      "word": "Nacht",
+      "en": "Nacht",
+      "ru": [
+        "ночь",
+        "вечер",
+        "ночёвка"
+      ],
+      "example": "Bist du wirklich die ganze Nacht durchgefahren?",
+      "level": "A1",
+      "sourceId": "night",
+      "sourceIds": [
+        "night"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kein",
+      "word": "kein",
+      "en": "kein",
+      "ru": [
+        "нет",
+        "никакой",
+        "не"
+      ],
+      "example": "\"Sie haben keine Croissants mehr?\" \"Alle verkauft.\"",
+      "level": "A1",
+      "sourceId": "no",
+      "sourceIds": [
+        "no"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "niemand",
+      "word": "Niemand",
+      "en": "Niemand",
+      "ru": [
+        "никто"
+      ],
+      "example": "Der liebe Niemand ist an allem schuld.",
+      "level": "B2",
+      "sourceId": "nobody",
+      "sourceIds": [
+        "nobody"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "normalerweise",
+      "word": "normalerweise",
+      "en": "normalerweise",
+      "ru": [
+        "обычно",
+        "как обычно"
+      ],
+      "example": "An welchem Tag hast du normalerweise frei?",
+      "level": "B1",
+      "sourceId": "normally",
+      "sourceIds": [
+        "normally"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nichts",
+      "word": "nichts",
+      "en": "nichts",
+      "ru": [
+        "ничто",
+        "ничего"
+      ],
+      "example": "Aber er hat ja gar nichts an!",
+      "level": "A2",
+      "sourceId": "nothing",
+      "sourceIds": [
+        "nothing"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "offnen",
+      "word": "öffnen",
+      "en": "öffnen",
+      "ru": [
+        "открывать"
+      ],
+      "example": "Als ich die Vorhänge öffnete, schneite es.",
+      "level": "A1",
+      "sourceId": "open",
+      "sourceIds": [
+        "open"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "offnung",
+      "word": "Öffnung",
+      "en": "Öffnung",
+      "ru": [
+        "открытие",
+        "отверстие",
+        "проход"
+      ],
+      "example": "Die Öffnungen vor Eindringen von Sand bewaren!",
+      "level": "B1",
+      "sourceId": "opening",
+      "sourceIds": [
+        "opening"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "offen",
+      "word": "offen",
+      "en": "offen",
+      "ru": [
+        "откровенно",
+        "открыто",
+        "с открытым забралом"
+      ],
+      "example": "Bleibt die Kiste offen, verderben die Lebensmittel.",
+      "level": "C2",
+      "sourceId": "openly",
+      "sourceIds": [
+        "openly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "elternteil",
+      "word": "Elternteil",
+      "en": "Elternteil",
+      "ru": [
+        "родитель"
+      ],
+      "example": "Die Schwester eines Elternteils ist eine Tante.",
+      "level": "A1",
+      "sourceId": "parent",
+      "sourceIds": [
+        "parent"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "leute",
+      "word": "Leute",
+      "en": "Leute",
+      "ru": [
+        "люди",
+        "люд",
+        "народ"
+      ],
+      "example": "Aber was geht in manchen Leuten vor?",
+      "level": "A1",
+      "sourceId": "people",
+      "sourceIds": [
+        "people"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "person",
+      "word": "Person",
+      "en": "Person",
+      "ru": [
+        "личность",
+        "особа",
+        "персона"
+      ],
+      "example": "10 Personen sind mit diesem Problem beschäftigt.",
+      "level": "A1",
+      "sourceId": "person",
+      "sourceIds": [
+        "person"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bitte",
+      "word": "bitte",
+      "en": "bitte",
+      "ru": [
+        "будь добр",
+        "будь добра",
+        "будьте добры"
+      ],
+      "example": "An der ersten Ecke bitte links abbiegen.",
+      "level": "A1",
+      "sourceId": "please",
+      "sourceIds": [
+        "please"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "froh",
+      "word": "froh",
+      "en": "froh",
+      "ru": [
+        "довольный",
+        "радостный"
+      ],
+      "example": "Bist du froh, wieder da zu sein?",
+      "level": "B2",
+      "sourceId": "pleased",
+      "sourceIds": [
+        "pleased"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "angenehm",
+      "word": "angenehm",
+      "en": "angenehm",
+      "ru": [
+        "приятный"
+      ],
+      "example": "Anscheinend haben sie ein angenehmes Leben geführt.",
+      "level": "C2",
+      "sourceId": "pleasing",
+      "sourceIds": [
+        "pleasing"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tun",
+      "word": "tun",
+      "en": "tun",
+      "ru": [
+        "класть",
+        "ставить"
+      ],
+      "example": "\"Gib es etwas zu tun?\" \"Nichts spezielles.\"",
+      "level": "A1",
+      "sourceId": "put",
+      "sourceIds": [
+        "put"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ruhe",
+      "word": "Ruhe",
+      "en": "Ruhe",
+      "ru": [
+        "отдых",
+        "остаток",
+        "отдохнуть"
+      ],
+      "example": "\"Lass mich in Ruhe!\" sagte sie ärgerlich.",
+      "level": "A2",
+      "sourceId": "rest",
+      "sourceIds": [
+        "rest"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "routinemassig",
+      "word": "routinemäßig",
+      "en": "routinemäßig",
+      "ru": [
+        "рутинный",
+        "заведённый",
+        "порядок"
+      ],
+      "example": "Ich muss routinemäßig einmal im Quartal zum Arzt.",
+      "level": "B2",
+      "sourceId": "routine",
+      "sourceIds": [
+        "routine"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sagen",
+      "word": "sagen",
+      "en": "sagen",
+      "ru": [
+        "говорить",
+        "сказать"
+      ],
+      "example": "\"Du solltest lieber reinkommen\", sagte der Mann.",
+      "level": "A1",
+      "sourceId": "say",
+      "sourceIds": [
+        "say"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sprichwort",
+      "word": "Sprichwort",
+      "en": "Sprichwort",
+      "ru": [
+        "поговорка",
+        "пословица",
+        "присказка"
+      ],
+      "example": "\"Zeit ist Geld\" ist ein zutreffendes Sprichwort.",
+      "level": "B1",
+      "sourceId": "saying",
+      "sourceIds": [
+        "saying"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zeitplan",
+      "word": "Zeitplan",
+      "en": "Zeitplan",
+      "ru": [
+        "расписание",
+        "график"
+      ],
+      "example": "Ich bin ein bisschen hinter dem Zeitplan.",
+      "level": "A2",
+      "sourceId": "schedule",
+      "sourceIds": [
+        "schedule"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sehen",
+      "word": "sehen",
+      "en": "sehen",
+      "ru": [
+        "видеть"
+      ],
+      "example": "\"Ich muss ihn sehen.\" \"Aus welchem Grund?\"",
+      "level": "A1",
+      "sourceId": "see",
+      "sourceIds": [
+        "see"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schicken",
+      "word": "schicken",
+      "en": "schicken",
+      "ru": [
+        "отправлять"
+      ],
+      "example": "Alles ist einfach, wenn Gott Hilfe schickt.",
+      "level": "A1",
+      "sourceId": "send",
+      "sourceIds": [
+        "send"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "laden",
+      "word": "Laden",
+      "en": "Laden",
+      "ru": [
+        "магазин",
+        "бутик",
+        "лавка"
+      ],
+      "example": "Allerlei Tand wird in dem Laden feilgeboten.",
+      "level": "A1",
+      "sourceId": "shop",
+      "sourceIds": [
+        "shop"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einkaufe",
+      "word": "Einkäufe",
+      "en": "Einkäufe",
+      "ru": [
+        "купля",
+        "покупка",
+        "покупки"
+      ],
+      "example": "Er wollte, dass wir die Einkäufe erledigen.",
+      "level": "A1",
+      "sourceId": "shopping",
+      "sourceIds": [
+        "shopping"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dusche",
+      "word": "Dusche",
+      "en": "Dusche",
+      "ru": [
+        "принимать душ"
+      ],
+      "example": "Der Duschkopf dieser Dusche hängt zu niedrig.",
+      "level": "B1",
+      "sourceId": "shower",
+      "sourceIds": [
+        "shower"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schwester",
+      "word": "Schwester",
+      "en": "Schwester",
+      "ru": [
+        "сестра",
+        "медсестра"
+      ],
+      "example": "Aber meine ältere Schwester kann gut schwimmen.",
+      "level": "A1",
+      "sourceId": "sister",
+      "sourceIds": [
+        "sister"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sitzen",
+      "word": "sitzen",
+      "en": "sitzen",
+      "ru": [
+        "сидеть"
+      ],
+      "example": "Alter Mann, du sitzt auf meinem Platz!",
+      "level": "A1",
+      "sourceId": "sit",
+      "sourceIds": [
+        "sit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schlafen",
+      "word": "schlafen",
+      "en": "schlafen",
+      "ru": [
+        "спать"
+      ],
+      "example": "Aber ich gehe noch nicht gleich schlafen.",
+      "level": "A1",
+      "sourceId": "sleep",
+      "sourceIds": [
+        "sleep"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jemand",
+      "word": "jemand",
+      "en": "jemand",
+      "ru": [
+        "кое-кто",
+        "кто-либо",
+        "кто-нибудь"
+      ],
+      "example": "Alex ging, ohne jemandem etwas zu sagen.",
+      "level": "B2",
+      "sourceId": "somebody",
+      "sourceIds": [
+        "somebody"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "etwas",
+      "word": "etwas",
+      "en": "etwas",
+      "ru": [
+        "что-то",
+        "кое-что",
+        "нечто"
+      ],
+      "example": "\"Gib es etwas zu tun?\" \"Nichts spezielles.\"",
+      "level": "A1",
+      "sourceId": "something",
+      "sourceIds": [
+        "something"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "entschuldigung",
+      "word": "Entschuldigung",
+      "en": "Entschuldigung",
+      "ru": [
+        "жаль",
+        "огорчённый",
+        "сожалеющий"
+      ],
+      "example": "An Entschuldigungen wird es niemand leicht fehlen.",
+      "level": "A1",
+      "sourceId": "sorry",
+      "sourceIds": [
+        "sorry"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frei",
+      "word": "frei",
+      "en": "frei",
+      "ru": [
+        "свободный",
+        "запасной"
+      ],
+      "example": "Aalen war im Mittelalter eine freie Reichsstadt.",
+      "level": "B2",
+      "sourceId": "spare",
+      "sourceIds": [
+        "spare"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sprechen",
+      "word": "sprechen",
+      "en": "sprechen",
+      "ru": [
+        "говорить"
+      ],
+      "example": "Administratoren sprachen von einer überaus turbulenten Datenbankstruktur.",
+      "level": "B1",
+      "sourceId": "speak",
+      "sourceIds": [
+        "speak"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sprecher",
+      "word": "Sprecher",
+      "en": "Sprecher",
+      "ru": [
+        "говорящий",
+        "носитель",
+        "спикер"
+      ],
+      "example": "Das Baskische hat weltweit über achthunderttausend Sprecher.",
+      "level": "B1",
+      "sourceId": "speaker",
+      "sourceIds": [
+        "speaker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sprechen",
+      "word": "Sprechen",
+      "en": "Sprechen",
+      "ru": [
+        "говорящий",
+        "говорение",
+        "разговор"
+      ],
+      "example": "Bitte vor dem Sprechen das Gehirn einschalten.",
+      "level": "B1",
+      "sourceId": "speaking",
+      "sourceIds": [
+        "speaking"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stehen",
+      "word": "stehen",
+      "en": "stehen",
+      "ru": [
+        "стоять"
+      ],
+      "example": "Aber es steht doch in der Zeitung!",
+      "level": "A1",
+      "sourceId": "stand",
+      "sourceIds": [
+        "stand"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "starten",
+      "word": "starten",
+      "en": "starten",
+      "ru": [
+        "начинать"
+      ],
+      "example": "Das Flugzeug ist im Begriff zu starten.",
+      "level": "A1",
+      "sourceId": "start",
+      "sourceIds": [
+        "start"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bleiben",
+      "word": "bleiben",
+      "en": "bleiben",
+      "ru": [
+        "оставаться"
+      ],
+      "example": "Alles bewegt sich fort und nichts bleibt!",
+      "level": "A2",
+      "sourceId": "stay",
+      "sourceIds": [
+        "stay"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stoppen",
+      "word": "stoppen",
+      "en": "stoppen",
+      "ru": [
+        "останавливать",
+        "прекращать"
+      ],
+      "example": "Der Sessel stoppte direkt neben der Tür.",
+      "level": "A1",
+      "sourceId": "stop",
+      "sourceIds": [
+        "stop"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schalter",
+      "word": "Schalter",
+      "en": "Schalter",
+      "ru": [
+        "ключ",
+        "выключатель",
+        "переключатель"
+      ],
+      "example": "Mann, Schalter und Knöpfe gibt es überall!",
+      "level": "A2",
+      "sourceId": "switch",
+      "sourceIds": [
+        "switch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nehmen",
+      "word": "nehmen",
+      "en": "nehmen",
+      "ru": [
+        "брать",
+        "принимать"
+      ],
+      "example": "Ab dem ersten Januar nehme ich Urlaub.",
+      "level": "A1",
+      "sourceId": "take",
+      "sourceIds": [
+        "take"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reden",
+      "word": "reden",
+      "en": "reden",
+      "ru": [
+        "говорить",
+        "разговаривать"
+      ],
+      "example": "Alle reden darüber, was Tom getan hat.",
+      "level": "A2",
+      "sourceId": "talk",
+      "sourceIds": [
+        "talk"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sagen",
+      "word": "sagen",
+      "en": "sagen",
+      "ru": [
+        "рассказывать",
+        "говорить"
+      ],
+      "example": "\"Du solltest lieber reinkommen\", sagte der Mann.",
+      "level": "A1",
+      "sourceId": "tell",
+      "sourceIds": [
+        "tell"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "danke",
+      "word": "danke",
+      "en": "danke",
+      "ru": [
+        "благодарю",
+        "спасибо"
+      ],
+      "example": "\"Du kannst meinen Saft haben.\" \"Nein, danke.\"",
+      "level": "A1",
+      "sourceId": "thanks",
+      "sourceIds": [
+        "thanks"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sache",
+      "word": "Sache",
+      "en": "Sache",
+      "ru": [
+        "вещь",
+        "нечто",
+        "предмет"
+      ],
+      "example": "Alle waren mit ihren eigenen Sachen beschäftigt.",
+      "level": "A2",
+      "sourceId": "thing",
+      "sourceIds": [
+        "thing"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "heute",
+      "word": "heute",
+      "en": "heute",
+      "ru": [
+        "сегодня",
+        "в настоящее время",
+        "теперь"
+      ],
+      "example": "\"Kann ich dich heute Abend anrufen?\" \"Klar!\"",
+      "level": "A1",
+      "sourceId": "today",
+      "sourceIds": [
+        "today"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zahnburste",
+      "word": "Zahnbürste",
+      "en": "Zahnbürste",
+      "ru": [
+        "зубная щётка",
+        "зубная щетка"
+      ],
+      "example": "Entschuldigung, wo sind die Zahnbürsten für Kinder?",
+      "level": "A1",
+      "sourceId": "toothbrush",
+      "sourceIds": [
+        "toothbrush"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "versuchen",
+      "word": "versuchen",
+      "en": "versuchen",
+      "ru": [
+        "пробовать",
+        "пытаться"
+      ],
+      "example": "Als Wissenschaftler versuche ich, objektiv zu sein.",
+      "level": "A1",
+      "sourceId": "try",
+      "sourceIds": [
+        "try"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "benutzen",
+      "word": "benutzen",
+      "en": "benutzen",
+      "ru": [
+        "использовать"
+      ],
+      "example": "Aber auch den Pinsel benutzte er gekonnt.",
+      "level": "A1",
+      "sourceId": "use",
+      "sourceIds": [
+        "use"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gewohnlich",
+      "word": "gewöhnlich",
+      "en": "gewöhnlich",
+      "ru": [
+        "обыкновенный",
+        "обычный"
+      ],
+      "example": "Alle Wörter sind der gewöhnlichen Gegenwartssprache entnommen.",
+      "level": "B2",
+      "sourceId": "usual",
+      "sourceIds": [
+        "usual"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gewohnlich",
+      "word": "gewöhnlich",
+      "en": "gewöhnlich",
+      "ru": [
+        "обычно"
+      ],
+      "example": "Alle Wörter sind der gewöhnlichen Gegenwartssprache entnommen.",
+      "level": "A2",
+      "sourceId": "usually",
+      "sourceIds": [
+        "usually"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "warten",
+      "word": "warten",
+      "en": "warten",
+      "ru": [
+        "ждать"
+      ],
+      "example": "Abgemacht! Ich warte auf dich im Restaurant.",
+      "level": "B1",
+      "sourceId": "wait",
+      "sourceIds": [
+        "wait"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kellner",
+      "word": "Kellner",
+      "en": "Kellner",
+      "ru": [
+        "кельнер",
+        "официант",
+        "официантка"
+      ],
+      "example": "Das Bier wird von der Kellnerin gebracht.",
+      "level": "A2",
+      "sourceId": "waiter",
+      "sourceIds": [
+        "waiter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "warten",
+      "word": "Warten",
+      "en": "Warten",
+      "ru": [
+        "ожидание"
+      ],
+      "example": "Beim Warten bin ich beim Stromversorger eingeschlafen.",
+      "level": "B1",
+      "sourceId": "waiting",
+      "sourceIds": [
+        "waiting"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aufwachen",
+      "word": "aufwachen",
+      "en": "aufwachen",
+      "ru": [
+        "будить",
+        "просыпаться"
+      ],
+      "example": "Als Tom aufwachte, lag er im Krankenhaus.",
+      "level": "A1",
+      "sourceId": "wake",
+      "sourceIds": [
+        "wake"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "weck-mich",
+      "word": "weck mich",
+      "en": "weck mich",
+      "ru": [
+        "разбудить меня"
+      ],
+      "example": "Bitte weck mich morgen früh um sieben.",
+      "level": "A1",
+      "sourceId": "wake-me-up",
+      "sourceIds": [
+        "wake-me-up"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aufwachen",
+      "word": "aufwachen",
+      "en": "aufwachen",
+      "ru": [
+        "просыпаться",
+        "вставать"
+      ],
+      "example": "Als Tom aufwachte, lag er im Krankenhaus.",
+      "level": "A1",
+      "sourceId": "wake-up",
+      "sourceIds": [
+        "wake-up"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gehen",
+      "word": "gehen",
+      "en": "gehen",
+      "ru": [
+        "ходить",
+        "гулять"
+      ],
+      "example": "\"Kann ich mit dir gehen?\" - \"Sicher!\"",
+      "level": "A1",
+      "sourceId": "walk",
+      "sourceIds": [
+        "walk"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fussganger",
+      "word": "Fußgänger",
+      "en": "Fußgänger",
+      "ru": [
+        "пешеход",
+        "ходок"
+      ],
+      "example": "Autofahrer müssen immer auf die Fußgänger achten.",
+      "level": "B2",
+      "sourceId": "walker",
+      "sourceIds": [
+        "walker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gehen",
+      "word": "Gehen",
+      "en": "Gehen",
+      "ru": [
+        "ходячий",
+        "ходьба",
+        "хождение"
+      ],
+      "example": "Der Fersensporn verursacht starke Schmerzen beim Gehen.",
+      "level": "B1",
+      "sourceId": "walking",
+      "sourceIds": [
+        "walking"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wollen",
+      "word": "wollen",
+      "en": "wollen",
+      "ru": [
+        "хотеть"
+      ],
+      "example": "Alle Religionen wollen Frieden. Andere wollen Krieg.",
+      "level": "A1",
+      "sourceId": "want",
+      "sourceIds": [
+        "want"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gewunscht",
+      "word": "gewünscht",
+      "en": "gewünscht",
+      "ru": [
+        "желаемый",
+        "желанный",
+        "нужный"
+      ],
+      "example": "Hr. Yamada, Sie werden am Telefon gewünscht.",
+      "level": "A2",
+      "sourceId": "wanted",
+      "sourceIds": [
+        "wanted"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "waschen",
+      "word": "waschen",
+      "en": "waschen",
+      "ru": [
+        "мыть"
+      ],
+      "example": "Blut lässt sich nicht mit Blut waschen.",
+      "level": "A1",
+      "sourceId": "wash",
+      "sourceIds": [
+        "wash"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "waschen",
+      "word": "Waschen",
+      "en": "Waschen",
+      "ru": [
+        "мытьё",
+        "мойка",
+        "промывка"
+      ],
+      "example": "Der Tintenfleck bleibt auch nach dem Waschen.",
+      "level": "C1",
+      "sourceId": "washing",
+      "sourceIds": [
+        "washing"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "willkommen",
+      "word": "willkommen",
+      "en": "willkommen",
+      "ru": [
+        "желанный",
+        "добро пожаловать",
+        "приветствовать"
+      ],
+      "example": "Ausländer fühlen sich hier oft nicht willkommen.",
+      "level": "A1",
+      "sourceId": "welcome",
+      "sourceIds": [
+        "welcome"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frau",
+      "word": "Frau",
+      "en": "Frau",
+      "ru": [
+        "жена",
+        "жёнка",
+        "супруга"
+      ],
+      "example": "Aber kennen Sie auch die schönste Frau?",
+      "level": "A1",
+      "sourceId": "wife",
+      "sourceIds": [
+        "wife"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frau",
+      "word": "Frau",
+      "en": "Frau",
+      "ru": [
+        "женщина",
+        "баба",
+        "жена"
+      ],
+      "example": "Aber kennen Sie auch die schönste Frau?",
+      "level": "A2",
+      "sourceId": "woman",
+      "sourceIds": [
+        "woman"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "weiblich",
+      "word": "weiblich",
+      "en": "weiblich",
+      "ru": [
+        "бабий",
+        "женский",
+        "женственный"
+      ],
+      "example": "Deutschlands einzige weibliche Billardmeisterin ist eine Türkin.",
+      "level": "C2",
+      "sourceId": "womanly",
+      "sourceIds": [
+        "womanly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arbeiten",
+      "word": "arbeiten",
+      "en": "arbeiten",
+      "ru": [
+        "работать"
+      ],
+      "example": "Am Freitag arbeiten wir nur bis Mittag.",
+      "level": "A1",
+      "sourceId": "work",
+      "sourceIds": [
+        "work"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arbeiter",
+      "word": "Arbeiter",
+      "en": "Arbeiter",
+      "ru": [
+        "рабочий",
+        "работник",
+        "работница"
+      ],
+      "example": "Alle ungeschickten Arbeiter schimpfen auf ihr Werkzeug.",
+      "level": "B2",
+      "sourceId": "worker",
+      "sourceIds": [
+        "worker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funktionsfahig",
+      "word": "funktionsfähig",
+      "en": "funktionsfähig",
+      "ru": [
+        "рабочий",
+        "работоспособный",
+        "рабочая"
+      ],
+      "example": "So ist das Parlament nicht voll funktionsfähig.",
+      "level": "A1",
+      "sourceId": "working",
+      "sourceIds": [
+        "working"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ja",
+      "word": "ja",
+      "en": "ja",
+      "ru": [
+        "да"
+      ],
+      "example": "\"Wollen wir Fangen spielen?\" — \"Au ja!\"",
+      "level": "A1",
+      "sourceId": "yes",
+      "sourceIds": [
+        "yes"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schaufel",
+      "word": "Schaufel",
+      "en": "Schaufel",
+      "ru": [
+        "лопата",
+        "копать"
+      ],
+      "example": "Die Schaufel habe ich noch nie benutzt.",
+      "level": "B1",
+      "sourceId": "shovel",
+      "sourceIds": [
+        "shovel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "klopfen",
+      "word": "klopfen",
+      "en": "klopfen",
+      "ru": [
+        "стучать"
+      ],
+      "example": "Bitte klopf an, bevor du herein kommst.",
+      "level": "B1",
+      "sourceId": "knock",
+      "sourceIds": [
+        "knock"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schlafend",
+      "word": "schlafend",
+      "en": "schlafend",
+      "ru": [
+        "спящий"
+      ],
+      "example": "Also, schlafende Hunde soll man nicht wecken.",
+      "level": "B1",
+      "sourceId": "asleep",
+      "sourceIds": [
+        "asleep"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "feier",
+      "word": "Feier",
+      "en": "Feier",
+      "ru": [
+        "празднование"
+      ],
+      "example": "Alle sind zur Feier gekommen, ausgenommen Mike.",
+      "level": "B1",
+      "sourceId": "celebration",
+      "sourceIds": [
+        "celebration"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tanken",
+      "word": "Tanken",
+      "en": "Tanken",
+      "ru": [
+        "пополнение",
+        "наполнять снова"
+      ],
+      "example": "Tanken Sie Normal oder Super?",
+      "level": "B1",
+      "sourceId": "refill",
+      "sourceIds": [
+        "refill"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beflecken",
+      "word": "beflecken",
+      "en": "beflecken",
+      "ru": [
+        "пачкать",
+        "пятнать"
+      ],
+      "example": "Er befleckte den guten Ruf unserer Schule.",
+      "level": "B1",
+      "sourceId": "stain",
+      "sourceIds": [
+        "stain"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nickerchen",
+      "word": "Nickerchen",
+      "en": "Nickerchen",
+      "ru": [
+        "дневной сон"
+      ],
+      "example": "Er versuchte, mit einem Nickerchen Schlaf nachzuholen.",
+      "level": "B1",
+      "sourceId": "nap",
+      "sourceIds": [
+        "nap"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wischen",
+      "word": "wischen",
+      "en": "wischen",
+      "ru": [
+        "вытирать"
+      ],
+      "example": "Der Alte wischte sich den Geifer ab.",
+      "level": "B1",
+      "sourceId": "wipe",
+      "sourceIds": [
+        "wipe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reparieren",
+      "word": "reparieren",
+      "en": "reparieren",
+      "ru": [
+        "чинить",
+        "исправлять"
+      ],
+      "example": "Am Samstag werde ich meinen Computer reparieren.",
+      "level": "B1",
+      "sourceId": "mend",
+      "sourceIds": [
+        "mend"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ausrutschen",
+      "word": "ausrutschen",
+      "en": "ausrutschen",
+      "ru": [
+        "ошибка",
+        "промах"
+      ],
+      "example": "Auf dem Boden kann man leicht ausrutschen.",
+      "level": "B1",
+      "sourceId": "slip",
+      "sourceIds": [
+        "slip"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reissen",
+      "word": "reißen",
+      "en": "reißen",
+      "ru": [
+        "разрыв",
+        "дыра"
+      ],
+      "example": "Herr Gorbatschow, reißen Sie diese Mauer ein!",
+      "level": "B1",
+      "sourceId": "rip",
+      "sourceIds": [
+        "rip"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spray",
+      "word": "Spray",
+      "en": "Spray",
+      "ru": [
+        "спрей",
+        "брызги"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "spray",
+      "sourceIds": [
+        "spray"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "quatsch",
+      "word": "Quatsch",
+      "en": "Quatsch",
+      "ru": [
+        "мусор",
+        "ерунда"
+      ],
+      "example": "Quatsch, sie geht mit ihm nicht aus!",
+      "level": "B1",
+      "sourceId": "rubbish",
+      "sourceIds": [
+        "rubbish"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aufzug",
+      "word": "Aufzug",
+      "en": "Aufzug",
+      "ru": [
+        "лифт",
+        "подъем"
+      ],
+      "example": "Alle im Aufzug schwiegen bis zum Schluss.",
+      "level": "B1",
+      "sourceId": "lift",
+      "sourceIds": [
+        "lift"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fegen",
+      "word": "fegen",
+      "en": "fegen",
+      "ru": [
+        "мести",
+        "подметать"
+      ],
+      "example": "Bevor du weggehst, fege noch den Fußboden.",
+      "level": "B1",
+      "sourceId": "sweep",
+      "sourceIds": [
+        "sweep"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zigarette",
+      "word": "Zigarette",
+      "en": "Zigarette",
+      "ru": [
+        "сигарета"
+      ],
+      "example": "Also versuchte ich, von den Zigaretten loszukommen.",
+      "level": "B1",
+      "sourceId": "cigarette",
+      "sourceIds": [
+        "cigarette"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wirrwarr",
+      "word": "Wirrwarr",
+      "en": "Wirrwarr",
+      "ru": [
+        "путаница",
+        "неразбериха"
+      ],
+      "example": "Auf der Erde lag ein Wirrwarr von Sachen.",
+      "level": "B1",
+      "sourceId": "muddle",
+      "sourceIds": [
+        "muddle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "springen-lassen",
+      "word": "springen lassen",
+      "en": "springen lassen",
+      "ru": [
+        "бегло просматривать",
+        "снимать пенку"
+      ],
+      "example": "Ich werde Sie nicht springen lassen.",
+      "level": "B1",
+      "sourceId": "skim",
+      "sourceIds": [
+        "skim"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "haarschnitt",
+      "word": "Haarschnitt",
+      "en": "Haarschnitt",
+      "ru": [
+        "стрижка"
+      ],
+      "example": "Der Frisör hat ihm einen Haarschnitt verliehen.",
+      "level": "B1",
+      "sourceId": "haircut",
+      "sourceIds": [
+        "haircut"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dauerwelle",
+      "word": "Dauerwelle",
+      "en": "Dauerwelle",
+      "ru": [
+        "химическая завивка"
+      ],
+      "example": "Die Dauerwelle bitte nicht zu eng machen!",
+      "level": "B1",
+      "sourceId": "perm",
+      "sourceIds": [
+        "perm"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frisur",
+      "word": "Frisur",
+      "en": "Frisur",
+      "ru": [
+        "прическа"
+      ],
+      "example": "Die Prinzessin trug immer sehr aufwendige Frisuren.",
+      "level": "B1",
+      "sourceId": "hairstyle",
+      "sourceIds": [
+        "hairstyle",
+        "hairdo"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schneiden",
+      "word": "schneiden",
+      "en": "schneiden",
+      "ru": [
+        "косить"
+      ],
+      "example": "Aus fremdem Leder ist gut Riemen schneiden.",
+      "level": "B1",
+      "sourceId": "mow",
+      "sourceIds": [
+        "mow"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spaziergang",
+      "word": "Spaziergang",
+      "en": "Spaziergang",
+      "ru": [
+        "прогулка",
+        "прогуливаться"
+      ],
+      "example": "Darf ich Sie auf Ihrem Spaziergang begleiten?",
+      "level": "B1",
+      "sourceId": "stroll",
+      "sourceIds": [
+        "stroll"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spulen",
+      "word": "spülen",
+      "en": "spülen",
+      "ru": [
+        "полоскать",
+        "промывать"
+      ],
+      "example": "Bitte nicht vergessen das Klo zu spülen.",
+      "level": "B1",
+      "sourceId": "rinse",
+      "sourceIds": [
+        "rinse"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kreuzwortratsel",
+      "word": "Kreuzworträtsel",
+      "en": "Kreuzworträtsel",
+      "ru": [
+        "кроссворд"
+      ],
+      "example": "Er hat das Kreuzworträtsel mit Leichtigkeit gelöst.",
+      "level": "B1",
+      "sourceId": "crossword",
+      "sourceIds": [
+        "crossword"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alarm",
+      "word": "Alarm",
+      "en": "Alarm",
+      "ru": [
+        "тревога",
+        "сигнализация"
+      ],
+      "example": "Der Alarm wurde um 5:30 Uhr ausgelöst.",
+      "level": "B1",
+      "sourceId": "alarm",
+      "sourceIds": [
+        "alarm"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wach",
+      "word": "wach",
+      "en": "wach",
+      "ru": [
+        "бодрствующий"
+      ],
+      "example": "Du warst die ganze Nacht wach, oder?",
+      "level": "B1",
+      "sourceId": "awake",
+      "sourceIds": [
+        "awake"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "termin",
+      "word": "Termin",
+      "en": "Termin",
+      "ru": [
+        "встреча",
+        "назначение"
+      ],
+      "example": "Der Termin ist nicht mehr zu haben.",
+      "level": "B1",
+      "sourceId": "appointment",
+      "sourceIds": [
+        "appointment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puppe",
+      "word": "Puppe",
+      "en": "Puppe",
+      "ru": [
+        "кукла"
+      ],
+      "example": "Das Kind legt seine Puppe ins Bett.",
+      "level": "B1",
+      "sourceId": "doll",
+      "sourceIds": [
+        "doll"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schrubben",
+      "word": "schrubben",
+      "en": "schrubben",
+      "ru": [
+        "кустарник",
+        "чистка"
+      ],
+      "example": "Würden Sie mir bitte den Rücken schrubben?",
+      "level": "B1",
+      "sourceId": "scrub",
+      "sourceIds": [
+        "scrub"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "auftrag",
+      "word": "Auftrag",
+      "en": "Auftrag",
+      "ru": [
+        "поручение"
+      ],
+      "example": "Dank Ihrer Empfehlung erhielt Tom den Auftrag.",
+      "level": "B1",
+      "sourceId": "errand",
+      "sourceIds": [
+        "errand"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eingewickelt",
+      "word": "eingewickelt",
+      "en": "eingewickelt",
+      "ru": [
+        "завернутый",
+        "упакованный"
+      ],
+      "example": "Irgendetwas ist im Teppich eingewickelt. Nur was?",
+      "level": "B1",
+      "sourceId": "wrapped",
+      "sourceIds": [
+        "wrapped"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panne",
+      "word": "Panne",
+      "en": "Panne",
+      "ru": [
+        "поломка",
+        "распад",
+        "нервный срыв"
+      ],
+      "example": "Der Motor des Autos hatte unterwegs eine Panne.",
+      "level": "B1",
+      "sourceId": "breakdown",
+      "sourceIds": [
+        "breakdown"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kuscheln",
+      "word": "kuscheln",
+      "en": "kuscheln",
+      "ru": [
+        "прижиматься",
+        "уютно устраиваться"
+      ],
+      "example": "Wenn man kuschelt, repariert man sich gegenseitig!",
+      "level": "B1",
+      "sourceId": "snuggle",
+      "sourceIds": [
+        "snuggle"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "feierlich",
+      "word": "feierlich",
+      "en": "feierlich",
+      "ru": [
+        "праздничный"
+      ],
+      "example": "Heute habe ich mein feierliches Versprechen erfüllt.",
+      "level": "B1",
+      "sourceId": "celebratory",
+      "sourceIds": [
+        "celebratory"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zigarre",
+      "word": "Zigarre",
+      "en": "Zigarre",
+      "ru": [
+        "сигара"
+      ],
+      "example": "Er hat immer eine Zigarre im Mund.",
+      "level": "B1",
+      "sourceId": "cigar",
+      "sourceIds": [
+        "cigar"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "duft",
+      "word": "Duft",
+      "en": "Duft",
+      "ru": [
+        "духи",
+        "аромат"
+      ],
+      "example": "Den Duft seiner Geliebten erkennt man immer.",
+      "level": "B1",
+      "sourceId": "perfume",
+      "sourceIds": [
+        "perfume"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sauftour",
+      "word": "Sauftour",
+      "en": "Sauftour",
+      "ru": [
+        "кутеж",
+        "загул"
+      ],
+      "example": "Sie ist mal wieder auf Sauftour.",
+      "level": "B1",
+      "sourceId": "spree",
+      "sourceIds": [
+        "spree"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "stromausfall",
+      "word": "Stromausfall",
+      "en": "Stromausfall",
+      "ru": [
+        "отключение",
+        "перебой"
+      ],
+      "example": "Aufgrund des Stromausfalls sind die Geschäfte geschlossen.",
+      "level": "B1",
+      "sourceId": "outage",
+      "sourceIds": [
+        "outage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rasieren",
+      "word": "rasieren",
+      "en": "rasieren",
+      "ru": [
+        "бриться"
+      ],
+      "example": "Der Schmeichler seift ein, ohne zu rasieren.",
+      "level": "B1",
+      "sourceId": "shave",
+      "sourceIds": [
+        "shave"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schlafenszeit",
+      "word": "Schlafenszeit",
+      "en": "Schlafenszeit",
+      "ru": [
+        "время ложиться спать"
+      ],
+      "example": "Es ist die Schlafenszeit deiner Schwester.",
+      "level": "B1",
+      "sourceId": "bedtime",
+      "sourceIds": [
+        "bedtime"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verschwenden",
+      "word": "verschwenden",
+      "en": "verschwenden",
+      "ru": [
+        "пролитие",
+        "разлив"
+      ],
+      "example": "Er hat die Zeit mit Pferdewetten verschwendet.",
+      "level": "B1",
+      "sourceId": "spill",
+      "sourceIds": [
+        "spill"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "blackout",
+      "word": "Blackout",
+      "en": "Blackout",
+      "ru": [
+        "отключение электричества",
+        "затемнение"
+      ],
+      "example": "Ich hatte ein Blackout.",
+      "level": "B1",
+      "sourceId": "blackout",
+      "sourceIds": [
+        "blackout"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dosen",
+      "word": "dösen",
+      "en": "dösen",
+      "ru": [
+        "дремать"
+      ],
+      "example": "Das Kind von Tom döste auf dem Sofa.",
+      "level": "B1",
+      "sourceId": "doze",
+      "sourceIds": [
+        "doze"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umschlag",
+      "word": "Umschlag",
+      "en": "Umschlag",
+      "ru": [
+        "обертка"
+      ],
+      "example": "Die Dokumente sind in einem blauen Umschlag.",
+      "level": "B1",
+      "sourceId": "wrapper",
+      "sourceIds": [
+        "wrapper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "notiz",
+      "word": "Notiz",
+      "en": "Notiz",
+      "ru": [
+        "напоминание"
+      ],
+      "example": "\"Was machst du da?\" \"Ich fotokopiere Notizen\".",
+      "level": "B1",
+      "sourceId": "reminder",
+      "sourceIds": [
+        "reminder"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "es-sich-bequem-machen",
+      "word": "es sich bequem machen",
+      "en": "es sich bequem machen",
+      "ru": [
+        "бездельничать",
+        "отдыхать"
+      ],
+      "example": "Setz dich, und mach es dir bequem!",
+      "level": "B1",
+      "sourceId": "lounge",
+      "sourceIds": [
+        "lounge"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "topfchen",
+      "word": "Töpfchen",
+      "en": "Töpfchen",
+      "ru": [
+        "горшок",
+        "сумасшедший"
+      ],
+      "example": "Im kleinsten Töpfchen ist oft die beste Salbe.",
+      "level": "B1",
+      "sourceId": "potty",
+      "sourceIds": [
+        "potty"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schlechtes-benehmen",
+      "word": "schlechtes Benehmen",
+      "en": "schlechtes Benehmen",
+      "ru": [
+        "вести себя плохо"
+      ],
+      "example": "Er rechtfertigte sich für sein schlechtes Benehmen.",
+      "level": "B1",
+      "sourceId": "misbehave",
+      "sourceIds": [
+        "misbehave"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ordinar",
+      "word": "ordinär",
+      "en": "ordinär",
+      "ru": [
+        "земной",
+        "обыденный"
+      ],
+      "example": "Erzähle in Gegenwart meines Vaters keine ordinären Witze!",
+      "level": "B1",
+      "sourceId": "mundane",
+      "sourceIds": [
+        "mundane"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umstellen",
+      "word": "umstellen",
+      "en": "umstellen",
+      "ru": [
+        "переставлять",
+        "переорганизовывать"
+      ],
+      "example": "Der Räuber war von zehn Polizisten umstellt.",
+      "level": "B1",
+      "sourceId": "rearrange",
+      "sourceIds": [
+        "rearrange"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wasche",
+      "word": "Wäsche",
+      "en": "Wäsche",
+      "ru": [
+        "стирка",
+        "белье для стирки"
+      ],
+      "example": "Bitte helfen Sie Tom, die Wäsche aufzuhängen!",
+      "level": "B1",
+      "sourceId": "laundry",
+      "sourceIds": [
+        "laundry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "briefkasten",
+      "word": "Briefkasten",
+      "en": "Briefkasten",
+      "ru": [
+        "почтовый ящик"
+      ],
+      "example": "Der Briefkasten stand offen und war leer.",
+      "level": "B1",
+      "sourceId": "post-box",
+      "sourceIds": [
+        "post-box"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rohr",
+      "word": "Rohr",
+      "en": "Rohr",
+      "ru": [
+        "трость",
+        "тростник"
+      ],
+      "example": "Das Erdöl floss durch ein dickes Rohr.",
+      "level": "B1",
+      "sourceId": "cane",
+      "sourceIds": [
+        "cane"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "baden",
+      "word": "baden",
+      "en": "baden",
+      "ru": [
+        "купаться",
+        "мыться"
+      ],
+      "example": "Benutzt du einen Schwamm, wenn du badest?",
+      "level": "B1",
+      "sourceId": "bathe",
+      "sourceIds": [
+        "bathe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chemische-reinigung",
+      "word": "chemische Reinigung",
+      "en": "chemische Reinigung",
+      "ru": [
+        "химчистка"
+      ],
+      "example": "Es ist nötig, diese Wildlederweste in die chemische Reinigung zu bringen.",
+      "level": "B1",
+      "sourceId": "dry-cleaning",
+      "sourceIds": [
+        "dry-cleaning"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paket",
+      "word": "Paket",
+      "en": "Paket",
+      "ru": [
+        "посылка",
+        "пакет"
+      ],
+      "example": "Bitte nimm das Paket mit zum Postamt.",
+      "level": "B1",
+      "sourceId": "parcel",
+      "sourceIds": [
+        "parcel"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "traumen",
+      "word": "träumen",
+      "en": "träumen",
+      "ru": [
+        "дремота",
+        "сон"
+      ],
+      "example": "84-jährig, träumte ich von einer flüchtigen Liebe.",
+      "level": "B1",
+      "sourceId": "slumber",
+      "sourceIds": [
+        "slumber"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kram",
+      "word": "Kram",
+      "en": "Kram",
+      "ru": [
+        "хлам",
+        "мусор"
+      ],
+      "example": "Kümmere dich zuerst um deinen eigenen Kram.",
+      "level": "B1",
+      "sourceId": "junk",
+      "sourceIds": [
+        "junk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kamm",
+      "word": "Kamm",
+      "en": "Kamm",
+      "ru": [
+        "расчесывать"
+      ],
+      "example": "Der Schmuck des Hahns ist der Kamm.",
+      "level": "B1",
+      "sourceId": "comb",
+      "sourceIds": [
+        "comb"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "probleme",
+      "word": "Probleme",
+      "en": "Probleme",
+      "ru": [
+        "беда",
+        "неприятности"
+      ],
+      "example": "Alle Menschen dieser Welt bekommen große Probleme.",
+      "level": "B1",
+      "sourceId": "hot-water",
+      "sourceIds": [
+        "hot-water"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zahnstocher",
+      "word": "Zahnstocher",
+      "en": "Zahnstocher",
+      "ru": [
+        "зубочистка"
+      ],
+      "example": "Könnten Sie mir einen Zahnstocher geben?",
+      "level": "B1",
+      "sourceId": "toothpick",
+      "sourceIds": [
+        "toothpick"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ohne-termin",
+      "word": "ohne Termin",
+      "en": "ohne Termin",
+      "ru": [
+        "доступный без записи"
+      ],
+      "example": "Man darf ohne Termin nicht zum Arzt gehen.",
+      "level": "B1",
+      "sourceId": "walk-in",
+      "sourceIds": [
+        "walk-in"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tropfen",
+      "word": "tropfen",
+      "en": "tropfen",
+      "ru": [
+        "капля"
+      ],
+      "example": "Aus den Augen der Dame tropften Tränen.",
+      "level": "B1",
+      "sourceId": "drip",
+      "sourceIds": [
+        "drip"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ubernachtung",
+      "word": "Übernachtung",
+      "en": "Übernachtung",
+      "ru": [
+        "ночевка"
+      ],
+      "example": "Wie viel zahlt man für eine Übernachtung?",
+      "level": "B1",
+      "sourceId": "sleepover",
+      "sourceIds": [
+        "sleepover"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wache",
+      "word": "Wache",
+      "en": "Wache",
+      "ru": [
+        "бдение",
+        "ночное дежурство"
+      ],
+      "example": "Ich will, dass hier Wachen postiert werden.",
+      "level": "B1",
+      "sourceId": "vigil",
+      "sourceIds": [
+        "vigil"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "windel",
+      "word": "Windel",
+      "en": "Windel",
+      "ru": [
+        "подгузник"
+      ],
+      "example": "Er trägt aus medizinischen Gründen eine Windel.",
+      "level": "B1",
+      "sourceId": "diaper",
+      "sourceIds": [
+        "diaper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gute-nacht",
+      "word": "gute Nacht",
+      "en": "gute Nacht",
+      "ru": [
+        "спокойной ночи"
+      ],
+      "example": "Er wünschte seinen Eltern eine gute Nacht.",
+      "level": "B1",
+      "sourceId": "goodnight",
+      "sourceIds": [
+        "goodnight"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "spur",
+      "word": "Spur",
+      "en": "Spur",
+      "ru": [
+        "колея",
+        "рутина"
+      ],
+      "example": "Am Strand fand Maria Spuren nackter Füße.",
+      "level": "B1",
+      "sourceId": "rut",
+      "sourceIds": [
+        "rut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "befestigen",
+      "word": "befestigen",
+      "en": "befestigen",
+      "ru": [
+        "застегивать",
+        "прикреплять"
+      ],
+      "example": "An der Bohle war ein Schild befestigt.",
+      "level": "B1",
+      "sourceId": "fasten",
+      "sourceIds": [
+        "fasten"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kette-rauchen",
+      "word": "Kette rauchen",
+      "en": "Kette rauchen",
+      "ru": [
+        "много курить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chain-smoke",
+      "sourceIds": [
+        "chain-smoke"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kanalisation",
+      "word": "Kanalisation",
+      "en": "Kanalisation",
+      "ru": [
+        "канализация",
+        "сточная канава"
+      ],
+      "example": "Das Regenfallrohr wird an die Kanalisation angeschlossen.",
+      "level": "B1",
+      "sourceId": "sewer",
+      "sourceIds": [
+        "sewer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "feuerwerkskorper",
+      "word": "Feuerwerkskörper",
+      "en": "Feuerwerkskörper",
+      "ru": [
+        "фейерверк"
+      ],
+      "example": "Letzte Nacht kam es zu einer Explosion in einer Fabrik für Feuerwerkskörper.",
+      "level": "B1",
+      "sourceId": "firework",
+      "sourceIds": [
+        "firework"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gewohnlich",
+      "word": "gewöhnlich",
+      "en": "gewöhnlich",
+      "ru": [
+        "обычно",
+        "привычно"
+      ],
+      "example": "Alle Wörter sind der gewöhnlichen Gegenwartssprache entnommen.",
+      "level": "B1",
+      "sourceId": "habitually",
+      "sourceIds": [
+        "habitually"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alltaglich",
+      "word": "alltäglich",
+      "en": "alltäglich",
+      "ru": [
+        "повседневный",
+        "ежедневный"
+      ],
+      "example": "Die Geschichten werden in alltäglicher Umgangssprache erzählt.",
+      "level": "B1",
+      "sourceId": "day-to-day",
+      "sourceIds": [
+        "day-to-day"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schnarchen",
+      "word": "schnarchen",
+      "en": "schnarchen",
+      "ru": [
+        "храпеть"
+      ],
+      "example": "Dieses kluge Kissen vibriert, wenn man schnarcht.",
+      "level": "B1",
+      "sourceId": "snore",
+      "sourceIds": [
+        "snore"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schlafen",
+      "word": "schlafen",
+      "en": "schlafen",
+      "ru": [
+        "спать",
+        "дремать"
+      ],
+      "example": "Aber ich gehe noch nicht gleich schlafen.",
+      "level": "B1",
+      "sourceId": "kip",
+      "sourceIds": [
+        "kip"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "shampoo",
+      "word": "Shampoo",
+      "en": "Shampoo",
+      "ru": [
+        "шампунь"
+      ],
+      "example": "Mir ist Shampoo in die Augen gekommen.",
+      "level": "B1",
+      "sourceId": "shampoo",
+      "sourceIds": [
+        "shampoo"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "auspacken",
+      "word": "auspacken",
+      "en": "auspacken",
+      "ru": [
+        "разворачивать"
+      ],
+      "example": "Ich habe meine Kleider noch nicht ausgepackt.",
+      "level": "B1",
+      "sourceId": "unwrap",
+      "sourceIds": [
+        "unwrap"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nerven",
+      "word": "nerven",
+      "en": "nerven",
+      "ru": [
+        "донимать",
+        "приставать"
+      ],
+      "example": "Das nervte Tom. Man konnte das sehen.",
+      "level": "B1",
+      "sourceId": "hassle",
+      "sourceIds": [
+        "hassle"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bequemlichkeit",
+      "word": "Bequemlichkeit",
+      "en": "Bequemlichkeit",
+      "ru": [
+        "удобство"
+      ],
+      "example": "Sie sind die zu Bekleidung gewordene Bequemlichkeit.",
+      "level": "B1",
+      "sourceId": "convenience",
+      "sourceIds": [
+        "convenience"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "solitar",
+      "word": "Solitär",
+      "en": "Solitär",
+      "ru": [
+        "пасьянс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "solitaire",
+      "sourceIds": [
+        "solitaire"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "freecell",
+      "word": "FreeCell",
+      "en": "FreeCell",
+      "ru": [
+        "солитер (игра)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "freecell",
+      "sourceIds": [
+        "freecell"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "land-gewinnen",
+      "word": "Land gewinnen",
+      "en": "Land gewinnen",
+      "ru": [
+        "убираться",
+        "сматываться"
+      ],
+      "example": "Ich will, dass mein Land gewinnt.",
+      "level": "B1",
+      "sourceId": "scram",
+      "sourceIds": [
+        "scram"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wunderkerze",
+      "word": "Wunderkerze",
+      "en": "Wunderkerze",
+      "ru": [
+        "бенгальский огонь"
+      ],
+      "example": "Es muss nicht immer ein Feuerwerk sein. Manchmal genügen Wunderkerzen.",
+      "level": "B1",
+      "sourceId": "sparkler",
+      "sourceIds": [
+        "sparkler"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einschlafen",
+      "word": "einschlafen",
+      "en": "einschlafen",
+      "ru": [
+        "засыпать",
+        "уснуть"
+      ],
+      "example": "Als ich bereit war einzuschlafen, klingelte es.",
+      "level": "B1",
+      "sourceId": "fall-asleep",
+      "sourceIds": [
+        "fall-asleep"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "los-mussen",
+      "word": "los müssen",
+      "en": "los müssen",
+      "ru": [
+        "должен идти"
+      ],
+      "example": "Komm in die Pötte! Wir müssen los!",
+      "level": "C1",
+      "sourceId": "gotta-go",
+      "sourceIds": [
+        "gotta-go"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "geoffnet",
+      "word": "geöffnet",
+      "en": "geöffnet",
+      "ru": [
+        "открытый"
+      ],
+      "example": "Bis wieviel Uhr haben Sie heute geöffnet?",
+      "level": "B1",
+      "sourceId": "opened",
+      "sourceIds": [
+        "opened"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "getue",
+      "word": "Getue",
+      "en": "Getue",
+      "ru": [
+        "суета",
+        "бестолковая работа"
+      ],
+      "example": "Dein unschuldiges Getue täuscht mich nicht.",
+      "level": "B1",
+      "sourceId": "faff",
+      "sourceIds": [
+        "faff"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "friseurhandwerk",
+      "word": "Friseurhandwerk",
+      "en": "Friseurhandwerk",
+      "ru": [
+        "парикмахерское искусство"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hairdressing",
+      "sourceIds": [
+        "hairdressing"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "routinemassig",
+      "word": "routinemäßig",
+      "en": "routinemäßig",
+      "ru": [
+        "обычно",
+        "регулярно"
+      ],
+      "example": "Ich muss routinemäßig einmal im Quartal zum Arzt.",
+      "level": "B1",
+      "sourceId": "routinely",
+      "sourceIds": [
+        "routinely"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patschuli",
+      "word": "Patschuli",
+      "en": "Patschuli",
+      "ru": [
+        "пачули"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "patchouli",
+      "sourceIds": [
+        "patchouli"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "lackierung",
+      "word": "Lackierung",
+      "en": "Lackierung",
+      "ru": [
+        "покраска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "paintjob",
+      "sourceIds": [
+        "paintjob"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "trimmer",
+      "word": "Trimmer",
+      "en": "Trimmer",
+      "ru": [
+        "триммер",
+        "машинка для стрижки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trimmer",
+      "sourceIds": [
+        "trimmer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "klo",
+      "word": "Klo",
+      "en": "Klo",
+      "ru": [
+        "уборная",
+        "туалет"
+      ],
+      "example": "Bitte nicht vergessen das Klo zu spülen.",
+      "level": "B1",
+      "sourceId": "crapper",
+      "sourceIds": [
+        "crapper"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "organisator",
+      "word": "Organisator",
+      "en": "Organisator",
+      "ru": [
+        "организатор",
+        "органайзер"
+      ],
+      "example": "Sie war die Organisatorin des Treffens.",
+      "level": "B1",
+      "sourceId": "organiser",
+      "sourceIds": [
+        "organiser"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schnuller",
+      "word": "Schnuller",
+      "en": "Schnuller",
+      "ru": [
+        "пустышка",
+        "успокоительное"
+      ],
+      "example": "Das Baby hat vermutlich den Schnuller geschluckt.",
+      "level": "B1",
+      "sourceId": "soother",
+      "sourceIds": [
+        "soother"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

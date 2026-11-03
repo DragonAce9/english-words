@@ -1,0 +1,957 @@
+{
+  "id": "interest-outdoor_survival",
+  "title": "Активный туризм и выживание",
+  "paid": true,
+  "blockId": "interests",
+  "words": [
+    {
+      "id": "rezilo",
+      "word": "rezilo",
+      "en": "rezilo",
+      "ru": [
+        "лезвие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "blade",
+      "sourceIds": [
+        "blade"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "bakla",
+      "word": "bakla",
+      "en": "bakla",
+      "ru": [
+        "факел",
+        "фонарик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "torch",
+      "sourceIds": [
+        "torch"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "vrv",
+      "word": "vrv",
+      "en": "vrv",
+      "ru": [
+        "веревка"
+      ],
+      "example": "Prosim, potegni vrv.",
+      "level": "B1",
+      "sourceId": "rope",
+      "sourceIds": [
+        "rope"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "resevanje",
+      "word": "reševanje",
+      "en": "reševanje",
+      "ru": [
+        "спасение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rescue",
+      "sourceIds": [
+        "rescue"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "puscica",
+      "word": "puščica",
+      "en": "puščica",
+      "ru": [
+        "стрела"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "arrow",
+      "sourceIds": [
+        "arrow"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "grobnica",
+      "word": "grobnica",
+      "en": "grobnica",
+      "ru": [
+        "могила"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grave",
+      "sourceIds": [
+        "grave"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nevarnost",
+      "word": "nevarnost",
+      "en": "nevarnost",
+      "ru": [
+        "опасность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "danger",
+      "sourceIds": [
+        "danger"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zakrinkati",
+      "word": "zakrinkati",
+      "en": "zakrinkati",
+      "ru": [
+        "маскировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mask",
+      "sourceIds": [
+        "mask"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nevaren",
+      "word": "nevaren",
+      "en": "nevaren",
+      "ru": [
+        "опасный",
+        "рискованный"
+      ],
+      "example": "Medved je lahko za človeka nevaren.",
+      "level": "B1",
+      "sourceId": "hazardous",
+      "sourceIds": [
+        "hazardous"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pobegniti",
+      "word": "pobegniti",
+      "en": "pobegniti",
+      "ru": [
+        "сбегать",
+        "избегать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "escape",
+      "sourceIds": [
+        "escape"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "pridobivanje",
+      "word": "pridobivanje",
+      "en": "pridobivanje",
+      "ru": [
+        "извлечение",
+        "добыча"
+      ],
+      "example": "Pridobivanje lesa je prepovedano.",
+      "level": "B1",
+      "sourceId": "extraction",
+      "sourceIds": [
+        "extraction"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "unicenje",
+      "word": "uničenje",
+      "en": "uničenje",
+      "ru": [
+        "разрушение",
+        "уничтожение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "destruction",
+      "sourceIds": [
+        "destruction"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "past",
+      "word": "past",
+      "en": "past",
+      "ru": [
+        "ловушка",
+        "попадать в ловушку"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "trap",
+      "sourceIds": [
+        "trap"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "nevarnost",
+      "word": "nevarnost",
+      "en": "nevarnost",
+      "ru": [
+        "опасность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peril",
+      "sourceIds": [
+        "peril"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zloziti",
+      "word": "zložiti",
+      "en": "zložiti",
+      "ru": [
+        "складывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fold",
+      "sourceIds": [
+        "fold"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "razbiti",
+      "word": "razbiti",
+      "en": "razbiti",
+      "ru": [
+        "разбивать вдребезги",
+        "разрушать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shatter",
+      "sourceIds": [
+        "shatter"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "prezati",
+      "word": "prežati",
+      "en": "prežati",
+      "ru": [
+        "скрываться",
+        "таиться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lurk",
+      "sourceIds": [
+        "lurk"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "razkriti",
+      "word": "razkriti",
+      "en": "razkriti",
+      "ru": [
+        "раскрывать",
+        "обнаруживать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reveal",
+      "sourceIds": [
+        "reveal"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "tocaj",
+      "word": "točaj",
+      "en": "točaj",
+      "ru": [
+        "виночерпий"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cupbearer",
+      "sourceIds": [
+        "cupbearer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "truplo",
+      "word": "truplo",
+      "en": "truplo",
+      "ru": [
+        "труп"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "corpse",
+      "sourceIds": [
+        "corpse"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "obsoditi",
+      "word": "obsoditi",
+      "en": "obsoditi",
+      "ru": [
+        "обрекать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "doom",
+      "sourceIds": [
+        "doom"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zravnati-z-zemljo",
+      "word": "zravnati z zemljo",
+      "en": "zravnati z zemljo",
+      "ru": [
+        "разрушать до основания"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "raze",
+      "sourceIds": [
+        "raze"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "zadrzati",
+      "word": "zadržati",
+      "en": "zadržati",
+      "ru": [
+        "удерживать",
+        "скрывать"
+      ],
+      "example": "Nisem mogel zadržati kihanja.",
+      "level": "B1",
+      "sourceId": "withhold",
+      "sourceIds": [
+        "withhold"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "izjaloviti-se",
+      "word": "izjaloviti se",
+      "en": "izjaloviti se",
+      "ru": [
+        "иметь обратный эффект"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "backfire",
+      "sourceIds": [
+        "backfire"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kup",
+      "word": "kup",
+      "en": "kup",
+      "ru": [
+        "полная лодка",
+        "большое количество"
+      ],
+      "example": "Kako si spravil tale rjaveč kup šare preko tehničnega pregleda?",
+      "level": "B1",
+      "sourceId": "boatload",
+      "sourceIds": [
+        "boatload"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eksistencialen",
+      "word": "eksistencialen",
+      "en": "eksistencialen",
+      "ru": [
+        "экзистенциальный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "existential",
+      "sourceIds": [
+        "existential"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "strel",
+      "word": "strel",
+      "en": "strel",
+      "ru": [
+        "выстрел"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gunshot",
+      "sourceIds": [
+        "gunshot"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "namen",
+      "word": "namen",
+      "en": "namen",
+      "ru": [
+        "намерение"
+      ],
+      "example": "To ni bil moj namen.",
+      "level": "B1",
+      "sourceId": "intention",
+      "sourceIds": [
+        "intention"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nameren",
+      "word": "nameren",
+      "en": "nameren",
+      "ru": [
+        "намеренный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "intentional",
+      "sourceIds": [
+        "intentional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "evakuirati",
+      "word": "evakuirati",
+      "en": "evakuirati",
+      "ru": [
+        "эвакуировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "evacuate",
+      "sourceIds": [
+        "evacuate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "evakuacija",
+      "word": "evakuacija",
+      "en": "evakuacija",
+      "ru": [
+        "эвакуация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "evacuation",
+      "sourceIds": [
+        "evacuation"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "smrtno",
+      "word": "smrtno",
+      "en": "smrtno",
+      "ru": [
+        "смертельно"
+      ],
+      "example": "Telo je smrtno, duša pa nesmrtna.",
+      "level": "B1",
+      "sourceId": "mortally",
+      "sourceIds": [
+        "mortally"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "palica",
+      "word": "palica",
+      "en": "palica",
+      "ru": [
+        "стержень",
+        "прут"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rod",
+      "sourceIds": [
+        "rod"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ogroziti",
+      "word": "ogroziti",
+      "en": "ogroziti",
+      "ru": [
+        "ставить под угрозу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "jeopardize",
+      "sourceIds": [
+        "jeopardize"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nenujen",
+      "word": "nenujen",
+      "en": "nenujen",
+      "ru": [
+        "неэкстренный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "non-emergency",
+      "sourceIds": [
+        "non-emergency"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "granata",
+      "word": "granata",
+      "en": "granata",
+      "ru": [
+        "граната"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grenade",
+      "sourceIds": [
+        "grenade"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "razviti",
+      "word": "razviti",
+      "en": "razviti",
+      "ru": [
+        "разворачивать",
+        "раскрывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unfold",
+      "sourceIds": [
+        "unfold"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nenameren",
+      "word": "nenameren",
+      "en": "nenameren",
+      "ru": [
+        "непреднамеренный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unintentional",
+      "sourceIds": [
+        "unintentional"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "ognjena-krogla",
+      "word": "ognjena krogla",
+      "en": "ognjena krogla",
+      "ru": [
+        "огненный шар"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fireball",
+      "sourceIds": [
+        "fireball"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "krsta",
+      "word": "krsta",
+      "en": "krsta",
+      "ru": [
+        "гроб"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "coffin",
+      "sourceIds": [
+        "coffin"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "uniciti",
+      "word": "uničiti",
+      "en": "uničiti",
+      "ru": [
+        "уничтожать",
+        "аннигилировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "annihilate",
+      "sourceIds": [
+        "annihilate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "bobneti",
+      "word": "bobneti",
+      "en": "bobneti",
+      "ru": [
+        "грохотать",
+        "рокотать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "rumble",
+      "sourceIds": [
+        "rumble"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nevarnost",
+      "word": "nevarnost",
+      "en": "nevarnost",
+      "ru": [
+        "опасность",
+        "риск"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hazard",
+      "sourceIds": [
+        "hazard"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zakriti",
+      "word": "zakriti",
+      "en": "zakriti",
+      "ru": [
+        "скрывать",
+        "завуалировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "veil",
+      "sourceIds": [
+        "veil"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "izpolnitev",
+      "word": "izpolnitev",
+      "en": "izpolnitev",
+      "ru": [
+        "исполнение",
+        "выполнение",
+        "самореализация"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fulfillment",
+      "sourceIds": [
+        "fulfillment"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "rusevine",
+      "word": "ruševine",
+      "en": "ruševine",
+      "ru": [
+        "обломки",
+        "мусор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "debris",
+      "sourceIds": [
+        "debris"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "ogroziti",
+      "word": "ogroziti",
+      "en": "ogroziti",
+      "ru": [
+        "подвергать опасности"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "endanger",
+      "sourceIds": [
+        "endanger"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "razbitine",
+      "word": "razbitine",
+      "en": "razbitine",
+      "ru": [
+        "обломки"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wreckage",
+      "sourceIds": [
+        "wreckage"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "uniciti",
+      "word": "uničiti",
+      "en": "uničiti",
+      "ru": [
+        "разрушать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wreck",
+      "sourceIds": [
+        "wreck"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "skriti",
+      "word": "skriti",
+      "en": "skriti",
+      "ru": [
+        "прятать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stash",
+      "sourceIds": [
+        "stash"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nejevoljen",
+      "word": "nejevoljen",
+      "en": "nejevoljen",
+      "ru": [
+        "неохотный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reluctant",
+      "sourceIds": [
+        "reluctant"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "zapornica",
+      "word": "zapornica",
+      "en": "zapornica",
+      "ru": [
+        "шлюз"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "floodgate",
+      "sourceIds": [
+        "floodgate"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pobegniti",
+      "word": "pobegniti",
+      "en": "pobegniti",
+      "ru": [
+        "скрываться",
+        "сбегать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "abscond",
+      "sourceIds": [
+        "abscond"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "kamuflirati",
+      "word": "kamuflirati",
+      "en": "kamuflirati",
+      "ru": [
+        "маскировать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "camouflage",
+      "sourceIds": [
+        "camouflage"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "muciti",
+      "word": "mučiti",
+      "en": "mučiti",
+      "ru": [
+        "боронить",
+        "мучить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "harrow",
+      "sourceIds": [
+        "harrow"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "krinka",
+      "word": "krinka",
+      "en": "krinka",
+      "ru": [
+        "маскировка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "disguise",
+      "sourceIds": [
+        "disguise"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "skriti",
+      "word": "skriti",
+      "en": "skriti",
+      "ru": [
+        "скрывать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "conceal",
+      "sourceIds": [
+        "conceal"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "izkoreniniti",
+      "word": "izkoreniniti",
+      "en": "izkoreniniti",
+      "ru": [
+        "искоренять",
+        "уничтожать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eradicate",
+      "sourceIds": [
+        "eradicate"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "petarda",
+      "word": "petarda",
+      "en": "petarda",
+      "ru": [
+        "петарда"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "firecracker",
+      "sourceIds": [
+        "firecracker"
+      ],
+      "pos": "n",
+      "gender": "f"
+    }
+  ]
+}

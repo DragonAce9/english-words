@@ -1,0 +1,2749 @@
+{
+  "id": "time",
+  "title": "Время",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "posle",
+      "word": "posle",
+      "en": "posle",
+      "ru": [
+        "после",
+        "потом",
+        "после того, как"
+      ],
+      "example": "Bili smo mrtvi umorni posle petočasovnog putovanja.",
+      "level": "A1",
+      "sourceId": "after",
+      "sourceIds": [
+        "after"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "после"
+    },
+    {
+      "id": "popodne",
+      "word": "popodne",
+      "en": "popodne",
+      "ru": [
+        "вторая половина дня",
+        "пополудни",
+        "послеобеденное время"
+      ],
+      "example": "Bojim se da će padati kiša popodne.",
+      "level": "A1",
+      "sourceId": "afternoon",
+      "sourceIds": [
+        "afternoon"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "поподне"
+    },
+    {
+      "id": "opet",
+      "word": "opet",
+      "en": "opet",
+      "ru": [
+        "снова",
+        "опять",
+        "ещё раз"
+      ],
+      "example": "Da li Tom planira da ide opet?",
+      "level": "A1",
+      "sourceId": "again",
+      "sourceIds": [
+        "again"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "опет"
+    },
+    {
+      "id": "uzrast",
+      "word": "uzrast",
+      "en": "uzrast",
+      "ru": [
+        "возраст",
+        "год",
+        "старость"
+      ],
+      "example": "Kakav je srednji uzrast u tom razredu?",
+      "level": "A1",
+      "sourceId": "age",
+      "sourceIds": [
+        "age"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "узраст"
+    },
+    {
+      "id": "vec",
+      "word": "već",
+      "en": "već",
+      "ru": [
+        "уже",
+        "ранее",
+        "раньше"
+      ],
+      "example": "Da li je vaš otac već stigao?",
+      "level": "A1",
+      "sourceId": "already",
+      "sourceIds": [
+        "already"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "већ"
+    },
+    {
+      "id": "uvek",
+      "word": "uvek",
+      "en": "uvek",
+      "ru": [
+        "всегда",
+        "вечно",
+        "постоянно"
+      ],
+      "example": "Da li Tom još uvek radi ovde?",
+      "level": "A1",
+      "sourceId": "always",
+      "sourceIds": [
+        "always"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "увек"
+    },
+    {
+      "id": "avgust",
+      "word": "avgust",
+      "en": "avgust",
+      "ru": [
+        "август"
+      ],
+      "example": "U Avgustu ću ići sa devojkom za Japan.",
+      "level": "A1",
+      "sourceId": "august",
+      "sourceIds": [
+        "august"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "август"
+    },
+    {
+      "id": "jesen",
+      "word": "jesen",
+      "en": "jesen",
+      "ru": [
+        "осень"
+      ],
+      "example": "Na jesen ptice selice lete na jug.",
+      "level": "A2",
+      "sourceId": "autumn",
+      "sourceIds": [
+        "autumn"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "јесен"
+    },
+    {
+      "id": "pre",
+      "word": "pre",
+      "en": "pre",
+      "ru": [
+        "перед",
+        "до"
+      ],
+      "example": "\"Kada on uči?\" \"On uči pre večere.\"",
+      "level": "A1",
+      "sourceId": "before",
+      "sourceIds": [
+        "before"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пре"
+    },
+    {
+      "id": "rodjendan",
+      "word": "rođendan",
+      "en": "rođendan",
+      "ru": [
+        "день рождения",
+        "днюха",
+        "именины"
+      ],
+      "example": "Tom je proslavio trideseti rođendan u Bostonu,",
+      "level": "A1",
+      "sourceId": "birthday",
+      "sourceIds": [
+        "birthday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "рођендан"
+    },
+    {
+      "id": "kalendar",
+      "word": "kalendar",
+      "en": "kalendar",
+      "ru": [
+        "календарь",
+        "расписание"
+      ],
+      "example": "Januar je prvi mesec u kalendaru.",
+      "level": "A1",
+      "sourceId": "calendar",
+      "sourceIds": [
+        "calendar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "календар"
+    },
+    {
+      "id": "vek",
+      "word": "vek",
+      "en": "vek",
+      "ru": [
+        "век",
+        "столетие",
+        "центурия"
+      ],
+      "example": "Prosečan životni vek pasa je 10 godina.",
+      "level": "A2",
+      "sourceId": "century",
+      "sourceIds": [
+        "century"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "век"
+    },
+    {
+      "id": "sat",
+      "word": "sat",
+      "en": "sat",
+      "ru": [
+        "часы"
+      ],
+      "example": "Bili su četiri sata zaglavljeni u liftu.",
+      "level": "A1",
+      "sourceId": "clock",
+      "sourceIds": [
+        "clock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сат"
+    },
+    {
+      "id": "svakodnevan",
+      "word": "svakodnevan",
+      "en": "svakodnevan",
+      "ru": [
+        "ежедневный",
+        "ежесуточный",
+        "каждодневный"
+      ],
+      "example": "Da li vi svakodnevno kupate vašeg psa?",
+      "level": "A1",
+      "sourceId": "daily",
+      "sourceIds": [
+        "daily"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "свакодневан"
+    },
+    {
+      "id": "datum",
+      "word": "datum",
+      "en": "datum",
+      "ru": [
+        "дата",
+        "число"
+      ],
+      "example": "Izgleda da sam pobrkao datume.",
+      "level": "A1",
+      "sourceId": "date",
+      "sourceIds": [
+        "date"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "датум"
+    },
+    {
+      "id": "zastareo",
+      "word": "zastareo",
+      "en": "zastareo",
+      "ru": [
+        "устаревший",
+        "старомодный"
+      ],
+      "example": "Danas mnogo ljudi misli da je koncept sedam smrtnih grehova beznadežno zastareo.",
+      "level": "B2",
+      "sourceId": "dated",
+      "sourceIds": [
+        "dated"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "застарео"
+    },
+    {
+      "id": "zabavljanje",
+      "word": "zabavljanje",
+      "en": "zabavljanje",
+      "ru": [
+        "свидание",
+        "ухаживание",
+        "датирование"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "dating",
+      "sourceIds": [
+        "dating"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "забављање"
+    },
+    {
+      "id": "dan",
+      "word": "dan",
+      "en": "dan",
+      "ru": [
+        "день",
+        "сутки",
+        "световой день"
+      ],
+      "example": "Baba je brinula o deci tokom dana.",
+      "level": "A1",
+      "sourceId": "day",
+      "sourceIds": [
+        "day"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "дан"
+    },
+    {
+      "id": "dan",
+      "word": "dan",
+      "en": "dan",
+      "ru": [
+        "дни"
+      ],
+      "example": "Baba je brinula o deci tokom dana.",
+      "level": "A1",
+      "sourceId": "days",
+      "sourceIds": [
+        "days"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "дан"
+    },
+    {
+      "id": "decenija",
+      "word": "decenija",
+      "en": "decenija",
+      "ru": [
+        "декада",
+        "десяток"
+      ],
+      "example": "Ova crkva se gradila dve decenije.",
+      "level": "B2",
+      "sourceId": "decade",
+      "sourceIds": [
+        "decade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "деценија"
+    },
+    {
+      "id": "trajanje",
+      "word": "trajanje",
+      "en": "trajanje",
+      "ru": [
+        "длительность",
+        "продолжительность"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "duration",
+      "sourceIds": [
+        "duration"
+      ],
+      "pos": "v",
+      "gender": "n",
+      "wordCyrillic": "трајање"
+    },
+    {
+      "id": "tokom",
+      "word": "tokom",
+      "en": "tokom",
+      "ru": [
+        "в течение",
+        "в продолжение",
+        "во время"
+      ],
+      "example": "\"Titanik\" je potonuo tokom svoje prve plovidbe.",
+      "level": "A1",
+      "sourceId": "during",
+      "sourceIds": [
+        "during"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "током"
+    },
+    {
+      "id": "rani",
+      "word": "rani",
+      "en": "rani",
+      "ru": [
+        "ранний",
+        "рано"
+      ],
+      "example": "Ko rano rani dve sreće grabi.",
+      "level": "A1",
+      "sourceId": "early",
+      "sourceIds": [
+        "early"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "рани"
+    },
+    {
+      "id": "vece",
+      "word": "veče",
+      "en": "veče",
+      "ru": [
+        "вечер"
+      ],
+      "example": "Gnjavila me je celo veče da izađemo.",
+      "level": "A1",
+      "sourceId": "evening",
+      "sourceIds": [
+        "evening"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "вече"
+    },
+    {
+      "id": "ikad",
+      "word": "ikad",
+      "en": "ikad",
+      "ru": [
+        "когда-либо"
+      ],
+      "example": "Da li Tom ikad ide u Boston?",
+      "level": "A1",
+      "sourceId": "ever",
+      "sourceIds": [
+        "ever"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "икад"
+    },
+    {
+      "id": "cesto",
+      "word": "često",
+      "en": "često",
+      "ru": [
+        "часто"
+      ],
+      "example": "Da li Tom često ide na putovanja?",
+      "level": "B1",
+      "sourceId": "frequently",
+      "sourceIds": [
+        "frequently"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "често"
+    },
+    {
+      "id": "buduci",
+      "word": "budući",
+      "en": "budući",
+      "ru": [
+        "будущее",
+        "будущий",
+        "грядущий"
+      ],
+      "example": "Ljudi imaju tedenciju da podcene svoje buduće potrebe.",
+      "level": "A1",
+      "sourceId": "future",
+      "sourceIds": [
+        "future"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "будући"
+    },
+    {
+      "id": "sat",
+      "word": "sat",
+      "en": "sat",
+      "ru": [
+        "час",
+        "время",
+        "година"
+      ],
+      "example": "Bili su četiri sata zaglavljeni u liftu.",
+      "level": "A1",
+      "sourceId": "hour",
+      "sourceIds": [
+        "hour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сат"
+    },
+    {
+      "id": "na-sat",
+      "word": "na sat",
+      "en": "na sat",
+      "ru": [
+        "ежечасный",
+        "почасовой",
+        "ежечасно"
+      ],
+      "example": "Bili su četiri sata zaglavljeni u liftu.",
+      "level": "A2",
+      "sourceId": "hourly",
+      "sourceIds": [
+        "hourly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "на сат"
+    },
+    {
+      "id": "poslednji",
+      "word": "poslednji",
+      "en": "poslednji",
+      "ru": [
+        "последний"
+      ],
+      "example": "Da li Tom pije u poslednje vreme?",
+      "level": "A1",
+      "sourceId": "last",
+      "sourceIds": [
+        "last"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "последњи"
+    },
+    {
+      "id": "kasan",
+      "word": "kasan",
+      "en": "kasan",
+      "ru": [
+        "поздно",
+        "поздний",
+        "запоздалый"
+      ],
+      "example": "Idemo u krevet kasno i ustajemo kasno.",
+      "level": "A2",
+      "sourceId": "late",
+      "sourceIds": [
+        "late"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "касан"
+    },
+    {
+      "id": "mart",
+      "word": "mart",
+      "en": "mart",
+      "ru": [
+        "март"
+      ],
+      "example": "Mart je treći mesec u godini.",
+      "level": "A1",
+      "sourceId": "march",
+      "sourceIds": [
+        "march"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "март"
+    },
+    {
+      "id": "sredina",
+      "word": "sredina",
+      "en": "sredina",
+      "ru": [
+        "среда",
+        "средний",
+        "носитель"
+      ],
+      "example": "Taj grad se nalazi na sredini našeg puta.",
+      "level": "A2",
+      "sourceId": "medium",
+      "sourceIds": [
+        "medium"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "средина"
+    },
+    {
+      "id": "ponoc",
+      "word": "ponoć",
+      "en": "ponoć",
+      "ru": [
+        "полночь"
+      ],
+      "example": "Tom je legao u ponoć.",
+      "level": "B2",
+      "sourceId": "midnight",
+      "sourceIds": [
+        "midnight"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "поноћ"
+    },
+    {
+      "id": "minut",
+      "word": "minut",
+      "en": "minut",
+      "ru": [
+        "минута"
+      ],
+      "example": "Ceremonija će trajati malo preko trideset minuta.",
+      "level": "A1",
+      "sourceId": "minute",
+      "sourceIds": [
+        "minute"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "минут"
+    },
+    {
+      "id": "minut",
+      "word": "minut",
+      "en": "minut",
+      "ru": [
+        "минуты"
+      ],
+      "example": "Ceremonija će trajati malo preko trideset minuta.",
+      "level": "A2",
+      "sourceId": "minutes",
+      "sourceIds": [
+        "minutes"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "минут"
+    },
+    {
+      "id": "trenutak",
+      "word": "trenutak",
+      "en": "trenutak",
+      "ru": [
+        "момент силы",
+        "миг",
+        "момент"
+      ],
+      "example": "Baš u tom trenutku, svetla se ugasiše.",
+      "level": "B1",
+      "sourceId": "moment",
+      "sourceIds": [
+        "moment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "тренутак"
+    },
+    {
+      "id": "mesec",
+      "word": "mesec",
+      "en": "mesec",
+      "ru": [
+        "месяц"
+      ],
+      "example": "Bio sam odvojen od Toma tri meseca.",
+      "level": "A1",
+      "sourceId": "month",
+      "sourceIds": [
+        "month"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "месец"
+    },
+    {
+      "id": "mesecno",
+      "word": "mesečno",
+      "en": "mesečno",
+      "ru": [
+        "ежемесячный",
+        "ежемесячно",
+        "месячно"
+      ],
+      "example": "Džon piše svojim roditeljima jednom mesečno.",
+      "level": "A2",
+      "sourceId": "monthly",
+      "sourceIds": [
+        "monthly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "месечно"
+    },
+    {
+      "id": "nikada",
+      "word": "nikada",
+      "en": "nikada",
+      "ru": [
+        "никогда"
+      ],
+      "example": "Da više nikad nisi pričao mojoj devojčici.",
+      "level": "A1",
+      "sourceId": "never",
+      "sourceIds": [
+        "never"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "никада"
+    },
+    {
+      "id": "noc",
+      "word": "noć",
+      "en": "noć",
+      "ru": [
+        "ночь",
+        "вечер",
+        "ночёвка"
+      ],
+      "example": "Bila je to mračna i olujna noć.",
+      "level": "A1",
+      "sourceId": "night",
+      "sourceIds": [
+        "night"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ноћ"
+    },
+    {
+      "id": "nocni",
+      "word": "noćni",
+      "en": "noćni",
+      "ru": [
+        "еженочный",
+        "еженощный",
+        "каждую ночь"
+      ],
+      "example": "Da li si uživao u gledanju noćne utakmice sinoć?",
+      "level": "A2",
+      "sourceId": "nightly",
+      "sourceIds": [
+        "nightly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ноћни"
+    },
+    {
+      "id": "podne",
+      "word": "podne",
+      "en": "podne",
+      "ru": [
+        "полдень"
+      ],
+      "example": "Trebalo je da bude ovde do podneva.",
+      "level": "B2",
+      "sourceId": "noon",
+      "sourceIds": [
+        "noon",
+        "midday"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "подне"
+    },
+    {
+      "id": "sada",
+      "word": "sada",
+      "en": "sada",
+      "ru": [
+        "сейчас",
+        "ныне",
+        "теперь"
+      ],
+      "example": "Biti, ili ne biti, pitanje je sad.",
+      "level": "A1",
+      "sourceId": "now",
+      "sourceIds": [
+        "now"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сада"
+    },
+    {
+      "id": "broj",
+      "word": "broj",
+      "en": "broj",
+      "ru": [
+        "число",
+        "количество",
+        "имя числительное"
+      ],
+      "example": "Bio je ravnomeran rast u broju stanovnika.",
+      "level": "A1",
+      "sourceId": "number",
+      "sourceIds": [
+        "number"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "број"
+    },
+    {
+      "id": "cesto",
+      "word": "često",
+      "en": "često",
+      "ru": [
+        "часто",
+        "зачастую",
+        "частенько"
+      ],
+      "example": "Da li Tom često ide na putovanja?",
+      "level": "A2",
+      "sourceId": "often",
+      "sourceIds": [
+        "often"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "често"
+    },
+    {
+      "id": "star",
+      "word": "star",
+      "en": "star",
+      "ru": [
+        "старый",
+        "пожилой",
+        "в возрасте"
+      ],
+      "example": "Da li Tom uživa u starim filmovima.",
+      "level": "A1",
+      "sourceId": "old",
+      "sourceIds": [
+        "old"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "стар"
+    },
+    {
+      "id": "najstariji",
+      "word": "najstariji",
+      "en": "najstariji",
+      "ru": [
+        "самый старший",
+        "старший",
+        "старейший"
+      ],
+      "example": "On je bio najstariji od tri trgovčeva sina.",
+      "level": "B2",
+      "sourceId": "oldest",
+      "sourceIds": [
+        "oldest"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "најстарији"
+    },
+    {
+      "id": "jednom",
+      "word": "jednom",
+      "en": "jednom",
+      "ru": [
+        "один раз",
+        "однажды",
+        "когда-то"
+      ],
+      "example": "Bili jednom siromašni starac i bogata žena.",
+      "level": "A1",
+      "sourceId": "once",
+      "sourceIds": [
+        "once"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "једном"
+    },
+    {
+      "id": "prosli",
+      "word": "prošli",
+      "en": "prošli",
+      "ru": [
+        "прошлый",
+        "минувший",
+        "прошедший"
+      ],
+      "example": "Bili smo kod moje tetke prošle nedelje.",
+      "level": "A1",
+      "sourceId": "past",
+      "sourceIds": [
+        "past"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "прошли"
+    },
+    {
+      "id": "period",
+      "word": "period",
+      "en": "period",
+      "ru": [
+        "период",
+        "промежуток времени"
+      ],
+      "example": "Radim ovo jako dug vremenski period.",
+      "level": "A1",
+      "sourceId": "period",
+      "sourceIds": [
+        "period"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "период"
+    },
+    {
+      "id": "sadasnji",
+      "word": "sadašnji",
+      "en": "sadašnji",
+      "ru": [
+        "настоящий",
+        "нынешний",
+        "присутствующий"
+      ],
+      "example": "Novi, sadašnji slikari vole apstraktne slike.",
+      "level": "A2",
+      "sourceId": "present",
+      "sourceIds": [
+        "present"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "садашњи"
+    },
+    {
+      "id": "ubrzo",
+      "word": "ubrzo",
+      "en": "ubrzo",
+      "ru": [
+        "вскоре",
+        "скоро"
+      ],
+      "example": "Ubrzo posle incidenta stigla je policija.",
+      "level": "C1",
+      "sourceId": "presently",
+      "sourceIds": [
+        "presently",
+        "soon"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "убрзо"
+    },
+    {
+      "id": "prethodni",
+      "word": "prethodni",
+      "en": "prethodni",
+      "ru": [
+        "прошлый",
+        "предыдущий"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "previous",
+      "sourceIds": [
+        "previous"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "претходни"
+    },
+    {
+      "id": "nedavno",
+      "word": "nedavno",
+      "en": "nedavno",
+      "ru": [
+        "недавно"
+      ],
+      "example": "Tom je nedavno objavio svoju prvu knjigu.",
+      "level": "A2",
+      "sourceId": "recently",
+      "sourceIds": [
+        "recently"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "недавно"
+    },
+    {
+      "id": "raspored",
+      "word": "raspored",
+      "en": "raspored",
+      "ru": [
+        "план",
+        "расписание",
+        "график"
+      ],
+      "example": "Ja sam taj koji pravi raspored.",
+      "level": "A2",
+      "sourceId": "schedule",
+      "sourceIds": [
+        "schedule"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "распоред"
+    },
+    {
+      "id": "sezona",
+      "word": "sezona",
+      "en": "sezona",
+      "ru": [
+        "сезон",
+        "время года"
+      ],
+      "example": "Sada je mrtva sezona za kupaće kostime.",
+      "level": "A2",
+      "sourceId": "season",
+      "sourceIds": [
+        "season"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сезона"
+    },
+    {
+      "id": "sekunda",
+      "word": "sekunda",
+      "en": "sekunda",
+      "ru": [
+        "секунда",
+        "второй",
+        "секундант"
+      ],
+      "example": "Možete li mi pomoći na sekund?",
+      "level": "A1",
+      "sourceId": "second",
+      "sourceIds": [
+        "second"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "секунда"
+    },
+    {
+      "id": "otkad",
+      "word": "otkad",
+      "en": "otkad",
+      "ru": [
+        "с тех пор как",
+        "так как",
+        "поскольку"
+      ],
+      "example": "Poznajem Toma otkad je bio mali dečak.",
+      "level": "A1",
+      "sourceId": "since",
+      "sourceIds": [
+        "since"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "откад"
+    },
+    {
+      "id": "ponekad",
+      "word": "ponekad",
+      "en": "ponekad",
+      "ru": [
+        "иногда",
+        "временами",
+        "подчас"
+      ],
+      "example": "Ponekad je crna linija u životu uzlet.",
+      "level": "A2",
+      "sourceId": "sometimes",
+      "sourceIds": [
+        "sometimes"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "понекад"
+    },
+    {
+      "id": "prolece",
+      "word": "proleće",
+      "en": "proleće",
+      "ru": [
+        "весна"
+      ],
+      "example": "Još se nisu mogli videti predznaci proleća.",
+      "level": "A2",
+      "sourceId": "spring",
+      "sourceIds": [
+        "spring"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пролеће"
+    },
+    {
+      "id": "jos-uvek",
+      "word": "još uvek",
+      "en": "još uvek",
+      "ru": [
+        "всё ещё",
+        "тем не менее"
+      ],
+      "example": "Da li Tom još uvek radi ovde?",
+      "level": "A1",
+      "sourceId": "still",
+      "sourceIds": [
+        "still"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "још увек"
+    },
+    {
+      "id": "leto",
+      "word": "leto",
+      "en": "leto",
+      "ru": [
+        "лето"
+      ],
+      "example": "Ona razmišlja da obiđe Evropu na leto.",
+      "level": "A2",
+      "sourceId": "summer",
+      "sourceIds": [
+        "summer"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лето"
+    },
+    {
+      "id": "privremen",
+      "word": "privremen",
+      "en": "privremen",
+      "ru": [
+        "временный",
+        "временный работник",
+        "временный сотрудник"
+      ],
+      "example": "To je trebalo da bude samo privremeno rešenje.",
+      "level": "B1",
+      "sourceId": "temporary",
+      "sourceIds": [
+        "temporary"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "привремен"
+    },
+    {
+      "id": "zatim",
+      "word": "zatim",
+      "en": "zatim",
+      "ru": [
+        "затем",
+        "тогда"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "then",
+      "sourceIds": [
+        "then"
+      ],
+      "pos": "adv",
+      "wordCyrillic": "затим"
+    },
+    {
+      "id": "vreme",
+      "word": "vreme",
+      "en": "vreme",
+      "ru": [
+        "время",
+        "час",
+        "времена"
+      ],
+      "example": "\"Kada ćete se vratiti?\" \"Zavisi od vremena.\"",
+      "level": "A1",
+      "sourceId": "time",
+      "sourceIds": [
+        "time"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "време"
+    },
+    {
+      "id": "pravovremen",
+      "word": "pravovremen",
+      "en": "pravovremen",
+      "ru": [
+        "своевременный"
+      ],
+      "example": "Paziću da je sve spremno pravovremeno.",
+      "level": "B2",
+      "sourceId": "timely",
+      "sourceIds": [
+        "timely",
+        "well-timed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "правовремен"
+    },
+    {
+      "id": "puta",
+      "word": "puta",
+      "en": "puta",
+      "ru": [
+        "разы",
+        "времена"
+      ],
+      "example": "Bio sam ovde tri puta ove nedelje.",
+      "level": "A1",
+      "sourceId": "times",
+      "sourceIds": [
+        "times"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пута"
+    },
+    {
+      "id": "tajming",
+      "word": "tajming",
+      "en": "tajming",
+      "ru": [
+        "время",
+        "тайминг"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "timing",
+      "sourceIds": [
+        "timing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "тајминг"
+    },
+    {
+      "id": "danas",
+      "word": "danas",
+      "en": "danas",
+      "ru": [
+        "сегодня",
+        "в настоящее время",
+        "теперь"
+      ],
+      "example": "Biću previše zauzet da ti pomognem danas.",
+      "level": "A1",
+      "sourceId": "today",
+      "sourceIds": [
+        "today"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "данас"
+    },
+    {
+      "id": "sutra",
+      "word": "sutra",
+      "en": "sutra",
+      "ru": [
+        "завтра"
+      ],
+      "example": "Ako sutra bude padala kiša, biću kući.",
+      "level": "A1",
+      "sourceId": "tomorrow",
+      "sourceIds": [
+        "tomorrow"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сутра"
+    },
+    {
+      "id": "veceras",
+      "word": "večeras",
+      "en": "večeras",
+      "ru": [
+        "сегодня вечером",
+        "сегодня ночью",
+        "сеночь"
+      ],
+      "example": "Bojim se da će večeras padati kiša.",
+      "level": "B1",
+      "sourceId": "tonight",
+      "sourceIds": [
+        "tonight"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "вечерас"
+    },
+    {
+      "id": "dvaput",
+      "word": "dvaput",
+      "en": "dvaput",
+      "ru": [
+        "два раза",
+        "дважды"
+      ],
+      "example": "Danas smo dvaput imali lažnu uzbunu.",
+      "level": "A1",
+      "sourceId": "twice",
+      "sourceIds": [
+        "twice"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "двапут"
+    },
+    {
+      "id": "dok",
+      "word": "dok",
+      "en": "dok",
+      "ru": [
+        "до тех пор, пока не",
+        "пока не",
+        "до"
+      ],
+      "example": "Dok sneg pada u parku je hladno.",
+      "level": "A1",
+      "sourceId": "until",
+      "sourceIds": [
+        "until"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "док"
+    },
+    {
+      "id": "nedelja",
+      "word": "nedelja",
+      "en": "nedelja",
+      "ru": [
+        "неделя"
+      ],
+      "example": "Ako imate vremena sledeće nedelje, javite nam.",
+      "level": "A1",
+      "sourceId": "week",
+      "sourceIds": [
+        "week"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "недеља"
+    },
+    {
+      "id": "radni-dan",
+      "word": "radni dan",
+      "en": "radni dan",
+      "ru": [
+        "будни",
+        "будний день",
+        "рабочий день"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "weekday",
+      "sourceIds": [
+        "weekday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "радни дан"
+    },
+    {
+      "id": "vikend",
+      "word": "vikend",
+      "en": "vikend",
+      "ru": [
+        "конец недели",
+        "суббота и воскресенье",
+        "выходные"
+      ],
+      "example": "Doleteo sam nazad u Boston prošlog vikenda.",
+      "level": "A1",
+      "sourceId": "weekend",
+      "sourceIds": [
+        "weekend"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "викенд"
+    },
+    {
+      "id": "nedeljni",
+      "word": "nedeljni",
+      "en": "nedeljni",
+      "ru": [
+        "недельный",
+        "еженедельный",
+        "еженедельно"
+      ],
+      "example": "Kačim tri videa nedeljno poslednje tri godine.",
+      "level": "A2",
+      "sourceId": "weekly",
+      "sourceIds": [
+        "weekly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "недељни"
+    },
+    {
+      "id": "dok",
+      "word": "dok",
+      "en": "dok",
+      "ru": [
+        "в то время как",
+        "пока"
+      ],
+      "example": "Dok sneg pada u parku je hladno.",
+      "level": "A1",
+      "sourceId": "while",
+      "sourceIds": [
+        "while"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "док"
+    },
+    {
+      "id": "zima",
+      "word": "zima",
+      "en": "zima",
+      "ru": [
+        "зима"
+      ],
+      "example": "Prošle zime sam skijao po prvi put.",
+      "level": "A2",
+      "sourceId": "winter",
+      "sourceIds": [
+        "winter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "зима"
+    },
+    {
+      "id": "godina",
+      "word": "godina",
+      "en": "godina",
+      "ru": [
+        "год",
+        "лет",
+        "година"
+      ],
+      "example": "\"Koliko imaš godina?\" - \"Imam 23 godine.\"",
+      "level": "A1",
+      "sourceId": "year",
+      "sourceIds": [
+        "year"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "година"
+    },
+    {
+      "id": "godisnji",
+      "word": "godišnji",
+      "en": "godišnji",
+      "ru": [
+        "ежегодный",
+        "ежегодно",
+        "ежегодник"
+      ],
+      "example": "Kamate iznose ukupno tri hiljade kruna godišnje.",
+      "level": "A2",
+      "sourceId": "yearly",
+      "sourceIds": [
+        "yearly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "годишњи"
+    },
+    {
+      "id": "juce",
+      "word": "juče",
+      "en": "juče",
+      "ru": [
+        "вчера"
+      ],
+      "example": "Da li je Tom juče igrao tenis?",
+      "level": "A1",
+      "sourceId": "yesterday",
+      "sourceIds": [
+        "yesterday"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "јуче"
+    },
+    {
+      "id": "jos",
+      "word": "još",
+      "en": "još",
+      "ru": [
+        "ещё",
+        "однако"
+      ],
+      "example": "Da li Tom još uvek radi ovde?",
+      "level": "A1",
+      "sourceId": "yet",
+      "sourceIds": [
+        "yet"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "још"
+    },
+    {
+      "id": "cetvorogodisnji",
+      "word": "četvorogodišnji",
+      "en": "četvorogodišnji",
+      "ru": [
+        "четырехлетний"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "four-year",
+      "sourceIds": [
+        "four-year"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "четворогодишњи"
+    },
+    {
+      "id": "visegodisnji",
+      "word": "višegodišnji",
+      "en": "višegodišnji",
+      "ru": [
+        "многолетний"
+      ],
+      "example": "Mi smo višegodišnji prijatelji.",
+      "level": "B1",
+      "sourceId": "multi-year",
+      "sourceIds": [
+        "multi-year"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "вишегодишњи"
+    },
+    {
+      "id": "planiv",
+      "word": "planiv",
+      "en": "planiv",
+      "ru": [
+        "планируемый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "schedulable",
+      "sourceIds": [
+        "schedulable"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "планив"
+    },
+    {
+      "id": "vremenska-zona",
+      "word": "vremenska zona",
+      "en": "vremenska zona",
+      "ru": [
+        "часовой пояс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "timezone",
+      "sourceIds": [
+        "timezone"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "временска зона"
+    },
+    {
+      "id": "predah",
+      "word": "predah",
+      "en": "predah",
+      "ru": [
+        "передышка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "breather",
+      "sourceIds": [
+        "breather"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "предах"
+    },
+    {
+      "id": "ponedeljak",
+      "word": "ponedeljak",
+      "en": "ponedeljak",
+      "ru": [
+        "понедельник"
+      ],
+      "example": "Da li moraš da radiš sledećeg ponedeljka?",
+      "level": "B1",
+      "sourceId": "monday",
+      "sourceIds": [
+        "monday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "понедељак"
+    },
+    {
+      "id": "pre",
+      "word": "pre",
+      "en": "pre",
+      "ru": [
+        "тому назад"
+      ],
+      "example": "\"Kada on uči?\" \"On uči pre večere.\"",
+      "level": "B1",
+      "sourceId": "ago",
+      "sourceIds": [
+        "ago"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пре"
+    },
+    {
+      "id": "utorak",
+      "word": "utorak",
+      "en": "utorak",
+      "ru": [
+        "вторник"
+      ],
+      "example": "Bio sam odsutan prošli Utorak zbog bolesti.",
+      "level": "B1",
+      "sourceId": "tuesday",
+      "sourceIds": [
+        "tuesday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "уторак"
+    },
+    {
+      "id": "zauvek",
+      "word": "zauvek",
+      "en": "zauvek",
+      "ru": [
+        "навсегда"
+      ],
+      "example": "Odlučila je da zauvek živi u Americi.",
+      "level": "B1",
+      "sourceId": "forever",
+      "sourceIds": [
+        "forever"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "заувек"
+    },
+    {
+      "id": "era",
+      "word": "era",
+      "en": "era",
+      "ru": [
+        "эра",
+        "эпоха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "era",
+      "sourceIds": [
+        "era"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "ера"
+    },
+    {
+      "id": "istovremeno",
+      "word": "istovremeno",
+      "en": "istovremeno",
+      "ru": [
+        "одновременно"
+      ],
+      "example": "Grmljavina je istovremeno i zastrašujuća i uzbudljiva.",
+      "level": "B1",
+      "sourceId": "simultaneously",
+      "sourceIds": [
+        "simultaneously"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "истовремено"
+    },
+    {
+      "id": "odjednom",
+      "word": "odjednom",
+      "en": "odjednom",
+      "ru": [
+        "внезапно"
+      ],
+      "example": "Sva svetla u gradu se odjednom ugasila.",
+      "level": "B1",
+      "sourceId": "suddenly",
+      "sourceIds": [
+        "suddenly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "одједном"
+    },
+    {
+      "id": "oktobar",
+      "word": "oktobar",
+      "en": "oktobar",
+      "ru": [
+        "октябрь"
+      ],
+      "example": "Moramo da završimo ovaj projekat pre oktobra.",
+      "level": "B1",
+      "sourceId": "october",
+      "sourceIds": [
+        "october"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "октобар"
+    },
+    {
+      "id": "danas",
+      "word": "danas",
+      "en": "danas",
+      "ru": [
+        "в наши дни",
+        "сегодня"
+      ],
+      "example": "Biću previše zauzet da ti pomognem danas.",
+      "level": "B1",
+      "sourceId": "nowadays",
+      "sourceIds": [
+        "nowadays"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "данас"
+    },
+    {
+      "id": "do",
+      "word": "do",
+      "en": "do",
+      "ru": [
+        "до"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "till",
+      "sourceIds": [
+        "till"
+      ],
+      "pos": "preposition",
+      "wordCyrillic": "до"
+    },
+    {
+      "id": "povremeno",
+      "word": "povremeno",
+      "en": "povremeno",
+      "ru": [
+        "изредка",
+        "время от времени"
+      ],
+      "example": "Samoća je neprijatno emocionalno stanje koju većina povremeno doživljava.",
+      "level": "B1",
+      "sourceId": "occasionally",
+      "sourceIds": [
+        "occasionally"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "повремено"
+    },
+    {
+      "id": "sati",
+      "word": "sati",
+      "en": "sati",
+      "ru": [
+        "часов"
+      ],
+      "example": "Generalna proba počinje sutra u 13.00 sati.",
+      "level": "B1",
+      "sourceId": "o-clock",
+      "sourceIds": [
+        "o-clock"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сати"
+    },
+    {
+      "id": "potom",
+      "word": "potom",
+      "en": "potom",
+      "ru": [
+        "впоследствии",
+        "потом"
+      ],
+      "example": "Želim, potom, kvalitetan život.",
+      "level": "B1",
+      "sourceId": "afterwards",
+      "sourceIds": [
+        "afterwards"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "потом"
+    },
+    {
+      "id": "zalazak-sunca",
+      "word": "zalazak sunca",
+      "en": "zalazak sunca",
+      "ru": [
+        "закат"
+      ],
+      "example": "Moje pozorišno sunce je na zalasku.",
+      "level": "B1",
+      "sourceId": "sundown",
+      "sourceIds": [
+        "sundown"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "залазак сунца"
+    },
+    {
+      "id": "tacnost",
+      "word": "tačnost",
+      "en": "tačnost",
+      "ru": [
+        "пунктуальность"
+      ],
+      "example": "Posumnjao sam u tačnost njegove izjave.",
+      "level": "B1",
+      "sourceId": "punctuality",
+      "sourceIds": [
+        "punctuality"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "тачност"
+    },
+    {
+      "id": "jednog-dana",
+      "word": "jednog dana",
+      "en": "jednog dana",
+      "ru": [
+        "когда-нибудь"
+      ],
+      "example": "Možda ćete me vi jednog dana razumeti.",
+      "level": "B1",
+      "sourceId": "someday",
+      "sourceIds": [
+        "someday",
+        "sometime"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "једног дана"
+    },
+    {
+      "id": "u-poslednje-vreme",
+      "word": "u poslednje vreme",
+      "en": "u poslednje vreme",
+      "ru": [
+        "в последнее время"
+      ],
+      "example": "Da li Tom pije u poslednje vreme?",
+      "level": "B1",
+      "sourceId": "lately",
+      "sourceIds": [
+        "lately"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "у последње време"
+    },
+    {
+      "id": "nocni",
+      "word": "noćni",
+      "en": "noćni",
+      "ru": [
+        "ночной",
+        "за ночь"
+      ],
+      "example": "Da li si uživao u gledanju noćne utakmice sinoć?",
+      "level": "B1",
+      "sourceId": "overnight",
+      "sourceIds": [
+        "overnight"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ноћни"
+    },
+    {
+      "id": "sutrasnjica",
+      "word": "sutrašnjica",
+      "en": "sutrašnjica",
+      "ru": [
+        "завтрашний день"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "morrow",
+      "sourceIds": [
+        "morrow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "сутрашњица"
+    },
+    {
+      "id": "dve-nedelje",
+      "word": "dve nedelje",
+      "en": "dve nedelje",
+      "ru": [
+        "две недели"
+      ],
+      "example": "Dve strane će održati govore ove nedelje.",
+      "level": "B1",
+      "sourceId": "fortnight",
+      "sourceIds": [
+        "fortnight"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "две недеље"
+    },
+    {
+      "id": "unapred",
+      "word": "unapred",
+      "en": "unapred",
+      "ru": [
+        "заранее"
+      ],
+      "example": "Tomu je unapred bila poznata ta priča.",
+      "level": "B1",
+      "sourceId": "beforehand",
+      "sourceIds": [
+        "beforehand"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "унапред"
+    },
+    {
+      "id": "bilo-kada",
+      "word": "bilo kada",
+      "en": "bilo kada",
+      "ru": [
+        "в любое время"
+      ],
+      "example": "Možeš bilo kad da pozajmiš moj auto.",
+      "level": "B1",
+      "sourceId": "anytime",
+      "sourceIds": [
+        "anytime"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "било када"
+    },
+    {
+      "id": "rekordan",
+      "word": "rekordan",
+      "en": "rekordan",
+      "ru": [
+        "за все время",
+        "рекордный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "all-time",
+      "sourceIds": [
+        "all-time"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "рекордан"
+    },
+    {
+      "id": "nedelja",
+      "word": "nedelja",
+      "en": "nedelja",
+      "ru": [
+        "воскресенье"
+      ],
+      "example": "Ako imate vremena sledeće nedelje, javite nam.",
+      "level": "B1",
+      "sourceId": "sunday",
+      "sourceIds": [
+        "sunday"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "недеља"
+    },
+    {
+      "id": "nocni",
+      "word": "noćni",
+      "en": "noćni",
+      "ru": [
+        "поздний",
+        "ночной"
+      ],
+      "example": "Da li si uživao u gledanju noćne utakmice sinoć?",
+      "level": "B1",
+      "sourceId": "late-night",
+      "sourceIds": [
+        "late-night"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ноћни"
+    },
+    {
+      "id": "milenijum",
+      "word": "milenijum",
+      "en": "milenijum",
+      "ru": [
+        "тысячелетие"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "millennium",
+      "sourceIds": [
+        "millennium"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "миленијум"
+    },
+    {
+      "id": "dvodnevni",
+      "word": "dvodnevni",
+      "en": "dvodnevni",
+      "ru": [
+        "двухдневный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "two-day",
+      "sourceIds": [
+        "two-day"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "дводневни"
+    },
+    {
+      "id": "osmocasovni",
+      "word": "osmočasovni",
+      "en": "osmočasovni",
+      "ru": [
+        "восьмичасовой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eight-hour",
+      "sourceIds": [
+        "eight-hour"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "осмочасовни"
+    },
+    {
+      "id": "na-trenutak",
+      "word": "na trenutak",
+      "en": "na trenutak",
+      "ru": [
+        "на мгновение",
+        "сию минуту"
+      ],
+      "example": "Baš u tom trenutku, svetla se ugasiše.",
+      "level": "B1",
+      "sourceId": "momentarily",
+      "sourceIds": [
+        "momentarily"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "на тренутак"
+    },
+    {
+      "id": "tren",
+      "word": "tren",
+      "en": "tren",
+      "ru": [
+        "момент",
+        "миг"
+      ],
+      "example": "Tom je umro skoro istog trena.",
+      "level": "B1",
+      "sourceId": "jiffy",
+      "sourceIds": [
+        "jiffy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трен"
+    },
+    {
+      "id": "dan",
+      "word": "dan",
+      "en": "dan",
+      "ru": [
+        "дневное время"
+      ],
+      "example": "Baba je brinula o deci tokom dana.",
+      "level": "B1",
+      "sourceId": "daytime",
+      "sourceIds": [
+        "daytime"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "дан"
+    },
+    {
+      "id": "prepodnevni",
+      "word": "prepodnevni",
+      "en": "prepodnevni",
+      "ru": [
+        "середина утра"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mid-morning",
+      "sourceIds": [
+        "mid-morning"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "преподневни"
+    },
+    {
+      "id": "tak",
+      "word": "tak",
+      "en": "tak",
+      "ru": [
+        "тик-так"
+      ],
+      "example": "Uzeću tak koji je skuplji.",
+      "level": "B1",
+      "sourceId": "tock",
+      "sourceIds": [
+        "tock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "так"
+    },
+    {
+      "id": "stogodisnjica",
+      "word": "stogodišnjica",
+      "en": "stogodišnjica",
+      "ru": [
+        "столетний юбилей"
+      ],
+      "example": "Umro je nekoliko dana pre svoje stogodišnjice.",
+      "level": "B1",
+      "sourceId": "centennial",
+      "sourceIds": [
+        "centennial"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "стогодишњица"
+    },
+    {
+      "id": "u-medjuvremenu",
+      "word": "u međuvremenu",
+      "en": "u međuvremenu",
+      "ru": [
+        "тем временем"
+      ],
+      "example": "On je u međuvremenu otišao na pecanje.",
+      "level": "B1",
+      "sourceId": "meantime",
+      "sourceIds": [
+        "meantime"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "у међувремену"
+    },
+    {
+      "id": "svaki-put",
+      "word": "svaki put",
+      "en": "svaki put",
+      "ru": [
+        "каждый раз"
+      ],
+      "example": "Svaki put kad sam pokušavao, nisam uspevao.",
+      "level": "B1",
+      "sourceId": "every-time",
+      "sourceIds": [
+        "every-time"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сваки пут"
+    },
+    {
+      "id": "produziti",
+      "word": "produžiti",
+      "en": "produžiti",
+      "ru": [
+        "продлевать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "prolong",
+      "sourceIds": [
+        "prolong"
+      ],
+      "pos": "v",
+      "wordCyrillic": "продужити"
+    },
+    {
+      "id": "isteci",
+      "word": "isteći",
+      "en": "isteći",
+      "ru": [
+        "истекать (о сроке)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "expire",
+      "sourceIds": [
+        "expire"
+      ],
+      "pos": "v",
+      "wordCyrillic": "истећи"
+    },
+    {
+      "id": "hronologija",
+      "word": "hronologija",
+      "en": "hronologija",
+      "ru": [
+        "график",
+        "хронология"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "timeline",
+      "sourceIds": [
+        "timeline"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "хронологија"
+    },
+    {
+      "id": "istek",
+      "word": "istek",
+      "en": "istek",
+      "ru": [
+        "истечение срока"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "expiration",
+      "sourceIds": [
+        "expiration"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "истек"
+    },
+    {
+      "id": "vreme-vecere",
+      "word": "vreme večere",
+      "en": "vreme večere",
+      "ru": [
+        "время ужина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dinnertime",
+      "sourceIds": [
+        "dinnertime"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "време вечере"
+    },
+    {
+      "id": "decembar",
+      "word": "decembar",
+      "en": "decembar",
+      "ru": [
+        "декабрь"
+      ],
+      "example": "Katolički Božić je 25. decembra.",
+      "level": "B1",
+      "sourceId": "december",
+      "sourceIds": [
+        "december"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "децембар"
+    },
+    {
+      "id": "januar",
+      "word": "januar",
+      "en": "januar",
+      "ru": [
+        "январь"
+      ],
+      "example": "Januar je prvi mesec u kalendaru.",
+      "level": "B1",
+      "sourceId": "january",
+      "sourceIds": [
+        "january"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "јануар"
+    },
+    {
+      "id": "vecnost",
+      "word": "večnost",
+      "en": "večnost",
+      "ru": [
+        "вечность"
+      ],
+      "example": "Kako ide? Nisam te video čitavu večnost.",
+      "level": "B1",
+      "sourceId": "eternity",
+      "sourceIds": [
+        "eternity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "вечност"
+    },
+    {
+      "id": "zivotni-vek",
+      "word": "životni vek",
+      "en": "životni vek",
+      "ru": [
+        "жизнь",
+        "весь срок службы"
+      ],
+      "example": "Prosečan životni vek pasa je 10 godina.",
+      "level": "B1",
+      "sourceId": "lifetime",
+      "sourceIds": [
+        "lifetime"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "животни век"
+    },
+    {
+      "id": "predvecerje",
+      "word": "predvečerje",
+      "en": "predvečerje",
+      "ru": [
+        "канун"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "eve",
+      "sourceIds": [
+        "eve"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "предвечерје"
+    },
+    {
+      "id": "od-sada",
+      "word": "od sada",
+      "en": "od sada",
+      "ru": [
+        "с этого времени"
+      ],
+      "example": "Biti, ili ne biti, pitanje je sad.",
+      "level": "B1",
+      "sourceId": "henceforth",
+      "sourceIds": [
+        "henceforth"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "од сада"
+    },
+    {
+      "id": "celonocni",
+      "word": "celonoćni",
+      "en": "celonoćni",
+      "ru": [
+        "ночной",
+        "работающий всю ночь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "all-night",
+      "sourceIds": [
+        "all-night"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "целоноћни"
+    },
+    {
+      "id": "dugotrajan",
+      "word": "dugotrajan",
+      "en": "dugotrajan",
+      "ru": [
+        "отнимающий много времени"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "time-consuming",
+      "sourceIds": [
+        "time-consuming"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "дуготрајан"
+    },
+    {
+      "id": "pre",
+      "word": "pre",
+      "en": "pre",
+      "ru": [
+        "до",
+        "прежде чем"
+      ],
+      "example": "\"Kada on uči?\" \"On uči pre večere.\"",
+      "level": "B1",
+      "sourceId": "ere",
+      "sourceIds": [
+        "ere"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пре"
+    },
+    {
+      "id": "preuranjen",
+      "word": "preuranjen",
+      "en": "preuranjen",
+      "ru": [
+        "преждевременный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "premature",
+      "sourceIds": [
+        "premature"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "преурањен"
+    },
+    {
+      "id": "odbrojavanje",
+      "word": "odbrojavanje",
+      "en": "odbrojavanje",
+      "ru": [
+        "обратный отсчет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "countdown",
+      "sourceIds": [
+        "countdown"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "одбројавање"
+    },
+    {
+      "id": "proslost",
+      "word": "prošlost",
+      "en": "prošlost",
+      "ru": [
+        "прошлые годы",
+        "былые времена"
+      ],
+      "example": "On nikada nije pričao o svojoj prošlosti.",
+      "level": "B1",
+      "sourceId": "yesteryear",
+      "sourceIds": [
+        "yesteryear"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "прошлост"
+    },
+    {
+      "id": "milisekunda",
+      "word": "milisekunda",
+      "en": "milisekunda",
+      "ru": [
+        "миллисекунда"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "millisecond",
+      "sourceIds": [
+        "millisecond"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "милисекунда"
+    },
+    {
+      "id": "odloziti",
+      "word": "odložiti",
+      "en": "odložiti",
+      "ru": [
+        "откладывать",
+        "отсрочивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "defer",
+      "sourceIds": [
+        "defer"
+      ],
+      "pos": "v",
+      "wordCyrillic": "одложити"
+    },
+    {
+      "id": "kasnije",
+      "word": "kasnije",
+      "en": "kasnije",
+      "ru": [
+        "впоследствии",
+        "позже"
+      ],
+      "example": "Moraćemo da uradimo to pre ili kasnije.",
+      "level": "B1",
+      "sourceId": "afterward",
+      "sourceIds": [
+        "afterward"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "касније"
+    }
+  ]
+}

@@ -1,0 +1,2647 @@
+{
+  "id": "time",
+  "title": "Время",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "despues",
+      "word": "después",
+      "en": "después",
+      "ru": [
+        "после",
+        "потом",
+        "после того, как"
+      ],
+      "example": "\"¿Harás los deberes después de cenar?\" \"Sí.\"",
+      "level": "A1",
+      "sourceId": "after",
+      "sourceIds": [
+        "after"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tarde",
+      "word": "tarde",
+      "en": "tarde",
+      "ru": [
+        "вторая половина дня",
+        "пополудни",
+        "послеобеденное время"
+      ],
+      "example": "\"Por eso he llegado tarde.\" \"Ya veo.\"",
+      "level": "A1",
+      "sourceId": "afternoon",
+      "sourceIds": [
+        "afternoon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-nuevo",
+      "word": "de nuevo",
+      "en": "de nuevo",
+      "ru": [
+        "снова",
+        "опять",
+        "ещё раз"
+      ],
+      "example": "\"¿Me mostrarás tu nuevo coche?\" \"Lo mostraré.\"",
+      "level": "A1",
+      "sourceId": "again",
+      "sourceIds": [
+        "again"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "edad",
+      "word": "edad",
+      "en": "edad",
+      "ru": [
+        "возраст",
+        "год",
+        "старость"
+      ],
+      "example": "\"¿Que edad tienes?\" \"16 años de edad\".",
+      "level": "A1",
+      "sourceId": "age",
+      "sourceIds": [
+        "age"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ya",
+      "word": "ya",
+      "en": "ya",
+      "ru": [
+        "уже",
+        "ранее",
+        "раньше"
+      ],
+      "example": "\"Por eso he llegado tarde.\" \"Ya veo.\"",
+      "level": "A1",
+      "sourceId": "already",
+      "sourceIds": [
+        "already"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "siempre",
+      "word": "siempre",
+      "en": "siempre",
+      "ru": [
+        "всегда",
+        "вечно",
+        "постоянно"
+      ],
+      "example": "\"¿Qué onda, Cookie?\" \"Miau.\" \"Siempre dices eso.\"",
+      "level": "A1",
+      "sourceId": "always",
+      "sourceIds": [
+        "always"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "agosto",
+      "word": "agosto",
+      "en": "agosto",
+      "ru": [
+        "август"
+      ],
+      "example": "Agosto es el octavo mes del año.",
+      "level": "A1",
+      "sourceId": "august",
+      "sourceIds": [
+        "august"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "otono",
+      "word": "otoño",
+      "en": "otoño",
+      "ru": [
+        "осень"
+      ],
+      "example": "A los perros les gusta el otoño.",
+      "level": "A2",
+      "sourceId": "autumn",
+      "sourceIds": [
+        "autumn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "antes",
+      "word": "antes",
+      "en": "antes",
+      "ru": [
+        "перед",
+        "до"
+      ],
+      "example": "\"¿Cuándo llegó Tom?\" \"Justo antes que Mary.\"",
+      "level": "A1",
+      "sourceId": "before",
+      "sourceIds": [
+        "before"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cumpleanos",
+      "word": "cumpleaños",
+      "en": "cumpleaños",
+      "ru": [
+        "день рождения",
+        "днюха",
+        "именины"
+      ],
+      "example": "Aún falta un mes para mi cumpleaños.",
+      "level": "A1",
+      "sourceId": "birthday",
+      "sourceIds": [
+        "birthday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calendario",
+      "word": "calendario",
+      "en": "calendario",
+      "ru": [
+        "календарь",
+        "расписание"
+      ],
+      "example": "El calendario está colgado en la pared.",
+      "level": "A1",
+      "sourceId": "calendar",
+      "sourceIds": [
+        "calendar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "siglo",
+      "word": "siglo",
+      "en": "siglo",
+      "ru": [
+        "век",
+        "столетие",
+        "центурия"
+      ],
+      "example": "A cien años se le llama siglo.",
+      "level": "A2",
+      "sourceId": "century",
+      "sourceIds": [
+        "century"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reloj",
+      "word": "reloj",
+      "en": "reloj",
+      "ru": [
+        "часы"
+      ],
+      "example": "\"¿Ella compró un reloj?\" \"Sí, así es.\"",
+      "level": "A1",
+      "sourceId": "clock",
+      "sourceIds": [
+        "clock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diario",
+      "word": "diario",
+      "en": "diario",
+      "ru": [
+        "ежедневный",
+        "ежесуточный",
+        "каждодневный"
+      ],
+      "example": "Acostúmbrate a escribir tu diario en interlingua.",
+      "level": "A1",
+      "sourceId": "daily",
+      "sourceIds": [
+        "daily"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fecha",
+      "word": "fecha",
+      "en": "fecha",
+      "ru": [
+        "дата",
+        "число"
+      ],
+      "example": "Desconocemos la fecha exacta de su construcción.",
+      "level": "A1",
+      "sourceId": "date",
+      "sourceIds": [
+        "date"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasado-de-moda",
+      "word": "pasado de moda",
+      "en": "pasado de moda",
+      "ru": [
+        "устаревший",
+        "старомодный"
+      ],
+      "example": "Ella siempre usa pilchas pasadas de moda.",
+      "level": "B2",
+      "sourceId": "dated",
+      "sourceIds": [
+        "dated"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salir-con-alguien",
+      "word": "salir con alguien",
+      "en": "salir con alguien",
+      "ru": [
+        "свидание",
+        "ухаживание",
+        "датирование"
+      ],
+      "example": "Jamás saldría con alguien de su edad.",
+      "level": "A2",
+      "sourceId": "dating",
+      "sourceIds": [
+        "dating"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dia",
+      "word": "día",
+      "en": "día",
+      "ru": [
+        "день",
+        "сутки",
+        "световой день"
+      ],
+      "example": "\"Buenos días\", dijo Tom con una sonrisa.",
+      "level": "A1",
+      "sourceId": "day",
+      "sourceIds": [
+        "day"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "decada",
+      "word": "década",
+      "en": "década",
+      "ru": [
+        "декада",
+        "десяток"
+      ],
+      "example": "Ella nació en la década del 50.",
+      "level": "B2",
+      "sourceId": "decade",
+      "sourceIds": [
+        "decade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "duracion",
+      "word": "duración",
+      "en": "duración",
+      "ru": [
+        "длительность",
+        "продолжительность"
+      ],
+      "example": "Este género es de mucha duración.",
+      "level": "B1",
+      "sourceId": "duration",
+      "sourceIds": [
+        "duration"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "durante",
+      "word": "durante",
+      "en": "durante",
+      "ru": [
+        "в течение",
+        "в продолжение",
+        "во время"
+      ],
+      "example": "Canta durante el día y la noche.",
+      "level": "A1",
+      "sourceId": "during",
+      "sourceIds": [
+        "during"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "temprano",
+      "word": "temprano",
+      "en": "temprano",
+      "ru": [
+        "ранний",
+        "рано"
+      ],
+      "example": "A algunos no les gusta levantarse temprano.",
+      "level": "A1",
+      "sourceId": "early",
+      "sourceIds": [
+        "early"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vespero",
+      "word": "véspero",
+      "en": "véspero",
+      "ru": [
+        "вечер"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "evening",
+      "sourceIds": [
+        "evening"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "jamas",
+      "word": "jamás",
+      "en": "jamás",
+      "ru": [
+        "когда-либо"
+      ],
+      "example": "A ustedes, jamás les sonrió la vida.",
+      "level": "A1",
+      "sourceId": "ever",
+      "sourceIds": [
+        "ever"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frecuentemente",
+      "word": "frecuentemente",
+      "en": "frecuentemente",
+      "ru": [
+        "часто"
+      ],
+      "example": "Frecuentemente, Tom le dice mentiras a María.",
+      "level": "B1",
+      "sourceId": "frequently",
+      "sourceIds": [
+        "frequently"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "futuro",
+      "word": "futuro",
+      "en": "futuro",
+      "ru": [
+        "будущее",
+        "будущий",
+        "грядущий"
+      ],
+      "example": "Algunos sueños son una ojeada al futuro.",
+      "level": "A1",
+      "sourceId": "future",
+      "sourceIds": [
+        "future"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hora",
+      "word": "hora",
+      "en": "hora",
+      "ru": [
+        "час",
+        "время",
+        "година"
+      ],
+      "example": "\"¿Cuánto durará aproximadamente la reunión?\" \"Dos horas.\"",
+      "level": "A1",
+      "sourceId": "hour",
+      "sourceIds": [
+        "hour"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por-hora",
+      "word": "por hora",
+      "en": "por hora",
+      "ru": [
+        "ежечасный",
+        "почасовой",
+        "ежечасно"
+      ],
+      "example": "Algunos votantes esperaron por horas para votar.",
+      "level": "A2",
+      "sourceId": "hourly",
+      "sourceIds": [
+        "hourly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ultimo",
+      "word": "último",
+      "en": "último",
+      "ru": [
+        "последний"
+      ],
+      "example": "Abordé el tren en el último momento.",
+      "level": "A1",
+      "sourceId": "last",
+      "sourceIds": [
+        "last"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tarde",
+      "word": "tarde",
+      "en": "tarde",
+      "ru": [
+        "поздно",
+        "поздний",
+        "запоздалый"
+      ],
+      "example": "\"Por eso he llegado tarde.\" \"Ya veo.\"",
+      "level": "A2",
+      "sourceId": "late",
+      "sourceIds": [
+        "late"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "marzo",
+      "word": "marzo",
+      "en": "marzo",
+      "ru": [
+        "март"
+      ],
+      "example": "A su derecha pueden ver el mar.",
+      "level": "A1",
+      "sourceId": "march",
+      "sourceIds": [
+        "march"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "medio",
+      "word": "medio",
+      "en": "medio",
+      "ru": [
+        "среда",
+        "средний",
+        "носитель"
+      ],
+      "example": "A media mañana me echo una siesta.",
+      "level": "A2",
+      "sourceId": "medium",
+      "sourceIds": [
+        "medium"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "medianoche",
+      "word": "medianoche",
+      "en": "medianoche",
+      "ru": [
+        "полночь"
+      ],
+      "example": "A ese color le decimos \"azul medianoche\".",
+      "level": "B2",
+      "sourceId": "midnight",
+      "sourceIds": [
+        "midnight"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menudo",
+      "word": "menudo",
+      "en": "menudo",
+      "ru": [
+        "минута"
+      ],
+      "example": "\"123456\" es una contraseña usada a menudo.",
+      "level": "A1",
+      "sourceId": "minute",
+      "sourceIds": [
+        "minute"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "minutos",
+      "word": "minutos",
+      "en": "minutos",
+      "ru": [
+        "минуты"
+      ],
+      "example": "Aún faltan veinte minutos para las dos.",
+      "level": "A2",
+      "sourceId": "minutes",
+      "sourceIds": [
+        "minutes"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "momento",
+      "word": "momento",
+      "en": "momento",
+      "ru": [
+        "момент силы",
+        "миг",
+        "момент"
+      ],
+      "example": "Abordé el tren en el último momento.",
+      "level": "B1",
+      "sourceId": "moment",
+      "sourceIds": [
+        "moment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mes",
+      "word": "mes",
+      "en": "mes",
+      "ru": [
+        "месяц"
+      ],
+      "example": "Abril es el cuarto mes del año.",
+      "level": "A1",
+      "sourceId": "month",
+      "sourceIds": [
+        "month"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mensualmente",
+      "word": "mensualmente",
+      "en": "mensualmente",
+      "ru": [
+        "ежемесячный",
+        "ежемесячно",
+        "месячно"
+      ],
+      "example": "La tarifa de almacenamiento se factura mensualmente.",
+      "level": "A2",
+      "sourceId": "monthly",
+      "sourceIds": [
+        "monthly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nunca",
+      "word": "nunca",
+      "en": "nunca",
+      "ru": [
+        "никогда"
+      ],
+      "example": "\"Esta conversación nunca ocurrió.\" - \"¿Qué conversación?\"",
+      "level": "A1",
+      "sourceId": "never",
+      "sourceIds": [
+        "never"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noche",
+      "word": "noche",
+      "en": "noche",
+      "ru": [
+        "ночь",
+        "вечер",
+        "ночёвка"
+      ],
+      "example": "\"¿Cuando murió?\" \"Ayer por la noche, creo.\"",
+      "level": "A1",
+      "sourceId": "night",
+      "sourceIds": [
+        "night"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nocturno",
+      "word": "nocturno",
+      "en": "nocturno",
+      "ru": [
+        "еженочный",
+        "еженощный",
+        "каждую ночь"
+      ],
+      "example": "El vigilante nocturno tiene un perro policía.",
+      "level": "A2",
+      "sourceId": "nightly",
+      "sourceIds": [
+        "nightly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mediodia",
+      "word": "mediodía",
+      "en": "mediodía",
+      "ru": [
+        "полдень"
+      ],
+      "example": "Dile que me llame mañana al mediodía.",
+      "level": "B2",
+      "sourceId": "noon",
+      "sourceIds": [
+        "noon",
+        "midday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ahora",
+      "word": "ahora",
+      "en": "ahora",
+      "ru": [
+        "сейчас",
+        "ныне",
+        "теперь"
+      ],
+      "example": "\"No puedes salir ahora.\" \"¿Por qué no?\"",
+      "level": "A1",
+      "sourceId": "now",
+      "sourceIds": [
+        "now"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "numero",
+      "word": "número",
+      "en": "número",
+      "ru": [
+        "число",
+        "количество",
+        "имя числительное"
+      ],
+      "example": "2 es el único número primo par.",
+      "level": "A1",
+      "sourceId": "number",
+      "sourceIds": [
+        "number"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-menudo",
+      "word": "a menudo",
+      "en": "a menudo",
+      "ru": [
+        "часто",
+        "зачастую",
+        "частенько"
+      ],
+      "example": "\"123456\" es una contraseña usada a menudo.",
+      "level": "A2",
+      "sourceId": "often",
+      "sourceIds": [
+        "often"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viejo",
+      "word": "viejo",
+      "en": "viejo",
+      "ru": [
+        "старый",
+        "пожилой",
+        "в возрасте"
+      ],
+      "example": "A ella le gusta cantar canciones viejas.",
+      "level": "A1",
+      "sourceId": "old",
+      "sourceIds": [
+        "old"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "una-vez",
+      "word": "una vez",
+      "en": "una vez",
+      "ru": [
+        "один раз",
+        "однажды",
+        "когда-то"
+      ],
+      "example": "\"¿Será que ella lo mató?\" \"Tal vez.\"",
+      "level": "A1",
+      "sourceId": "once",
+      "sourceIds": [
+        "once"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasado",
+      "word": "pasado",
+      "en": "pasado",
+      "ru": [
+        "прошлый",
+        "минувший",
+        "прошедший"
+      ],
+      "example": "A ver. Lo compré la semana pasada.",
+      "level": "A1",
+      "sourceId": "past",
+      "sourceIds": [
+        "past"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "periodo",
+      "word": "período",
+      "en": "período",
+      "ru": [
+        "период",
+        "промежуток времени"
+      ],
+      "example": "Esta costumbre comenzó durante el periodo Edo.",
+      "level": "A1",
+      "sourceId": "period",
+      "sourceIds": [
+        "period"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "presente",
+      "word": "presente",
+      "en": "presente",
+      "ru": [
+        "настоящий",
+        "нынешний",
+        "присутствующий"
+      ],
+      "example": "Alabamos el pasado, pero vivimos el presente.",
+      "level": "A2",
+      "sourceId": "present",
+      "sourceIds": [
+        "present"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pronto",
+      "word": "pronto",
+      "en": "pronto",
+      "ru": [
+        "вскоре",
+        "скоро"
+      ],
+      "example": "\"¿Se recuperará pronto?\" \"Me temo que no.\"",
+      "level": "C1",
+      "sourceId": "presently",
+      "sourceIds": [
+        "presently",
+        "soon"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "previo",
+      "word": "previo",
+      "en": "previo",
+      "ru": [
+        "прошлый",
+        "предыдущий"
+      ],
+      "example": "Betty tiene una condena previa por hurto.",
+      "level": "A1",
+      "sourceId": "previous",
+      "sourceIds": [
+        "previous"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ultimamente",
+      "word": "últimamente",
+      "en": "últimamente",
+      "ru": [
+        "недавно"
+      ],
+      "example": "Ella ha hecho un gran progreso últimamente.",
+      "level": "A2",
+      "sourceId": "recently",
+      "sourceIds": [
+        "recently"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "horario",
+      "word": "horario",
+      "en": "horario",
+      "ru": [
+        "план",
+        "расписание",
+        "график"
+      ],
+      "example": "Ella acomodó su horario al de él.",
+      "level": "A2",
+      "sourceId": "schedule",
+      "sourceIds": [
+        "schedule"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estacion",
+      "word": "estación",
+      "en": "estación",
+      "ru": [
+        "сезон",
+        "время года"
+      ],
+      "example": "Ahora, estamos en la estación de Tokio.",
+      "level": "A2",
+      "sourceId": "season",
+      "sourceIds": [
+        "season"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "segundo",
+      "word": "segundo",
+      "en": "segundo",
+      "ru": [
+        "секунда",
+        "второй",
+        "секундант"
+      ],
+      "example": "\"Seis centavos por segundo\" le recordó Bob.",
+      "level": "A1",
+      "sourceId": "second",
+      "sourceIds": [
+        "second"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ya-que",
+      "word": "ya que",
+      "en": "ya que",
+      "ru": [
+        "с тех пор как",
+        "так как",
+        "поскольку"
+      ],
+      "example": "\"Por eso he llegado tarde.\" \"Ya veo.\"",
+      "level": "A1",
+      "sourceId": "since",
+      "sourceIds": [
+        "since"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-veces",
+      "word": "a veces",
+      "en": "a veces",
+      "ru": [
+        "иногда",
+        "временами",
+        "подчас"
+      ],
+      "example": "A Lasse a veces le falta experiencia.",
+      "level": "A2",
+      "sourceId": "sometimes",
+      "sourceIds": [
+        "sometimes"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "primavera",
+      "word": "primavera",
+      "en": "primavera",
+      "ru": [
+        "весна"
+      ],
+      "example": "A Haruko le gustan las cálidas primaveras.",
+      "level": "A2",
+      "sourceId": "spring",
+      "sourceIds": [
+        "spring"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "todavia",
+      "word": "todavía",
+      "en": "todavía",
+      "ru": [
+        "всё ещё",
+        "тем не менее"
+      ],
+      "example": "A tu edad todavía eres demasiado ingenuo.",
+      "level": "A1",
+      "sourceId": "still",
+      "sourceIds": [
+        "still"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verano",
+      "word": "verano",
+      "en": "verano",
+      "ru": [
+        "лето"
+      ],
+      "example": "A ella le gusta nadar en verano.",
+      "level": "A2",
+      "sourceId": "summer",
+      "sourceIds": [
+        "summer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "temporario",
+      "word": "temporario",
+      "en": "temporario",
+      "ru": [
+        "временный",
+        "временный работник",
+        "временный сотрудник"
+      ],
+      "example": "El laburo de Thania es temporario.",
+      "level": "B1",
+      "sourceId": "temporary",
+      "sourceIds": [
+        "temporary"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "despues",
+      "word": "después",
+      "en": "después",
+      "ru": [
+        "затем",
+        "тогда"
+      ],
+      "example": "\"¿Harás los deberes después de cenar?\" \"Sí.\"",
+      "level": "A1",
+      "sourceId": "then",
+      "sourceIds": [
+        "then"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tiempo",
+      "word": "tiempo",
+      "en": "tiempo",
+      "ru": [
+        "время",
+        "час",
+        "времена"
+      ],
+      "example": "A Tom no le queda mucho tiempo.",
+      "level": "A1",
+      "sourceId": "time",
+      "sourceIds": [
+        "time"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oportuno",
+      "word": "oportuno",
+      "en": "oportuno",
+      "ru": [
+        "своевременный"
+      ],
+      "example": "Ha venido usted en un momento oportuno.",
+      "level": "B2",
+      "sourceId": "timely",
+      "sourceIds": [
+        "timely",
+        "well-timed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por",
+      "word": "por",
+      "en": "por",
+      "ru": [
+        "разы",
+        "времена"
+      ],
+      "example": "\"El Ateneo\" fue escrito por Raul Pompéia.",
+      "level": "A1",
+      "sourceId": "times",
+      "sourceIds": [
+        "times"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "temporizacion",
+      "word": "temporización",
+      "en": "temporización",
+      "ru": [
+        "время",
+        "тайминг"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "timing",
+      "sourceIds": [
+        "timing"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "hoy",
+      "word": "hoy",
+      "en": "hoy",
+      "ru": [
+        "сегодня",
+        "в настоящее время",
+        "теперь"
+      ],
+      "example": "A la primera hora hoy tenemos inglés.",
+      "level": "A1",
+      "sourceId": "today",
+      "sourceIds": [
+        "today"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manana",
+      "word": "mañana",
+      "en": "mañana",
+      "ru": [
+        "завтра"
+      ],
+      "example": "\"Mañana será otro día\", dice el optimista.",
+      "level": "A1",
+      "sourceId": "tomorrow",
+      "sourceIds": [
+        "tomorrow"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "esta-noche",
+      "word": "esta noche",
+      "en": "esta noche",
+      "ru": [
+        "сегодня вечером",
+        "сегодня ночью",
+        "сеночь"
+      ],
+      "example": "\"¿Puedo llamarte esta noche?\" \"No hay problema.\"",
+      "level": "B1",
+      "sourceId": "tonight",
+      "sourceIds": [
+        "tonight"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dos-veces",
+      "word": "dos veces",
+      "en": "dos veces",
+      "ru": [
+        "два раза",
+        "дважды"
+      ],
+      "example": "El que come callado, come dos veces.",
+      "level": "A1",
+      "sourceId": "twice",
+      "sourceIds": [
+        "twice"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hasta",
+      "word": "hasta",
+      "en": "hasta",
+      "ru": [
+        "до тех пор, пока не",
+        "пока не",
+        "до"
+      ],
+      "example": "A veces se queda despierta hasta tarde.",
+      "level": "A1",
+      "sourceId": "until",
+      "sourceIds": [
+        "until"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "semana",
+      "word": "semana",
+      "en": "semana",
+      "ru": [
+        "неделя"
+      ],
+      "example": "\"¿Puedes hacerlo en una semana?\" \"Eso creo.\"",
+      "level": "A1",
+      "sourceId": "week",
+      "sourceIds": [
+        "week"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dia-de-entre-semana",
+      "word": "día de entre semana",
+      "en": "día de entre semana",
+      "ru": [
+        "будни",
+        "будний день",
+        "рабочий день"
+      ],
+      "example": "Muchas personas recomiendan hacer un día entero de ayuno cada semana.",
+      "level": "A2",
+      "sourceId": "weekday",
+      "sourceIds": [
+        "weekday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fin-de-semana",
+      "word": "fin de semana",
+      "en": "fin de semana",
+      "ru": [
+        "конец недели",
+        "суббота и воскресенье",
+        "выходные"
+      ],
+      "example": "Comemos afuera todos los fines de semana.",
+      "level": "A1",
+      "sourceId": "weekend",
+      "sourceIds": [
+        "weekend"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "semanal",
+      "word": "semanal",
+      "en": "semanal",
+      "ru": [
+        "недельный",
+        "еженедельный",
+        "еженедельно"
+      ],
+      "example": "El contrato es de cuarenta horas semanales.",
+      "level": "A2",
+      "sourceId": "weekly",
+      "sourceIds": [
+        "weekly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mientras",
+      "word": "mientras",
+      "en": "mientras",
+      "ru": [
+        "в то время как",
+        "пока"
+      ],
+      "example": "A menudo estudio mientras estoy escuchando música.",
+      "level": "A1",
+      "sourceId": "while",
+      "sourceIds": [
+        "while"
+      ],
+      "pos": "conjunction",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "invierno",
+      "word": "invierno",
+      "en": "invierno",
+      "ru": [
+        "зима"
+      ],
+      "example": "Antes de la primavera viene el invierno.",
+      "level": "A2",
+      "sourceId": "winter",
+      "sourceIds": [
+        "winter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ano",
+      "word": "año",
+      "en": "año",
+      "ru": [
+        "год",
+        "лет",
+        "година"
+      ],
+      "example": "\"¿Cuántos años tienes?\" - \"Tengo dieciséis años.\"",
+      "level": "A1",
+      "sourceId": "year",
+      "sourceIds": [
+        "year"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "anual",
+      "word": "anual",
+      "en": "anual",
+      "ru": [
+        "ежегодный",
+        "ежегодно",
+        "ежегодник"
+      ],
+      "example": "Esta mañana hemos tenido la reunión anual.",
+      "level": "A2",
+      "sourceId": "yearly",
+      "sourceIds": [
+        "yearly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ayer",
+      "word": "ayer",
+      "en": "ayer",
+      "ru": [
+        "вчера"
+      ],
+      "example": "\"¿Cuando murió?\" \"Ayer por la noche, creo.\"",
+      "level": "A1",
+      "sourceId": "yesterday",
+      "sourceIds": [
+        "yesterday"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aun",
+      "word": "aún",
+      "en": "aún",
+      "ru": [
+        "ещё",
+        "однако"
+      ],
+      "example": "A esta hora, aún se está tranquilo.",
+      "level": "A1",
+      "sourceId": "yet",
+      "sourceIds": [
+        "yet"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-cuatro-anos",
+      "word": "de cuatro años",
+      "en": "de cuatro años",
+      "ru": [
+        "четырехлетний"
+      ],
+      "example": "Cada cuatro años, es un año bisiesto.",
+      "level": "B1",
+      "sourceId": "four-year",
+      "sourceIds": [
+        "four-year"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "respiro",
+      "word": "respiro",
+      "en": "respiro",
+      "ru": [
+        "передышка"
+      ],
+      "example": "Respiro hondo para intentar calmar mi enfado.",
+      "level": "C2",
+      "sourceId": "breather",
+      "sourceIds": [
+        "breather"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lunes",
+      "word": "lunes",
+      "en": "lunes",
+      "ru": [
+        "понедельник"
+      ],
+      "example": "Aplazó la reunión de lunes a martes.",
+      "level": "B1",
+      "sourceId": "monday",
+      "sourceIds": [
+        "monday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hace",
+      "word": "hace",
+      "en": "hace",
+      "ru": [
+        "тому назад"
+      ],
+      "example": "A Tom le gusta lo que hace.",
+      "level": "B1",
+      "sourceId": "ago",
+      "sourceIds": [
+        "ago"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "martes",
+      "word": "martes",
+      "en": "martes",
+      "ru": [
+        "вторник"
+      ],
+      "example": "Aplazó la reunión de lunes a martes.",
+      "level": "B1",
+      "sourceId": "tuesday",
+      "sourceIds": [
+        "tuesday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "para-siempre",
+      "word": "para siempre",
+      "en": "para siempre",
+      "ru": [
+        "навсегда"
+      ],
+      "example": "Cecilia siempre tenía una sonrisa para todos.",
+      "level": "B1",
+      "sourceId": "forever",
+      "sourceIds": [
+        "forever"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "era",
+      "word": "era",
+      "en": "era",
+      "ru": [
+        "эра",
+        "эпоха"
+      ],
+      "example": "\"Pensé que eras japonés.\" \"No, soy mejicano.\"",
+      "level": "B1",
+      "sourceId": "era",
+      "sourceIds": [
+        "era"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "simultaneamente",
+      "word": "simultáneamente",
+      "en": "simultáneamente",
+      "ru": [
+        "одновременно"
+      ],
+      "example": "A las gemelas les diagnosticaron simultáneamente sendos oligodendrogliomas.",
+      "level": "B1",
+      "sourceId": "simultaneously",
+      "sourceIds": [
+        "simultaneously"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "repentinamente",
+      "word": "repentinamente",
+      "en": "repentinamente",
+      "ru": [
+        "внезапно"
+      ],
+      "example": "Alguien repentinamente me despertó de una sacudida.",
+      "level": "B1",
+      "sourceId": "suddenly",
+      "sourceIds": [
+        "suddenly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "octubre",
+      "word": "octubre",
+      "en": "octubre",
+      "ru": [
+        "октябрь"
+      ],
+      "example": "El doce de octubre es fiesta nacional.",
+      "level": "B1",
+      "sourceId": "october",
+      "sourceIds": [
+        "october"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hoy-en-dia",
+      "word": "hoy en día",
+      "en": "hoy en día",
+      "ru": [
+        "в наши дни",
+        "сегодня"
+      ],
+      "example": "Casi nunca hablo francés hoy en día.",
+      "level": "B1",
+      "sourceId": "nowadays",
+      "sourceIds": [
+        "nowadays"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hasta-que",
+      "word": "hasta que",
+      "en": "hasta que",
+      "ru": [
+        "до"
+      ],
+      "example": "A veces se queda despierta hasta tarde.",
+      "level": "B1",
+      "sourceId": "till",
+      "sourceIds": [
+        "till"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-vez-en-cuando",
+      "word": "de vez en cuando",
+      "en": "de vez en cuando",
+      "ru": [
+        "изредка",
+        "время от времени"
+      ],
+      "example": "Acuérdate de mí de vez en cuando.",
+      "level": "B1",
+      "sourceId": "occasionally",
+      "sourceIds": [
+        "occasionally"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "en-punto",
+      "word": "en punto",
+      "en": "en punto",
+      "ru": [
+        "часов"
+      ],
+      "example": "Algo malo estaba a punto de ocurrir.",
+      "level": "B1",
+      "sourceId": "o-clock",
+      "sourceIds": [
+        "o-clock"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "despues",
+      "word": "después",
+      "en": "después",
+      "ru": [
+        "впоследствии",
+        "потом"
+      ],
+      "example": "\"¿Harás los deberes después de cenar?\" \"Sí.\"",
+      "level": "B1",
+      "sourceId": "afterwards",
+      "sourceIds": [
+        "afterwards"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puntualidad",
+      "word": "puntualidad",
+      "en": "puntualidad",
+      "ru": [
+        "пунктуальность"
+      ],
+      "example": "El tren salió de la estación con puntualidad.",
+      "level": "B1",
+      "sourceId": "punctuality",
+      "sourceIds": [
+        "punctuality"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "algun-dia",
+      "word": "algún día",
+      "en": "algún día",
+      "ru": [
+        "когда-нибудь"
+      ],
+      "example": "Algún día comprenderás lo que quiero decir.",
+      "level": "B1",
+      "sourceId": "someday",
+      "sourceIds": [
+        "someday",
+        "sometime"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nocturno",
+      "word": "nocturno",
+      "en": "nocturno",
+      "ru": [
+        "ночной",
+        "за ночь"
+      ],
+      "example": "El vigilante nocturno tiene un perro policía.",
+      "level": "B1",
+      "sourceId": "overnight",
+      "sourceIds": [
+        "overnight"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manana",
+      "word": "mañana",
+      "en": "mañana",
+      "ru": [
+        "завтрашний день"
+      ],
+      "example": "\"Mañana será otro día\", dice el optimista.",
+      "level": "B1",
+      "sourceId": "morrow",
+      "sourceIds": [
+        "morrow"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quincena",
+      "word": "quincena",
+      "en": "quincena",
+      "ru": [
+        "две недели"
+      ],
+      "example": "Dos quincenas hacen un mes.",
+      "level": "B1",
+      "sourceId": "fortnight",
+      "sourceIds": [
+        "fortnight"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por-adelantado",
+      "word": "por adelantado",
+      "en": "por adelantado",
+      "ru": [
+        "заранее"
+      ],
+      "example": "La liebre fue adelantada por la tortuga.",
+      "level": "B1",
+      "sourceId": "beforehand",
+      "sourceIds": [
+        "beforehand"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "en-cualquier-momento",
+      "word": "en cualquier momento",
+      "en": "en cualquier momento",
+      "ru": [
+        "в любое время"
+      ],
+      "example": "El paciente puede fallecer en cualquier momento.",
+      "level": "B1",
+      "sourceId": "anytime",
+      "sourceIds": [
+        "anytime"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vitalicio",
+      "word": "vitalicio",
+      "en": "vitalicio",
+      "ru": [
+        "за все время",
+        "рекордный"
+      ],
+      "example": "El de rey es un título hereditario y vitalicio.",
+      "level": "B1",
+      "sourceId": "all-time",
+      "sourceIds": [
+        "all-time"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "domingo",
+      "word": "domingo",
+      "en": "domingo",
+      "ru": [
+        "воскресенье"
+      ],
+      "example": "A menudo los domingos voy al centro.",
+      "level": "B1",
+      "sourceId": "sunday",
+      "sourceIds": [
+        "sunday"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nocturno",
+      "word": "nocturno",
+      "en": "nocturno",
+      "ru": [
+        "поздний",
+        "ночной"
+      ],
+      "example": "El vigilante nocturno tiene un perro policía.",
+      "level": "B1",
+      "sourceId": "late-night",
+      "sourceIds": [
+        "late-night"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milenio",
+      "word": "milenio",
+      "en": "milenio",
+      "ru": [
+        "тысячелетие"
+      ],
+      "example": "Un milenio está compuesto de cien décadas.",
+      "level": "B1",
+      "sourceId": "millennium",
+      "sourceIds": [
+        "millennium"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-dos-dias",
+      "word": "de dos días",
+      "en": "de dos días",
+      "ru": [
+        "двухдневный"
+      ],
+      "example": "Calculo que lo terminarán en dos días.",
+      "level": "B1",
+      "sourceId": "two-day",
+      "sourceIds": [
+        "two-day"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-ocho-horas",
+      "word": "de ocho horas",
+      "en": "de ocho horas",
+      "ru": [
+        "восьмичасовой"
+      ],
+      "example": "Ayer estuve trabajando más de ocho horas.",
+      "level": "B1",
+      "sourceId": "eight-hour",
+      "sourceIds": [
+        "eight-hour"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "por-un-momento",
+      "word": "por un momento",
+      "en": "por un momento",
+      "ru": [
+        "на мгновение",
+        "сию минуту"
+      ],
+      "example": "Cuelgue y espere un momento, por favor.",
+      "level": "B1",
+      "sourceId": "momentarily",
+      "sourceIds": [
+        "momentarily"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "santiamen",
+      "word": "santiamén",
+      "en": "santiamén",
+      "ru": [
+        "момент",
+        "миг"
+      ],
+      "example": "Creo que todo puede acabar en un santiamén.",
+      "level": "B1",
+      "sourceId": "jiffy",
+      "sourceIds": [
+        "jiffy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dia",
+      "word": "día",
+      "en": "día",
+      "ru": [
+        "дневное время"
+      ],
+      "example": "\"Buenos días\", dijo Tom con una sonrisa.",
+      "level": "B1",
+      "sourceId": "daytime",
+      "sourceIds": [
+        "daytime"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "media-manana",
+      "word": "media mañana",
+      "en": "media mañana",
+      "ru": [
+        "середина утра"
+      ],
+      "example": "A media mañana me echo una siesta.",
+      "level": "B1",
+      "sourceId": "mid-morning",
+      "sourceIds": [
+        "mid-morning"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centenario",
+      "word": "centenario",
+      "en": "centenario",
+      "ru": [
+        "столетний юбилей"
+      ],
+      "example": "Ese puente romano cumple hoy su noveno centenario.",
+      "level": "B1",
+      "sourceId": "centennial",
+      "sourceIds": [
+        "centennial"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mientras-tanto",
+      "word": "mientras tanto",
+      "en": "mientras tanto",
+      "ru": [
+        "тем временем"
+      ],
+      "example": "Del océano, mientras tanto, emerge la Aurora.",
+      "level": "B1",
+      "sourceId": "meantime",
+      "sourceIds": [
+        "meantime"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cada-vez",
+      "word": "cada vez",
+      "en": "cada vez",
+      "ru": [
+        "каждый раз"
+      ],
+      "example": "Adela cada vez baila mejor la peonza.",
+      "level": "B1",
+      "sourceId": "every-time",
+      "sourceIds": [
+        "every-time"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prolongar",
+      "word": "prolongar",
+      "en": "prolongar",
+      "ru": [
+        "продлевать"
+      ],
+      "example": "Ella prolongó su estadía por cinco días.",
+      "level": "B1",
+      "sourceId": "prolong",
+      "sourceIds": [
+        "prolong"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vencer",
+      "word": "vencer",
+      "en": "vencer",
+      "ru": [
+        "истекать (о сроке)"
+      ],
+      "example": "Aunque Dafne no venció, al menos convenció.",
+      "level": "B1",
+      "sourceId": "expire",
+      "sourceIds": [
+        "expire"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "agenda",
+      "word": "agenda",
+      "en": "agenda",
+      "ru": [
+        "график",
+        "хронология"
+      ],
+      "example": "Esta semana mi agenda está que explota.",
+      "level": "B1",
+      "sourceId": "timeline",
+      "sourceIds": [
+        "timeline"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "expiracion",
+      "word": "expiración",
+      "en": "expiración",
+      "ru": [
+        "истечение срока"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "expiration",
+      "sourceIds": [
+        "expiration"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "diciembre",
+      "word": "diciembre",
+      "en": "diciembre",
+      "ru": [
+        "декабрь"
+      ],
+      "example": "A finales de diciembre viajaremos a Laponia.",
+      "level": "B1",
+      "sourceId": "december",
+      "sourceIds": [
+        "december"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "enero",
+      "word": "enero",
+      "en": "enero",
+      "ru": [
+        "январь"
+      ],
+      "example": "El primer mes del año es enero.",
+      "level": "B1",
+      "sourceId": "january",
+      "sourceIds": [
+        "january"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "eternidad",
+      "word": "eternidad",
+      "en": "eternidad",
+      "ru": [
+        "вечность"
+      ],
+      "example": "Eso toma una eternidad más tres días.",
+      "level": "B1",
+      "sourceId": "eternity",
+      "sourceIds": [
+        "eternity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vida",
+      "word": "vida",
+      "en": "vida",
+      "ru": [
+        "жизнь",
+        "весь срок службы"
+      ],
+      "example": "A ustedes, jamás les sonrió la vida.",
+      "level": "B1",
+      "sourceId": "lifetime",
+      "sourceIds": [
+        "lifetime"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vispera",
+      "word": "víspera",
+      "en": "víspera",
+      "ru": [
+        "канун"
+      ],
+      "example": "Nochevieja no es la víspera de Navidad.",
+      "level": "B1",
+      "sourceId": "eve",
+      "sourceIds": [
+        "eve"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "en-adelante",
+      "word": "en adelante",
+      "en": "en adelante",
+      "ru": [
+        "с этого времени"
+      ],
+      "example": "\"¿Le importa si fumo?\" \"En absoluto. Adelante.\"",
+      "level": "B1",
+      "sourceId": "henceforth",
+      "sourceIds": [
+        "henceforth"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nocturno",
+      "word": "nocturno",
+      "en": "nocturno",
+      "ru": [
+        "ночной",
+        "работающий всю ночь"
+      ],
+      "example": "El vigilante nocturno tiene un perro policía.",
+      "level": "B1",
+      "sourceId": "all-night",
+      "sourceIds": [
+        "all-night"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dispendioso",
+      "word": "dispendioso",
+      "en": "dispendioso",
+      "ru": [
+        "отнимающий много времени"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "time-consuming",
+      "sourceIds": [
+        "time-consuming"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "antes",
+      "word": "antes",
+      "en": "antes",
+      "ru": [
+        "до",
+        "прежде чем"
+      ],
+      "example": "\"¿Cuándo llegó Tom?\" \"Justo antes que Mary.\"",
+      "level": "B1",
+      "sourceId": "ere",
+      "sourceIds": [
+        "ere"
+      ],
+      "pos": "preposition",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prematuro",
+      "word": "prematuro",
+      "en": "prematuro",
+      "ru": [
+        "преждевременный"
+      ],
+      "example": "Las utopías a menudo solo son verdades prematuras.",
+      "level": "B1",
+      "sourceId": "premature",
+      "sourceIds": [
+        "premature"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuenta-atras",
+      "word": "cuenta atrás",
+      "en": "cuenta atrás",
+      "ru": [
+        "обратный отсчет"
+      ],
+      "example": "Inicia la cuenta atrás y corre como loco.",
+      "level": "B1",
+      "sourceId": "countdown",
+      "sourceIds": [
+        "countdown"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "antano",
+      "word": "antaño",
+      "en": "antaño",
+      "ru": [
+        "прошлые годы",
+        "былые времена"
+      ],
+      "example": "Antaño estaba muy entusiasmado con el tema.",
+      "level": "B1",
+      "sourceId": "yesteryear",
+      "sourceIds": [
+        "yesteryear"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milisegundo",
+      "word": "milisegundo",
+      "en": "milisegundo",
+      "ru": [
+        "миллисекунда"
+      ],
+      "example": "Todo esto ocurre en milisegundos.",
+      "level": "B1",
+      "sourceId": "millisecond",
+      "sourceIds": [
+        "millisecond"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "diferir",
+      "word": "diferir",
+      "en": "diferir",
+      "ru": [
+        "откладывать",
+        "отсрочивать"
+      ],
+      "example": "A partir de aquí nuestras opiniones difieren.",
+      "level": "B1",
+      "sourceId": "defer",
+      "sourceIds": [
+        "defer"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dia",
+      "word": "día",
+      "en": "día",
+      "ru": [
+        "дни"
+      ],
+      "example": "\"Buenos días\", dijo Tom con una sonrisa.",
+      "level": "A1",
+      "sourceId": "days",
+      "sourceIds": [
+        "days"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mayor",
+      "word": "mayor",
+      "en": "mayor",
+      "ru": [
+        "самый старший",
+        "старший",
+        "старейший"
+      ],
+      "example": "Ahmedabad es la mayor ciudad de Gujarat.",
+      "level": "B2",
+      "sourceId": "oldest",
+      "sourceIds": [
+        "oldest"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "plurianual",
+      "word": "plurianual",
+      "en": "plurianual",
+      "ru": [
+        "многолетний"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "multi-year",
+      "sourceIds": [
+        "multi-year"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "programable",
+      "word": "programable",
+      "en": "programable",
+      "ru": [
+        "планируемый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "schedulable",
+      "sourceIds": [
+        "schedulable"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "huso-horario",
+      "word": "huso horario",
+      "en": "huso horario",
+      "ru": [
+        "часовой пояс"
+      ],
+      "example": "En el mundo hay 24 husos horarios.",
+      "level": "B1",
+      "sourceId": "timezone",
+      "sourceIds": [
+        "timezone"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "puesta-de-sol",
+      "word": "puesta de sol",
+      "en": "puesta de sol",
+      "ru": [
+        "закат"
+      ],
+      "example": "Me gusta ver la puesta de sol.",
+      "level": "B1",
+      "sourceId": "sundown",
+      "sourceIds": [
+        "sundown"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ultimamente",
+      "word": "últimamente",
+      "en": "últimamente",
+      "ru": [
+        "в последнее время"
+      ],
+      "example": "Ella ha hecho un gran progreso últimamente.",
+      "level": "B1",
+      "sourceId": "lately",
+      "sourceIds": [
+        "lately"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tac",
+      "word": "tac",
+      "en": "tac",
+      "ru": [
+        "тик-так"
+      ],
+      "example": "El reloj está haciendo tic tac.",
+      "level": "B1",
+      "sourceId": "tock",
+      "sourceIds": [
+        "tock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hora-de-cenar",
+      "word": "hora de cenar",
+      "en": "hora de cenar",
+      "ru": [
+        "время ужина"
+      ],
+      "example": "¿A qué hora se sirve la cena?",
+      "level": "B1",
+      "sourceId": "dinnertime",
+      "sourceIds": [
+        "dinnertime"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "despues",
+      "word": "después",
+      "en": "después",
+      "ru": [
+        "впоследствии",
+        "позже"
+      ],
+      "example": "\"¿Harás los deberes después de cenar?\" \"Sí.\"",
+      "level": "B1",
+      "sourceId": "afterward",
+      "sourceIds": [
+        "afterward"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

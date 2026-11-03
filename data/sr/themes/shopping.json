@@ -1,0 +1,2763 @@
+{
+  "id": "shopping",
+  "title": "Покупки",
+  "paid": true,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "reklamirati",
+      "word": "reklamirati",
+      "en": "reklamirati",
+      "ru": [
+        "извещать",
+        "информировать",
+        "объявлять"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "advertise",
+      "sourceIds": [
+        "advertise"
+      ],
+      "pos": "v",
+      "wordCyrillic": "рекламирати"
+    },
+    {
+      "id": "reklama",
+      "word": "reklama",
+      "en": "reklama",
+      "ru": [
+        "реклама",
+        "анонс",
+        "заявление"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "advertisement",
+      "sourceIds": [
+        "advertisement"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "реклама"
+    },
+    {
+      "id": "oglasivac",
+      "word": "oglašivač",
+      "en": "oglašivač",
+      "ru": [
+        "рекламодатель",
+        "рекламодательница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "advertiser",
+      "sourceIds": [
+        "advertiser"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "оглашивач"
+    },
+    {
+      "id": "reklama",
+      "word": "reklama",
+      "en": "reklama",
+      "ru": [
+        "реклама"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "advertising",
+      "sourceIds": [
+        "advertising"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "реклама"
+    },
+    {
+      "id": "dostupan",
+      "word": "dostupan",
+      "en": "dostupan",
+      "ru": [
+        "доступный"
+      ],
+      "example": "Da li su sedišta dostupna?",
+      "level": "B1",
+      "sourceId": "affordable",
+      "sourceIds": [
+        "affordable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "доступан"
+    },
+    {
+      "id": "prolaz",
+      "word": "prolaz",
+      "en": "prolaz",
+      "ru": [
+        "придел",
+        "проход"
+      ],
+      "example": "Niko ko me napada, ne prolazi nekažnjen.",
+      "level": "C2",
+      "sourceId": "aisle",
+      "sourceIds": [
+        "aisle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пролаз"
+    },
+    {
+      "id": "aukcija",
+      "word": "aukcija",
+      "en": "aukcija",
+      "ru": [
+        "аукцион",
+        "продавать с аукциона",
+        "продавать с молотка"
+      ],
+      "example": "Nabavio sam sliku na aukciji.",
+      "level": "A2",
+      "sourceId": "auction",
+      "sourceIds": [
+        "auction"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "аукција"
+    },
+    {
+      "id": "aukcionar",
+      "word": "aukcionar",
+      "en": "aukcionar",
+      "ru": [
+        "аукционист",
+        "аукционистка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "auctioneer",
+      "sourceIds": [
+        "auctioneer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "аукционар"
+    },
+    {
+      "id": "torba",
+      "word": "torba",
+      "en": "torba",
+      "ru": [
+        "сумка",
+        "пакет",
+        "мешок"
+      ],
+      "example": "Neko mi je ukrao nešto iz torbe.",
+      "level": "A2",
+      "sourceId": "bag",
+      "sourceIds": [
+        "bag"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "торба"
+    },
+    {
+      "id": "povoljna-kupovina",
+      "word": "povoljna kupovina",
+      "en": "povoljna kupovina",
+      "ru": [
+        "товар, купленный по дешёвке",
+        "сделка",
+        "заключать сделку"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bargain",
+      "sourceIds": [
+        "bargain"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "повољна куповина"
+    },
+    {
+      "id": "korpa",
+      "word": "korpa",
+      "en": "korpa",
+      "ru": [
+        "корзина",
+        "корзинка",
+        "кошница"
+      ],
+      "example": "Tom je ostavio prljav veš u korpu.",
+      "level": "A2",
+      "sourceId": "basket",
+      "sourceIds": [
+        "basket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "корпа"
+    },
+    {
+      "id": "ponuda",
+      "word": "ponuda",
+      "en": "ponuda",
+      "ru": [
+        "заявка",
+        "предлагаемая цена",
+        "ставка"
+      ],
+      "example": "Da li je Tom prihvatio našu ponudu?",
+      "level": "A2",
+      "sourceId": "bid",
+      "sourceIds": [
+        "bid"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "понуда"
+    },
+    {
+      "id": "marka",
+      "word": "marka",
+      "en": "marka",
+      "ru": [
+        "клеймо",
+        "тавро",
+        "знак"
+      ],
+      "example": "Imam pet puta više markica nego on.",
+      "level": "A2",
+      "sourceId": "brand",
+      "sourceIds": [
+        "brand"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "марка"
+    },
+    {
+      "id": "kupovati",
+      "word": "kupovati",
+      "en": "kupovati",
+      "ru": [
+        "покупать"
+      ],
+      "example": "Dala sam Tomu da kupuje šta hoće.",
+      "level": "A1",
+      "sourceId": "buy",
+      "sourceIds": [
+        "buy"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "куповати"
+    },
+    {
+      "id": "kupac",
+      "word": "kupac",
+      "en": "kupac",
+      "ru": [
+        "покупатель",
+        "покупательница"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "buyer",
+      "sourceIds": [
+        "buyer",
+        "purchaser"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "купац"
+    },
+    {
+      "id": "karta",
+      "word": "karta",
+      "en": "karta",
+      "ru": [
+        "карта",
+        "козырь",
+        "карточка"
+      ],
+      "example": "Bez karte, on bi se zasigurno izgubio.",
+      "level": "A1",
+      "sourceId": "card",
+      "sourceIds": [
+        "card"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "карта"
+    },
+    {
+      "id": "kolica",
+      "word": "kolica",
+      "en": "kolica",
+      "ru": [
+        "воз",
+        "арба",
+        "повозка"
+      ],
+      "example": "Da li je potrebna dozvola za korišćenje električnih invalidskih kolica?",
+      "level": "A1",
+      "sourceId": "cart",
+      "sourceIds": [
+        "cart"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "колица"
+    },
+    {
+      "id": "gotovina",
+      "word": "gotovina",
+      "en": "gotovina",
+      "ru": [
+        "деньги",
+        "нал",
+        "наличные деньги"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "cash",
+      "sourceIds": [
+        "cash"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "готовина"
+    },
+    {
+      "id": "blagajnik",
+      "word": "blagajnik",
+      "en": "blagajnik",
+      "ru": [
+        "кассир",
+        "кассирша"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "cashier",
+      "sourceIds": [
+        "cashier"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "благајник"
+    },
+    {
+      "id": "katalog",
+      "word": "katalog",
+      "en": "katalog",
+      "ru": [
+        "каталог",
+        "перечень",
+        "список"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "catalogue",
+      "sourceIds": [
+        "catalogue"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "каталог"
+    },
+    {
+      "id": "kusur",
+      "word": "kusur",
+      "en": "kusur",
+      "ru": [
+        "сдача"
+      ],
+      "example": "Tom je prebrojao kusur.",
+      "level": "A2",
+      "sourceId": "change",
+      "sourceIds": [
+        "change"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "кусур"
+    },
+    {
+      "id": "svlacionica",
+      "word": "svlačionica",
+      "en": "svlačionica",
+      "ru": [
+        "примерочная",
+        "раздевалка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "changing-room",
+      "sourceIds": [
+        "changing-room"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "свлачионица"
+    },
+    {
+      "id": "naplata",
+      "word": "naplata",
+      "en": "naplata",
+      "ru": [
+        "цена",
+        "плата",
+        "такса"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "charge",
+      "sourceIds": [
+        "charge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "наплата"
+    },
+    {
+      "id": "punjac",
+      "word": "punjač",
+      "en": "punjač",
+      "ru": [
+        "зарядка",
+        "зарядное устройство",
+        "заряжалка"
+      ],
+      "example": "Da li je ovo tvoj punjač?",
+      "level": "B2",
+      "sourceId": "charger",
+      "sourceIds": [
+        "charger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пуњач"
+    },
+    {
+      "id": "jeftin",
+      "word": "jeftin",
+      "en": "jeftin",
+      "ru": [
+        "недорогой",
+        "некачественный",
+        "низкокачественный"
+      ],
+      "example": "Ja sam izuzetno jeftino kupio moje knjige.",
+      "level": "A2",
+      "sourceId": "cheap",
+      "sourceIds": [
+        "cheap"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "јефтин"
+    },
+    {
+      "id": "jeftiniji",
+      "word": "jeftiniji",
+      "en": "jeftiniji",
+      "ru": [
+        "более дешевый"
+      ],
+      "example": "Ovaj sat je jeftiniji od tog.",
+      "level": "B2",
+      "sourceId": "cheaper",
+      "sourceIds": [
+        "cheaper"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "јефтинији"
+    },
+    {
+      "id": "jeftino",
+      "word": "jeftino",
+      "en": "jeftino",
+      "ru": [
+        "дёшево"
+      ],
+      "example": "Ja sam izuzetno jeftino kupio moje knjige.",
+      "level": "C2",
+      "sourceId": "cheaply",
+      "sourceIds": [
+        "cheaply"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "јефтино"
+    },
+    {
+      "id": "kasa",
+      "word": "kasa",
+      "en": "kasa",
+      "ru": [
+        "касса"
+      ],
+      "example": "Ona je otišla na kasu i platila.",
+      "level": "B1",
+      "sourceId": "checkout",
+      "sourceIds": [
+        "checkout",
+        "checkstand"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "каса"
+    },
+    {
+      "id": "klijent",
+      "word": "klijent",
+      "en": "klijent",
+      "ru": [
+        "клиент",
+        "заказчик",
+        "заказчица"
+      ],
+      "example": "Imam klijente sa kojima moram da se vidim.",
+      "level": "A2",
+      "sourceId": "client",
+      "sourceIds": [
+        "client",
+        "customer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "клијент"
+    },
+    {
+      "id": "kaput",
+      "word": "kaput",
+      "en": "kaput",
+      "ru": [
+        "пальто"
+      ],
+      "example": "Tom je pomogao Mariji da obuče kaput.",
+      "level": "A1",
+      "sourceId": "coat",
+      "sourceIds": [
+        "coat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "капут"
+    },
+    {
+      "id": "trgovina",
+      "word": "trgovina",
+      "en": "trgovina",
+      "ru": [
+        "торговля",
+        "коммерция",
+        "сношение"
+      ],
+      "example": "Trgovina omogućava državama da se razvijaju.",
+      "level": "A2",
+      "sourceId": "commerce",
+      "sourceIds": [
+        "commerce"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трговина"
+    },
+    {
+      "id": "komercijalan",
+      "word": "komercijalan",
+      "en": "komercijalan",
+      "ru": [
+        "коммерческий",
+        "торговый",
+        "реклама"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "commercial",
+      "sourceIds": [
+        "commercial"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "комерцијалан"
+    },
+    {
+      "id": "komercijalizacija",
+      "word": "komercijalizacija",
+      "en": "komercijalizacija",
+      "ru": [
+        "коммерциализация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "commercialization",
+      "sourceIds": [
+        "commercialization"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "комерцијализација"
+    },
+    {
+      "id": "komercijalizovati",
+      "word": "komercijalizovati",
+      "en": "komercijalizovati",
+      "ru": [
+        "коммерциализировать"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "commercialize",
+      "sourceIds": [
+        "commercialize"
+      ],
+      "pos": "v",
+      "wordCyrillic": "комерцијализовати"
+    },
+    {
+      "id": "komercijalno",
+      "word": "komercijalno",
+      "en": "komercijalno",
+      "ru": [
+        "коммерчески"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "commercially",
+      "sourceIds": [
+        "commercially"
+      ],
+      "pos": "adv",
+      "wordCyrillic": "комерцијално"
+    },
+    {
+      "id": "potrosac",
+      "word": "potrošač",
+      "en": "potrošač",
+      "ru": [
+        "потребитель",
+        "потребительница"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "consumer",
+      "sourceIds": [
+        "consumer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "потрошач"
+    },
+    {
+      "id": "konzumerizam",
+      "word": "konzumerizam",
+      "en": "konzumerizam",
+      "ru": [
+        "потребительство"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "consumerism",
+      "sourceIds": [
+        "consumerism"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "конзумеризам"
+    },
+    {
+      "id": "trosak",
+      "word": "trošak",
+      "en": "trošak",
+      "ru": [
+        "расходы",
+        "стоимость",
+        "затраты"
+      ],
+      "example": "Cena zavisi od troškova i pitanja.",
+      "level": "A1",
+      "sourceId": "cost",
+      "sourceIds": [
+        "cost"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трошак"
+    },
+    {
+      "id": "skup",
+      "word": "skup",
+      "en": "skup",
+      "ru": [
+        "дорогой",
+        "дорогостоящий",
+        "ценный"
+      ],
+      "example": "Da li je grejanje na struju skupo?",
+      "level": "C2",
+      "sourceId": "costly",
+      "sourceIds": [
+        "costly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "скуп"
+    },
+    {
+      "id": "tezga",
+      "word": "tezga",
+      "en": "tezga",
+      "ru": [
+        "прилавок",
+        "стойка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "тезга"
+    },
+    {
+      "id": "lazan",
+      "word": "lažan",
+      "en": "lažan",
+      "ru": [
+        "контрафактный",
+        "поддельный",
+        "фальшивый"
+      ],
+      "example": "Kreditna kartica daje lažan osećaj ekonomske sigurnosti.",
+      "level": "C2",
+      "sourceId": "counterfeit",
+      "sourceIds": [
+        "counterfeit"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "лажан"
+    },
+    {
+      "id": "falsifikator",
+      "word": "falsifikator",
+      "en": "falsifikator",
+      "ru": [
+        "фальшивомонетчик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "counterfeiter",
+      "sourceIds": [
+        "counterfeiter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "фалсификатор"
+    },
+    {
+      "id": "kontrolni-kupon",
+      "word": "kontrolni kupon",
+      "en": "kontrolni kupon",
+      "ru": [
+        "корешок"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "counterfoil",
+      "sourceIds": [
+        "counterfoil"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "контролни купон"
+    },
+    {
+      "id": "kontraponuda",
+      "word": "kontraponuda",
+      "en": "kontraponuda",
+      "ru": [
+        "встречное предложение",
+        "контрпредложение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "counteroffer",
+      "sourceIds": [
+        "counteroffer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "контрапонуда"
+    },
+    {
+      "id": "radna-ploca",
+      "word": "radna ploča",
+      "en": "radna ploča",
+      "ru": [
+        "столешница"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "countertop",
+      "sourceIds": [
+        "countertop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "радна плоча"
+    },
+    {
+      "id": "kupon",
+      "word": "kupon",
+      "en": "kupon",
+      "ru": [
+        "ваучер",
+        "купон",
+        "талон"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "coupon",
+      "sourceIds": [
+        "coupon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "купон"
+    },
+    {
+      "id": "trgovac",
+      "word": "trgovac",
+      "en": "trgovac",
+      "ru": [
+        "торговец",
+        "дилер",
+        "маклер"
+      ],
+      "example": "Moj otac je po zanimanju trgovac vunom.",
+      "level": "B1",
+      "sourceId": "dealer",
+      "sourceIds": [
+        "dealer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трговац"
+    },
+    {
+      "id": "dostava",
+      "word": "dostava",
+      "en": "dostava",
+      "ru": [
+        "доставка",
+        "завоз",
+        "поставка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "delivery",
+      "sourceIds": [
+        "delivery"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "достава"
+    },
+    {
+      "id": "dostavljac",
+      "word": "dostavljač",
+      "en": "dostavljač",
+      "ru": [
+        "доставщик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "deliveryman",
+      "sourceIds": [
+        "deliveryman"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "достављач"
+    },
+    {
+      "id": "popust",
+      "word": "popust",
+      "en": "popust",
+      "ru": [
+        "дисконт",
+        "скидка"
+      ],
+      "example": "Kupio sam automobil sa 10% popusta.",
+      "level": "A2",
+      "sourceId": "discount",
+      "sourceIds": [
+        "discount"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "попуст"
+    },
+    {
+      "id": "razmena",
+      "word": "razmena",
+      "en": "razmena",
+      "ru": [
+        "обмен",
+        "биржа",
+        "обмениваться"
+      ],
+      "example": "Da li si ti student na razmeni?",
+      "level": "A2",
+      "sourceId": "exchange",
+      "sourceIds": [
+        "exchange"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "размена"
+    },
+    {
+      "id": "skup",
+      "word": "skup",
+      "en": "skup",
+      "ru": [
+        "дорогой"
+      ],
+      "example": "Da li je grejanje na struju skupo?",
+      "level": "B1",
+      "sourceId": "expensive",
+      "sourceIds": [
+        "expensive"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "скуп"
+    },
+    {
+      "id": "skupo",
+      "word": "skupo",
+      "en": "skupo",
+      "ru": [
+        "дорого"
+      ],
+      "example": "Da li je grejanje na struju skupo?",
+      "level": "C2",
+      "sourceId": "expensively",
+      "sourceIds": [
+        "expensively"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "скупо"
+    },
+    {
+      "id": "naknada",
+      "word": "naknada",
+      "en": "naknada",
+      "ru": [
+        "сбор",
+        "взнос",
+        "вознаграждение"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "fee",
+      "sourceIds": [
+        "fee"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "накнада"
+    },
+    {
+      "id": "pristajati",
+      "word": "pristajati",
+      "en": "pristajati",
+      "ru": [
+        "сидеть по фигуре",
+        "подходить по размеру"
+      ],
+      "example": "Ta haljina joj savršeno pristaje.",
+      "level": "A2",
+      "sourceId": "fit",
+      "sourceIds": [
+        "fit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пристајати"
+    },
+    {
+      "id": "krojac",
+      "word": "krojač",
+      "en": "krojač",
+      "ru": [
+        "примерщик",
+        "портной"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fitter",
+      "sourceIds": [
+        "fitter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "кројач"
+    },
+    {
+      "id": "proba",
+      "word": "proba",
+      "en": "proba",
+      "ru": [
+        "примерка",
+        "подгонка"
+      ],
+      "example": "Generalna proba počinje sutra u 13.00 sati.",
+      "level": "C1",
+      "sourceId": "fitting",
+      "sourceIds": [
+        "fitting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "проба"
+    },
+    {
+      "id": "kabina-za-probu",
+      "word": "kabina za probu",
+      "en": "kabina za probu",
+      "ru": [
+        "примерочная комната"
+      ],
+      "example": "Voleo bih da probam ovo. Gde je kabina?",
+      "level": "C1",
+      "sourceId": "fitting-room",
+      "sourceIds": [
+        "fitting-room"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "кабина за пробу"
+    },
+    {
+      "id": "slobodan",
+      "word": "slobodan",
+      "en": "slobodan",
+      "ru": [
+        "свободный",
+        "вольный",
+        "бесплатно"
+      ],
+      "example": "Da li si slobodan u Petak poslepodne?",
+      "level": "A1",
+      "sourceId": "free",
+      "sourceIds": [
+        "free"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "слободан"
+    },
+    {
+      "id": "dar",
+      "word": "dar",
+      "en": "dar",
+      "ru": [
+        "дар",
+        "гостинец",
+        "подарок"
+      ],
+      "example": "O, vidi, kakvi prekrasni darovi! Kakvo veselje!",
+      "level": "A1",
+      "sourceId": "gift",
+      "sourceIds": [
+        "gift"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "дар"
+    },
+    {
+      "id": "roba",
+      "word": "roba",
+      "en": "roba",
+      "ru": [
+        "благо",
+        "добро",
+        "продукт"
+      ],
+      "example": "Svoju robu kupujem obično u robnoj kući.",
+      "level": "A2",
+      "sourceId": "goods",
+      "sourceIds": [
+        "goods"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "роба"
+    },
+    {
+      "id": "prodavnica-prehrambenih-proizvoda",
+      "word": "prodavnica prehrambenih proizvoda",
+      "en": "prodavnica prehrambenih proizvoda",
+      "ru": [
+        "продуктовый магазин"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "grocery",
+      "sourceIds": [
+        "grocery",
+        "bodega"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "продавница прехрамбених производа"
+    },
+    {
+      "id": "garancija",
+      "word": "garancija",
+      "en": "garancija",
+      "ru": [
+        "гарантия",
+        "порука",
+        "поручительство"
+      ],
+      "example": "Poštenje nije garancija uspeha.",
+      "level": "B1",
+      "sourceId": "guarantee",
+      "sourceIds": [
+        "guarantee"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "гаранција"
+    },
+    {
+      "id": "inventar",
+      "word": "inventar",
+      "en": "inventar",
+      "ru": [
+        "запас",
+        "инвентарь",
+        "опись"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "inventory",
+      "sourceIds": [
+        "inventory"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "инвентар"
+    },
+    {
+      "id": "stvar",
+      "word": "stvar",
+      "en": "stvar",
+      "ru": [
+        "вещь",
+        "предмет",
+        "штука"
+      ],
+      "example": "Da li će to skoro rešiti stvar?",
+      "level": "A1",
+      "sourceId": "item",
+      "sourceIds": [
+        "item"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ствар"
+    },
+    {
+      "id": "postava",
+      "word": "postava",
+      "en": "postava",
+      "ru": [
+        "подкладка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "lining",
+      "sourceIds": [
+        "lining"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "постава"
+    },
+    {
+      "id": "luksuz",
+      "word": "luksuz",
+      "en": "luksuz",
+      "ru": [
+        "люкс",
+        "роскошь",
+        "предмет роскоши"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "luxury",
+      "sourceIds": [
+        "luxury"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "луксуз"
+    },
+    {
+      "id": "trzni-centar",
+      "word": "tržni centar",
+      "en": "tržni centar",
+      "ru": [
+        "молл",
+        "торговый центр"
+      ],
+      "example": "Ima li autobusa koji idu do tržnog centra?",
+      "level": "B2",
+      "sourceId": "mall",
+      "sourceIds": [
+        "mall"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "тржни центар"
+    },
+    {
+      "id": "trziste",
+      "word": "tržište",
+      "en": "tržište",
+      "ru": [
+        "рынок",
+        "рыночный"
+      ],
+      "example": "Rusko tržište je veoma važno za nas.",
+      "level": "A1",
+      "sourceId": "market",
+      "sourceIds": [
+        "market"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "тржиште"
+    },
+    {
+      "id": "roba",
+      "word": "roba",
+      "en": "roba",
+      "ru": [
+        "товар"
+      ],
+      "example": "Svoju robu kupujem obično u robnoj kući.",
+      "level": "B1",
+      "sourceId": "merchandise",
+      "sourceIds": [
+        "merchandise",
+        "wares"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "роба"
+    },
+    {
+      "id": "trgovac",
+      "word": "trgovac",
+      "en": "trgovac",
+      "ru": [
+        "купец",
+        "торговец"
+      ],
+      "example": "Moj otac je po zanimanju trgovac vunom.",
+      "level": "B1",
+      "sourceId": "merchant",
+      "sourceIds": [
+        "merchant"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трговац"
+    },
+    {
+      "id": "ponuditi",
+      "word": "ponuditi",
+      "en": "ponuditi",
+      "ru": [
+        "предлагать"
+      ],
+      "example": "Možda će se Tom ponuditi da pomogne.",
+      "level": "A1",
+      "sourceId": "offer",
+      "sourceIds": [
+        "offer"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "понудити"
+    },
+    {
+      "id": "ponuda",
+      "word": "ponuda",
+      "en": "ponuda",
+      "ru": [
+        "предложение"
+      ],
+      "example": "Da li je Tom prihvatio našu ponudu?",
+      "level": "B1",
+      "sourceId": "offering",
+      "sourceIds": [
+        "offering"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "понуда"
+    },
+    {
+      "id": "narudzbina",
+      "word": "narudžbina",
+      "en": "narudžbina",
+      "ru": [
+        "заказ",
+        "заказывать"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "order",
+      "sourceIds": [
+        "order"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "наруџбина"
+    },
+    {
+      "id": "odusak",
+      "word": "odušak",
+      "en": "odušak",
+      "ru": [
+        "выход",
+        "отдушина",
+        "сток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "outlet",
+      "sourceIds": [
+        "outlet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "одушак"
+    },
+    {
+      "id": "paket",
+      "word": "paket",
+      "en": "paket",
+      "ru": [
+        "пачка",
+        "пакет",
+        "связка"
+      ],
+      "example": "Ovo je paket na koji sam čekao.",
+      "level": "A2",
+      "sourceId": "pack",
+      "sourceIds": [
+        "pack"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пакет"
+    },
+    {
+      "id": "paket",
+      "word": "paket",
+      "en": "paket",
+      "ru": [
+        "пакет",
+        "посылка",
+        "свёрток"
+      ],
+      "example": "Ovo je paket na koji sam čekao.",
+      "level": "A2",
+      "sourceId": "package",
+      "sourceIds": [
+        "package"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пакет"
+    },
+    {
+      "id": "pakovanje",
+      "word": "pakovanje",
+      "en": "pakovanje",
+      "ru": [
+        "пакетирование",
+        "упаковка"
+      ],
+      "example": "Prodajete li pakovanje od sedam komada?",
+      "level": "B1",
+      "sourceId": "packaging",
+      "sourceIds": [
+        "packaging"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "паковање"
+    },
+    {
+      "id": "krcat",
+      "word": "krcat",
+      "en": "krcat",
+      "ru": [
+        "забитый",
+        "заполненный"
+      ],
+      "example": "Zoološki vrt će sutra verovatno biti krcat.",
+      "level": "B2",
+      "sourceId": "packed",
+      "sourceIds": [
+        "packed"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "крцат"
+    },
+    {
+      "id": "pakovac",
+      "word": "pakovač",
+      "en": "pakovač",
+      "ru": [
+        "упаковщик",
+        "упаковщица"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "packer",
+      "sourceIds": [
+        "packer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "паковач"
+    },
+    {
+      "id": "platiti",
+      "word": "platiti",
+      "en": "platiti",
+      "ru": [
+        "платить"
+      ],
+      "example": "Da li smem da ti platim piće?",
+      "level": "A1",
+      "sourceId": "pay",
+      "sourceIds": [
+        "pay"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "платити"
+    },
+    {
+      "id": "placanje",
+      "word": "plaćanje",
+      "en": "plaćanje",
+      "ru": [
+        "платёж",
+        "оплата",
+        "плата"
+      ],
+      "example": "Boji se da se uplete u plaćanje velikih svoti.",
+      "level": "A1",
+      "sourceId": "payment",
+      "sourceIds": [
+        "payment"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "плаћање"
+    },
+    {
+      "id": "premijum",
+      "word": "premijum",
+      "en": "premijum",
+      "ru": [
+        "премиальный",
+        "премиум класса",
+        "бонус"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "premium",
+      "sourceIds": [
+        "premium"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "премијум"
+    },
+    {
+      "id": "prezentizam",
+      "word": "prezentizam",
+      "en": "prezentizam",
+      "ru": [
+        "презентизм"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "presentism",
+      "sourceIds": [
+        "presentism"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "презентизам"
+    },
+    {
+      "id": "cena",
+      "word": "cena",
+      "en": "cena",
+      "ru": [
+        "цена",
+        "стоимость",
+        "оценивать"
+      ],
+      "example": "Da li je doručak uračunat u cenu?",
+      "level": "A1",
+      "sourceId": "price",
+      "sourceIds": [
+        "price"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "цена"
+    },
+    {
+      "id": "proizvod",
+      "word": "proizvod",
+      "en": "proizvod",
+      "ru": [
+        "выработка",
+        "продукция",
+        "продукт"
+      ],
+      "example": "Gudron je završni proizvod destilacije organskih materijala.",
+      "level": "A1",
+      "sourceId": "product",
+      "sourceIds": [
+        "product"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "производ"
+    },
+    {
+      "id": "proizvodnja",
+      "word": "proizvodnja",
+      "en": "proizvodnja",
+      "ru": [
+        "производство",
+        "выработка",
+        "добыча"
+      ],
+      "example": "Konusni šešir povezan je sa istorijom proizvodnje pirinča u Vijetnamu.",
+      "level": "A2",
+      "sourceId": "production",
+      "sourceIds": [
+        "production"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "производња"
+    },
+    {
+      "id": "produktivan",
+      "word": "produktivan",
+      "en": "produktivan",
+      "ru": [
+        "продуктивный",
+        "производительный",
+        "конструктивный"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "productive",
+      "sourceIds": [
+        "productive"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "продуктиван"
+    },
+    {
+      "id": "produktivnost",
+      "word": "produktivnost",
+      "en": "produktivnost",
+      "ru": [
+        "продуктивность",
+        "производительность"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "productivity",
+      "sourceIds": [
+        "productivity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "продуктивност"
+    },
+    {
+      "id": "produktizacija",
+      "word": "produktizacija",
+      "en": "produktizacija",
+      "ru": [
+        "продуктизация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "productization",
+      "sourceIds": [
+        "productization"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "продуктизација"
+    },
+    {
+      "id": "promocija",
+      "word": "promocija",
+      "en": "promocija",
+      "ru": [
+        "промо"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "promo",
+      "sourceIds": [
+        "promo"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "промоција"
+    },
+    {
+      "id": "promocija",
+      "word": "promocija",
+      "en": "promocija",
+      "ru": [
+        "повышение",
+        "продвижение",
+        "промоушен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "promotion",
+      "sourceIds": [
+        "promotion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "промоција"
+    },
+    {
+      "id": "kupovina",
+      "word": "kupovina",
+      "en": "kupovina",
+      "ru": [
+        "покупка",
+        "купля",
+        "купля-продажа"
+      ],
+      "example": "Da li Tom često ide u kupovinu?",
+      "level": "A2",
+      "sourceId": "purchase",
+      "sourceIds": [
+        "purchase"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "куповина"
+    },
+    {
+      "id": "nabavka",
+      "word": "nabavka",
+      "en": "nabavka",
+      "ru": [
+        "покупка",
+        "приобретение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "purchasing",
+      "sourceIds": [
+        "purchasing"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "набавка"
+    },
+    {
+      "id": "red",
+      "word": "red",
+      "en": "red",
+      "ru": [
+        "очередь",
+        "стек",
+        "становиться в очередь"
+      ],
+      "example": "Je li u redu da zatvorim vrata?",
+      "level": "C1",
+      "sourceId": "queue",
+      "sourceIds": [
+        "queue"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "ред"
+    },
+    {
+      "id": "priznanica",
+      "word": "priznanica",
+      "en": "priznanica",
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "receipt",
+      "sourceIds": [
+        "receipt"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "признаница"
+    },
+    {
+      "id": "povracaj",
+      "word": "povraćaj",
+      "en": "povraćaj",
+      "ru": [
+        "возврат",
+        "получение вновь",
+        "получение обратно"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "recovery--shopping",
+      "sourceIds": [
+        "recovery--shopping"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "повраћај"
+    },
+    {
+      "id": "povracaj-novca",
+      "word": "povraćaj novca",
+      "en": "povraćaj novca",
+      "ru": [
+        "возврат",
+        "возвращённая сумма",
+        "возмещение"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "refund",
+      "sourceIds": [
+        "refund"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "повраћај новца"
+    },
+    {
+      "id": "maloprodajni",
+      "word": "maloprodajni",
+      "en": "maloprodajni",
+      "ru": [
+        "розничный",
+        "в розницу",
+        "розничная продажа"
+      ],
+      "example": "Koja je maloprodajna cena jaja?",
+      "level": "A2",
+      "sourceId": "retail",
+      "sourceIds": [
+        "retail"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "малопродајни"
+    },
+    {
+      "id": "trgovac-na-malo",
+      "word": "trgovac na malo",
+      "en": "trgovac na malo",
+      "ru": [
+        "ритейлер",
+        "розничный торговец"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "retailer",
+      "sourceIds": [
+        "retailer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "трговац на мало"
+    },
+    {
+      "id": "vratiti",
+      "word": "vratiti",
+      "en": "vratiti",
+      "ru": [
+        "возвращаться",
+        "возвращать"
+      ],
+      "example": "\"Kada ćete se vratiti?\" \"Zavisi od vremena.\"",
+      "level": "A1",
+      "sourceId": "return",
+      "sourceIds": [
+        "return"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "вратити"
+    },
+    {
+      "id": "prodaja",
+      "word": "prodaja",
+      "en": "prodaja",
+      "ru": [
+        "продажа",
+        "распродажа",
+        "сейл"
+      ],
+      "example": "Razgovarao sam sa našim ljudima iz prodaje.",
+      "level": "A1",
+      "sourceId": "sale",
+      "sourceIds": [
+        "sale"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "продаја"
+    },
+    {
+      "id": "sacuvati",
+      "word": "sačuvati",
+      "en": "sačuvati",
+      "ru": [
+        "сохранять",
+        "экономить"
+      ],
+      "example": "Da li misliš da vredi sačuvati ova pisma?",
+      "level": "A1",
+      "sourceId": "save",
+      "sourceIds": [
+        "save"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "сачувати"
+    },
+    {
+      "id": "stednja",
+      "word": "štednja",
+      "en": "štednja",
+      "ru": [
+        "экономия",
+        "накопление",
+        "сбережение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "saving",
+      "sourceIds": [
+        "saving"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "штедња"
+    },
+    {
+      "id": "prodavati",
+      "word": "prodavati",
+      "en": "prodavati",
+      "ru": [
+        "продавать"
+      ],
+      "example": "Ona zarađuje za život prodajući svoje slike.",
+      "level": "A1",
+      "sourceId": "sell",
+      "sourceIds": [
+        "sell",
+        "vend"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "продавати"
+    },
+    {
+      "id": "prodavac",
+      "word": "prodavač",
+      "en": "prodavač",
+      "ru": [
+        "продавец",
+        "вендор",
+        "продавщица"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "seller",
+      "sourceIds": [
+        "seller",
+        "vendor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "продавач"
+    },
+    {
+      "id": "polica",
+      "word": "polica",
+      "en": "polica",
+      "ru": [
+        "полка",
+        "шельф"
+      ],
+      "example": "Flaša puna vinjaka nalazila se na polici.",
+      "level": "A2",
+      "sourceId": "shelf",
+      "sourceIds": [
+        "shelf"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "полица"
+    },
+    {
+      "id": "dostava",
+      "word": "dostava",
+      "en": "dostava",
+      "ru": [
+        "доставка",
+        "отправка",
+        "перевозка"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "shipping",
+      "sourceIds": [
+        "shipping"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "достава"
+    },
+    {
+      "id": "prodavnica",
+      "word": "prodavnica",
+      "en": "prodavnica",
+      "ru": [
+        "магазин",
+        "бутик",
+        "лавка"
+      ],
+      "example": "Izašao sam iz prodavnice čim sam mogao.",
+      "level": "A1",
+      "sourceId": "shop",
+      "sourceIds": [
+        "shop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "продавница"
+    },
+    {
+      "id": "kupac",
+      "word": "kupac",
+      "en": "kupac",
+      "ru": [
+        "покупатель",
+        "покупательница"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "shopper",
+      "sourceIds": [
+        "shopper"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "купац"
+    },
+    {
+      "id": "kupovina",
+      "word": "kupovina",
+      "en": "kupovina",
+      "ru": [
+        "купля",
+        "покупка",
+        "покупки"
+      ],
+      "example": "Da li Tom često ide u kupovinu?",
+      "level": "A1",
+      "sourceId": "shopping",
+      "sourceIds": [
+        "shopping"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "куповина"
+    },
+    {
+      "id": "velicina",
+      "word": "veličina",
+      "en": "veličina",
+      "ru": [
+        "величина",
+        "объём",
+        "размер"
+      ],
+      "example": "Bazel je treći grad po veličini u Švajcarskoj.",
+      "level": "A1",
+      "sourceId": "size",
+      "sourceIds": [
+        "size"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "величина"
+    },
+    {
+      "id": "trositi",
+      "word": "trošiti",
+      "en": "trošiti",
+      "ru": [
+        "тратить",
+        "проводить"
+      ],
+      "example": "Ne smeta mi da trošim novac na knjige.",
+      "level": "B1",
+      "sourceId": "spend",
+      "sourceIds": [
+        "spend"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трошити"
+    },
+    {
+      "id": "zaliha",
+      "word": "zaliha",
+      "en": "zaliha",
+      "ru": [
+        "ассортимент",
+        "запас",
+        "инвентарь"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "stock",
+      "sourceIds": [
+        "stock"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "залиха"
+    },
+    {
+      "id": "prodavnica",
+      "word": "prodavnica",
+      "en": "prodavnica",
+      "ru": [
+        "магазин"
+      ],
+      "example": "Izašao sam iz prodavnice čim sam mogao.",
+      "level": "A1",
+      "sourceId": "store",
+      "sourceIds": [
+        "store"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "продавница"
+    },
+    {
+      "id": "razmena",
+      "word": "razmena",
+      "en": "razmena",
+      "ru": [
+        "торговля",
+        "ремесло",
+        "обмен"
+      ],
+      "example": "Da li si ti student na razmeni?",
+      "level": "A1",
+      "sourceId": "trade",
+      "sourceIds": [
+        "trade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "размена"
+    },
+    {
+      "id": "trgovac",
+      "word": "trgovac",
+      "en": "trgovac",
+      "ru": [
+        "коммерсант",
+        "купец",
+        "продавец"
+      ],
+      "example": "Moj otac je po zanimanju trgovac vunom.",
+      "level": "C1",
+      "sourceId": "trader",
+      "sourceIds": [
+        "trader"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "трговац"
+    },
+    {
+      "id": "pokusati",
+      "word": "pokušati",
+      "en": "pokušati",
+      "ru": [
+        "примерять"
+      ],
+      "example": "Nemoj ni da pokušaš da me prevariš.",
+      "level": "A1",
+      "sourceId": "try-on",
+      "sourceIds": [
+        "try-on"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "покушати"
+    },
+    {
+      "id": "garancija",
+      "word": "garancija",
+      "en": "garancija",
+      "ru": [
+        "гарантия",
+        "ручательство"
+      ],
+      "example": "Poštenje nije garancija uspeha.",
+      "level": "B1",
+      "sourceId": "warranty",
+      "sourceIds": [
+        "warranty"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "гаранција"
+    },
+    {
+      "id": "veleprodajni",
+      "word": "veleprodajni",
+      "en": "veleprodajni",
+      "ru": [
+        "оптовый",
+        "оптом",
+        "оптовая торговля"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "wholesale",
+      "sourceIds": [
+        "wholesale"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "велепродајни"
+    },
+    {
+      "id": "veletrgovac",
+      "word": "veletrgovac",
+      "en": "veletrgovac",
+      "ru": [
+        "оптовик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "wholesaler",
+      "sourceIds": [
+        "wholesaler"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "велетрговац"
+    },
+    {
+      "id": "u-prodavnici",
+      "word": "u prodavnici",
+      "en": "u prodavnici",
+      "ru": [
+        "в магазине",
+        "внутримагазинный"
+      ],
+      "example": "Niko u prodavnici nije mogao pričati francuski.",
+      "level": "B1",
+      "sourceId": "in-store",
+      "sourceIds": [
+        "in-store"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "у продавници"
+    },
+    {
+      "id": "prodajno-mesto",
+      "word": "prodajno mesto",
+      "en": "prodajno mesto",
+      "ru": [
+        "точка продажи"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pos",
+      "sourceIds": [
+        "pos"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "wordCyrillic": "продајно место"
+    },
+    {
+      "id": "supermarket",
+      "word": "supermarket",
+      "en": "supermarket",
+      "ru": [
+        "супермаркет"
+      ],
+      "example": "Supermarket je otvoren od ponedeljka do subote.",
+      "level": "B1",
+      "sourceId": "supermarket",
+      "sourceIds": [
+        "supermarket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "супермаркет"
+    },
+    {
+      "id": "polovan",
+      "word": "polovan",
+      "en": "polovan",
+      "ru": [
+        "подержанный",
+        "бывший в употреблении"
+      ],
+      "example": "On je upravo kupio polovan moped.",
+      "level": "B1",
+      "sourceId": "secondhand",
+      "sourceIds": [
+        "secondhand"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "полован"
+    },
+    {
+      "id": "prodajan",
+      "word": "prodajan",
+      "en": "prodajan",
+      "ru": [
+        "ходовой",
+        "ликвидный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "saleable",
+      "sourceIds": [
+        "saleable"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "продајан"
+    },
+    {
+      "id": "neprodat",
+      "word": "neprodat",
+      "en": "neprodat",
+      "ru": [
+        "нераспроданный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unsold",
+      "sourceIds": [
+        "unsold"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "непродат"
+    },
+    {
+      "id": "prodavati-na-ulici",
+      "word": "prodavati na ulici",
+      "en": "prodavati na ulici",
+      "ru": [
+        "торговать вразнос",
+        "распространять"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peddle",
+      "sourceIds": [
+        "peddle"
+      ],
+      "pos": "v",
+      "wordCyrillic": "продавати на улици"
+    },
+    {
+      "id": "hipermarket",
+      "word": "hipermarket",
+      "en": "hipermarket",
+      "ru": [
+        "гипермаркет"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hypermarket",
+      "sourceIds": [
+        "hypermarket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "wordCyrillic": "хипермаркет"
+    },
+    {
+      "id": "prodavacica",
+      "word": "prodavačica",
+      "en": "prodavačica",
+      "ru": [
+        "продавщица"
+      ],
+      "example": "Zamolio sam prodavačicu da stavi stare pantalone u kesu.",
+      "level": "B1",
+      "sourceId": "shop-girl",
+      "sourceIds": [
+        "shop-girl"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "продавачица"
+    },
+    {
+      "id": "paket",
+      "word": "paket",
+      "en": "paket",
+      "ru": [
+        "пакет"
+      ],
+      "example": "Ovo je paket na koji sam čekao.",
+      "level": "B1",
+      "sourceId": "packet",
+      "sourceIds": [
+        "packet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пакет"
+    },
+    {
+      "id": "povoljan",
+      "word": "povoljan",
+      "en": "povoljan",
+      "ru": [
+        "по разумной цене"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "reasonably-priced",
+      "sourceIds": [
+        "reasonably-priced"
+      ],
+      "pos": "adj",
+      "wordCyrillic": "повољан"
+    },
+    {
+      "id": "polovan",
+      "word": "polovan",
+      "en": "polovan",
+      "ru": [
+        "подержанный"
+      ],
+      "example": "On je upravo kupio polovan moped.",
+      "level": "B1",
+      "sourceId": "second-hand",
+      "sourceIds": [
+        "second-hand"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "полован"
+    },
+    {
+      "id": "kradja-u-prodavnici",
+      "word": "krađa u prodavnici",
+      "en": "krađa u prodavnici",
+      "ru": [
+        "магазинная кража"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shoplifting",
+      "sourceIds": [
+        "shoplifting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "крађа у продавници"
+    },
+    {
+      "id": "poklon",
+      "word": "poklon",
+      "en": "poklon",
+      "ru": [
+        "халява",
+        "бесплатный подарок"
+      ],
+      "example": "Hoćete li da ga zapakujem kao poklon?",
+      "level": "B1",
+      "sourceId": "freebie",
+      "sourceIds": [
+        "freebie"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "поклон"
+    },
+    {
+      "id": "cenkati-se",
+      "word": "cenkati se",
+      "en": "cenkati se",
+      "ru": [
+        "торговаться"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "haggle",
+      "sourceIds": [
+        "haggle"
+      ],
+      "pos": "v",
+      "wordCyrillic": "ценкати се"
+    },
+    {
+      "id": "dva-za-jedan",
+      "word": "dva za jedan",
+      "en": "dva za jedan",
+      "ru": [
+        "два по цене одного"
+      ],
+      "example": "Dva dečaka počeli su okrivljavati jedan drugog.",
+      "level": "B1",
+      "sourceId": "two-for-one",
+      "sourceIds": [
+        "two-for-one"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "два за један"
+    },
+    {
+      "id": "platnena-torba",
+      "word": "platnena torba",
+      "en": "platnena torba",
+      "ru": [
+        "сумка-тоут",
+        "носить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "tote",
+      "sourceIds": [
+        "tote"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "платнена торба"
+    },
+    {
+      "id": "imitacija",
+      "word": "imitacija",
+      "en": "imitacija",
+      "ru": [
+        "подделка"
+      ],
+      "example": "Osnova ove metode je jednostavan princip imitacije.",
+      "level": "B1",
+      "sourceId": "knockoff",
+      "sourceIds": [
+        "knockoff"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "имитација"
+    },
+    {
+      "id": "posiljka",
+      "word": "pošiljka",
+      "en": "pošiljka",
+      "ru": [
+        "поставка",
+        "груз"
+      ],
+      "example": "Da li ćeš ovo poslati kao poštanska pošiljka?",
+      "level": "B1",
+      "sourceId": "shipment",
+      "sourceIds": [
+        "shipment"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "пошиљка"
+    },
+    {
+      "id": "luksuzan",
+      "word": "luksuzan",
+      "en": "luksuzan",
+      "ru": [
+        "высококлассный",
+        "дорогой"
+      ],
+      "example": "On živi u luksuznom stanu u blizini Central Parka.",
+      "level": "B1",
+      "sourceId": "high-end",
+      "sourceIds": [
+        "high-end"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "луксузан"
+    },
+    {
+      "id": "robna-kuca",
+      "word": "robna kuća",
+      "en": "robna kuća",
+      "ru": [
+        "торговый центр",
+        "магазин"
+      ],
+      "example": "Nova robna kuća biće otvorena sledećeg meseca.",
+      "level": "B1",
+      "sourceId": "emporium",
+      "sourceIds": [
+        "emporium"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "робна кућа"
+    },
+    {
+      "id": "veleprodajna-narudzbina",
+      "word": "veleprodajna narudžbina",
+      "en": "veleprodajna narudžbina",
+      "ru": [
+        "оптовый заказ"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bulk-ordering",
+      "sourceIds": [
+        "bulk-ordering"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "wordCyrillic": "велепродајна наруџбина"
+    },
+    {
+      "id": "po-meri",
+      "word": "po meri",
+      "en": "po meri",
+      "ru": [
+        "сделанный на заказ"
+      ],
+      "example": "Da li Tom hoće da pitam Meri?",
+      "level": "B1",
+      "sourceId": "bespoke",
+      "sourceIds": [
+        "bespoke"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "по мери"
+    },
+    {
+      "id": "nakit",
+      "word": "nakit",
+      "en": "nakit",
+      "ru": [
+        "ювелирные изделия",
+        "украшения"
+      ],
+      "example": "Volim da nosim nakit.",
+      "level": "B1",
+      "sourceId": "jewelry",
+      "sourceIds": [
+        "jewelry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)",
+      "wordCyrillic": "накит"
+    }
+  ]
+}

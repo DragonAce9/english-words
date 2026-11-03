@@ -1,0 +1,2672 @@
+{
+  "id": "numbers",
+  "title": "Числа",
+  "paid": false,
+  "blockId": "basics",
+  "words": [
+    {
+      "id": "null",
+      "word": "Null",
+      "en": "Null",
+      "ru": [
+        "ноль",
+        "нуль",
+        "зеро"
+      ],
+      "example": "Die Außentemperatur beträgt vier Grad unter Null.",
+      "level": "A1",
+      "sourceId": "zero",
+      "sourceIds": [
+        "zero"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ein",
+      "word": "ein",
+      "en": "ein",
+      "ru": [
+        "один",
+        "единственный",
+        "тот самый"
+      ],
+      "example": "\"Brauchst du ein T-Shirt?\" \"Ja, ein rotes.\"",
+      "level": "A1",
+      "sourceId": "one",
+      "sourceIds": [
+        "one"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zwei",
+      "word": "Zwei",
+      "en": "Zwei",
+      "ru": [
+        "пара",
+        "двойка",
+        "два"
+      ],
+      "example": "Die Höchststrafe für Bigamisten? - Zwei Schwiegermütter!",
+      "level": "A1",
+      "sourceId": "two",
+      "sourceIds": [
+        "two"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drei",
+      "word": "drei",
+      "en": "drei",
+      "ru": [
+        "три",
+        "тройка",
+        "трое"
+      ],
+      "example": "1783 entdeckte Caroline Herschel drei neue Nebel.",
+      "level": "A1",
+      "sourceId": "three",
+      "sourceIds": [
+        "three"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vier",
+      "word": "Vier",
+      "en": "Vier",
+      "ru": [
+        "четыре",
+        "четвёрка",
+        "четырёхлетка"
+      ],
+      "example": "Die Vier ist eine Unglückszahl in Japan.",
+      "level": "A1",
+      "sourceId": "four",
+      "sourceIds": [
+        "four"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funf",
+      "word": "fünf",
+      "en": "fünf",
+      "ru": [
+        "пять",
+        "пятёрка",
+        "пятеро"
+      ],
+      "example": "Abendbrot gibt es bei denen um fünf.",
+      "level": "A1",
+      "sourceId": "five",
+      "sourceIds": [
+        "five"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sechs",
+      "word": "Sechs",
+      "en": "Sechs",
+      "ru": [
+        "шесть",
+        "шестёрка",
+        "шестеро"
+      ],
+      "example": "\"Sechs Pence pro Sekunde\", erinnerte ihn Bob.",
+      "level": "A1",
+      "sourceId": "six",
+      "sourceIds": [
+        "six"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sieben",
+      "word": "sieben",
+      "en": "sieben",
+      "ru": [
+        "семь",
+        "семёрка",
+        "семеро"
+      ],
+      "example": "Abbildung sieben zeigt alle Teile des Motors.",
+      "level": "A1",
+      "sourceId": "seven",
+      "sourceIds": [
+        "seven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "acht",
+      "word": "acht",
+      "en": "acht",
+      "ru": [
+        "восемь",
+        "восьмёрка",
+        "восьмеро"
+      ],
+      "example": "Als wir hinausgingen, war es acht Uhr.",
+      "level": "A1",
+      "sourceId": "eight",
+      "sourceIds": [
+        "eight"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neun",
+      "word": "neun",
+      "en": "neun",
+      "ru": [
+        "девять",
+        "девятка",
+        "девятеро"
+      ],
+      "example": "Bislang habe ich über neun Länder besucht.",
+      "level": "A1",
+      "sourceId": "nine",
+      "sourceIds": [
+        "nine"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zehner",
+      "word": "Zehner",
+      "en": "Zehner",
+      "ru": [
+        "десять",
+        "десятка",
+        "десяток"
+      ],
+      "example": "Tom fragte Maria, ob sie ihm einen Zehner leihen könne.",
+      "level": "A1",
+      "sourceId": "ten",
+      "sourceIds": [
+        "ten"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "elf",
+      "word": "elf",
+      "en": "elf",
+      "ru": [
+        "одиннадцать"
+      ],
+      "example": "Du hast schon elf Flaschen Bier getrunken!",
+      "level": "A1",
+      "sourceId": "eleven",
+      "sourceIds": [
+        "eleven"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zwolf",
+      "word": "zwölf",
+      "en": "zwölf",
+      "ru": [
+        "двенадцать"
+      ],
+      "example": "Ania und Piotr sind zwölf Jahre alt.",
+      "level": "A1",
+      "sourceId": "twelve",
+      "sourceIds": [
+        "twelve"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dreizehn",
+      "word": "dreizehn",
+      "en": "dreizehn",
+      "ru": [
+        "тринадцать"
+      ],
+      "example": "Damals war ich erst dreizehn Jahre alt.",
+      "level": "A1",
+      "sourceId": "thirteen",
+      "sourceIds": [
+        "thirteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vierzehn",
+      "word": "vierzehn",
+      "en": "vierzehn",
+      "ru": [
+        "четырнадцать"
+      ],
+      "example": "Erwachsene Kohlmeisen sind etwa vierzehn Zentimeter groß.",
+      "level": "A1",
+      "sourceId": "fourteen",
+      "sourceIds": [
+        "fourteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funfzehn",
+      "word": "fünfzehn",
+      "en": "fünfzehn",
+      "ru": [
+        "пятнадцать"
+      ],
+      "example": "Das hat mich über fünfzehn Schilling gekostet.",
+      "level": "A1",
+      "sourceId": "fifteen",
+      "sourceIds": [
+        "fifteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sechzehn",
+      "word": "sechzehn",
+      "en": "sechzehn",
+      "ru": [
+        "шестнадцать"
+      ],
+      "example": "Bill hat heute sechzehn Stück Kuchen gegessen.",
+      "level": "A1",
+      "sourceId": "sixteen",
+      "sourceIds": [
+        "sixteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "siebzehn",
+      "word": "siebzehn",
+      "en": "siebzehn",
+      "ru": [
+        "семнадцать"
+      ],
+      "example": "Mein Sohn ist jetzt siebzehn Jahre alt.",
+      "level": "A1",
+      "sourceId": "seventeen",
+      "sourceIds": [
+        "seventeen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "achtzehn",
+      "word": "achtzehn",
+      "en": "achtzehn",
+      "ru": [
+        "восемнадцать"
+      ],
+      "example": "Die Post ist bis achtzehn Uhr geöffnet.",
+      "level": "A1",
+      "sourceId": "eighteen",
+      "sourceIds": [
+        "eighteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neunzehn",
+      "word": "neunzehn",
+      "en": "neunzehn",
+      "ru": [
+        "девятнадцать"
+      ],
+      "example": "Geben Sie mir bitte neunzehn Liter Treibstoff.",
+      "level": "A1",
+      "sourceId": "nineteen",
+      "sourceIds": [
+        "nineteen"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zwanzig",
+      "word": "zwanzig",
+      "en": "zwanzig",
+      "ru": [
+        "двадцатка",
+        "двадцать"
+      ],
+      "example": "Als Kind hatte Maria zwanzig verschiedene Barbies.",
+      "level": "A1",
+      "sourceId": "twenty",
+      "sourceIds": [
+        "twenty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dreissig",
+      "word": "dreißig",
+      "en": "dreißig",
+      "ru": [
+        "тридцать"
+      ],
+      "example": "An unserer Schule gibt es dreißig Klassen.",
+      "level": "A1",
+      "sourceId": "thirty",
+      "sourceIds": [
+        "thirty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vierzig",
+      "word": "vierzig",
+      "en": "vierzig",
+      "ru": [
+        "сорок"
+      ],
+      "example": "Das koreanische Alphabet besteht aus vierzig Buchstaben.",
+      "level": "A1",
+      "sourceId": "forty",
+      "sourceIds": [
+        "forty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funfzig",
+      "word": "fünfzig",
+      "en": "fünfzig",
+      "ru": [
+        "пятьдесят"
+      ],
+      "example": "An diesem Tag ritt ich fünfzig Meilen.",
+      "level": "A1",
+      "sourceId": "fifty",
+      "sourceIds": [
+        "fifty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sechzig",
+      "word": "sechzig",
+      "en": "sechzig",
+      "ru": [
+        "шестьдесят"
+      ],
+      "example": "Die Dame ist fast sechzig Jahre alt.",
+      "level": "A1",
+      "sourceId": "sixty",
+      "sourceIds": [
+        "sixty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "siebzig",
+      "word": "siebzig",
+      "en": "siebzig",
+      "ru": [
+        "семьдесят"
+      ],
+      "example": "Das stimmt, dass er über siebzig ist.",
+      "level": "A1",
+      "sourceId": "seventy",
+      "sourceIds": [
+        "seventy"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einundsiebzig",
+      "word": "einundsiebzig",
+      "en": "einundsiebzig",
+      "ru": [
+        "семьдесят один"
+      ],
+      "example": "Dieses riesige Geschichtsbuch hat einundsiebzig Kapitel!",
+      "level": "A2",
+      "sourceId": "seventy-one",
+      "sourceIds": [
+        "seventy-one"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zweiundsiebzig",
+      "word": "zweiundsiebzig",
+      "en": "zweiundsiebzig",
+      "ru": [
+        "семьдесят два"
+      ],
+      "example": "Der Praktikant starb nach zweiundsiebzig Stunden ohne Schlaf.",
+      "level": "A2",
+      "sourceId": "seventy-two",
+      "sourceIds": [
+        "seventy-two"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dreiundsiebzig",
+      "word": "dreiundsiebzig",
+      "en": "dreiundsiebzig",
+      "ru": [
+        "семьдесят три"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-three",
+      "sourceIds": [
+        "seventy-three"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "vierundsiebzig",
+      "word": "vierundsiebzig",
+      "en": "vierundsiebzig",
+      "ru": [
+        "семьдесят четыре"
+      ],
+      "example": "Die Organisation hat vierundsiebzig Mitglieder.",
+      "level": "A2",
+      "sourceId": "seventy-four",
+      "sourceIds": [
+        "seventy-four"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funfundsiebzig",
+      "word": "fünfundsiebzig",
+      "en": "fünfundsiebzig",
+      "ru": [
+        "семьдесят пять"
+      ],
+      "example": "Rund fünfundsiebzig Prozent der Europäer sind Christen.",
+      "level": "A2",
+      "sourceId": "seventy-five",
+      "sourceIds": [
+        "seventy-five"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sechsundsiebzig",
+      "word": "sechsundsiebzig",
+      "en": "sechsundsiebzig",
+      "ru": [
+        "семьдесят шесть"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-six",
+      "sourceIds": [
+        "seventy-six"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "siebenundsiebzig",
+      "word": "siebenundsiebzig",
+      "en": "siebenundsiebzig",
+      "ru": [
+        "семьдесят семь"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-seven",
+      "sourceIds": [
+        "seventy-seven"
+      ],
+      "pos": "numeral"
+    },
+    {
+      "id": "achtundsiebzig",
+      "word": "achtundsiebzig",
+      "en": "achtundsiebzig",
+      "ru": [
+        "семьдесят восемь"
+      ],
+      "example": "Sechs mal dreizehn gleich achtundsiebzig.",
+      "level": "A2",
+      "sourceId": "seventy-eight",
+      "sourceIds": [
+        "seventy-eight"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neunundsiebzig",
+      "word": "neunundsiebzig",
+      "en": "neunundsiebzig",
+      "ru": [
+        "семьдесят девять"
+      ],
+      "example": "Auf dem Kanal neunundsiebzig sind jetzt die Nachrichten dran.",
+      "level": "A2",
+      "sourceId": "seventy-nine",
+      "sourceIds": [
+        "seventy-nine"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "achtzig",
+      "word": "achtzig",
+      "en": "achtzig",
+      "ru": [
+        "восемьдесят"
+      ],
+      "example": "Die Dame ist über achtzig Jahre alt.",
+      "level": "A1",
+      "sourceId": "eighty",
+      "sourceIds": [
+        "eighty"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neunzig",
+      "word": "neunzig",
+      "en": "neunzig",
+      "ru": [
+        "девяносто"
+      ],
+      "example": "Ich bin noch nicht neunzig Jahre alt.",
+      "level": "A1",
+      "sourceId": "ninety",
+      "sourceIds": [
+        "ninety"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hunderter",
+      "word": "Hunderter",
+      "en": "Hunderter",
+      "ru": [
+        "сто",
+        "сотня"
+      ],
+      "example": "Ich verkaufe es dir für einen Hunderter.",
+      "level": "A1",
+      "sourceId": "hundred",
+      "sourceIds": [
+        "hundred"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tausend",
+      "word": "tausend",
+      "en": "tausend",
+      "ru": [
+        "тысяча"
+      ],
+      "example": "Das Dorf hatte mehr als tausend Einwohner.",
+      "level": "A1",
+      "sourceId": "thousand",
+      "sourceIds": [
+        "thousand"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "million",
+      "word": "Million",
+      "en": "Million",
+      "ru": [
+        "миллион"
+      ],
+      "example": "999 999 plus eins ergibt eine Million.",
+      "level": "A1",
+      "sourceId": "million",
+      "sourceIds": [
+        "million"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "milliarde",
+      "word": "Milliarde",
+      "en": "Milliarde",
+      "ru": [
+        "миллиард"
+      ],
+      "example": "Auf der Welt leben acht Milliarden Menschen.",
+      "level": "A1",
+      "sourceId": "billion",
+      "sourceIds": [
+        "billion"
+      ],
+      "pos": "numeral",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zuerst",
+      "word": "zuerst",
+      "en": "zuerst",
+      "ru": [
+        "первый",
+        "в первую очередь",
+        "во-первых"
+      ],
+      "example": "Am besten rufe ich sie zuerst an.",
+      "level": "A1",
+      "sourceId": "first",
+      "sourceIds": [
+        "first"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sekunde",
+      "word": "Sekunde",
+      "en": "Sekunde",
+      "ru": [
+        "секунда",
+        "второй",
+        "секундант"
+      ],
+      "example": "\"Sechs Pence pro Sekunde\", erinnerte ihn Bob.",
+      "level": "A1",
+      "sourceId": "second",
+      "sourceIds": [
+        "second"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drittel",
+      "word": "Drittel",
+      "en": "Drittel",
+      "ru": [
+        "третий",
+        "треть",
+        "(одна) третья (часть)"
+      ],
+      "example": "Ein Drittel der sechs Mitglieder waren Frauen.",
+      "level": "A1",
+      "sourceId": "third",
+      "sourceIds": [
+        "third"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vierte",
+      "word": "vierte",
+      "en": "vierte",
+      "ru": [
+        "четвёртый",
+        "четвёртая передача",
+        "кварта"
+      ],
+      "example": "Aber was machen sie im vierten Stock?",
+      "level": "A1",
+      "sourceId": "fourth",
+      "sourceIds": [
+        "fourth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funfte",
+      "word": "fünfte",
+      "en": "fünfte",
+      "ru": [
+        "пятый",
+        "5-ый",
+        "(одна) пятая (часть)"
+      ],
+      "example": "Der fünfte Sketsch ist der drammaturgisch beste.",
+      "level": "A1",
+      "sourceId": "fifth",
+      "sourceIds": [
+        "fifth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sechster",
+      "word": "Sechster",
+      "en": "Sechster",
+      "ru": [
+        "шестой",
+        "(одна) шестая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "sixth",
+      "sourceIds": [
+        "sixth"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "septime",
+      "word": "Septime",
+      "en": "Septime",
+      "ru": [
+        "седьмой",
+        "(одна) седьмая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "seventh",
+      "sourceIds": [
+        "seventh"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "achte",
+      "word": "Achte",
+      "en": "Achte",
+      "ru": [
+        "восьмой",
+        "восьмая",
+        "восьмое"
+      ],
+      "example": "Achte auf den Weg, wenn du fährst!",
+      "level": "A1",
+      "sourceId": "eighth",
+      "sourceIds": [
+        "eighth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neuntel",
+      "word": "Neuntel",
+      "en": "Neuntel",
+      "ru": [
+        "девятый",
+        "(одна) девятая (часть)"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "ninth",
+      "sourceIds": [
+        "ninth"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "zehnte",
+      "word": "zehnte",
+      "en": "zehnte",
+      "ru": [
+        "десятый",
+        "(одна) десятая (часть)"
+      ],
+      "example": "Ihr Büro befindet sich im zehnten Stock.",
+      "level": "A1",
+      "sourceId": "tenth",
+      "sourceIds": [
+        "tenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dreizehnte",
+      "word": "dreizehnte",
+      "en": "dreizehnte",
+      "ru": [
+        "тринадцатый",
+        "(одна) тринадцатая (часть)"
+      ],
+      "example": "Dieses Schloss ist aus dem dreizehnten Jahrhundert.",
+      "level": "A2",
+      "sourceId": "thirteenth",
+      "sourceIds": [
+        "thirteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vierzehnte",
+      "word": "vierzehnte",
+      "en": "vierzehnte",
+      "ru": [
+        "четырнадцатый",
+        "четырнадцатая",
+        "(одна) четырнадцатая (часть)"
+      ],
+      "example": "Der vierzehnte Juli ist der französische Nationalfeiertag.",
+      "level": "A2",
+      "sourceId": "fourteenth",
+      "sourceIds": [
+        "fourteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funfzehnte",
+      "word": "fünfzehnte",
+      "en": "fünfzehnte",
+      "ru": [
+        "пятнадцатый",
+        "(одна) пятнадцатая (часть)"
+      ],
+      "example": "Die Kirche wurde im fünfzehnten Jahrhundert erbaut.",
+      "level": "A2",
+      "sourceId": "fifteenth",
+      "sourceIds": [
+        "fifteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sechzehnte",
+      "word": "sechzehnte",
+      "en": "sechzehnte",
+      "ru": [
+        "шестнадцатый",
+        "(одна) шестнадцатая (часть)"
+      ],
+      "example": "Die Wahl fand am sechzehnten Mai statt.",
+      "level": "A2",
+      "sourceId": "sixteenth",
+      "sourceIds": [
+        "sixteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "siebzehnter",
+      "word": "siebzehnter",
+      "en": "siebzehnter",
+      "ru": [
+        "семнадцатый",
+        "(одна) семнадцатая (часть)"
+      ],
+      "example": "Gestern war mein siebzehnter Geburtstag.",
+      "level": "A2",
+      "sourceId": "seventeenth",
+      "sourceIds": [
+        "seventeenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "achtzehnte",
+      "word": "achtzehnte",
+      "en": "achtzehnte",
+      "ru": [
+        "восемнадцатый",
+        "(одна) восемнадцатая (часть)"
+      ],
+      "example": "Schloss Schönbrunn ist aus dem achtzehnten Jahrhundert.",
+      "level": "A2",
+      "sourceId": "eighteenth",
+      "sourceIds": [
+        "eighteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "neunzehnte",
+      "word": "neunzehnte",
+      "en": "neunzehnte",
+      "ru": [
+        "девятнадцатый",
+        "(одна) девятнадцатая (часть)"
+      ],
+      "example": "Vor zweihundert Jahren war das neunzehnte Jahrhundert.",
+      "level": "A2",
+      "sourceId": "nineteenth",
+      "sourceIds": [
+        "nineteenth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einundsiebzigste",
+      "word": "einundsiebzigste",
+      "en": "einundsiebzigste",
+      "ru": [
+        "семьдесят первый"
+      ],
+      "example": "Der Siebzigjährige fragt den um Rat, der eben das einundsiebzigste vollendet hat.",
+      "level": "A2",
+      "sourceId": "seventy-first",
+      "sourceIds": [
+        "seventy-first"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zweiundsiebzigste",
+      "word": "zweiundsiebzigste",
+      "en": "zweiundsiebzigste",
+      "ru": [
+        "семьдесят второй"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-second",
+      "sourceIds": [
+        "seventy-second"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "dreiundsiebzigste",
+      "word": "dreiundsiebzigste",
+      "en": "dreiundsiebzigste",
+      "ru": [
+        "семьдесят третий"
+      ],
+      "example": "Sie sind der dreiundsiebzigste Gast.",
+      "level": "A2",
+      "sourceId": "seventy-third",
+      "sourceIds": [
+        "seventy-third"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vierundsiebzigste",
+      "word": "vierundsiebzigste",
+      "en": "vierundsiebzigste",
+      "ru": [
+        "семьдесят четвёртый"
+      ],
+      "example": "Beim vierundsiebzigsten Mal ist er vor Erschöpfung tot umgefallen.",
+      "level": "A2",
+      "sourceId": "seventy-fourth",
+      "sourceIds": [
+        "seventy-fourth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "funfundsiebzigste",
+      "word": "fünfundsiebzigste",
+      "en": "fünfundsiebzigste",
+      "ru": [
+        "семьдесят пятый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-fifth",
+      "sourceIds": [
+        "seventy-fifth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sechsundsiebzigste",
+      "word": "sechsundsiebzigste",
+      "en": "sechsundsiebzigste",
+      "ru": [
+        "семьдесят шестой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-sixth",
+      "sourceIds": [
+        "seventy-sixth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "siebenundsiebzigste",
+      "word": "siebenundsiebzigste",
+      "en": "siebenundsiebzigste",
+      "ru": [
+        "семьдесят седьмой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-seventh",
+      "sourceIds": [
+        "seventy-seventh"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "achtundsiebzigste",
+      "word": "achtundsiebzigste",
+      "en": "achtundsiebzigste",
+      "ru": [
+        "семьдесят восьмой"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-eighth",
+      "sourceIds": [
+        "seventy-eighth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "neunundsiebzigste",
+      "word": "neunundsiebzigste",
+      "en": "neunundsiebzigste",
+      "ru": [
+        "семьдесят девятый"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "seventy-ninth",
+      "sourceIds": [
+        "seventy-ninth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "hundertste",
+      "word": "hundertste",
+      "en": "hundertste",
+      "ru": [
+        "сотый",
+        "сотая"
+      ],
+      "example": "Ich tanzte mit der hundertsten Frau.",
+      "level": "A2",
+      "sourceId": "hundredth",
+      "sourceIds": [
+        "hundredth"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tausendstel",
+      "word": "Tausendstel",
+      "en": "Tausendstel",
+      "ru": [
+        "тысячный",
+        "одна тысячная"
+      ],
+      "example": "Alle Millionen bestehen aus Tausendsteln.",
+      "level": "A2",
+      "sourceId": "thousandth",
+      "sourceIds": [
+        "thousandth"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hunderttausendste",
+      "word": "hunderttausendste",
+      "en": "hunderttausendste",
+      "ru": [
+        "стотысячный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "hundred-thousandth",
+      "sourceIds": [
+        "hundred-thousandth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "millionstel",
+      "word": "millionstel",
+      "en": "millionstel",
+      "ru": [
+        "миллионный"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "millionth",
+      "sourceIds": [
+        "millionth"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "milliardstel",
+      "word": "Milliardstel",
+      "en": "Milliardstel",
+      "ru": [
+        "миллиардный"
+      ],
+      "example": "Eine Femtosekunde ist ein Millionstel einer Milliardstel Sekunde.",
+      "level": "A2",
+      "sourceId": "billionth",
+      "sourceIds": [
+        "billionth"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drittens",
+      "word": "drittens",
+      "en": "drittens",
+      "ru": [
+        "в-третьих"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "thirdly",
+      "sourceIds": [
+        "thirdly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "viertens",
+      "word": "viertens",
+      "en": "viertens",
+      "ru": [
+        "в-четвёртых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fourthly",
+      "sourceIds": [
+        "fourthly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "funftens",
+      "word": "fünftens",
+      "en": "fünftens",
+      "ru": [
+        "в-пятых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fifthly",
+      "sourceIds": [
+        "fifthly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "sechstens",
+      "word": "sechstens",
+      "en": "sechstens",
+      "ru": [
+        "в-шестых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "sixthly",
+      "sourceIds": [
+        "sixthly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "siebentens",
+      "word": "siebentens",
+      "en": "siebentens",
+      "ru": [
+        "в-седьмых"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "seventhly",
+      "sourceIds": [
+        "seventhly"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "halb",
+      "word": "halb",
+      "en": "halb",
+      "ru": [
+        "пол",
+        "полу",
+        "наполовину"
+      ],
+      "example": "Auf halber Strecke haben wir Pause gemacht.",
+      "level": "A1",
+      "sourceId": "half",
+      "sourceIds": [
+        "half"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viertel",
+      "word": "Viertel",
+      "en": "Viertel",
+      "ru": [
+        "(одна) четвёртая (часть)",
+        "квартал",
+        "четверть"
+      ],
+      "example": "Das ganze Viertel staunte über diese Neuigkeit.",
+      "level": "B1",
+      "sourceId": "quarter",
+      "sourceIds": [
+        "quarter"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zwei-drittel",
+      "word": "zwei Drittel",
+      "en": "zwei Drittel",
+      "ru": [
+        "две трети"
+      ],
+      "example": "Rund zwei Drittel unseres Körpers sind Wasser.",
+      "level": "B1",
+      "sourceId": "two-thirds",
+      "sourceIds": [
+        "two-thirds"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bruch",
+      "word": "Bruch",
+      "en": "Bruch",
+      "ru": [
+        "часть",
+        "частица",
+        "дробь"
+      ],
+      "example": "Das ist kein Bruch, sondern eine Zerrung.",
+      "level": "B1",
+      "sourceId": "fraction",
+      "sourceIds": [
+        "fraction"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bruch",
+      "word": "Bruch-",
+      "en": "Bruch-",
+      "ru": [
+        "дробный",
+        "фракционный",
+        "отрывочный"
+      ],
+      "example": "Das ist kein Bruch, sondern eine Zerrung.",
+      "level": "C2",
+      "sourceId": "fractional",
+      "sourceIds": [
+        "fractional"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ganz",
+      "word": "ganz",
+      "en": "ganz",
+      "ru": [
+        "целый",
+        "весь",
+        "полный"
+      ],
+      "example": "Ab jetzt muss ich ganze Sätze schreiben.",
+      "level": "A2",
+      "sourceId": "whole",
+      "sourceIds": [
+        "whole"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einzig",
+      "word": "einzig",
+      "en": "einzig",
+      "ru": [
+        "один",
+        "единственный",
+        "одна"
+      ],
+      "example": "Als Einzelkind ist er der einzige Erbe.",
+      "level": "A1",
+      "sourceId": "single",
+      "sourceIds": [
+        "single"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "paar",
+      "word": "Paar",
+      "en": "Paar",
+      "ru": [
+        "пара",
+        "чета"
+      ],
+      "example": "Alle bildeten Paare und begannen zu tanzen.",
+      "level": "A1",
+      "sourceId": "pair",
+      "sourceIds": [
+        "pair"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "double",
+      "word": "Double",
+      "en": "Double",
+      "ru": [
+        "двойной",
+        "двойник",
+        "удваивать"
+      ],
+      "example": "Die Doubles haben in diesem Film eine tolle Arbeit geleistet.",
+      "level": "A2",
+      "sourceId": "double",
+      "sourceIds": [
+        "double"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dreifach",
+      "word": "dreifach",
+      "en": "dreifach",
+      "ru": [
+        "тройной",
+        "троекратный",
+        "трёхкратный"
+      ],
+      "example": "Dieses Düsenflugzeug fliegt ungefähr mit dreifacher Schallgeschwindigkeit.",
+      "level": "B2",
+      "sourceId": "triple",
+      "sourceIds": [
+        "triple"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dreimal",
+      "word": "dreimal",
+      "en": "dreimal",
+      "ru": [
+        "трижды"
+      ],
+      "example": "Bist du schon mehr als dreimal hiergewesen?",
+      "level": "B1",
+      "sourceId": "thrice",
+      "sourceIds": [
+        "thrice"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tausendfach",
+      "word": "tausendfach",
+      "en": "tausendfach",
+      "ru": [
+        "тысячекратный",
+        "тысячекратно"
+      ],
+      "example": "Das Gewissen soll tausendfacher Zeuge sein.",
+      "level": "C2",
+      "sourceId": "thousandfold",
+      "sourceIds": [
+        "thousandfold"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mehrere",
+      "word": "mehrere",
+      "en": "mehrere",
+      "ru": [
+        "кратный",
+        "много",
+        "множественный"
+      ],
+      "example": "Bei mehreren Bedeutungen sollte das vermerkt werden.",
+      "level": "A2",
+      "sourceId": "multiple",
+      "sourceIds": [
+        "multiple"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "null",
+      "word": "Null",
+      "en": "Null",
+      "ru": [
+        "ноль",
+        "ничто"
+      ],
+      "example": "Die Außentemperatur beträgt vier Grad unter Null.",
+      "level": "B1",
+      "sourceId": "nought",
+      "sourceIds": [
+        "nought"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zwei",
+      "word": "Zwei",
+      "en": "Zwei",
+      "ru": [
+        "двойка"
+      ],
+      "example": "Die Höchststrafe für Bigamisten? - Zwei Schwiegermütter!",
+      "level": "B1",
+      "sourceId": "deuce",
+      "sourceIds": [
+        "deuce"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drei",
+      "word": "Drei",
+      "en": "Drei",
+      "ru": [
+        "тройки"
+      ],
+      "example": "Drei Buchstaben läuten den Erfolg ein: „Ran!“",
+      "level": "C2",
+      "sourceId": "threes",
+      "sourceIds": [
+        "threes"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sechs",
+      "word": "Sechs",
+      "en": "Sechs",
+      "ru": [
+        "шестёрки"
+      ],
+      "example": "\"Sechs Pence pro Sekunde\", erinnerte ihn Bob.",
+      "level": "C2",
+      "sourceId": "sixes",
+      "sourceIds": [
+        "sixes"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zehner",
+      "word": "Zehner",
+      "en": "Zehner",
+      "ru": [
+        "десятка"
+      ],
+      "example": "Tom fragte Maria, ob sie ihm einen Zehner leihen könne.",
+      "level": "C2",
+      "sourceId": "tenner",
+      "sourceIds": [
+        "tenner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vierziger",
+      "word": "Vierziger",
+      "en": "Vierziger",
+      "ru": [
+        "сороковые"
+      ],
+      "example": "Diese Musik stammt aus den Vierziger Jahren.",
+      "level": "B1",
+      "sourceId": "forties",
+      "sourceIds": [
+        "forties"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "achtzigerjahre",
+      "word": "Achtzigerjahre",
+      "en": "Achtzigerjahre",
+      "ru": [
+        "1980-ые годы",
+        "80-ые"
+      ],
+      "example": "Marcela lauschte der Musik der Achtzigerjahre.",
+      "level": "B1",
+      "sourceId": "eighties",
+      "sourceIds": [
+        "eighties"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "90er-jahre",
+      "word": "90er Jahre",
+      "en": "90er Jahre",
+      "ru": [
+        "десятилетие девяностых годов"
+      ],
+      "example": "Die 90er Jahre begannen mit dem Golfkrieg.",
+      "level": "B1",
+      "sourceId": "nineties",
+      "sourceIds": [
+        "nineties"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zahl",
+      "word": "Zahl",
+      "en": "Zahl",
+      "ru": [
+        "число",
+        "количество",
+        "имя числительное"
+      ],
+      "example": "1, 3 und 5 sind ungerade Zahlen.",
+      "level": "A1",
+      "sourceId": "number",
+      "sourceIds": [
+        "number"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nummerierung",
+      "word": "Nummerierung",
+      "en": "Nummerierung",
+      "ru": [
+        "нумерация"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "numbering",
+      "sourceIds": [
+        "numbering"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "zahlenmassig",
+      "word": "zahlenmäßig",
+      "en": "zahlenmäßig",
+      "ru": [
+        "численно"
+      ],
+      "example": "Die Toten sind den Lebenden zahlenmäßig überlegen.",
+      "level": "B1",
+      "sourceId": "numerically",
+      "sourceIds": [
+        "numerically"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ziffer",
+      "word": "Ziffer",
+      "en": "Ziffer",
+      "ru": [
+        "цифра"
+      ],
+      "example": "Bitte schreiben Sie die Zahlen in Ziffern.",
+      "level": "B1",
+      "sourceId": "digit",
+      "sourceIds": [
+        "digit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ganze-zahl",
+      "word": "ganze Zahl",
+      "en": "ganze Zahl",
+      "ru": [
+        "целое",
+        "целое число"
+      ],
+      "example": "Jede positive ganze Zahl hat genau einen Nachfolger.",
+      "level": "B1",
+      "sourceId": "integer",
+      "sourceIds": [
+        "integer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dezimal",
+      "word": "dezimal",
+      "en": "dezimal",
+      "ru": [
+        "десятичный",
+        "десятичная система"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decimal",
+      "sourceIds": [
+        "decimal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "anzahl",
+      "word": "Anzahl",
+      "en": "Anzahl",
+      "ru": [
+        "считать",
+        "подсчитывать"
+      ],
+      "example": "Die Anzahl an Fehlern ist höchstens zehn.",
+      "level": "A2",
+      "sourceId": "count",
+      "sourceIds": [
+        "count"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zahler",
+      "word": "Zähler",
+      "en": "Zähler",
+      "ru": [
+        "счётчик"
+      ],
+      "example": "Bitte lesen Sie den Zähler ab.",
+      "level": "B1",
+      "sourceId": "counter",
+      "sourceIds": [
+        "counter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "berechnen",
+      "word": "berechnen",
+      "en": "berechnen",
+      "ru": [
+        "вычислять",
+        "вычислить",
+        "подсчитывать"
+      ],
+      "example": "Ich weiß nicht, warum die soviel berechnen.",
+      "level": "B1",
+      "sourceId": "calculate",
+      "sourceIds": [
+        "calculate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rechner",
+      "word": "Rechner",
+      "en": "Rechner",
+      "ru": [
+        "калькулятор",
+        "арифмометр",
+        "вычислительная машина"
+      ],
+      "example": "Da sitzt ein Velociraptor an meinem Rechner.",
+      "level": "B1",
+      "sourceId": "calculator",
+      "sourceIds": [
+        "calculator"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "positiv",
+      "word": "positiv",
+      "en": "positiv",
+      "ru": [
+        "плюс",
+        "положительный"
+      ],
+      "example": "An Tom wurde ein positiver Kokaintest durchgeführt.",
+      "level": "A2",
+      "sourceId": "plus",
+      "sourceIds": [
+        "plus"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "minus",
+      "word": "Minus",
+      "en": "Minus",
+      "ru": [
+        "минус",
+        "отрицательный",
+        "отрицательная величина"
+      ],
+      "example": "Minus mal minus ergibt plus.",
+      "level": "A2",
+      "sourceId": "minus",
+      "sourceIds": [
+        "minus"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "summe",
+      "word": "Summe",
+      "en": "Summe",
+      "ru": [
+        "сумма",
+        "итог",
+        "складывать"
+      ],
+      "example": "Dein Plan erfordert eine große Summe Geldes.",
+      "level": "B1",
+      "sourceId": "sum",
+      "sourceIds": [
+        "sum"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gleich",
+      "word": "gleich",
+      "en": "gleich",
+      "ru": [
+        "равный",
+        "одинаковый",
+        "тот же"
+      ],
+      "example": "Aber ich gehe noch nicht gleich schlafen.",
+      "level": "B1",
+      "sourceId": "equal",
+      "sourceIds": [
+        "equal"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gleich",
+      "word": "gleich",
+      "en": "gleich",
+      "ru": [
+        "одинаково",
+        "поровну"
+      ],
+      "example": "Aber ich gehe noch nicht gleich schlafen.",
+      "level": "B2",
+      "sourceId": "equally",
+      "sourceIds": [
+        "equally"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prozent",
+      "word": "Prozent",
+      "en": "Prozent",
+      "ru": [
+        "процент"
+      ],
+      "example": "Achtzig Prozent der Menschen wohnen in Städten.",
+      "level": "A2",
+      "sourceId": "percent",
+      "sourceIds": [
+        "percent"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prozentsatz",
+      "word": "Prozentsatz",
+      "en": "Prozentsatz",
+      "ru": [
+        "процент",
+        "процентное отношение"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "percentage",
+      "sourceIds": [
+        "percentage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "perzentil",
+      "word": "Perzentil",
+      "en": "Perzentil",
+      "ru": [
+        "перцентиль",
+        "процентиль",
+        "центиль"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentile",
+      "sourceIds": [
+        "percentile"
+      ],
+      "pos": "n",
+      "gender": "n"
+    },
+    {
+      "id": "prozentual",
+      "word": "prozentual",
+      "en": "prozentual",
+      "ru": [
+        "процентный"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "percentual",
+      "sourceIds": [
+        "percentual"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "durchschnittlich",
+      "word": "durchschnittlich",
+      "en": "durchschnittlich",
+      "ru": [
+        "средний",
+        "обычный",
+        "среднее"
+      ],
+      "example": "Ein IQ von 100 gilt als durchschnittlich.",
+      "level": "A1",
+      "sourceId": "average",
+      "sourceIds": [
+        "average"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "durchschnittlich",
+      "word": "durchschnittlich",
+      "en": "durchschnittlich",
+      "ru": [
+        "в среднем"
+      ],
+      "example": "Ein IQ von 100 gilt als durchschnittlich.",
+      "level": "C2",
+      "sourceId": "averagely",
+      "sourceIds": [
+        "averagely"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rate",
+      "word": "Rate",
+      "en": "Rate",
+      "ru": [
+        "коэффициент",
+        "курс",
+        "отношение"
+      ],
+      "example": "Du solltest einen Anwalt zu Rate ziehen.",
+      "level": "A1",
+      "sourceId": "rate",
+      "sourceIds": [
+        "rate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verhaltnis",
+      "word": "Verhältnis",
+      "en": "Verhältnis",
+      "ru": [
+        "отношение",
+        "соотношение",
+        "коэффициент"
+      ],
+      "example": "Aus unserem Verhältnis hätte etwas werden können.",
+      "level": "B1",
+      "sourceId": "ratio",
+      "sourceIds": [
+        "ratio"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menge",
+      "word": "Menge",
+      "en": "Menge",
+      "ru": [
+        "количество",
+        "сумма"
+      ],
+      "example": "Auf dem Gehweg spielten eine Menge Kinder.",
+      "level": "A2",
+      "sourceId": "amount",
+      "sourceIds": [
+        "amount"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menge",
+      "word": "Menge",
+      "en": "Menge",
+      "ru": [
+        "количество"
+      ],
+      "example": "Auf dem Gehweg spielten eine Menge Kinder.",
+      "level": "B1",
+      "sourceId": "quantity",
+      "sourceIds": [
+        "quantity"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zahlreich",
+      "word": "zahlreich",
+      "en": "zahlreich",
+      "ru": [
+        "многочисленный"
+      ],
+      "example": "Am „Silizium-Kreisel“ sind zahlreiche junge IT-Unternehmen ansässig.",
+      "level": "B1",
+      "sourceId": "numerous",
+      "sourceIds": [
+        "numerous"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beide",
+      "word": "beide",
+      "en": "beide",
+      "ru": [
+        "и... и",
+        "оба",
+        "обе"
+      ],
+      "example": "\"Welchen Vornamen bevorzugst du?\" \"Ich mag beide.\"",
+      "level": "A1",
+      "sourceId": "both",
+      "sourceIds": [
+        "both"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alle",
+      "word": "alle",
+      "en": "alle",
+      "ru": [
+        "каждый"
+      ],
+      "example": "1999 hatten alle Angst vor dem Jahr-2000-Problem.",
+      "level": "A1",
+      "sourceId": "each",
+      "sourceIds": [
+        "each"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ganz",
+      "word": "ganz",
+      "en": "ganz",
+      "ru": [
+        "полностью",
+        "совсем",
+        "весь"
+      ],
+      "example": "Ab jetzt muss ich ganze Sätze schreiben.",
+      "level": "A1",
+      "sourceId": "all",
+      "sourceIds": [
+        "all"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "keine",
+      "word": "keine",
+      "en": "keine",
+      "ru": [
+        "никакой",
+        "никто"
+      ],
+      "example": "\"Sie haben keine Croissants mehr?\" \"Alle verkauft.\"",
+      "level": "A2",
+      "sourceId": "none",
+      "sourceIds": [
+        "none"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wenig",
+      "word": "wenig",
+      "en": "wenig",
+      "ru": [
+        "мало",
+        "несколько",
+        "немногий"
+      ],
+      "example": "20.000 Yen als Reisespesen sind deprimierend wenig.",
+      "level": "A1",
+      "sourceId": "few",
+      "sourceIds": [
+        "few"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "einige",
+      "word": "einige",
+      "en": "einige",
+      "ru": [
+        "некоторый",
+        "несколько",
+        "различный"
+      ],
+      "example": "Am Abend haben sich einige Wolken gebildet.",
+      "level": "A1",
+      "sourceId": "several",
+      "sourceIds": [
+        "several"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viele",
+      "word": "viele",
+      "en": "viele",
+      "ru": [
+        "многие",
+        "многий",
+        "много"
+      ],
+      "example": "Als Professor muss ich viele Prüfungen korrigieren.",
+      "level": "A1",
+      "sourceId": "many",
+      "sourceIds": [
+        "many"
+      ],
+      "pos": "determiner",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "viel",
+      "word": "viel",
+      "en": "viel",
+      "ru": [
+        "намного",
+        "гораздо",
+        "очень"
+      ],
+      "example": "Ab wie viel Uhr kann man einchecken?",
+      "level": "A1",
+      "sourceId": "much",
+      "sourceIds": [
+        "much"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mehr",
+      "word": "mehr",
+      "en": "mehr",
+      "ru": [
+        "больше",
+        "более",
+        "ещё"
+      ],
+      "example": "\"Sie haben keine Croissants mehr?\" \"Alle verkauft.\"",
+      "level": "A1",
+      "sourceId": "more",
+      "sourceIds": [
+        "more"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "die-meisten",
+      "word": "die meisten",
+      "en": "die meisten",
+      "ru": [
+        "наиболее",
+        "самый",
+        "большинство"
+      ],
+      "example": "Adams verbrachte die meisten Kriegsjahre in Europa.",
+      "level": "A1",
+      "sourceId": "most",
+      "sourceIds": [
+        "most"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "meistens",
+      "word": "meistens",
+      "en": "meistens",
+      "ru": [
+        "в основном",
+        "главным образом",
+        "по большей части"
+      ],
+      "example": "Das Fahrradabteil ist meistens hinten im Zug.",
+      "level": "B1",
+      "sourceId": "mostly",
+      "sourceIds": [
+        "mostly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "weniger",
+      "word": "weniger",
+      "en": "weniger",
+      "ru": [
+        "менее",
+        "меньше",
+        "меньший"
+      ],
+      "example": "Alle Familien sind mehr oder weniger Problemfälle.",
+      "level": "A1",
+      "sourceId": "less",
+      "sourceIds": [
+        "less"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kleiner",
+      "word": "kleiner",
+      "en": "kleiner",
+      "ru": [
+        "меньший"
+      ],
+      "example": "An der Ladentür wartet ein kleiner Hund.",
+      "level": "C1",
+      "sourceId": "lesser",
+      "sourceIds": [
+        "lesser"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kleinst",
+      "word": "kleinst",
+      "en": "kleinst",
+      "ru": [
+        "наименьший"
+      ],
+      "example": "",
+      "level": "A1",
+      "sourceId": "least",
+      "sourceIds": [
+        "least"
+      ],
+      "pos": "determiner"
+    },
+    {
+      "id": "los",
+      "word": "Los",
+      "en": "Los",
+      "ru": [
+        "группа",
+        "судьба",
+        "участь"
+      ],
+      "example": "Die Deutschen sind mit ihrem Los zufrieden.",
+      "level": "A1",
+      "sourceId": "lot",
+      "sourceIds": [
+        "lot"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "teil",
+      "word": "Teil",
+      "en": "Teil",
+      "ru": [
+        "часть",
+        "доля",
+        "роль"
+      ],
+      "example": "Abbildung sieben zeigt alle Teile des Motors.",
+      "level": "A1",
+      "sourceId": "part",
+      "sourceIds": [
+        "part"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zum-teil",
+      "word": "zum Teil",
+      "en": "zum Teil",
+      "ru": [
+        "отчасти",
+        "частично"
+      ],
+      "example": "Das ist wahr, aber nur zum Teil.",
+      "level": "B2",
+      "sourceId": "partly",
+      "sourceIds": [
+        "partly"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vierteljahrlich",
+      "word": "vierteljährlich",
+      "en": "vierteljährlich",
+      "ru": [
+        "ежеквартальный",
+        "квартальный",
+        "трёхмесячный"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "quarterly",
+      "sourceIds": [
+        "quarterly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "mass",
+      "word": "Maß",
+      "en": "Maß",
+      "ru": [
+        "количество",
+        "мера",
+        "измерять"
+      ],
+      "example": "Aristoteles fordert eine Ethik des rechten Maßes.",
+      "level": "B1",
+      "sourceId": "measure",
+      "sourceIds": [
+        "measure"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mass",
+      "word": "Maß",
+      "en": "Maß",
+      "ru": [
+        "измерение",
+        "обмер",
+        "мера"
+      ],
+      "example": "Aristoteles fordert eine Ethik des rechten Maßes.",
+      "level": "B1",
+      "sourceId": "measurement",
+      "sourceIds": [
+        "measurement"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "messung",
+      "word": "Messung",
+      "en": "Messung",
+      "ru": [
+        "измерение"
+      ],
+      "example": "Die Messung ist viel zu ungenau.",
+      "level": "B2",
+      "sourceId": "measuring",
+      "sourceIds": [
+        "measuring"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "messgerat",
+      "word": "Messgerät",
+      "en": "Messgerät",
+      "ru": [
+        "счётчик",
+        "измеритель",
+        "размер"
+      ],
+      "example": "Der Geigerzähler ist ein Messgerät für Radioaktivität.",
+      "level": "B1",
+      "sourceId": "meter",
+      "sourceIds": [
+        "meter"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zoll",
+      "word": "Zoll",
+      "en": "Zoll",
+      "ru": [
+        "дюйм"
+      ],
+      "example": "Die geschmuggelten Waren wurden vom Zoll eingezogen.",
+      "level": "B1",
+      "sourceId": "inch",
+      "sourceIds": [
+        "inch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "meile",
+      "word": "Meile",
+      "en": "Meile",
+      "ru": [
+        "миля",
+        "узел"
+      ],
+      "example": "An diesem Tag ritt ich fünfzig Meilen.",
+      "level": "B1",
+      "sourceId": "mile",
+      "sourceIds": [
+        "mile"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "kilogramm",
+      "word": "Kilogramm",
+      "en": "Kilogramm",
+      "ru": [
+        "килограмм"
+      ],
+      "example": "Auf wie viele Kilogramm beläuft es sich?",
+      "level": "B1",
+      "sourceId": "kilogram",
+      "sourceIds": [
+        "kilogram"
+      ],
+      "pos": "n",
+      "gender": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}

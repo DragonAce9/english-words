@@ -1,0 +1,7376 @@
+{
+  "id": "food",
+  "title": "Еда",
+  "paid": false,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "alcohol",
+      "word": "alcohol",
+      "en": "alcohol",
+      "ru": [
+        "спирт",
+        "алкоголь",
+        "алкогольный напиток"
+      ],
+      "example": "A ella no le perjudicó tomar alcohol.",
+      "level": "B1",
+      "sourceId": "alcohol",
+      "sourceIds": [
+        "alcohol"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sin-alcohol",
+      "word": "sin alcohol",
+      "en": "sin alcohol",
+      "ru": [
+        "безалкогольный"
+      ],
+      "example": "En alcohol esto se conserva sin problemas.",
+      "level": "C2",
+      "sourceId": "alcohol-free",
+      "sourceIds": [
+        "alcohol-free"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "almendra",
+      "word": "almendra",
+      "en": "almendra",
+      "ru": [
+        "миндаль"
+      ],
+      "example": "Compramos almendras para las ardillas del parque.",
+      "level": "C2",
+      "sourceId": "almond",
+      "sourceIds": [
+        "almond"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "deseo",
+      "word": "deseo",
+      "en": "deseo",
+      "ru": [
+        "аппетит"
+      ],
+      "example": "Ardo en deseos de volver a verte.",
+      "level": "C2",
+      "sourceId": "appetite",
+      "sourceIds": [
+        "appetite"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manzana",
+      "word": "manzana",
+      "en": "manzana",
+      "ru": [
+        "яблоко"
+      ],
+      "example": "A la chica le dio algunas manzanas.",
+      "level": "A1",
+      "sourceId": "apple",
+      "sourceIds": [
+        "apple"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tocino",
+      "word": "tocino",
+      "en": "tocino",
+      "ru": [
+        "бекон",
+        "ветчина"
+      ],
+      "example": "A mí solo me gusta el tocino fresco.",
+      "level": "C1",
+      "sourceId": "bacon",
+      "sourceIds": [
+        "bacon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hornear",
+      "word": "hornear",
+      "en": "hornear",
+      "ru": [
+        "печь",
+        "выпекание",
+        "запекание"
+      ],
+      "example": "\"¿Quién hornea los pasteles?\" \"Alessandra los hornea.\"",
+      "level": "C2",
+      "sourceId": "bake",
+      "sourceIds": [
+        "bake"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "horneado",
+      "word": "horneado",
+      "en": "horneado",
+      "ru": [
+        "запечённый",
+        "печёный"
+      ],
+      "example": "Me gusta el olor del pan recién horneado.",
+      "level": "C2",
+      "sourceId": "baked",
+      "sourceIds": [
+        "baked"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panpasteleo",
+      "word": "panpasteleo",
+      "en": "panpasteleo",
+      "ru": [
+        "выпечка",
+        "выпекание"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "baking",
+      "sourceIds": [
+        "baking"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "platano",
+      "word": "plátano",
+      "en": "plátano",
+      "ru": [
+        "банан",
+        "банановое дерево"
+      ],
+      "example": "A Ariel le gustan los plátanos fritos.",
+      "level": "A1",
+      "sourceId": "banana",
+      "sourceIds": [
+        "banana"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barras",
+      "word": "barras",
+      "en": "barras",
+      "ru": [
+        "брусья",
+        "решётка"
+      ],
+      "example": "El cajero escaneó el código de barras.",
+      "level": "B1",
+      "sourceId": "bars",
+      "sourceIds": [
+        "bars"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "judia",
+      "word": "judía",
+      "en": "judía",
+      "ru": [
+        "боб",
+        "фасоль"
+      ],
+      "example": "¿Esta es una biblia judía o católica?",
+      "level": "B2",
+      "sourceId": "bean",
+      "sourceIds": [
+        "bean"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frijoles",
+      "word": "frijoles",
+      "en": "frijoles",
+      "ru": [
+        "бобы",
+        "фасоль"
+      ],
+      "example": "¿A ti te gustan los frijoles, verdad?",
+      "level": "C1",
+      "sourceId": "beans",
+      "sourceIds": [
+        "beans"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carne-de-vaca",
+      "word": "carne de vaca",
+      "en": "carne de vaca",
+      "ru": [
+        "говяжий",
+        "говядина",
+        "телятина"
+      ],
+      "example": "¿Quieren ustedes carne de vaca o de cerdo?",
+      "level": "B2",
+      "sourceId": "beef",
+      "sourceIds": [
+        "beef"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cerveza",
+      "word": "cerveza",
+      "en": "cerveza",
+      "ru": [
+        "пиво"
+      ],
+      "example": "A Pablo no le gusta la cerveza.",
+      "level": "B1",
+      "sourceId": "beer",
+      "sourceIds": [
+        "beer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "baya",
+      "word": "baya",
+      "en": "baya",
+      "ru": [
+        "ягода"
+      ],
+      "example": "Aún quedaba alguna baya en el arbusto.",
+      "level": "C1",
+      "sourceId": "berry",
+      "sourceIds": [
+        "berry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "amargo",
+      "word": "amargo",
+      "en": "amargo",
+      "ru": [
+        "горький",
+        "мучительный",
+        "суровый"
+      ],
+      "example": "El destino me dio una amarga lección.",
+      "level": "C2",
+      "sourceId": "bitter",
+      "sourceIds": [
+        "bitter"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "amargamente",
+      "word": "amargamente",
+      "en": "amargamente",
+      "ru": [
+        "горько"
+      ],
+      "example": "Ayer vi a un hombre llorar amargamente.",
+      "level": "C2",
+      "sourceId": "bitterly",
+      "sourceIds": [
+        "bitterly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "furunculo",
+      "word": "furúnculo",
+      "en": "furúnculo",
+      "ru": [
+        "нарыв",
+        "фурункул",
+        "чирей"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "boil",
+      "sourceIds": [
+        "boil"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "hervoroso",
+      "word": "hervoroso",
+      "en": "hervoroso",
+      "ru": [
+        "кипение"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "boiling",
+      "sourceIds": [
+        "boiling"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "botella",
+      "word": "botella",
+      "en": "botella",
+      "ru": [
+        "бутылка",
+        "охапка (сена)",
+        "сноп"
+      ],
+      "example": "Agarrá un sacacorchos y abrí la botella.",
+      "level": "B1",
+      "sourceId": "bottle",
+      "sourceIds": [
+        "bottle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tazon",
+      "word": "tazón",
+      "en": "tazón",
+      "ru": [
+        "миска",
+        "пиала",
+        "плошка"
+      ],
+      "example": "Ella vertió la leche en un tazón.",
+      "level": "B1",
+      "sourceId": "bowl",
+      "sourceIds": [
+        "bowl"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pan",
+      "word": "pan",
+      "en": "pan",
+      "ru": [
+        "хлеб",
+        "панировать"
+      ],
+      "example": "A buen hambre no hay pan duro.",
+      "level": "A1",
+      "sourceId": "bread",
+      "sourceIds": [
+        "bread"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "desayuno",
+      "word": "desayuno",
+      "en": "desayuno",
+      "ru": [
+        "завтрак",
+        "завтракать",
+        "позавтракать"
+      ],
+      "example": "Bob prepara el desayuno en la mañana.",
+      "level": "A1",
+      "sourceId": "breakfast",
+      "sourceIds": [
+        "breakfast"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "burger",
+      "word": "burger",
+      "en": "burger",
+      "ru": [
+        "бургер",
+        "бутерброд",
+        "гамбургер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "burger",
+      "sourceIds": [
+        "burger"
+      ],
+      "pos": "n",
+      "gender": "m/f"
+    },
+    {
+      "id": "mantequilla",
+      "word": "mantequilla",
+      "en": "mantequilla",
+      "ru": [
+        "масло",
+        "сливочное масло",
+        "намазать маслом"
+      ],
+      "example": "Ella untó margarina en lugar de mantequilla.",
+      "level": "A1",
+      "sourceId": "butter",
+      "sourceIds": [
+        "butter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "col",
+      "word": "col",
+      "en": "col",
+      "ru": [
+        "капуста",
+        "кочанная капуста"
+      ],
+      "example": "\"Quisiera una Coca-Cola.\" \"¿Puede ser una Pepsi?\"",
+      "level": "C2",
+      "sourceId": "cabbage",
+      "sourceIds": [
+        "cabbage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comedor",
+      "word": "comedor",
+      "en": "comedor",
+      "ru": [
+        "буфет",
+        "закусочная",
+        "кафетерий"
+      ],
+      "example": "Ellá organizó los platillos en el comedor.",
+      "level": "C2",
+      "sourceId": "cafeteria",
+      "sourceIds": [
+        "cafeteria"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pastel",
+      "word": "pastel",
+      "en": "pastel",
+      "ru": [
+        "торт",
+        "кекс",
+        "пирожное"
+      ],
+      "example": "\"¿Le gusta el pastel?\" \"Sí, me gusta.\"",
+      "level": "A1",
+      "sourceId": "cake",
+      "sourceIds": [
+        "cake"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lata",
+      "word": "lata",
+      "en": "lata",
+      "ru": [
+        "жестяная банка"
+      ],
+      "example": "Con dos latas de tomate tengo suficiente.",
+      "level": "A1",
+      "sourceId": "can",
+      "sourceIds": [
+        "can",
+        "tin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dulce",
+      "word": "dulce",
+      "en": "dulce",
+      "ru": [
+        "конфета",
+        "сласть"
+      ],
+      "example": "A mi hermana le encantan los dulces.",
+      "level": "B2",
+      "sourceId": "candy",
+      "sourceIds": [
+        "candy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zanahoria",
+      "word": "zanahoria",
+      "en": "zanahoria",
+      "ru": [
+        "морковь",
+        "морковка",
+        "морква"
+      ],
+      "example": "A Tom no le gustan las zanahorias.",
+      "level": "C2",
+      "sourceId": "carrot",
+      "sourceIds": [
+        "carrot"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caviar",
+      "word": "caviar",
+      "en": "caviar",
+      "ru": [
+        "икра"
+      ],
+      "example": "Él en realidad no ha comido caviar.",
+      "level": "C2",
+      "sourceId": "caviar",
+      "sourceIds": [
+        "caviar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cereal",
+      "word": "cereal",
+      "en": "cereal",
+      "ru": [
+        "злак",
+        "зерновая культура",
+        "крупа"
+      ],
+      "example": "El cereal sufrió daños por la inundación.",
+      "level": "C2",
+      "sourceId": "cereal",
+      "sourceIds": [
+        "cereal"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "champana",
+      "word": "Champaña",
+      "en": "Champaña",
+      "ru": [
+        "шампанское",
+        "игристое вино"
+      ],
+      "example": "¿Qué haces ahí sentado? ¡Sirve la champaña!",
+      "level": "C1",
+      "sourceId": "champagne",
+      "sourceIds": [
+        "champagne"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carlota",
+      "word": "Carlota",
+      "en": "Carlota",
+      "ru": [
+        "шарлотка"
+      ],
+      "example": "Cuando llegue Carlota, hágala pasar, por favor.",
+      "level": "B1",
+      "sourceId": "charlotte",
+      "sourceIds": [
+        "charlotte"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "queso",
+      "word": "queso",
+      "en": "queso",
+      "ru": [
+        "сыр",
+        "творог"
+      ],
+      "example": "A Tom no le gusta el queso.",
+      "level": "A1",
+      "sourceId": "cheese",
+      "sourceIds": [
+        "cheese"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chef",
+      "word": "chef",
+      "en": "chef",
+      "ru": [
+        "повар",
+        "старший кок",
+        "шеф-повар"
+      ],
+      "example": "El chef se acercó a nuestra mesa.",
+      "level": "B2",
+      "sourceId": "chef",
+      "sourceIds": [
+        "chef"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cereza",
+      "word": "cereza",
+      "en": "cereza",
+      "ru": [
+        "вишнёвый",
+        "вишня",
+        "черешня"
+      ],
+      "example": "Hoy a mediodía comeremos cerezas de Italia.",
+      "level": "B2",
+      "sourceId": "cherry",
+      "sourceIds": [
+        "cherry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pollo",
+      "word": "pollo",
+      "en": "pollo",
+      "ru": [
+        "курица",
+        "цыплёнок",
+        "курятина"
+      ],
+      "example": "Comimos un poco de sopa de pollo.",
+      "level": "A1",
+      "sourceId": "chicken",
+      "sourceIds": [
+        "chicken"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chocolate",
+      "word": "chocolate",
+      "en": "chocolate",
+      "ru": [
+        "шоколадный",
+        "шоколад",
+        "шоколадная конфета"
+      ],
+      "example": "A Ann le gusta mucho el chocolate.",
+      "level": "B1",
+      "sourceId": "chocolate",
+      "sourceIds": [
+        "chocolate"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cocktail",
+      "word": "cocktail",
+      "en": "cocktail",
+      "ru": [
+        "коктейль",
+        "коктель"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "cocktail",
+      "sourceIds": [
+        "cocktail"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cafe",
+      "word": "café",
+      "en": "café",
+      "ru": [
+        "кофе",
+        "кофейный",
+        "кофейное зерно"
+      ],
+      "example": "A Tom le gusta su café negro.",
+      "level": "A1",
+      "sourceId": "coffee",
+      "sourceIds": [
+        "coffee"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "coca",
+      "word": "coca",
+      "en": "coca",
+      "ru": [
+        "кола"
+      ],
+      "example": "\"Quisiera una Coca-Cola.\" \"¿Puede ser una Pepsi?\"",
+      "level": "C2",
+      "sourceId": "coke",
+      "sourceIds": [
+        "coke",
+        "cola"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cocinar",
+      "word": "cocinar",
+      "en": "cocinar",
+      "ru": [
+        "готовить"
+      ],
+      "example": "\"¿Dónde está mi sándwich?\" \"En la cocina.\"",
+      "level": "A1",
+      "sourceId": "cook",
+      "sourceIds": [
+        "cook"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cocinado",
+      "word": "cocinado",
+      "en": "cocinado",
+      "ru": [
+        "варёный",
+        "приготовленный",
+        "сваренный"
+      ],
+      "example": "El bistec fue cocinado a la perfección.",
+      "level": "C1",
+      "sourceId": "cooked",
+      "sourceIds": [
+        "cooked"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "galleta",
+      "word": "galleta",
+      "en": "galleta",
+      "ru": [
+        "печенье"
+      ],
+      "example": "\"¿Y cómo va la dieta?\" \"¿Cuál galleta?\"",
+      "level": "B2",
+      "sourceId": "cookie",
+      "sourceIds": [
+        "cookie",
+        "biscuit"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cocinado",
+      "word": "cocinado",
+      "en": "cocinado",
+      "ru": [
+        "готовка",
+        "кулинария",
+        "стряпня"
+      ],
+      "example": "El bistec fue cocinado a la perfección.",
+      "level": "B1",
+      "sourceId": "cooking",
+      "sourceIds": [
+        "cooking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grano",
+      "word": "grano",
+      "en": "grano",
+      "ru": [
+        "кукуруза"
+      ],
+      "example": "Déjate de florituras y ve al grano.",
+      "level": "B2",
+      "sourceId": "corn",
+      "sourceIds": [
+        "corn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crema",
+      "word": "crema",
+      "en": "crema",
+      "ru": [
+        "кремовый",
+        "сметана",
+        "сливки"
+      ],
+      "example": "Añada un poco de azúcar y crema.",
+      "level": "B1",
+      "sourceId": "cream",
+      "sourceIds": [
+        "cream"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pepino",
+      "word": "pepino",
+      "en": "pepino",
+      "ru": [
+        "огурец"
+      ],
+      "example": "Les importa un pepino lo que comen.",
+      "level": "C2",
+      "sourceId": "cucumber",
+      "sourceIds": [
+        "cucumber"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taza",
+      "word": "taza",
+      "en": "taza",
+      "ru": [
+        "чашка",
+        "чаша",
+        "кубок"
+      ],
+      "example": "Cambié las tazas rotas por unas nuevas.",
+      "level": "A2",
+      "sourceId": "cup",
+      "sourceIds": [
+        "cup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rico",
+      "word": "rico",
+      "en": "rico",
+      "ru": [
+        "вкусный",
+        "вкусно",
+        "лакомый"
+      ],
+      "example": "Adriana es de Costa Rica. Es costarricense.",
+      "level": "A1",
+      "sourceId": "delicious",
+      "sourceIds": [
+        "delicious"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "delicia",
+      "word": "delicia",
+      "en": "delicia",
+      "ru": [
+        "вкуснота"
+      ],
+      "example": "A Evaristo le encantan las delicias turcas.",
+      "level": "C2",
+      "sourceId": "deliciousness",
+      "sourceIds": [
+        "deliciousness"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dulce",
+      "word": "dulce",
+      "en": "dulce",
+      "ru": [
+        "десерт",
+        "сладкое"
+      ],
+      "example": "A mi hermana le encantan los dulces.",
+      "level": "C2",
+      "sourceId": "dessert",
+      "sourceIds": [
+        "dessert"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuchara-de-postre",
+      "word": "cuchara de postre",
+      "en": "cuchara de postre",
+      "ru": [
+        "десертная ложка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "dessertspoon",
+      "sourceIds": [
+        "dessertspoon"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cena",
+      "word": "cena",
+      "en": "cena",
+      "ru": [
+        "ужин",
+        "обед",
+        "ужинать"
+      ],
+      "example": "Acabo de preparar espaguetis para nuestra cena.",
+      "level": "A1",
+      "sourceId": "dinner",
+      "sourceIds": [
+        "dinner"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "plato",
+      "word": "plato",
+      "en": "plato",
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "миска"
+      ],
+      "example": "A Tom no le gusta lavar platos.",
+      "level": "B1",
+      "sourceId": "dish",
+      "sourceIds": [
+        "dish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "platos",
+      "word": "platos",
+      "en": "platos",
+      "ru": [
+        "посуда",
+        "блюда"
+      ],
+      "example": "A Tom no le gusta lavar platos.",
+      "level": "C1",
+      "sourceId": "dishes",
+      "sourceIds": [
+        "dishes"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tomar",
+      "word": "tomar",
+      "en": "tomar",
+      "ru": [
+        "пить"
+      ],
+      "example": "\"El teléfono está sonando.\" \"Yo lo tomaré\".",
+      "level": "A1",
+      "sourceId": "drink",
+      "sourceIds": [
+        "drink"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beber",
+      "word": "beber",
+      "en": "beber",
+      "ru": [
+        "питьё"
+      ],
+      "example": "A Azucena le encantan las bebidas chocolatadas.",
+      "level": "B1",
+      "sourceId": "drinking",
+      "sourceIds": [
+        "drinking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comer",
+      "word": "comer",
+      "en": "comer",
+      "ru": [
+        "есть"
+      ],
+      "example": "\"¿Dónde quieres comer?\" \"No sé. Decide tú.\"",
+      "level": "A1",
+      "sourceId": "eat",
+      "sourceIds": [
+        "eat"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comida",
+      "word": "comida",
+      "en": "comida",
+      "ru": [
+        "еда",
+        "принятие пищи",
+        "пища"
+      ],
+      "example": "'Picotear' entre comidas es un mal hábito.",
+      "level": "B1",
+      "sourceId": "eating",
+      "sourceIds": [
+        "eating"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "huevo",
+      "word": "huevo",
+      "en": "huevo",
+      "ru": [
+        "яйцо"
+      ],
+      "example": "A Tom no le gustan los huevos.",
+      "level": "A1",
+      "sourceId": "egg",
+      "sourceIds": [
+        "egg"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cascaras-de-huevo",
+      "word": "cáscaras de huevo",
+      "en": "cáscaras de huevo",
+      "ru": [
+        "яичная скорлупа"
+      ],
+      "example": "¿Dónde puedo tirar estas cáscaras de huevo?",
+      "level": "A1",
+      "sourceId": "egg-shells",
+      "sourceIds": [
+        "egg-shells"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimentar",
+      "word": "alimentar",
+      "en": "alimentar",
+      "ru": [
+        "кормить"
+      ],
+      "example": "El condimento del alimento es el hambre.",
+      "level": "A2",
+      "sourceId": "feed",
+      "sourceIds": [
+        "feed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "relleno",
+      "word": "relleno",
+      "en": "relleno",
+      "ru": [
+        "сытный",
+        "наполнение",
+        "пломба"
+      ],
+      "example": "De la galletita solo come el relleno.",
+      "level": "B2",
+      "sourceId": "filling",
+      "sourceIds": [
+        "filling"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pescado",
+      "word": "pescado",
+      "en": "pescado",
+      "ru": [
+        "рыба"
+      ],
+      "example": "A Tom no le gusta comer pescado.",
+      "level": "A1",
+      "sourceId": "fish",
+      "sourceIds": [
+        "fish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sabor",
+      "word": "sabor",
+      "en": "sabor",
+      "ru": [
+        "вкус",
+        "аромат",
+        "букет"
+      ],
+      "example": "El limón tiene un sabor muy particular.",
+      "level": "C1",
+      "sourceId": "flavor",
+      "sourceIds": [
+        "flavor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saborizante",
+      "word": "saborizante",
+      "en": "saborizante",
+      "ru": [
+        "приправа"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "flavoring",
+      "sourceIds": [
+        "flavoring"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "harina",
+      "word": "harina",
+      "en": "harina",
+      "ru": [
+        "мука"
+      ],
+      "example": "El pan sale según sea la harina.",
+      "level": "C1",
+      "sourceId": "flour",
+      "sourceIds": [
+        "flour"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comida",
+      "word": "comida",
+      "en": "comida",
+      "ru": [
+        "пища",
+        "еда",
+        "корм"
+      ],
+      "example": "'Picotear' entre comidas es un mal hábito.",
+      "level": "A1",
+      "sourceId": "food",
+      "sourceIds": [
+        "food"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tenedor",
+      "word": "tenedor",
+      "en": "tenedor",
+      "ru": [
+        "вилка"
+      ],
+      "example": "Se cayó un tenedor de la mesa.",
+      "level": "C1",
+      "sourceId": "fork",
+      "sourceIds": [
+        "fork"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fresco",
+      "word": "fresco",
+      "en": "fresco",
+      "ru": [
+        "свежий"
+      ],
+      "example": "A Tom le gusta el aire fresco.",
+      "level": "B1",
+      "sourceId": "fresh",
+      "sourceIds": [
+        "fresh"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "frito",
+      "word": "frito",
+      "en": "frito",
+      "ru": [
+        "жареный"
+      ],
+      "example": "A Ariel le gustan los plátanos fritos.",
+      "level": "C2",
+      "sourceId": "fried",
+      "sourceIds": [
+        "fried"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fruto",
+      "word": "fruto",
+      "en": "fruto",
+      "ru": [
+        "фрукт",
+        "плод",
+        "фрукты"
+      ],
+      "example": "De árbol envenenado todo fruto sale venenoso.",
+      "level": "A1",
+      "sourceId": "fruit",
+      "sourceIds": [
+        "fruit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "freirse",
+      "word": "freírse",
+      "en": "freírse",
+      "ru": [
+        "жарить"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "fry",
+      "sourceIds": [
+        "fry"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "ajo",
+      "word": "ajo",
+      "en": "ajo",
+      "ru": [
+        "чеснок"
+      ],
+      "example": "Ayer comí chuletillas con salsa de ajo.",
+      "level": "C1",
+      "sourceId": "garlic",
+      "sourceIds": [
+        "garlic"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cristal",
+      "word": "cristal",
+      "en": "cristal",
+      "ru": [
+        "стекло",
+        "бокал",
+        "стакан"
+      ],
+      "example": "Este cristal es muy caro, al parecer.",
+      "level": "A2",
+      "sourceId": "glass",
+      "sourceIds": [
+        "glass"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gourmet",
+      "word": "gourmet",
+      "en": "gourmet",
+      "ru": [
+        "гастроном",
+        "гурман",
+        "лакомка"
+      ],
+      "example": "Él es un gourmet.",
+      "level": "B1",
+      "sourceId": "gourmet",
+      "sourceIds": [
+        "gourmet"
+      ],
+      "pos": "adj",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "uva",
+      "word": "uva",
+      "en": "uva",
+      "ru": [
+        "виноград",
+        "виноградина"
+      ],
+      "example": "Estamos bebiendo jugo de uva y banana.",
+      "level": "C2",
+      "sourceId": "grape",
+      "sourceIds": [
+        "grape"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "verduras",
+      "word": "verduras",
+      "en": "verduras",
+      "ru": [
+        "овощ",
+        "зелень"
+      ],
+      "example": "A Manuel no le gustan las verduras.",
+      "level": "C2",
+      "sourceId": "greens",
+      "sourceIds": [
+        "greens"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rejilla",
+      "word": "rejilla",
+      "en": "rejilla",
+      "ru": [
+        "решётка",
+        "барбекю",
+        "барбекюшница"
+      ],
+      "example": "Esta rejilla está llena de mugre.",
+      "level": "B2",
+      "sourceId": "grill",
+      "sourceIds": [
+        "grill"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-la-parrilla",
+      "word": "a la parrilla",
+      "en": "a la parrilla",
+      "ru": [
+        "жареный"
+      ],
+      "example": "¿No tenés alcohol para prender la parrilla?",
+      "level": "C2",
+      "sourceId": "grilled",
+      "sourceIds": [
+        "grilled"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carne-picada",
+      "word": "carne picada",
+      "en": "carne picada",
+      "ru": [
+        "фарш"
+      ],
+      "example": "Necesito carne picada para hacer las albóndigas.",
+      "level": "A2",
+      "sourceId": "ground-meat",
+      "sourceIds": [
+        "ground-meat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jamon",
+      "word": "jamón",
+      "en": "jamón",
+      "ru": [
+        "ветчина"
+      ],
+      "example": "El jamón bueno no tiene tanta sal.",
+      "level": "C1",
+      "sourceId": "ham",
+      "sourceIds": [
+        "ham"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gallina",
+      "word": "gallina",
+      "en": "gallina",
+      "ru": [
+        "курица",
+        "курочка",
+        "самка"
+      ],
+      "example": "\"¡Quiquiriquí!\" canta el gallo por la mañana.",
+      "level": "C2",
+      "sourceId": "hen",
+      "sourceIds": [
+        "hen"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hierba",
+      "word": "hierba",
+      "en": "hierba",
+      "ru": [
+        "пряная трава",
+        "зелень"
+      ],
+      "example": "Acostamos al hombre herido en la hierba.",
+      "level": "C1",
+      "sourceId": "herb",
+      "sourceIds": [
+        "herb"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arenque",
+      "word": "arenque",
+      "en": "arenque",
+      "ru": [
+        "сельдь",
+        "селёдка"
+      ],
+      "example": "En Dinamarca comí todo tipo de arenques.",
+      "level": "C2",
+      "sourceId": "herring",
+      "sourceIds": [
+        "herring"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miel",
+      "word": "miel",
+      "en": "miel",
+      "ru": [
+        "мёд"
+      ],
+      "example": "A los osos le gusta la miel.",
+      "level": "B2",
+      "sourceId": "honey",
+      "sourceIds": [
+        "honey"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hambriento",
+      "word": "hambriento",
+      "en": "hambriento",
+      "ru": [
+        "голодный",
+        "алчущий",
+        "жаждущий"
+      ],
+      "example": "Debes estar hambriento para comer tanto arroz.",
+      "level": "A1",
+      "sourceId": "hungry",
+      "sourceIds": [
+        "hungry"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ingrediente",
+      "word": "ingrediente",
+      "en": "ingrediente",
+      "ru": [
+        "ингредиент",
+        "компонент",
+        "составная часть"
+      ],
+      "example": "Hay que preparar los ingredientes por separado.",
+      "level": "A2",
+      "sourceId": "ingredient",
+      "sourceIds": [
+        "ingredient"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atasco",
+      "word": "atasco",
+      "en": "atasco",
+      "ru": [
+        "джем",
+        "варенье",
+        "конфитюр"
+      ],
+      "example": "El autobús llegó tarde por el atasco.",
+      "level": "B2",
+      "sourceId": "jam",
+      "sourceIds": [
+        "jam"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jugo",
+      "word": "jugo",
+      "en": "jugo",
+      "ru": [
+        "сок"
+      ],
+      "example": "\"Veamos... ¿tienes jugo de tomate?\" dice Hiroshi.",
+      "level": "B2",
+      "sourceId": "juice",
+      "sourceIds": [
+        "juice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "licuadora",
+      "word": "licuadora",
+      "en": "licuadora",
+      "ru": [
+        "соковыжималка"
+      ],
+      "example": "Se me acaba de averiar la licuadora.",
+      "level": "C2",
+      "sourceId": "juicer",
+      "sourceIds": [
+        "juicer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cordero",
+      "word": "cordero",
+      "en": "cordero",
+      "ru": [
+        "ягнёнок",
+        "агнец",
+        "барашек"
+      ],
+      "example": "Cuídate del lobo en piel de cordero.",
+      "level": "C1",
+      "sourceId": "lamb",
+      "sourceIds": [
+        "lamb"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limon",
+      "word": "limón",
+      "en": "limón",
+      "ru": [
+        "лимон"
+      ],
+      "example": "Bertrand tiene un balde lleno de limones.",
+      "level": "B2",
+      "sourceId": "lemon",
+      "sourceIds": [
+        "lemon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comida",
+      "word": "comida",
+      "en": "comida",
+      "ru": [
+        "обед",
+        "ленч",
+        "второй завтрак"
+      ],
+      "example": "'Picotear' entre comidas es un mal hábito.",
+      "level": "A1",
+      "sourceId": "lunch",
+      "sourceIds": [
+        "lunch"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manga",
+      "word": "manga",
+      "en": "manga",
+      "ru": [
+        "манго"
+      ],
+      "example": "Compré un bonito suéter de manga larga.",
+      "level": "A2",
+      "sourceId": "mango",
+      "sourceIds": [
+        "mango"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comida",
+      "word": "comida",
+      "en": "comida",
+      "ru": [
+        "еда",
+        "снедь",
+        "пища"
+      ],
+      "example": "'Picotear' entre comidas es un mal hábito.",
+      "level": "A1",
+      "sourceId": "meal",
+      "sourceIds": [
+        "meal"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carne",
+      "word": "carne",
+      "en": "carne",
+      "ru": [
+        "мясо",
+        "мякоть"
+      ],
+      "example": "Algunos animales, como el león, comen carne.",
+      "level": "A1",
+      "sourceId": "meat",
+      "sourceIds": [
+        "meat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "melon",
+      "word": "melón",
+      "en": "melón",
+      "ru": [
+        "дыня"
+      ],
+      "example": "Este tipo de melón se llama cantalupo.",
+      "level": "A2",
+      "sourceId": "melon",
+      "sourceIds": [
+        "melon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menu",
+      "word": "menú",
+      "en": "menú",
+      "ru": [
+        "меню"
+      ],
+      "example": "El menú del día jueves es macrobiótico.",
+      "level": "A1",
+      "sourceId": "menu",
+      "sourceIds": [
+        "menu"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "leche",
+      "word": "leche",
+      "en": "leche",
+      "ru": [
+        "молоко"
+      ],
+      "example": "A Meri le gusta mucho la leche.",
+      "level": "A1",
+      "sourceId": "milk",
+      "sourceIds": [
+        "milk"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ordeno",
+      "word": "ordeño",
+      "en": "ordeño",
+      "ru": [
+        "дойка",
+        "доение"
+      ],
+      "example": "El ordeño no daña a las cabras.",
+      "level": "C2",
+      "sourceId": "milking",
+      "sourceIds": [
+        "milking"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "seta",
+      "word": "seta",
+      "en": "seta",
+      "ru": [
+        "грибовидный",
+        "гриб",
+        "грибница"
+      ],
+      "example": "Compré setas y algunas especias para cocinar.",
+      "level": "A2",
+      "sourceId": "mushroom",
+      "sourceIds": [
+        "mushroom"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "servilleta",
+      "word": "servilleta",
+      "en": "servilleta",
+      "ru": [
+        "салфетка"
+      ],
+      "example": "Por favor, vete a por unas servilletas.",
+      "level": "A2",
+      "sourceId": "napkin",
+      "sourceIds": [
+        "napkin",
+        "serviette"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fideo",
+      "word": "fideo",
+      "en": "fideo",
+      "ru": [
+        "лапша",
+        "макароны"
+      ],
+      "example": "Los fideos suelen estar hechos de trigo.",
+      "level": "A2",
+      "sourceId": "noodle",
+      "sourceIds": [
+        "noodle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nuez",
+      "word": "nuez",
+      "en": "nuez",
+      "ru": [
+        "орех",
+        "гайка"
+      ],
+      "example": "A las ardillas les gusta comer nueces.",
+      "level": "C1",
+      "sourceId": "nut",
+      "sourceIds": [
+        "nut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nutricion",
+      "word": "nutrición",
+      "en": "nutrición",
+      "ru": [
+        "питание"
+      ],
+      "example": "El agua juega un papel muy importante en la nutrición.",
+      "level": "B1",
+      "sourceId": "nutrition",
+      "sourceIds": [
+        "nutrition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimenticio",
+      "word": "alimenticio",
+      "en": "alimenticio",
+      "ru": [
+        "питательный"
+      ],
+      "example": "Ese psiquiatra se especializó en desórdenes alimenticios.",
+      "level": "C1",
+      "sourceId": "nutritional",
+      "sourceIds": [
+        "nutritional"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nutricionista",
+      "word": "nutricionista",
+      "en": "nutricionista",
+      "ru": [
+        "диетврач",
+        "диетолог"
+      ],
+      "example": "Los nutricionistas recomiendan dietas según las necesidades de cada persona.",
+      "level": "C2",
+      "sourceId": "nutritionist",
+      "sourceIds": [
+        "nutritionist"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aceite",
+      "word": "aceite",
+      "en": "aceite",
+      "ru": [
+        "масло",
+        "нефть",
+        "петролеум"
+      ],
+      "example": "Añadir una cucharada de aceite de oliva.",
+      "level": "A2",
+      "sourceId": "oil",
+      "sourceIds": [
+        "oil"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cebolla",
+      "word": "cebolla",
+      "en": "cebolla",
+      "ru": [
+        "лук",
+        "головка",
+        "луковица"
+      ],
+      "example": "A Tom no le gusta comer cebolla.",
+      "level": "A2",
+      "sourceId": "onion",
+      "sourceIds": [
+        "onion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "naranja",
+      "word": "naranja",
+      "en": "naranja",
+      "ru": [
+        "оранжевый",
+        "апельсин",
+        "апельсиновое дерево"
+      ],
+      "example": "A Tom no le gustan las naranjas.",
+      "level": "A1",
+      "sourceId": "orange",
+      "sourceIds": [
+        "orange"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "organico",
+      "word": "orgánico",
+      "en": "orgánico",
+      "ru": [
+        "органический"
+      ],
+      "example": "El fallo orgánico seguramente haya sido cardiovascular.",
+      "level": "B1",
+      "sourceId": "organic",
+      "sourceIds": [
+        "organic"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panqueque",
+      "word": "panqueque",
+      "en": "panqueque",
+      "ru": [
+        "блин",
+        "блинчик",
+        "налистник"
+      ],
+      "example": "Yo creía que te gustaban los panqueques.",
+      "level": "A2",
+      "sourceId": "pancake",
+      "sourceIds": [
+        "pancake"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasta",
+      "word": "pasta",
+      "en": "pasta",
+      "ru": [
+        "макаронные изделия",
+        "макароны",
+        "паста"
+      ],
+      "example": "Es como una especie de pasta asquerosa.",
+      "level": "A2",
+      "sourceId": "pasta",
+      "sourceIds": [
+        "pasta"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "guisante",
+      "word": "guisante",
+      "en": "guisante",
+      "ru": [
+        "горох",
+        "горошек",
+        "горошина"
+      ],
+      "example": "En Sudamérica le llaman alverja al guisante.",
+      "level": "A2",
+      "sourceId": "pea",
+      "sourceIds": [
+        "pea"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "melocoton",
+      "word": "melocotón",
+      "en": "melocotón",
+      "ru": [
+        "персик",
+        "персиковое дерево",
+        "персиковый"
+      ],
+      "example": "La tierra natal del melocotón es China.",
+      "level": "A2",
+      "sourceId": "peach",
+      "sourceIds": [
+        "peach"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mani",
+      "word": "maní",
+      "en": "maní",
+      "ru": [
+        "арахис",
+        "земляной орех",
+        "китайский орех"
+      ],
+      "example": "Creo que él tiene un maní.",
+      "level": "A2",
+      "sourceId": "peanut",
+      "sourceIds": [
+        "peanut"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuatro-cuartos",
+      "word": "cuatro cuartos",
+      "en": "cuatro cuartos",
+      "ru": [
+        "грош",
+        "копейка"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "peanuts",
+      "sourceIds": [
+        "peanuts"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pera",
+      "word": "pera",
+      "en": "pera",
+      "ru": [
+        "груша"
+      ],
+      "example": "A Tom no le gustan las peras.",
+      "level": "A2",
+      "sourceId": "pear",
+      "sourceIds": [
+        "pear"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pimienta",
+      "word": "pimienta",
+      "en": "pimienta",
+      "ru": [
+        "перец",
+        "чёрный перец",
+        "перчить"
+      ],
+      "example": "Acabé condimentándola solo con sal y pimienta.",
+      "level": "B2",
+      "sourceId": "pepper",
+      "sourceIds": [
+        "pepper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pastel",
+      "word": "pastel",
+      "en": "pastel",
+      "ru": [
+        "пирог",
+        "пирожок"
+      ],
+      "example": "\"¿Le gusta el pastel?\" \"Sí, me gusta.\"",
+      "level": "B2",
+      "sourceId": "pie",
+      "sourceIds": [
+        "pie"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pizza",
+      "word": "pizza",
+      "en": "pizza",
+      "ru": [
+        "пицца"
+      ],
+      "example": "A mi padre le encanta la pizza.",
+      "level": "B2",
+      "sourceId": "pizza",
+      "sourceIds": [
+        "pizza"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "plato",
+      "word": "plato",
+      "en": "plato",
+      "ru": [
+        "тарелка",
+        "блюдо",
+        "блюдце"
+      ],
+      "example": "A Tom no le gusta lavar platos.",
+      "level": "B1",
+      "sourceId": "plate",
+      "sourceIds": [
+        "plate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cerdo",
+      "word": "cerdo",
+      "en": "cerdo",
+      "ru": [
+        "свинина"
+      ],
+      "example": "A Tom no le gusta el cerdo.",
+      "level": "A2",
+      "sourceId": "pork",
+      "sourceIds": [
+        "pork"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "papilla",
+      "word": "papilla",
+      "en": "papilla",
+      "ru": [
+        "каша",
+        "овсянка"
+      ],
+      "example": "Cierra la boca y come tu papilla.",
+      "level": "A2",
+      "sourceId": "porridge",
+      "sourceIds": [
+        "porridge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patata",
+      "word": "patata",
+      "en": "patata",
+      "ru": [
+        "картофель",
+        "картофелина",
+        "картоха"
+      ],
+      "example": "Donde no hay mata no hay patata.",
+      "level": "A1",
+      "sourceId": "potato",
+      "sourceIds": [
+        "potato"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crudo",
+      "word": "crudo",
+      "en": "crudo",
+      "ru": [
+        "сырой",
+        "необработанный"
+      ],
+      "example": "A Tom le gusta comer ostras crudas.",
+      "level": "B1",
+      "sourceId": "raw",
+      "sourceIds": [
+        "raw"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "receta",
+      "word": "receta",
+      "en": "receta",
+      "ru": [
+        "рецепт"
+      ],
+      "example": "Aquí puede leer las recetas más importantes.",
+      "level": "B1",
+      "sourceId": "recipe",
+      "sourceIds": [
+        "recipe"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arroz",
+      "word": "arroz",
+      "en": "arroz",
+      "ru": [
+        "рис"
+      ],
+      "example": "A Tom le gusta el arroz basmati.",
+      "level": "A1",
+      "sourceId": "rice",
+      "sourceIds": [
+        "rice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asado",
+      "word": "asado",
+      "en": "asado",
+      "ru": [
+        "жарить",
+        "жареный",
+        "жаркое"
+      ],
+      "example": "Mi plato preferido son las patatas asadas.",
+      "level": "C2",
+      "sourceId": "roast",
+      "sourceIds": [
+        "roast"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ensalada",
+      "word": "ensalada",
+      "en": "ensalada",
+      "ru": [
+        "салат"
+      ],
+      "example": "Deja que prepare la ensalada yo hoy.",
+      "level": "A1",
+      "sourceId": "salad",
+      "sourceIds": [
+        "salad"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salado",
+      "word": "salado",
+      "en": "salado",
+      "ru": [
+        "соль",
+        "солить"
+      ],
+      "example": "En realidad la sopa estaba demasiado salada.",
+      "level": "B1",
+      "sourceId": "salt",
+      "sourceIds": [
+        "salt"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salado",
+      "word": "salado",
+      "en": "salado",
+      "ru": [
+        "солёный"
+      ],
+      "example": "En realidad la sopa estaba demasiado salada.",
+      "level": "C2",
+      "sourceId": "salted",
+      "sourceIds": [
+        "salted"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salado",
+      "word": "salado",
+      "en": "salado",
+      "ru": [
+        "солёный",
+        "соляной"
+      ],
+      "example": "En realidad la sopa estaba demasiado salada.",
+      "level": "A2",
+      "sourceId": "salty",
+      "sourceIds": [
+        "salty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sandwich",
+      "word": "sándwich",
+      "en": "sándwich",
+      "ru": [
+        "сандвич",
+        "сэндвич",
+        "бутерброд"
+      ],
+      "example": "\"¿Dónde está mi sándwich?\" \"En la cocina.\"",
+      "level": "A1",
+      "sourceId": "sandwich",
+      "sourceIds": [
+        "sandwich"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salsa",
+      "word": "salsa",
+      "en": "salsa",
+      "ru": [
+        "соус",
+        "подливка"
+      ],
+      "example": "Ayer comí chuletillas con salsa de ajo.",
+      "level": "B2",
+      "sourceId": "sauce",
+      "sourceIds": [
+        "sauce",
+        "gravy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "platillo",
+      "word": "platillo",
+      "en": "platillo",
+      "ru": [
+        "блюдце"
+      ],
+      "example": "Ellá organizó los platillos en el comedor.",
+      "level": "C2",
+      "sourceId": "saucer",
+      "sourceIds": [
+        "saucer"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salchicha",
+      "word": "salchicha",
+      "en": "salchicha",
+      "ru": [
+        "колбаса",
+        "сосиска",
+        "сарделька"
+      ],
+      "example": "Está comiendo salchichas con puré de papas.",
+      "level": "A2",
+      "sourceId": "sausage",
+      "sourceIds": [
+        "sausage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bala-fria",
+      "word": "bala fría",
+      "en": "bala fría",
+      "ru": [
+        "закуска",
+        "лёгкая закуска",
+        "перекус"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "snack",
+      "sourceIds": [
+        "snack"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "soda",
+      "word": "soda",
+      "en": "soda",
+      "ru": [
+        "газировка",
+        "содовая"
+      ],
+      "example": "¿Estas seguro que no quieres otra Soda?",
+      "level": "A2",
+      "sourceId": "soda",
+      "sourceIds": [
+        "soda"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sopa",
+      "word": "sopa",
+      "en": "sopa",
+      "ru": [
+        "суп",
+        "похлёбка",
+        "уха"
+      ],
+      "example": "\"¿Qué estás preparando?\" \"Una sopa de calabaza.\"",
+      "level": "B2",
+      "sourceId": "soup",
+      "sourceIds": [
+        "soup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "agrio",
+      "word": "agrio",
+      "en": "agrio",
+      "ru": [
+        "кислый",
+        "прокисший"
+      ],
+      "example": "La leche en mal estado es agria.",
+      "level": "A2",
+      "sourceId": "sour",
+      "sourceIds": [
+        "sour"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "especia",
+      "word": "especia",
+      "en": "especia",
+      "ru": [
+        "пряность",
+        "приправа",
+        "специя"
+      ],
+      "example": "Compré setas y algunas especias para cocinar.",
+      "level": "A2",
+      "sourceId": "spice",
+      "sourceIds": [
+        "spice"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "picante",
+      "word": "picante",
+      "en": "picante",
+      "ru": [
+        "острый",
+        "пряный"
+      ],
+      "example": "A Tom le gusta el curry picante.",
+      "level": "A2",
+      "sourceId": "spicy",
+      "sourceIds": [
+        "spicy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cuchara",
+      "word": "cuchara",
+      "en": "cuchara",
+      "ru": [
+        "ложка",
+        "ложечка"
+      ],
+      "example": "Ella revolvió la sopa con una cuchara.",
+      "level": "A2",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "entrada",
+      "word": "entrada",
+      "en": "entrada",
+      "ru": [
+        "стартер",
+        "стартёр",
+        "первое блюдо"
+      ],
+      "example": "Deberíamos quitarnos los zapatos en la entrada.",
+      "level": "B2",
+      "sourceId": "starter",
+      "sourceIds": [
+        "starter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "filete",
+      "word": "filete",
+      "en": "filete",
+      "ru": [
+        "стейк",
+        "бифштекс"
+      ],
+      "example": "Córtame los filetes muy finos, por favor.",
+      "level": "A2",
+      "sourceId": "steak",
+      "sourceIds": [
+        "steak"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fresa",
+      "word": "fresa",
+      "en": "fresa",
+      "ru": [
+        "клубника",
+        "земляника"
+      ],
+      "example": "Dame un helado de fresa, por favor.",
+      "level": "A2",
+      "sourceId": "strawberry",
+      "sourceIds": [
+        "strawberry"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "azucar",
+      "word": "azúcar",
+      "en": "azúcar",
+      "ru": [
+        "сахар",
+        "сахарить"
+      ],
+      "example": "\"¿Me podrías pasar el azúcar?\" \"Aquí tienes.\"",
+      "level": "A1",
+      "sourceId": "sugar",
+      "sourceIds": [
+        "sugar"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cena",
+      "word": "cena",
+      "en": "cena",
+      "ru": [
+        "ужин",
+        "вечеря",
+        "ужинать"
+      ],
+      "example": "Acabo de preparar espaguetis para nuestra cena.",
+      "level": "C2",
+      "sourceId": "supper",
+      "sourceIds": [
+        "supper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dulce",
+      "word": "dulce",
+      "en": "dulce",
+      "ru": [
+        "сладкий",
+        "конфета"
+      ],
+      "example": "A mi hermana le encantan los dulces.",
+      "level": "B1",
+      "sourceId": "sweet",
+      "sourceIds": [
+        "sweet"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dulcemente",
+      "word": "dulcemente",
+      "en": "dulcemente",
+      "ru": [
+        "сладко"
+      ],
+      "example": "Ella acarició a su bebé dulcemente.",
+      "level": "C2",
+      "sourceId": "sweetly",
+      "sourceIds": [
+        "sweetly"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dulces",
+      "word": "dulces",
+      "en": "dulces",
+      "ru": [
+        "конфета",
+        "кондитерские изделия",
+        "сладость"
+      ],
+      "example": "A mi hermana le encantan los dulces.",
+      "level": "A2",
+      "sourceId": "sweets",
+      "sourceIds": [
+        "sweets"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gusto",
+      "word": "gusto",
+      "en": "gusto",
+      "ru": [
+        "вкус",
+        "склонность",
+        "пробовать"
+      ],
+      "example": "Charlar con vosotras es un tremendo gusto.",
+      "level": "B2",
+      "sourceId": "taste",
+      "sourceIds": [
+        "taste"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cata",
+      "word": "cata",
+      "en": "cata",
+      "ru": [
+        "дегустация",
+        "пробование"
+      ],
+      "example": "Me gustaría trabajar en la cata de pasteles y dulces.",
+      "level": "C2",
+      "sourceId": "tasting",
+      "sourceIds": [
+        "tasting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hoja-de-te",
+      "word": "hoja de té",
+      "en": "hoja de té",
+      "ru": [
+        "чай",
+        "чашка чаю",
+        "чашка чая"
+      ],
+      "example": "¿Ya probaste el té de hojas de menta?",
+      "level": "A1",
+      "sourceId": "tea",
+      "sourceIds": [
+        "tea"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brindis",
+      "word": "brindis",
+      "en": "brindis",
+      "ru": [
+        "тост",
+        "здравица",
+        "поджаривать"
+      ],
+      "example": "Creo sinceramente que Fabiola merece este brindis.",
+      "level": "A2",
+      "sourceId": "toast",
+      "sourceIds": [
+        "toast"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tostadora",
+      "word": "tostadora",
+      "en": "tostadora",
+      "ru": [
+        "тостер"
+      ],
+      "example": "Ella ha roto la tostadora de nuevo.",
+      "level": "C2",
+      "sourceId": "toaster",
+      "sourceIds": [
+        "toaster"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tomate",
+      "word": "tomate",
+      "en": "tomate",
+      "ru": [
+        "помидор",
+        "томат"
+      ],
+      "example": "\"Veamos... ¿tienes jugo de tomate?\" dice Hiroshi.",
+      "level": "A1",
+      "sourceId": "tomato",
+      "sourceIds": [
+        "tomato"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cobertura",
+      "word": "cobertura",
+      "en": "cobertura",
+      "ru": [
+        "верхушка",
+        "начинка",
+        "топпинг"
+      ],
+      "example": "Ahora mismo tengo muy poca cobertura.",
+      "level": "C2",
+      "sourceId": "topping",
+      "sourceIds": [
+        "topping"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vicio",
+      "word": "vicio",
+      "en": "vicio",
+      "ru": [
+        "развлечение",
+        "угощение",
+        "подарок"
+      ],
+      "example": "A la moda, todos vicios parecen virtudes.",
+      "level": "B1",
+      "sourceId": "treat",
+      "sourceIds": [
+        "treat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegetal",
+      "word": "vegetal",
+      "en": "vegetal",
+      "ru": [
+        "овощ"
+      ],
+      "example": "A Tom le dan asco los vegetales.",
+      "level": "A1",
+      "sourceId": "vegetable",
+      "sourceIds": [
+        "vegetable"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vodka",
+      "word": "vodka",
+      "en": "vodka",
+      "ru": [
+        "водка"
+      ],
+      "example": "Él no fuma y no bebe vodka.",
+      "level": "C2",
+      "sourceId": "vodka",
+      "sourceIds": [
+        "vodka"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "waffle",
+      "word": "waffle",
+      "en": "waffle",
+      "ru": [
+        "вафля"
+      ],
+      "example": "¡Ayer a la tarde comí un waffle!",
+      "level": "A2",
+      "sourceId": "waffle",
+      "sourceIds": [
+        "waffle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camarero",
+      "word": "camarero",
+      "en": "camarero",
+      "ru": [
+        "кельнер",
+        "официант",
+        "официантка"
+      ],
+      "example": "Ella se gana su sustento como camarera.",
+      "level": "A2",
+      "sourceId": "waiter",
+      "sourceIds": [
+        "waiter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camarera",
+      "word": "camarera",
+      "en": "camarera",
+      "ru": [
+        "кельнерша",
+        "официантка"
+      ],
+      "example": "Ella se gana su sustento como camarera.",
+      "level": "A2",
+      "sourceId": "waitress",
+      "sourceIds": [
+        "waitress"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nuez",
+      "word": "nuez",
+      "en": "nuez",
+      "ru": [
+        "грецкий орех"
+      ],
+      "example": "A las ardillas les gusta comer nueces.",
+      "level": "C1",
+      "sourceId": "walnut",
+      "sourceIds": [
+        "walnut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hacer-agua",
+      "word": "hacer agua",
+      "en": "hacer agua",
+      "ru": [
+        "вода",
+        "воды",
+        "поливать"
+      ],
+      "example": "Acabo de hacer una malteada con agua.",
+      "level": "A1",
+      "sourceId": "water",
+      "sourceIds": [
+        "water"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "melon-de-agua",
+      "word": "melón de agua",
+      "en": "melón de agua",
+      "ru": [
+        "арбуз"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "watermelon",
+      "sourceIds": [
+        "watermelon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "trigo",
+      "word": "trigo",
+      "en": "trigo",
+      "ru": [
+        "пшеница"
+      ],
+      "example": "El agricultor sembró el campo con trigo.",
+      "level": "B2",
+      "sourceId": "wheat",
+      "sourceIds": [
+        "wheat"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vino",
+      "word": "vino",
+      "en": "vino",
+      "ru": [
+        "вино",
+        "бордо"
+      ],
+      "example": "\"Madeira\" es el nombre de un vino.",
+      "level": "A2",
+      "sourceId": "wine",
+      "sourceIds": [
+        "wine"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yogur",
+      "word": "yogur",
+      "en": "yogur",
+      "ru": [
+        "йогурт",
+        "простокваша"
+      ],
+      "example": "A los niños les gusta el yogur.",
+      "level": "A2",
+      "sourceId": "yogurt",
+      "sourceIds": [
+        "yogurt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fuente",
+      "word": "fuente",
+      "en": "fuente",
+      "ru": [
+        "большое блюдо",
+        "поднос"
+      ],
+      "example": "El aspartamo es una fuente de fenilalanina.",
+      "level": "B1",
+      "sourceId": "platter",
+      "sourceIds": [
+        "platter"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mascar",
+      "word": "mascar",
+      "en": "mascar",
+      "ru": [
+        "жевать"
+      ],
+      "example": "Mayuko le dio una mascada a mi manzana.",
+      "level": "B1",
+      "sourceId": "chew",
+      "sourceIds": [
+        "chew"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "descafeinado",
+      "word": "descafeinado",
+      "en": "descafeinado",
+      "ru": [
+        "декаф",
+        "кофе без кофеина"
+      ],
+      "example": "El café descafeinado no sabe a nada.",
+      "level": "B1",
+      "sourceId": "decaf",
+      "sourceIds": [
+        "decaf"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "atun",
+      "word": "atún",
+      "en": "atún",
+      "ru": [
+        "тунец"
+      ],
+      "example": "El atún es un pez de sangre caliente.",
+      "level": "B1",
+      "sourceId": "tuna",
+      "sourceIds": [
+        "tuna"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vainilla",
+      "word": "vainilla",
+      "en": "vainilla",
+      "ru": [
+        "ваниль"
+      ],
+      "example": "Me gusta muchísimo la nieve de vainilla.",
+      "level": "B1",
+      "sourceId": "vanilla",
+      "sourceIds": [
+        "vanilla"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jalea",
+      "word": "jalea",
+      "en": "jalea",
+      "ru": [
+        "желе"
+      ],
+      "example": "Tomás no puso jalea en su rosquilla.",
+      "level": "B1",
+      "sourceId": "jelly",
+      "sourceIds": [
+        "jelly"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "enlatado",
+      "word": "enlatado",
+      "en": "enlatado",
+      "ru": [
+        "консервированный"
+      ],
+      "example": "Las peras son enlatadas en esta fábrica.",
+      "level": "C2",
+      "sourceId": "canned",
+      "sourceIds": [
+        "canned"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sushi",
+      "word": "sushi",
+      "en": "sushi",
+      "ru": [
+        "суши"
+      ],
+      "example": "A Tom no le gusta el sushi.",
+      "level": "B1",
+      "sourceId": "sushi",
+      "sourceIds": [
+        "sushi"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pan-de-especias",
+      "word": "pan de especias",
+      "en": "pan de especias",
+      "ru": [
+        "имбирный пряник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gingerbread",
+      "sourceIds": [
+        "gingerbread"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pastilla-de-goma",
+      "word": "pastilla de goma",
+      "en": "pastilla de goma",
+      "ru": [
+        "мармеладка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gumdrop",
+      "sourceIds": [
+        "gumdrop"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pinta",
+      "word": "pinta",
+      "en": "pinta",
+      "ru": [
+        "пинта"
+      ],
+      "example": "Aquel precioso caballo pinto se llama Jeque.",
+      "level": "B1",
+      "sourceId": "pint",
+      "sourceIds": [
+        "pint"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "para-llevar",
+      "word": "para llevar",
+      "en": "para llevar",
+      "ru": [
+        "еда навынос"
+      ],
+      "example": "Compremos cerveza local para llevar como recuerdo.",
+      "level": "B1",
+      "sourceId": "takeout",
+      "sourceIds": [
+        "takeout"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cruller",
+      "word": "cruller",
+      "en": "cruller",
+      "ru": [
+        "пончик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cruller",
+      "sourceIds": [
+        "cruller",
+        "doughnut",
+        "donut"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "caloria",
+      "word": "caloría",
+      "en": "caloría",
+      "ru": [
+        "калория"
+      ],
+      "example": "El cuerpo gasta aproximadamente 600 calorías mientras dormimos.",
+      "level": "B1",
+      "sourceId": "calorie",
+      "sourceIds": [
+        "calorie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salsa-picante",
+      "word": "salsa picante",
+      "en": "salsa picante",
+      "ru": [
+        "сальса"
+      ],
+      "example": "Tom le puso demasiada salsa picante a su pizza.",
+      "level": "B1",
+      "sourceId": "salsa",
+      "sourceIds": [
+        "salsa"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "panecillo",
+      "word": "panecillo",
+      "en": "panecillo",
+      "ru": [
+        "маффин",
+        "кекс"
+      ],
+      "example": "En la cocina queda el horno para hornear panecillos.",
+      "level": "B1",
+      "sourceId": "muffin",
+      "sourceIds": [
+        "muffin"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hamburguesa",
+      "word": "hamburguesa",
+      "en": "hamburguesa",
+      "ru": [
+        "гамбургер"
+      ],
+      "example": "Mamá me compró una hamburguesa muy sabrosa.",
+      "level": "B1",
+      "sourceId": "hamburger",
+      "sourceIds": [
+        "hamburger"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bollo",
+      "word": "bollo",
+      "en": "bollo",
+      "ru": [
+        "булочка"
+      ],
+      "example": "Los bollos rellenos de chocolate son deliciosos.",
+      "level": "B1",
+      "sourceId": "bun",
+      "sourceIds": [
+        "bun"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "contundente",
+      "word": "contundente",
+      "en": "contundente",
+      "ru": [
+        "сытный",
+        "сердечный"
+      ],
+      "example": "Él fue asesinado con un arma contundente.",
+      "level": "B1",
+      "sourceId": "hearty",
+      "sourceIds": [
+        "hearty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salvado",
+      "word": "salvado",
+      "en": "salvado",
+      "ru": [
+        "отруби"
+      ],
+      "example": "Estarías muerto si Tom no te hubiera salvado.",
+      "level": "B1",
+      "sourceId": "bran",
+      "sourceIds": [
+        "bran"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lasana",
+      "word": "lasaña",
+      "en": "lasaña",
+      "ru": [
+        "лазанья"
+      ],
+      "example": "Me gusta la lasaña con bastante queso.",
+      "level": "B1",
+      "sourceId": "lasagna",
+      "sourceIds": [
+        "lasagna"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "complacer",
+      "word": "complacer",
+      "en": "complacer",
+      "ru": [
+        "обслуживать",
+        "угождать"
+      ],
+      "example": "Dije eso para complacer a mi madre.",
+      "level": "B1",
+      "sourceId": "cater",
+      "sourceIds": [
+        "cater"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ginebra",
+      "word": "ginebra",
+      "en": "ginebra",
+      "ru": [
+        "джин"
+      ],
+      "example": "Bush respeta el tratado de Ginebra.",
+      "level": "B1",
+      "sourceId": "gin",
+      "sourceIds": [
+        "gin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nuez-moscada",
+      "word": "nuez moscada",
+      "en": "nuez moscada",
+      "ru": [
+        "мускатный орех"
+      ],
+      "example": "Desde la cocina llega un olor de limón y nuez moscada.",
+      "level": "B1",
+      "sourceId": "nutmeg",
+      "sourceIds": [
+        "nutmeg"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cebada",
+      "word": "cebada",
+      "en": "cebada",
+      "ru": [
+        "ячмень"
+      ],
+      "example": "En este campo se ha plantado cebada.",
+      "level": "B1",
+      "sourceId": "barley",
+      "sourceIds": [
+        "barley"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "engordar",
+      "word": "engordar",
+      "en": "engordar",
+      "ru": [
+        "откармливать"
+      ],
+      "example": "Algunas personas engordan al dejar de fumar.",
+      "level": "B1",
+      "sourceId": "fatten",
+      "sourceIds": [
+        "fatten"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jira",
+      "word": "jira",
+      "en": "jira",
+      "ru": [
+        "пикник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "picnic",
+      "sourceIds": [
+        "picnic"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "expreso",
+      "word": "expreso",
+      "en": "expreso",
+      "ru": [
+        "эспрессо"
+      ],
+      "example": "La música expresa los movimientos del alma.",
+      "level": "B1",
+      "sourceId": "espresso",
+      "sourceIds": [
+        "espresso"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "martini",
+      "word": "martini",
+      "en": "martini",
+      "ru": [
+        "мартини"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "martini",
+      "sourceIds": [
+        "martini"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "matadero",
+      "word": "matadero",
+      "en": "matadero",
+      "ru": [
+        "бойня"
+      ],
+      "example": "El apartamento de Sami parecía un matadero.",
+      "level": "B1",
+      "sourceId": "abattoir",
+      "sourceIds": [
+        "abattoir"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cordero",
+      "word": "cordero",
+      "en": "cordero",
+      "ru": [
+        "баранина"
+      ],
+      "example": "Cuídate del lobo en piel de cordero.",
+      "level": "B1",
+      "sourceId": "mutton",
+      "sourceIds": [
+        "mutton"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cenar",
+      "word": "cenar",
+      "en": "cenar",
+      "ru": [
+        "обедать",
+        "ужинать"
+      ],
+      "example": "\"¿Harás los deberes después de cenar?\" \"Sí.\"",
+      "level": "B1",
+      "sourceId": "dine",
+      "sourceIds": [
+        "dine"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "wasabi",
+      "word": "wasabi",
+      "en": "wasabi",
+      "ru": [
+        "васаби"
+      ],
+      "example": "¿Quién hubiera pensado que la alarma de wasabi sería posible?",
+      "level": "B1",
+      "sourceId": "wasabi",
+      "sourceIds": [
+        "wasabi"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comestible",
+      "word": "comestible",
+      "en": "comestible",
+      "ru": [
+        "съедобный"
+      ],
+      "example": "Estamos importando una gran cantidad de comestibles.",
+      "level": "B1",
+      "sourceId": "edible",
+      "sourceIds": [
+        "edible"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mostaza",
+      "word": "mostaza",
+      "en": "mostaza",
+      "ru": [
+        "горчица"
+      ],
+      "example": "Llevaré dos completos con mostaza y ketchup.",
+      "level": "B1",
+      "sourceId": "mustard",
+      "sourceIds": [
+        "mustard"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rabano-picante",
+      "word": "rábano picante",
+      "en": "rábano picante",
+      "ru": [
+        "хрен"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "horseradish",
+      "sourceIds": [
+        "horseradish"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "edulcorante",
+      "word": "edulcorante",
+      "en": "edulcorante",
+      "ru": [
+        "подсластитель"
+      ],
+      "example": "Se puede utilizar la estevia como edulcorante.",
+      "level": "B1",
+      "sourceId": "sweetener",
+      "sourceIds": [
+        "sweetener"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potable",
+      "word": "potable",
+      "en": "potable",
+      "ru": [
+        "питьевой",
+        "пригодный для питья"
+      ],
+      "example": "El agua de ese pozo es potable.",
+      "level": "B1",
+      "sourceId": "drinkable",
+      "sourceIds": [
+        "drinkable"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegetariano",
+      "word": "vegetariano",
+      "en": "vegetariano",
+      "ru": [
+        "вегетарианец"
+      ],
+      "example": "Le ofrecí carne, pero dijo ser vegetariano.",
+      "level": "B1",
+      "sourceId": "vegetarian",
+      "sourceIds": [
+        "vegetarian"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegano",
+      "word": "vegano",
+      "en": "vegano",
+      "ru": [
+        "веган"
+      ],
+      "example": "Estoy deseando probar este nuevo helado vegano.",
+      "level": "B1",
+      "sourceId": "vegan",
+      "sourceIds": [
+        "vegan"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegetal",
+      "word": "vegetal",
+      "en": "vegetal",
+      "ru": [
+        "растительный"
+      ],
+      "example": "A Tom le dan asco los vegetales.",
+      "level": "B1",
+      "sourceId": "plant-based",
+      "sourceIds": [
+        "plant-based"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "apio",
+      "word": "apio",
+      "en": "apio",
+      "ru": [
+        "сельдерей"
+      ],
+      "example": "Estoy pelando el apio y las patatas.",
+      "level": "B1",
+      "sourceId": "celery",
+      "sourceIds": [
+        "celery"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ramen",
+      "word": "ramen",
+      "en": "ramen",
+      "ru": [
+        "рамен"
+      ],
+      "example": "Si como mucho ramen, ¿será menos rico?",
+      "level": "B1",
+      "sourceId": "ramen",
+      "sourceIds": [
+        "ramen"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "burrito",
+      "word": "burrito",
+      "en": "burrito",
+      "ru": [
+        "буррито"
+      ],
+      "example": "Huitzilin y Metztli comen burritos en el restorán.",
+      "level": "B1",
+      "sourceId": "burrito",
+      "sourceIds": [
+        "burrito"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fibra",
+      "word": "fibra",
+      "en": "fibra",
+      "ru": [
+        "клетчатка",
+        "волокно"
+      ],
+      "example": "No te olvides de tomar mucha fibra.",
+      "level": "B1",
+      "sourceId": "fiber",
+      "sourceIds": [
+        "fiber"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "col-rizada",
+      "word": "col rizada",
+      "en": "col rizada",
+      "ru": [
+        "капуста кейл"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kale",
+      "sourceIds": [
+        "kale"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "quelpo",
+      "word": "quelpo",
+      "en": "quelpo",
+      "ru": [
+        "морская капуста"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kelp",
+      "sourceIds": [
+        "kelp"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "soja",
+      "word": "soja",
+      "en": "soja",
+      "ru": [
+        "соевый боб"
+      ],
+      "example": "Compraron leche de soja y sardinas.",
+      "level": "B1",
+      "sourceId": "soybean",
+      "sourceIds": [
+        "soybean"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lechuga",
+      "word": "lechuga",
+      "en": "lechuga",
+      "ru": [
+        "салат-латук"
+      ],
+      "example": "Esta noche cenamos lechuga con ruibarbo.",
+      "level": "B1",
+      "sourceId": "lettuce",
+      "sourceIds": [
+        "lettuce"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "oliva",
+      "word": "oliva",
+      "en": "oliva",
+      "ru": [
+        "оливка"
+      ],
+      "example": "Añadir una cucharada de aceite de oliva.",
+      "level": "B1",
+      "sourceId": "olive",
+      "sourceIds": [
+        "olive"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "clara",
+      "word": "clara",
+      "en": "clara",
+      "ru": [
+        "яичный белок"
+      ],
+      "example": "Bata las claras a punto de nieve.",
+      "level": "B1",
+      "sourceId": "egg-white",
+      "sourceIds": [
+        "egg-white"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tinta-de-calamar",
+      "word": "tinta de calamar",
+      "en": "tinta de calamar",
+      "ru": [
+        "чернила каракатицы"
+      ],
+      "example": "Me gusta el calamar en su tinta.",
+      "level": "B1",
+      "sourceId": "squid-ink",
+      "sourceIds": [
+        "squid-ink"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ale",
+      "word": "ale",
+      "en": "ale",
+      "ru": [
+        "эль",
+        "пиво"
+      ],
+      "example": "Pale ale es una cerveza de baja graduación alcohólica.",
+      "level": "B1",
+      "sourceId": "ale",
+      "sourceIds": [
+        "ale"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banquete",
+      "word": "banquete",
+      "en": "banquete",
+      "ru": [
+        "пир",
+        "праздник"
+      ],
+      "example": "El banquete será al aire libre.",
+      "level": "B1",
+      "sourceId": "feast",
+      "sourceIds": [
+        "feast"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "taza",
+      "word": "taza",
+      "en": "taza",
+      "ru": [
+        "кружка"
+      ],
+      "example": "Cambié las tazas rotas por unas nuevas.",
+      "level": "B1",
+      "sourceId": "mug",
+      "sourceIds": [
+        "mug"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "picadillo",
+      "word": "picadillo",
+      "en": "picadillo",
+      "ru": [
+        "рубленое мясо",
+        "мешанина"
+      ],
+      "example": "Mickey Conners hizo picadillo a su oponente en el ring.",
+      "level": "B1",
+      "sourceId": "hash",
+      "sourceIds": [
+        "hash"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "recio",
+      "word": "recio",
+      "en": "recio",
+      "ru": [
+        "жевательный",
+        "вязкий"
+      ],
+      "example": "Has logrado una recia voluntad.",
+      "level": "B1",
+      "sourceId": "chewy",
+      "sourceIds": [
+        "chewy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "con-sabor-a-beicon",
+      "word": "con sabor a beicon",
+      "en": "con sabor a beicon",
+      "ru": [
+        "со вкусом бекона"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "bacon-flavored",
+      "sourceIds": [
+        "bacon-flavored"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "soja",
+      "word": "soja",
+      "en": "soja",
+      "ru": [
+        "соя"
+      ],
+      "example": "Compraron leche de soja y sardinas.",
+      "level": "B1",
+      "sourceId": "soy",
+      "sourceIds": [
+        "soy"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pegajoso",
+      "word": "pegajoso",
+      "en": "pegajoso",
+      "ru": [
+        "липкий",
+        "вязкий"
+      ],
+      "example": "¿De dónde sale toda esta mugre pegajosa?",
+      "level": "B1",
+      "sourceId": "gooey",
+      "sourceIds": [
+        "gooey"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tequila",
+      "word": "tequila",
+      "en": "tequila",
+      "ru": [
+        "текила"
+      ],
+      "example": "Bienvenido a Tatoeba, tequila, sexo y marihuana.",
+      "level": "B1",
+      "sourceId": "tequila",
+      "sourceIds": [
+        "tequila"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pulpa",
+      "word": "pulpa",
+      "en": "pulpa",
+      "ru": [
+        "мякоть"
+      ],
+      "example": "Cocinar hasta convertir en pulpa.",
+      "level": "B1",
+      "sourceId": "pulp",
+      "sourceIds": [
+        "pulp"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "resto",
+      "word": "resto",
+      "en": "resto",
+      "ru": [
+        "остаток"
+      ],
+      "example": "Creo que aún debemos examinar el resto.",
+      "level": "B1",
+      "sourceId": "leftover",
+      "sourceIds": [
+        "leftover"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "saciar",
+      "word": "saciar",
+      "en": "saciar",
+      "ru": [
+        "насыщать"
+      ],
+      "example": "Comió hasta saciarse y dejó todo así.",
+      "level": "B1",
+      "sourceId": "sate",
+      "sourceIds": [
+        "sate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "maduro",
+      "word": "maduro",
+      "en": "maduro",
+      "ru": [
+        "спелый"
+      ],
+      "example": "A María le gustan los hombres maduros.",
+      "level": "B1",
+      "sourceId": "ripe",
+      "sourceIds": [
+        "ripe"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sidra",
+      "word": "sidra",
+      "en": "sidra",
+      "ru": [
+        "сидр"
+      ],
+      "example": "Con alubias y sidra no hace falta gasolina.",
+      "level": "B1",
+      "sourceId": "cider",
+      "sourceIds": [
+        "cider"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jugoso",
+      "word": "jugoso",
+      "en": "jugoso",
+      "ru": [
+        "сочный"
+      ],
+      "example": "Son insípidas a pesar de ser jugosas.",
+      "level": "B1",
+      "sourceId": "juicy",
+      "sourceIds": [
+        "juicy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "devorar",
+      "word": "devorar",
+      "en": "devorar",
+      "ru": [
+        "пожирать",
+        "жадно есть"
+      ],
+      "example": "El buey fue devorado por la serpiente.",
+      "level": "B1",
+      "sourceId": "devour",
+      "sourceIds": [
+        "devour"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lardo",
+      "word": "lardo",
+      "en": "lardo",
+      "ru": [
+        "сало",
+        "смалец"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lard",
+      "sourceIds": [
+        "lard"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "salmon",
+      "word": "salmón",
+      "en": "salmón",
+      "ru": [
+        "лосось"
+      ],
+      "example": "El resto de nosotros comimos salmón ahumado.",
+      "level": "B1",
+      "sourceId": "salmon",
+      "sourceIds": [
+        "salmon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crujido",
+      "word": "crujido",
+      "en": "crujido",
+      "ru": [
+        "хруст",
+        "хрустеть"
+      ],
+      "example": "¿Qué es ese crujido?",
+      "level": "B1",
+      "sourceId": "crunch",
+      "sourceIds": [
+        "crunch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bocado",
+      "word": "bocado",
+      "en": "bocado",
+      "ru": [
+        "лакомый кусочек",
+        "интересная новость"
+      ],
+      "example": "La pequeñina continuaba negándose a probar bocado.",
+      "level": "B1",
+      "sourceId": "tidbit",
+      "sourceIds": [
+        "tidbit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tiramisu",
+      "word": "tiramisú",
+      "en": "tiramisú",
+      "ru": [
+        "тирамису"
+      ],
+      "example": "De postre tomamos tiramisú con licor de naranja.",
+      "level": "B1",
+      "sourceId": "tiramisu",
+      "sourceIds": [
+        "tiramisu"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brunch",
+      "word": "brunch",
+      "en": "brunch",
+      "ru": [
+        "бранч",
+        "поздний завтрак"
+      ],
+      "example": "El brunch reemplaza al desayuno y al almuerzo.",
+      "level": "B1",
+      "sourceId": "brunch",
+      "sourceIds": [
+        "brunch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escabiar",
+      "word": "escabiar",
+      "en": "escabiar",
+      "ru": [
+        "выпивать"
+      ],
+      "example": "Esta fiesta es un embole, no hay escabio.",
+      "level": "B1",
+      "sourceId": "booze",
+      "sourceIds": [
+        "booze"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menta",
+      "word": "menta",
+      "en": "menta",
+      "ru": [
+        "мята",
+        "монетный двор"
+      ],
+      "example": "Ahora el aliento me huele a menta.",
+      "level": "B1",
+      "sourceId": "mint",
+      "sourceIds": [
+        "mint"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "schnapps",
+      "word": "schnapps",
+      "en": "schnapps",
+      "ru": [
+        "шнапс"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "schnapps",
+      "sourceIds": [
+        "schnapps"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "kosher",
+      "word": "kosher",
+      "en": "kosher",
+      "ru": [
+        "кошерный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "kosher",
+      "sourceIds": [
+        "kosher"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "carne-de-ciervo",
+      "word": "carne de ciervo",
+      "en": "carne de ciervo",
+      "ru": [
+        "оленина"
+      ],
+      "example": "Cociné carne de ciervo.",
+      "level": "B1",
+      "sourceId": "venison",
+      "sourceIds": [
+        "venison"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ron",
+      "word": "ron",
+      "en": "ron",
+      "ru": [
+        "ром"
+      ],
+      "example": "Prefiero el té con ron y azúcar.",
+      "level": "B1",
+      "sourceId": "rum",
+      "sourceIds": [
+        "rum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "granola",
+      "word": "granola",
+      "en": "granola",
+      "ru": [
+        "гранола"
+      ],
+      "example": "Solo me comí una barrita de granola.",
+      "level": "B1",
+      "sourceId": "granola",
+      "sourceIds": [
+        "granola"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tarta-de-manzana",
+      "word": "tarta de manzana",
+      "en": "tarta de manzana",
+      "ru": [
+        "яблочный пирог"
+      ],
+      "example": "Kate ha preparado una tarta de manzana.",
+      "level": "B1",
+      "sourceId": "apple-pie",
+      "sourceIds": [
+        "apple-pie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cafeteria",
+      "word": "cafetería",
+      "en": "cafetería",
+      "ru": [
+        "закусочная"
+      ],
+      "example": "A menudo bebo café en esa cafetería.",
+      "level": "B1",
+      "sourceId": "diner",
+      "sourceIds": [
+        "diner"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barril",
+      "word": "barril",
+      "en": "barril",
+      "ru": [
+        "кег",
+        "бочонок"
+      ],
+      "example": "Este barril aguanta más de 300 litros.",
+      "level": "B1",
+      "sourceId": "keg",
+      "sourceIds": [
+        "keg"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "miga",
+      "word": "miga",
+      "en": "miga",
+      "ru": [
+        "крошка"
+      ],
+      "example": "Los pájaros comieron las migas de pan.",
+      "level": "B1",
+      "sourceId": "crumb",
+      "sourceIds": [
+        "crumb"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pasa",
+      "word": "pasa",
+      "en": "pasa",
+      "ru": [
+        "изюм"
+      ],
+      "example": "\"¡Ay!\" \"¿Qué pasa?\" \"He pisado una chincheta\".",
+      "level": "B1",
+      "sourceId": "raisin",
+      "sourceIds": [
+        "raisin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cafeina",
+      "word": "cafeína",
+      "en": "cafeína",
+      "ru": [
+        "кофеин"
+      ],
+      "example": "¿Cuál es tu bebida sin cafeína preferida?",
+      "level": "B1",
+      "sourceId": "caffeine",
+      "sourceIds": [
+        "caffeine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mocaccino",
+      "word": "mocaccino",
+      "en": "mocaccino",
+      "ru": [
+        "моккачино"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mochaccino",
+      "sourceIds": [
+        "mochaccino"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "frappuccino",
+      "word": "frappuccino",
+      "en": "frappuccino",
+      "ru": [
+        "фраппучино"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "frappuccino",
+      "sourceIds": [
+        "frappuccino"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "roer",
+      "word": "roer",
+      "en": "roer",
+      "ru": [
+        "откусывать понемногу"
+      ],
+      "example": "Eres un hueso duro de roer.",
+      "level": "B1",
+      "sourceId": "nibble",
+      "sourceIds": [
+        "nibble"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sabroso",
+      "word": "sabroso",
+      "en": "sabroso",
+      "ru": [
+        "вкусный"
+      ],
+      "example": "Aomori es conocida por sus sabrosas manzanas.",
+      "level": "B1",
+      "sourceId": "tasty",
+      "sourceIds": [
+        "tasty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rico",
+      "word": "rico",
+      "en": "rico",
+      "ru": [
+        "вкусный"
+      ],
+      "example": "Adriana es de Costa Rica. Es costarricense.",
+      "level": "B1",
+      "sourceId": "yummy",
+      "sourceIds": [
+        "yummy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hierbabuena",
+      "word": "hierbabuena",
+      "en": "hierbabuena",
+      "ru": [
+        "мята колосистая"
+      ],
+      "example": "¿De dónde viene ese olor a hierbabuena?",
+      "level": "B1",
+      "sourceId": "spearmint",
+      "sourceIds": [
+        "spearmint"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casero",
+      "word": "casero",
+      "en": "casero",
+      "ru": [
+        "домашнего приготовления"
+      ],
+      "example": "Esta carne con tomate casera está riquísima.",
+      "level": "B1",
+      "sourceId": "homemade",
+      "sourceIds": [
+        "homemade"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barbacoa",
+      "word": "barbacoa",
+      "en": "barbacoa",
+      "ru": [
+        "барбекю"
+      ],
+      "example": "Hace mucho que no hago una barbacoa.",
+      "level": "B1",
+      "sourceId": "barbecue",
+      "sourceIds": [
+        "barbecue"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cafeinado",
+      "word": "cafeinado",
+      "en": "cafeinado",
+      "ru": [
+        "содержащий кофеин"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "caffeinated",
+      "sourceIds": [
+        "caffeinated"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "salsa-de-tomate",
+      "word": "salsa de tomate",
+      "en": "salsa de tomate",
+      "ru": [
+        "кетчуп"
+      ],
+      "example": "Eso no es sangre, es salsa de tomates.",
+      "level": "B1",
+      "sourceId": "ketchup",
+      "sourceIds": [
+        "ketchup"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "afrutado",
+      "word": "afrutado",
+      "en": "afrutado",
+      "ru": [
+        "фруктовый"
+      ],
+      "example": "Me gustan los vinos espumosos y afrutados.",
+      "level": "B1",
+      "sourceId": "fruity",
+      "sourceIds": [
+        "fruity"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tarta",
+      "word": "tarta",
+      "en": "tarta",
+      "ru": [
+        "фруктовый пирог"
+      ],
+      "example": "A ella le gusta mucho la tarta.",
+      "level": "B1",
+      "sourceId": "tart",
+      "sourceIds": [
+        "tart"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nube",
+      "word": "nube",
+      "en": "nube",
+      "ru": [
+        "зефир",
+        "маршмэллоу"
+      ],
+      "example": "De lejos, la isla parecía una nube.",
+      "level": "B1",
+      "sourceId": "marshmallow",
+      "sourceIds": [
+        "marshmallow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ternera",
+      "word": "ternera",
+      "en": "ternera",
+      "ru": [
+        "телятина"
+      ],
+      "example": "Cómprame medio kilo de carne de ternera.",
+      "level": "B1",
+      "sourceId": "veal",
+      "sourceIds": [
+        "veal"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calabaza",
+      "word": "calabaza",
+      "en": "calabaza",
+      "ru": [
+        "тыква"
+      ],
+      "example": "\"¿Qué estás preparando?\" \"Una sopa de calabaza.\"",
+      "level": "B1",
+      "sourceId": "pumpkin",
+      "sourceIds": [
+        "pumpkin"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "requeson",
+      "word": "requesón",
+      "en": "requesón",
+      "ru": [
+        "рикотта"
+      ],
+      "example": "A mi madre le encanta el requesón.",
+      "level": "B1",
+      "sourceId": "ricotta",
+      "sourceIds": [
+        "ricotta"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "latte",
+      "word": "latte",
+      "en": "latte",
+      "ru": [
+        "латте"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "latte",
+      "sourceIds": [
+        "latte"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "canela",
+      "word": "canela",
+      "en": "canela",
+      "ru": [
+        "корица"
+      ],
+      "example": "Tómatelo con un poquito de canela, Lisa.",
+      "level": "B1",
+      "sourceId": "cinnamon",
+      "sourceIds": [
+        "cinnamon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "espagueti",
+      "word": "espagueti",
+      "en": "espagueti",
+      "ru": [
+        "спагетти"
+      ],
+      "example": "A Tom no le gustan los espaguetis.",
+      "level": "B1",
+      "sourceId": "spaghetti",
+      "sourceIds": [
+        "spaghetti"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hamburguesa-con-queso",
+      "word": "hamburguesa con queso",
+      "en": "hamburguesa con queso",
+      "ru": [
+        "чизбургер"
+      ],
+      "example": "Yo quería una hamburguesa, pero me contuve.",
+      "level": "B1",
+      "sourceId": "cheeseburger",
+      "sourceIds": [
+        "cheeseburger"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brocoli",
+      "word": "brócoli",
+      "en": "brócoli",
+      "ru": [
+        "брокколи"
+      ],
+      "example": "Las plántulas de brócoli protegen contra el cáncer.",
+      "level": "B1",
+      "sourceId": "broccoli",
+      "sourceIds": [
+        "broccoli"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hambre",
+      "word": "hambre",
+      "en": "hambre",
+      "ru": [
+        "голод"
+      ],
+      "example": "A Tom le empezó a dar hambre.",
+      "level": "B1",
+      "sourceId": "hunger",
+      "sourceIds": [
+        "hunger"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dulce",
+      "word": "dulce",
+      "en": "dulce",
+      "ru": [
+        "помадка",
+        "чепуха"
+      ],
+      "example": "A mi hermana le encantan los dulces.",
+      "level": "B1",
+      "sourceId": "fudge",
+      "sourceIds": [
+        "fudge"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chicle",
+      "word": "chicle",
+      "en": "chicle",
+      "ru": [
+        "жевательная резинка"
+      ],
+      "example": "Lo encontrarás masticando chicle allá donde vaya.",
+      "level": "B1",
+      "sourceId": "bubblegum",
+      "sourceIds": [
+        "bubblegum"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "almidonado",
+      "word": "almidonado",
+      "en": "almidonado",
+      "ru": [
+        "крахмалистый"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "starchy",
+      "sourceIds": [
+        "starchy"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "magdalena",
+      "word": "magdalena",
+      "en": "magdalena",
+      "ru": [
+        "кекс"
+      ],
+      "example": "Alcánceme ese paquete de magdalenas, por favor.",
+      "level": "B1",
+      "sourceId": "cupcake",
+      "sourceIds": [
+        "cupcake"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caramelo-de-melaza",
+      "word": "caramelo de melaza",
+      "en": "caramelo de melaza",
+      "ru": [
+        "ириска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "taffy",
+      "sourceIds": [
+        "taffy"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tabla-de-madera",
+      "word": "tabla de madera",
+      "en": "tabla de madera",
+      "ru": [
+        "деревянная тарелка"
+      ],
+      "example": "Este taburete es hecho en cuero y madera.",
+      "level": "B1",
+      "sourceId": "trencher",
+      "sourceIds": [
+        "trencher"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "consumir",
+      "word": "consumir",
+      "en": "consumir",
+      "ru": [
+        "потреблять",
+        "поглощать"
+      ],
+      "example": "Algunos miembros de Tatoeba consumen demasiada hierba.",
+      "level": "B1",
+      "sourceId": "consume",
+      "sourceIds": [
+        "consume"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bourbon",
+      "word": "bourbon",
+      "en": "bourbon",
+      "ru": [
+        "бурбон"
+      ],
+      "example": "Tom se sirvió otro trago de bourbon.",
+      "level": "B1",
+      "sourceId": "bourbon",
+      "sourceIds": [
+        "bourbon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "conservera",
+      "word": "conservera",
+      "en": "conservera",
+      "ru": [
+        "консервный завод"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cannery",
+      "sourceIds": [
+        "cannery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "licor",
+      "word": "licor",
+      "en": "licor",
+      "ru": [
+        "спиртной напиток",
+        "крепкий алкоголь"
+      ],
+      "example": "En este negocio no se vende licor.",
+      "level": "B1",
+      "sourceId": "liquor",
+      "sourceIds": [
+        "liquor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vegetal",
+      "word": "vegetal",
+      "en": "vegetal",
+      "ru": [
+        "овощ"
+      ],
+      "example": "A Tom le dan asco los vegetales.",
+      "level": "B1",
+      "sourceId": "veggie",
+      "sourceIds": [
+        "veggie"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salvia",
+      "word": "salvia",
+      "en": "salvia",
+      "ru": [
+        "шалфей",
+        "мудрец"
+      ],
+      "example": "¿Le has añadido salvia a la pasta?",
+      "level": "B1",
+      "sourceId": "sage",
+      "sourceIds": [
+        "sage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chile",
+      "word": "chile",
+      "en": "chile",
+      "ru": [
+        "чили",
+        "острый перец"
+      ],
+      "example": "En Chile los cataclismos son muy frecuentes.",
+      "level": "B1",
+      "sourceId": "chilli",
+      "sourceIds": [
+        "chilli",
+        "chili"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "corteza",
+      "word": "corteza",
+      "en": "corteza",
+      "ru": [
+        "корка",
+        "корочка"
+      ],
+      "example": "Yo le quito la corteza al pan.",
+      "level": "B1",
+      "sourceId": "crust",
+      "sourceIds": [
+        "crust"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lecheria",
+      "word": "lechería",
+      "en": "lechería",
+      "ru": [
+        "маслозавод",
+        "молочная лавка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "creamery",
+      "sourceIds": [
+        "creamery"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "jerez",
+      "word": "jerez",
+      "en": "jerez",
+      "ru": [
+        "херес"
+      ],
+      "example": "Me encantan los riñones al jerez que prepara mi mamá.",
+      "level": "B1",
+      "sourceId": "sherry",
+      "sourceIds": [
+        "sherry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "whisky-escoces",
+      "word": "whisky escocés",
+      "en": "whisky escocés",
+      "ru": [
+        "шотландский виски"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "scotch",
+      "sourceIds": [
+        "scotch"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "albondiga",
+      "word": "albóndiga",
+      "en": "albóndiga",
+      "ru": [
+        "тефтеля"
+      ],
+      "example": "Me gusta comer albóndigas con mi café.",
+      "level": "B1",
+      "sourceId": "meatball",
+      "sourceIds": [
+        "meatball"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "curry",
+      "word": "curry",
+      "en": "curry",
+      "ru": [
+        "карри"
+      ],
+      "example": "A Tom le gusta el curry picante.",
+      "level": "B1",
+      "sourceId": "curry",
+      "sourceIds": [
+        "curry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moca",
+      "word": "moca",
+      "en": "moca",
+      "ru": [
+        "мокко"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mocha",
+      "sourceIds": [
+        "mocha"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bistro",
+      "word": "bistró",
+      "en": "bistró",
+      "ru": [
+        "бистро"
+      ],
+      "example": "Sospecho que en ese bistró aguan la cerveza.",
+      "level": "B1",
+      "sourceId": "bistro",
+      "sourceIds": [
+        "bistro"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vermu",
+      "word": "vermú",
+      "en": "vermú",
+      "ru": [
+        "вермут"
+      ],
+      "example": "Después iremos al bar a tomar el vermut.",
+      "level": "B1",
+      "sourceId": "vermouth",
+      "sourceIds": [
+        "vermouth"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tarta-de-queso",
+      "word": "tarta de queso",
+      "en": "tarta de queso",
+      "ru": [
+        "чизкейк"
+      ],
+      "example": "La tarta que comí ayer era barata.",
+      "level": "B1",
+      "sourceId": "cheesecake",
+      "sourceIds": [
+        "cheesecake"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limonada",
+      "word": "limonada",
+      "en": "limonada",
+      "ru": [
+        "лимонад"
+      ],
+      "example": "\"¿Qué te pasa calabaza?\" \"Nada, nada limonada\".",
+      "level": "B1",
+      "sourceId": "lemonade",
+      "sourceIds": [
+        "lemonade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mascar",
+      "word": "mascar",
+      "en": "mascar",
+      "ru": [
+        "жевать"
+      ],
+      "example": "Mayuko le dio una mascada a mi manzana.",
+      "level": "B1",
+      "sourceId": "munch",
+      "sourceIds": [
+        "munch"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centeno",
+      "word": "centeno",
+      "en": "centeno",
+      "ru": [
+        "рожь"
+      ],
+      "example": "Había centenas de autos en la calle.",
+      "level": "B1",
+      "sourceId": "rye",
+      "sourceIds": [
+        "rye"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beber",
+      "word": "beber",
+      "en": "beber",
+      "ru": [
+        "пить",
+        "впитывать"
+      ],
+      "example": "A Azucena le encantan las bebidas chocolatadas.",
+      "level": "B1",
+      "sourceId": "imbibe",
+      "sourceIds": [
+        "imbibe"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jengibre",
+      "word": "jengibre",
+      "en": "jengibre",
+      "ru": [
+        "имбирь",
+        "рыжий"
+      ],
+      "example": "Durante la Navidad, Vladimir hizo galletas de jengibre.",
+      "level": "B1",
+      "sourceId": "ginger",
+      "sourceIds": [
+        "ginger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mojito",
+      "word": "mojito",
+      "en": "mojito",
+      "ru": [
+        "мохито"
+      ],
+      "example": "Aquí añaden agua de sifón a los mojitos.",
+      "level": "B1",
+      "sourceId": "mojito",
+      "sourceIds": [
+        "mojito"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fuera-de-carta",
+      "word": "fuera de carta",
+      "en": "fuera de carta",
+      "ru": [
+        "вне меню"
+      ],
+      "example": "Compraría la guitarra si no fuera tan cara.",
+      "level": "B1",
+      "sourceId": "off-menu",
+      "sourceIds": [
+        "off-menu"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gluglu",
+      "word": "gluglú",
+      "en": "gluglú",
+      "ru": [
+        "жадно глотать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gobble",
+      "sourceIds": [
+        "gobble"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "pop",
+      "word": "pop",
+      "en": "pop",
+      "ru": [
+        "попкорн"
+      ],
+      "example": "\"Barra Google\" sirve para bloquear pop-ups publicitarios.",
+      "level": "B1",
+      "sourceId": "popcorn",
+      "sourceIds": [
+        "popcorn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pistacho",
+      "word": "pistacho",
+      "en": "pistacho",
+      "ru": [
+        "фисташка"
+      ],
+      "example": "Me encantan las delicias turcas con pistacho.",
+      "level": "B1",
+      "sourceId": "pistachio",
+      "sourceIds": [
+        "pistachio"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "menta-piperita",
+      "word": "menta piperita",
+      "en": "menta piperita",
+      "ru": [
+        "мята перечная"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "peppermint",
+      "sourceIds": [
+        "peppermint"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "manduca",
+      "word": "manduca",
+      "en": "manduca",
+      "ru": [
+        "еда",
+        "личинка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grub",
+      "sourceIds": [
+        "grub"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "marisco",
+      "word": "marisco",
+      "en": "marisco",
+      "ru": [
+        "моллюски",
+        "ракообразные"
+      ],
+      "example": "A mí me gustan mucho los mariscos.",
+      "level": "B1",
+      "sourceId": "shellfish",
+      "sourceIds": [
+        "shellfish"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yoghurt",
+      "word": "yoghurt",
+      "en": "yoghurt",
+      "ru": [
+        "йогурт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "yoghurt",
+      "sourceIds": [
+        "yoghurt"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pretzel",
+      "word": "pretzel",
+      "en": "pretzel",
+      "ru": [
+        "крендель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pretzel",
+      "sourceIds": [
+        "pretzel"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "taza-de-te-cha",
+      "word": "taza de té / cha",
+      "en": "taza de té / cha",
+      "ru": [
+        "чашка чая"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "cup-of-tea",
+      "sourceIds": [
+        "cup-of-tea"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "herbal",
+      "word": "herbal",
+      "en": "herbal",
+      "ru": [
+        "травяной"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "herbal",
+      "sourceIds": [
+        "herbal"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "tener-un-poco-de-hambre",
+      "word": "tener un poco de hambre",
+      "en": "tener un poco de hambre",
+      "ru": [
+        "голодный"
+      ],
+      "example": "Tengo un hambre gigantesca y poca plata.",
+      "level": "B1",
+      "sourceId": "peckish",
+      "sourceIds": [
+        "peckish"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tragar",
+      "word": "tragar",
+      "en": "tragar",
+      "ru": [
+        "глотать",
+        "сглатывать"
+      ],
+      "example": "Cuelan un mosquito y tragan un camello.",
+      "level": "B1",
+      "sourceId": "gulp",
+      "sourceIds": [
+        "gulp"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jama-para-llevar",
+      "word": "jama para llevar",
+      "en": "jama para llevar",
+      "ru": [
+        "еда навынос"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "takeaway",
+      "sourceIds": [
+        "takeaway"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "pipa",
+      "word": "pipa",
+      "en": "pipa",
+      "ru": [
+        "зернышко",
+        "косточка"
+      ],
+      "example": "Lucía se lo pasó pipa en Lisboa.",
+      "level": "B1",
+      "sourceId": "pip",
+      "sourceIds": [
+        "pip"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ostra",
+      "word": "ostra",
+      "en": "ostra",
+      "ru": [
+        "устрица"
+      ],
+      "example": "A Tom le gusta comer ostras crudas.",
+      "level": "B1",
+      "sourceId": "oyster",
+      "sourceIds": [
+        "oyster"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "regaliz",
+      "word": "regaliz",
+      "en": "regaliz",
+      "ru": [
+        "лакрица"
+      ],
+      "example": "Oh, ¡cómo deseo un caramelo de regaliz!",
+      "level": "B1",
+      "sourceId": "liquorice",
+      "sourceIds": [
+        "liquorice"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "risotto",
+      "word": "risotto",
+      "en": "risotto",
+      "ru": [
+        "ризотто"
+      ],
+      "example": "¿Les gusta el risotto al azafrán?",
+      "level": "B1",
+      "sourceId": "risotto",
+      "sourceIds": [
+        "risotto"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cacerola",
+      "word": "cacerola",
+      "en": "cacerola",
+      "ru": [
+        "запеканка"
+      ],
+      "example": "Hierva la mantequilla y el ajo en una pequeña cacerola.",
+      "level": "B1",
+      "sourceId": "casserole",
+      "sourceIds": [
+        "casserole"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "brownie",
+      "word": "brownie",
+      "en": "brownie",
+      "ru": [
+        "брауни"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brownie",
+      "sourceIds": [
+        "brownie"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gastronomia",
+      "word": "gastronomía",
+      "en": "gastronomía",
+      "ru": [
+        "кухня"
+      ],
+      "example": "Soy un enamorado de la gastronomía libanesa.",
+      "level": "B1",
+      "sourceId": "cuisine",
+      "sourceIds": [
+        "cuisine"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "a-base-de-curry",
+      "word": "a base de curry",
+      "en": "a base de curry",
+      "ru": [
+        "на основе карри"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "curry-based",
+      "sourceIds": [
+        "curry-based"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "gastronomicamente",
+      "word": "gastronómicamente",
+      "en": "gastronómicamente",
+      "ru": [
+        "гастрономически"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gastronomically",
+      "sourceIds": [
+        "gastronomically"
+      ],
+      "pos": "adv"
+    },
+    {
+      "id": "palillo",
+      "word": "palillo",
+      "en": "palillo",
+      "ru": [
+        "палочка для еды"
+      ],
+      "example": "Disculpe, se me han caído los palillos.",
+      "level": "B1",
+      "sourceId": "chopstick",
+      "sourceIds": [
+        "chopstick"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "carbohidrato",
+      "word": "carbohidrato",
+      "en": "carbohidrato",
+      "ru": [
+        "углевод"
+      ],
+      "example": "La pasta posee un alto contenido de carbohidratos.",
+      "level": "B1",
+      "sourceId": "carbohydrate",
+      "sourceIds": [
+        "carbohydrate"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aguamiel",
+      "word": "aguamiel",
+      "en": "aguamiel",
+      "ru": [
+        "медовуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mead",
+      "sourceIds": [
+        "mead"
+      ],
+      "pos": "n",
+      "gender": "m/f"
+    },
+    {
+      "id": "minestrone",
+      "word": "minestrone",
+      "en": "minestrone",
+      "ru": [
+        "минестроне"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "minestrone",
+      "sourceIds": [
+        "minestrone"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "carbonara",
+      "word": "carbonara",
+      "en": "carbonara",
+      "ru": [
+        "карбонара"
+      ],
+      "example": "Anoche preparé carbonara para la cena.",
+      "level": "B1",
+      "sourceId": "carbonara",
+      "sourceIds": [
+        "carbonara"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ajenjo",
+      "word": "ajenjo",
+      "en": "ajenjo",
+      "ru": [
+        "абсент"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "absinthe",
+      "sourceIds": [
+        "absinthe"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "perejil",
+      "word": "perejil",
+      "en": "perejil",
+      "ru": [
+        "петрушка"
+      ],
+      "example": "A María no le gusta el perejil.",
+      "level": "B1",
+      "sourceId": "parsley",
+      "sourceIds": [
+        "parsley"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grasiento",
+      "word": "grasiento",
+      "en": "grasiento",
+      "ru": [
+        "жирный",
+        "засаленный"
+      ],
+      "example": "Pensé que la comida era demasiado grasienta.",
+      "level": "B1",
+      "sourceId": "greasy",
+      "sourceIds": [
+        "greasy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crujiente",
+      "word": "crujiente",
+      "en": "crujiente",
+      "ru": [
+        "хрустящий",
+        "свежий",
+        "четкий"
+      ],
+      "example": "La oronda manzana estaba crujiente y sabrosa.",
+      "level": "B1",
+      "sourceId": "crisp",
+      "sourceIds": [
+        "crisp"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ciruela",
+      "word": "ciruela",
+      "en": "ciruela",
+      "ru": [
+        "слива"
+      ],
+      "example": "La fruta del ciruelo es la ciruela.",
+      "level": "B1",
+      "sourceId": "plum",
+      "sourceIds": [
+        "plum"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "flan",
+      "word": "flan",
+      "en": "flan",
+      "ru": [
+        "флан",
+        "открытый пирог"
+      ],
+      "example": "Estos flanes se van a acabar caducando.",
+      "level": "B1",
+      "sourceId": "flan",
+      "sourceIds": [
+        "flan"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pudin",
+      "word": "pudín",
+      "en": "pudín",
+      "ru": [
+        "пудинг"
+      ],
+      "example": "El rosbif lleva normalmente pudin de Yorkshire.",
+      "level": "B1",
+      "sourceId": "pudding",
+      "sourceIds": [
+        "pudding"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hamburguesa",
+      "word": "hamburguesa",
+      "en": "hamburguesa",
+      "ru": [
+        "котлета",
+        "пирожок"
+      ],
+      "example": "Mamá me compró una hamburguesa muy sabrosa.",
+      "level": "B1",
+      "sourceId": "patty",
+      "sourceIds": [
+        "patty"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arandano-rojo",
+      "word": "arándano rojo",
+      "en": "arándano rojo",
+      "ru": [
+        "клюква"
+      ],
+      "example": "¿Son los arándanos azules o rojos?",
+      "level": "B1",
+      "sourceId": "cranberry",
+      "sourceIds": [
+        "cranberry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "berenjena",
+      "word": "berenjena",
+      "en": "berenjena",
+      "ru": [
+        "баклажан"
+      ],
+      "example": "El otro día probé un helado de berenjena.",
+      "level": "B1",
+      "sourceId": "eggplant",
+      "sourceIds": [
+        "eggplant"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "scone",
+      "word": "scone",
+      "en": "scone",
+      "ru": [
+        "скон (булочка)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "scone",
+      "sourceIds": [
+        "scone"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "capuchino",
+      "word": "capuchino",
+      "en": "capuchino",
+      "ru": [
+        "капучино"
+      ],
+      "example": "Se les llama capuchinos por la caperuza que llevan en su hábito.",
+      "level": "B1",
+      "sourceId": "cappuccino",
+      "sourceIds": [
+        "cappuccino"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caracolillo",
+      "word": "caracolillo",
+      "en": "caracolillo",
+      "ru": [
+        "пиберри"
+      ],
+      "example": "Superman suele ser representado con un caracolillo en la frente.",
+      "level": "B1",
+      "sourceId": "peaberry",
+      "sourceIds": [
+        "peaberry"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calzone",
+      "word": "calzone",
+      "en": "calzone",
+      "ru": [
+        "кальцоне"
+      ],
+      "example": "Tom se olvidó de ponerse calzones hoy.",
+      "level": "B1",
+      "sourceId": "calzone",
+      "sourceIds": [
+        "calzone"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mozzarella",
+      "word": "mozzarella",
+      "en": "mozzarella",
+      "ru": [
+        "моцарелла"
+      ],
+      "example": "¿Cuánto cuesta un kilo de mozzarella?",
+      "level": "B1",
+      "sourceId": "mozzarella",
+      "sourceIds": [
+        "mozzarella"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "grappa",
+      "word": "grappa",
+      "en": "grappa",
+      "ru": [
+        "граппа"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grappa",
+      "sourceIds": [
+        "grappa"
+      ],
+      "pos": "n"
+    },
+    {
+      "id": "alimento",
+      "word": "alimento",
+      "en": "alimento",
+      "ru": [
+        "питание",
+        "пища"
+      ],
+      "example": "El condimento del alimento es el hambre.",
+      "level": "B1",
+      "sourceId": "nourishment",
+      "sourceIds": [
+        "nourishment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pecho",
+      "word": "pecho",
+      "en": "pecho",
+      "ru": [
+        "грудинка"
+      ],
+      "example": "\"¿Te duele el pecho?\" \"No, para nada.\"",
+      "level": "B1",
+      "sourceId": "brisket",
+      "sourceIds": [
+        "brisket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lacteos",
+      "word": "lácteos",
+      "en": "lácteos",
+      "ru": [
+        "молочные продукты"
+      ],
+      "example": "El queso y la mantequilla son productos lácteos.",
+      "level": "B1",
+      "sourceId": "dairy",
+      "sourceIds": [
+        "dairy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hervido",
+      "word": "hervido",
+      "en": "hervido",
+      "ru": [
+        "варёный",
+        "отварной",
+        "кипячёный"
+      ],
+      "example": "Su plato preferido era tasajo con boniato hervido.",
+      "level": "C2",
+      "sourceId": "boiled",
+      "sourceIds": [
+        "boiled"
+      ],
+      "pos": "n",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crema-para-cafe",
+      "word": "crema para café",
+      "en": "crema para café",
+      "ru": [
+        "сливки для кофе",
+        "заменитель сливок"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "creamer",
+      "sourceIds": [
+        "creamer"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "picatoste",
+      "word": "picatoste",
+      "en": "picatoste",
+      "ru": [
+        "гренки",
+        "сухарики"
+      ],
+      "example": "¿Te apetece un chocolate calentito con picatostes?",
+      "level": "C2",
+      "sourceId": "croutons",
+      "sourceIds": [
+        "croutons"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mejillon",
+      "word": "mejillón",
+      "en": "mejillón",
+      "ru": [
+        "мидии"
+      ],
+      "example": "Como mejillones una semana sí y otra no.",
+      "level": "C2",
+      "sourceId": "mussels",
+      "sourceIds": [
+        "mussels"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ostra",
+      "word": "ostra",
+      "en": "ostra",
+      "ru": [
+        "устрицы"
+      ],
+      "example": "A Tom le gusta comer ostras crudas.",
+      "level": "C2",
+      "sourceId": "oysters",
+      "sourceIds": [
+        "oysters"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alcohol",
+      "word": "alcohol",
+      "en": "alcohol",
+      "ru": [
+        "спирт"
+      ],
+      "example": "A ella no le perjudicó tomar alcohol.",
+      "level": "B2",
+      "sourceId": "spirits",
+      "sourceIds": [
+        "spirits"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "depilacion-con-azucar",
+      "word": "depilación con azúcar",
+      "en": "depilación con azúcar",
+      "ru": [
+        "шугаринг"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "sugaring",
+      "sourceIds": [
+        "sugaring"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "tortilla-francesa",
+      "word": "tortilla francesa",
+      "en": "tortilla francesa",
+      "ru": [
+        "омлет"
+      ],
+      "example": "Solo sabe cocinar espaguetis y tortillas francesas.",
+      "level": "B1",
+      "sourceId": "omelet",
+      "sourceIds": [
+        "omelet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "strudel",
+      "word": "strudel",
+      "en": "strudel",
+      "ru": [
+        "штрудель"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "strudel",
+      "sourceIds": [
+        "strudel"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "antes-de-comer",
+      "word": "antes de comer",
+      "en": "antes de comer",
+      "ru": [
+        "перед едой"
+      ],
+      "example": "Acabaron comprometiéndose a hacerlo antes del verano.",
+      "level": "B1",
+      "sourceId": "premeal",
+      "sourceIds": [
+        "premeal"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cheddar",
+      "word": "cheddar",
+      "en": "cheddar",
+      "ru": [
+        "чеддер"
+      ],
+      "example": "Comí un sándwich con una feta gruesa de queso Cheddar.",
+      "level": "B1",
+      "sourceId": "cheddar",
+      "sourceIds": [
+        "cheddar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piccalilli",
+      "word": "piccalilli",
+      "en": "piccalilli",
+      "ru": [
+        "пиккалилли"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "piccalilli",
+      "sourceIds": [
+        "piccalilli"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "freiduria",
+      "word": "freiduría",
+      "en": "freiduría",
+      "ru": [
+        "закусочная с рыбой и картошкой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "chippy",
+      "sourceIds": [
+        "chippy"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "oleaginosa",
+      "word": "oleaginosa",
+      "en": "oleaginosa",
+      "ru": [
+        "масличная культура"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "oilseed",
+      "sourceIds": [
+        "oilseed"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "patata",
+      "word": "patata",
+      "en": "patata",
+      "ru": [
+        "картофелина"
+      ],
+      "example": "Donde no hay mata no hay patata.",
+      "level": "B1",
+      "sourceId": "spud",
+      "sourceIds": [
+        "spud",
+        "tater"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sin-azucar",
+      "word": "sin azúcar",
+      "en": "sin azúcar",
+      "ru": [
+        "без сахара"
+      ],
+      "example": "Estoy acostumbrado a tomar café sin azúcar.",
+      "level": "B1",
+      "sourceId": "sugarless",
+      "sourceIds": [
+        "sugarless"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "filete",
+      "word": "filete",
+      "en": "filete",
+      "ru": [
+        "филе"
+      ],
+      "example": "Córtame los filetes muy finos, por favor.",
+      "level": "B1",
+      "sourceId": "filet",
+      "sourceIds": [
+        "filet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "filete-minon",
+      "word": "filete miñón",
+      "en": "filete miñón",
+      "ru": [
+        "миньон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mignon",
+      "sourceIds": [
+        "mignon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tortita-de-patata",
+      "word": "tortita de patata",
+      "en": "tortita de patata",
+      "ru": [
+        "хашбраун"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hashbrown",
+      "sourceIds": [
+        "hashbrown"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "helado",
+      "word": "helado",
+      "en": "helado",
+      "ru": [
+        "ледяной",
+        "со льдом"
+      ],
+      "example": "A los niños les gusta comer helado.",
+      "level": "B1",
+      "sourceId": "iced",
+      "sourceIds": [
+        "iced"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hortera",
+      "word": "hortera",
+      "en": "hortera",
+      "ru": [
+        "сырный шарик",
+        "пошляк"
+      ],
+      "example": "No es bonito, es hortera.",
+      "level": "B1",
+      "sourceId": "cheeseball",
+      "sourceIds": [
+        "cheeseball"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "crema",
+      "word": "crema",
+      "en": "crema",
+      "ru": [
+        "крем"
+      ],
+      "example": "Añada un poco de azúcar y crema.",
+      "level": "B1",
+      "sourceId": "creme",
+      "sourceIds": [
+        "creme"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sufle",
+      "word": "suflé",
+      "en": "suflé",
+      "ru": [
+        "суфле"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "souffle",
+      "sourceIds": [
+        "souffle"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "alimentar-a-la-fuerza",
+      "word": "alimentar a la fuerza",
+      "en": "alimentar a la fuerza",
+      "ru": [
+        "кормить насильно"
+      ],
+      "example": "Está alimentando a su ganso por la fuerza.",
+      "level": "B1",
+      "sourceId": "force-feed",
+      "sourceIds": [
+        "force-feed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cucharada",
+      "word": "cucharada",
+      "en": "cucharada",
+      "ru": [
+        "порция",
+        "кучка"
+      ],
+      "example": "Añadir una cucharada de aceite de oliva.",
+      "level": "B1",
+      "sourceId": "dollop",
+      "sourceIds": [
+        "dollop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comida",
+      "word": "comida",
+      "en": "comida",
+      "ru": [
+        "еда",
+        "корм"
+      ],
+      "example": "'Picotear' entre comidas es un mal hábito.",
+      "level": "B1",
+      "sourceId": "chow",
+      "sourceIds": [
+        "chow"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alimentar",
+      "word": "alimentar",
+      "en": "alimentar",
+      "ru": [
+        "кормить"
+      ],
+      "example": "El condimento del alimento es el hambre.",
+      "level": "B1",
+      "sourceId": "fed",
+      "sourceIds": [
+        "fed"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gaseoso",
+      "word": "gaseoso",
+      "en": "gaseoso",
+      "ru": [
+        "шипучий"
+      ],
+      "example": "El oxígeno existe en dos estados gaseosos.",
+      "level": "B1",
+      "sourceId": "fizzy",
+      "sourceIds": [
+        "fizzy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sabor",
+      "word": "sabor",
+      "en": "sabor",
+      "ru": [
+        "вкус",
+        "аромат"
+      ],
+      "example": "El limón tiene un sabor muy particular.",
+      "level": "B1",
+      "sourceId": "flavour",
+      "sourceIds": [
+        "flavour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "etouffee",
+      "word": "étouffée",
+      "en": "étouffée",
+      "ru": [
+        "этуфе (блюдо)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "etouffee",
+      "sourceIds": [
+        "etouffee"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "chicle-de-bola",
+      "word": "chicle de bola",
+      "en": "chicle de bola",
+      "ru": [
+        "жевательная резинка в форме шарика"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gumball",
+      "sourceIds": [
+        "gumball"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "parmigiana",
+      "word": "parmigiana",
+      "en": "parmigiana",
+      "ru": [
+        "пармиджано"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "parmigiana",
+      "sourceIds": [
+        "parmigiana"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "macallan",
+      "word": "Macallan",
+      "en": "Macallan",
+      "ru": [
+        "Макаллан"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "macallan",
+      "sourceIds": [
+        "macallan"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "salchicha",
+      "word": "salchicha",
+      "en": "salchicha",
+      "ru": [
+        "сосиска"
+      ],
+      "example": "Está comiendo salchichas con puré de papas.",
+      "level": "B1",
+      "sourceId": "wienie",
+      "sourceIds": [
+        "wienie"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "yogur-helado",
+      "word": "yogur helado",
+      "en": "yogur helado",
+      "ru": [
+        "замороженный йогурт"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "froyo",
+      "sourceIds": [
+        "froyo"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "efervescencia",
+      "word": "efervescencia",
+      "en": "efervescencia",
+      "ru": [
+        "шипение",
+        "шипучий напиток"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fizz",
+      "sourceIds": [
+        "fizz"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "surtido",
+      "word": "surtido",
+      "en": "surtido",
+      "ru": [
+        "ассорти"
+      ],
+      "example": "El linimento parece haber surtido algo de efecto.",
+      "level": "B1",
+      "sourceId": "allsort",
+      "sourceIds": [
+        "allsort"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pastel-de-carne",
+      "word": "pastel de carne",
+      "en": "pastel de carne",
+      "ru": [
+        "пирог в горшочке"
+      ],
+      "example": "Tom cenó pastel de carne y puré.",
+      "level": "B1",
+      "sourceId": "potpie",
+      "sourceIds": [
+        "potpie"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "almuerzo",
+      "word": "almuerzo",
+      "en": "almuerzo",
+      "ru": [
+        "ланч",
+        "обед"
+      ],
+      "example": "Aún no es la hora del almuerzo.",
+      "level": "B1",
+      "sourceId": "luncheon",
+      "sourceIds": [
+        "luncheon"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cremoso",
+      "word": "cremoso",
+      "en": "cremoso",
+      "ru": [
+        "напоминающий заварной крем"
+      ],
+      "example": "Son unas sustancias cremosas pero tremendamente tóxicas.",
+      "level": "B1",
+      "sourceId": "custardy",
+      "sourceIds": [
+        "custardy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mohoso",
+      "word": "mohoso",
+      "en": "mohoso",
+      "ru": [
+        "плесневелый"
+      ],
+      "example": "Aquel pan está mohoso.",
+      "level": "B1",
+      "sourceId": "moldy",
+      "sourceIds": [
+        "moldy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ziti",
+      "word": "ziti",
+      "en": "ziti",
+      "ru": [
+        "зити (вид пасты)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ziti",
+      "sourceIds": [
+        "ziti"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "desnatado",
+      "word": "desnatado",
+      "en": "desnatado",
+      "ru": [
+        "обезжиренный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nonfat",
+      "sourceIds": [
+        "nonfat"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "cafe",
+      "word": "café",
+      "en": "café",
+      "ru": [
+        "кафе"
+      ],
+      "example": "A Tom le gusta su café negro.",
+      "level": "B1",
+      "sourceId": "cafe",
+      "sourceIds": [
+        "cafe"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "barra-de-pan",
+      "word": "barra de pan",
+      "en": "barra de pan",
+      "ru": [
+        "багет"
+      ],
+      "example": "Ella compró una barra de pan esta mañana.",
+      "level": "B1",
+      "sourceId": "filone",
+      "sourceIds": [
+        "filone"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "antipasto",
+      "word": "antipasto",
+      "en": "antipasto",
+      "ru": [
+        "антипасто"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "antipasto",
+      "sourceIds": [
+        "antipasto"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "braciola",
+      "word": "braciola",
+      "en": "braciola",
+      "ru": [
+        "брачоле"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "braciole",
+      "sourceIds": [
+        "braciole"
+      ],
+      "pos": "n",
+      "gender": "f"
+    }
+  ]
+}

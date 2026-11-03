@@ -1,0 +1,5123 @@
+{
+  "id": "home",
+  "title": "Дом",
+  "paid": false,
+  "blockId": "everyday",
+  "words": [
+    {
+      "id": "endereco",
+      "word": "endereço",
+      "en": "endereço",
+      "ru": [
+        "адрес",
+        "адресовать",
+        "обратиться"
+      ],
+      "example": "Você poderia me dizer seu endereço atual?",
+      "level": "A1",
+      "sourceId": "address",
+      "sourceIds": [
+        "address"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "apartamento",
+      "word": "apartamento",
+      "en": "apartamento",
+      "ru": [
+        "квартира",
+        "апартамент"
+      ],
+      "example": "Como é que vocês mobiliaram o apartamento?",
+      "level": "A1",
+      "sourceId": "apartment",
+      "sourceIds": [
+        "apartment"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "poltrona",
+      "word": "poltrona",
+      "en": "poltrona",
+      "ru": [
+        "кресло"
+      ],
+      "example": "Por que você se escondeu nessa poltrona velha?",
+      "level": "A2",
+      "sourceId": "armchair",
+      "sourceIds": [
+        "armchair"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sotao",
+      "word": "sótão",
+      "en": "sótão",
+      "ru": [
+        "мансарда",
+        "чердак"
+      ],
+      "example": "O que você estava fazendo no sótão?",
+      "level": "A2",
+      "sourceId": "attic",
+      "sourceIds": [
+        "attic",
+        "loft"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "balcao",
+      "word": "balcão",
+      "en": "balcão",
+      "ru": [
+        "балкон"
+      ],
+      "example": "Ela estava sentada ao balcão comendo amendoim.",
+      "level": "A2",
+      "sourceId": "balcony",
+      "sourceIds": [
+        "balcony"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "subsolo",
+      "word": "subsolo",
+      "en": "subsolo",
+      "ru": [
+        "подвал",
+        "подвальный этаж",
+        "цокольный этаж"
+      ],
+      "example": "Um quinto da superfície da Terra está coberto por subsolo permanentemente congelado.",
+      "level": "A2",
+      "sourceId": "basement",
+      "sourceIds": [
+        "basement"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banheira",
+      "word": "banheira",
+      "en": "banheira",
+      "ru": [
+        "ванна",
+        "ванная",
+        "баня"
+      ],
+      "example": "Você quer um banheiro com banheira ou chuveiro?",
+      "level": "B1",
+      "sourceId": "bath",
+      "sourceIds": [
+        "bath"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banho",
+      "word": "banho",
+      "en": "banho",
+      "ru": [
+        "купание"
+      ],
+      "example": "A que horas você toma banho de manhã?",
+      "level": "C2",
+      "sourceId": "bathing",
+      "sourceIds": [
+        "bathing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banheiro",
+      "word": "banheiro",
+      "en": "banheiro",
+      "ru": [
+        "ванная",
+        "ванная комната"
+      ],
+      "example": "Quando você vai, finalmente, sair do banheiro?",
+      "level": "A1",
+      "sourceId": "bathroom",
+      "sourceIds": [
+        "bathroom"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cama",
+      "word": "cama",
+      "en": "cama",
+      "ru": [
+        "кровать",
+        "койка",
+        "ложе"
+      ],
+      "example": "De que lado da cama você dorme?",
+      "level": "A1",
+      "sourceId": "bed",
+      "sourceIds": [
+        "bed"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "roupa-de-cama",
+      "word": "roupa de cama",
+      "en": "roupa de cama",
+      "ru": [
+        "бельё",
+        "постельное бельё",
+        "подстилка"
+      ],
+      "example": "Ele não achou as roupas de cama.",
+      "level": "B2",
+      "sourceId": "bedding",
+      "sourceIds": [
+        "bedding"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dormitorio",
+      "word": "dormitório",
+      "en": "dormitório",
+      "ru": [
+        "спальня"
+      ],
+      "example": "Você logo se acostumará a morar em um dormitório.",
+      "level": "A1",
+      "sourceId": "bedroom",
+      "sourceIds": [
+        "bedroom"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "manta",
+      "word": "manta",
+      "en": "manta",
+      "ru": [
+        "одеяло",
+        "покрывало",
+        "пласт"
+      ],
+      "example": "Esta manta de burel é quentinha.",
+      "level": "A1",
+      "sourceId": "blanket",
+      "sourceIds": [
+        "blanket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "soprador",
+      "word": "soprador",
+      "en": "soprador",
+      "ru": [
+        "вентилятор",
+        "воздуходувка"
+      ],
+      "example": "É outono, e os sopradores de folhas roncam por toda parte.",
+      "level": "C2",
+      "sourceId": "blower",
+      "sourceIds": [
+        "blower"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vassoura",
+      "word": "vassoura",
+      "en": "vassoura",
+      "ru": [
+        "веник",
+        "метла",
+        "щётка"
+      ],
+      "example": "Se você realmente é uma bruxa, onde está sua vassoura?",
+      "level": "A2",
+      "sourceId": "broom",
+      "sourceIds": [
+        "broom"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "balde",
+      "word": "balde",
+      "en": "balde",
+      "ru": [
+        "ведро",
+        "ведёрко",
+        "ковш"
+      ],
+      "example": "Foi você quem colocou esse balde aqui?",
+      "level": "A2",
+      "sourceId": "bucket",
+      "sourceIds": [
+        "bucket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "edificio",
+      "word": "edifício",
+      "en": "edifício",
+      "ru": [
+        "строительство",
+        "стройка",
+        "дом"
+      ],
+      "example": "Você pode me dizer em que ano este edifício foi construído?",
+      "level": "A1",
+      "sourceId": "building",
+      "sourceIds": [
+        "building"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vela",
+      "word": "vela",
+      "en": "vela",
+      "ru": [
+        "свеча",
+        "свечка"
+      ],
+      "example": "Eu quero que você acenda a vela.",
+      "level": "B2",
+      "sourceId": "candle",
+      "sourceIds": [
+        "candle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tapete",
+      "word": "tapete",
+      "en": "tapete",
+      "ru": [
+        "ковёр",
+        "ковëр"
+      ],
+      "example": "Você tem um tapete na sua sala?",
+      "level": "A2",
+      "sourceId": "carpet",
+      "sourceIds": [
+        "carpet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "teto",
+      "word": "teto",
+      "en": "teto",
+      "ru": [
+        "потолок"
+      ],
+      "example": "De que cor você vai pintar o teto?",
+      "level": "B2",
+      "sourceId": "ceiling",
+      "sourceIds": [
+        "ceiling"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cadeira",
+      "word": "cadeira",
+      "en": "cadeira",
+      "ru": [
+        "стул"
+      ],
+      "example": "Em qual cadeira você colocou o livro?",
+      "level": "A1",
+      "sourceId": "chair",
+      "sourceIds": [
+        "chair"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "camara",
+      "word": "câmara",
+      "en": "câmara",
+      "ru": [
+        "комната",
+        "спальня",
+        "палата"
+      ],
+      "example": "O que você fez com sua câmera?",
+      "level": "B1",
+      "sourceId": "chamber",
+      "sourceIds": [
+        "chamber"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chamine",
+      "word": "chaminé",
+      "en": "chaminé",
+      "ru": [
+        "труба",
+        "дымовая труба",
+        "дымоход"
+      ],
+      "example": "A casa de Tom tem chaminé.",
+      "level": "A2",
+      "sourceId": "chimney",
+      "sourceIds": [
+        "chimney"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tarefa",
+      "word": "tarefa",
+      "en": "tarefa",
+      "ru": [
+        "неприятная работа",
+        "рутинная работа",
+        "домашняя работа"
+      ],
+      "example": "A propósito, você fez a sua tarefa?",
+      "level": "C2",
+      "sourceId": "chore",
+      "sourceIds": [
+        "chore"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limpar",
+      "word": "limpar",
+      "en": "limpar",
+      "ru": [
+        "чистить",
+        "убирать"
+      ],
+      "example": "Por que você está limpando o escritório?",
+      "level": "A2",
+      "sourceId": "clean",
+      "sourceIds": [
+        "clean"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limpador",
+      "word": "limpador",
+      "en": "limpador",
+      "ru": [
+        "уборщик",
+        "уборщица",
+        "очиститель"
+      ],
+      "example": "O Tom é limpador de janelas.",
+      "level": "B2",
+      "sourceId": "cleaner",
+      "sourceIds": [
+        "cleaner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "limpeza",
+      "word": "limpeza",
+      "en": "limpeza",
+      "ru": [
+        "очистка"
+      ],
+      "example": "A mulher da limpeza interrompeu a conversa.",
+      "level": "B1",
+      "sourceId": "cleaning",
+      "sourceIds": [
+        "cleaning"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "asseado",
+      "word": "asseado",
+      "en": "asseado",
+      "ru": [
+        "чистоплотный"
+      ],
+      "example": "Os elefantes são muito asseados. Eles se lavam.",
+      "level": "C2",
+      "sourceId": "cleanly",
+      "sourceIds": [
+        "cleanly"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "edredom",
+      "word": "edredom",
+      "en": "edredom",
+      "ru": [
+        "стёганое ватное одеяло",
+        "утешитель",
+        "утешительница"
+      ],
+      "example": "Durmo com dois edredons no inverno.",
+      "level": "C2",
+      "sourceId": "comforter",
+      "sourceIds": [
+        "comforter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fogao",
+      "word": "fogão",
+      "en": "fogão",
+      "ru": [
+        "печка",
+        "плита"
+      ],
+      "example": "Você acendeu o fogão?",
+      "level": "A2",
+      "sourceId": "cooker",
+      "sourceIds": [
+        "cooker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caixa-termica",
+      "word": "caixa térmica",
+      "en": "caixa térmica",
+      "ru": [
+        "охладитель",
+        "сумка-холодильник"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "cooler",
+      "sourceIds": [
+        "cooler"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "sofa",
+      "word": "sofá",
+      "en": "sofá",
+      "ru": [
+        "диван",
+        "кушетка",
+        "софа"
+      ],
+      "example": "Por que você está dormindo no sofá?",
+      "level": "A2",
+      "sourceId": "couch",
+      "sourceIds": [
+        "couch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "armario",
+      "word": "armário",
+      "en": "armário",
+      "ru": [
+        "шкаф",
+        "буфет",
+        "сервант"
+      ],
+      "example": "Você já deu uma olhada no armário?",
+      "level": "A1",
+      "sourceId": "cupboard",
+      "sourceIds": [
+        "cupboard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cortina",
+      "word": "cortina",
+      "en": "cortina",
+      "ru": [
+        "гардина",
+        "занавеска",
+        "портьера"
+      ],
+      "example": "Eu vou abrir a cortina para você ver.",
+      "level": "A1",
+      "sourceId": "curtain",
+      "sourceIds": [
+        "curtain"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cortinas",
+      "word": "cortinas",
+      "en": "cortinas",
+      "ru": [
+        "шторы",
+        "занавески"
+      ],
+      "example": "É melhor você abrir as cortinas.",
+      "level": "A2",
+      "sourceId": "curtains",
+      "sourceIds": [
+        "curtains"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "almofada",
+      "word": "almofada",
+      "en": "almofada",
+      "ru": [
+        "подушка",
+        "амортизатор",
+        "буфер"
+      ],
+      "example": "O cãozinho tinha a sua própria almofada.",
+      "level": "A2",
+      "sourceId": "cushion",
+      "sourceIds": [
+        "cushion"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escrivaninha",
+      "word": "escrivaninha",
+      "en": "escrivaninha",
+      "ru": [
+        "бюро",
+        "парта",
+        "письменный стол"
+      ],
+      "example": "Por que você está embaixo da escrivaninha?",
+      "level": "B1",
+      "sourceId": "desk",
+      "sourceIds": [
+        "desk"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sujo",
+      "word": "sujo",
+      "en": "sujo",
+      "ru": [
+        "грязный",
+        "испачканный",
+        "подло"
+      ],
+      "example": "Por que você está todo sujo de barro?",
+      "level": "B2",
+      "sourceId": "dirty",
+      "sourceIds": [
+        "dirty"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porta",
+      "word": "porta",
+      "en": "porta",
+      "ru": [
+        "дверь",
+        "двери"
+      ],
+      "example": "Estão esperando você em frente à porta.",
+      "level": "A1",
+      "sourceId": "door",
+      "sourceIds": [
+        "door"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gaveta",
+      "word": "gaveta",
+      "en": "gaveta",
+      "ru": [
+        "выдвижной ящик"
+      ],
+      "example": "Em qual gaveta você pôs a tesoura?",
+      "level": "A2",
+      "sourceId": "drawer",
+      "sourceIds": [
+        "drawer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "comoda",
+      "word": "cômoda",
+      "en": "cômoda",
+      "ru": [
+        "кухонный шкаф",
+        "комод"
+      ],
+      "example": "O espelho está em cima da cômoda.",
+      "level": "C2",
+      "sourceId": "dresser",
+      "sourceIds": [
+        "dresser"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "perfurar",
+      "word": "perfurar",
+      "en": "perfurar",
+      "ru": [
+        "сверлить"
+      ],
+      "example": "A empresa de Tom está perfurando petróleo.",
+      "level": "C1",
+      "sourceId": "drill",
+      "sourceIds": [
+        "drill"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "propriedade",
+      "word": "propriedade",
+      "en": "propriedade",
+      "ru": [
+        "имение",
+        "сословие"
+      ],
+      "example": "O parque não é propriedade de vocês.",
+      "level": "A1",
+      "sourceId": "estate",
+      "sourceIds": [
+        "estate"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "torneira",
+      "word": "torneira",
+      "en": "torneira",
+      "ru": [
+        "кран",
+        "водопроводный кран"
+      ],
+      "example": "A torneira da água quente não funciona.",
+      "level": "A2",
+      "sourceId": "faucet",
+      "sourceIds": [
+        "faucet",
+        "tap"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "colchao-de-penas",
+      "word": "colchão de penas",
+      "en": "colchão de penas",
+      "ru": [
+        "перина",
+        "пуховик"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "featherbed",
+      "sourceIds": [
+        "featherbed"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cerca",
+      "word": "cerca",
+      "en": "cerca",
+      "ru": [
+        "забор",
+        "ограда"
+      ],
+      "example": "Por que você pintou a cerca de vermelho?",
+      "level": "A2",
+      "sourceId": "fence",
+      "sourceIds": [
+        "fence"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lareira",
+      "word": "lareira",
+      "en": "lareira",
+      "ru": [
+        "камин",
+        "очаг"
+      ],
+      "example": "A lareira deixa esta sala mais aconchegante.",
+      "level": "A2",
+      "sourceId": "fireplace",
+      "sourceIds": [
+        "fireplace"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "plano",
+      "word": "plano",
+      "en": "plano",
+      "ru": [
+        "плоский",
+        "пологий",
+        "ровный"
+      ],
+      "example": "Gerencie você mesmo o seu plano fixo.",
+      "level": "A2",
+      "sourceId": "flat",
+      "sourceIds": [
+        "flat"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "piso",
+      "word": "piso",
+      "en": "piso",
+      "ru": [
+        "пол",
+        "настил",
+        "дно"
+      ],
+      "example": "Você esqueceu de encerar o piso novamente?",
+      "level": "A1",
+      "sourceId": "floor",
+      "sourceIds": [
+        "floor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estrutura",
+      "word": "estrutura",
+      "en": "estrutura",
+      "ru": [
+        "костяк",
+        "скелет",
+        "телосложение"
+      ],
+      "example": "A morfologia estuda a estrutura das palavras.",
+      "level": "A2",
+      "sourceId": "frame",
+      "sourceIds": [
+        "frame"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moveis",
+      "word": "móveis",
+      "en": "móveis",
+      "ru": [
+        "мебель",
+        "предмет мебели"
+      ],
+      "example": "A minha filha vai comprar móveis novos.",
+      "level": "A2",
+      "sourceId": "furniture",
+      "sourceIds": [
+        "furniture"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "garagem",
+      "word": "garagem",
+      "en": "garagem",
+      "ru": [
+        "гараж",
+        "станция техобслуживания",
+        "автосервис"
+      ],
+      "example": "Preciso de você na garagem neste instante.",
+      "level": "B2",
+      "sourceId": "garage",
+      "sourceIds": [
+        "garage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lixo",
+      "word": "lixo",
+      "en": "lixo",
+      "ru": [
+        "сор",
+        "мусор",
+        "отброс"
+      ],
+      "example": "Você já levou o lixo para fora?",
+      "level": "A2",
+      "sourceId": "garbage",
+      "sourceIds": [
+        "garbage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "salao",
+      "word": "salão",
+      "en": "salão",
+      "ru": [
+        "вестибюль",
+        "коридор",
+        "приёмная"
+      ],
+      "example": "Quando você nos viu no salão, ele me havia dito a verdade.",
+      "level": "A2",
+      "sourceId": "hall",
+      "sourceIds": [
+        "hall"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casa",
+      "word": "casa",
+      "en": "casa",
+      "ru": [
+        "дом",
+        "здание"
+      ],
+      "example": "\"Você fez a lição de casa?\" \"Fiz.\"",
+      "level": "A1",
+      "sourceId": "house",
+      "sourceIds": [
+        "house"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lar",
+      "word": "lar",
+      "en": "lar",
+      "ru": [
+        "домашнее хозяйство",
+        "домашний",
+        "домохозяйство"
+      ],
+      "example": "Lar é onde você fica sem sutiã.",
+      "level": "B1",
+      "sourceId": "household",
+      "sourceIds": [
+        "household"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "servico-domestico",
+      "word": "serviço doméstico",
+      "en": "serviço doméstico",
+      "ru": [
+        "домашняя работа",
+        "работа по дому",
+        "уборка"
+      ],
+      "example": "Precisei ajudar com o serviço doméstico.",
+      "level": "A2",
+      "sourceId": "housework",
+      "sourceIds": [
+        "housework"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moradia",
+      "word": "moradia",
+      "en": "moradia",
+      "ru": [
+        "жильё",
+        "кожух",
+        "корпус"
+      ],
+      "example": "Tom é o dono dessa moradia.",
+      "level": "A2",
+      "sourceId": "housing",
+      "sourceIds": [
+        "housing"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tinta",
+      "word": "tinta",
+      "en": "tinta",
+      "ru": [
+        "чернила",
+        "тушь"
+      ],
+      "example": "Você tem um pouco de tinta no rosto.",
+      "level": "B1",
+      "sourceId": "ink",
+      "sourceIds": [
+        "ink"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "interior",
+      "word": "interior",
+      "en": "interior",
+      "ru": [
+        "интерьер",
+        "внутренняя часть"
+      ],
+      "example": "Você não quer vir para o interior?",
+      "level": "B1",
+      "sourceId": "interior",
+      "sourceIds": [
+        "interior"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quitinete",
+      "word": "quitinete",
+      "en": "quitinete",
+      "ru": [
+        "кухонька"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "kitchenette",
+      "sourceIds": [
+        "kitchenette"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lampada",
+      "word": "lâmpada",
+      "en": "lâmpada",
+      "ru": [
+        "лампа",
+        "лампочка",
+        "светильник"
+      ],
+      "example": "Você deixou as lâmpadas da frente acesas.",
+      "level": "A2",
+      "sourceId": "lamp",
+      "sourceIds": [
+        "lamp"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "iluminacao",
+      "word": "iluminação",
+      "en": "iluminação",
+      "ru": [
+        "осветительные приборы",
+        "иллюминация",
+        "освещение"
+      ],
+      "example": "Isto é um poste de iluminação.",
+      "level": "B1",
+      "sourceId": "lighting",
+      "sourceIds": [
+        "lighting"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "calcario",
+      "word": "calcário",
+      "en": "calcário",
+      "ru": [
+        "известковый налет",
+        "накипь"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "limescale",
+      "sourceIds": [
+        "limescale"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fechadura",
+      "word": "fechadura",
+      "en": "fechadura",
+      "ru": [
+        "замок",
+        "запор"
+      ],
+      "example": "\"A chave está na fechadura\", ele acrescentou.",
+      "level": "A2",
+      "sourceId": "lock",
+      "sourceIds": [
+        "lock"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trancado",
+      "word": "trancado",
+      "en": "trancado",
+      "ru": [
+        "запертый",
+        "закрытый на замок"
+      ],
+      "example": "Como você sabe que a porta estava trancada?",
+      "level": "B2",
+      "sourceId": "locked",
+      "sourceIds": [
+        "locked"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "armario",
+      "word": "armário",
+      "en": "armário",
+      "ru": [
+        "шкафчик",
+        "ячейка",
+        "локер"
+      ],
+      "example": "Você já deu uma olhada no armário?",
+      "level": "C2",
+      "sourceId": "locker",
+      "sourceIds": [
+        "locker"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "colchao",
+      "word": "colchão",
+      "en": "colchão",
+      "ru": [
+        "матрац",
+        "матрас"
+      ],
+      "example": "Você realmente esconde seu dinheiro debaixo do colchão?",
+      "level": "A2",
+      "sourceId": "mattress",
+      "sourceIds": [
+        "mattress"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bagunca",
+      "word": "bagunça",
+      "en": "bagunça",
+      "ru": [
+        "бардак",
+        "беспорядок",
+        "кавардак"
+      ],
+      "example": "Você é o responsável por essa bagunça?",
+      "level": "C1",
+      "sourceId": "mess",
+      "sourceIds": [
+        "mess"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "micro-ondas",
+      "word": "micro-ondas",
+      "en": "micro-ondas",
+      "ru": [
+        "микроволна",
+        "готовить в микроволновой печи"
+      ],
+      "example": "Por quanto tempo você deixou no micro-ondas?",
+      "level": "B2",
+      "sourceId": "microwave",
+      "sourceIds": [
+        "microwave"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "espelho",
+      "word": "espelho",
+      "en": "espelho",
+      "ru": [
+        "зеркало"
+      ],
+      "example": "Você é o único espelho para mim.",
+      "level": "A2",
+      "sourceId": "mirror",
+      "sourceIds": [
+        "mirror"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "agulha",
+      "word": "agulha",
+      "en": "agulha",
+      "ru": [
+        "игла",
+        "иголка"
+      ],
+      "example": "Você tem uma agulha para costurar estes botões?",
+      "level": "C1",
+      "sourceId": "needle",
+      "sourceIds": [
+        "needle"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vizinhanca",
+      "word": "vizinhança",
+      "en": "vizinhança",
+      "ru": [
+        "близость",
+        "окрестности",
+        "округа"
+      ],
+      "example": "Passe aqui se você estiver sempre pela vizinhança.",
+      "level": "B1",
+      "sourceId": "neighborhood",
+      "sourceIds": [
+        "neighborhood"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vizinho",
+      "word": "vizinho",
+      "en": "vizinho",
+      "ru": [
+        "близлежащий",
+        "соседний"
+      ],
+      "example": "Ela é minha vizinha, você não sabia?",
+      "level": "C2",
+      "sourceId": "neighboring",
+      "sourceIds": [
+        "neighboring"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vizinho",
+      "word": "vizinho",
+      "en": "vizinho",
+      "ru": [
+        "сосед",
+        "соседка",
+        "ближний"
+      ],
+      "example": "Ela é minha vizinha, você não sabia?",
+      "level": "A1",
+      "sourceId": "neighbour",
+      "sourceIds": [
+        "neighbour"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-boa-vizinhanca",
+      "word": "de boa vizinhança",
+      "en": "de boa vizinhança",
+      "ru": [
+        "добрососедский"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "neighbourly",
+      "sourceIds": [
+        "neighbourly"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "abridor",
+      "word": "abridor",
+      "en": "abridor",
+      "ru": [
+        "открывалка",
+        "открывашка"
+      ],
+      "example": "Onde está o abridor de garrafa?",
+      "level": "C2",
+      "sourceId": "opener",
+      "sourceIds": [
+        "opener"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "forno",
+      "word": "forno",
+      "en": "forno",
+      "ru": [
+        "печь",
+        "духовка"
+      ],
+      "example": "Deixei o jantar no forno para você.",
+      "level": "B2",
+      "sourceId": "oven",
+      "sourceIds": [
+        "oven"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "divisoria",
+      "word": "divisória",
+      "en": "divisória",
+      "ru": [
+        "перегородка"
+      ],
+      "example": "A divisória é de madeira.",
+      "level": "C1",
+      "sourceId": "partition",
+      "sourceIds": [
+        "partition"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "imagem",
+      "word": "imagem",
+      "en": "imagem",
+      "ru": [
+        "изображение",
+        "картина",
+        "картинка"
+      ],
+      "example": "O que você está vendo nessa imagem?",
+      "level": "A1",
+      "sourceId": "picture",
+      "sourceIds": [
+        "picture"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "travesseiro",
+      "word": "travesseiro",
+      "en": "travesseiro",
+      "ru": [
+        "подушка"
+      ],
+      "example": "Posso pegar um travesseiro para você?",
+      "level": "A1",
+      "sourceId": "pillow",
+      "sourceIds": [
+        "pillow"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tubo",
+      "word": "tubo",
+      "en": "tubo",
+      "ru": [
+        "труба",
+        "водопроводная труба"
+      ],
+      "example": "Você não pode colocar a pasta de dente de volta no tubo.",
+      "level": "B2",
+      "sourceId": "pipe",
+      "sourceIds": [
+        "pipe"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "plugue",
+      "word": "plugue",
+      "en": "plugue",
+      "ru": [
+        "вилка",
+        "штепсельная вилка",
+        "штекер"
+      ],
+      "example": "Desconecte o plugue.",
+      "level": "B1",
+      "sourceId": "plug",
+      "sourceIds": [
+        "plug"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "encanamento",
+      "word": "encanamento",
+      "en": "encanamento",
+      "ru": [
+        "сантехника"
+      ],
+      "example": "Vamos supor que eu conserte o encanamento. Quanto você me pagará?",
+      "level": "C1",
+      "sourceId": "plumbing",
+      "sourceIds": [
+        "plumbing"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reciclar",
+      "word": "reciclar",
+      "en": "reciclar",
+      "ru": [
+        "рециркулировать",
+        "перерабатывать",
+        "переработать"
+      ],
+      "example": "Você recicla?",
+      "level": "C2",
+      "sourceId": "recycle",
+      "sourceIds": [
+        "recycle"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reciclagem",
+      "word": "reciclagem",
+      "en": "reciclagem",
+      "ru": [
+        "вторичная переработка",
+        "переработка отходов",
+        "рециклинг"
+      ],
+      "example": "O especialista está fazendo um curso de reciclagem.",
+      "level": "B2",
+      "sourceId": "recycling",
+      "sourceIds": [
+        "recycling"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "geladeira",
+      "word": "geladeira",
+      "en": "geladeira",
+      "ru": [
+        "холодильник",
+        "рефрижератор"
+      ],
+      "example": "Você colocou água na geladeira?",
+      "level": "A1",
+      "sourceId": "refrigerator",
+      "sourceIds": [
+        "refrigerator"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aluguel",
+      "word": "aluguel",
+      "en": "aluguel",
+      "ru": [
+        "аренда",
+        "арендная плата",
+        "квартирная плата"
+      ],
+      "example": "Quanto você paga pelo aluguel do apartamento?",
+      "level": "A2",
+      "sourceId": "rent",
+      "sourceIds": [
+        "rent"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aluguel",
+      "word": "aluguel",
+      "en": "aluguel",
+      "ru": [
+        "аренда"
+      ],
+      "example": "Quanto você paga pelo aluguel do apartamento?",
+      "level": "A2",
+      "sourceId": "rental",
+      "sourceIds": [
+        "rental"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "residencia",
+      "word": "residência",
+      "en": "residência",
+      "ru": [
+        "местожительство",
+        "резиденция",
+        "дом"
+      ],
+      "example": "A água da chuva invadiu a residência.",
+      "level": "B1",
+      "sourceId": "residence",
+      "sourceIds": [
+        "residence"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "residencial",
+      "word": "residencial",
+      "en": "residencial",
+      "ru": [
+        "жилищный",
+        "жилой"
+      ],
+      "example": "Por favor, escrevam o endereço residencial de vocês.",
+      "level": "B1",
+      "sourceId": "residential",
+      "sourceIds": [
+        "residential"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cadeira-de-balanco",
+      "word": "cadeira de balanço",
+      "en": "cadeira de balanço",
+      "ru": [
+        "балансир",
+        "качалка",
+        "коромысло"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "rocker",
+      "sourceIds": [
+        "rocker"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "telhado",
+      "word": "telhado",
+      "en": "telhado",
+      "ru": [
+        "крыша",
+        "кров",
+        "стреха"
+      ],
+      "example": "Você está em cima do telhado.",
+      "level": "B2",
+      "sourceId": "roof",
+      "sourceIds": [
+        "roof"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "telhador",
+      "word": "telhador",
+      "en": "telhador",
+      "ru": [
+        "кровельщик",
+        "руфер"
+      ],
+      "example": "",
+      "level": "C2",
+      "sourceId": "roofer",
+      "sourceIds": [
+        "roofer"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cobertura",
+      "word": "cobertura",
+      "en": "cobertura",
+      "ru": [
+        "кровля",
+        "руферство",
+        "руфинг"
+      ],
+      "example": "Preciso que você me dê cobertura.",
+      "level": "C2",
+      "sourceId": "roofing",
+      "sourceIds": [
+        "roofing"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "quarto",
+      "word": "quarto",
+      "en": "quarto",
+      "ru": [
+        "комната",
+        "помещение"
+      ],
+      "example": "Como vocês saíram do quarto de vocês?",
+      "level": "A1",
+      "sourceId": "room",
+      "sourceIds": [
+        "room"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sombra",
+      "word": "sombra",
+      "en": "sombra",
+      "ru": [
+        "штора",
+        "тень",
+        "переходить"
+      ],
+      "example": "Você pode ser mais rápido que sua sombra?",
+      "level": "C1",
+      "sourceId": "shade",
+      "sourceIds": [
+        "shade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estante",
+      "word": "estante",
+      "en": "estante",
+      "ru": [
+        "полка",
+        "шельф"
+      ],
+      "example": "Você tem livros demais nessa estante.",
+      "level": "A2",
+      "sourceId": "shelf",
+      "sourceIds": [
+        "shelf"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "concha",
+      "word": "concha",
+      "en": "concha",
+      "ru": [
+        "раковина",
+        "панцирь",
+        "ракушка"
+      ],
+      "example": "A vida não é uma concha vazia.",
+      "level": "B1",
+      "sourceId": "shell",
+      "sourceIds": [
+        "shell"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pia",
+      "word": "pia",
+      "en": "pia",
+      "ru": [
+        "раковина",
+        "мойка",
+        "умывальник"
+      ],
+      "example": "Você coloca os pratos na pia?",
+      "level": "A1",
+      "sourceId": "sink",
+      "sourceIds": [
+        "sink"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ensaboar",
+      "word": "ensaboar",
+      "en": "ensaboar",
+      "ru": [
+        "мыло",
+        "мылить",
+        "намылить"
+      ],
+      "example": "Eu ensaboo meu rosto antes de me barbear.",
+      "level": "B2",
+      "sourceId": "soap",
+      "sourceIds": [
+        "soap"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tomada",
+      "word": "tomada",
+      "en": "tomada",
+      "ru": [
+        "розетка",
+        "гнездо",
+        "патрон"
+      ],
+      "example": "A tomada do meu abajur está quebrada.",
+      "level": "B2",
+      "sourceId": "socket",
+      "sourceIds": [
+        "socket"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sofa",
+      "word": "sofá",
+      "en": "sofá",
+      "ru": [
+        "диван",
+        "канапе",
+        "кушетка"
+      ],
+      "example": "Por que você está dormindo no sofá?",
+      "level": "A1",
+      "sourceId": "sofa",
+      "sourceIds": [
+        "sofa"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "colher",
+      "word": "colher",
+      "en": "colher",
+      "ru": [
+        "ложка"
+      ],
+      "example": "Você colhe hoje o que plantou ontem.",
+      "level": "A2",
+      "sourceId": "spoon",
+      "sourceIds": [
+        "spoon"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escada",
+      "word": "escada",
+      "en": "escada",
+      "ru": [
+        "лестница",
+        "ступенька"
+      ],
+      "example": "Por que você está sentado na escada?",
+      "level": "A1",
+      "sourceId": "stairs",
+      "sourceIds": [
+        "stairs"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fogao",
+      "word": "fogão",
+      "en": "fogão",
+      "ru": [
+        "плита",
+        "печка",
+        "плитка"
+      ],
+      "example": "Você acendeu o fogão?",
+      "level": "A2",
+      "sourceId": "stove",
+      "sourceIds": [
+        "stove"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "coisas",
+      "word": "coisas",
+      "en": "coisas",
+      "ru": [
+        "хлам",
+        "барахло"
+      ],
+      "example": "De que tipo de coisas você precisa?",
+      "level": "A2",
+      "sourceId": "stuff",
+      "sourceIds": [
+        "stuff"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "interruptor",
+      "word": "interruptor",
+      "en": "interruptor",
+      "ru": [
+        "ключ",
+        "выключатель",
+        "переключатель"
+      ],
+      "example": "Você apertou o interruptor?",
+      "level": "A2",
+      "sourceId": "switch",
+      "sourceIds": [
+        "switch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mesa",
+      "word": "mesa",
+      "en": "mesa",
+      "ru": [
+        "стол",
+        "поднос",
+        "таблица"
+      ],
+      "example": "Esta mesa é pequena demais para você.",
+      "level": "A1",
+      "sourceId": "table",
+      "sourceIds": [
+        "table"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arrumado",
+      "word": "arrumado",
+      "en": "arrumado",
+      "ru": [
+        "аккуратный",
+        "опрятный",
+        "чистый"
+      ],
+      "example": "Você deve deixar seu quarto arrumado.",
+      "level": "A2",
+      "sourceId": "tidy",
+      "sourceIds": [
+        "tidy"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banheiro",
+      "word": "banheiro",
+      "en": "banheiro",
+      "ru": [
+        "туалет",
+        "клозет",
+        "уборная"
+      ],
+      "example": "Quando você vai, finalmente, sair do banheiro?",
+      "level": "B2",
+      "sourceId": "toilet",
+      "sourceIds": [
+        "toilet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "toalha",
+      "word": "toalha",
+      "en": "toalha",
+      "ru": [
+        "полотенце",
+        "рушник",
+        "ручник"
+      ],
+      "example": "Você poderia me trazer outra toalha quente?",
+      "level": "A1",
+      "sourceId": "towel",
+      "sourceIds": [
+        "towel"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lixo",
+      "word": "lixo",
+      "en": "lixo",
+      "ru": [
+        "мусор",
+        "дрянь",
+        "ерунда"
+      ],
+      "example": "Você já levou o lixo para fora?",
+      "level": "A2",
+      "sourceId": "trash",
+      "sourceIds": [
+        "trash"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aspirar",
+      "word": "aspirar",
+      "en": "aspirar",
+      "ru": [
+        "вакуум",
+        "пропылесосить",
+        "пылесосить"
+      ],
+      "example": "A alcatifa ainda não foi aspirada.",
+      "level": "B2",
+      "sourceId": "vacuum",
+      "sourceIds": [
+        "vacuum"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaso",
+      "word": "vaso",
+      "en": "vaso",
+      "ru": [
+        "ваза"
+      ],
+      "example": "Você deu forma de vaso à argila.",
+      "level": "A2",
+      "sourceId": "vase",
+      "sourceIds": [
+        "vase"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parede",
+      "word": "parede",
+      "en": "parede",
+      "ru": [
+        "стена",
+        "вал"
+      ],
+      "example": "Você pintou as paredes, não pintou?",
+      "level": "A1",
+      "sourceId": "wall",
+      "sourceIds": [
+        "wall"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "armario",
+      "word": "armário",
+      "en": "armário",
+      "ru": [
+        "шкаф",
+        "гардероб",
+        "шифоньер"
+      ],
+      "example": "Você já deu uma olhada no armário?",
+      "level": "A2",
+      "sourceId": "wardrobe",
+      "sourceIds": [
+        "wardrobe"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "arruela",
+      "word": "arruela",
+      "en": "arruela",
+      "ru": [
+        "шайба",
+        "прачка"
+      ],
+      "example": "",
+      "level": "C1",
+      "sourceId": "washer",
+      "sourceIds": [
+        "washer"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "desperdicio",
+      "word": "desperdício",
+      "en": "desperdício",
+      "ru": [
+        "отбросы",
+        "отходы",
+        "пустошь"
+      ],
+      "example": "Isto é um desperdício do meu tempo.",
+      "level": "A2",
+      "sourceId": "waste",
+      "sourceIds": [
+        "waste"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "janela",
+      "word": "janela",
+      "en": "janela",
+      "ru": [
+        "окно",
+        "окошко"
+      ],
+      "example": "Está frio. Você poderia fechar a janela?",
+      "level": "A1",
+      "sourceId": "window",
+      "sourceIds": [
+        "window"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "fio",
+      "word": "fio",
+      "en": "fio",
+      "ru": [
+        "проволока",
+        "провод"
+      ],
+      "example": "Você só tem cinco fios de cabelo.",
+      "level": "B1",
+      "sourceId": "wire",
+      "sourceIds": [
+        "wire"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cozinha",
+      "word": "cozinha",
+      "en": "cozinha",
+      "ru": [
+        "кухня"
+      ],
+      "example": "Eu adoro quando você cozinha para mim.",
+      "level": "B1",
+      "sourceId": "kitchen",
+      "sourceIds": [
+        "kitchen"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "alvejar",
+      "word": "alvejar",
+      "en": "alvejar",
+      "ru": [
+        "отбеливать"
+      ],
+      "example": "Estava aqui quando o Tom foi alvejado?",
+      "level": "B1",
+      "sourceId": "bleach",
+      "sourceIds": [
+        "bleach"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "estante",
+      "word": "estante",
+      "en": "estante",
+      "ru": [
+        "книжный шкаф"
+      ],
+      "example": "Você tem livros demais nessa estante.",
+      "level": "B1",
+      "sourceId": "bookcase",
+      "sourceIds": [
+        "bookcase"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "suporte",
+      "word": "suporte",
+      "en": "suporte",
+      "ru": [
+        "кронштейн",
+        "скобка"
+      ],
+      "example": "Eu temo que você não suporte.",
+      "level": "B1",
+      "sourceId": "bracket",
+      "sourceIds": [
+        "bracket"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabide",
+      "word": "cabide",
+      "en": "cabide",
+      "ru": [
+        "вешалка"
+      ],
+      "example": "Coloca este casaco em um cabide.",
+      "level": "B1",
+      "sourceId": "hanger",
+      "sourceIds": [
+        "hanger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "forcado",
+      "word": "forcado",
+      "en": "forcado",
+      "ru": [
+        "вилы"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pitchfork",
+      "sourceIds": [
+        "pitchfork"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "colega-de-quarto",
+      "word": "colega de quarto",
+      "en": "colega de quarto",
+      "ru": [
+        "сосед по комнате"
+      ],
+      "example": "Talvez você possa ser meu colega de quarto.",
+      "level": "B1",
+      "sourceId": "roommate",
+      "sourceIds": [
+        "roommate"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hospede",
+      "word": "hóspede",
+      "en": "hóspede",
+      "ru": [
+        "гость в доме"
+      ],
+      "example": "Você vai dormir no quarto de hóspedes.",
+      "level": "B1",
+      "sourceId": "houseguest",
+      "sourceIds": [
+        "houseguest"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tapete",
+      "word": "tapete",
+      "en": "tapete",
+      "ru": [
+        "коврик"
+      ],
+      "example": "Você tem um tapete na sua sala?",
+      "level": "B1",
+      "sourceId": "rug",
+      "sourceIds": [
+        "rug"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aparafusar",
+      "word": "aparafusar",
+      "en": "aparafusar",
+      "ru": [
+        "завинчивать"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "screw",
+      "sourceIds": [
+        "screw"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "duto",
+      "word": "duto",
+      "en": "duto",
+      "ru": [
+        "трубопровод",
+        "канал"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "duct",
+      "sourceIds": [
+        "duct"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "tina",
+      "word": "tina",
+      "en": "tina",
+      "ru": [
+        "ванна",
+        "бадья"
+      ],
+      "example": "A Tina me disse algo parecido uma vez.",
+      "level": "B1",
+      "sourceId": "tub",
+      "sourceIds": [
+        "tub"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "armario",
+      "word": "armário",
+      "en": "armário",
+      "ru": [
+        "шкаф"
+      ],
+      "example": "Você já deu uma olhada no armário?",
+      "level": "B1",
+      "sourceId": "closet",
+      "sourceIds": [
+        "closet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pufe",
+      "word": "pufe",
+      "en": "pufe",
+      "ru": [
+        "пуфик"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "ottoman",
+      "sourceIds": [
+        "ottoman"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "marmore",
+      "word": "mármore",
+      "en": "mármore",
+      "ru": [
+        "мрамор"
+      ],
+      "example": "A pia do banheiro é de mármore.",
+      "level": "B1",
+      "sourceId": "marble",
+      "sourceIds": [
+        "marble"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passar-pano",
+      "word": "passar pano",
+      "en": "passar pano",
+      "ru": [
+        "мыть шваброй"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "mop",
+      "sourceIds": [
+        "mop"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "drenar",
+      "word": "drenar",
+      "en": "drenar",
+      "ru": [
+        "осушать",
+        "стекать"
+      ],
+      "example": "Você tem que drenar essa ferida, para que não infeccione.",
+      "level": "B1",
+      "sourceId": "drain",
+      "sourceIds": [
+        "drain"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "linho",
+      "word": "linho",
+      "en": "linho",
+      "ru": [
+        "лен",
+        "постельное белье"
+      ],
+      "example": "A mesa estava coberta com uma toalha de linho.",
+      "level": "B1",
+      "sourceId": "linen",
+      "sourceIds": [
+        "linen"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "braseiro",
+      "word": "braseiro",
+      "en": "braseiro",
+      "ru": [
+        "жаровня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "brazier",
+      "sourceIds": [
+        "brazier"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "escada",
+      "word": "escada",
+      "en": "escada",
+      "ru": [
+        "лестница",
+        "стремянка"
+      ],
+      "example": "Por que você está sentado na escada?",
+      "level": "B1",
+      "sourceId": "ladder",
+      "sourceIds": [
+        "ladder"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "parafuso",
+      "word": "parafuso",
+      "en": "parafuso",
+      "ru": [
+        "болт",
+        "засов"
+      ],
+      "example": "Você está com um parafuso a menos.",
+      "level": "B1",
+      "sourceId": "bolt",
+      "sourceIds": [
+        "bolt"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "celeiro",
+      "word": "celeiro",
+      "en": "celeiro",
+      "ru": [
+        "амбар",
+        "сарай"
+      ],
+      "example": "O agricultor levou o trigo ao celeiro.",
+      "level": "B1",
+      "sourceId": "barn",
+      "sourceIds": [
+        "barn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "montagem-propria",
+      "word": "montagem própria",
+      "en": "montagem própria",
+      "ru": [
+        "самосборка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "self-assembly",
+      "sourceIds": [
+        "self-assembly"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cocho",
+      "word": "cocho",
+      "en": "cocho",
+      "ru": [
+        "корыто",
+        "желоб"
+      ],
+      "example": "Ele fiscalizava os cochos e os depósitos d’água.",
+      "level": "B1",
+      "sourceId": "trough",
+      "sourceIds": [
+        "trough"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "registro",
+      "word": "registro",
+      "en": "registro",
+      "ru": [
+        "запорный кран"
+      ],
+      "example": "O clube local solicitou registro na federação.",
+      "level": "B1",
+      "sourceId": "stopcock",
+      "sourceIds": [
+        "stopcock"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escatologico",
+      "word": "escatológico",
+      "en": "escatológico",
+      "ru": [
+        "туалетный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "lavatorial",
+      "sourceIds": [
+        "lavatorial"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "carrinho-de-mao",
+      "word": "carrinho de mão",
+      "en": "carrinho de mão",
+      "ru": [
+        "тачка"
+      ],
+      "example": "Eu nunca usei um carrinho de mão.",
+      "level": "B1",
+      "sourceId": "wheelbarrow",
+      "sourceIds": [
+        "wheelbarrow"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabana",
+      "word": "cabana",
+      "en": "cabana",
+      "ru": [
+        "хижина",
+        "лачуга"
+      ],
+      "example": "Alugamos uma cabana perto de um lago.",
+      "level": "B1",
+      "sourceId": "hut",
+      "sourceIds": [
+        "hut"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "decorar",
+      "word": "decorar",
+      "en": "decorar",
+      "ru": [
+        "украшать",
+        "декорировать"
+      ],
+      "example": "Por que você está decorando este poema?",
+      "level": "B1",
+      "sourceId": "decorate",
+      "sourceIds": [
+        "decorate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lampada",
+      "word": "lâmpada",
+      "en": "lâmpada",
+      "ru": [
+        "лампочка",
+        "луковица"
+      ],
+      "example": "Você deixou as lâmpadas da frente acesas.",
+      "level": "B1",
+      "sourceId": "bulb",
+      "sourceIds": [
+        "bulb"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cortador-de-grama",
+      "word": "cortador de grama",
+      "en": "cortador de grama",
+      "ru": [
+        "газонокосилка"
+      ],
+      "example": "Você poderia me emprestar seu cortador de grama?",
+      "level": "B1",
+      "sourceId": "lawnmower",
+      "sourceIds": [
+        "lawnmower",
+        "mower"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "esgoto",
+      "word": "esgoto",
+      "en": "esgoto",
+      "ru": [
+        "сточные воды",
+        "канализация"
+      ],
+      "example": "Esse esgoto lança fora a água poluída.",
+      "level": "B1",
+      "sourceId": "sewage",
+      "sourceIds": [
+        "sewage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "de-pedra-seca",
+      "word": "de pedra seca",
+      "en": "de pedra seca",
+      "ru": [
+        "сухая кладка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dry-stone",
+      "sourceIds": [
+        "dry-stone"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "cercar-de-novo",
+      "word": "cercar de novo",
+      "en": "cercar de novo",
+      "ru": [
+        "огораживать заново"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "refence",
+      "sourceIds": [
+        "refence"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "chapisco",
+      "word": "chapisco",
+      "en": "chapisco",
+      "ru": [
+        "штукатурка с галькой"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "pebbledash",
+      "sourceIds": [
+        "pebbledash"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "gabinete",
+      "word": "gabinete",
+      "en": "gabinete",
+      "ru": [
+        "шкаф",
+        "кабинет"
+      ],
+      "example": "Todos os membros do gabinete estavam presentes.",
+      "level": "B1",
+      "sourceId": "cabinet",
+      "sourceIds": [
+        "cabinet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drenagem",
+      "word": "drenagem",
+      "en": "drenagem",
+      "ru": [
+        "дренаж",
+        "водоотвод"
+      ],
+      "example": "Antes da drenagem o terreno era um banhado.",
+      "level": "B1",
+      "sourceId": "drainage",
+      "sourceIds": [
+        "drainage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mordomo",
+      "word": "mordomo",
+      "en": "mordomo",
+      "ru": [
+        "дворецкий"
+      ],
+      "example": "Tom tem um mordomo e um cozinheiro.",
+      "level": "B1",
+      "sourceId": "butler",
+      "sourceIds": [
+        "butler"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "corredor",
+      "word": "corredor",
+      "en": "corredor",
+      "ru": [
+        "коридор"
+      ],
+      "example": "Vocês não podem falar no corredor.",
+      "level": "B1",
+      "sourceId": "corridor",
+      "sourceIds": [
+        "corridor"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lenha",
+      "word": "lenha",
+      "en": "lenha",
+      "ru": [
+        "дрова"
+      ],
+      "example": "O fogo está se apagando; você adiciona lenha?",
+      "level": "B1",
+      "sourceId": "firewood",
+      "sourceIds": [
+        "firewood"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tabua-do-assoalho",
+      "word": "tábua do assoalho",
+      "en": "tábua do assoalho",
+      "ru": [
+        "половая доска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "floorboard",
+      "sourceIds": [
+        "floorboard"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "drywall",
+      "word": "drywall",
+      "en": "drywall",
+      "ru": [
+        "гипсокартон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "drywall",
+      "sourceIds": [
+        "drywall"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "banheira",
+      "word": "banheira",
+      "en": "banheira",
+      "ru": [
+        "ванна"
+      ],
+      "example": "Você quer um banheiro com banheira ou chuveiro?",
+      "level": "B1",
+      "sourceId": "bathtub",
+      "sourceIds": [
+        "bathtub"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "patio",
+      "word": "pátio",
+      "en": "pátio",
+      "ru": [
+        "двор"
+      ],
+      "example": "Você tem uma mesa no pátio?",
+      "level": "B1",
+      "sourceId": "yard",
+      "sourceIds": [
+        "yard",
+        "courtyard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porao",
+      "word": "porão",
+      "en": "porão",
+      "ru": [
+        "подвал",
+        "погреб"
+      ],
+      "example": "A velha harpa estava guardada no porão.",
+      "level": "B1",
+      "sourceId": "cellar",
+      "sourceIds": [
+        "cellar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "moradia",
+      "word": "moradia",
+      "en": "moradia",
+      "ru": [
+        "жилище",
+        "обитель"
+      ],
+      "example": "Tom é o dono dessa moradia.",
+      "level": "B1",
+      "sourceId": "abode",
+      "sourceIds": [
+        "abode"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "la-em-cima",
+      "word": "lá em cima",
+      "en": "lá em cima",
+      "ru": [
+        "наверху",
+        "на верхнем этаже"
+      ],
+      "example": "Estarei lá em cima se você precisar de mim.",
+      "level": "B1",
+      "sourceId": "upstairs",
+      "sourceIds": [
+        "upstairs"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casa-de-fazenda",
+      "word": "casa de fazenda",
+      "en": "casa de fazenda",
+      "ru": [
+        "фермерский дом"
+      ],
+      "example": "Tratava-se de uma casa de fazenda muito velha, abandonada havia muito tempo.",
+      "level": "B1",
+      "sourceId": "farmhouse",
+      "sourceIds": [
+        "farmhouse"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banquinho",
+      "word": "banquinho",
+      "en": "banquinho",
+      "ru": [
+        "табурет",
+        "стул"
+      ],
+      "example": "Se você subir nesse banquinho você pode alcançar o topo do armário.",
+      "level": "B1",
+      "sourceId": "stool",
+      "sourceIds": [
+        "stool"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trapo",
+      "word": "trapo",
+      "en": "trapo",
+      "ru": [
+        "тряпка"
+      ],
+      "example": "Estes trapos eu não trocaria pela púrpura real.",
+      "level": "B1",
+      "sourceId": "rag",
+      "sourceIds": [
+        "rag"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "banco-de-reservas",
+      "word": "banco de reservas",
+      "en": "banco de reservas",
+      "ru": [
+        "землянка",
+        "блиндаж"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dugout",
+      "sourceIds": [
+        "dugout"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "aconchegante",
+      "word": "aconchegante",
+      "en": "aconchegante",
+      "ru": [
+        "уютный"
+      ],
+      "example": "A lareira deixa esta sala mais aconchegante.",
+      "level": "B1",
+      "sourceId": "homey",
+      "sourceIds": [
+        "homey"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "costurar",
+      "word": "costurar",
+      "en": "costurar",
+      "ru": [
+        "шить"
+      ],
+      "example": "Você costuraria um botão na minha camisa?",
+      "level": "B1",
+      "sourceId": "sew",
+      "sourceIds": [
+        "sew"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "berco",
+      "word": "berço",
+      "en": "berço",
+      "ru": [
+        "колыбель"
+      ],
+      "example": "A África é o berço da humanidade.",
+      "level": "B1",
+      "sourceId": "cradle",
+      "sourceIds": [
+        "cradle"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "abrigar",
+      "word": "abrigar",
+      "en": "abrigar",
+      "ru": [
+        "укрывать"
+      ],
+      "example": "Você deveria tirar o seu abrigo.",
+      "level": "B1",
+      "sourceId": "shelter",
+      "sourceIds": [
+        "shelter"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "chale",
+      "word": "chalé",
+      "en": "chalé",
+      "ru": [
+        "коттедж",
+        "домик"
+      ],
+      "example": "Nós ficamos em um chalé.",
+      "level": "B1",
+      "sourceId": "cottage",
+      "sourceIds": [
+        "cottage"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "corredor",
+      "word": "corredor",
+      "en": "corredor",
+      "ru": [
+        "коридор",
+        "прихожая"
+      ],
+      "example": "Vocês não podem falar no corredor.",
+      "level": "B1",
+      "sourceId": "hallway",
+      "sourceIds": [
+        "hallway"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reforma",
+      "word": "reforma",
+      "en": "reforma",
+      "ru": [
+        "ремонт",
+        "свидание вслепую"
+      ],
+      "example": "A estação de trem está em reforma.",
+      "level": "B1",
+      "sourceId": "fix-up",
+      "sourceIds": [
+        "fix-up"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cha-de-casa-nova",
+      "word": "chá de casa nova",
+      "en": "chá de casa nova",
+      "ru": [
+        "новоселье"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "housewarming",
+      "sourceIds": [
+        "housewarming"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "toca",
+      "word": "toca",
+      "en": "toca",
+      "ru": [
+        "логово",
+        "кабинет"
+      ],
+      "example": "Você quer me tirar de minha toca?",
+      "level": "B1",
+      "sourceId": "den",
+      "sourceIds": [
+        "den"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porcelana",
+      "word": "porcelana",
+      "en": "porcelana",
+      "ru": [
+        "фарфор"
+      ],
+      "example": "Ele escreveu um livro sobre porcelana.",
+      "level": "B1",
+      "sourceId": "china",
+      "sourceIds": [
+        "china"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ventilacao",
+      "word": "ventilação",
+      "en": "ventilação",
+      "ru": [
+        "вентиляция"
+      ],
+      "example": "Não obstrua nenhuma abertura de ventilação.",
+      "level": "B1",
+      "sourceId": "ventilation",
+      "sourceIds": [
+        "ventilation"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "incinerador",
+      "word": "incinerador",
+      "en": "incinerador",
+      "ru": [
+        "мусоросжигательная печь"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "incinerator",
+      "sourceIds": [
+        "incinerator"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "berco",
+      "word": "berço",
+      "en": "berço",
+      "ru": [
+        "раскладушка",
+        "детская кроватка"
+      ],
+      "example": "A África é o berço da humanidade.",
+      "level": "B1",
+      "sourceId": "cot",
+      "sourceIds": [
+        "cot"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "geladeira",
+      "word": "geladeira",
+      "en": "geladeira",
+      "ru": [
+        "холодильник"
+      ],
+      "example": "Você colocou água na geladeira?",
+      "level": "B1",
+      "sourceId": "fridge",
+      "sourceIds": [
+        "fridge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tijolo",
+      "word": "tijolo",
+      "en": "tijolo",
+      "ru": [
+        "кирпич"
+      ],
+      "example": "A casa está construída de tijolos vermelhos.",
+      "level": "B1",
+      "sourceId": "brick",
+      "sourceIds": [
+        "brick"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "escadaria",
+      "word": "escadaria",
+      "en": "escadaria",
+      "ru": [
+        "лестница"
+      ],
+      "example": "A escadaria do templo é de pedras preciosas.",
+      "level": "B1",
+      "sourceId": "staircase",
+      "sourceIds": [
+        "staircase",
+        "stairway"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mansao",
+      "word": "mansão",
+      "en": "mansão",
+      "ru": [
+        "поместье",
+        "усадьба"
+      ],
+      "example": "A mansão de Ziri tem grandes rachaduras.",
+      "level": "B1",
+      "sourceId": "manor",
+      "sourceIds": [
+        "manor"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "soleira",
+      "word": "soleira",
+      "en": "soleira",
+      "ru": [
+        "порог"
+      ],
+      "example": "O que está escrito na soleira da porta?",
+      "level": "B1",
+      "sourceId": "doorstep",
+      "sourceIds": [
+        "doorstep"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "esponja",
+      "word": "esponja",
+      "en": "esponja",
+      "ru": [
+        "губка"
+      ],
+      "example": "Mary bebe mais do que uma esponja.",
+      "level": "B1",
+      "sourceId": "sponge",
+      "sourceIds": [
+        "sponge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "umidificador",
+      "word": "umidificador",
+      "en": "umidificador",
+      "ru": [
+        "увлажнитель воздуха"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "humidifier",
+      "sourceIds": [
+        "humidifier"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "nicho",
+      "word": "nicho",
+      "en": "nicho",
+      "ru": [
+        "чулан",
+        "ячейка"
+      ],
+      "example": "O crânio que se encontrava no nicho estreito emitia reflexos iridescentes.",
+      "level": "B1",
+      "sourceId": "cubby",
+      "sourceIds": [
+        "cubby"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beliche",
+      "word": "beliche",
+      "en": "beliche",
+      "ru": [
+        "койка",
+        "койка в общежитии"
+      ],
+      "example": "Tom está lendo no seu beliche.",
+      "level": "B1",
+      "sourceId": "bunk",
+      "sourceIds": [
+        "bunk"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "despensa",
+      "word": "despensa",
+      "en": "despensa",
+      "ru": [
+        "кладовая для продуктов"
+      ],
+      "example": "Os produtos de limpeza estão guardados na despensa.",
+      "level": "B1",
+      "sourceId": "larder",
+      "sourceIds": [
+        "larder"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "desentupidor",
+      "word": "desentupidor",
+      "en": "desentupidor",
+      "ru": [
+        "вантуз"
+      ],
+      "example": "Você viu o desentupidor de pia?",
+      "level": "B1",
+      "sourceId": "plunger",
+      "sourceIds": [
+        "plunger"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "berco",
+      "word": "berço",
+      "en": "berço",
+      "ru": [
+        "детская кроватка",
+        "шпаргалка"
+      ],
+      "example": "A África é o berço da humanidade.",
+      "level": "B1",
+      "sourceId": "crib",
+      "sourceIds": [
+        "crib"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "radiador",
+      "word": "radiador",
+      "en": "radiador",
+      "ru": [
+        "радиатор"
+      ],
+      "example": "Radiadores são necessários durante o inverno.",
+      "level": "B1",
+      "sourceId": "radiator",
+      "sourceIds": [
+        "radiator"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "secadora",
+      "word": "secadora",
+      "en": "secadora",
+      "ru": [
+        "сушилка"
+      ],
+      "example": "Você tem de secá-lo um pouco mais (na secadora).",
+      "level": "B1",
+      "sourceId": "dryer",
+      "sourceIds": [
+        "dryer"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ar-condicionado",
+      "word": "ar-condicionado",
+      "en": "ar-condicionado",
+      "ru": [
+        "кондиционирование"
+      ],
+      "example": "Você não tem um ar-condicionado?",
+      "level": "B1",
+      "sourceId": "air-conditioning",
+      "sourceIds": [
+        "air-conditioning"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "toalha-de-mesa",
+      "word": "toalha de mesa",
+      "en": "toalha de mesa",
+      "ru": [
+        "скатерть"
+      ],
+      "example": "A toalha de mesa está no armário.",
+      "level": "B1",
+      "sourceId": "tablecloth",
+      "sourceIds": [
+        "tablecloth"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "pilar",
+      "word": "pilar",
+      "en": "pilar",
+      "ru": [
+        "столб",
+        "колонна"
+      ],
+      "example": "Pilar cresceu recebendo uma educação laica e antifascista.",
+      "level": "B1",
+      "sourceId": "pillar",
+      "sourceIds": [
+        "pillar"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aparador",
+      "word": "aparador",
+      "en": "aparador",
+      "ru": [
+        "буфет",
+        "сервант"
+      ],
+      "example": "Vocês vendem aparador de barba?",
+      "level": "B1",
+      "sourceId": "sideboard",
+      "sourceIds": [
+        "sideboard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dobradica",
+      "word": "dobradiça",
+      "en": "dobradiça",
+      "ru": [
+        "петля",
+        "шарнир"
+      ],
+      "example": "Você precisa lubrificar as dobradiças da porta.",
+      "level": "B1",
+      "sourceId": "hinge",
+      "sourceIds": [
+        "hinge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ripa",
+      "word": "ripa",
+      "en": "ripa",
+      "ru": [
+        "планка",
+        "рейка"
+      ],
+      "example": "A ripa lascou quando bati o prego.",
+      "level": "B1",
+      "sourceId": "slat",
+      "sourceIds": [
+        "slat"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cadeirao",
+      "word": "cadeirão",
+      "en": "cadeirão",
+      "ru": [
+        "детский стульчик для кормления"
+      ],
+      "example": "Isto é um cadeirão.",
+      "level": "B1",
+      "sourceId": "highchair",
+      "sourceIds": [
+        "highchair"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "faca-voce-mesmo",
+      "word": "faça você mesmo",
+      "en": "faça você mesmo",
+      "ru": [
+        "сделай сам"
+      ],
+      "example": "Se vai ficar reclamando, faça você mesmo.",
+      "level": "B1",
+      "sourceId": "diy",
+      "sourceIds": [
+        "diy"
+      ],
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "senhorio",
+      "word": "senhorio",
+      "en": "senhorio",
+      "ru": [
+        "арендодатель",
+        "домовладелец"
+      ],
+      "example": "A Layla era a senhoria do Sami.",
+      "level": "B1",
+      "sourceId": "landlord",
+      "sourceIds": [
+        "landlord"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casinha-de-brinquedo",
+      "word": "casinha de brinquedo",
+      "en": "casinha de brinquedo",
+      "ru": [
+        "игровой домик",
+        "театр"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "playhouse",
+      "sourceIds": [
+        "playhouse"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "rancho",
+      "word": "rancho",
+      "en": "rancho",
+      "ru": [
+        "ранчо"
+      ],
+      "example": "Tom viveu em um grande rancho.",
+      "level": "B1",
+      "sourceId": "ranch",
+      "sourceIds": [
+        "ranch"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "entrada-de-carros",
+      "word": "entrada de carros",
+      "en": "entrada de carros",
+      "ru": [
+        "подъездная дорога"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "driveway",
+      "sourceIds": [
+        "driveway"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "de-vime",
+      "word": "de vime",
+      "en": "de vime",
+      "ru": [
+        "плетеный"
+      ],
+      "example": "Tom colocou o bebê no berço de vime.",
+      "level": "B1",
+      "sourceId": "wicker",
+      "sourceIds": [
+        "wicker"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "gramado",
+      "word": "gramado",
+      "en": "gramado",
+      "ru": [
+        "газон",
+        "лужайка"
+      ],
+      "example": "Você deve respeitar e garantir que os outros respeitem os gramados!",
+      "level": "B1",
+      "sourceId": "lawn",
+      "sourceIds": [
+        "lawn"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lavar-com-mangueira",
+      "word": "lavar com mangueira",
+      "en": "lavar com mangueira",
+      "ru": [
+        "поливать из шланга"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "hose",
+      "sourceIds": [
+        "hose"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "tabua-de-lavar",
+      "word": "tábua de lavar",
+      "en": "tábua de lavar",
+      "ru": [
+        "стиральная доска"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "washboard",
+      "sourceIds": [
+        "washboard"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "escada-de-abrir",
+      "word": "escada de abrir",
+      "en": "escada de abrir",
+      "ru": [
+        "стремянка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stepladder",
+      "sourceIds": [
+        "stepladder"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "de-dois-andares",
+      "word": "de dois andares",
+      "en": "de dois andares",
+      "ru": [
+        "двухэтажный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "two-storey",
+      "sourceIds": [
+        "two-storey"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "guarda-volumes",
+      "word": "guarda-volumes",
+      "en": "guarda-volumes",
+      "ru": [
+        "склад индивидуального хранения"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "self-storage",
+      "sourceIds": [
+        "self-storage"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "moises",
+      "word": "moisés",
+      "en": "moisés",
+      "ru": [
+        "люлька"
+      ],
+      "example": "Então Moisés desceu e avisou o povo.",
+      "level": "B1",
+      "sourceId": "bassinet",
+      "sourceIds": [
+        "bassinet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vao-da-porta",
+      "word": "vão da porta",
+      "en": "vão da porta",
+      "ru": [
+        "дверной проем"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "doorway",
+      "sourceIds": [
+        "doorway"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "inquilino",
+      "word": "inquilino",
+      "en": "inquilino",
+      "ru": [
+        "арендатор"
+      ],
+      "example": "O proprietário aluga a casa a um inquilino ou locatário.",
+      "level": "B1",
+      "sourceId": "tenant",
+      "sourceIds": [
+        "tenant"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dentro-de-casa",
+      "word": "dentro de casa",
+      "en": "dentro de casa",
+      "ru": [
+        "в помещении"
+      ],
+      "example": "Não dê pisadas barulhentas dentro de casa!",
+      "level": "B1",
+      "sourceId": "indoors",
+      "sourceIds": [
+        "indoors"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "trancar",
+      "word": "trancar",
+      "en": "trancar",
+      "ru": [
+        "защелкивать"
+      ],
+      "example": "Por que você não trancou a porta?",
+      "level": "B1",
+      "sourceId": "latch",
+      "sourceIds": [
+        "latch"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bercario",
+      "word": "berçário",
+      "en": "berçário",
+      "ru": [
+        "детская комната",
+        "ясли"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "nursery",
+      "sourceIds": [
+        "nursery"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "mictorio",
+      "word": "mictório",
+      "en": "mictório",
+      "ru": [
+        "писсуар"
+      ],
+      "example": "Mictórios em geral são brancos.",
+      "level": "B1",
+      "sourceId": "urinal",
+      "sourceIds": [
+        "urinal"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "borda",
+      "word": "borda",
+      "en": "borda",
+      "ru": [
+        "выступ",
+        "карниз"
+      ],
+      "example": "Ele encheu a xícara até a borda.",
+      "level": "B1",
+      "sourceId": "ledge",
+      "sourceIds": [
+        "ledge"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "bandeja",
+      "word": "bandeja",
+      "en": "bandeja",
+      "ru": [
+        "поднос"
+      ],
+      "example": "Não há nada de interessante na bandeja.",
+      "level": "B1",
+      "sourceId": "tray",
+      "sourceIds": [
+        "tray"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "caibro",
+      "word": "caibro",
+      "en": "caibro",
+      "ru": [
+        "стропило"
+      ],
+      "example": "Este parafuso deve ser parafusado bem justamente ao caibro.",
+      "level": "B1",
+      "sourceId": "rafter",
+      "sourceIds": [
+        "rafter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "machadinha",
+      "word": "machadinha",
+      "en": "machadinha",
+      "ru": [
+        "топорик"
+      ],
+      "example": "Você pode usar minha machadinha se você quiser.",
+      "level": "B1",
+      "sourceId": "hatchet",
+      "sourceIds": [
+        "hatchet"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "divisor",
+      "word": "divisor",
+      "en": "divisor",
+      "ru": [
+        "разделитель",
+        "перегородка"
+      ],
+      "example": "Você vê um marco divisor?",
+      "level": "B1",
+      "sourceId": "divider",
+      "sourceIds": [
+        "divider"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "condicionador",
+      "word": "condicionador",
+      "en": "condicionador",
+      "ru": [
+        "кондиционер"
+      ],
+      "example": "Você não tem um condicionador de ar?",
+      "level": "B1",
+      "sourceId": "conditioner",
+      "sourceIds": [
+        "conditioner"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "porta-dos-fundos",
+      "word": "porta dos fundos",
+      "en": "porta dos fundos",
+      "ru": [
+        "черный ход"
+      ],
+      "example": "Entramos no quarto pela porta dos fundos.",
+      "level": "B1",
+      "sourceId": "backdoor",
+      "sourceIds": [
+        "backdoor"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "condominio",
+      "word": "condomínio",
+      "en": "condomínio",
+      "ru": [
+        "квартира в кондоминиуме"
+      ],
+      "example": "Você sabia que ele comprou um condomínio?",
+      "level": "B1",
+      "sourceId": "condo",
+      "sourceIds": [
+        "condo"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "servicos-domesticos",
+      "word": "serviços domésticos",
+      "en": "serviços domésticos",
+      "ru": [
+        "ведение домашнего хозяйства"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "housekeeping",
+      "sourceIds": [
+        "housekeeping"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "fachada",
+      "word": "fachada",
+      "en": "fachada",
+      "ru": [
+        "фасад",
+        "лицевая сторона"
+      ],
+      "example": "Isso não irá além de uma fachada.",
+      "level": "B1",
+      "sourceId": "frontage",
+      "sourceIds": [
+        "frontage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "reformar",
+      "word": "reformar",
+      "en": "reformar",
+      "ru": [
+        "перестраивать",
+        "реконструировать"
+      ],
+      "example": "Quero que você reforme a casa.",
+      "level": "B1",
+      "sourceId": "remodel",
+      "sourceIds": [
+        "remodel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rangido",
+      "word": "rangido",
+      "en": "rangido",
+      "ru": [
+        "скрип",
+        "скрипеть"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "creak",
+      "sourceIds": [
+        "creak"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "quintal",
+      "word": "quintal",
+      "en": "quintal",
+      "ru": [
+        "задний двор"
+      ],
+      "example": "Ele vai construir uma casa nesse quintal.",
+      "level": "B1",
+      "sourceId": "backyard",
+      "sourceIds": [
+        "backyard"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casa-para-reformar",
+      "word": "casa para reformar",
+      "en": "casa para reformar",
+      "ru": [
+        "дом, требующий ремонта"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fixer-upper",
+      "sourceIds": [
+        "fixer-upper"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "campainha",
+      "word": "campainha",
+      "en": "campainha",
+      "ru": [
+        "дверной звонок"
+      ],
+      "example": "Foi você quem tocou a campainha?",
+      "level": "B1",
+      "sourceId": "doorbell",
+      "sourceIds": [
+        "doorbell"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dividir-apartamento",
+      "word": "dividir apartamento",
+      "en": "dividir apartamento",
+      "ru": [
+        "совместная аренда квартиры"
+      ],
+      "example": "Ela divide um apartamento com sua irmã.",
+      "level": "B1",
+      "sourceId": "flatshare",
+      "sourceIds": [
+        "flatshare"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "companheiro-de-quarto",
+      "word": "companheiro de quarto",
+      "en": "companheiro de quarto",
+      "ru": [
+        "сосед по квартире"
+      ],
+      "example": "Eu conheço o seu companheiro de quarto.",
+      "level": "B1",
+      "sourceId": "flatmate",
+      "sourceIds": [
+        "flatmate"
+      ],
+      "pos": "n",
+      "gender": "m/f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "senhoria",
+      "word": "senhoria",
+      "en": "senhoria",
+      "ru": [
+        "хозяйка дома",
+        "арендодатель"
+      ],
+      "example": "A Layla era a senhoria do Sami.",
+      "level": "B1",
+      "sourceId": "landlady",
+      "sourceIds": [
+        "landlady"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "governanta",
+      "word": "governanta",
+      "en": "governanta",
+      "ru": [
+        "экономка",
+        "домработница"
+      ],
+      "example": "A governanta interrompeu a conversa.",
+      "level": "B1",
+      "sourceId": "housekeeper",
+      "sourceIds": [
+        "housekeeper"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cabeceira",
+      "word": "cabeceira",
+      "en": "cabeceira",
+      "ru": [
+        "у кровати"
+      ],
+      "example": "Colocaram a luminária na mesa de cabeceira.",
+      "level": "B1",
+      "sourceId": "bedside",
+      "sourceIds": [
+        "bedside"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "claraboia",
+      "word": "claraboia",
+      "en": "claraboia",
+      "ru": [
+        "мансардное окно"
+      ],
+      "example": "Gosto da casa com claraboia no telhado.",
+      "level": "B1",
+      "sourceId": "skylight",
+      "sourceIds": [
+        "skylight"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "terraco",
+      "word": "terraço",
+      "en": "terraço",
+      "ru": [
+        "терраса"
+      ],
+      "example": "A mesa está no centro do terraço.",
+      "level": "B1",
+      "sourceId": "terrace",
+      "sourceIds": [
+        "terrace"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "veneziana",
+      "word": "veneziana",
+      "en": "veneziana",
+      "ru": [
+        "ставня"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shutter",
+      "sourceIds": [
+        "shutter"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "grade",
+      "word": "grade",
+      "en": "grade",
+      "ru": [
+        "решетка",
+        "скрип"
+      ],
+      "example": "Você programa como hobby ou isso faz parte de sua grade?",
+      "level": "B1",
+      "sourceId": "grating",
+      "sourceIds": [
+        "grating"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sala-de-visitas",
+      "word": "sala de visitas",
+      "en": "sala de visitas",
+      "ru": [
+        "гостиная",
+        "салон"
+      ],
+      "example": "Nós temos uma sala de visitas.",
+      "level": "B1",
+      "sourceId": "parlour",
+      "sourceIds": [
+        "parlour"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "prancha",
+      "word": "prancha",
+      "en": "prancha",
+      "ru": [
+        "доска"
+      ],
+      "example": "Onde posso alugar uma prancha de surfe?",
+      "level": "B1",
+      "sourceId": "plank",
+      "sourceIds": [
+        "plank"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "passagem",
+      "word": "passagem",
+      "en": "passagem",
+      "ru": [
+        "проход",
+        "отрывок"
+      ],
+      "example": "Você não comprou as passagens de trem?",
+      "level": "B1",
+      "sourceId": "passage",
+      "sourceIds": [
+        "passage"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cofre",
+      "word": "cofre",
+      "en": "cofre",
+      "ru": [
+        "сейф",
+        "несгораемый ящик"
+      ],
+      "example": "Como você descobriu o segredo do cofre?",
+      "level": "B1",
+      "sourceId": "strongbox",
+      "sourceIds": [
+        "strongbox"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "criado",
+      "word": "criado",
+      "en": "criado",
+      "ru": [
+        "слуга"
+      ],
+      "example": "Você foi criado em Boston?",
+      "level": "B1",
+      "sourceId": "houseboy",
+      "sourceIds": [
+        "houseboy"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aspirador-de-po",
+      "word": "aspirador de pó",
+      "en": "aspirador de pó",
+      "ru": [
+        "пылесос"
+      ],
+      "example": "Este aspirador de pó faz muito barulho.",
+      "level": "B1",
+      "sourceId": "hoover",
+      "sourceIds": [
+        "hoover"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "rebocar",
+      "word": "rebocar",
+      "en": "rebocar",
+      "ru": [
+        "штукатурить",
+        "накладывать гипс"
+      ],
+      "example": "Você pode rebocar meu carro?",
+      "level": "B1",
+      "sourceId": "plaster",
+      "sourceIds": [
+        "plaster"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "beira-da-lareira",
+      "word": "beira da lareira",
+      "en": "beira da lareira",
+      "ru": [
+        "у камина"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fireside",
+      "sourceIds": [
+        "fireside"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "lanterna",
+      "word": "lanterna",
+      "en": "lanterna",
+      "ru": [
+        "фонарь"
+      ],
+      "example": "Você poderia ligar a lanterna?",
+      "level": "B1",
+      "sourceId": "lantern",
+      "sourceIds": [
+        "lantern"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cavilha",
+      "word": "cavilha",
+      "en": "cavilha",
+      "ru": [
+        "дюбель",
+        "шкант"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dowel",
+      "sourceIds": [
+        "dowel"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "cinzel",
+      "word": "cinzel",
+      "en": "cinzel",
+      "ru": [
+        "долото",
+        "стамеска"
+      ],
+      "example": "O Tom estava segurando um martelo e um cinzel.",
+      "level": "B1",
+      "sourceId": "chisel",
+      "sourceIds": [
+        "chisel"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "macaneta",
+      "word": "maçaneta",
+      "en": "maçaneta",
+      "ru": [
+        "ручка",
+        "кнопка"
+      ],
+      "example": "Eu coloquei uma nova maçaneta na porta.",
+      "level": "B1",
+      "sourceId": "knob",
+      "sourceIds": [
+        "knob"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "edredom",
+      "word": "edredom",
+      "en": "edredom",
+      "ru": [
+        "пуховое одеяло"
+      ],
+      "example": "Durmo com dois edredons no inverno.",
+      "level": "B1",
+      "sourceId": "duvet",
+      "sourceIds": [
+        "duvet"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tampa",
+      "word": "tampa",
+      "en": "tampa",
+      "ru": [
+        "крышка",
+        "веко"
+      ],
+      "example": "O Tom não consegue tirar a tampa.",
+      "level": "B1",
+      "sourceId": "lid",
+      "sourceIds": [
+        "lid"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cano-da-estufa",
+      "word": "cano da estufa",
+      "en": "cano da estufa",
+      "ru": [
+        "дымовая труба"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "stovepipe",
+      "sourceIds": [
+        "stovepipe"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "pa",
+      "word": "pá",
+      "en": "pá",
+      "ru": [
+        "лопата"
+      ],
+      "example": "Você tem uma pá para me emprestar?",
+      "level": "B1",
+      "sourceId": "spade",
+      "sourceIds": [
+        "spade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "centro-de-mesa",
+      "word": "centro de mesa",
+      "en": "centro de mesa",
+      "ru": [
+        "центральный элемент"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "centrepiece",
+      "sourceIds": [
+        "centrepiece"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "bancada",
+      "word": "bancada",
+      "en": "bancada",
+      "ru": [
+        "столешница"
+      ],
+      "example": "A bancada é de mármore.",
+      "level": "B1",
+      "sourceId": "worktop",
+      "sourceIds": [
+        "worktop"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "instalacao",
+      "word": "instalação",
+      "en": "instalação",
+      "ru": [
+        "приспособление",
+        "неотъемлемая часть"
+      ],
+      "example": "A instalação do aplicativo pode levar alguns minutos.",
+      "level": "B1",
+      "sourceId": "fixture",
+      "sourceIds": [
+        "fixture"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "cortina",
+      "word": "cortina",
+      "en": "cortina",
+      "ru": [
+        "драпировка",
+        "штора"
+      ],
+      "example": "Eu vou abrir a cortina para você ver.",
+      "level": "B1",
+      "sourceId": "drape",
+      "sourceIds": [
+        "drape"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "casinha-de-passarinho",
+      "word": "casinha de passarinho",
+      "en": "casinha de passarinho",
+      "ru": [
+        "скворечник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "birdhouse",
+      "sourceIds": [
+        "birdhouse"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "ornamento",
+      "word": "ornamento",
+      "en": "ornamento",
+      "ru": [
+        "украшение",
+        "орнамент"
+      ],
+      "example": "De brutas pedras podem-se fazer belos ornamentos.",
+      "level": "B1",
+      "sourceId": "ornament",
+      "sourceIds": [
+        "ornament"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "massa-de-vidraceiro",
+      "word": "massa de vidraceiro",
+      "en": "massa de vidraceiro",
+      "ru": [
+        "шпатлевка",
+        "замазка"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "putty",
+      "sourceIds": [
+        "putty"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "renovar",
+      "word": "renovar",
+      "en": "renovar",
+      "ru": [
+        "ремонтировать",
+        "обновлять"
+      ],
+      "example": "Ele me pediu para renovar o título.",
+      "level": "B1",
+      "sourceId": "renovate",
+      "sourceIds": [
+        "renovate"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "decorador",
+      "word": "decorador",
+      "en": "decorador",
+      "ru": [
+        "декоратор"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "decorator",
+      "sourceIds": [
+        "decorator"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "rejunte",
+      "word": "rejunte",
+      "en": "rejunte",
+      "ru": [
+        "затирка (для швов)"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "grout",
+      "sourceIds": [
+        "grout"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "desparafusar",
+      "word": "desparafusar",
+      "en": "desparafusar",
+      "ru": [
+        "отвинчивать"
+      ],
+      "example": "Preciso de uma faca de ponta fina para desparafusar isto.",
+      "level": "B1",
+      "sourceId": "unscrew",
+      "sourceIds": [
+        "unscrew"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "extintor",
+      "word": "extintor",
+      "en": "extintor",
+      "ru": [
+        "огнетушитель"
+      ],
+      "example": "Cadê o extintor de incêndio do carro?",
+      "level": "B1",
+      "sourceId": "extinguisher",
+      "sourceIds": [
+        "extinguisher"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "aconchego",
+      "word": "aconchego",
+      "en": "aconchego",
+      "ru": [
+        "уют"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "coziness",
+      "sourceIds": [
+        "coziness"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "cristaleira",
+      "word": "cristaleira",
+      "en": "cristaleira",
+      "ru": [
+        "шкаф с выступающей средней частью"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "breakfront",
+      "sourceIds": [
+        "breakfront"
+      ],
+      "pos": "n",
+      "gender": "f"
+    }
+  ]
+}

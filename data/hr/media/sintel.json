@@ -1,0 +1,734 @@
+{
+  "id": "sintel",
+  "title": "Sintel",
+  "paid": true,
+  "blockId": "media",
+  "kind": "movie",
+  "year": 2010,
+  "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/500px-Sintel_poster.jpg",
+  "words": [
+    {
+      "id": "ostrica",
+      "word": "oštrica",
+      "en": "oštrica",
+      "ru": [
+        "клинок",
+        "лезвие"
+      ],
+      "example": "Oštrica moga noža je vrlo oštra.",
+      "level": "B1",
+      "sourceId": "blade",
+      "sourceIds": [
+        "blade"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "mracan",
+      "word": "mračan",
+      "en": "mračan",
+      "ru": [
+        "тёмный",
+        "мрачный",
+        "угрюмый"
+      ],
+      "example": "Mračno je u Tomovu uredu.",
+      "level": "A2",
+      "sourceId": "dark",
+      "sourceIds": [
+        "dark"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "proslost",
+      "word": "prošlost",
+      "en": "prošlost",
+      "ru": [
+        "прошлое"
+      ],
+      "example": "Mi svi imamo veze s prošlošću, budućnošću i naravno sadašnjošću.",
+      "level": "A1",
+      "sourceId": "past",
+      "sourceIds": [
+        "past"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "proliti",
+      "word": "proliti",
+      "en": "proliti",
+      "ru": [
+        "проливать",
+        "лить"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "shed",
+      "sourceIds": [
+        "shed"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "nevin",
+      "word": "nevin",
+      "en": "nevin",
+      "ru": [
+        "невинный",
+        "безвинный",
+        "невиновный"
+      ],
+      "example": "Ona smatra da je on nevin.",
+      "level": "C1",
+      "sourceId": "innocent",
+      "sourceIds": [
+        "innocent"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "krv",
+      "word": "krv",
+      "en": "krv",
+      "ru": [
+        "кровь",
+        "юшка",
+        "род"
+      ],
+      "example": "Gorko za jezik, ali okrijepljujuće za krv.",
+      "level": "A2",
+      "sourceId": "blood",
+      "sourceIds": [
+        "blood"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "budala",
+      "word": "budala",
+      "en": "budala",
+      "ru": [
+        "дурак",
+        "глупец"
+      ],
+      "example": "Ne radi budalu od bijednog.",
+      "level": "B1",
+      "sourceId": "fool",
+      "sourceIds": [
+        "fool"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "putovati",
+      "word": "putovati",
+      "en": "putovati",
+      "ru": [
+        "путешествовать"
+      ],
+      "example": "To putovanje će ostati u lijepom sjećanju.",
+      "level": "A1",
+      "sourceId": "travel",
+      "sourceIds": [
+        "travel"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sam",
+      "word": "sam",
+      "en": "sam",
+      "ru": [
+        "один",
+        "сам",
+        "одинокий"
+      ],
+      "example": "Budući da sam zauzet, ne mogu ići.",
+      "level": "B1",
+      "sourceId": "alone",
+      "sourceIds": [
+        "alone"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potpuno",
+      "word": "potpuno",
+      "en": "potpuno",
+      "ru": [
+        "полностью",
+        "совершенно",
+        "совсем"
+      ],
+      "example": "Jeste li kupili potpuno nov auto?",
+      "level": "B1",
+      "sourceId": "completely",
+      "sourceIds": [
+        "completely"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "nepripremljen",
+      "word": "nepripremljen",
+      "en": "nepripremljen",
+      "ru": [
+        "неподготовленный"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "unprepared",
+      "sourceIds": [
+        "unprepared"
+      ],
+      "pos": "adj"
+    },
+    {
+      "id": "sretan",
+      "word": "sretan",
+      "en": "sretan",
+      "ru": [
+        "везти",
+        "везучий",
+        "счастливиться"
+      ],
+      "example": "Nasuprot tome čovjeku, ona izgleda vrlo sretno.",
+      "level": "B2",
+      "sourceId": "lucky",
+      "sourceIds": [
+        "lucky"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "jos-uvijek",
+      "word": "još uvijek",
+      "en": "još uvijek",
+      "ru": [
+        "всё ещё",
+        "тем не менее"
+      ],
+      "example": "Ako već znaš, zašto još uvijek pitaš?",
+      "level": "A1",
+      "sourceId": "still",
+      "sourceIds": [
+        "still"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "tok",
+      "word": "tok",
+      "en": "tok",
+      "ru": [
+        "вовлечённость",
+        "поток",
+        "прилив"
+      ],
+      "example": "",
+      "level": "A2",
+      "sourceId": "flow",
+      "sourceIds": [
+        "flow"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "zahvaliti",
+      "word": "zahvaliti",
+      "en": "zahvaliti",
+      "ru": [
+        "благодарить",
+        "поблагодарить"
+      ],
+      "example": "Neka ti zahvali.",
+      "level": "A2",
+      "sourceId": "thank",
+      "sourceIds": [
+        "thank"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "donijeti",
+      "word": "donijeti",
+      "en": "donijeti",
+      "ru": [
+        "приносить"
+      ],
+      "example": "Donesi mi ocat i ulje, molim lijepo.",
+      "level": "A2",
+      "sourceId": "bring",
+      "sourceIds": [
+        "bring"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zemlja",
+      "word": "zemlja",
+      "en": "zemlja",
+      "ru": [
+        "земля",
+        "земли",
+        "суша"
+      ],
+      "example": "Hrvatska je zemlja u jugoistočnom dijelu Europe.",
+      "level": "A1",
+      "sourceId": "land",
+      "sourceIds": [
+        "land"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vratar",
+      "word": "vratar",
+      "en": "vratar",
+      "ru": [
+        "страж",
+        "привратник"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "gatekeeper",
+      "sourceIds": [
+        "gatekeeper"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "potraziti",
+      "word": "potražiti",
+      "en": "potražiti",
+      "ru": [
+        "искать"
+      ],
+      "example": "Moram ju potražiti.",
+      "level": "A1",
+      "sourceId": "search",
+      "sourceIds": [
+        "search"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "netko",
+      "word": "netko",
+      "en": "netko",
+      "ru": [
+        "кто-то",
+        "кое-кто",
+        "кто-нибудь"
+      ],
+      "example": "Ne dopušta da mu se netko približi.",
+      "level": "A2",
+      "sourceId": "someone",
+      "sourceIds": [
+        "someone"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "drag",
+      "word": "drag",
+      "en": "drag",
+      "ru": [
+        "дорогой",
+        "любимый",
+        "милый"
+      ],
+      "example": "Draže mi je biti siromašan nego bogat.",
+      "level": "B1",
+      "sourceId": "dear",
+      "sourceIds": [
+        "dear"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "blizak",
+      "word": "blizak",
+      "en": "blizak",
+      "ru": [
+        "родственный",
+        "близкий"
+      ],
+      "example": "Bliži se veliki tajfun.",
+      "level": "B1",
+      "sourceId": "kindred",
+      "sourceIds": [
+        "kindred"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "duh",
+      "word": "duh",
+      "en": "duh",
+      "ru": [
+        "дух",
+        "душа",
+        "привидение"
+      ],
+      "example": "Trebaš obogatiti svoj duh dok si mlad.",
+      "level": "B1",
+      "sourceId": "spirit",
+      "sourceIds": [
+        "spirit"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "zmaj",
+      "word": "zmaj",
+      "en": "zmaj",
+      "ru": [
+        "дракон"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "dragon",
+      "sourceIds": [
+        "dragon"
+      ],
+      "pos": "n",
+      "gender": "m"
+    },
+    {
+      "id": "opasan",
+      "word": "opasan",
+      "en": "opasan",
+      "ru": [
+        "опасный",
+        "рискованный"
+      ],
+      "example": "Za djecu je opasno igrati se na ulici.",
+      "level": "B2",
+      "sourceId": "dangerous",
+      "sourceIds": [
+        "dangerous"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "potraga",
+      "word": "potraga",
+      "en": "potraga",
+      "ru": [
+        "квест",
+        "поиски"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "quest",
+      "sourceIds": [
+        "quest"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "usamljen",
+      "word": "usamljen",
+      "en": "usamljen",
+      "ru": [
+        "одинокий"
+      ],
+      "example": "On je usamljen čovjek, nema puno prijatelja.",
+      "level": "B1",
+      "sourceId": "lone",
+      "sourceIds": [
+        "lone"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "lovac",
+      "word": "lovac",
+      "en": "lovac",
+      "ru": [
+        "охотник",
+        "ловец",
+        "охотничья собака"
+      ],
+      "example": "Mnogim se učenicima nije svidjelo djelo \"Lovac u žitu\".",
+      "level": "B1",
+      "sourceId": "hunter",
+      "sourceIds": [
+        "hunter"
+      ],
+      "pos": "n",
+      "gender": "m",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dug",
+      "word": "dug",
+      "en": "dug",
+      "ru": [
+        "длинный",
+        "долгий",
+        "далеко"
+      ],
+      "example": "Dugo je govorila o svojim inozemnim iskustvima.",
+      "level": "A1",
+      "sourceId": "long",
+      "sourceIds": [
+        "long"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sjecati-se",
+      "word": "sjećati se",
+      "en": "sjećati se",
+      "ru": [
+        "помнить"
+      ],
+      "example": "Sjećam se da sam ga vidio prije.",
+      "level": "A2",
+      "sourceId": "remember",
+      "sourceIds": [
+        "remember"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "skoro",
+      "word": "skoro",
+      "en": "skoro",
+      "ru": [
+        "почти",
+        "практически"
+      ],
+      "example": "Mariji je skoro rođendan, ispeći ću joj tortu.",
+      "level": "A2",
+      "sourceId": "almost",
+      "sourceIds": [
+        "almost"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "hej",
+      "word": "hej",
+      "en": "hej",
+      "ru": [
+        "эй",
+        "э"
+      ],
+      "example": "Hej, čekajte me.",
+      "level": "B1",
+      "sourceId": "hey",
+      "sourceIds": [
+        "hey"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "sjediti",
+      "word": "sjediti",
+      "en": "sjediti",
+      "ru": [
+        "сидеть"
+      ],
+      "example": "Je li ovo mjesto gdje Tom sjedi?",
+      "level": "B1",
+      "sourceId": "sit",
+      "sourceIds": [
+        "sit"
+      ],
+      "pos": "v",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "dobar",
+      "word": "dobar",
+      "en": "dobar",
+      "ru": [
+        "добрый",
+        "хороший",
+        "искусный"
+      ],
+      "example": "Dobro sam se pripremio za taj test.",
+      "level": "A1",
+      "sourceId": "good",
+      "sourceIds": [
+        "good"
+      ],
+      "pos": "adj",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "noc",
+      "word": "noć",
+      "en": "noć",
+      "ru": [
+        "ночь",
+        "вечер",
+        "ночёвка"
+      ],
+      "example": "Ostao je budan cijelu noć čitajući roman.",
+      "level": "A1",
+      "sourceId": "night",
+      "sourceIds": [
+        "night"
+      ],
+      "pos": "n",
+      "gender": "f",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "vaga",
+      "word": "vaga",
+      "en": "vaga",
+      "ru": [
+        "весы"
+      ],
+      "example": "",
+      "level": "B2",
+      "sourceId": "scales",
+      "sourceIds": [
+        "scales"
+      ],
+      "pos": "n",
+      "gender": "f"
+    },
+    {
+      "id": "njega",
+      "word": "njega",
+      "en": "njega",
+      "ru": [
+        "его",
+        "ему"
+      ],
+      "example": "Njega su pokopali u njegovom rodnom gradu.",
+      "level": "A1",
+      "sourceId": "him",
+      "sourceIds": [
+        "him"
+      ],
+      "pos": "pronoun",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "da",
+      "word": "da",
+      "en": "da",
+      "ru": [
+        "да!",
+        "е!",
+        "ура!"
+      ],
+      "example": "Bi li volio da pogledam tvoju kuću?",
+      "level": "B1",
+      "sourceId": "yeah",
+      "sourceIds": [
+        "yeah"
+      ],
+      "pos": "interjection",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    },
+    {
+      "id": "ne-uspjeti",
+      "word": "ne uspjeti",
+      "en": "ne uspjeti",
+      "ru": [
+        "не удаться",
+        "не удаваться",
+        "потерпеть неудачу"
+      ],
+      "example": "",
+      "level": "B1",
+      "sourceId": "fail",
+      "sourceIds": [
+        "fail"
+      ],
+      "pos": "v"
+    },
+    {
+      "id": "blize",
+      "word": "bliže",
+      "en": "bliže",
+      "ru": [
+        "ближе"
+      ],
+      "example": "On dolazi bliže.",
+      "level": "B2",
+      "sourceId": "closer",
+      "sourceIds": [
+        "closer"
+      ],
+      "pos": "adv",
+      "exampleTranslated": false,
+      "exampleSource": "tatoeba.org (CC-BY 2.0 FR)"
+    }
+  ]
+}
