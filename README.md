@@ -1,15 +1,17 @@
 # English Words — Telegram Mini App
 
-Тематические словари английского: обучение, пары и тест внутри Telegram. Первая тема бесплатная, остальные открываются покупкой цифрового товара [Tribute](https://wiki.tribute.tg/ru/for-content-creators/digital-product/api-integration).
+Multilingual Telegram Mini App for learning vocabulary in several target languages. The interface and hints are in Russian. Practice uses themes and films, plus a pet and subscriptions.
 
-Локально Mini App открывается в браузере с тестовым пользователем. Словарь живёт в RAM процесса, прогресс и питомец — в PostgreSQL (сброс Mini App питомца не стирает).
-
-## Что внутри
+## What's inside
 
 - Mini App: React + Vite (`packages/web`)
-- API + бот: Hono + grammY (`packages/api`)
-- Словарь: `data/themes/*.json`
+- API and bot: Hono + grammY (`packages/api`)
+- Dictionaries: `data/themes/*.json`
 - Docker Compose: API, Postgres, Prometheus, Cloudflare Tunnel
+
+Secrets and live service settings belong in `.env` (start from `.env.example`). `.env` is gitignored and is not committed.
+
+Локально Mini App открывается в браузере с тестовым пользователем. Словарь живёт в RAM процесса, прогресс и питомец — в PostgreSQL (сброс Mini App питомца не стирает).
 
 ## Быстрый старт (Docker)
 
