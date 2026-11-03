@@ -1,4 +1,4 @@
-# English Words — Telegram Mini App
+# Moti — an app for vocabulary practice
 
 Multilingual Telegram Mini App for learning vocabulary in several target languages. The interface and hints are in Russian. Practice uses themes and films, plus a pet and subscriptions.
 
